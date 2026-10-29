@@ -1,0 +1,83 @@
+[
+ {
+  "ad": "Boztepe",
+  "ilce": "Altınordu",
+  "tur": "Doğa",
+  "simge": "🌄",
+  "ucretsiz": true,
+  "vikipedi": "Boztepe, Altınordu",
+  "aciklama": "Şehrin ve Karadeniz'in en güzel manzarasını sunan tepe; teleferikle ya da yürüyerek çıkılır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Boztepe%2C_Alt%C4%B1nordu",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Boztepe_1.jpg/330px-Boztepe_1.jpg"
+ },
+ {
+  "ad": "Ordu Etnografya Müzesi (Paşaoğlu Konağı)",
+  "ilce": "Altınordu",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Ordu Etnografya Müzesi",
+  "aciklama": "Tarihi bir konakta Ordu'nun gündelik yaşamını, el sanatlarını ve giysilerini anlatan müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ordu_Etnografya_M%C3%BCzesi"
+ },
+ {
+  "ad": "Ünye Kalesi",
+  "ilce": "Ünye",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Ünye Kalesi",
+  "aciklama": "Ünye'nin eski tarihine tanıklık eden, deniz kıyısına yakın kale kalıntısı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%9Cnye_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/%C3%9Cnye_Burg.JPG/330px-%C3%9Cnye_Burg.JPG"
+ },
+ {
+  "ad": "Ünye Müzesi",
+  "ilce": "Ünye",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Ünye Müzesi",
+  "aciklama": "İlçenin tarihini ve yakın çevredeki mağara buluntularını tanıtan müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%9Cnye_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%C3%9Cnye_Museum_I.jpg/330px-%C3%9Cnye_Museum_I.jpg"
+ },
+ {
+  "ad": "Yason Burnu",
+  "ilce": "Perşembe",
+  "tur": "Doğa",
+  "simge": "⛵",
+  "ucretsiz": true,
+  "vikipedi": "Yason Burnu",
+  "aciklama": "Deniz fenerine ve küçük kiliseye ev sahipliği yapan, mitolojiyle de anılan sakin bir burun.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Yason_Burnu",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Yason_%28Jason%29_Ordu%2C_T%C3%BCrkiye.jpg/330px-Yason_%28Jason%29_Ordu%2C_T%C3%BCrkiye.jpg"
+ },
+ {
+  "ad": "Tozkoparan Mağarası",
+  "ilce": "Ünye",
+  "tur": "Doğa",
+  "simge": "🕳️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Ünye yakınlarındaki tarih öncesi yerleşim izleri taşıyan mağara."
+ },
+ {
+  "ad": "Perşembe Yaylası",
+  "ilce": "Perşembe",
+  "tur": "Doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Yaz aylarında yayla evleri, ormanları ve serin havasıyla dinlenmek için tercih edilen yer."
+ },
+ {
+  "ad": "Ordu Sahil Yolu ve Sahili",
+  "ilce": "Altınordu",
+  "tur": "Park",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Deniz kenarında yürüyüş ve bisiklet için kullanılan uzun sahil şeridi."
+ }
+]

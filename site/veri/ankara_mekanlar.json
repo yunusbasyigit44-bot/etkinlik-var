@@ -1,0 +1,120 @@
+[
+ {
+  "ad": "Anıtkabir",
+  "ilce": "Çankaya",
+  "tur": "Anıt / müze",
+  "simge": "🇹🇷",
+  "ucretsiz": true,
+  "vikipedi": "Anıtkabir",
+  "aciklama": "Atatürk'ün anıt mezarı ve müzesi; nöbet değişimi töreni ve geniş bahçeleriyle başkentin en önemli ziyaret yeri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/An%C4%B1tkabir",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/330px-Ataturk%27s_Mausoleum_%286225341313%29.jpg"
+ },
+ {
+  "ad": "Anadolu Medeniyetleri Müzesi",
+  "ilce": "Altındağ",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Eski bir bedesten ve handa Hitit, Frig ve Urartu eserlerini sergileyen, dünyaca ünlü müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Anadolu_Medeniyetleri_M%C3%BCzesi"
+ },
+ {
+  "ad": "Ankara Kalesi",
+  "ilce": "Altındağ",
+  "tur": "Kale / tarihi mahalle",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Ankara Kalesi",
+  "aciklama": "Eski şehrin tepesinde dar sokakları, kafeleri ve el sanatları dükkânlarıyla gezmeye değer kale.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ankara_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ankara_Castle.jpg/330px-Ankara_Castle.jpg"
+ },
+ {
+  "ad": "Kocatepe Camii",
+  "ilce": "Çankaya",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Kocatepe Camii",
+  "aciklama": "Kızılay yakınında, dört minaresi ve büyük kubbesiyle kentin silüetini belirleyen cami.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kocatepe_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Ankara_asv2021-10_img40_Kocatepe_Mosque.jpg/330px-Ankara_asv2021-10_img40_Kocatepe_Mosque.jpg"
+ },
+ {
+  "ad": "Hacı Bayram-ı Veli Camii",
+  "ilce": "Altındağ",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Hacı Bayram Camii",
+  "aciklama": "Ulus'ta Augustus Tapınağı'nın yanında duran, Ankara'nın en eski ve en çok ziyaret edilen camilerinden biri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Hac%C4%B1_Bayram_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Haci_Bayram_Mosque_02.jpg/330px-Haci_Bayram_Mosque_02.jpg"
+ },
+ {
+  "ad": "Gençlik Parkı",
+  "ilce": "Altındağ",
+  "tur": "Park",
+  "simge": "🌳",
+  "ucretsiz": true,
+  "vikipedi": "Gençlik Parkı",
+  "aciklama": "Havuzu, lunaparkı ve yürüyüş yollarıyla şehrin ortasında bir nefes alma noktası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Gen%C3%A7lik_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Ankara_asv2021-10_img57_Gen%C3%A7lik_Park.jpg/330px-Ankara_asv2021-10_img57_Gen%C3%A7lik_Park.jpg"
+ },
+ {
+  "ad": "Atakule",
+  "ilce": "Çankaya",
+  "tur": "Kule / manzara",
+  "simge": "🗼",
+  "ucretsiz": false,
+  "vikipedi": "Atakule",
+  "aciklama": "Çankaya'da seyir terasıyla tüm Ankara'yı yukarıdan gösteren kule.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Atakule",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Ankara_asv2021-10_img16_Atakule.jpg/330px-Ankara_asv2021-10_img16_Atakule.jpg"
+ },
+ {
+  "ad": "Rahmi M. Koç Müzesi",
+  "ilce": "Altındağ",
+  "tur": "Müze",
+  "simge": "⚙️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Sanayi ve ulaşım tarihine ait nesneleri sergileyen, çocuklarla gezmek için de güzel bir müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Rahmi_M._Ko%C3%A7_M%C3%BCzesi"
+ },
+ {
+  "ad": "Atatürk Orman Çiftliği",
+  "ilce": "Yenimahalle",
+  "tur": "Park / hayvanat bahçesi",
+  "simge": "🌿",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Geniş yeşil alanları, hayvanat bahçesi ve tarihî yapılarıyla kent içi bir piknik ve yürüyüş alanı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Atat%C3%BCrk_Orman_%C3%87iftli%C4%9Fi"
+ },
+ {
+  "ad": "Mogan Gölü",
+  "ilce": "Gölbaşı",
+  "tur": "Doğa / göl",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": "Mogan Gölü",
+  "aciklama": "Şehir merkezine yakın, kuş gözlemi ve hafta sonu gezisi için sevilen göl.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Mogan_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Ozero_Mogan.jpeg/330px-Ozero_Mogan.jpeg"
+ },
+ {
+  "ad": "Beypazarı",
+  "ilce": "Beypazarı",
+  "tur": "Tarihi kasaba",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": "Beypazarı",
+  "aciklama": "Restore edilmiş Osmanlı evleri, havucu ve cevizli lokumuyla ünlü sevimli kasaba.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Beypazar%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/3X0A6495_Beypazar%C4%B1.jpg/330px-3X0A6495_Beypazar%C4%B1.jpg"
+ }
+]

@@ -1,0 +1,102 @@
+{
+ "il": "yalova",
+ "guncelleme": "2026-10-29T16:46+03:00",
+ "ilceler": [
+  "Merkez",
+  "Altınova",
+  "Armutlu",
+  "Çiftlikköy",
+  "Çınarcık",
+  "Termal"
+ ],
+ "etkinlikler": [
+  {
+   "id": "f279769be6b3",
+   "baslik": "İklimin İzinde Görsel Anlatılarla Sürdürülebilirlik",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "Yalova Ticaret ve Sanayi Odası",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": "Sergi",
+   "kaynak_ad": "Yalova Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.yalova.edu.tr/Page/Etkinlik/iklimin-izinde-gorsel-anlatilarla-surdurulebilirlik",
+   "gorsel": "https://www.yalova.edu.tr/Uploads/www/Etkinlikler/Kucuk/1.jpeg"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Yalova Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.yalova.edu.tr/tr/Etkinlik",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yalova Belediyesi",
+   "tur": "belediye",
+   "url": "https://etkinlik.yalova.bel.tr/",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Yalova Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.yalova.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Yalova İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://yalova.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Yıllık festivaller (Armutlu, Çınarcık şenlikleri…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/yalova",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "Çınarcık, Armutlu, Altınova, Çiftlikköy, Termal belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor (sonraki tur)"
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+[
+ {
+  "ad": "Taşköprü",
+  "ilce": "Seyhan",
+  "tur": "Tarihi yer",
+  "simge": "🌉",
+  "ucretsiz": true,
+  "aciklama": "Seyhan Nehri üzerindeki Roma döneminden kalma, dünyanın hâlâ ayakta olan en eski köprülerinden biri. Akşamüstü yürüyüş için ideal.",
+  "vikipedi": "Taşköprü (Adana)",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ta%C5%9Fk%C3%B6pr%C3%BC_(Adana)",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Ta%C5%9Fk%C3%B6pr%C3%BC%27n%C3%BCn_Panoramik_Foto%C4%9Fraf%C4%B1.jpg/330px-Ta%C5%9Fk%C3%B6pr%C3%BC%27n%C3%BCn_Panoramik_Foto%C4%9Fraf%C4%B1.jpg"
+ },
+ {
+  "ad": "Merkez Park",
+  "ilce": "Seyhan",
+  "tur": "Park",
+  "simge": "🌳",
+  "ucretsiz": true,
+  "aciklama": "Seyhan Nehri kıyısında şehrin en büyük parkı; yürüyüş ve bisiklet yolları, çocuk oyun alanları, piknik alanları.",
+  "vikipedi": "Merkez Park, Adana"
+ },
+ {
+  "ad": "Sabancı Merkez Camii",
+  "ilce": "Seyhan",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "aciklama": "Seyhan kıyısındaki büyük cami ve çevresindeki meydan; Taşköprü ve Merkez Park ile aynı yürüyüş rotasında.",
+  "vikipedi": "Sabancı Merkez Camii",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sabanc%C4%B1_Merkez_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Sabancimosque19082006.jpg/330px-Sabancimosque19082006.jpg"
+ },
+ {
+  "ad": "Adana Müze Kompleksi",
+  "ilce": "Seyhan",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "aciklama": "Eski tekstil fabrikasından dönüştürülmüş büyük müze kompleksi; arkeoloji ve mozaik koleksiyonları. Müze Kart geçerli.",
+  "vikipedi": "Adana Müze Kompleksi",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Adana_M%C3%BCze_Kompleksi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Adana_Museum_Complex_entrance.png/330px-Adana_Museum_Complex_entrance.png"
+ },
+ {
+  "ad": "Büyük Saat ve Kazancılar Çarşısı",
+  "ilce": "Seyhan",
+  "tur": "Tarihi çarşı",
+  "simge": "🕰️",
+  "ucretsiz": true,
+  "aciklama": "Adana'nın simgesi saat kulesi ve çevresindeki tarihi çarşılar; kebapçılar ve eski Adana sokakları.",
+  "vikipedi": "Büyük Saat",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Saat",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/B%C3%BCy%C3%BCk_Saat_close-up.jpg/330px-B%C3%BCy%C3%BCk_Saat_close-up.jpg"
+ },
+ {
+  "ad": "Seyhan Baraj Gölü kıyısı",
+  "ilce": "Çukurova",
+  "tur": "Doğa / yürüyüş",
+  "simge": "🌅",
+  "ucretsiz": true,
+  "aciklama": "Baraj gölü kenarındaki yürüyüş yolları ve kafeler; gün batımı manzarasıyla bilinir.",
+  "vikipedi": "Seyhan Barajı ve Hidroelektrik Santrali",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Seyhan_Baraj%C4%B1_ve_Hidroelektrik_Santrali",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Seyhan_Dam_Lake_-_Seyhan_Baraj_G%C3%B6l%C3%BC_2.JPG/330px-Seyhan_Dam_Lake_-_Seyhan_Baraj_G%C3%B6l%C3%BC_2.JPG"
+ },
+ {
+  "ad": "Varda Köprüsü",
+  "ilce": "Karaisalı",
+  "tur": "Tarihi yer / doğa",
+  "simge": "🚂",
+  "ucretsiz": true,
+  "aciklama": "Hacıkırı'ndaki tarihi demiryolu köprüsü; kanyon manzarası ve fotoğraf için popüler bir günübirlik rota.",
+  "vikipedi": "Varda Köprüsü",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Varda_K%C3%B6pr%C3%BCs%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Varda_Viaduct%2C_Karaisal%C4%B1_04.jpg/330px-Varda_Viaduct%2C_Karaisal%C4%B1_04.jpg"
+ },
+ {
+  "ad": "Kapıkaya Kanyonu",
+  "ilce": "Karaisalı",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "aciklama": "Yaz aylarında serinlemek ve doğa yürüyüşü için tercih edilen kanyon. Su seviyesine ve hava durumuna dikkat edin.",
+  "vikipedi": "Kapıkaya Kanyonu",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kap%C4%B1kaya_Kanyonu",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Canyon_Kap%C4%B1kaya%2C_Adana_01.jpg/330px-Canyon_Kap%C4%B1kaya%2C_Adana_01.jpg"
+ },
+ {
+  "ad": "Yılankale",
+  "ilce": "Ceyhan",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "aciklama": "Ceyhan Ovası'na bakan Ortaçağ kalesi; tırmanış kısa ama manzara geniş.",
+  "vikipedi": "Yılankale",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Y%C4%B1lankale",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Yilankale2.jpg/330px-Yilankale2.jpg"
+ },
+ {
+  "ad": "Anavarza Antik Kenti",
+  "ilce": "Kozan",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": true,
+  "aciklama": "Kayalık bir tepenin eteğinde Roma ve Bizans dönemi kalıntıları, zafer takı ve mozaikler.",
+  "vikipedi": "Anavarza",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Anavarza",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Anavarza_castle_2783.jpg/330px-Anavarza_castle_2783.jpg"
+ },
+ {
+  "ad": "Kozan Kalesi",
+  "ilce": "Kozan",
+  "tur": "Tarihi yer",
+  "simge": "🏯",
+  "ucretsiz": true,
+  "aciklama": "Kozan şehrine yukarıdan bakan büyük Ortaçağ kalesi.",
+  "vikipedi": "Kozan Kalesi",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kozan_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kozan_Kalesi_02.JPG/330px-Kozan_Kalesi_02.JPG"
+ },
+ {
+  "ad": "Yumurtalık sahili",
+  "ilce": "Yumurtalık",
+  "tur": "Deniz / plaj",
+  "simge": "🏖️",
+  "ucretsiz": true,
+  "aciklama": "Adana merkeze yakın sakin sahil kasabası; Ayas antik kalıntıları ve deniz kıyısında yürüyüş.",
+  "vikipedi": "Yumurtalık, Adana",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Yumurtal%C4%B1k%2C_Adana",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Yumurtal%C4%B1k_%28Ayas%29_Beach.jpg/330px-Yumurtal%C4%B1k_%28Ayas%29_Beach.jpg"
+ },
+ {
+  "ad": "Karataş sahili",
+  "ilce": "Karataş",
+  "tur": "Deniz / plaj",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "aciklama": "Uzun kumsallar ve balıkçı limanı; yaz aylarında Adanalıların kaçış noktası.",
+  "vikipedi": "Karataş, Adana",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Karata%C5%9F%2C_Adana",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Port_of_Karata%C5%9F_03.jpg/330px-Port_of_Karata%C5%9F_03.jpg"
+ },
+ {
+  "ad": "Adana Halk Kütüphanesi",
+  "ilce": "Seyhan",
+  "tur": "Kütüphane",
+  "simge": "📚",
+  "ucretsiz": true,
+  "aciklama": "Ders çalışmak, okumak ve çocuk bölümü için ücretsiz; zaman zaman söyleşi ve atölyeler düzenlenir.",
+  "vikipedi": "Adana Halk Kütüphanesi"
+ }
+]

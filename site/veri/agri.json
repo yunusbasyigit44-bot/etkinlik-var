@@ -1,0 +1,87 @@
+{
+ "il": "agri",
+ "guncelleme": "2026-10-29T16:38+03:00",
+ "ilceler": [
+  "Merkez",
+  "Diyadin",
+  "Doğubayazıt",
+  "Eleşkirt",
+  "Hamur",
+  "Patnos",
+  "Taşlıçay",
+  "Tutak"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "8 ilçe kaymakamlığı ve belediyeleri (Doğubayazıt, Patnos…)",
+   "tur": "kaymakamlik",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Ağrı Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.agri.bel.tr/etkinlikler/",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi boş (kayıtlı içerik yok)"
+  },
+  {
+   "ad": "Ağrı Valiliği",
+   "tur": "valilik",
+   "url": "https://www.agri.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Ağrı İbrahim Çeçen Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.agri.edu.tr/haberduyuru.aspx?bid=1&tid=3",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Ağrı İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://agri.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Doğubayazıt Ahmed-i Hânî anma etkinlikleri, Ağrı Dağı tırmanışları",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî program henüz yayımlanmamış"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/agri",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

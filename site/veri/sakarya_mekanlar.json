@@ -1,0 +1,82 @@
+[
+ {
+  "ad": "Sapanca Gölü",
+  "ilce": "Sapanca",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": "Sapanca Gölü",
+  "aciklama": "İstanbul ve Kocaeli'ye yakın, çevresinde yürüyüş yolları ve kafeler olan tatlı su gölü.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sapanca_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/TR_Sakarya_asv2021-10_img01_Lake_Sapanca_airview.jpg/330px-TR_Sakarya_asv2021-10_img01_Lake_Sapanca_airview.jpg"
+ },
+ {
+  "ad": "Acarlar Longozu",
+  "ilce": "Karasu",
+  "tur": "Doğa",
+  "simge": "🌿",
+  "ucretsiz": true,
+  "vikipedi": "Acarlar Longozu",
+  "aciklama": "Sazlık, ağaç ve su yollarından oluşan, kuş gözlemi için güzel ormanlık sulak alan.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Acarlar_Longozu",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Acarlar_longozu_temmuz2016.jpg/330px-Acarlar_longozu_temmuz2016.jpg"
+ },
+ {
+  "ad": "Taraklı Tarihi Evleri",
+  "ilce": "Taraklı",
+  "tur": "Tarihi yer",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Osmanlı dönemi ahşap evleriyle ünlü, sokakları gezmeye değer küçük ilçe."
+ },
+ {
+  "ad": "Sakarya Nehri",
+  "ilce": "Adapazarı",
+  "tur": "Doğa",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": "Sakarya Nehri",
+  "aciklama": "Türkiye'nin uzun nehirlerinden biri; kıyısında yürüyüş ve spor için düzenlenmiş alanlar var.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sakarya_Nehri",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Sakarya_nehri.jpg/330px-Sakarya_nehri.jpg"
+ },
+ {
+  "ad": "Karasu Plajı",
+  "ilce": "Karasu",
+  "tur": "Plaj",
+  "simge": "🏖️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Karadeniz kıyısında geniş kumsalı ve yaz aylarında canlı sahil hayatıyla bilinen plaj."
+ },
+ {
+  "ad": "Kocaali Sahili",
+  "ilce": "Kocaali",
+  "tur": "Plaj",
+  "simge": "🌅",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Sakin ve doğal yapısıyla öne çıkan Karadeniz sahili."
+ },
+ {
+  "ad": "Sakarya Müzesi",
+  "ilce": "Adapazarı",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Sakarya Müzesi",
+  "aciklama": "Bölgenin tarihi eserlerini ve kültürünü bir araya getiren müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sakarya_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/TR_Sakarya_asv2021-10_img13_Local_museum.jpg/330px-TR_Sakarya_asv2021-10_img13_Local_museum.jpg"
+ },
+ {
+  "ad": "Sapanca Göl Kıyısı Yürüyüş Yolu",
+  "ilce": "Sapanca",
+  "tur": "Park",
+  "simge": "🚶",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Göl kenarında yürüyüş ve bisiklet için uygun, manzaralı bir sahil şeridi."
+ }
+]

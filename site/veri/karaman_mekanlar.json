@@ -1,0 +1,77 @@
+[
+ {
+  "ad": "Karaman Kalesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Karaman Kalesi",
+  "aciklama": "Şehrin merkezindeki tarihi kale; Karamanoğulları döneminin simgelerinden.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Karaman_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Karaman_4862.jpg/330px-Karaman_4862.jpg"
+ },
+ {
+  "ad": "Karaman Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Karaman Müzesi",
+  "aciklama": "Bölgenin arkeolojik ve etnografik eserlerini sergileyen il müzesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Karaman_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Karaman_M%C3%BCze_02.jpg/330px-Karaman_M%C3%BCze_02.jpg"
+ },
+ {
+  "ad": "Yunus Emre Türbesi ve Külliyesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Yunus Emre",
+  "aciklama": "Büyük halk ozanı Yunus Emre adına anılan türbe ve çevresi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Yunus_Emre",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Karaman_Yunus_Emre_monument_4725.jpg/330px-Karaman_Yunus_Emre_monument_4725.jpg"
+ },
+ {
+  "ad": "Hatuniye Medresesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": "Hatuniye Medresesi",
+  "aciklama": "Karamanoğulları döneminden kalma süslü taç kapısıyla bilinen medrese."
+ },
+ {
+  "ad": "Binbirkilise (Madenşehir)",
+  "ilce": "Merkez",
+  "tur": "Tarihi alan",
+  "simge": "⛪",
+  "ucretsiz": true,
+  "vikipedi": "Binbirkilise",
+  "aciklama": "Karadağ eteklerinde Bizans döneminden kalma çok sayıda kilise kalıntısı bulunan geniş bir alan.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Binbirkilise",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Binbirkilise6.jpg/330px-Binbirkilise6.jpg"
+ },
+ {
+  "ad": "Ermenek Barajı ve Kanyonu",
+  "ilce": "Ermenek",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": "Ermenek Barajı ve Hidroelektrik Santrali",
+  "aciklama": "Derin vadiler arasında kurulmuş, manzarasıyla bilinen baraj ve çevresi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ermenek_Baraj%C4%B1_ve_Hidroelektrik_Santrali",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Ermenek_%2B_Ermenek_Baraj%C4%B1_%28Stausee%29_Blick_nach_S%C3%BCd.jpg/330px-Ermenek_%2B_Ermenek_Baraj%C4%B1_%28Stausee%29_Blick_nach_S%C3%BCd.jpg"
+ },
+ {
+  "ad": "Aktekke Camii",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Aktekke Camii",
+  "aciklama": "Karamanoğulları döneminden kalma, Karaman'ın tarihi yapılarından biri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Aktekke_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Karaman_4776.jpg/330px-Karaman_4776.jpg"
+ }
+]

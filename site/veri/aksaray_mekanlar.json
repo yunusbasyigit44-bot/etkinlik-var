@@ -1,0 +1,85 @@
+[
+ {
+  "ad": "Ihlara Vadisi",
+  "ilce": "Güzelyurt",
+  "tur": "Doğa / tarihi",
+  "simge": "🏞️",
+  "ucretsiz": false,
+  "vikipedi": "Ihlara, Güzelyurt",
+  "aciklama": "Melendiz Çayı boyunca uzanan kanyonda kayalara oyulmuş kiliseler ve yürüyüş yolu bulunur.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ihlara%2C_G%C3%BCzelyurt",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ihlara_-_25936870521.jpg/330px-Ihlara_-_25936870521.jpg"
+ },
+ {
+  "ad": "Hasan Dağı",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Orta Anadolu'nun sönmüş yanardağlarından; tırmanış ve manzara için bilinir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Hasanda%C4%9F%C4%B1"
+ },
+ {
+  "ad": "Sultanhanı Kervansarayı",
+  "ilce": "Sultanhanı",
+  "tur": "Tarihi yer",
+  "simge": "🐪",
+  "ucretsiz": false,
+  "vikipedi": "Sultanhanı, Aksaray",
+  "aciklama": "Selçuklu döneminin en büyük kervansaraylarından biri; taç kapısı süslemeleriyle ünlüdür.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sultanhan%C4%B1%2C_Aksaray",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Turkey.Aksaray014.jpg/330px-Turkey.Aksaray014.jpg"
+ },
+ {
+  "ad": "Eğri Minare (Aksaray Ulu Camii)",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Eğri Minare",
+  "aciklama": "Eğikliğiyle şehrin simgesi olmuş tarihi minare.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/E%C4%9Fri_Minare",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Aksaray_Leaning_Minaret_3114.jpg/330px-Aksaray_Leaning_Minaret_3114.jpg"
+ },
+ {
+  "ad": "Narlıgöl",
+  "ilce": "Güzelyurt",
+  "tur": "Doğa",
+  "simge": "🌋",
+  "ucretsiz": true,
+  "vikipedi": "Narlıgöl",
+  "aciklama": "Volkanik bir krater gölü; Kapadokya bölgesinin farklı bir doğa köşesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Narl%C4%B1g%C3%B6l",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Lake_Nar_-_Narl%C4%B1g%C3%B6l.jpg/330px-Lake_Nar_-_Narl%C4%B1g%C3%B6l.jpg"
+ },
+ {
+  "ad": "Tuz Gölü (Aksaray kıyısı)",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🧂",
+  "ucretsiz": true,
+  "vikipedi": "Tuz Gölü",
+  "aciklama": "Türkiye'nin ikinci büyük gölü; yaz aylarında beyaz tuz yüzeyi ve flamingolarıyla ilgi çeker."
+ },
+ {
+  "ad": "Zinciriye Medresesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": "Zinciriye Medresesi",
+  "aciklama": "Aksaray'da bulunan Selçuklu dönemi medresesi."
+ },
+ {
+  "ad": "Aksaray Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Aksaray Müzesi",
+  "aciklama": "Bölgede bulunan arkeolojik ve etnografik eserlerin sergilendiği il müzesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Aksaray_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Aksaray_Museum01.jpg/330px-Aksaray_Museum01.jpg"
+ }
+]

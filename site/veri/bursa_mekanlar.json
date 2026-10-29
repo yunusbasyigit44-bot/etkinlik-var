@@ -1,0 +1,128 @@
+[
+ {
+  "ad": "Bursa Ulu Camii",
+  "ilce": "Osmangazi",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Bursa Ulu Camii",
+  "aciklama": "20 kubbesi ve hat levhalarıyla Osmanlı'nın ilk büyük camilerinden; çarşının tam kalbinde.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Bursa_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/71_Bursa_la_Grande_Moschea_%28Edited%29.jpg/330px-71_Bursa_la_Grande_Moschea_%28Edited%29.jpg"
+ },
+ {
+  "ad": "Yeşil Türbe ve Yeşil Cami",
+  "ilce": "Yıldırım",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Yeşil Türbe",
+  "aciklama": "Turkuaz çinileriyle ünlü Çelebi Mehmed'in türbesi; hemen yanındaki Yeşil Cami ile birlikte gezilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ye%C5%9Fil_T%C3%BCrbe",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Turkey-1353_%282216628788%29.jpg/330px-Turkey-1353_%282216628788%29.jpg"
+ },
+ {
+  "ad": "Uludağ",
+  "ilce": "Osmangazi",
+  "tur": "Doğa / Kayak",
+  "simge": "⛷️",
+  "ucretsiz": false,
+  "vikipedi": "Uludağ",
+  "aciklama": "Kışın kayak, yazın yürüyüş için gidilen dağ; teleferik veya yoldan çıkılır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Uluda%C4%9F",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Uludag.JPG/330px-Uludag.JPG"
+ },
+ {
+  "ad": "Koza Han",
+  "ilce": "Osmangazi",
+  "tur": "Tarihi çarşı",
+  "simge": "🧵",
+  "ucretsiz": true,
+  "vikipedi": "Koza Han",
+  "aciklama": "İpek ticaretinin merkezi olan tarihi han; avlusunda çay içilir, ipek ürünleri satılır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Koza_Han",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Koza_han_DSCF1631.jpg/330px-Koza_han_DSCF1631.jpg"
+ },
+ {
+  "ad": "Cumalıkızık",
+  "ilce": "Yıldırım",
+  "tur": "Tarihi köy / UNESCO",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": "Cumalıkızık",
+  "aciklama": "UNESCO listesindeki Osmanlı dönemi köy; dar sokakları ve ahşap evleriyle kahvaltı için sevilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Cumal%C4%B1k%C4%B1z%C4%B1k",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Cumal%C4%B1k%C4%B1z%C4%B1k_7121.jpg/330px-Cumal%C4%B1k%C4%B1z%C4%B1k_7121.jpg"
+ },
+ {
+  "ad": "Muradiye Külliyesi",
+  "ilce": "Osmangazi",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Muradiye Külliyesi",
+  "aciklama": "II. Murad'ın külliyesi; bahçesinde çok sayıda Osmanlı şehzadesinin türbesi bulunur.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Muradiye_K%C3%BClliyesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Muradiye_Complex_01.jpg/330px-Muradiye_Complex_01.jpg"
+ },
+ {
+  "ad": "Osman Gazi ve Orhan Gazi Türbeleri",
+  "ilce": "Osmangazi",
+  "tur": "Tarihi yer",
+  "simge": "🕰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehrin manzarasına hâkim tepede, Tophane Saat Kulesi'nin yanında Osmanlı'nın ilk iki padişahının türbeleri."
+ },
+ {
+  "ad": "İznik",
+  "ilce": "İznik",
+  "tur": "Tarihi kent",
+  "simge": "🏺",
+  "ucretsiz": true,
+  "vikipedi": "İznik",
+  "aciklama": "Roma surları, Ayasofya ve çinileriyle bilinen göl kenarı kent; İznik Gölü'nde yürüyüş keyifli.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C4%B0znik",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/%C4%B0znik_Lake.jpg/330px-%C4%B0znik_Lake.jpg"
+ },
+ {
+  "ad": "Bursa Kent Müzesi",
+  "ilce": "Osmangazi",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Bursa Kent Müzesi",
+  "aciklama": "Şehrin tarihini, gelenek ve el sanatlarını anlatan, eski Adliye binasındaki müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Bursa_Kent_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/ESK%C4%B0_ADL%C4%B0YE_-%C5%9EEH%C4%B0R_MUZES%C4%B0_-_panoramio.jpg/330px-ESK%C4%B0_ADL%C4%B0YE_-%C5%9EEH%C4%B0R_MUZES%C4%B0_-_panoramio.jpg"
+ },
+ {
+  "ad": "Merinos Tekstil Sanayi Müzesi",
+  "ilce": "Osmangazi",
+  "tur": "Müze",
+  "simge": "🏭",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Eski bir yün fabrikasında kurulan, Bursa'nın tekstil geçmişini anlatan müze ve kültür alanı."
+ },
+ {
+  "ad": "Mudanya",
+  "ilce": "Mudanya",
+  "tur": "Sahil kasabası",
+  "simge": "⚓",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Marmara kıyısında balık restoranları, tarihi evleri ve Mütareke Evi ile sakin bir sahil kasabası."
+ },
+ {
+  "ad": "Gölyazı",
+  "ilce": "Nilüfer",
+  "tur": "Doğa / Köy",
+  "simge": "🛶",
+  "ucretsiz": true,
+  "vikipedi": "Gölyazı, Nilüfer",
+  "aciklama": "Uluabat Gölü kıyısındaki küçük yarımada köy; kuşları, söğütleri ve gün batımıyla bilinir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/G%C3%B6lyaz%C4%B1%2C_Nil%C3%BCfer",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/G%C3%B6lyaz%C4%B1%27da_yans%C4%B1ma.jpg/330px-G%C3%B6lyaz%C4%B1%27da_yans%C4%B1ma.jpg"
+ }
+]

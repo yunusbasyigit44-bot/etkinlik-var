@@ -1,0 +1,102 @@
+[
+ {
+  "ad": "Diyarbakır Surları",
+  "ilce": "Sur",
+  "tur": "Tarihi yapı / UNESCO",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Siyah bazalt taşından, yaklaşık beş kilometre uzunlukta dünyanın en uzun surlarından biri; üzerinde yürünebilen bölümleri var.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Diyarbak%C4%B1r_Kalesi"
+ },
+ {
+  "ad": "Hevsel Bahçeleri",
+  "ilce": "Sur",
+  "tur": "Kültürel peyzaj / UNESCO",
+  "simge": "🌳",
+  "ucretsiz": true,
+  "vikipedi": "Hevsel Bahçeleri",
+  "aciklama": "Dicle kıyısında yüzyıllardır sürdürülen bahçeler; surlarla birlikte UNESCO listesinde.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Hevsel_Bah%C3%A7eleri",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Bax%C3%A7ey%C3%AAn_Hewsel%C3%AA_Amed_2010.JPG/330px-Bax%C3%A7ey%C3%AAn_Hewsel%C3%AA_Amed_2010.JPG"
+ },
+ {
+  "ad": "On Gözlü Köprü",
+  "ilce": "Sur",
+  "tur": "Tarihi köprü",
+  "simge": "🌉",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Dicle Nehri üzerindeki Ortaçağ taş köprüsü; gün batımında en güzel hâlini alır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Dicle_K%C3%B6pr%C3%BCs%C3%BC"
+ },
+ {
+  "ad": "Diyarbakır Ulu Camii",
+  "ilce": "Sur",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Diyarbakır Ulu Camii",
+  "aciklama": "Anadolu'nun en eski ve büyük camilerinden; avlusundaki süslemeleriyle ünlü.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Diyarbak%C4%B1r_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Great_Mosque%2C_Diyarbakir.jpg/330px-Great_Mosque%2C_Diyarbakir.jpg"
+ },
+ {
+  "ad": "Hasan Paşa Hanı",
+  "ilce": "Sur",
+  "tur": "Tarihi han",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": "Hasan Paşa Hanı",
+  "aciklama": "Siyah beyaz taş sıralı cephesiyle 16. yüzyıldan kalma han; kahvaltı ve çay molası için popüler.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Hasan_Pa%C5%9Fa_Han%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hasan_Pasha_Inn.jpg/330px-Hasan_Pasha_Inn.jpg"
+ },
+ {
+  "ad": "Dengbêj Evi",
+  "ilce": "Sur",
+  "tur": "Kültür merkezi",
+  "simge": "🎤",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kürt sözlü şarkı geleneği dengbêjlerin dinlenebildiği tarihi bir ev."
+ },
+ {
+  "ad": "Cahit Sıtkı Tarancı Müzesi",
+  "ilce": "Sur",
+  "tur": "Müze",
+  "simge": "📖",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Şair Cahit Sıtkı Tarancı'nın doğduğu tarihi Diyarbakır evi; yöreye özgü mimariyi de gösterir."
+ },
+ {
+  "ad": "Zerzevan Kalesi",
+  "ilce": "Çınar",
+  "tur": "Antik kale",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Zerzevan Kalesi",
+  "aciklama": "Roma dönemine ait Mithras tapınağı ve yeraltı yapılarıyla dikkat çeken kale ve kutsal alan.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Zerzevan_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Zerzevan_kalesi.jpg/330px-Zerzevan_kalesi.jpg"
+ },
+ {
+  "ad": "Ergani Bakır Madeni",
+  "ilce": "Ergani",
+  "tur": "Doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Yüzyıllardır işletilen eski bakır madeni ve çevresi; bölge tarihine ilgi duyanlar için ilginç bir durak."
+ },
+ {
+  "ad": "Ziya Gökalp Müzesi",
+  "ilce": "Sur",
+  "tur": "Müze",
+  "simge": "🖼️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Fikir adamı Ziya Gökalp'in doğduğu eski Diyarbakır evi, müze olarak ziyarete açık."
+ }
+]

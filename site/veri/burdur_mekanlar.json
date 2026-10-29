@@ -1,0 +1,108 @@
+[
+ {
+  "ad": "Salda Gölü",
+  "ilce": "Yeşilova",
+  "tur": "Doğa",
+  "simge": "🏖️",
+  "ucretsiz": true,
+  "vikipedi": "Salda Gölü",
+  "aciklama": "Beyaz kumsalı ve turkuaz rengiyle 'Türkiye'nin Maldivleri' denen krater benzeri göl. Koruma altında olduğu için kurallara uyulur.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Salda_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Saldives_Reflection.jpg/330px-Saldives_Reflection.jpg"
+ },
+ {
+  "ad": "Sagalassos Antik Kenti",
+  "ilce": "Ağlasun",
+  "tur": "Antik kent",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Sagalassos",
+  "aciklama": "Dağ yamacına kurulu, çeşmesi ve agorasıyla iyi korunmuş Pisidya kenti.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sagalassos",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Sagalassos1.jpg/330px-Sagalassos1.jpg"
+ },
+ {
+  "ad": "Burdur Gölü",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🦩",
+  "ucretsiz": true,
+  "vikipedi": "Burdur Gölü",
+  "aciklama": "Kuş gözlemi için uygun, şehrin hemen yanındaki geniş tuzlu göl.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Burdur_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Lake_Burdur_NASA.jpg/330px-Lake_Burdur_NASA.jpg"
+ },
+ {
+  "ad": "Burdur Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Burdur Müzesi",
+  "aciklama": "Kibyra, Sagalassos ve Kremna buluntularının sergilendiği bölge müzesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Burdur_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Burdur_Museum_3224.jpg/330px-Burdur_Museum_3224.jpg"
+ },
+ {
+  "ad": "Kibyra Antik Kenti",
+  "ilce": "Gölhisar",
+  "tur": "Antik kent",
+  "simge": "🏟️",
+  "ucretsiz": false,
+  "vikipedi": "Kibyra",
+  "aciklama": "Stadyumu ve gladyatör oyunlarına ev sahipliği yapmış tiyatrosuyla ünlü antik kent."
+ },
+ {
+  "ad": "İnsuyu Mağarası",
+  "ilce": "Bucak",
+  "tur": "Mağara",
+  "simge": "🦇",
+  "ucretsiz": false,
+  "vikipedi": "İnsuyu Mağarası",
+  "aciklama": "Sarkıt ve dikitleriyle bilinen, yürüyerek gezilebilen turistik mağara.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C4%B0nsuyu_Ma%C4%9Faras%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/%C4%B0nsuyuma%C4%9Faras%C4%B12021.jpg/330px-%C4%B0nsuyuma%C4%9Faras%C4%B12021.jpg"
+ },
+ {
+  "ad": "Kremna Antik Kenti",
+  "ilce": "Ağlasun",
+  "tur": "Antik kent",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": "Kremna",
+  "aciklama": "Roma döneminden kalan surları ve kalıntılarıyla Sagalassos yolunun yakınındaki antik yerleşim.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kremna",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Kremna_ruins_vista_May_2013.jpg/330px-Kremna_ruins_vista_May_2013.jpg"
+ },
+ {
+  "ad": "Burdur Ulu Cami",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Burdur Ulu Camii",
+  "aciklama": "Şehrin eski çarşısındaki Selçuklu dönemi cami.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Burdur_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Burdur_Ulu_Camii_icinden.jpg/330px-Burdur_Ulu_Camii_icinden.jpg"
+ },
+ {
+  "ad": "Yazılı Kanyon",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🌿",
+  "ucretsiz": false,
+  "vikipedi": "Yazılı Kanyon Tabiat Parkı",
+  "aciklama": "Kanyon içinde yürüyüş ve piknik için uygun, kayalıkları ve ağaçlarıyla sakin bir tabiat parkı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Yaz%C4%B1l%C4%B1_Kanyon_Tabiat_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/P_20180323_124555.jpg/330px-P_20180323_124555.jpg"
+ },
+ {
+  "ad": "Kuyucak Gölü",
+  "ilce": "Çavdır",
+  "tur": "Doğa",
+  "simge": "🛶",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Çavdır çevresinde yer alan sakin ve manzaralı göl alanı."
+ }
+]

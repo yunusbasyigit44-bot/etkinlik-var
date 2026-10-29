@@ -1,0 +1,191 @@
+{
+ "il": "karaman",
+ "guncelleme": "2026-10-29T16:45+03:00",
+ "ilceler": [
+  "Merkez",
+  "Ayrancı",
+  "Başyayla",
+  "Ermenek",
+  "Kazımkarabekir",
+  "Sarıveliler"
+ ],
+ "etkinlikler": [
+  {
+   "id": "31da969b13e8",
+   "baslik": "Kirgizistan ve Özbekistan Gezisi Fotograf Sergisi",
+   "tarih": "2026-10-29",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Merkez",
+   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4118",
+   "gorsel": null
+  },
+  {
+   "id": "911890b6fd96",
+   "baslik": "Çocuklarla 29 Ekim'i Anma Etkinligi",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4122",
+   "gorsel": null
+  },
+  {
+   "id": "2ce09a7b77d5",
+   "baslik": "Meme Kanseri Farkindalik",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Merkez",
+   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4119",
+   "gorsel": null
+  },
+  {
+   "id": "c6c683844fa5",
+   "baslik": "Dogaya Vefa",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4120",
+   "gorsel": null
+  },
+  {
+   "id": "2731892748a4",
+   "baslik": "Kiz Futbol Turnuvasi",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4121",
+   "gorsel": null
+  },
+  {
+   "id": "cf2da98bb45c",
+   "baslik": "GDG Devfest Ankara",
+   "tarih": "2026-10-31",
+   "bitis": null,
+   "saat": "04:00",
+   "ilce": "Merkez",
+   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4124",
+   "gorsel": null
+  },
+  {
+   "id": "8b2c6dde598d",
+   "baslik": "Harekete Geç, Sagligini Kesfet",
+   "tarih": "2026-10-31",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4123",
+   "gorsel": null
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Karamanoğlu Mehmetbey Üniversitesi",
+   "tur": "universite",
+   "url": "https://etkinlik.kmu.edu.tr/index.aspx",
+   "etkinlik_sayisi": 7,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Karaman Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.karaman.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası yok; haber ve duyurular tarihsiz"
+  },
+  {
+   "ad": "Karaman Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.karaman.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Karaman İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://karaman.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller (Uluslararası Türkçe Olimpiyatları, Karaman Dil Bayramı: 27 Mayıs Türk Dil Bayramı, Ermenek Kiraz…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/karaman",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

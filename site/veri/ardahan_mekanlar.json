@@ -1,0 +1,86 @@
+[
+ {
+  "ad": "Ardahan Kalesi",
+  "ilce": "Merkez",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehre hâkim tepedeki tarihi kale; Kura Nehri'ne bakan manzarası var."
+ },
+ {
+  "ad": "Çıldır Gölü",
+  "ilce": "Çıldır",
+  "tur": "Göl",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": "Çıldır Gölü",
+  "aciklama": "Kışın donan gölde atlı kızakla gezilen, bölgenin en bilinen doğa durağı."
+ },
+ {
+  "ad": "Kura Nehri",
+  "ilce": "Merkez",
+  "tur": "Nehir",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Ardahan'dan geçen nehir; çevresi yürüyüş ve dinlenme alanı."
+ },
+ {
+  "ad": "Aktaş Gölü",
+  "ilce": "Çıldır",
+  "tur": "Göl",
+  "simge": "🦆",
+  "ucretsiz": true,
+  "vikipedi": "Aktaş Gölü",
+  "aciklama": "Kuş gözlemi için uygun, sakin ve doğal bir göl."
+ },
+ {
+  "ad": "Yalnızçam Dağları",
+  "ilce": "Posof",
+  "tur": "Doğa",
+  "simge": "🌲",
+  "ucretsiz": true,
+  "vikipedi": "Yalnızçam Dağları",
+  "aciklama": "Ormanlar ve yaylalarla kaplı, doğa yürüyüşü için güzel dağlık alan.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Yaln%C4%B1z%C3%A7am_Da%C4%9Flar%C4%B1"
+ },
+ {
+  "ad": "Şeytan Kalesi",
+  "ilce": "Posof",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Şeytan Kalesi (Ardahan)",
+  "aciklama": "Posof sınırlarında bulunan, tarihi kalıntılı kale."
+ },
+ {
+  "ad": "Ardahan Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Ardahan Müzesi",
+  "aciklama": "Bölgenin arkeolojik ve etnografik eserlerini sergiliyor."
+ },
+ {
+  "ad": "Ardahan Ulu Camii",
+  "ilce": "Merkez",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Ardahan Ulu Camii",
+  "aciklama": "Şehir merkezindeki tarihi Ulu Cami."
+ },
+ {
+  "ad": "Göle Doğası",
+  "ilce": "Göle",
+  "tur": "Doğa",
+  "simge": "🌾",
+  "ucretsiz": true,
+  "vikipedi": "Göle",
+  "aciklama": "Göle çevresinde yaylalar ve geniş otlaklar.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/G%C3%B6le",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Gole.jpg/330px-Gole.jpg"
+ }
+]

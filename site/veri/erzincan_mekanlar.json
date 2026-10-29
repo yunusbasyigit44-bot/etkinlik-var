@@ -1,0 +1,102 @@
+[
+ {
+  "ad": "Girlevik Şelalesi",
+  "ilce": "Merkez",
+  "tur": "Doğa / şelale",
+  "simge": "💦",
+  "ucretsiz": true,
+  "vikipedi": "Girlevik Şelalesi",
+  "aciklama": "Karasu üzerinde, şehir merkezine yakın dev bir şelale. Yazın piknik, kışın buz tutan manzarasıyla gezilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Girlevik_%C5%9Eelalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Girlevik_Waterfall%2C_Erzincan%2C_Turkey.jpg/330px-Girlevik_Waterfall%2C_Erzincan%2C_Turkey.jpg"
+ },
+ {
+  "ad": "Kemaliye (Eğin) Evleri",
+  "ilce": "Kemaliye",
+  "tur": "Tarihi kasaba",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": "Kemaliye",
+  "aciklama": "Fırat vadisine yaslanmış taş evleriyle ünlü, sakin bir kasaba. Bahar ve yaz aylarında doğa sporları için de uğranır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kemaliye",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kemaliye_-_E%C4%9Fin.JPG/330px-Kemaliye_-_E%C4%9Fin.JPG"
+ },
+ {
+  "ad": "Karanlık Kanyon",
+  "ilce": "Kemaliye",
+  "tur": "Doğa / kanyon",
+  "simge": "🏞️",
+  "ucretsiz": false,
+  "vikipedi": "Karanlık Kanyon",
+  "aciklama": "Fırat'ın oyduğu derin ve dar bir kanyon; ahşap yürüyüş yolları ve rafting ile bilinir. Yaz mevsiminde ziyaret etmek en iyisi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Karanl%C4%B1k_Kanyon",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Canyone_2_%2832828345%29.jpeg/330px-Canyone_2_%2832828345%29.jpeg"
+ },
+ {
+  "ad": "Erzincan Bedesteni (Yer Altı Çarşısı)",
+  "ilce": "Merkez",
+  "tur": "Çarşı / tarihi yer",
+  "simge": "🛍️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehrin tarihi çarşısı; Erzincan tulum peyniri ve yöresel ürünler için alışveriş noktası."
+ },
+ {
+  "ad": "Erzincan Ulu Camii",
+  "ilce": "Merkez",
+  "tur": "Cami / tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehrin merkezindeki köklü ibadet yapısı. Çarşıyla yan yana olduğu için gezi rotasına kolayca eklenir."
+ },
+ {
+  "ad": "Mama Hatun Külliyesi",
+  "ilce": "Tercan",
+  "tur": "Tarihi yer",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Saltuklu hükümdarının kızı adına yaptırılan, kervansaray ve türbesiyle ünlü Anadolu mimarisi örneği."
+ },
+ {
+  "ad": "Kemah Kalesi",
+  "ilce": "Kemah",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Kemah Kalesi",
+  "aciklama": "Fırat kıyısındaki kayalık tepede yükselen eski kale. Çevresinde Kemah'ın tarihi dokusu bulunuyor.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kemah_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/5-Tarihi_Kemah_Kalesi.jpg/330px-5-Tarihi_Kemah_Kalesi.jpg"
+ },
+ {
+  "ad": "Erzincan Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Erzincan Müzesi",
+  "aciklama": "Bölgenin Urartu, Roma ve Selçuklu dönemi eserlerini bir araya getiren müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Erzincan_M%C3%BCzesi"
+ },
+ {
+  "ad": "Ergan Dağı Kayak Merkezi",
+  "ilce": "Merkez",
+  "tur": "Kış sporları",
+  "simge": "⛷️",
+  "ucretsiz": false,
+  "vikipedi": "Ergan Dağı",
+  "aciklama": "Kış aylarında kayak yapılan, şehre kısa mesafede bir dağ tesisi; yazın yürüyüşe de uygun.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ergan_Da%C4%9F%C4%B1"
+ },
+ {
+  "ad": "Altıntepe",
+  "ilce": "Merkez",
+  "tur": "Antik alan",
+  "simge": "🗿",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Urartu dönemine ait kale ve tapınak kalıntıları; bölgenin en önemli arkeolojik alanlarından biri."
+ }
+]

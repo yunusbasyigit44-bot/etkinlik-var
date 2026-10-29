@@ -1,0 +1,84 @@
+[
+ {
+  "ad": "Bayburt Kalesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Bayburt Kalesi",
+  "aciklama": "Şehre hâkim bir tepede yükselen, Çoruh Vadisi'ne bakan tarihi kale.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Bayburt_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Bayburt_kalesi.JPG/330px-Bayburt_kalesi.JPG"
+ },
+ {
+  "ad": "Baberti Kalesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏯",
+  "ucretsiz": true,
+  "vikipedi": "Baberti Kalesi",
+  "aciklama": "Bayburt'un adıyla anılan, Çoruh kıyısındaki ortaçağ kalesi."
+ },
+ {
+  "ad": "Dede Korkut Türbesi ve Külliyesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Türk destan geleneğinin simgesi Dede Korkut adına anılan türbe ve çevresi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Korkut_Ata"
+ },
+ {
+  "ad": "Bayburt Ulu Camii",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Bayburt Ulu Camii",
+  "aciklama": "Şehir merkezinde yer alan tarihi cami.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Bayburt_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Bayburt_Ulu_Camii_%C4%B0%C3%A7i_2.jpg/330px-Bayburt_Ulu_Camii_%C4%B0%C3%A7i_2.jpg"
+ },
+ {
+  "ad": "Bayburt Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Bölgenin arkeolojik ve etnografik eserlerini sergileyen il müzesi."
+ },
+ {
+  "ad": "Aydıntepe Yer Altı Şehri",
+  "ilce": "Aydıntepe",
+  "tur": "Tarihi yer",
+  "simge": "🕳️",
+  "ucretsiz": false,
+  "vikipedi": "Aydıntepe Yeraltı Şehri",
+  "aciklama": "Kayalara oyulmuş odaları ve geçitleriyle, ziyarete açık yeraltı yerleşimi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ayd%C4%B1ntepe_Yeralt%C4%B1_%C5%9Eehri"
+ },
+ {
+  "ad": "Çoruh Nehri",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": "Çoruh",
+  "aciklama": "Bayburt'un içinden geçen, rafting ve doğa manzarasıyla bilinen nehir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87oruh",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/%C3%87oruh_River.jpg/330px-%C3%87oruh_River.jpg"
+ },
+ {
+  "ad": "Kop Dağı",
+  "ilce": "Merkez",
+  "tur": "Tarihi alan",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": "Kop Dağı",
+  "aciklama": "Kurtuluş Savaşı döneminde savunmayla anılan tarihi dağ geçidi; yaz aylarında anma ve doğa gezisi için ziyaret edilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kop_Da%C4%9F%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Kop_ge%C3%A7idi_u%C3%A7aktan_%C3%A7ekildi._yak%C4%B1nla%C5%9Ft%C4%B1r%C4%B1n..._musatan%C4%B1%C5%9Fman_k%C3%B6y%C3%BC_-_panoramio.jpg/330px-Kop_ge%C3%A7idi_u%C3%A7aktan_%C3%A7ekildi._yak%C4%B1nla%C5%9Ft%C4%B1r%C4%B1n..._musatan%C4%B1%C5%9Fman_k%C3%B6y%C3%BC_-_panoramio.jpg"
+ }
+]

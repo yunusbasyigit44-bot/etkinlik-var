@@ -1,0 +1,99 @@
+{
+ "il": "malatya",
+ "guncelleme": "2026-10-29T16:45+03:00",
+ "ilceler": [
+  "Akçadağ",
+  "Arapgir",
+  "Arguvan",
+  "Battalgazi",
+  "Darende",
+  "Doğanşehir",
+  "Doğanyol",
+  "Hekimhan",
+  "Kale",
+  "Kuluncak",
+  "Pütürge",
+  "Yazıhan",
+  "Yeşilyurt"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Battalgazi Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.battalgazi.bel.tr/etkinlik/",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfasında okunabilir liste bulunamadı (sonraki tur)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü",
+   "tur": "diger",
+   "url": "https://malatya.gsb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi yok"
+  },
+  {
+   "ad": "Malatya Büyükşehir Belediyesi (Şehir Tiyatrosu, Açık Hava)",
+   "tur": "belediye",
+   "url": "https://www.malatya.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası var ama şu an boş ('Etkinlik bulunamadı'); okunmuyor"
+  },
+  {
+   "ad": "Malatya Kayısı Festivali, Uluslararası Malatya Film Festivali…",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "Malatya Turgut Özal Üniversitesi",
+   "tur": "universite",
+   "url": "https://etkinlik.ozal.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sistemi sadece idari duyuru veriyor; okunmuyor"
+  },
+  {
+   "ad": "Malatya Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.malatya.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Malatya İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://malatya.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yeşilyurt Belediyesi",
+   "tur": "belediye",
+   "url": "https://yesilyurt.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/malatya",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "İnönü Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.inonu.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "sitenin sertifikası doğrulanamıyor (SSL hatası) — okunmuyor"
+  }
+ ]
+}

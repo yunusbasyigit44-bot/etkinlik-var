@@ -1,0 +1,94 @@
+[
+ {
+  "ad": "Battalgazi Antik Kenti",
+  "ilce": "Battalgazi",
+  "tur": "Tarihi yer",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": "Battalgazi",
+  "aciklama": "Eski Malatya'nın bulunduğu, surları ve Ulu Camii ile bilinen tarihî yerleşim.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Battalgazi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Metin_S%C3%B6zen_St.%2C_Battalgazi_-_Malatya_02.jpg/330px-Metin_S%C3%B6zen_St.%2C_Battalgazi_-_Malatya_02.jpg"
+ },
+ {
+  "ad": "Arslantepe Höyüğü",
+  "ilce": "Battalgazi",
+  "tur": "Arkeolojik alan",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Melid",
+  "aciklama": "UNESCO listesinde yer alan, Hitit ve öncesi çağlardan kalma höyük.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Melid",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Arslantepe7.jpg/330px-Arslantepe7.jpg"
+ },
+ {
+  "ad": "Malatya Müzesi",
+  "ilce": "Yeşilyurt",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Malatya Müzesi",
+  "aciklama": "Arslantepe buluntularının da sergilendiği bölge müzesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Malatya_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/MalatyaMuseum.jpg/330px-MalatyaMuseum.jpg"
+ },
+ {
+  "ad": "Yeşilyurt Evleri",
+  "ilce": "Yeşilyurt",
+  "tur": "Sokak / Çarşı",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Eski Malatya konaklarının izlerini taşıyan tarihî mahalle dokusu."
+ },
+ {
+  "ad": "Beydağı Yaylası",
+  "ilce": "Yeşilyurt",
+  "tur": "Doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehrin hemen yanında yaz aylarında piknik için tercih edilen yayla."
+ },
+ {
+  "ad": "Kernek Kültür Parkı",
+  "ilce": "Yeşilyurt",
+  "tur": "Park",
+  "simge": "🌳",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kayısı ağaçları arasında yürüyüş ve dinlenme alanı olan şehir parkı."
+ },
+ {
+  "ad": "Somuncu Baba Külliyesi",
+  "ilce": "Darende",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Somuncu Baba",
+  "aciklama": "Darende'de Somuncu Baba'nın türbesinin de bulunduğu külliye.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Somuncu_Baba",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Somuncu_Baba_Tomb_01.jpg/330px-Somuncu_Baba_Tomb_01.jpg"
+ },
+ {
+  "ad": "Gökpınar Şelalesi",
+  "ilce": "Darende",
+  "tur": "Doğa",
+  "simge": "💧",
+  "ucretsiz": true,
+  "vikipedi": "Gökpınar Barajı",
+  "aciklama": "Darende yakınında yürüme yolu ve seyir noktalarıyla bilinen şelale bölgesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/G%C3%B6kp%C4%B1nar_Baraj%C4%B1"
+ },
+ {
+  "ad": "Tohma Kanyonu",
+  "ilce": "Darende",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": "Tohma Kanyonu",
+  "aciklama": "Rafting ve kano yapılan, zümrüt yeşili sularıyla bilinen kanyon.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Tohma_Kanyonu",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Tohma_kanyonu-_tohma_canyon_-_panoramio.jpg/330px-Tohma_kanyonu-_tohma_canyon_-_panoramio.jpg"
+ }
+]

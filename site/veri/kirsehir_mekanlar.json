@@ -1,0 +1,83 @@
+[
+ {
+  "ad": "Neşet Ertaş Anıtı ve Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🎸",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Türk halk müziğinin büyük ustası Neşet Ertaş'ın hatırasına kurulan müze ve anıt."
+ },
+ {
+  "ad": "Ahi Evran Külliyesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Ahi Evran Camii ve Türbesi",
+  "aciklama": "Ahilik teşkilatının kurucusu Ahi Evran'ın türbesi ve külliyesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ahi_Evran_Camii_ve_T%C3%BCrbesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Kirahievran.jpg/330px-Kirahievran.jpg"
+ },
+ {
+  "ad": "Kaman Kalehöyük",
+  "ilce": "Kaman",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Kaman Kalehöyük",
+  "aciklama": "Hititlerden önce ve sonrasına ait kat kat yerleşme izleri taşıyan höyük.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kaman_Kaleh%C3%B6y%C3%BCk",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Kaman-Kaleh%C3%B6y%C3%BCk13.jpg/330px-Kaman-Kaleh%C3%B6y%C3%BCk13.jpg"
+ },
+ {
+  "ad": "Kırşehir Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Kırşehir Müzesi",
+  "aciklama": "Bölgenin arkeolojik ve etnografik eserlerini sergileyen müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/K%C4%B1r%C5%9Fehir_M%C3%BCzesi"
+ },
+ {
+  "ad": "Cacabey Medresesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🔭",
+  "ucretsiz": false,
+  "vikipedi": "Cacabey Medresesi",
+  "aciklama": "1272'de yapılan astronomi medresesi; kubbesindeki delikle gök gözlemi yapılırdı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Cacabey_Medresesi"
+ },
+ {
+  "ad": "Aşık Paşa Türbesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Anadolu'nun büyük mutasavvıf şairi Âşık Paşa'nın türbesi."
+ },
+ {
+  "ad": "Hirfanlı Barajı",
+  "ilce": "Kaman",
+  "tur": "Doğa",
+  "simge": "💧",
+  "ucretsiz": true,
+  "vikipedi": "Hirfanlı Barajı ve Hidroelektrik Santrali",
+  "aciklama": "Kızılırmak üzerindeki baraj gölü; piknik ve balık tutma için sevilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Hirfanl%C4%B1_Baraj%C4%B1_ve_Hidroelektrik_Santrali"
+ },
+ {
+  "ad": "Seyfe Gölü",
+  "ilce": "Kaman",
+  "tur": "Doğa",
+  "simge": "🦩",
+  "ucretsiz": true,
+  "vikipedi": "Seyfe Gölü",
+  "aciklama": "Flamingoların ve yüzlerce kuş türünün yaşadığı tuzlu sulak alan.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Seyfe_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Seyfe_G%C3%B6l%C3%BC_2.JPG/330px-Seyfe_G%C3%B6l%C3%BC_2.JPG"
+ }
+]

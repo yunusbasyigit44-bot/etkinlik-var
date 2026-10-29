@@ -1,0 +1,92 @@
+[
+ {
+  "ad": "İshak Paşa Sarayı",
+  "ilce": "Doğubayazıt",
+  "tur": "Saray / müze",
+  "simge": "🏰",
+  "ucretsiz": false,
+  "vikipedi": "İshak Paşa Sarayı",
+  "aciklama": "Doğubayazıt'ta kayalık bir tepede duran, Osmanlı ve Selçuklu etkilerini birleştiren 18. yüzyıl sarayı. Taş işçiliği ve manzarasıyla ünlü.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C4%B0shak_Pa%C5%9Fa_Saray%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/ISHAKPASA_SARAYI.jpg/330px-ISHAKPASA_SARAYI.jpg"
+ },
+ {
+  "ad": "Ağrı Dağı",
+  "ilce": "Doğubayazıt",
+  "tur": "Doğa / dağ",
+  "simge": "🏔️",
+  "ucretsiz": false,
+  "vikipedi": "Ağrı Dağı",
+  "aciklama": "5137 metreyle Türkiye'nin en yüksek zirvesi. Tırmanış için izin gerekir; yaz aylarında uygun.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/B%C3%BCy%C3%BCk_ve_K%C3%BC%C3%A7%C3%BCk_A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1.jpg/330px-B%C3%BCy%C3%BCk_ve_K%C3%BC%C3%A7%C3%BCk_A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1.jpg"
+ },
+ {
+  "ad": "Balık Gölü",
+  "ilce": "Taşlıçay",
+  "tur": "Doğa / göl",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Yüksek rakımlı, sakin bir göl; kuş gözlemi ve piknik için güzel.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Bal%C4%B1k_G%C3%B6l%C3%BC"
+ },
+ {
+  "ad": "Ahmed-i Hânî Türbesi",
+  "ilce": "Doğubayazıt",
+  "tur": "Türbe",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Ahmed-i Hânî",
+  "aciklama": "Mem û Zîn destanının yazarı Ahmed-i Hânî'nin türbesi; yöre halkı için önemli bir ziyaret yeri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ahmed-i_H%C3%A2n%C3%AE",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%D8%A6%DB%95%D8%AD%D9%85%DB%95%D8%AF%DB%8C_%D8%AE%D8%A7%D9%86%DB%8E_1.jpg/330px-%D8%A6%DB%95%D8%AD%D9%85%DB%95%D8%AF%DB%8C_%D8%AE%D8%A7%D9%86%DB%8E_1.jpg"
+ },
+ {
+  "ad": "Diyadin Kaplıcaları",
+  "ilce": "Diyadin",
+  "tur": "Kaplıca",
+  "simge": "♨️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Doğal sıcak su kaynaklarıyla bilinen Diyadin'de kaplıca ve dinlenme olanakları bulunur.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Diyadin"
+ },
+ {
+  "ad": "Meteor Çukuru",
+  "ilce": "Doğubayazıt",
+  "tur": "Doğa / jeoloji",
+  "simge": "☄️",
+  "ucretsiz": true,
+  "vikipedi": "Doğubayazıt Meteor Çukuru",
+  "aciklama": "Göktaşı çarpmasıyla oluştuğu düşünülen ilginç çukur; Doğubayazıt yakınında."
+ },
+ {
+  "ad": "Nuh'un Gemisi Alanı",
+  "ilce": "Doğubayazıt",
+  "tur": "Efsane alanı",
+  "simge": "🚢",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Gemi biçimli kaya oluşumuyla Nuh'un Gemisi efsanesiyle anılan alan.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Nuh'un_Gemisi"
+ },
+ {
+  "ad": "Eleşkirt Murat Nehri Vadisi",
+  "ilce": "Eleşkirt",
+  "tur": "Doğa",
+  "simge": "🌿",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Murat Nehri'nin geçtiği yeşil vadi; doğa yürüyüşü için sakin bir bölge."
+ },
+ {
+  "ad": "Ağrı Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Ağrı Müzesi",
+  "aciklama": "Bölgenin arkeolojik ve etnografik eserlerini sergileyen şehir müzesi."
+ }
+]

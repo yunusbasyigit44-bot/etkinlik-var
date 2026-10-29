@@ -1,0 +1,136 @@
+{
+ "il": "denizli",
+ "guncelleme": "2026-10-29T16:41+03:00",
+ "ilceler": [
+  "Pamukkale",
+  "Merkezefendi",
+  "Acıpayam",
+  "Babadağ",
+  "Baklan",
+  "Bekilli",
+  "Beyağaç",
+  "Bozkurt",
+  "Buldan",
+  "Çal",
+  "Çameli",
+  "Çardak",
+  "Çivril",
+  "Güney",
+  "Honaz",
+  "Kale",
+  "Sarayköy",
+  "Serinhisar",
+  "Tavas"
+ ],
+ "etkinlikler": [
+  {
+   "id": "cadfa2a15364",
+   "baslik": "II. Uluslararası Türk Dünyasında Kültürel Miras ve Aktarımı Sempozyumu",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Pamukkale",
+   "mekan": "PAÜ",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Pamukkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.pau.edu.tr/pau/tr/etkinlik/ii-uluslararasi-turk-dunyasinda-kulturel-miras-ve-aktarimi-sempozyumu",
+   "gorsel": "https://bukalemun.pusula.pau.edu.tr/upload/BIYS/siteler/pau/editor/01112021/kultur-miras-afis-2026.jpg"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Pamukkale Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.pau.edu.tr/pau/tr/etkinlikler",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "17 ilçe kaymakamlığı ve belediyeleri",
+   "tur": "kaymakamlik",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Denizli Büyükşehir Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.denizli.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik listesi sayfadaki bir API anahtarıyla yükleniyor; anahtarı kullanmıyoruz — okunamıyor"
+  },
+  {
+   "ad": "Denizli Kültür A.Ş. (şehir tiyatrosu, konser)",
+   "tur": "kultur",
+   "url": "https://denizlikultur.com",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Denizli Valiliği",
+   "tur": "valilik",
+   "url": "https://www.denizli.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Denizli İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://denizli.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Merkezefendi Belediyesi Kültür-Sanat",
+   "tur": "belediye",
+   "url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlikler.aspx",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Pamukkale Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.pamukkale.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok; sadece olmuş etkinliklerin haberleri"
+  },
+  {
+   "ad": "Pamukkale Hierapolis konserleri, Denizli Kültür Sanat Festivali",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık/dönemsel; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/denizli",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

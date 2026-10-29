@@ -1,0 +1,102 @@
+{
+ "il": "sakarya",
+ "guncelleme": "2026-10-29T16:43+03:00",
+ "ilceler": [
+  "Adapazarı",
+  "Serdivan",
+  "Erenler",
+  "Arifiye",
+  "Akyazı",
+  "Hendek",
+  "Karasu",
+  "Kaynarca",
+  "Kocaali",
+  "Pamukova",
+  "Sapanca",
+  "Söğütlü",
+  "Ferizli",
+  "Geyve",
+  "Karapürçek",
+  "Taraklı"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Adapazarı, Serdivan, Sapanca, Akyazı belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor (sonraki tur)"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Sakarya Büyükşehir Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.sakarya.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "site tarayıcıda çalışan bir uygulama; okunabilir etkinlik listesi yok"
+  },
+  {
+   "ad": "Sakarya Uygulamalı Bilimler Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.subu.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi bulunamadı"
+  },
+  {
+   "ad": "Sakarya Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.sakarya.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Sakarya Üniversitesi",
+   "tur": "universite",
+   "url": "https://etkinlik.sakarya.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sitesi var ama liste başlıkları boş geliyor (sadece tarih/yer); site düzelince okunacak"
+  },
+  {
+   "ad": "Sakarya İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://sakarya.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Yıllık festivaller (Sakarya Caz, Sapanca Kültür Sanat, Uluslararası Sakarya Film…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/sakarya",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

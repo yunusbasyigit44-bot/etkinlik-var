@@ -1,0 +1,167 @@
+{
+ "il": "erzincan",
+ "guncelleme": "2026-10-29T16:41+03:00",
+ "ilceler": [
+  "Merkez",
+  "Çayırlı",
+  "İliç",
+  "Kemah",
+  "Kemaliye",
+  "Otlukbeli",
+  "Refahiye",
+  "Tercan",
+  "Üzümlü"
+ ],
+ "etkinlikler": [
+  {
+   "id": "38213d1cc06e",
+   "baslik": "EBYÜ Kayak Kulübü \"Sporla Daha Güçlü Bir Geleceğe\"",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "EBYU Kapalı Spor Salonu",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": "Fiziksel Etkinlik",
+   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://ebyu.edu.tr/etkinlik/ebyu-kayak-kulubu-sporla-daha-guclu-bir-gelecege/",
+   "gorsel": null
+  },
+  {
+   "id": "1f55efdd3568",
+   "baslik": "Aşıklar Gecesi",
+   "tarih": "2026-10-31",
+   "bitis": null,
+   "saat": "18:00",
+   "ilce": "Merkez",
+   "mekan": "Erzincan Belediyesi Kültür Sanat Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erzincan Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://erzincan.bel.tr/etkinlikler/asiklar-gecesi/143",
+   "gorsel": "https://erzincan.bel.tr/upload/etkinlikler/2026_10_26-03AcAPnSksocoJR9zfEo.jpg"
+  },
+  {
+   "id": "f13561030603",
+   "baslik": "Bozkırın Kızlarından Küresel Liderlere Türk Dünyasının Kadın Liderleri Kongresi",
+   "tarih": "2026-11-12",
+   "bitis": "2026-11-13",
+   "saat": "08:00",
+   "ilce": "Merkez",
+   "mekan": "Erzincan Binali Yıldırım Üniversitesi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": "Fiziksel Etkinlik,Kongre",
+   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://ebyu.edu.tr/etkinlik/bozkirin-kizlarindan-kuresel-liderlere-turk-dunyasinin-kadin-liderleri-kongresi/",
+   "gorsel": null
+  },
+  {
+   "id": "d8615217fbde",
+   "baslik": "Ahıska Türkleri: İki Asırlık Oratoryo",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Prof. Dr. Erdoğan Büyükkasap Kongre ve Kültür Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Fiziksel Etkinlik",
+   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://ebyu.edu.tr/etkinlik/ahiska-turkleri-iki-asirlik-oratoryo/",
+   "gorsel": null
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Erzincan Binali Yıldırım Üniversitesi",
+   "tur": "universite",
+   "url": "https://ebyu.edu.tr/etkinlik/?ical=1",
+   "etkinlik_sayisi": 3,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Erzincan Belediyesi",
+   "tur": "belediye",
+   "url": "https://erzincan.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "8 ilçe kaymakamlığı",
+   "tur": "kaymakamlik",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari (ihale vb.); etkinlik yok"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Erzincan Valiliği",
+   "tur": "valilik",
+   "url": "https://www.erzincan.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Erzincan İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://erzincan.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü",
+   "tur": "diger",
+   "url": "https://erzincan.gsb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Tercan, Kemah, Refahiye, Kemaliye belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok; çoğu sadece olmuş etkinliklerin haberi"
+  },
+  {
+   "ad": "Yıllık festivaller (Kemaliye Uluslararası Kültür ve Sanat, Tulum Peyniri, Kemah Cevizi…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/erzincan",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "İl Milli Eğitim Müdürlüğü",
+   "tur": "diger",
+   "url": "https://erzincan.meb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "idari haberler; etkinlik yok"
+  }
+ ]
+}

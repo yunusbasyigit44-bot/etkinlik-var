@@ -1,0 +1,104 @@
+[
+ {
+  "ad": "Sekapark",
+  "ilce": "İzmit",
+  "tur": "Park",
+  "simge": "🌳",
+  "ucretsiz": true,
+  "vikipedi": "Seka Park",
+  "aciklama": "Eski kâğıt fabrikasının yerine kurulan, göleti ve yürüyüş yollarıyla İzmitlilerin en sevdiği park.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Seka_Park",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/SEKA_park_gece.jpg/330px-SEKA_park_gece.jpg"
+ },
+ {
+  "ad": "Kocaeli Kent Müzesi",
+  "ilce": "İzmit",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehrin tarihini ve Marmara depremini anlatan, Seka Parkı yakınındaki müze."
+ },
+ {
+  "ad": "Kartepe",
+  "ilce": "Kartepe",
+  "tur": "Doğa",
+  "simge": "⛷️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kışın kayak yapılan, yazın yaylalarıyla piknik yeri olan dağ."
+ },
+ {
+  "ad": "Sapanca Gölü",
+  "ilce": "Kartepe",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": "Sapanca Gölü",
+  "aciklama": "Sakarya sınırında, çevresinde yürüyüş ve kahvaltı mekânları bulunan tatlı su gölü.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sapanca_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/TR_Sakarya_asv2021-10_img01_Lake_Sapanca_airview.jpg/330px-TR_Sakarya_asv2021-10_img01_Lake_Sapanca_airview.jpg"
+ },
+ {
+  "ad": "Ormanya",
+  "ilce": "Kartepe",
+  "tur": "Park",
+  "simge": "🦌",
+  "ucretsiz": false,
+  "vikipedi": "Ormanya",
+  "aciklama": "Doğa içinde hayvanları ve macera parkuruyla ailelerin gittiği orman parkı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ormanya",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Ormanya_%281%29_01.jpg/330px-Ormanya_%281%29_01.jpg"
+ },
+ {
+  "ad": "Eskihisar Kalesi",
+  "ilce": "Gebze",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Eskihisar, Gebze",
+  "aciklama": "Marmara kıyısında Osmangazi Köprüsü manzaralı küçük bir kale ve köy.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Eskihisar%2C_Gebze",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Eskihisar_Kalesi.jpg/330px-Eskihisar_Kalesi.jpg"
+ },
+ {
+  "ad": "Hannibal'in Mezarı",
+  "ilce": "Gebze",
+  "tur": "Tarihi yer",
+  "simge": "⚰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kartacalı komutan Hannibal'in anıldığı, Gebze'deki tarihî mezar."
+ },
+ {
+  "ad": "Çoban Mustafa Paşa Külliyesi",
+  "ilce": "Gebze",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Çoban Mustafa Paşa Külliyesi",
+  "aciklama": "Gebze'de 16. yüzyıldan kalma cami, medrese ve türbeden oluşan Osmanlı külliyesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87oban_Mustafa_Pa%C5%9Fa_K%C3%BClliyesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Coban_mustafa_Pasa_Camii_-_panoramio.jpg/330px-Coban_mustafa_Pasa_Camii_-_panoramio.jpg"
+ },
+ {
+  "ad": "İzmit Saat Kulesi",
+  "ilce": "İzmit",
+  "tur": "Tarihi yer",
+  "simge": "🕰️",
+  "ucretsiz": true,
+  "vikipedi": "İzmit Saat Kulesi",
+  "aciklama": "Şehir merkezinde 19. yüzyıldan kalan, Kocaeli'nin simgelerinden biri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C4%B0zmit_Saat_Kulesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%C4%B0ZM%C4%B0T_CLOCK_TOWER20200916_%28cropped%29.jpg/330px-%C4%B0ZM%C4%B0T_CLOCK_TOWER20200916_%28cropped%29.jpg"
+ },
+ {
+  "ad": "Kerpe Sahilleri",
+  "ilce": "Kandıra",
+  "tur": "Doğa",
+  "simge": "🏖️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Karadeniz kıyısında kumsalları ve ormanlarıyla bilinen sakin sahil."
+ }
+]

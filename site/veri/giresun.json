@@ -1,0 +1,102 @@
+{
+ "il": "giresun",
+ "guncelleme": "2026-10-29T16:42+03:00",
+ "ilceler": [
+  "Merkez",
+  "Alucra",
+  "Bulancak",
+  "Çamoluk",
+  "Çanakçı",
+  "Dereli",
+  "Doğankent",
+  "Espiye",
+  "Eynesil",
+  "Görele",
+  "Güce",
+  "Keşap",
+  "Piraziz",
+  "Şebinkarahisar",
+  "Tirebolu",
+  "Yağlıdere"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Bulancak, Espiye, Tirebolu, Görele belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok; çoğu sadece haber"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü",
+   "tur": "diger",
+   "url": "https://giresun.gsb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Giresun Belediyesi",
+   "tur": "belediye",
+   "url": "https://giresun.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "sadece haber ve vefat ilanları; etkinlik takvimi yok (etkinlik RSS kategorileri boş)"
+  },
+  {
+   "ad": "Giresun Valiliği ve 16 ilçe kaymakamlığı",
+   "tur": "valilik",
+   "url": "https://www.giresun.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Giresun Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.giresun.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi sayfası bulunamadı; sadece duyurular"
+  },
+  {
+   "ad": "Giresun İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://giresun.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık etkinlikler (Uluslararası Giresun Aksu Festivali, Fındık Hasat Şenlikleri, Kümbet Yayla Şenliği…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/giresun",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "İl Milli Eğitim Müdürlüğü",
+   "tur": "diger",
+   "url": "https://giresun.meb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "idari haberler; etkinlik yok"
+  }
+ ]
+}

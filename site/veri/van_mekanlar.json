@@ -1,0 +1,105 @@
+[
+ {
+  "ad": "Akdamar Adası ve Kutsal Haç Kilisesi",
+  "ilce": "Gevaş",
+  "tur": "tarihi",
+  "simge": "⛪",
+  "ucretsiz": false,
+  "vikipedi": "Akdamar Kilisesi",
+  "aciklama": "Van Gölü'ndeki adada, taş kabartmalarıyla süslü 10. yüzyıl Ermeni kilisesi; tekneyle gidilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Akdamar_Kilisesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Van_Akdamar_Adas%C4%B1_Kilise.jpg/330px-Van_Akdamar_Adas%C4%B1_Kilise.jpg"
+ },
+ {
+  "ad": "Van Kalesi (Tuşpa)",
+  "ilce": "İpekyolu",
+  "tur": "tarihi",
+  "simge": "🏰",
+  "ucretsiz": false,
+  "vikipedi": "Van Kalesi",
+  "aciklama": "Urartu başkentinin kalesi; kayalıktan göl ve eski şehir manzarası izlenir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Van_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Van_Fortress_From_Northwest.JPG/330px-Van_Fortress_From_Northwest.JPG"
+ },
+ {
+  "ad": "Van Gölü",
+  "ilce": "Tuşba",
+  "tur": "doğa",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": "Van Gölü",
+  "aciklama": "Türkiye'nin en büyük gölü; sahil yürüyüşü ve gün batımı için güzel.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Van_G%C3%B6l%C3%BC"
+ },
+ {
+  "ad": "Van Müzesi",
+  "ilce": "İpekyolu",
+  "tur": "müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Van Yüzüncü Yıl Müzesi",
+  "aciklama": "Urartu eserlerinin yanı sıra Van'a özgü kültürel eserleri sergileyen müze."
+ },
+ {
+  "ad": "Hoşap Kalesi",
+  "ilce": "Gürpınar",
+  "tur": "tarihi",
+  "simge": "🏯",
+  "ucretsiz": true,
+  "vikipedi": "Hoşap Kalesi",
+  "aciklama": "Kayalık bir tepede yükselen, 17. yüzyılda yaptırılmış taş kale.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ho%C5%9Fap_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Xwe%C5%9Fav.jpg/330px-Xwe%C5%9Fav.jpg"
+ },
+ {
+  "ad": "Muradiye Şelalesi",
+  "ilce": "Muradiye",
+  "tur": "doğa",
+  "simge": "💦",
+  "ucretsiz": true,
+  "vikipedi": "Muradiye Şelalesi",
+  "aciklama": "Bendimahi Çayı üzerinde, gür akan ve yürüyüş yapılabilen doğal şelale.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Muradiye_%C5%9Eelalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/OTBendimahiSelalesi2.jpg/330px-OTBendimahiSelalesi2.jpg"
+ },
+ {
+  "ad": "Çavuştepe Kalesi",
+  "ilce": "Gürpınar",
+  "tur": "tarihi",
+  "simge": "🏺",
+  "ucretsiz": true,
+  "vikipedi": "Çavuştepe Kalesi",
+  "aciklama": "Urartu Kralı II. Sarduri döneminden kalma kale kalıntıları.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87avu%C5%9Ftepe_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Urartian_fort_in_%C3%87avu%C5%9Ftepe.jpg/330px-Urartian_fort_in_%C3%87avu%C5%9Ftepe.jpg"
+ },
+ {
+  "ad": "Van Kedisi Araştırma Merkezi",
+  "ilce": "Tuşba",
+  "tur": "doğa",
+  "simge": "🐱",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Van'a özgü, farklı renkli gözlerle tanınan Van kedilerinin yaşatıldığı merkez."
+ },
+ {
+  "ad": "Erek Dağı ve Erçek Gölü",
+  "ilce": "Edremit",
+  "tur": "doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": "Erek Dağı",
+  "aciklama": "Kayak ve doğa yürüyüşü için tercih edilen dağ ve yakınındaki göl.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Erek_Da%C4%9F%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Erek_Da%C4%9F%C4%B1_Ay%27%C4%B1n_Do%C4%9Fu%C5%9Fu.jpg/330px-Erek_Da%C4%9F%C4%B1_Ay%27%C4%B1n_Do%C4%9Fu%C5%9Fu.jpg"
+ },
+ {
+  "ad": "Kahvaltı Sokağı ve Çarşı",
+  "ilce": "İpekyolu",
+  "tur": "çarşı",
+  "simge": "🍳",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Van kahvaltısı, otlu peynir ve yöresel ürünlerin bulunduğu meşhur sokak."
+ }
+]

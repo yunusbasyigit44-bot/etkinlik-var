@@ -1,0 +1,116 @@
+{
+ "il": "kilis",
+ "guncelleme": "2026-10-29T16:46+03:00",
+ "ilceler": [
+  "Merkez",
+  "Elbeyli",
+  "Musabeyli",
+  "Polateli"
+ ],
+ "etkinlikler": [
+  {
+   "id": "21343caa50db",
+   "baslik": "10 Kasım Atatürk’ü Anma Programı",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": null,
+   "ilce": null,
+   "mekan": null,
+   "kategori": "Anma / Tören",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "Kilis İl Kültür ve Turizm Müdürlüğü",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://kilis.ktb.gov.tr/TR-409736/10-kasim-ataturku-anma-programi.html",
+   "gorsel": null
+  },
+  {
+   "id": "c84937444d90",
+   "baslik": "Kilis 7 Aralık Üniversitesi 17. Yıl Dönümü Etkinlikleri",
+   "tarih": "2026-12-07",
+   "bitis": null,
+   "saat": null,
+   "ilce": null,
+   "mekan": null,
+   "kategori": "Diğer",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "Kilis İl Kültür ve Turizm Müdürlüğü",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://kilis.ktb.gov.tr/TR-373782/kilis-7-aralik-universitesi-17-yil-donumu-etkinlikleri.html",
+   "gorsel": null
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Kilis İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://kilis.ktb.gov.tr",
+   "etkinlik_sayisi": 2,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Elbeyli, Musabeyli, Polateli belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Kilis 7 Aralık Üniversitesi",
+   "tur": "universite",
+   "url": "https://kilis.edu.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlikler haber biçiminde; listedeki tarih yayın tarihi, etkinlik tarihi değil"
+  },
+  {
+   "ad": "Kilis Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.kilis.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "site sertifikası doğrulanamıyor — okunamıyor"
+  },
+  {
+   "ad": "Kilis Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.kilis.gov.tr/duyurular",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller (Kilis Zeytin ve Zeytinyağı, Kültür Sanat vb.)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/kilis",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

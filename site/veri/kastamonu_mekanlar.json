@@ -1,0 +1,102 @@
+[
+ {
+  "ad": "Kastamonu Kalesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Kastamonu Kalesi",
+  "aciklama": "Şehrin üzerindeki kayalık tepede duran kale; surlarından kent ve çevresi görünür.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kastamonu_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Kastamonu_Kalesi.jpg/330px-Kastamonu_Kalesi.jpg"
+ },
+ {
+  "ad": "Nasrullah Camii ve Meydanı",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Nasrullah Camii",
+  "aciklama": "Nasrullah Meydanı'ndaki Osmanlı camisi ve çevresindeki tarihi çarşı sokakları.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Nasrullah_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Nasrullah_Mosque%2C_Kastamonu.jpg/330px-Nasrullah_Mosque%2C_Kastamonu.jpg"
+ },
+ {
+  "ad": "İsmail Bey Külliyesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Candaroğulları döneminden kalma, cami, medrese ve hamamı içeren külliye."
+ },
+ {
+  "ad": "Kastamonu Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Kastamonu ve çevresinden çıkan arkeolojik ve etnografik eserlerin sergilendiği şehir müzesi."
+ },
+ {
+  "ad": "Mahmut Bey Camii",
+  "ilce": "Daday",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Çivi kullanılmadan yapılmış, ahşap işçiliğiyle UNESCO Dünya Mirası listesinde yer alan çivisiz cami."
+ },
+ {
+  "ad": "Küre Dağları Milli Parkı",
+  "ilce": "Pınarbaşı",
+  "tur": "Doğa",
+  "simge": "🌲",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kanyonları, mağaraları ve yaban hayatıyla Karadeniz ormanlarının korunan en değerli bölgelerinden biri."
+ },
+ {
+  "ad": "Ilgarini Mağarası",
+  "ilce": "Pınarbaşı",
+  "tur": "Doğa",
+  "simge": "🕳️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Küre Dağları'nda, sarkıt ve dikitleriyle ziyaretçilere açık büyük kireçtaşı mağarası."
+ },
+ {
+  "ad": "İnebolu Evleri ve Sahili",
+  "ilce": "İnebolu",
+  "tur": "Tarihi yer",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": "İnebolu",
+  "aciklama": "Karadeniz kıyısında, geleneksel Osmanlı konaklarıyla bilinen sakin sahil kasabası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C4%B0nebolu",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Inebolu_general_view_038.jpg/330px-Inebolu_general_view_038.jpg"
+ },
+ {
+  "ad": "Cide Kıyıları",
+  "ilce": "Cide",
+  "tur": "Doğa",
+  "simge": "🏖️",
+  "ucretsiz": true,
+  "vikipedi": "Cide",
+  "aciklama": "Koyları ve plajlarıyla yazın kalabalıklaşan, kıyısında balıkçı kasabası havası taşıyan Karadeniz ilçesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Cide",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Gideros_Bay1.jpg/330px-Gideros_Bay1.jpg"
+ },
+ {
+  "ad": "Taşköprü Sarımsak Çarşısı",
+  "ilce": "Taşköprü",
+  "tur": "Çarşı",
+  "simge": "🧄",
+  "ucretsiz": true,
+  "vikipedi": "Taşköprü",
+  "aciklama": "Türkiye'nin ünlü Taşköprü sarımsağının yetiştiği ilçe; tarihi köprüsü ve Pompeipolis kalıntıları da yakındadır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ta%C5%9Fk%C3%B6pr%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Ta%C5%9Fk%C3%B6pr%C3%BC.jpg/330px-Ta%C5%9Fk%C3%B6pr%C3%BC.jpg"
+ }
+]

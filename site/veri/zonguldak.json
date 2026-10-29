@@ -1,0 +1,87 @@
+{
+ "il": "zonguldak",
+ "guncelleme": "2026-10-29T16:45+03:00",
+ "ilceler": [
+  "Merkez",
+  "Alaplı",
+  "Çaycuma",
+  "Devrek",
+  "Gökçebey",
+  "Kilimli",
+  "Kozlu",
+  "Ereğli"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Karadeniz Ereğli, Çaycuma, Devrek belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor (sonraki tur)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller (Uluslararası Zonguldak Kömür Kongresi, Kozlu Madenci Anma…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "Zonguldak Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.zonguldak.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası var ama şu an boş ('Henüz etkinlik bulunmuyor'); dolunca okunabilir"
+  },
+  {
+   "ad": "Zonguldak Bülent Ecevit Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.beun.edu.tr/arsiv/tum-etkinlikler.html",
+   "etkinlik_sayisi": 0,
+   "durum": "liste sadece afiş ve yayın tarihi veriyor; etkinlik tarihi görselin içinde — otomatik okunmuyor"
+  },
+  {
+   "ad": "Zonguldak Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.zonguldak.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Zonguldak İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://zonguldak.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/zonguldak",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

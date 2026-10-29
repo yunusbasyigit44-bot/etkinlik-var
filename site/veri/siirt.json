@@ -1,0 +1,80 @@
+{
+ "il": "siirt",
+ "guncelleme": "2026-10-29T16:44+03:00",
+ "ilceler": [
+  "Merkez",
+  "Aydınlar",
+  "Baykan",
+  "Eruh",
+  "Kurtalan",
+  "Pervari",
+  "Şirvan",
+  "Tillo"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Siirt Belediyesi",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi bulunamadı"
+  },
+  {
+   "ad": "Siirt Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.siirt.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Siirt Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.siirt.edu.tr/etkinliktakvimi.html",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Siirt İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://siirt.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Yıllık festivaller (Siirt Fıstık Festivali, Siirt Kültür ve Turizm günleri…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/siirt",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

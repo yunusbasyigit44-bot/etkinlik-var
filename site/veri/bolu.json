@@ -1,0 +1,95 @@
+{
+ "il": "bolu",
+ "guncelleme": "2026-10-29T16:40+03:00",
+ "ilceler": [
+  "Merkez",
+  "Dörtdivan",
+  "Gerede",
+  "Göynük",
+  "Kıbrıscık",
+  "Mengen",
+  "Mudurnu",
+  "Seben",
+  "Yeniçağa"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Bolu Abant İzzet Baysal Üniversitesi",
+   "tur": "universite",
+   "url": "https://ajanda.ibu.edu.tr/etkinlik/",
+   "etkinlik_sayisi": 0,
+   "durum": "Ajanda haber portalı; son kayıt Temmuz 2026, yaklaşan etkinlik takvimi yok"
+  },
+  {
+   "ad": "Bolu Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.bolu.bel.tr/kultursanatvesosyalisler/etkinlikler/",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlikler sayfası boş; duyurular idari"
+  },
+  {
+   "ad": "Bolu Valiliği ve 8 ilçe kaymakamlığı",
+   "tur": "valilik",
+   "url": "https://www.bolu.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Bolu İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://bolu.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü",
+   "tur": "diger",
+   "url": "https://bolu.gsb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi yok"
+  },
+  {
+   "ad": "Mudurnu, Göynük, Gerede belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller (Mengen Aşçılık, Kıbrıscık Kültür, Köroğlu, Abant Yaz Festivali…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/bolu",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "İl Milli Eğitim Müdürlüğü",
+   "tur": "diger",
+   "url": "https://bolu.meb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "idari haberler; etkinlik yok"
+  }
+ ]
+}

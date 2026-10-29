@@ -1,0 +1,100 @@
+[
+ {
+  "ad": "Pamukkale Travertenleri",
+  "ilce": "Pamukkale",
+  "tur": "Doğa / UNESCO",
+  "simge": "♨️",
+  "ucretsiz": false,
+  "vikipedi": "Pamukkale",
+  "aciklama": "Kireç birikintisiyle oluşmuş bembeyaz teraslar ve şifalı sıcak sular; UNESCO Dünya Mirası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Pamukkale",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Pamukkale_30.jpg/330px-Pamukkale_30.jpg"
+ },
+ {
+  "ad": "Hierapolis Antik Kenti",
+  "ilce": "Pamukkale",
+  "tur": "Antik kent / UNESCO",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Travertenlerin üstündeki Roma dönemi şehri; antik tiyatro, nekropol ve Antik Havuz görülmeye değer."
+ },
+ {
+  "ad": "Laodikya Antik Kenti",
+  "ilce": "Pamukkale",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Laodikya",
+  "aciklama": "Yedi Kilise'den birine ev sahipliği yapmış büyük antik şehir; kazılar sürdüğü için her yıl yeni yapılar ortaya çıkıyor.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Laodikya",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Laodicea_Ancient_City_2026%2C_15.jpg/330px-Laodicea_Ancient_City_2026%2C_15.jpg"
+ },
+ {
+  "ad": "Karahayıt Kırmızı Su",
+  "ilce": "Pamukkale",
+  "tur": "Doğa / kaplıca",
+  "simge": "🔴",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Demir oksitten kırmızı rengini alan, şifalı sularıyla bilinen termal bölge."
+ },
+ {
+  "ad": "Kaklık Mağarası",
+  "ilce": "Honaz",
+  "tur": "Doğa",
+  "simge": "🦇",
+  "ucretsiz": false,
+  "vikipedi": "Kaklık Mağarası",
+  "aciklama": "İçinde travertenleri andıran oluşumlar ve küçük göletleri olan, 'yeraltı Pamukkale'si' denen mağara.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kakl%C4%B1k_Ma%C4%9Faras%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Kakl%C4%B1k_Ma%C4%9Faras%C4%B1.jpg/330px-Kakl%C4%B1k_Ma%C4%9Faras%C4%B1.jpg"
+ },
+ {
+  "ad": "Honaz Dağı Milli Parkı",
+  "ilce": "Honaz",
+  "tur": "Milli park",
+  "simge": "⛰️",
+  "ucretsiz": false,
+  "vikipedi": "Honaz Dağı Millî Parkı",
+  "aciklama": "Ege'nin en yüksek dağlarından; yürüyüş ve doğa gözlemi için güzel bir alan.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Honaz_Da%C4%9F%C4%B1_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Mount_Honaz_Denizli_Turkey.jpg/330px-Mount_Honaz_Denizli_Turkey.jpg"
+ },
+ {
+  "ad": "Tripolis Antik Kenti",
+  "ilce": "Buldan",
+  "tur": "Antik kent",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Büyük Menderes kıyısında, tiyatro ve hamamlarıyla ayakta kalan Roma dönemi şehri."
+ },
+ {
+  "ad": "Denizli Kent Müzesi",
+  "ilce": "Merkezefendi",
+  "tur": "Müze",
+  "simge": "🖼️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehrin tarihini ve yaşamını anlatan, merkezde kolay ulaşılabilir müze."
+ },
+ {
+  "ad": "Çardak Gölü Kuş Gözlem Alanı",
+  "ilce": "Çardak",
+  "tur": "Doğa",
+  "simge": "🦢",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Göç mevsiminde kuş gözlemi için uygun sulak alan."
+ },
+ {
+  "ad": "Denizli Çarşısı",
+  "ilce": "Merkezefendi",
+  "tur": "Çarşı",
+  "simge": "🐓",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehrin simgesi Denizli horozunu ve yöresel tekstil ürünlerini bulabileceğiniz çarşı bölgesi."
+ }
+]

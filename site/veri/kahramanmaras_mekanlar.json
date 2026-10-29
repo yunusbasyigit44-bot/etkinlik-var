@@ -1,0 +1,89 @@
+[
+ {
+  "ad": "Kahramanmaraş Kalesi",
+  "ilce": "Dulkadiroğlu",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Kahramanmaraş Kalesi",
+  "aciklama": "Şehrin merkezindeki tepede yükselen tarihî kale; çevresindeki park ve çay bahçeleriyle şehir manzarası izlemek için güzel bir yer.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kahramanmara%C5%9F_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Maras_Zitadelle.JPG/330px-Maras_Zitadelle.JPG"
+ },
+ {
+  "ad": "Kahramanmaraş Ulu Camii",
+  "ilce": "Dulkadiroğlu",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Kahramanmaraş Ulu Camii",
+  "aciklama": "Şehrin en eski camilerinden biri; çarşının hemen yanında, taş işçiliği ve geniş avlusuyla görülmeye değer.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kahramanmara%C5%9F_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Kahramanmara%C5%9F_Grand_Mosque_portal.jpg/330px-Kahramanmara%C5%9F_Grand_Mosque_portal.jpg"
+ },
+ {
+  "ad": "Kahramanmaraş Müzesi",
+  "ilce": "Dulkadiroğlu",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Maraş ve çevresinin arkeolojik buluntularını ve etnografik eserlerini bir arada sergileyen şehir müzesi."
+ },
+ {
+  "ad": "Kapalı Çarşı ve Bakırcılar Çarşısı",
+  "ilce": "Dulkadiroğlu",
+  "tur": "Çarşı",
+  "simge": "🛍️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Maraş dondurması, baharat, bakır işleri ve Maraş bezi için alışveriş yapılan; tarihî dokulu çarşı bölgesi."
+ },
+ {
+  "ad": "Eshab-ı Kehf Külliyesi",
+  "ilce": "Elbistan",
+  "tur": "Tarihi yer",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Elbistan'da kayalara oyulu mağara ve külliye; mağarada uyuyan yedi genç hikâyesiyle ziyaret edilen kutsal mekân."
+ },
+ {
+  "ad": "Ahır Dağı",
+  "ilce": "Onikişubat",
+  "tur": "Doğa",
+  "simge": "🌲",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehir merkezinin hemen yanındaki dağ; mesire alanları ve seyir noktalarıyla kentlilerin piknik ve yürüyüş için sık uğradığı doğa köşesi."
+ },
+ {
+  "ad": "Kapıçam Yaylası",
+  "ilce": "Onikişubat",
+  "tur": "Doğa",
+  "simge": "🌳",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Çam ormanlarıyla çevrili, yazın serinlemeye gidilen yayla; yürüyüş ve piknik için ideal."
+ },
+ {
+  "ad": "Kahramanmaraş Kent Müzesi ve Tarihi Konaklar",
+  "ilce": "Dulkadiroğlu",
+  "tur": "Müze",
+  "simge": "🏠",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Eski Maraş evlerinin ve gündelik hayatın izlerini taşıyan konak ve müze alanları."
+ },
+ {
+  "ad": "Maraş Dondurma Tadımı",
+  "ilce": "Dulkadiroğlu",
+  "tur": "Lezzet",
+  "simge": "🍦",
+  "ucretsiz": false,
+  "vikipedi": "Maraş dövme dondurması",
+  "aciklama": "Salep ve sakızla yapılan, bıçakla yenen meşhur Maraş dondurmasını çarşıdaki dondurmacılarda denemeden dönmeyin.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Mara%C5%9F_d%C3%B6vme_dondurmas%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Dondurma_%285065600007%29.jpg/330px-Dondurma_%285065600007%29.jpg"
+ }
+]

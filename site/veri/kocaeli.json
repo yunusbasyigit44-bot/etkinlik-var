@@ -1,0 +1,170 @@
+{
+ "il": "kocaeli",
+ "guncelleme": "2026-10-29T16:44+03:00",
+ "ilceler": [
+  "Başiskele",
+  "Çayırova",
+  "Darıca",
+  "Derince",
+  "Dilovası",
+  "Gebze",
+  "Gölcük",
+  "İzmit",
+  "Kandıra",
+  "Karamürsel",
+  "Kartepe",
+  "Körfez"
+ ],
+ "etkinlikler": [
+  {
+   "id": "988521ac17fa",
+   "baslik": "“Cumhuriyet ve Biz – 10“",
+   "tarih": "2026-10-27",
+   "bitis": "2026-11-06",
+   "saat": null,
+   "ilce": "İzmit",
+   "mekan": null,
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": "Sergi",
+   "kaynak_ad": "İzmit Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://izmit.bel.tr/2026-etkinliklerimiz/",
+   "gorsel": "https://izmit.bel.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-11.08.44-640x905.jpeg"
+  },
+  {
+   "id": "b72ab74a567b",
+   "baslik": "Oyuncak Müzesi Atölyeleri",
+   "tarih": "2026-10-29",
+   "bitis": null,
+   "saat": null,
+   "ilce": "İzmit",
+   "mekan": null,
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Atölye",
+   "kaynak_ad": "İzmit Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://izmit.bel.tr/2026-etkinliklerimiz/",
+   "gorsel": "https://izmit.bel.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-12.06.26-640x853.jpeg"
+  },
+  {
+   "id": "94dce62bc2e2",
+   "baslik": "Ritim ve Sahne Sanatları Topluluğu",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "İzmit",
+   "mekan": null,
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Performans",
+   "kaynak_ad": "İzmit Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://izmit.bel.tr/2026-etkinliklerimiz/",
+   "gorsel": "https://izmit.bel.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-11.36.22-640x853.jpeg"
+  },
+  {
+   "id": "d368a5612eda",
+   "baslik": "Tafiti Çölde Macera",
+   "tarih": "2026-10-31",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Gebze",
+   "mekan": "Gebze Kültür Merkezi",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": "Çocuk Sineması",
+   "kaynak_ad": "Gebze Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/tafiti-colde-macera_1030.html",
+   "gorsel": "https://www.gebze.bel.tr/etkinlik/20260925140701.jpg"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "İzmit Belediyesi",
+   "tur": "belediye",
+   "url": "https://izmit.bel.tr/2026-etkinliklerimiz/",
+   "etkinlik_sayisi": 3,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Gebze Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.gebze.bel.tr/json/etkinlik.json",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Gebze Teknik Üniversitesi",
+   "tur": "universite",
+   "url": "https://takvim.gtu.edu.tr/",
+   "etkinlik_sayisi": 0,
+   "durum": "takvim sayfası çok büyük (14 MB) ve ders programı karışık; okunmuyor"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü",
+   "tur": "diger",
+   "url": "https://kocaeli.gsb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi yok"
+  },
+  {
+   "ad": "Gölcük, Körfez, Darıca, Başiskele, Kartepe belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor (sonraki tur)"
+  },
+  {
+   "ad": "Kartepe Kış Festivali, Kocaeli Kitap Fuarı…",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "Kocaeli Büyükşehir Belediyesi (etkinlikler, Şehir Tiyatrosu)",
+   "tur": "belediye",
+   "url": "https://www.kocaeli.bel.tr/etkinlikler/",
+   "etkinlik_sayisi": 0,
+   "durum": "liste sayfaya sonradan yükleniyor ve şu an boş dönüyor; okunamıyor"
+  },
+  {
+   "ad": "Kocaeli Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.kocaeli.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Kocaeli Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.kocaeli.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "sitenin sertifikası doğrulanamıyor (SSL hatası) — okunmuyor"
+  },
+  {
+   "ad": "Kocaeli İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://kocaeli.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/kocaeli",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

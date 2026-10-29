@@ -1,0 +1,127 @@
+[
+ {
+  "ad": "Kaleiçi",
+  "ilce": "Muratpaşa",
+  "tur": "Tarihi mahalle",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": "Kaleiçi",
+  "aciklama": "Dar sokaklarında Osmanlı evleri, butik oteller ve kafelerle dolu, şehrin eski çekirdeği."
+ },
+ {
+  "ad": "Hadrian Kapısı",
+  "ilce": "Muratpaşa",
+  "tur": "Tarihi yapı",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": "Hadrian Kapısı",
+  "aciklama": "Roma İmparatoru Hadrianus için yapılmış, Kaleiçi'ne açılan üç kemerli mermer kapı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Hadrian_Kap%C4%B1s%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Hadrian_Kap%C4%B1s%C4%B1_%284%29.JPG/330px-Hadrian_Kap%C4%B1s%C4%B1_%284%29.JPG"
+ },
+ {
+  "ad": "Yivli Minare",
+  "ilce": "Muratpaşa",
+  "tur": "Cami / simge",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Yivli Minare",
+  "aciklama": "Antalya'nın simgesi sayılan, yivli gövdesiyle tanınan Selçuklu dönemi minaresi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Yivli_Minare",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Yivli_Minaret_Mosque_Antalya.jpg/330px-Yivli_Minaret_Mosque_Antalya.jpg"
+ },
+ {
+  "ad": "Antalya Müzesi",
+  "ilce": "Muratpaşa",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Perge'den çıkan heykelleriyle Türkiye'nin en zengin arkeoloji müzelerinden biri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Antalya_M%C3%BCzesi"
+ },
+ {
+  "ad": "Düden Şelalesi",
+  "ilce": "Muratpaşa",
+  "tur": "Doğa / şelale",
+  "simge": "💦",
+  "ucretsiz": false,
+  "vikipedi": "Düden Şelaleleri",
+  "aciklama": "Şehrin içinde denize dökülen Aşağı Düden ve parkıyla keyifli bir mola noktası."
+ },
+ {
+  "ad": "Konyaaltı Plajı",
+  "ilce": "Konyaaltı",
+  "tur": "Plaj",
+  "simge": "🏖️",
+  "ucretsiz": true,
+  "vikipedi": "Konyaaltı Plajı",
+  "aciklama": "Toros dağları manzaralı uzun çakıl plaj; yürüyüş ve deniz için şehre en yakın yer.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Konyaalt%C4%B1_Plaj%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg/330px-Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg"
+ },
+ {
+  "ad": "Aspendos Antik Tiyatrosu",
+  "ilce": "Serik",
+  "tur": "Antik tiyatro",
+  "simge": "🎭",
+  "ucretsiz": false,
+  "vikipedi": "Aspendos",
+  "aciklama": "Dünyanın en iyi korunmuş Roma tiyatrolarından biri; yaz aylarında festival ve operalara sahne olur.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Aspendos",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Aspendos_Amphitheatre.jpg/330px-Aspendos_Amphitheatre.jpg"
+ },
+ {
+  "ad": "Perge Antik Kenti",
+  "ilce": "Aksu",
+  "tur": "Antik kent",
+  "simge": "🗿",
+  "ucretsiz": false,
+  "vikipedi": "Perge",
+  "aciklama": "Sütunlu caddesi, stadyumu ve tiyatrosuyla Pamfilya bölgesinin önemli antik kenti.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Perge",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Perge_city_overview.jpg/330px-Perge_city_overview.jpg"
+ },
+ {
+  "ad": "Termessos",
+  "ilce": "Döşemealtı",
+  "tur": "Antik kent",
+  "simge": "⛰️",
+  "ucretsiz": false,
+  "vikipedi": "Termessos",
+  "aciklama": "Dağların yüksek bir yerinde kurulu, yürüyüşle ulaşılan ve kayalık manzarasıyla büyüleyen antik kent.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Termessos",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Termessos_-_Theater.jpg/330px-Termessos_-_Theater.jpg"
+ },
+ {
+  "ad": "Olympos ve Çıralı",
+  "ilce": "Kemer",
+  "tur": "Antik kent / doğa",
+  "simge": "🔥",
+  "ucretsiz": false,
+  "vikipedi": "Olympos",
+  "aciklama": "Orman içinde antik kalıntılar ve Yanartaş alevleriyle sahile uzanan sakin bir bölge."
+ },
+ {
+  "ad": "Köprülü Kanyon",
+  "ilce": "Manavgat",
+  "tur": "Doğa / kanyon",
+  "simge": "🌊",
+  "ucretsiz": false,
+  "vikipedi": "Köprülü Kanyon",
+  "aciklama": "Rafting ve doğa yürüyüşü için ünlü, Roma köprüsüyle bilinen derin kanyon.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/K%C3%B6pr%C3%BCl%C3%BC_Kanyon",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/K%C3%B6pr%C3%BCl%C3%BC_Kanyon.JPG/330px-K%C3%B6pr%C3%BCl%C3%BC_Kanyon.JPG"
+ },
+ {
+  "ad": "Alanya Kalesi",
+  "ilce": "Alanya",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": false,
+  "vikipedi": "Alanya Kalesi",
+  "aciklama": "Selçuklu döneminden kalma, yarımadaya yayılan kale; Kızıl Kule ve denize bakan manzarasıyla bilinir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Alanya_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Alanya_Castle.jpeg/330px-Alanya_Castle.jpeg"
+ }
+]

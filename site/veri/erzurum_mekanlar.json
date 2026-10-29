@@ -1,0 +1,107 @@
+[
+ {
+  "ad": "Çifte Minareli Medrese",
+  "ilce": "Yakutiye",
+  "tur": "Tarihi yer / müze",
+  "simge": "🕌",
+  "ucretsiz": false,
+  "vikipedi": "Çifte Minareli Medrese (Erzurum)",
+  "aciklama": "Selçuklu döneminden kalma, iki minaresiyle şehrin simgesi olan medrese. Taç kapısı taş işçiliğiyle ünlüdür.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87ifte_Minareli_Medrese_(Erzurum)",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Erzurum%2C_madrasa_dei_minareti_gemelli%2C_1253_ca.%2C_esterno_01.jpg/330px-Erzurum%2C_madrasa_dei_minareti_gemelli%2C_1253_ca.%2C_esterno_01.jpg"
+ },
+ {
+  "ad": "Yakutiye Medresesi",
+  "ilce": "Yakutiye",
+  "tur": "Müze / tarihi yer",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Yakutiye Medresesi",
+  "aciklama": "İlhanlı döneminden kalan, günümüzde Türk-İslam Eserleri ve Etnografya müzesi olarak gezilen medrese.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Yakutiye_Medresesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Erzurum%2C_madrasa_yakutiye%2C_1310%2C_esterno_01.jpg/330px-Erzurum%2C_madrasa_yakutiye%2C_1310%2C_esterno_01.jpg"
+ },
+ {
+  "ad": "Üç Kümbetler",
+  "ilce": "Yakutiye",
+  "tur": "Tarihi yer",
+  "simge": "⚱️",
+  "ucretsiz": true,
+  "vikipedi": "Üç Kümbetler",
+  "aciklama": "Selçuklu dönemine ait üç mezar kümbeti. Çifte Minareli Medrese'ye yakın olduğundan birlikte gezilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%9C%C3%A7_K%C3%BCmbetler",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Three_tombs_-_%C3%9C%C3%A7_k%C3%BCmbetler_04.jpg/330px-Three_tombs_-_%C3%9C%C3%A7_k%C3%BCmbetler_04.jpg"
+ },
+ {
+  "ad": "Erzurum Kalesi ve Saat Kulesi",
+  "ilce": "Yakutiye",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Şehrin ortasındaki tarihi kale; surların üstünden Erzurum'u kuşbakışı görmek mümkün."
+ },
+ {
+  "ad": "Erzurum Ulu Camii",
+  "ilce": "Yakutiye",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Erzurum Ulu Camii",
+  "aciklama": "Şehrin en eski ve en büyük camilerinden; sade, geniş mekânıyla Selçuklu mimarisini yansıtır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Erzurum_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Erzurum_Ulu_Camii_d%C4%B1%C5%9F_g%C3%B6r%C3%BCn%C3%BCm.jpg/330px-Erzurum_Ulu_Camii_d%C4%B1%C5%9F_g%C3%B6r%C3%BCn%C3%BCm.jpg"
+ },
+ {
+  "ad": "Erzurum Kongresi (Kongre Binası ve Müzesi)",
+  "ilce": "Yakutiye",
+  "tur": "Müze / tarihi yer",
+  "simge": "📜",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "1919 Erzurum Kongresi'nin toplandığı okul binası; bugün müze olarak ziyaret edilir."
+ },
+ {
+  "ad": "Palandöken Kayak Merkezi",
+  "ilce": "Palandöken",
+  "tur": "Kış sporları",
+  "simge": "⛷️",
+  "ucretsiz": false,
+  "vikipedi": "Palandöken Kayak Merkezi",
+  "aciklama": "Türkiye'nin en uzun kayak sezonlarından birine sahip, otelleriyle ünlü büyük kış sporları merkezi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Paland%C3%B6ken_Kayak_Merkezi"
+ },
+ {
+  "ad": "Tortum Şelalesi",
+  "ilce": "Uzundere",
+  "tur": "Doğa / şelale",
+  "simge": "💦",
+  "ucretsiz": true,
+  "vikipedi": "Tortum Şelalesi",
+  "aciklama": "Türkiye'nin en yüksek şelalelerinden biri; Tortum Gölü'ne akar ve çevresi yürüyüşe uygun.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Tortum_%C5%9Eelalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/tr/thumb/9/99/Tortum_%C5%9Eelalesi.jpg/330px-Tortum_%C5%9Eelalesi.jpg"
+ },
+ {
+  "ad": "Tortum Gölü",
+  "ilce": "Uzundere",
+  "tur": "Doğa / göl",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": "Tortum Gölü",
+  "aciklama": "Heyelanla oluşmuş, çevresi dağlarla çevrili sakin göl; kıyısında piknik ve fotoğraf molası verilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Tortum_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_Tortum_01.jpg/330px-Lake_Tortum_01.jpg"
+ },
+ {
+  "ad": "Oltu Kalesi",
+  "ilce": "Oltu",
+  "tur": "Kale",
+  "simge": "🏯",
+  "ucretsiz": true,
+  "vikipedi": "Oltu Kalesi",
+  "aciklama": "Oltu ilçesinde yüksek bir tepede duran eski kale. Oltu taşı el sanatlarıyla tanınan ilçeye uğrayanların rotasındadır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Oltu_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Oltu.jpg/330px-Oltu.jpg"
+ }
+]

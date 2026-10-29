@@ -1,0 +1,105 @@
+[
+ {
+  "ad": "Eğirdir Gölü",
+  "ilce": "Eğirdir",
+  "tur": "Doğa",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": "Eğirdir Gölü",
+  "aciklama": "Türkiye'nin dördüncü büyük gölü; sahil yürüyüşü, balık ve su sporları için güzel.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/E%C4%9Firdir_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_Egirdir.jpg/330px-Lake_Egirdir.jpg"
+ },
+ {
+  "ad": "Eğirdir Kalesi",
+  "ilce": "Eğirdir",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Eğirdir Kalesi",
+  "aciklama": "Göl kıyısındaki eski kale; çevresindeki dar sokaklar ve kafelerle keyifli bir gezi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/E%C4%9Firdir_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/E%C4%9Firdir_Castle.jpg/330px-E%C4%9Firdir_Castle.jpg"
+ },
+ {
+  "ad": "Davraz Dağı",
+  "ilce": "Merkez",
+  "tur": "Doğa / kış sporları",
+  "simge": "⛷️",
+  "ucretsiz": false,
+  "vikipedi": "Davraz Dağı",
+  "aciklama": "Kış aylarında kayak merkezi, yazın ise yürüyüş ve manzara için uğranan dağ.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Davraz_Da%C4%9F%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/DavrazDagi.jpg/330px-DavrazDagi.jpg"
+ },
+ {
+  "ad": "Gölcük Tabiat Parkı",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🌳",
+  "ucretsiz": false,
+  "vikipedi": "Gölcük Tabiat Parkı",
+  "aciklama": "Volkanik krater gölünün çevresindeki orman; piknik ve yürüyüş için sevilen yer.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Isparta_G%C3%B6lc%C3%BCk_G%C3%B6l%C3%BC.jpg/330px-Isparta_G%C3%B6lc%C3%BCk_G%C3%B6l%C3%BC.jpg"
+ },
+ {
+  "ad": "Kovada Gölü Millî Parkı",
+  "ilce": "Eğirdir",
+  "tur": "Doğa",
+  "simge": "🦌",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Zengin bitki örtüsü ve kuş türleriyle sakin, doğal bir göl çevresi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kovada_G%C3%B6l%C3%BC_Mill%C3%AE_Park%C4%B1"
+ },
+ {
+  "ad": "Pisidia Antiokheiası",
+  "ilce": "Yalvaç",
+  "tur": "Antik kent",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Aziz Pavlus'un da uğradığı antik kent; Roma dönemi su kemerleri ve tapınak kalıntıları var."
+ },
+ {
+  "ad": "Zindan Mağarası",
+  "ilce": "Aksu",
+  "tur": "Doğa / mağara",
+  "simge": "🕳️",
+  "ucretsiz": false,
+  "vikipedi": "Zindan Mağarası",
+  "aciklama": "Sarkıt ve dikitleriyle ziyaretçilerini karşılayan, iyi düzenlenmiş mağara.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Zindan_Ma%C4%9Faras%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Aksu_30_05_1997_Zindan_Magaras%C4%B1_H%C3%B6hleneingang.jpg/330px-Aksu_30_05_1997_Zindan_Magaras%C4%B1_H%C3%B6hleneingang.jpg"
+ },
+ {
+  "ad": "Firdevs Bey Camii",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Isparta merkezinin tarihî camilerinden; Osmanlı döneminden kalma mimarisiyle dikkat çeker."
+ },
+ {
+  "ad": "Yazılı Kanyon Tabiat Parkı",
+  "ilce": "Sütçüler",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": false,
+  "vikipedi": "Yazılı Kanyon Tabiat Parkı",
+  "aciklama": "Derin kanyonu ve yürüyüş patikalarıyla doğaseverlerin sevdiği alan.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Yaz%C4%B1l%C4%B1_Kanyon_Tabiat_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/P_20180323_124555.jpg/330px-P_20180323_124555.jpg"
+ },
+ {
+  "ad": "Isparta Gül Bahçeleri",
+  "ilce": "Merkez",
+  "tur": "Doğa / kültür",
+  "simge": "🌹",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Isparta'nın simgesi gül; mayıs-haziranda gül hasadı ve gül ürünleri için bahçeler gezilebilir."
+ }
+]

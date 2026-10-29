@@ -1,0 +1,150 @@
+{
+ "il": "hatay",
+ "guncelleme": "2026-10-29T16:42+03:00",
+ "ilceler": [
+  "Antakya",
+  "Altınözü",
+  "Arsuz",
+  "Belen",
+  "Defne",
+  "Dörtyol",
+  "Erzin",
+  "Hassa",
+  "İskenderun",
+  "Kırıkhan",
+  "Kumlu",
+  "Payas",
+  "Reyhanlı",
+  "Samandağ",
+  "Yayladağı"
+ ],
+ "etkinlikler": [
+  {
+   "id": "8d811d8666fd",
+   "baslik": "Kendi Gök Kubbemiz (Yahya Kemal)",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Antakya",
+   "mekan": "Hatay DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kendi-gok-kubbemiz-yahya-kemal",
+   "gorsel": "veri/gorsel/dt-kendi-gok-kubbemiz-yahya-kemal.jpg"
+  },
+  {
+   "id": "b9d969d495ec",
+   "baslik": "Kendi Gök Kubbemiz (Yahya Kemal)",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Antakya",
+   "mekan": "Hatay DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kendi-gok-kubbemiz-yahya-kemal",
+   "gorsel": "veri/gorsel/dt-kendi-gok-kubbemiz-yahya-kemal.jpg"
+  },
+  {
+   "id": "0cb2f9aa7a0f",
+   "baslik": "Kendi Gök Kubbemiz (Yahya Kemal)",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Antakya",
+   "mekan": "Hatay DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kendi-gok-kubbemiz-yahya-kemal",
+   "gorsel": "veri/gorsel/dt-kendi-gok-kubbemiz-yahya-kemal.jpg"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 3,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi yok"
+  },
+  {
+   "ad": "Hatay Büyükşehir Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.hatay.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Hatay Mustafa Kemal Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.mku.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "site sadece JavaScript ile açılıyor — okunamıyor"
+  },
+  {
+   "ad": "Hatay Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.hatay.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Hatay İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://hatay.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller (Zeytin Festivali, Uluslararası Antakya Medeniyetler Korosu…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/hatay",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "İskenderun Teknik Üniversitesi",
+   "tur": "universite",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi bulunamadı"
+  },
+  {
+   "ad": "İskenderun, Defne, Samandağ, Arsuz belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor"
+  }
+ ]
+}

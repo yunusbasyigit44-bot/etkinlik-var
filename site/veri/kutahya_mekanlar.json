@@ -1,0 +1,89 @@
+[
+ {
+  "ad": "Kütahya Kalesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehrin üzerindeki tepede duran, geniş surlu Bizans ve Osmanlı kalesi."
+ },
+ {
+  "ad": "Kossuth Evi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏠",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Macar lider Lajos Kossuth'un sürgünde yaşadığı, bugün müze olan ev."
+ },
+ {
+  "ad": "Kütahya Ulu Camii",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Kütahya Ulu Camii",
+  "aciklama": "Germiyanoğulları döneminden kalma, şehrin en eski camilerinden biri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/K%C3%BCtahya_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/K%C3%BCtahya_ulu_cami_bat%C4%B1.JPG/330px-K%C3%BCtahya_ulu_cami_bat%C4%B1.JPG"
+ },
+ {
+  "ad": "Çini Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Şehrin ünlü çinicilik geleneğini anlatan müze."
+ },
+ {
+  "ad": "Kütahya Arkeoloji Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Kütahya Müzesi",
+  "aciklama": "Bölgenin Frig ve Roma dönemi eserlerini sergileyen müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/K%C3%BCtahya_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Vacidiye_giri%C5%9F.JPG/330px-Vacidiye_giri%C5%9F.JPG"
+ },
+ {
+  "ad": "Aizanoi Antik Kenti",
+  "ilce": "Çavdarhisar",
+  "tur": "Antik kent",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Aizanoi",
+  "aciklama": "Zeus Tapınağı ile ünlü, çok iyi korunmuş Roma dönemi antik kenti.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Aizanoi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Aizanoi_Zeus_Tap%C4%B1na%C4%9F%C4%B1_21.jpg/330px-Aizanoi_Zeus_Tap%C4%B1na%C4%9F%C4%B1_21.jpg"
+ },
+ {
+  "ad": "Murat Dağı",
+  "ilce": "Gediz",
+  "tur": "Doğa",
+  "simge": "🏔️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kütahya ve Uşak sınırındaki yüksek dağ; yayla ve yürüyüş rotaları var."
+ },
+ {
+  "ad": "Simav Eynal Kaplıcası",
+  "ilce": "Simav",
+  "tur": "Doğa",
+  "simge": "♨️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Simav'da şifalı sularıyla bilinen kaplıca bölgesi."
+ },
+ {
+  "ad": "Germiyan Sokağı",
+  "ilce": "Merkez",
+  "tur": "Sokak / Çarşı",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Restore edilmiş Kütahya evleriyle yürümesi güzel eski mahalle sokağı."
+ }
+]

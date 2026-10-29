@@ -1,0 +1,80 @@
+[
+ {
+  "ad": "Cudi Dağı",
+  "ilce": "Cizre",
+  "tur": "Dağ",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": "Cudi Dağı",
+  "aciklama": "Kutsal sayılan efsanelerle anılan, bölgenin simge dağı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Cudi_Da%C4%9F%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Cudi-dagh-tr-1829.jpg/330px-Cudi-dagh-tr-1829.jpg"
+ },
+ {
+  "ad": "Nuh Peygamber Türbesi",
+  "ilce": "Cizre",
+  "tur": "Türbe",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Cizre'de Nuh Peygamber'e atfedilen türbe; inanç turizminin duraklarından."
+ },
+ {
+  "ad": "Cizre Ulu Camii",
+  "ilce": "Cizre",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Cizre Ulu Camii",
+  "aciklama": "Cizre'nin Artuklu dönemi izleri taşıyan tarihi camisi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Cizre_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Mizgefta_Mezin_a_Ciz%C3%AEra_Botan_2009_3.JPG/330px-Mizgefta_Mezin_a_Ciz%C3%AEra_Botan_2009_3.JPG"
+ },
+ {
+  "ad": "Cizre Kırmızı Medrese",
+  "ilce": "Cizre",
+  "tur": "Medrese",
+  "simge": "🧱",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kırmızı tuğlalarıyla bilinen, bölgenin eski medrese yapılarından."
+ },
+ {
+  "ad": "Gabar Dağı",
+  "ilce": "Beytüşşebap",
+  "tur": "Dağ",
+  "simge": "🏔️",
+  "ucretsiz": true,
+  "vikipedi": "Küpeli Dağı",
+  "aciklama": "Dağlık Gabar çevresi; doğa ve yayla manzarası sunuyor.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/K%C3%BCpeli_Da%C4%9F%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Gabar_mointain.jpg/330px-Gabar_mointain.jpg"
+ },
+ {
+  "ad": "Dicle Nehri Kıyısı (Cizre)",
+  "ilce": "Cizre",
+  "tur": "Nehir",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Cizre'den geçen Dicle'nin kıyısı; yürüyüş ve dinlenme alanı."
+ },
+ {
+  "ad": "Silopi Habur Sınır Kapısı Çevresi",
+  "ilce": "Silopi",
+  "tur": "Sınır",
+  "simge": "🛂",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Irak sınırındaki işlek kapı; Silopi'nin ticaret hayatını gösteren bölge."
+ },
+ {
+  "ad": "Uludere Doğası",
+  "ilce": "Uludere",
+  "tur": "Doğa",
+  "simge": "🌿",
+  "ucretsiz": true,
+  "vikipedi": "Uludere",
+  "aciklama": "Uludere çevresinde dağlar, vadiler ve köy yolları; sakin bir doğa gezisi."
+ }
+]

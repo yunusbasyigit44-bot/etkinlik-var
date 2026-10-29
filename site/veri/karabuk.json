@@ -1,0 +1,85 @@
+{
+ "il": "karabuk",
+ "guncelleme": "2026-10-29T16:46+03:00",
+ "ilceler": [
+  "Merkez",
+  "Eflani",
+  "Eskipazar",
+  "Ovacık",
+  "Safranbolu",
+  "Yenice"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Karabük Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.karabuk.bel.tr/duyurular.asp",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik takvimi yok"
+  },
+  {
+   "ad": "Karabük Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.karabuk.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Karabük Üniversitesi",
+   "tur": "universite",
+   "url": "https://takvim.karabuk.edu.tr/",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Karabük İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://karabuk.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Safranbolu Belediyesi",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor (sonraki tur)"
+  },
+  {
+   "ad": "Yıllık festivaller (Safranbolu Lokumu ve Safran, Yörük Şenliği…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/karabuk",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

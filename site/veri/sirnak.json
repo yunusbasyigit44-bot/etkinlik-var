@@ -1,0 +1,79 @@
+{
+ "il": "sirnak",
+ "guncelleme": "2026-10-29T16:46+03:00",
+ "ilceler": [
+  "Merkez",
+  "Beytüşşebap",
+  "Cizre",
+  "Güçlükonak",
+  "İdil",
+  "Silopi",
+  "Uludere"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/sirnak",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "Şırnak Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Şırnak ve Cizre belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor"
+  },
+  {
+   "ad": "Şırnak Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.sirnak.edu.tr/tr/etkinlikler/",
+   "etkinlik_sayisi": 0,
+   "durum": "listedeki tarihler yayın tarihi; etkinlik tarihi ayrı verilmiyor — okunmuyor"
+  },
+  {
+   "ad": "Şırnak İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://sirnak.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  }
+ ]
+}

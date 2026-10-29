@@ -1,0 +1,70 @@
+[
+ {
+  "ad": "Muş Kalesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Muş Kalesi",
+  "aciklama": "Şehir merkezinde yer alan, kuruluşu çok eskiye dayanan tarihî kale; Muş Ovası'na bakan manzarasıyla bilinir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Mu%C5%9F_Kalesi"
+ },
+ {
+  "ad": "Muş Ulu Camii",
+  "ilce": "Merkez",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Muş Ulu Camii",
+  "aciklama": "Şehir merkezinde, Alaeddin Bey ve Hacı Şeref camilerinin yakınındaki tarihî cami.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Mu%C5%9F_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Mu%C5%9F_Ulucamii.jpg/330px-Mu%C5%9F_Ulucamii.jpg"
+ },
+ {
+  "ad": "Malazgirt Meydan Muharebesi Tarihî Millî Parkı",
+  "ilce": "Malazgirt",
+  "tur": "Tarihi alan",
+  "simge": "🇹🇷",
+  "ucretsiz": true,
+  "vikipedi": "Malazgirt Meydan Muharebesi Tarihî Millî Parkı",
+  "aciklama": "1071 Malazgirt Zaferi'nin yaşandığı alan; her yıl Ağustos'un sonunda büyük anma törenleri yapılır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Malazgirt_Meydan_Muharebesi_Tarih%C3%AE_Mill%C3%AE_Park%C4%B1"
+ },
+ {
+  "ad": "Muş Ovası",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🌾",
+  "ucretsiz": true,
+  "vikipedi": "Muş Ovası",
+  "aciklama": "Türkiye'nin geniş ve verimli ovalarından biri; Murat Nehri'nin geçtiği düzlükte tarlalar ve köyler uzanır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Mu%C5%9F_Ovas%C4%B1"
+ },
+ {
+  "ad": "Murat Nehri",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Fırat'ın iki ana kolundan biri olan Murat Nehri, Muş Ovası'ndan geçer; kıyılarında yürüyüş ve piknik yapılabilir."
+ },
+ {
+  "ad": "Muş Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Bölgenin arkeolojik ve etnografik eserlerini sergileyen şehir müzesi."
+ },
+ {
+  "ad": "Alaeddin Bey ve Hacı Şeref Camileri",
+  "ilce": "Merkez",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Muş Ulu Camii'nin hemen yanında yer alan iki tarihî cami; şehrin eski merkezinde birlikte gezilebilir."
+ }
+]

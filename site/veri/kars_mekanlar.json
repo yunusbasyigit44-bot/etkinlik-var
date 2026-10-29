@@ -1,0 +1,80 @@
+[
+ {
+  "ad": "Ani Örenyeri",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Ani",
+  "aciklama": "Ermeni ve Selçuklu döneminden kalma kilise ve camileriyle, Arpaçay kıyısında kurulu \"1001 kilise şehri\"; UNESCO Dünya Mirası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ani",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Ani_Harabeleri_2.jpg/330px-Ani_Harabeleri_2.jpg"
+ },
+ {
+  "ad": "Kars Kalesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Kars Kalesi",
+  "aciklama": "Şehrin tepesinde yükselen ortaçağ kalesi; aşağıdaki eski Rus mimarili mahalleyi ve kenti tepeden görürsünüz.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kars_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Kars%2C_castello%2C_veduta_01.jpg/330px-Kars%2C_castello%2C_veduta_01.jpg"
+ },
+ {
+  "ad": "Kars Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Ani ve çevresinden çıkan eserleri, etnografya ve arkeoloji koleksiyonunu sergileyen şehir müzesi."
+ },
+ {
+  "ad": "Kümbet Camii (Havariler Kilisesi)",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "⛪",
+  "ucretsiz": true,
+  "vikipedi": "Kümbet Camii",
+  "aciklama": "Kars Çayı kıyısında, on iki havari kabartmalı kubbesiyle bilinen eski Ermeni kilisesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/K%C3%BCmbet_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Kars_Armenian_Cathedral.jpg/330px-Kars_Armenian_Cathedral.jpg"
+ },
+ {
+  "ad": "Taş Köprü",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🌉",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kars Çayı üzerindeki tarihi taş köprü; eski Baltık mimarili çarşı ve han sokaklarına açılır."
+ },
+ {
+  "ad": "Sarıkamış Kayak Merkezi",
+  "ilce": "Sarıkamış",
+  "tur": "Doğa",
+  "simge": "⛷️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Sarıçam ormanları arasında, kuru ve bol karıyla ünlü kış sporları ve kayak merkezi."
+ },
+ {
+  "ad": "Allahuekber Dağları Milli Parkı",
+  "ilce": "Sarıkamış",
+  "tur": "Doğa",
+  "simge": "🌲",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Birinci Dünya Savaşı'nın Sarıkamış Harekâtı'nın yaşandığı, çam ormanları ve şehitliğiyle anılan milli park."
+ },
+ {
+  "ad": "Çıldır Gölü",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kars ve Ardahan arasında, kışın donup üstünde atlı kızak gezintisi yapılan büyük göl."
+ }
+]

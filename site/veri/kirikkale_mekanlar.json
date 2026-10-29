@@ -1,0 +1,76 @@
+[
+ {
+  "ad": "Kapulukaya Barajı",
+  "ilce": "Merkez",
+  "tur": "Baraj gölü",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": "Kapulukaya Barajı ve Hidroelektrik Santrali",
+  "aciklama": "Kızılırmak üzerindeki baraj gölü; kıyısında piknik ve yürüyüş yapılıyor.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kapulukaya_Baraj%C4%B1_ve_Hidroelektrik_Santrali"
+ },
+ {
+  "ad": "Hasandede Türbesi",
+  "ilce": "Merkez",
+  "tur": "Türbe",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Anadolu'nun eski tasavvuf büyüklerinden Hasandede'ye ait türbe; yöre halkının ziyaret yeri."
+ },
+ {
+  "ad": "Kırıkkale Cumhuriyet Meydanı",
+  "ilce": "Merkez",
+  "tur": "Meydan",
+  "simge": "🏙️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehrin merkezindeki konser ve törenlerin yapıldığı geniş meydan."
+ },
+ {
+  "ad": "Kırıkkale Üniversitesi Yerleşkesi",
+  "ilce": "Yahşihan",
+  "tur": "Kampüs",
+  "simge": "🎓",
+  "ucretsiz": true,
+  "vikipedi": "Kırıkkale Üniversitesi",
+  "aciklama": "Geniş yeşil alanlı kampüs; yürüyüş ve etkinlikler için uğrak noktası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/K%C4%B1r%C4%B1kkale_%C3%9Cniversitesi"
+ },
+ {
+  "ad": "Keskin Tarihi Evleri",
+  "ilce": "Keskin",
+  "tur": "Tarihi doku",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Keskin ilçesinin eski sokaklarında kalan geleneksel Anadolu evleri."
+ },
+ {
+  "ad": "Kızılırmak Kıyısı (Delice)",
+  "ilce": "Delice",
+  "tur": "Doğa",
+  "simge": "🌿",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Delice ilçesinde Kızılırmak vadisinin sakin, manzaralı kıyıları."
+ },
+ {
+  "ad": "Sulakyurt Doğası",
+  "ilce": "Sulakyurt",
+  "tur": "Doğa",
+  "simge": "🌳",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Sulakyurt çevresinde yeşil tepeler ve yayla havası; kısa doğa gezileri için uygun."
+ },
+ {
+  "ad": "Balışeyh",
+  "ilce": "Balışeyh",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kızılırmak havzasında sakin bir ilçe; çevresinde doğa yürüyüşleri yapılabilir."
+ }
+]

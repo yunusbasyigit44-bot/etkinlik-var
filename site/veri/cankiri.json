@@ -1,0 +1,124 @@
+{
+ "il": "cankiri",
+ "guncelleme": "2026-10-29T16:41+03:00",
+ "ilceler": [
+  "Merkez",
+  "Atkaracalar",
+  "Bayramören",
+  "Çerkeş",
+  "Eldivan",
+  "Ilgaz",
+  "Kızılırmak",
+  "Korgun",
+  "Kurşunlu",
+  "Orta",
+  "Şabanözü",
+  "Yapraklı"
+ ],
+ "etkinlikler": [
+  {
+   "id": "0fa351dba26c",
+   "baslik": "Nuri Özkan'la Türkü Gecesi",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8688",
+   "gorsel": "https://medya.karatekin.edu.tr/sites/karatekin/etkinlikler/20261026_163202_6097bccef0e049d98aca0d02ea44a5cb.jpeg"
+  },
+  {
+   "id": "11599961431e",
+   "baslik": "Sürdürülebilir Kalkınma Politikaları: Dönüşüm ve Uyum İçin Eylem Teşviki",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8697",
+   "gorsel": "https://medya.karatekin.edu.tr/users/salihyildiz/etkinlik/20261027_104732_f19460816a7547f595bf8589d41a17db.png"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Çankırı Karatekin Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.karatekin.edu.tr/tum-etkinlikler",
+   "etkinlik_sayisi": 2,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü",
+   "tur": "diger",
+   "url": "https://cankiri.gsb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi yok"
+  },
+  {
+   "ad": "Ilgaz, Çerkeş, Orta belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Uluslararası Çankırı Tuz Festivali",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/cankiri",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "Çankırı Belediyesi",
+   "tur": "belediye",
+   "url": "https://cankiri.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlikler sayfası boş; haberler olmuş etkinlikleri anlatıyor"
+  },
+  {
+   "ad": "Çankırı Valiliği ve 11 ilçe kaymakamlığı",
+   "tur": "valilik",
+   "url": "https://www.cankiri.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik takvimi yok"
+  },
+  {
+   "ad": "Çankırı İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://cankiri.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  }
+ ]
+}

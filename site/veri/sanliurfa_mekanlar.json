@@ -1,0 +1,106 @@
+[
+ {
+  "ad": "Göbeklitepe",
+  "ilce": "Haliliye",
+  "tur": "tarihi",
+  "simge": "🗿",
+  "ucretsiz": false,
+  "vikipedi": "Göbeklitepe",
+  "aciklama": "Yaklaşık 12 bin yıllık T biçimli dikilitaşlarıyla bilinen, bilinen en eski tapınak alanı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/G%C3%B6beklitepe",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg/330px-G%C3%B6bekli_Tepe%2C_Urfa.jpg"
+ },
+ {
+  "ad": "Balıklıgöl",
+  "ilce": "Eyyübiye",
+  "tur": "tarihi",
+  "simge": "🐟",
+  "ucretsiz": true,
+  "vikipedi": "Balıklıgöl",
+  "aciklama": "Kutsal sayılan sazan balıklarıyla dolu göl; Halilürrahman Camii ve Rızvaniye Vakfı ile çevrili.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Bal%C4%B1kl%C4%B1g%C3%B6l",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Bal%C4%B1kl%C4%B1g%C3%B6l_Urfa2.jpg/330px-Bal%C4%B1kl%C4%B1g%C3%B6l_Urfa2.jpg"
+ },
+ {
+  "ad": "Şanlıurfa Kalesi",
+  "ilce": "Eyyübiye",
+  "tur": "tarihi",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Şanlıurfa Kalesi",
+  "aciklama": "Kentin üzerinde yükselen kale; tepeden eski şehri ve Balıklıgöl'ü izlemek mümkün.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C5%9Eanl%C4%B1urfa_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%C5%9Eanl%C4%B1urfa_Kale.jpg/330px-%C5%9Eanl%C4%B1urfa_Kale.jpg"
+ },
+ {
+  "ad": "Şanlıurfa Arkeoloji ve Mozaik Müzesi",
+  "ilce": "Haliliye",
+  "tur": "müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Şanlıurfa Arkeoloji ve Mozaik Müzesi",
+  "aciklama": "Göbeklitepe buluntuları ve Urfa'daki Roma mozaiklerini bir arada gösteren geniş müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C5%9Eanl%C4%B1urfa_Arkeoloji_ve_Mozaik_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/UrfaMuseumG%C3%B6bekli.jpg/330px-UrfaMuseumG%C3%B6bekli.jpg"
+ },
+ {
+  "ad": "Harran",
+  "ilce": "Harran",
+  "tur": "tarihi",
+  "simge": "🛖",
+  "ucretsiz": false,
+  "vikipedi": "Harran",
+  "aciklama": "Kubbeli kerpiç evleriyle tanınan antik yerleşim ve Harran Ovası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Harran",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Harran_beehive_houses_%282%29.JPG/330px-Harran_beehive_houses_%282%29.JPG"
+ },
+ {
+  "ad": "Halfeti",
+  "ilce": "Halfeti",
+  "tur": "doğa",
+  "simge": "🚤",
+  "ucretsiz": true,
+  "vikipedi": "Halfeti",
+  "aciklama": "Fırat kıyısında, sular altında kalan eski yerleşimiyle ünlü; tekne turlarıyla gezilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Halfeti",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Halfeti_on_the_Euphrates.jpg/330px-Halfeti_on_the_Euphrates.jpg"
+ },
+ {
+  "ad": "Gümrük Hanı ve Kapalı Çarşı",
+  "ilce": "Eyyübiye",
+  "tur": "çarşı",
+  "simge": "🛍️",
+  "ucretsiz": true,
+  "vikipedi": "Gümrük Hanı (Şanlıurfa)",
+  "aciklama": "Tarihi han avlusunda çay, ciğer kebabı ve el sanatları alışverişi."
+ },
+ {
+  "ad": "Dergah Külliyesi ve Hz. İbrahim Makamı",
+  "ilce": "Eyyübiye",
+  "tur": "tarihi",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Halil-ür Rahman Camii",
+  "aciklama": "Balıklıgöl çevresindeki tarihi cami ve medrese yapıları."
+ },
+ {
+  "ad": "Birecik Kelaynak Üretme İstasyonu",
+  "ilce": "Birecik",
+  "tur": "doğa",
+  "simge": "🐦",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Nesli tehlike altındaki kelaynak kuşlarının korunduğu, Fırat kıyısındaki doğa alanı."
+ },
+ {
+  "ad": "Nevali Çori ve Karahantepe",
+  "ilce": "Haliliye",
+  "tur": "tarihi",
+  "simge": "⛏️",
+  "ucretsiz": false,
+  "vikipedi": "Karahantepe",
+  "aciklama": "Taş Tepeler projesinin bir parçası olan, Göbeklitepe çağından ören yeri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Karahantepe",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Karahantepe2.jpg/330px-Karahantepe2.jpg"
+ }
+]

@@ -1,0 +1,103 @@
+[
+ {
+  "ad": "Zeugma Mozaik Müzesi",
+  "ilce": "Şehitkamil",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Zeugma Mozaik Müzesi",
+  "aciklama": "Dünyanın en büyük mozaik koleksiyonlarından birini barındırır; ünlü Çingene Kızı mozaiği burada sergilenir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Zeugma_Mozaik_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Antep_1250575b.jpg/330px-Antep_1250575b.jpg"
+ },
+ {
+  "ad": "Gaziantep Kalesi",
+  "ilce": "Şahinbey",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Şehrin merkezindeki tepede yükselen tarihi kale; içinde Gaziantep Savunması ile ilgili bölümler de gezilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Gaziantep_Kalesi"
+ },
+ {
+  "ad": "Bakırcılar Çarşısı",
+  "ilce": "Şahinbey",
+  "tur": "Çarşı",
+  "simge": "🔨",
+  "ucretsiz": true,
+  "vikipedi": "Bakırcılar Çarşısı",
+  "aciklama": "Ustaların bakır işlediği, çekiç seslerinin hiç eksik olmadığı tarihî arasta; hediyelik eşya için ideal.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Bak%C4%B1rc%C4%B1lar_%C3%87ar%C5%9F%C4%B1s%C4%B1"
+ },
+ {
+  "ad": "Emine Göğüş Mutfak Müzesi",
+  "ilce": "Şahinbey",
+  "tur": "Müze",
+  "simge": "🍽️",
+  "ucretsiz": false,
+  "vikipedi": "Emine Göğüş Mutfak Müzesi",
+  "aciklama": "Gaziantep mutfağının araç gereçlerini ve geleneklerini tanıtan, tarihi konakta kurulmuş müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Emine_G%C3%B6%C4%9F%C3%BC%C5%9F_Mutfak_M%C3%BCzesi"
+ },
+ {
+  "ad": "Rumkale",
+  "ilce": "Yavuzeli",
+  "tur": "Kale / doğa",
+  "simge": "🏯",
+  "ucretsiz": false,
+  "vikipedi": "Rumkale",
+  "aciklama": "Fırat kıyısında, üç yanı suyla çevrili kayalık bir yarımadada duran görkemli kale; tekne turlarıyla da görülür.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Rumkale",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Halfeti_-_Rumkale.jpg/330px-Halfeti_-_Rumkale.jpg"
+ },
+ {
+  "ad": "Zeugma Antik Kenti (Belkıs)",
+  "ilce": "Nizip",
+  "tur": "Antik kent",
+  "simge": "🗿",
+  "ucretsiz": false,
+  "vikipedi": "Zeugma",
+  "aciklama": "Fırat'ın kıyısında kurulmuş eski Roma ve Helenistik kenti; buradan çıkan mozaikler müzede sergilenir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Zeugma",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Zeugma_dec_2008_7378.jpg/330px-Zeugma_dec_2008_7378.jpg"
+ },
+ {
+  "ad": "Gaziantep Hayvanat Bahçesi",
+  "ilce": "Şehitkamil",
+  "tur": "Eğlence / doğa",
+  "simge": "🦁",
+  "ucretsiz": false,
+  "vikipedi": "Gaziantep Hayvanat Bahçesi",
+  "aciklama": "Türkiye'nin en büyük hayvanat bahçelerinden biri; aileler ve çocuklar için gün boyu gezi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Gaziantep_Hayvanat_Bah%C3%A7esi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Gaziantep_zoo.jpg/330px-Gaziantep_zoo.jpg"
+ },
+ {
+  "ad": "Tarihi Antep Çarşısı ve Baklavacılar",
+  "ilce": "Şahinbey",
+  "tur": "Çarşı / lezzet",
+  "simge": "🥮",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Baklava, katmer ve beyran gibi UNESCO listesindeki gastronomi şehrinin lezzetlerini tatmak için eski çarşı sokakları."
+ },
+ {
+  "ad": "Gaziantep Savunması Panorama Müzesi",
+  "ilce": "Şahinbey",
+  "tur": "Müze",
+  "simge": "🖼️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Kurtuluş Savaşı'ndaki Antep Savunması'nı panoramik tablolarla anlatan müze."
+ },
+ {
+  "ad": "Hışva Han ve Tarihi Hanlar Bölgesi",
+  "ilce": "Şahinbey",
+  "tur": "Tarihi yer",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Eski kervan yollarında kalmış hanlar, şehrin tarihî ticaret hayatını yansıtır; çoğu bugün kafe ve atölye olarak kullanılıyor."
+ }
+]

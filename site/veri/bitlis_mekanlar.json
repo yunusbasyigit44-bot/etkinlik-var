@@ -1,0 +1,80 @@
+[
+ {
+  "ad": "Ahlat Selçuklu Meydan Mezarlığı",
+  "ilce": "Ahlat",
+  "tur": "Mezarlık / UNESCO adayı",
+  "simge": "🪦",
+  "ucretsiz": true,
+  "vikipedi": "Ahlat Selçuklu Meydan Mezarlığı",
+  "aciklama": "Yüzlerce oyma taş mezar taşıyla Türk-İslam sanatının en etkileyici açık hava alanlarından biri."
+ },
+ {
+  "ad": "Nemrut Krater Gölü",
+  "ilce": "Tatvan",
+  "tur": "Krater gölü / doğa",
+  "simge": "🌋",
+  "ucretsiz": true,
+  "vikipedi": "Nemrut Krater Gölü",
+  "aciklama": "Yanardağ kraterinde oluşan, sıcak ve soğuk su kaynaklarını barındıran büyük göl."
+ },
+ {
+  "ad": "Van Gölü Kıyısı",
+  "ilce": "Tatvan",
+  "tur": "Göl / sahil",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": "Van Gölü",
+  "aciklama": "Türkiye'nin en büyük gölünün kıyısında yürüyüş, gün batımı ve tekne gezisi yapılabilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Van_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Lakevanlandsat.jpeg/330px-Lakevanlandsat.jpeg"
+ },
+ {
+  "ad": "Bitlis Kalesi",
+  "ilce": "Merkez",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Bitlis Kalesi",
+  "aciklama": "Şehre hâkim kaya tepesinde yükselen, kent manzarasıyla bilinen tarihi kale.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Bitlis_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Bitlis_Kalesi%2C_Bitlis.jpg/330px-Bitlis_Kalesi%2C_Bitlis.jpg"
+ },
+ {
+  "ad": "Bitlis Ulu Camii",
+  "ilce": "Merkez",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Bitlis Ulu Camii",
+  "aciklama": "Selçuklu dönemine uzanan taş işçiliğiyle bilinen şehrin en eski camilerinden biri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Bitlis_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Bitlis_Ulu_Camii_1663.jpg/330px-Bitlis_Ulu_Camii_1663.jpg"
+ },
+ {
+  "ad": "Adilcevaz Kalesi",
+  "ilce": "Adilcevaz",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Adilcevaz Kalesi",
+  "aciklama": "Van Gölü kıyısında Urartu ve sonraki dönemlerden izler taşıyan kale."
+ },
+ {
+  "ad": "Ahlat Müzesi",
+  "ilce": "Ahlat",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Ahlat'ın Selçuklu ve Ahlatşahlar dönemine ait mezar taşları ve buluntular sergilenir."
+ },
+ {
+  "ad": "Güroymak",
+  "ilce": "Güroymak",
+  "tur": "İlçe / doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Dağlık Güroymak çevresi yürüyüş ve yayla havası için uygundur."
+ }
+]

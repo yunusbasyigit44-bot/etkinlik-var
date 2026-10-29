@@ -1,0 +1,78 @@
+[
+ {
+  "ad": "Oylum Höyük",
+  "ilce": "Merkez",
+  "tur": "Höyük",
+  "simge": "🏺",
+  "ucretsiz": true,
+  "vikipedi": "Oylum Höyük",
+  "aciklama": "Tunç Çağı'ndan beri yerleşim görmüş büyük höyük; kazılarda önemli buluntular çıktı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Oylum_H%C3%B6y%C3%BCk",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/OylumH%C3%BCy%C3%BCk1.jpg/330px-OylumH%C3%BCy%C3%BCk1.jpg"
+ },
+ {
+  "ad": "Ravanda Kalesi",
+  "ilce": "Merkez",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Ravanda Kalesi",
+  "aciklama": "Haçlı seferleri döneminde adı geçen, tepede kalıntıları duran tarihi kale."
+ },
+ {
+  "ad": "Kilis Ulu Camii",
+  "ilce": "Merkez",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Kilis Ulu Camii",
+  "aciklama": "Şehrin merkezindeki tarihi cami; Kilis'in eski çarşısıyla iç içe.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kilis_Ulu_Camii"
+ },
+ {
+  "ad": "Kilis Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Kilis Müzesi",
+  "aciklama": "Oylum Höyük ve çevreden gelen arkeolojik eserler ile yöresel eşyalar sergileniyor.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kilis_M%C3%BCzesi"
+ },
+ {
+  "ad": "Kilis Sebilleri",
+  "ilce": "Merkez",
+  "tur": "Tarihi yapı",
+  "simge": "⛲",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Sokaklara ve köşelere serpiştirilmiş taş sebiller, Kilis'in su kültürünün tanığı."
+ },
+ {
+  "ad": "Kilis Tarihi Çarşısı",
+  "ilce": "Merkez",
+  "tur": "Çarşı",
+  "simge": "🛍️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Dar sokaklarda zeytinyağı, sabun, tatlı ve el sanatları satan geleneksel çarşı."
+ },
+ {
+  "ad": "Kilis Taş Evleri",
+  "ilce": "Merkez",
+  "tur": "Tarihi mahalle",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kilis taşından yapılmış avlulu geleneksel evler; eski mahallelerde yürüyerek görülebilir."
+ },
+ {
+  "ad": "Kilis Kent Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kilis'in gündelik yaşamını, el sanatlarını ve geleneklerini anlatan müze."
+ }
+]

@@ -1,0 +1,113 @@
+{
+ "il": "sanliurfa",
+ "guncelleme": "2026-10-29T16:44+03:00",
+ "ilceler": [
+  "Eyyübiye",
+  "Haliliye",
+  "Karaköprü",
+  "Akçakale",
+  "Birecik",
+  "Bozova",
+  "Ceylanpınar",
+  "Halfeti",
+  "Harran",
+  "Hilvan",
+  "Siverek",
+  "Suruç",
+  "Viranşehir"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Büyükşehir Şehir Tiyatrosu",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir oyun takvimi bulunamadı"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Eyyübiye, Karaköprü ve diğer ilçe belediyeleri",
+   "tur": "belediye",
+   "url": "https://www.eyyubiye.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor (sonraki tur)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Haliliye Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.haliliye.bel.tr/kategori/43/1/konserler",
+   "etkinlik_sayisi": 0,
+   "durum": "konser/tiyatro bölümleri geçmiş haberlerden oluşuyor; tarihli program yok"
+  },
+  {
+   "ad": "Harran Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.harran.edu.tr/Etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "liste sayfasında etkinlik tarihi yok (sadece yayın tarihi; çoğu çevrim içi kongre); okunmuyor"
+  },
+  {
+   "ad": "Music Urfa (UNESCO Müzik Şehri)",
+   "tur": "kultur",
+   "url": "https://www.musicurfa.com.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor (sonraki tur)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller (Göbeklitepe Kültür Yolu, Şanlıurfa Müzik Festivali, Halfeti…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/sanliurfa",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "Şanlıurfa Büyükşehir Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.sanliurfa.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlikler haber biçiminde (geçmiş); takvim sayfası yok"
+  },
+  {
+   "ad": "Şanlıurfa Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.sanliurfa.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Şanlıurfa İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://sanliurfa.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  }
+ ]
+}

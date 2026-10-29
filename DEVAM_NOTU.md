@@ -1,0 +1,31 @@
+# Devam notu — "etkinlik var 81" (son güncelleme: 2026-10-29)
+
+Yunus yeni sohbette **"etkinlik var 81"** yazınca Claude bu dosyayı okur ve kaldığı yerden devam eder.
+
+## Proje
+"Etkinlik Var" — 81 ilin etkinliklerini kurum sitelerinden toplayan site + sosyal medya. Klasör: `05_ETKINLIK_MERKEZI/`.
+Önemli dosyalar: `README.md` (eksikler raporu), `IL_EKLEME_REHBERI.md` (il ekleme kuralları + bütçe), `SOSYAL_MEDYA.md`,
+`toplayici/` (topla.py, ortak.py, ortak_kaynaklar.py, kontrol.py, mekan_gorsel.py, iller/<il>.py), `site/index.html`, `sosyal/uret.py`.
+Önizleme: launch.json'da "etkinlik-var" (port 8792).
+
+## Yunus'un kararları
+- Sohbet/konuşma yok, sadece "Gidiyorum" düğmesi. İller **plaka sırasıyla**. Ad: **Etkinlik Var**, slogan "Bugün ne yapsam?".
+- Instagram açıldı: **@etkinlikvar81**. X ve TikTok için aynı ad önerildi (henüz açılmadı).
+- "81 il bitene kadar sormadan devam et" talimatı verildi.
+- Kota tasarrufu: büyük işler sonnet alt ajanlara, il başına ~25 araç çağrısı bütçesi. Yunus %30 (kalan) uyarısı istiyor.
+
+## Durum
+- **81 ilin hepsi bitti** (2026-10-29). `kontrol.py --hepsi`: 81/81 GEÇTİ. Toplam 990 etkinlik; 30 ilde şu an 0 etkinlik (kurum takvimi yok).
+- Özet tablo: README.md → "81 il özeti".
+- **Gözden geçirilecekler:** Karaman listesinde "GDG Devfest Ankara" (başka ilde; başlık filtresi "<il>" sonda geçince yakalamıyor). Zonguldak "Maden Müzesi (Kozlu)", Karaman "Aktekke Camii", "Hatuniye Medresesi" açıklamaları doğrulanmalı. Mersin "Uzuncaburç", Isparta "Yazılı Kanyon" fotoğrafları doğrulanmadı. Siirt/Karaman üniversite başlıklarında Türkçe harf kaybı (kaynaktan). Birçok ilde gezilecek yer fotoğraf oranı < %50 (Vikipedi 429 / madde adı bulunamadı) → mekan_gorsel.py'ye arama yedeği eklenebilir.
+
+## Sıradaki adımlar
+1. (İsteğe bağlı) Gözden geçirilecekler listesini düzelt; fotoğraf oranını artır.
+2. Yayın hazırlığı: ayrı GitHub deposu + Pages (Yunus onayı gerekli), `.github/workflows/guncelle.yml` hazır.
+3. Yayından sonra sosyal medya: `sosyal/uret.py` günlük içerik; paylaşım yolu SOSYAL_MEDYA.md.
+4. Yunus'tan beklenenler: Supabase SQL'i çalıştırmak, etkinlik.io yayıncı başvurusu (anahtar = en büyük kaldıraç), alan adı (etkinlikvar.com.tr) / GitHub yayın onayı, X ve TikTok hesapları.
+5. Site yayına girmeden sosyal medyada paylaşım yapılmaz (linkler boş sayfaya gider).
+
+## Ortak koda eklenenler (bu sohbette)
+devlet_opera (6 müdürlük), ical (WordPress etkinlik akışı), ay aşan tarih aralıkları, başlıkta başka il filtresi, iç toplantı filtresi,
+önceki gün verisine geri düşme, arşiv (site/veri/arsiv), "Bitti" işareti, TLS doğrulaması asla kapatılmaz, harita/uydu foto filtresi.

@@ -1,0 +1,91 @@
+[
+ {
+  "ad": "Harput Kalesi",
+  "ilce": "Merkez",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Harput Kalesi",
+  "aciklama": "Eski Harput şehrine hâkim tepede duran tarihi kale; Elazığ ovasının manzarası buradan seyredilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Harput_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Harput_kalesi-Harput-Elaz%C4%B1%C4%9F_-_panoramio.jpg/330px-Harput_kalesi-Harput-Elaz%C4%B1%C4%9F_-_panoramio.jpg"
+ },
+ {
+  "ad": "Harput Ulu Camii",
+  "ilce": "Merkez",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Harput Ulu Camii",
+  "aciklama": "Artuklu döneminden kalma, eğik minaresiyle tanınan Harput'un en eski camilerinden.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Harput_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Harput_Ulu_Cami_9621.jpg/330px-Harput_Ulu_Cami_9621.jpg"
+ },
+ {
+  "ad": "Hazar Gölü",
+  "ilce": "Sivrice",
+  "tur": "Doğa",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": "Hazar Gölü",
+  "aciklama": "Dicle Nehri'nin doğduğu, tektonik oluşumlu büyük tatlı su gölü; kıyısında yürüyüş ve mola noktaları var.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Hazar_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Hazar_G%C3%B6l%C3%BC_ve_manzara.jpg/330px-Hazar_G%C3%B6l%C3%BC_ve_manzara.jpg"
+ },
+ {
+  "ad": "Keban Baraj Gölü",
+  "ilce": "Keban",
+  "tur": "Doğa",
+  "simge": "💧",
+  "ucretsiz": true,
+  "vikipedi": "Keban Baraj Gölü",
+  "aciklama": "Fırat üzerindeki büyük baraj gölü; tekne turları ve balık restoranlarıyla bilinir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Keban_Baraj_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Keban_baraj%C4%B1-Keban-Elaz%C4%B1%C4%9F_-_panoramio.jpg/330px-Keban_baraj%C4%B1-Keban-Elaz%C4%B1%C4%9F_-_panoramio.jpg"
+ },
+ {
+  "ad": "Buzluk Mağarası",
+  "ilce": "Baskil",
+  "tur": "Doğa",
+  "simge": "🦇",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "İçinde buz oluşumları bulunan, yazın serinlemek için gidilen mağara."
+ },
+ {
+  "ad": "Harput Meryem Ana Kilisesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yapı",
+  "simge": "⛪",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Harput'taki Süryani cemaatinin tarihi kilisesi; kalıntılar ve çevre gezilebilir."
+ },
+ {
+  "ad": "Baskil Kalesi (Kral Kızı)",
+  "ilce": "Baskil",
+  "tur": "Tarihi alan",
+  "simge": "🏯",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Efsanesiyle bilinen tarihi yapı; yörenin hikâyelerini merak edenler için güzel bir durak."
+ },
+ {
+  "ad": "Elazığ Arkeoloji ve Etnografya Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🖼️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Urartu, Hitit ve Osmanlı dönemine ait yöresel eserlerin sergilendiği şehir müzesi."
+ },
+ {
+  "ad": "Elazığ Çarşısı ve Çarşı Lezzetleri",
+  "ilce": "Merkez",
+  "tur": "Çarşı / yöresel tat",
+  "simge": "🍢",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Yöresel yemekleri ve el sanatlarını bulabileceğiniz şehir merkezi esnafı."
+ }
+]

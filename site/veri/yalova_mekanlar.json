@@ -1,0 +1,84 @@
+[
+ {
+  "ad": "Yürüyen Köşk (Atatürk Köşkü)",
+  "ilce": "Merkez",
+  "tur": "Müze / Köşk",
+  "simge": "🏡",
+  "ucretsiz": false,
+  "vikipedi": "Yürüyen Köşk",
+  "aciklama": "Atatürk'ün Yalova ziyaretlerinde kaldığı ahşap köşk; yanındaki dev çınarı kesmemek için yerinin değiştirilmesiyle ünlü.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Y%C3%BCr%C3%BCyen_K%C3%B6%C5%9Fk",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Atat%C3%BCrk_Y%C3%BCr%C3%BCyen_K%C3%B6%C5%9Fk%2C_Yalova%2C_T%C3%BCrkiye.jpg/330px-Atat%C3%BCrk_Y%C3%BCr%C3%BCyen_K%C3%B6%C5%9Fk%2C_Yalova%2C_T%C3%BCrkiye.jpg"
+ },
+ {
+  "ad": "Termal Kaplıcaları",
+  "ilce": "Termal",
+  "tur": "Kaplıca",
+  "simge": "♨️",
+  "ucretsiz": false,
+  "vikipedi": "Termal, Yalova",
+  "aciklama": "Roma döneminden beri bilinen sıcak su kaynakları; Termal ilçesi bugün de kaplıca tatilinin merkezi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Termal%2C_Yalova",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Termal%2C_77400_Termal-Yalova%2C_Turkey_-_panoramio.jpg/330px-Termal%2C_77400_Termal-Yalova%2C_Turkey_-_panoramio.jpg"
+ },
+ {
+  "ad": "Sudüşen Şelalesi",
+  "ilce": "Çınarcık",
+  "tur": "Doğa",
+  "simge": "💦",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Orman içinde yürüyerek ulaşılan şelale; yaz sıcağında serin bir mola yeri."
+ },
+ {
+  "ad": "Hersek Lagünü",
+  "ilce": "Altınova",
+  "tur": "Doğa",
+  "simge": "🦢",
+  "ucretsiz": true,
+  "vikipedi": "Hersek Lagünü",
+  "aciklama": "Körfeze uzanan dar bir kara parçasının içinde kalan lagün; kuş gözlemi ve yürüyüş için güzel.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Hersek_Lag%C3%BCn%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Hersek_golu_1.jpg/330px-Hersek_golu_1.jpg"
+ },
+ {
+  "ad": "Yalova Sahili",
+  "ilce": "Merkez",
+  "tur": "Sahil",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "İskeleden başlayan sahil yürüyüşü, çay bahçeleri ve deniz manzarasıyla kentin buluşma noktası."
+ },
+ {
+  "ad": "Armutlu",
+  "ilce": "Armutlu",
+  "tur": "Sahil kasabası",
+  "simge": "🏖️",
+  "ucretsiz": true,
+  "vikipedi": "Armutlu",
+  "aciklama": "Plajları ve balık lokantalarıyla bilinen yarımada kasabası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Armutlu",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Armutlu_7005.jpg/330px-Armutlu_7005.jpg"
+ },
+ {
+  "ad": "Çınarcık",
+  "ilce": "Çınarcık",
+  "tur": "Sahil kasabası",
+  "simge": "🏝️",
+  "ucretsiz": true,
+  "vikipedi": "Çınarcık",
+  "aciklama": "Uzun plajı ve yazlıklarıyla İstanbul'a yakın popüler bir deniz tatili durağı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87%C4%B1narc%C4%B1k",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%C3%87%C4%B1narc%C4%B1k_-_panoramio_%2839%29.jpg/330px-%C3%87%C4%B1narc%C4%B1k_-_panoramio_%2839%29.jpg"
+ },
+ {
+  "ad": "Yalova Kent Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kentin geçmişini ve günlük yaşamını fotoğraf ve eşyalarla anlatan müze."
+ }
+]

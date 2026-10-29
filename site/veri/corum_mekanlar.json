@@ -1,0 +1,91 @@
+[
+ {
+  "ad": "Hattuşa",
+  "ilce": "Boğazkale",
+  "tur": "Antik kent / UNESCO",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Hattuşa",
+  "aciklama": "Hitit İmparatorluğu'nun başkenti; Aslanlı Kapı, Kral Kapı ve devasa surlarıyla UNESCO Dünya Mirası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Hattu%C5%9Fa",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Lion_Gate%2C_Hattusa_13_%28cropped%29.jpg/330px-Lion_Gate%2C_Hattusa_13_%28cropped%29.jpg"
+ },
+ {
+  "ad": "Yazılıkaya Açık Hava Tapınağı",
+  "ilce": "Boğazkale",
+  "tur": "Antik alan",
+  "simge": "🗿",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Hattuşa yakınında kayalara oyulmuş Hitit tanrı kabartmalarının bulunduğu açık hava tapınağı."
+ },
+ {
+  "ad": "Alacahöyük",
+  "ilce": "Alaca",
+  "tur": "Höyük / ören yeri",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Alacahöyük",
+  "aciklama": "Hatti ve Hitit dönemlerine ait Sfenksli Kapı ve kral mezarlarıyla ünlü Anadolu'nun en eski yerleşimlerinden.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Alacah%C3%B6y%C3%BCk",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Alaca_H%C3%BCy%C3%BCk_1.jpg/330px-Alaca_H%C3%BCy%C3%BCk_1.jpg"
+ },
+ {
+  "ad": "Çorum Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🖼️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Hitit ve Frig eserlerinin sergilendiği, Hitit çivi yazılı tabletleriyle dikkat çeken bölge müzesi."
+ },
+ {
+  "ad": "Çorum Ulu Camii",
+  "ilce": "Merkez",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Çorum Ulu Camii",
+  "aciklama": "Selçuklu dönemine uzanan, şehir merkezinin en eski ve en önemli ibadet yapılarından biri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87orum_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Ulucami-%C3%87orum_-_panoramio.jpg/330px-Ulucami-%C3%87orum_-_panoramio.jpg"
+ },
+ {
+  "ad": "Çorum Saat Kulesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yapı",
+  "simge": "🕰️",
+  "ucretsiz": true,
+  "vikipedi": "Çorum Saat Kulesi",
+  "aciklama": "Şehrin simgelerinden biri olan Osmanlı dönemi saat kulesi; çevresindeki çarşıyla birlikte gezilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87orum_Saat_Kulesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Saat_kulesi%5E%C3%87orum_-_panoramio.jpg/330px-Saat_kulesi%5E%C3%87orum_-_panoramio.jpg"
+ },
+ {
+  "ad": "Osmancık Köprüsü",
+  "ilce": "Osmancık",
+  "tur": "Tarihi köprü",
+  "simge": "🌉",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kızılırmak üzerindeki 17. yüzyıldan kalma çok gözlü taş köprü; yöre insanının buluşma noktası."
+ },
+ {
+  "ad": "Kunduzlar Barajı ve Göleti",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Çorum merkeze yakın, mesire alanları ve yürüyüş yolları olan baraj gölü."
+ },
+ {
+  "ad": "Çorum Leblebisi Çarşısı",
+  "ilce": "Merkez",
+  "tur": "Çarşı / yöresel tat",
+  "simge": "🥜",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Çorum'un ünlü leblebisini ve yöresel tatları bulabileceğiniz şehir merkezi esnafı."
+ }
+]

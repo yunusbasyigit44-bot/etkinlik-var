@@ -1,0 +1,108 @@
+[
+ {
+  "ad": "Kızkalesi",
+  "ilce": "Erdemli",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": false,
+  "vikipedi": "Kızkalesi, Erdemli",
+  "aciklama": "Denize bakan kıyıya yakın Ortaçağ kalesi; sahil plajı ve kayık turlarıyla popüler.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/K%C4%B1zkalesi%2C_Erdemli",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kizkalesi%2C_Erdemli.IMG_3491.jpg/330px-Kizkalesi%2C_Erdemli.IMG_3491.jpg"
+ },
+ {
+  "ad": "Cennet ve Cehennem Obrukları",
+  "ilce": "Silifke",
+  "tur": "Doğa",
+  "simge": "🕳️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Dev çöküntü çukurları; Cennet'in dibinde Meryem Ana Kilisesi bulunur."
+ },
+ {
+  "ad": "Silifke Kalesi",
+  "ilce": "Silifke",
+  "tur": "Tarihi yer",
+  "simge": "🏯",
+  "ucretsiz": false,
+  "vikipedi": "Silifke Kalesi",
+  "aciklama": "Şehre bakan tepedeki kale; Göksu Nehri ve çevre manzarası güzel.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Silifke_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/SilifkeKale4.jpg/330px-SilifkeKale4.jpg"
+ },
+ {
+  "ad": "Uzuncaburç Antik Kenti",
+  "ilce": "Silifke",
+  "tur": "Antik kent",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Uzuncaburç",
+  "aciklama": "Zeus tapınağı ve yüksek kulesiyle ünlü Roma döneminden antik şehir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Uzuncabur%C3%A7",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/57608567_-_panoramio.jpg/330px-57608567_-_panoramio.jpg"
+ },
+ {
+  "ad": "Tarsus Şelalesi",
+  "ilce": "Tarsus",
+  "tur": "Doğa",
+  "simge": "💧",
+  "ucretsiz": true,
+  "vikipedi": "Tarsus Şelalesi",
+  "aciklama": "Berdan Nehri üzerindeki şelale; çevresindeki park ve restoranlarda piknik yapılır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Tarsus_%C5%9Eelalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Berdan_Waterfall_in_Tarsus.jpg/330px-Berdan_Waterfall_in_Tarsus.jpg"
+ },
+ {
+  "ad": "Aziz Pavlus Kuyusu",
+  "ilce": "Tarsus",
+  "tur": "Tarihi yer",
+  "simge": "⛪",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Hristiyanlar için önemli kabul edilen, Pavlus'un doğduğu evin yanındaki kuyu."
+ },
+ {
+  "ad": "Kleopatra Kapısı",
+  "ilce": "Tarsus",
+  "tur": "Tarihi yer",
+  "simge": "🚪",
+  "ucretsiz": true,
+  "vikipedi": "Kleopatra Kapısı",
+  "aciklama": "Tarsus'un antik şehir kapısı; Kleopatra ile Marcus Antonius'un buluşma efsanesine bağlanır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kleopatra_Kap%C4%B1s%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Cleopatra%27s_Gate%2C_Tarsus%2C_Mersin_Province.jpg/330px-Cleopatra%27s_Gate%2C_Tarsus%2C_Mersin_Province.jpg"
+ },
+ {
+  "ad": "Mamure Kalesi",
+  "ilce": "Anamur",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": false,
+  "vikipedi": "Mamure Kalesi",
+  "aciklama": "Akdeniz kıyısında, Türkiye'nin en iyi korunmuş Ortaçağ kalelerinden.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Mamure_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Anamur_Castle_Main_tower_view_8716_Panorama.jpg/330px-Anamur_Castle_Main_tower_view_8716_Panorama.jpg"
+ },
+ {
+  "ad": "Alahan Manastırı",
+  "ilce": "Mut",
+  "tur": "Tarihi yer",
+  "simge": "⛪",
+  "ucretsiz": false,
+  "vikipedi": "Alahan Manastırı",
+  "aciklama": "Dağ yamacına kurulu erken Hristiyanlık dönemi manastır kompleksi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Alahan_Manast%C4%B1r%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Alahan_74.jpg/330px-Alahan_74.jpg"
+ },
+ {
+  "ad": "Mersin Müzesi",
+  "ilce": "Akdeniz",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Mersin Arkeoloji Müzesi",
+  "aciklama": "Bölgenin Neolitik'ten Roma'ya uzanan buluntularını sergileyen müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Mersin_Arkeoloji_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Mersin_Archaeological_Museum.jpg/330px-Mersin_Archaeological_Museum.jpg"
+ }
+]

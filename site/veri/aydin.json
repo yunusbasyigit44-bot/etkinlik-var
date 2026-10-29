@@ -1,0 +1,159 @@
+{
+ "il": "aydin",
+ "guncelleme": "2026-10-29T16:39+03:00",
+ "ilceler": [
+  "Efeler",
+  "Bozdoğan",
+  "Buharkent",
+  "Çine",
+  "Didim",
+  "Germencik",
+  "İncirliova",
+  "Karacasu",
+  "Karpuzlu",
+  "Koçarlı",
+  "Köşk",
+  "Kuşadası",
+  "Kuyucak",
+  "Nazilli",
+  "Söke",
+  "Sultanhisar",
+  "Yenipazar"
+ ],
+ "etkinlikler": [
+  {
+   "id": "864e099c3487",
+   "baslik": "Prof. Dr. Fatma DEMİRKIRAN'ın Emeklilik Töreni",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Efeler",
+   "mekan": "Atatürk Kongre Merkezi Aydın Bey Salonu",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": "Emeklilik Töreni",
+   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/prof-dr-fatma-demirkiran-in-emeklilik-toreni-2000148515",
+   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261007102523-RENIDAVETIYEPAGE0001-000046008545527933261739.jpg"
+  },
+  {
+   "id": "5a7fb2921ed7",
+   "baslik": "Ud Resitali",
+   "tarih": "2026-11-02",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Efeler",
+   "mekan": "Atatürk Kongre Merkezi Aydın Bey Salonu",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser",
+   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/ud-resitali-2000148571",
+   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261023094655-XTL5IE1NZCDFIED3UNVS-000024659698350438700034.jpeg"
+  },
+  {
+   "id": "5f570568def9",
+   "baslik": "Geleneğin İzinden",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": "12:30",
+   "ilce": "Kuşadası",
+   "mekan": "Kuşadası Emine Kutlu Kampüsü Konferans Salonu",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Söyleşi ve Dinleti",
+   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/gelenegin-izinden-2000148578",
+   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261023141548-Y3SOK0NC58NMNVEIQENL-000038722467782526598531.jpeg"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Aydın Adnan Menderes Üniversitesi",
+   "tur": "universite",
+   "url": "https://haber.adu.edu.tr/etkinlik/",
+   "etkinlik_sayisi": 3,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Aydın Büyükşehir Belediyesi",
+   "tur": "belediye",
+   "url": "https://aydin.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası var ama şu an boş (etkinlik yok görseli)"
+  },
+  {
+   "ad": "Aydın Valiliği, ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.aydin.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Aydın İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://aydin.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Efeler ve Nazilli belediyeleri",
+   "tur": "belediye",
+   "url": "https://www.efeler.bel.tr/guncel/duyurular",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular/haberler; etkinlik takvimi okunmuyor"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Kuşadası Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.kusadasi.bel.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası var; otomatik okunmuyor"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/aydin",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "İlçe festivalleri (Söke, Çine, Didim vb.)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "Şehir tiyatrosu, kültür merkezleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "oyun/konser takvimi yayımlanmıyor"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "il": "igdir",
+ "guncelleme": "2026-10-29T16:46+03:00",
+ "ilceler": [
+  "Merkez",
+  "Aralık",
+  "Karakoyunlu",
+  "Tuzluca"
+ ],
+ "etkinlikler": [
+  {
+   "id": "dd048d9b1884",
+   "baslik": "\"Şiir Dinletisi\" Programı",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Iğdır Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Iğdır Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/siir-dinletisi-program-32/register",
+   "gorsel": "https://www.igdir.edu.tr/web/image/56451-07842ec3/1.jfif"
+  },
+  {
+   "id": "db4b980ea443",
+   "baslik": "\"COP31 Yolunda: Değişen İklim, Değişen Yaşam\" Paneli",
+   "tarih": "2026-11-02",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Merkez",
+   "mekan": "Iğdır Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Iğdır Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/cop31-yolunda-degisen-iklim-degisen-yasam-paneli-31/register",
+   "gorsel": "https://www.igdir.edu.tr/web/image/56380-1491faa6/1.jfif"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Iğdır Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.igdir.edu.tr/events/",
+   "etkinlik_sayisi": 2,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Aralık, Karakoyunlu, Tuzluca belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Iğdır Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.igdir.bel.tr/duyurular",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik takvimi yok"
+  },
+  {
+   "ad": "Iğdır Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.igdir.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Iğdır İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://igdir.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller (Kayısı, Ağrı Dağı Kültür Sanat vb.)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/igdir",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

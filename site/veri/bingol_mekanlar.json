@@ -1,0 +1,77 @@
+[
+ {
+  "ad": "Murat Nehri",
+  "ilce": "Merkez",
+  "tur": "Nehir / doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": "Murat Nehri",
+  "aciklama": "Fırat'ın iki ana kolundan biri; vadisinde yürüyüş ve piknik için sakin noktalar vardır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Murat_Nehri",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/ISS011-E-10824_Murat.jpg/330px-ISS011-E-10824_Murat.jpg"
+ },
+ {
+  "ad": "Bingöl Kaplıcaları",
+  "ilce": "Merkez",
+  "tur": "Kaplıca",
+  "simge": "♨️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Sıcak su kaynaklarıyla kış aylarında da ilgi gören, şehre yakın termal tesisler."
+ },
+ {
+  "ad": "Yüzen Adalar",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🌿",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Sulak alanlarda rüzgârla yer değiştiren otlu adacıklarıyla tanınan doğa alanı.",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Y%C3%BCzen_Ada.jpg/330px-Y%C3%BCzen_Ada.jpg"
+ },
+ {
+  "ad": "Bingöl Dağı Kayak Alanı",
+  "ilce": "Merkez",
+  "tur": "Kış sporları",
+  "simge": "⛷️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Kış aylarında kayak ve kar yürüyüşü için kullanılan dağ yamaçları."
+ },
+ {
+  "ad": "Karlıova",
+  "ilce": "Karlıova",
+  "tur": "Doğa / ilçe",
+  "simge": "🏔️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Yüksek rakımlı, yaylalarıyla bilinen ve doğu yolu üzerinde bulunan ilçe."
+ },
+ {
+  "ad": "Genç Vadisi",
+  "ilce": "Genç",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Dağlarla çevrili Genç çevresi piknik ve doğa yürüyüşü için güzel manzaralar sunar."
+ },
+ {
+  "ad": "Solhan",
+  "ilce": "Solhan",
+  "tur": "İlçe / doğa",
+  "simge": "🌄",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Yöresel yaşamı ve çevresindeki yaylalarıyla tanınan Bingöl ilçesi."
+ },
+ {
+  "ad": "Kiğı",
+  "ilce": "Kiğı",
+  "tur": "İlçe / doğa",
+  "simge": "🌲",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Dağlık yapısı ve doğal güzellikleriyle sakin bir tatil için uygun ilçe."
+ }
+]

@@ -1,0 +1,75 @@
+{
+ "il": "bayburt",
+ "guncelleme": "2026-10-29T16:45+03:00",
+ "ilceler": [
+  "Merkez",
+  "Aydıntepe",
+  "Demirözü"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Bayburt Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.bayburt.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfasında sadece eski (2022) 3 kayıt var; güncellenince okunabilir"
+  },
+  {
+   "ad": "Bayburt Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.bayburt.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Bayburt Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.bayburt.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "site JavaScript ile çiziliyor; sayfada okunabilir etkinlik verisi yok"
+  },
+  {
+   "ad": "Bayburt İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://bayburt.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık etkinlikler (Bayburt'un Kurtuluşu anmaları, Dede Korkut Kültür ve Sanat Şenlikleri…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/bayburt",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

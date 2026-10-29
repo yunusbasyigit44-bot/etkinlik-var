@@ -1,0 +1,100 @@
+[
+ {
+  "ad": "Tokat Kalesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Tokat Kalesi",
+  "aciklama": "Şehrin üstündeki tepede yükselen kale; Tokat'ı tepeden görmek için en iyi nokta.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Tokat_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Tokat_Merkez.jpg/330px-Tokat_Merkez.jpg"
+ },
+ {
+  "ad": "Gök Medrese",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🕌",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Selçuklu döneminden kalma, bugün Tokat Müzesi olarak kullanılan medrese yapısı."
+ },
+ {
+  "ad": "Sulusokak ve Tarihi Evler",
+  "ilce": "Merkez",
+  "tur": "Tarihi sokak",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": "Sulusokak",
+  "aciklama": "Restore edilmiş Osmanlı evlerinin ve konak müzelerinin sıralandığı yürüyüş sokağı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sulusokak"
+ },
+ {
+  "ad": "Ali Paşa Hamamı",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "♨️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Osmanlı dönemi Tokat hamamlarından, hâlâ ayakta olan ve görülmeye değer örnek."
+ },
+ {
+  "ad": "Ballıca Mağarası",
+  "ilce": "Pazar",
+  "tur": "Doğa",
+  "simge": "🦇",
+  "ucretsiz": false,
+  "vikipedi": "Ballıca Mağarası",
+  "aciklama": "Sarkıt ve dikitleriyle ünlü, düzenli gezi yolu olan görkemli mağara.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ball%C4%B1ca_Ma%C4%9Faras%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ballica-magarasi_109064.jpg/330px-Ballica-magarasi_109064.jpg"
+ },
+ {
+  "ad": "Niksar Kalesi ve Ulu Camii",
+  "ilce": "Niksar",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Niksar Kalesi",
+  "aciklama": "Danişmend Gazi'nin başkenti Niksar'ın kalesi ve Danişmendli dönemi yapıları.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Niksar_Kalesi"
+ },
+ {
+  "ad": "Sulusaray Sebastopolis",
+  "ilce": "Sulusaray",
+  "tur": "Antik kent",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Roma döneminden kalan antik kent kalıntılarının bulunduğu alan."
+ },
+ {
+  "ad": "Zile Kalesi",
+  "ilce": "Zile",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Zile Kalesi",
+  "aciklama": "Zile ilçesinin tarihi kalesi; çevresiyle birlikte kısa bir gezi için ideal.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Zile_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Zile_kalesi.jpg/330px-Zile_kalesi.jpg"
+ },
+ {
+  "ad": "Tokat Yazmacılar ve Bakırcılar Çarşısı",
+  "ilce": "Merkez",
+  "tur": "Çarşı",
+  "simge": "🧵",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Yazma baskısı, bakır işleri ve Tokat kebabı gibi yöresel lezzetleri bulacağın geleneksel çarşı."
+ },
+ {
+  "ad": "Latifoğlu Konağı",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏠",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Tokat'ın en bilinen tarihi konaklarından; dönemin yaşam tarzını gösteren müze ev."
+ }
+]

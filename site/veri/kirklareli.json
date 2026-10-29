@@ -1,0 +1,104 @@
+{
+ "il": "kirklareli",
+ "guncelleme": "2026-10-29T16:44+03:00",
+ "ilceler": [
+  "Merkez",
+  "Babaeski",
+  "Demirköy",
+  "Kofçaz",
+  "Lüleburgaz",
+  "Pehlivanköy",
+  "Pınarhisar",
+  "Vize"
+ ],
+ "etkinlikler": [
+  {
+   "id": "32c1f82e631c",
+   "baslik": "Ulusal Müziğimiz - Türk Müziğinin İncileri",
+   "tarih": "2026-10-29",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Lüleburgaz",
+   "mekan": "LYSA",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Lüleburgaz Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://etkinlik.luleburgaz.bel.tr/etkinlik/448",
+   "gorsel": null
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Lüleburgaz Belediyesi",
+   "tur": "belediye",
+   "url": "https://etkinlik.luleburgaz.bel.tr/",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Babaeski, Vize, Pınarhisar, Demirköy belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi bulunamadı"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Kakava Şenlikleri, Kıyıköy ve İğneada etkinlikleri…",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "Kırklareli Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.kirklareli.bel.tr/duyurular",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari (ihale, imar); etkinlik takvimi yok"
+  },
+  {
+   "ad": "Kırklareli Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.kirklareli.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Kırklareli Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.kirklareli.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "site sertifika hatası veriyor — okunamıyor"
+  },
+  {
+   "ad": "Kırklareli İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://kirklareli.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/kirklareli",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

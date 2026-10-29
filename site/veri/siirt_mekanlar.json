@@ -1,0 +1,90 @@
+[
+ {
+  "ad": "Siirt Ulu Camii",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Siirt Ulu Camii",
+  "aciklama": "Şehrin en eski ibadet yapılarından biri; tarihi taş işçiliğiyle çarşının hemen yanında yer alır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Siirt_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Siirt_Ulu_Camii_1543.jpg/330px-Siirt_Ulu_Camii_1543.jpg"
+ },
+ {
+  "ad": "Veysel Karani Türbesi",
+  "ilce": "Merkez",
+  "tur": "Türbe",
+  "simge": "🕋",
+  "ucretsiz": true,
+  "vikipedi": "Veysel Karani Türbesi",
+  "aciklama": "Siirt'in en çok ziyaret edilen inanç mekânlarından; şehrin kuzeyindeki tepede, manzarası güzel bir noktadadır."
+ },
+ {
+  "ad": "Siirt Kalesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehre hâkim tepedeki kale kalıntıları; yukarıdan Siirt ve çevresi görülür."
+ },
+ {
+  "ad": "Botan Vadisi Millî Parkı",
+  "ilce": "Eruh",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": "Botan Vadisi Millî Parkı",
+  "aciklama": "Botan Çayı'nın oyduğu derin kanyon; rafting, doğa yürüyüşü ve piknik için gidilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Botan_Vadisi_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Botan_Vadisi.jpg/330px-Botan_Vadisi.jpg"
+ },
+ {
+  "ad": "Tillo Ulu Camii ve Kümbeti",
+  "ilce": "Tillo",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Tillo ilçesinin Selçuklu dönemi yapıları arasında sayılan, tarihi dokusuyla öne çıkan cami ve kümbet."
+ },
+ {
+  "ad": "Siirt Fıstığı Çarşısı",
+  "ilce": "Merkez",
+  "tur": "Çarşı",
+  "simge": "🥜",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Siirt fıstığı, büryan ve el işlemesi ürünlerin satıldığı, şehrin yerel lezzet ve alışveriş merkezi."
+ },
+ {
+  "ad": "Kurtalan Dicle Kıyıları",
+  "ilce": "Kurtalan",
+  "tur": "Doğa",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Dicle Nehri'nin geçtiği Kurtalan çevresi; nehir kenarında piknik ve manzara için uğrak yeri."
+ },
+ {
+  "ad": "Pervari Yaylaları",
+  "ilce": "Pervari",
+  "tur": "Doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": "Pervari",
+  "aciklama": "Yaz aylarında serin havası ve yeşil doğasıyla yayla turizmine uygun dağlık bölge.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Pervari",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Siirt_Pervari.JPG/330px-Siirt_Pervari.JPG"
+ },
+ {
+  "ad": "Şirvan Bakır Madeni Bölgesi",
+  "ilce": "Şirvan",
+  "tur": "Tarihi yer",
+  "simge": "⛏️",
+  "ucretsiz": true,
+  "vikipedi": "Şirvan, Siirt",
+  "aciklama": "Antik çağlardan beri bakır çıkarılan, Siirt'in tarihî maden geçmişini anlatan bölge.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C5%9Eirvan%2C_Siirt"
+ }
+]

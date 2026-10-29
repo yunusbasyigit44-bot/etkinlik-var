@@ -1,0 +1,69 @@
+[
+ {
+  "ad": "Karatepe-Aslantaş Açık Hava Müzesi",
+  "ilce": "Kadirli",
+  "tur": "Açık hava müzesi",
+  "simge": "🦁",
+  "ucretsiz": false,
+  "vikipedi": "Karatepe-Aslantaş Millî Parkı",
+  "aciklama": "Geç Hitit dönemi kalesi; kapılardaki aslan heykelleri ve Fenike-Hitit yazıtlarıyla ünlü, milli park içinde.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Karatepe-Aslanta%C5%9F_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Karatepe_Stadtmauer.JPG/330px-Karatepe_Stadtmauer.JPG"
+ },
+ {
+  "ad": "Hierapolis-Kastabala Antik Kenti",
+  "ilce": "Bahçe",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": true,
+  "vikipedi": "Hierapolis-Kastabala",
+  "aciklama": "Sütunlu cadde, tiyatro ve kaya mezarlarıyla Roma dönemi şehri; Bahçe'de Ceyhan Nehri kıyısında."
+ },
+ {
+  "ad": "Toprakkale Kalesi",
+  "ilce": "Toprakkale",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Toprakkale Kalesi",
+  "aciklama": "Haçlı dönemi Ermeni krallığından kalan, tepede duran tarihi kale ve geçit bekçisi."
+ },
+ {
+  "ad": "Zorkun Yaylası",
+  "ilce": "Düziçi",
+  "tur": "Doğa",
+  "simge": "🌲",
+  "ucretsiz": true,
+  "vikipedi": "Zorkun Yaylası",
+  "aciklama": "Amanos dağlarında çam ormanları içinde serin bir yayla; yaz aylarında piknik ve yürüyüşe elverişli.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Zorkun_Yaylas%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Zorkun_Yaylas%C4%B1nda_Yol_Kenar%C4%B1_2016.jpg/330px-Zorkun_Yaylas%C4%B1nda_Yol_Kenar%C4%B1_2016.jpg"
+ },
+ {
+  "ad": "Haruniye Kaplıcaları",
+  "ilce": "Düziçi",
+  "tur": "Kaplıca",
+  "simge": "♨️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Harun Reşid döneminden kaldığı söylenen tarihi hamam ve sıcak su kaynakları."
+ },
+ {
+  "ad": "Yarpuz Yaylası",
+  "ilce": "Bahçe",
+  "tur": "Doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Amanos'taki yayla yerleşimi; serin havası ve bol yeşiliyle yaz tatilcilerinin tercihi."
+ },
+ {
+  "ad": "Osmaniye Kent Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Osmaniye'nin tarihi, yöresel eşyaları ve kültürü sergileniyor."
+ }
+]

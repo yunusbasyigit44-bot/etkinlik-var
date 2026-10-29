@@ -1,0 +1,142 @@
+{
+ "il": "yozgat",
+ "guncelleme": "2026-10-29T16:45+03:00",
+ "ilceler": [
+  "Merkez",
+  "Akdağmadeni",
+  "Aydıncık",
+  "Boğazlıyan",
+  "Çandır",
+  "Çayıralan",
+  "Çekerek",
+  "Kadışehri",
+  "Saraykent",
+  "Sarıkaya",
+  "Sorgun",
+  "Şefaatli",
+  "Yenifakılı",
+  "Yerköy"
+ ],
+ "etkinlikler": [
+  {
+   "id": "0488a2b30020",
+   "baslik": "Saygılı Yaşam ve Güvenli İlişkiler Eğitimi",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4251",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/797bb611.png"
+  },
+  {
+   "id": "86e3abc63eeb",
+   "baslik": "İİBF - VI. Bozok Öğrenci Paneli",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4252",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/3181a56f.jpg"
+  },
+  {
+   "id": "9296e962a07d",
+   "baslik": "IV. Ulusal Bozok Fen Edebiyat Fakültesi Öğrenci Sempozyumu",
+   "tarih": "2026-12-15",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4249",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/5c90865e.jpg"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Yozgat Bozok Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.bozok.edu.tr/",
+   "etkinlik_sayisi": 3,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Sorgun, Yerköy, Boğazlıyan belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor (sonraki tur)"
+  },
+  {
+   "ad": "Yozgat Belediyesi",
+   "tur": "belediye",
+   "url": "https://etkinlik.yozgat.bel.tr/",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Yozgat Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.yozgat.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Yozgat İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://yozgat.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Yıllık festivaller (Sürmeli Şenlikleri, Çamlık Şenlikleri…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/yozgat",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

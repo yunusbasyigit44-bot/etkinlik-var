@@ -1,0 +1,86 @@
+[
+ {
+  "ad": "Giresun Adası",
+  "ilce": "Merkez",
+  "tur": "Ada / doğa",
+  "simge": "🏝️",
+  "ucretsiz": true,
+  "vikipedi": "Giresun Adası",
+  "aciklama": "Karadeniz'in tek yerleşimsiz adası; antik tapınak kalıntıları ve her yıl düzenlenen Aksu şenliği ile bilinir. Tekneyle gidilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Giresun_Adas%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Giresun_Ada.jpg/330px-Giresun_Ada.jpg"
+ },
+ {
+  "ad": "Giresun Kalesi",
+  "ilce": "Merkez",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Giresun Kalesi",
+  "aciklama": "Şehrin tepesinde, denize bakan tarihi kale ve park; gün batımı manzarası için sevilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Giresun_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Castle_of_Giresun.jpg/330px-Castle_of_Giresun.jpg"
+ },
+ {
+  "ad": "Giresun Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Giresun Müzesi",
+  "aciklama": "Eski bir Rum kilisesi binasında kurulu müze; yöre tarihi ve etnografya eserleri sergilenir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Giresun_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Giresun_Museum_%28Gogora_Church%29.jpg/330px-Giresun_Museum_%28Gogora_Church%29.jpg"
+ },
+ {
+  "ad": "Kümbet Yaylası",
+  "ilce": "Dereli",
+  "tur": "Yayla / doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": "Kümbet Yaylası",
+  "aciklama": "Yazın şenlikleriyle ünlü, çimenli ve geniş bir yayla; piknik ve doğa yürüyüşü için uygun.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/K%C3%BCmbet_Yaylas%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Waldgebiete_K%C3%BCmbet_Yaylas%C4%B1.jpg/330px-Waldgebiete_K%C3%BCmbet_Yaylas%C4%B1.jpg"
+ },
+ {
+  "ad": "Şebinkarahisar Kalesi",
+  "ilce": "Şebinkarahisar",
+  "tur": "Kale",
+  "simge": "🏯",
+  "ucretsiz": true,
+  "vikipedi": "Şebinkarahisar Kalesi",
+  "aciklama": "Kayalık bir tepede yükselen eski kale; kasabanın tarihi dokusuna tepeden bakılır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C5%9Eebinkarahisar_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Castle_of_%C5%9Eebinkarahisar_2017-07-02_01-3.jpg/330px-Castle_of_%C5%9Eebinkarahisar_2017-07-02_01-3.jpg"
+ },
+ {
+  "ad": "Tirebolu Kalesi",
+  "ilce": "Tirebolu",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Tirebolu Kalesi",
+  "aciklama": "Karadeniz kıyısında, Tirebolu'nun tarihi merkezini gören kale ve çevresindeki sahil.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Tirebolu_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Tirebolu.JPG/330px-Tirebolu.JPG"
+ },
+ {
+  "ad": "Giresun Sahil Yolu ve Atatürk Bulvarı",
+  "ilce": "Merkez",
+  "tur": "Sahil / gezi",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Denize paralel uzanan yürüyüş yolu; çay bahçeleri ve restoranlarla şehrin canlı buluşma noktası."
+ },
+ {
+  "ad": "Fındık Bahçeleri ve Yayla Yolları",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🌰",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Giresun'un simgesi fındığın yetiştiği yeşil yamaçlar; sonbaharda hasat dönemi görülmeye değer."
+ }
+]

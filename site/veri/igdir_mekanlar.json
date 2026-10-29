@@ -1,0 +1,70 @@
+[
+ {
+  "ad": "Ağrı Dağı manzarası",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🏔️",
+  "ucretsiz": true,
+  "vikipedi": "Ağrı Dağı",
+  "aciklama": "Türkiye'nin en yüksek zirvesi; kuzey yamaçları Iğdır ovasından göz alabildiğine görülür.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/B%C3%BCy%C3%BCk_ve_K%C3%BC%C3%A7%C3%BCk_A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1.jpg/330px-B%C3%BCy%C3%BCk_ve_K%C3%BC%C3%A7%C3%BCk_A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1.jpg"
+ },
+ {
+  "ad": "Iğdır Soykırım Anıtı ve Müzesi",
+  "ilce": "Merkez",
+  "tur": "Anıt / Müze",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": "Ermeniler Tarafından Katledilen Şehit Türkler Anıt ve Müzesi",
+  "aciklama": "Tüm Türkiye'den görülebilen 43,5 metrelik anıt ve yanındaki müze, bölgede yaşananları anlatır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ermeniler_Taraf%C4%B1ndan_Katledilen_%C5%9Eehit_T%C3%BCrkler_An%C4%B1t_ve_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/IgdirGenocideMuseum.jpg/330px-IgdirGenocideMuseum.jpg"
+ },
+ {
+  "ad": "Tuzluca Tuz Mağarası",
+  "ilce": "Tuzluca",
+  "tur": "Doğa",
+  "simge": "🧂",
+  "ucretsiz": false,
+  "vikipedi": "Tuzluca Tuz Mağarası",
+  "aciklama": "Kaya tuzu madeninden dönüştürülen mağarada tuz galerileri gezilebilir; solunum rahatsızlığı olanlara iyi geldiği söylenir."
+ },
+ {
+  "ad": "Tuzluca Tuz Kayalıkları",
+  "ilce": "Tuzluca",
+  "tur": "Doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Tuzluca çevresindeki beyaz-pembe tuz kayalıkları, günbatımında fotoğrafçıların gözdesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Tuzluca"
+ },
+ {
+  "ad": "Aras Kuş Cenneti",
+  "ilce": "Karakoyunlu",
+  "tur": "Doğa",
+  "simge": "🦆",
+  "ucretsiz": true,
+  "vikipedi": "Aras Kuş Cenneti",
+  "aciklama": "Aras Nehri kıyısındaki sulak alan, göç mevsiminde yüzlerce kuş türünü ağırlar."
+ },
+ {
+  "ad": "Iğdır Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Karakoyunlu ve Ağrı Dağı çevresinden gelen arkeolojik ve etnografik eserler sergileniyor."
+ },
+ {
+  "ad": "Iğdır Kayısı Bahçeleri",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🍑",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Nisan'da çiçek açan, yazın kayısı toplanan bahçeler; Iğdır'ın simgesi olan lezzetin yetiştiği yer."
+ }
+]

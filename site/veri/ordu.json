@@ -1,0 +1,112 @@
+{
+ "il": "ordu",
+ "guncelleme": "2026-10-29T16:43+03:00",
+ "ilceler": [
+  "Altınordu",
+  "Akkuş",
+  "Aybastı",
+  "Çamaş",
+  "Çatalpınar",
+  "Çaybaşı",
+  "Fatsa",
+  "Gölköy",
+  "Gülyalı",
+  "Gürgentepe",
+  "İkizce",
+  "Kabadüz",
+  "Kabataş",
+  "Korgan",
+  "Kumru",
+  "Mesudiye",
+  "Perşembe",
+  "Ulubey",
+  "Ünye"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Altınordu Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.altinordu.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası haber bölümünde; düzenli takvim yok"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Fatsa Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.fatsa.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası henüz okunmuyor (sonraki tur)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Ordu Büyükşehir Belediyesi (Şehir Tiyatrosu, OBBKT)",
+   "tur": "belediye",
+   "url": "https://www.ordu.bel.tr/etkinlik-takvimi",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası var ama listesi güncellenmiyor (Ocak 2025 / Mayıs 2026 oyunları); güncellenince okunacak"
+  },
+  {
+   "ad": "Ordu Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.ordu.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Ordu Üniversitesi",
+   "tur": "universite",
+   "url": "https://odu.edu.tr/TumEtkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Ordu İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://ordu.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller (Ünye Kültür Sanat ve Turizm, Fatsa Fındık, Perşembe Yayla…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/ordu",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "Ünye Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.unye.bel.tr/etkinlikler/yaklasan-etkinlikler/",
+   "etkinlik_sayisi": 0,
+   "durum": "yaklaşan etkinlikler sayfasında sadece geçmiş festival var"
+  }
+ ]
+}

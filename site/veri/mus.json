@@ -1,0 +1,157 @@
+{
+ "il": "mus",
+ "guncelleme": "2026-10-29T16:43+03:00",
+ "ilceler": [
+  "Merkez",
+  "Bulanık",
+  "Hasköy",
+  "Korkut",
+  "Malazgirt",
+  "Varto"
+ ],
+ "etkinlikler": [
+  {
+   "id": "fadbbec4e958",
+   "baslik": "İşkur Gençlik Programı Başlıyor",
+   "tarih": "2026-10-26",
+   "bitis": "2026-10-30",
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/iskur-genclik-programi-basliyor-9607",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1793083574.jpg"
+  },
+  {
+   "id": "7261bb584705",
+   "baslik": "103. Yılında Cumhuriyeti Yeniden Anlamak",
+   "tarih": "2026-10-29",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/103-yilinda-cumhuriyeti-yeniden-anlamak-9616",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1793177628.jpg"
+  },
+  {
+   "id": "bca89248dd9c",
+   "baslik": "Dersimiz Atatürk",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/dersimiz-ataturk-9602",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1793010385.jpg"
+  },
+  {
+   "id": "f647c7e56c46",
+   "baslik": "Aliya İzzetbegoviç'in Hatırasına Bosna'dan İzler",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/aliya-izzetbegovicin-hatirasina-bosnadan-izler-9603",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1793010610.jpg"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Muş Alparslan Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.alparslan.edu.tr/tr/page/event",
+   "etkinlik_sayisi": 4,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi yok"
+  },
+  {
+   "ad": "Malazgirt Zaferi Anma Etkinlikleri, Muş Lale Festivali…",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "Malazgirt, Bulanık, Varto belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi bulunamadı"
+  },
+  {
+   "ad": "Muş Alparslan Üniversitesi Etkinlik Takvimi (etakvim)",
+   "tur": "universite",
+   "url": "http://etakvim.alparslan.edu.tr/",
+   "etkinlik_sayisi": 0,
+   "durum": "site zaman aşımına uğruyor — okunamıyor"
+  },
+  {
+   "ad": "Muş Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.mus.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "site zaman aşımına uğruyor — okunamıyor"
+  },
+  {
+   "ad": "Muş Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.mus.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Muş İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://mus.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/mus",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

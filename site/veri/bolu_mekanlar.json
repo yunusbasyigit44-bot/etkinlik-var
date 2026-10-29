@@ -1,0 +1,91 @@
+[
+ {
+  "ad": "Abant Gölü Tabiat Parkı",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": false,
+  "vikipedi": "Abant Gölü",
+  "aciklama": "Çam ve kayın ormanlarıyla çevrili heyelan gölü; çevresinde yürüyüş, fayton ve bisiklet turu yapılır. Sonbaharda renkleri meşhurdur.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Abant_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Abant_Bolu_Province.jpg/330px-Abant_Bolu_Province.jpg"
+ },
+ {
+  "ad": "Yedigöller Milli Parkı",
+  "ilce": "Merkez",
+  "tur": "Doğa / Milli park",
+  "simge": "🌲",
+  "ucretsiz": false,
+  "vikipedi": "Yedigöller Millî Parkı",
+  "aciklama": "Yedi küçük gölü ve yoğun ormanıyla sonbahar renkleri için en çok ziyaret edilen yerlerden biri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Yedig%C3%B6ller_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Yedigoller_1398_nevit.jpg/330px-Yedigoller_1398_nevit.jpg"
+ },
+ {
+  "ad": "Gölcük Tabiat Parkı",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🌳",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Şehir merkezine yakın, piknik ve yürüyüş için uygun sakin bir göl ve orman alanı."
+ },
+ {
+  "ad": "Kartalkaya Kayak Merkezi",
+  "ilce": "Merkez",
+  "tur": "Kayak merkezi",
+  "simge": "⛷️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Köroğlu Dağları'ndaki kayak merkezi; kış aylarında kayak ve kış sporları için tercih edilir."
+ },
+ {
+  "ad": "Mudurnu",
+  "ilce": "Mudurnu",
+  "tur": "Tarihi kasaba",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": "Mudurnu",
+  "aciklama": "Osmanlı dönemi ahşap konakları ve tarihi çarşısıyla bilinen sakin bir kasaba.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Mudurnu",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Mudurnu_june_2019_2825_panorama.jpg/330px-Mudurnu_june_2019_2825_panorama.jpg"
+ },
+ {
+  "ad": "Göynük",
+  "ilce": "Göynük",
+  "tur": "Tarihi kasaba",
+  "simge": "🏚️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Eski Türk evleri ve tarihi mahalleleriyle Cittaslow ağında yer alan şirin bir ilçe."
+ },
+ {
+  "ad": "Mengen",
+  "ilce": "Mengen",
+  "tur": "Gastronomi",
+  "simge": "👨‍🍳",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Aşçıların ilçesi olarak bilinir; Türk Mutfağı Müzesi ve yemek kültürüyle öne çıkar."
+ },
+ {
+  "ad": "Seben Gölü",
+  "ilce": "Seben",
+  "tur": "Doğa",
+  "simge": "🛶",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Seben ilçesi çevresindeki orman ve göl manzaralarıyla sakin bir gün için uygun."
+ },
+ {
+  "ad": "Köroğlu Dağları",
+  "ilce": "Merkez",
+  "tur": "Doğa / Dağ",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": "Köroğlu Dağları",
+  "aciklama": "Bolu ile Gerede arasında uzanan dağ silsilesi; yaylaları ve yürüyüş yollarıyla bilinir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/K%C3%B6ro%C4%9Flu_Da%C4%9Flar%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/K%C3%B6ro%C4%9Flu_Da%C4%9Flar%C4%B1_09_1984_bei_Korgun.jpg/330px-K%C3%B6ro%C4%9Flu_Da%C4%9Flar%C4%B1_09_1984_bei_Korgun.jpg"
+ }
+]

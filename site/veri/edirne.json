@@ -1,0 +1,88 @@
+{
+ "il": "edirne",
+ "guncelleme": "2026-10-29T16:41+03:00",
+ "ilceler": [
+  "Merkez",
+  "Enez",
+  "Havsa",
+  "İpsala",
+  "Keşan",
+  "Lalapaşa",
+  "Meriç",
+  "Süloğlu",
+  "Uzunköprü"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "8 ilçe kaymakamlığı ve belediyeleri (Keşan, Uzunköprü…)",
+   "tur": "kaymakamlik",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Edirne Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.edirne.bel.tr/gundem/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "'etkinlikler' sayfası olmuş etkinliklerin haberlerini gösteriyor; yaklaşan takvim yok"
+  },
+  {
+   "ad": "Edirne Valiliği",
+   "tur": "valilik",
+   "url": "https://www.edirne.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Edirne İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://edirne.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Tarihi Kırkpınar Yağlı Güreşleri, Kakava Şenlikleri, Edirne Sanat Festivali",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; 2026-27 tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "Trakya Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.trakya.edu.tr/tum-etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik listesi JavaScript ile yükleniyor; düz sayfada veri yok"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/edirne",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

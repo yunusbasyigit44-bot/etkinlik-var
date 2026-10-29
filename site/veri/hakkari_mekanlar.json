@@ -1,0 +1,76 @@
+[
+ {
+  "ad": "Hakkari Kalesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehir merkezine hâkim tepedeki eski kale; çevredeki dağ manzarasını izlemek için güzel bir nokta."
+ },
+ {
+  "ad": "Cilo Dağı",
+  "ilce": "Yüksekova",
+  "tur": "Doğa / dağ",
+  "simge": "🏔️",
+  "ucretsiz": true,
+  "vikipedi": "Cilo Dağı",
+  "aciklama": "Türkiye'nin en zorlu dağcılık bölgelerinden; buzulları ve sivri tepeleriyle kampçı ve dağcıların rotası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Cilo_Da%C4%9F%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Cilo..._-_panoramio.jpg/330px-Cilo..._-_panoramio.jpg"
+ },
+ {
+  "ad": "Uludoruk Zirvesi",
+  "ilce": "Yüksekova",
+  "tur": "Doğa / dağ",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Cilo-Sat Dağları'nın en yüksek zirvesi; ancak deneyimli dağcılar ve rehberle çıkılır."
+ },
+ {
+  "ad": "Cilo Gölleri",
+  "ilce": "Yüksekova",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Cilo Dağları'nın yamaçlarındaki buzul gölleri; yaz aylarında yürüyüşle ulaşılır."
+ },
+ {
+  "ad": "Zap Suyu",
+  "ilce": "Çukurca",
+  "tur": "Doğa",
+  "simge": "💧",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Hakkari'nin derin vadilerinden akan güçlü nehir; kanyon manzaralı yol boyunca seyretmek keyiflidir."
+ },
+ {
+  "ad": "Berçelan Yaylası",
+  "ilce": "Merkez",
+  "tur": "Doğa / yayla",
+  "simge": "🌄",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Yazın çadır ve yayla keyfi için gidilen, otlaklarla kaplı yüksek yayla."
+ },
+ {
+  "ad": "Nehil Sazlığı",
+  "ilce": "Yüksekova",
+  "tur": "Doğa / kuş gözlemi",
+  "simge": "🦆",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Yüksekova Ovası'ndaki sulak alan; göç mevsiminde kuş gözlemcilerinin uğrak yeri."
+ },
+ {
+  "ad": "Hakkari Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Bölgenin Urartu ve Asur dönemlerinden kalma buluntularının sergilendiği müze; ünlü kaya resimleri (Gevaruk) hakkında bilgi verir."
+ }
+]

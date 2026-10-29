@@ -1,0 +1,177 @@
+{
+ "il": "aksaray",
+ "guncelleme": "2026-10-29T16:45+03:00",
+ "ilceler": [
+  "Merkez",
+  "Ağaçören",
+  "Eskil",
+  "Gülağaç",
+  "Güzelyurt",
+  "Ortaköy",
+  "Sarıyahşi",
+  "Sultanhanı"
+ ],
+ "etkinlikler": [
+  {
+   "id": "e8a4633f542b",
+   "baslik": "Öğrenci Koçluğu ve Eğitim Danışmanlığı Sertifika Programı",
+   "tarih": "2026-09-30",
+   "bitis": "2026-10-30",
+   "saat": "08:00",
+   "ilce": "Merkez",
+   "mekan": "ASÜ Sürekli Eğitim Merkezi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/ogrenci-koclugu-ve-egitim-danismanligi-sertifika-programi",
+   "gorsel": null
+  },
+  {
+   "id": "5aecccae3c00",
+   "baslik": "Saygılı Yaşam Güvenli İlişkiler Konferansı",
+   "tarih": "2026-09-30",
+   "bitis": "2026-10-30",
+   "saat": "10:30",
+   "ilce": "Merkez",
+   "mekan": "ASÜ Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/saygili-yasam-guvenli-iliskiler-konferansi",
+   "gorsel": null
+  },
+  {
+   "id": "7e032d6d3e91",
+   "baslik": "Türkiye Sibervatan Programı 2027 Dönemi Başlıyor",
+   "tarih": "2026-10-10",
+   "bitis": "2026-10-30",
+   "saat": "09:30",
+   "ilce": "Merkez",
+   "mekan": "Aksaray Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/turkiye-sibervatan-programi-2027-donemi-basliyor",
+   "gorsel": null
+  },
+  {
+   "id": "16a19246e1b1",
+   "baslik": "CNC Torna Operatörlüğü Kursu",
+   "tarih": "2026-10-27",
+   "bitis": "2026-12-17",
+   "saat": "11:12",
+   "ilce": "Merkez",
+   "mekan": "Aksaray Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/cnc-torna-operatorlugu-kursu",
+   "gorsel": null
+  },
+  {
+   "id": "2724cf1eceba",
+   "baslik": "Cumhuriyet Koşusu",
+   "tarih": "2026-10-29",
+   "bitis": null,
+   "saat": "08:30",
+   "ilce": "Merkez",
+   "mekan": "Aksaray Üniversitesi Kampüsü",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/cumhuriyet-kosusu",
+   "gorsel": null
+  },
+  {
+   "id": "44d67b41f6e6",
+   "baslik": "Terörsüz Türkiye Sürecinde Yarınki Türkiye’yi Düşünmek",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Merkez",
+   "mekan": "İİBF Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/terorsuz-turkiye-surecinde-yarinki-turkiyeyi-dusunmek",
+   "gorsel": null
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Aksaray Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.aksaray.edu.tr/Etkinlik-takvimi",
+   "etkinlik_sayisi": 6,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Aksaray Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.aksaray.bel.tr/Etkinlikler.aspx",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası var ama son kayıt Eylül 2026'da kalmış (yaklaşan etkinlik yok); yenilenince okunabilir"
+  },
+  {
+   "ad": "Aksaray Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.aksaray.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Aksaray İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://aksaray.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller (Ihlara Kültür ve Turizm, Hasan Dağı…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/aksaray",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

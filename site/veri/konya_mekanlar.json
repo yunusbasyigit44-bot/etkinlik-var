@@ -1,0 +1,104 @@
+[
+ {
+  "ad": "Mevlana Müzesi",
+  "ilce": "Karatay",
+  "tur": "Müze",
+  "simge": "🕌",
+  "ucretsiz": false,
+  "vikipedi": "Mevlânâ Müzesi",
+  "aciklama": "Mevlana'nın türbesinin de bulunduğu, yeşil kubbesiyle Konya'nın en tanınmış yapısı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Mevl%C3%A2n%C3%A2_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/MevlanaMuseum.jpg/330px-MevlanaMuseum.jpg"
+ },
+ {
+  "ad": "Alaeddin Tepesi ve Camii",
+  "ilce": "Selçuklu",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Selçuklu başkentinin kalbindeki tepe ve üzerindeki büyük cami."
+ },
+ {
+  "ad": "İnce Minareli Medrese",
+  "ilce": "Selçuklu",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "İnce Minareli Medrese",
+  "aciklama": "Taş işçiliğiyle ünlü kapısı olan Selçuklu medresesi; bugün Taş ve Ahşap Eserler Müzesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C4%B0nce_Minareli_Medrese",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Ince_Minareli_Medrese_01.jpg/330px-Ince_Minareli_Medrese_01.jpg"
+ },
+ {
+  "ad": "Karatay Medresesi",
+  "ilce": "Karatay",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Kubbesindeki turkuaz çinileriyle bilinen, Çini Eserleri Müzesi olarak gezilen medrese."
+ },
+ {
+  "ad": "Sille",
+  "ilce": "Selçuklu",
+  "tur": "Köy / Doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": "Sille",
+  "aciklama": "Kayalara oyulmuş evleri ve Aya Elena Kilisesi ile eski bir Rum yerleşimi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sille",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Sille_heart_of_town_4701.jpg/330px-Sille_heart_of_town_4701.jpg"
+ },
+ {
+  "ad": "Çatalhöyük",
+  "ilce": "Çumra",
+  "tur": "Arkeolojik alan",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Çatalhöyük",
+  "aciklama": "Dünyanın ilk şehir yerleşimlerinden biri sayılan, UNESCO listesindeki Neolitik höyük.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/CatalHoyukSouthArea.JPG/330px-CatalHoyukSouthArea.JPG"
+ },
+ {
+  "ad": "Tropikal Kelebek Bahçesi",
+  "ilce": "Selçuklu",
+  "tur": "Park",
+  "simge": "🦋",
+  "ucretsiz": false,
+  "vikipedi": "Konya Tropikal Kelebek Bahçesi",
+  "aciklama": "Kapalı alanda yüzlerce kelebeğin uçtuğu, çocuklarla gidilecek bahçe.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Konya_Tropikal_Kelebek_Bah%C3%A7esi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/tr/thumb/7/77/Konya_Tropikal_Kelebek_Bah%C3%A7esi.png/330px-Konya_Tropikal_Kelebek_Bah%C3%A7esi.png"
+ },
+ {
+  "ad": "Beyşehir Gölü",
+  "ilce": "Beyşehir",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Türkiye'nin en büyük tatlı su gölü; kıyısında Eşrefoğlu Camii bulunur."
+ },
+ {
+  "ad": "Eşrefoğlu Camii",
+  "ilce": "Beyşehir",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Eşrefoğlu Camii",
+  "aciklama": "Ahşap direkleri ve çini mihrabıyla ünlü 13. yüzyıl camisi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/E%C5%9Frefo%C4%9Flu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Beysehir_Eshrefoglu_Camii_4369.jpg/330px-Beysehir_Eshrefoglu_Camii_4369.jpg"
+ },
+ {
+  "ad": "Aya Elena Kilisesi",
+  "ilce": "Selçuklu",
+  "tur": "Tarihi yer",
+  "simge": "⛪",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Sille'de 4. yüzyıla dayandırılan, kayalara yaslanmış eski kilise."
+ }
+]

@@ -1,0 +1,130 @@
+[
+ {
+  "ad": "Ayasofya-i Kebir Cami-i Şerifi",
+  "ilce": "Fatih",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Ayasofya",
+  "aciklama": "Bin beş yüz yıldır ayakta duran dev kubbesiyle İstanbul'un simgesi; bugün cami olarak ziyarete açık.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ayasofya",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/330px-Hagia_Sophia_%28228968325%29.jpeg"
+ },
+ {
+  "ad": "Topkapı Sarayı",
+  "ilce": "Fatih",
+  "tur": "Müze",
+  "simge": "🏰",
+  "ucretsiz": false,
+  "vikipedi": "Topkapı Sarayı",
+  "aciklama": "Osmanlı padişahlarının dört yüz yıl yaşadığı saray; harem, hazine ve Boğaz manzarasıyla gezilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Topkap%C4%B1_Saray%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Topkap%C4%B1_-_01.jpg/330px-Topkap%C4%B1_-_01.jpg"
+ },
+ {
+  "ad": "Sultanahmet Camii",
+  "ilce": "Fatih",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Sultanahmet Camii",
+  "aciklama": "İç duvarlarındaki mavi çinilerle Mavi Cami diye bilinen, altı minareli Osmanlı yapısı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sultanahmet_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Istanbul_%2834223582516%29_%28cropped%29.jpg/330px-Istanbul_%2834223582516%29_%28cropped%29.jpg"
+ },
+ {
+  "ad": "Yerebatan Sarnıcı",
+  "ilce": "Fatih",
+  "tur": "Tarihi yer",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Yerebatan Sarnıcı",
+  "aciklama": "Yüzlerce sütunun suyun üstünde sıralandığı, loş ışıklı Bizans dönemi yeraltı su deposu.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Yerebatan_Sarn%C4%B1c%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Cisterna_Bas%C3%ADlica%2C_Estambul%2C_Turqu%C3%ADa%2C_2024-09-28%2C_DD_58-60_HDR.jpg/330px-Cisterna_Bas%C3%ADlica%2C_Estambul%2C_Turqu%C3%ADa%2C_2024-09-28%2C_DD_58-60_HDR.jpg"
+ },
+ {
+  "ad": "Galata Kulesi",
+  "ilce": "Beyoğlu",
+  "tur": "Tarihi yer",
+  "simge": "🗼",
+  "ucretsiz": false,
+  "vikipedi": "Galata Kulesi",
+  "aciklama": "Tepesinden Haliç, Boğaz ve tarihi yarımadanın en geniş manzarasını gördüğünüz ortaçağ kulesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Galata_Kulesi"
+ },
+ {
+  "ad": "Kapalıçarşı",
+  "ilce": "Fatih",
+  "tur": "Çarşı",
+  "simge": "🛍️",
+  "ucretsiz": true,
+  "vikipedi": "Kapalıçarşı",
+  "aciklama": "Binlerce dükkânıyla dünyanın en eski ve en büyük kapalı çarşılarından; halı, mücevher ve hediyelik eşya için.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kapal%C4%B1%C3%A7ar%C5%9F%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Istanbul_asv2021-11_img41_Grand_Bazaar.jpg/330px-Istanbul_asv2021-11_img41_Grand_Bazaar.jpg"
+ },
+ {
+  "ad": "Dolmabahçe Sarayı",
+  "ilce": "Beşiktaş",
+  "tur": "Müze",
+  "simge": "🏰",
+  "ucretsiz": false,
+  "vikipedi": "Dolmabahçe Sarayı",
+  "aciklama": "Boğaz kıyısındaki gösterişli saray; Atatürk'ün son günlerini geçirdiği odayı da burada görürsünüz.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Dolmabah%C3%A7e_Saray%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dolmabahce_Istanbul_Turkey.jpg/330px-Dolmabahce_Istanbul_Turkey.jpg"
+ },
+ {
+  "ad": "Süleymaniye Camii",
+  "ilce": "Fatih",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Süleymaniye Camii",
+  "aciklama": "Mimar Sinan'ın ustalık eseri; avlusundan Haliç manzarasını izleyebilirsiniz.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/S%C3%BCleymaniye_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/S%C3%BCleymaniyeMosqueIstanbul_%28cropped%29.jpg/330px-S%C3%BCleymaniyeMosqueIstanbul_%28cropped%29.jpg"
+ },
+ {
+  "ad": "Kız Kulesi",
+  "ilce": "Üsküdar",
+  "tur": "Tarihi yer",
+  "simge": "🗼",
+  "ucretsiz": false,
+  "vikipedi": "Kız Kulesi",
+  "aciklama": "Üsküdar açığında, Boğaz'ın ortasındaki küçük adada yükselen kule; içinde kafe ve restoran var.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/K%C4%B1z_Kulesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Istanbul_K%C4%B1z_Kulesi_%2854511155871%29_%28cropped%29.jpg/330px-Istanbul_K%C4%B1z_Kulesi_%2854511155871%29_%28cropped%29.jpg"
+ },
+ {
+  "ad": "Emirgan Korusu",
+  "ilce": "Sarıyer",
+  "tur": "Park / doğa",
+  "simge": "🌷",
+  "ucretsiz": true,
+  "vikipedi": "Emirgân Korusu",
+  "aciklama": "Boğaz kıyısında, nisanda lale festivaliyle ünlü geniş piknik ve yürüyüş alanı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Emirg%C3%A2n_Korusu"
+ },
+ {
+  "ad": "Büyükada",
+  "ilce": "Adalar",
+  "tur": "Doğa",
+  "simge": "🏝️",
+  "ucretsiz": true,
+  "vikipedi": "Büyükada",
+  "aciklama": "Vapurla ulaşılan, motorsuz fayton turları ve ahşap köşkleriyle şehirden kaçış adası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkada",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/BuyukadaMainSquare.jpg/330px-BuyukadaMainSquare.jpg"
+ },
+ {
+  "ad": "Rahmi M. Koç Müzesi",
+  "ilce": "Beyoğlu",
+  "tur": "Müze",
+  "simge": "⚙️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Haliç kıyısında; eski lokomotifler, denizaltı ve antika makinelerle sanayi ve ulaşım tarihi müzesi."
+ }
+]

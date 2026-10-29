@@ -1,0 +1,104 @@
+[
+ {
+  "ad": "Selimiye Camii",
+  "ilce": "Merkez",
+  "tur": "Cami / UNESCO",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Selimiye Camii",
+  "aciklama": "Mimar Sinan'ın 'ustalık eserim' dediği, devasa kubbesiyle UNESCO Dünya Mirası cami ve külliyesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Selimiye_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Selimiye_Mosque_%2815051985908%29_%28cropped%29.jpg/330px-Selimiye_Mosque_%2815051985908%29_%28cropped%29.jpg"
+ },
+ {
+  "ad": "Eski Cami",
+  "ilce": "Merkez",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Edirne'nin en eski Osmanlı camilerinden; duvarlarındaki dev hat yazılarıyla bilinir."
+ },
+ {
+  "ad": "Üç Şerefeli Cami",
+  "ilce": "Merkez",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Üç Şerefeli Cami",
+  "aciklama": "Osmanlı mimarisinde yeni bir dönemin başlangıcı sayılan, farklı minare ve kubbe düzenine sahip cami.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%9C%C3%A7_%C5%9Eerefeli_Cami",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Edirne_view_of_%C3%9C%C3%A7_%C5%9Eerefeli_Mosque_%28cropped%29.jpg/330px-Edirne_view_of_%C3%9C%C3%A7_%C5%9Eerefeli_Mosque_%28cropped%29.jpg"
+ },
+ {
+  "ad": "II. Bayezid Külliyesi ve Sağlık Müzesi",
+  "ilce": "Merkez",
+  "tur": "Külliye / müze",
+  "simge": "⚕️",
+  "ucretsiz": false,
+  "vikipedi": "II. Bayezid Külliyesi",
+  "aciklama": "Akıl hastalarına müzikle tedavi uygulanan 15. yüzyıl şifahanesini de barındıran külliye.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/II._Bayezid_K%C3%BClliyesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Beyazit_kulliyesi.JPG/330px-Beyazit_kulliyesi.JPG"
+ },
+ {
+  "ad": "Edirne Sarayı (Sarayiçi)",
+  "ilce": "Merkez",
+  "tur": "Tarihi alan",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Edirne Sarayı",
+  "aciklama": "Osmanlı sultanlarının uzun süre kaldığı saray alanı; kalıntılar ve Kırkpınar'ın yapıldığı Sarayiçi buradadır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Edirne_Saray%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Adalet_kasr%C4%B1.png/330px-Adalet_kasr%C4%B1.png"
+ },
+ {
+  "ad": "Kırkpınar Er Meydanı",
+  "ilce": "Merkez",
+  "tur": "Spor / kültür alanı",
+  "simge": "🤼",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Dünyanın en eski yağlı güreş organizasyonunun her yaz yapıldığı tarihi meydan."
+ },
+ {
+  "ad": "Meriç Köprüsü ve Karaağaç",
+  "ilce": "Merkez",
+  "tur": "Tarihi köprü",
+  "simge": "🌉",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Meriç Nehri üzerinde, nehir kıyısında yürüyüş ve fotoğraf için güzel bir bölge."
+ },
+ {
+  "ad": "Uzunköprü",
+  "ilce": "Uzunköprü",
+  "tur": "Tarihi köprü",
+  "simge": "🌉",
+  "ucretsiz": true,
+  "vikipedi": "Uzunköprü",
+  "aciklama": "Ergene Nehri üzerinde yüzlerce metre uzunluğundaki Osmanlı taş köprüsü; ilçeye adını vermiştir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Uzunk%C3%B6pr%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Uzunk%C3%B6pr%C3%BC_%282%29.jpg/330px-Uzunk%C3%B6pr%C3%BC_%282%29.jpg"
+ },
+ {
+  "ad": "Edirne Makedon Kulesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yapı",
+  "simge": "🏯",
+  "ucretsiz": true,
+  "vikipedi": "Makedon Kulesi",
+  "aciklama": "Edirne Kalesi'nden günümüze kalan, şehre hâkim bir tarihî kule.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Makedon_Kulesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Macedonian_Tower_in_Edirne.jpg/330px-Macedonian_Tower_in_Edirne.jpg"
+ },
+ {
+  "ad": "Edirne Ciğeri ve Badem Ezmesi Çarşısı",
+  "ilce": "Merkez",
+  "tur": "Yöresel lezzet",
+  "simge": "🍽️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Tava ciğer, badem ezmesi ve deva-i misk gibi yöresel tatları deneyebileceğiniz çarşı bölgesi."
+ }
+]

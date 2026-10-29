@@ -1,0 +1,93 @@
+{
+ "il": "corum",
+ "guncelleme": "2026-10-29T16:41+03:00",
+ "ilceler": [
+  "Merkez",
+  "Alaca",
+  "Bayat",
+  "Boğazkale",
+  "Dodurga",
+  "İskilip",
+  "Kargı",
+  "Laçin",
+  "Mecitözü",
+  "Oğuzlar",
+  "Osmancık",
+  "Ortaköy",
+  "Sungurlu",
+  "Uğurludağ"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "13 ilçe kaymakamlığı ve belediyeleri",
+   "tur": "kaymakamlik",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Hitit Üniversitesi",
+   "tur": "universite",
+   "url": "https://hitit.edu.tr/tr/hitit/etkinlik-takvimi",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi sayfası güncel değil (tek eski örnek); duyurular idari"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Uluslararası Hittit Festivali, Leblebi ve Kültür Festivali",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık festivaller; 2026 tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/corum",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "Çorum Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.corum.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "site okuma isteklerini reddediyor (HTTP 468) — okunamıyor"
+  },
+  {
+   "ad": "Çorum Valiliği",
+   "tur": "valilik",
+   "url": "https://www.corum.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Çorum İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://corum.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  }
+ ]
+}

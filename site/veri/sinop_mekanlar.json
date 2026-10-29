@@ -1,0 +1,106 @@
+[
+ {
+  "ad": "Sinop Tarihi Cezaevi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "1887'de yapılan, uzun yıllar cezaevi olarak kullanılmış taş yapı; bugün müze olarak gezilebiliyor."
+ },
+ {
+  "ad": "Sinop Kalesi ve Surları",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Sinop Kalesi",
+  "aciklama": "Yarımadayı çevreleyen antik surlar; üzerinden deniz manzarası eşliğinde yürünür.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sinop_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Sinop-Castle.jpg/330px-Sinop-Castle.jpg"
+ },
+ {
+  "ad": "Sinop Arkeoloji Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Sinop Arkeoloji Müzesi",
+  "aciklama": "Sinop ve çevresinden çıkan antik eserlerin sergilendiği müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sinop_Arkeoloji_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Sinop_Museum_entrance.jpg/330px-Sinop_Museum_entrance.jpg"
+ },
+ {
+  "ad": "Hamsilos",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🏖️",
+  "ucretsiz": true,
+  "vikipedi": "Hamsilos",
+  "aciklama": "Karadeniz'in fiyord benzeri koyu; çam ormanlarıyla çevrili sakin bir plaj ve piknik alanı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Hamsilos",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/HAMSILOS-3._SINOP_-_panoramio.jpg/330px-HAMSILOS-3._SINOP_-_panoramio.jpg"
+ },
+ {
+  "ad": "İnceburun",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🌅",
+  "ucretsiz": true,
+  "vikipedi": "İnceburun Feneri",
+  "aciklama": "Türkiye'nin en kuzey ucu; fener ve gün batımı manzarasıyla bilinir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C4%B0nceburun_Feneri",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/%C4%B0nceburun_lighthouse.jpg/330px-%C4%B0nceburun_lighthouse.jpg"
+ },
+ {
+  "ad": "Erfelek Tatlıcak Şelaleleri",
+  "ilce": "Erfelek",
+  "tur": "Doğa",
+  "simge": "💦",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Küçük göletler ve onlarca şelaleden oluşan, yürüyüş yollarıyla gezilen tabiat parkı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Erfelek"
+ },
+ {
+  "ad": "Alaaddin Camii",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Alâeddin Camii (Sinop)",
+  "aciklama": "Selçuklu dönemine ait, şehir merkezinin en eski camilerinden biri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Al%C3%A2eddin_Camii_(Sinop)",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Alaattin_Keykubat_Camii_1214.jpg/330px-Alaattin_Keykubat_Camii_1214.jpg"
+ },
+ {
+  "ad": "Boyabat Kalesi",
+  "ilce": "Boyabat",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Boyabat Kalesi",
+  "aciklama": "Kızılırmak vadisine bakan tepede, Boyabat'ın tarihi kale kalıntıları.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Boyabat_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Castle_of_Boyabat%2C_Province_of_Sinop%2C_Turkey.jpg/330px-Castle_of_Boyabat%2C_Province_of_Sinop%2C_Turkey.jpg"
+ },
+ {
+  "ad": "Sinop Balıkçı Barınağı ve Sahil",
+  "ilce": "Merkez",
+  "tur": "Sahil",
+  "simge": "⚓",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Tekneler, balık restoranları ve akşam yürüyüşü için şehrin en canlı sahil şeridi."
+ },
+ {
+  "ad": "Gerze Sahili",
+  "ilce": "Gerze",
+  "tur": "Sahil",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": "Gerze",
+  "aciklama": "Uzun kumsalı ve sakin sahil kasabası havasıyla yaz tatili için tercih edilen ilçe.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Gerze"
+ }
+]

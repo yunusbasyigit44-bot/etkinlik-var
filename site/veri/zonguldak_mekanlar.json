@@ -1,0 +1,70 @@
+[
+ {
+  "ad": "Gökgöl Mağarası",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🕳️",
+  "ucretsiz": false,
+  "vikipedi": "Gökgöl Mağarası",
+  "aciklama": "Sarkıt ve dikitleriyle bilinen, gezilebilen mağara; şehir merkezine yakındır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/G%C3%B6kg%C3%B6l_Ma%C4%9Faras%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/G%C3%B6kg%C3%B6l_gate.jpg/330px-G%C3%B6kg%C3%B6l_gate.jpg"
+ },
+ {
+  "ad": "Zonguldak Maden Müzesi (Kozlu)",
+  "ilce": "Kozlu",
+  "tur": "Müze",
+  "simge": "⛏️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Kömür madenciliğinin geçmişini, aletleri ve galeri canlandırmalarıyla anlatan müze."
+ },
+ {
+  "ad": "Uzun Mehmet Anıtı",
+  "ilce": "Merkez",
+  "tur": "Anıt",
+  "simge": "🗿",
+  "ucretsiz": true,
+  "vikipedi": "Uzun Mehmet",
+  "aciklama": "Kömürü ilk bulan efsanevi madenci Uzun Mehmet'in anısına yapılmış anıt; şehrin madencilik tarihinin simgesi."
+ },
+ {
+  "ad": "Herakleia Pontika (Karadeniz Ereğli)",
+  "ilce": "Ereğli",
+  "tur": "Antik kent",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": "Karadeniz Ereğli",
+  "aciklama": "Antik Herakleia Pontika'nın izlerini taşıyan, Karadeniz kıyısındaki tarihi ilçe.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Karadeniz_Ere%C4%9Fli",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Ere%C4%9Fli_panoramic.jpg/330px-Ere%C4%9Fli_panoramic.jpg"
+ },
+ {
+  "ad": "Cehennemağzı Mağaraları",
+  "ilce": "Ereğli",
+  "tur": "Doğa / antik",
+  "simge": "🕳️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Mitolojide Herakles'in Kerberos'u yakaladığı yer olarak anılan mağara ve çevresi."
+ },
+ {
+  "ad": "Filyos Antik Kenti (Tios)",
+  "ilce": "Çaycuma",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Tieion",
+  "aciklama": "Filyos Çayı'nın denize döküldüğü yerde, Roma dönemi kalıntılarını ve müzesini barındıran antik kent.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Tieion"
+ },
+ {
+  "ad": "Kapuz Plajı",
+  "ilce": "Merkez",
+  "tur": "Plaj",
+  "simge": "🏖️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehir merkezine yakın, yaz aylarında yüzme ve yürüyüş için kullanılan sahil."
+ }
+]

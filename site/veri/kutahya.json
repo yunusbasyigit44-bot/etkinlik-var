@@ -1,0 +1,99 @@
+{
+ "il": "kutahya",
+ "guncelleme": "2026-10-29T16:45+03:00",
+ "ilceler": [
+  "Merkez",
+  "Altıntaş",
+  "Aslanapa",
+  "Çavdarhisar",
+  "Domaniç",
+  "Dumlupınar",
+  "Emet",
+  "Gediz",
+  "Hisarcık",
+  "Pazarlar",
+  "Simav",
+  "Şaphane",
+  "Tavşanlı"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Belediye Şehir Tiyatrosu ve kültür merkezleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "oyun takvimi bulunamadı"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü",
+   "tur": "diger",
+   "url": "https://kutahya.gsb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi yok"
+  },
+  {
+   "ad": "Kütahya Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.kutahya.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok; bağlantı ara sıra kesiliyor"
+  },
+  {
+   "ad": "Kütahya Dumlupınar Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.dpu.edu.tr/index/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik listesi JavaScript ile yükleniyor; sayfa okunamıyor"
+  },
+  {
+   "ad": "Kütahya Sağlık Bilimleri Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.ksbu.edu.tr/defaultx/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik afişleri var ama tarih yazmıyor; okunmuyor"
+  },
+  {
+   "ad": "Kütahya Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.kutahya.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Kütahya Çini Festivali, Simav Festivali…",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "Kütahya İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://kutahya.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Tavşanlı, Simav, Gediz, Emet belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/kutahya",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

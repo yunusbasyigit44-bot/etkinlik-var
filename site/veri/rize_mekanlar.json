@@ -1,0 +1,95 @@
+[
+ {
+  "ad": "Rize Kalesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Rize Kalesi",
+  "aciklama": "Şehrin üzerindeki tepede duran kale; çay bahçeleri ve Karadeniz manzarasıyla bilinir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Rize_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Entrance_of_the_Castle_of_Rize%2C_Rize%2C_Turkey.JPG/330px-Entrance_of_the_Castle_of_Rize%2C_Rize%2C_Turkey.JPG"
+ },
+ {
+  "ad": "Rize Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Rize'nin tarihi ve yöresel yaşamını anlatan, eski konak içindeki müze."
+ },
+ {
+  "ad": "Ayder Yaylası",
+  "ilce": "Çamlıhemşin",
+  "tur": "Doğa",
+  "simge": "🏔️",
+  "ucretsiz": false,
+  "vikipedi": "Ayder",
+  "aciklama": "Kaçkarlar eteğinde, kaplıcaları ve ahşap evleriyle ünlü yayla.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ayder",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ayder7.jpg/330px-Ayder7.jpg"
+ },
+ {
+  "ad": "Pokut Yaylası",
+  "ilce": "Çamlıhemşin",
+  "tur": "Doğa",
+  "simge": "☁️",
+  "ucretsiz": true,
+  "vikipedi": "Pokut Yaylası",
+  "aciklama": "Bulutların üstünde gibi hissettiren manzarasıyla bilinen yayla.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Pokut_Yaylas%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pokut_Yaylas%C4%B1_4.jpg/330px-Pokut_Yaylas%C4%B1_4.jpg"
+ },
+ {
+  "ad": "Palovit Şelalesi",
+  "ilce": "Çamlıhemşin",
+  "tur": "Doğa",
+  "simge": "💦",
+  "ucretsiz": true,
+  "vikipedi": "Palovit Şelalesi",
+  "aciklama": "Fırtına Vadisi yakınında, yürüyüşle ulaşılan yüksek bir şelale.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Palovit_%C5%9Eelalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Palovit_Waterfall_04.jpg/330px-Palovit_Waterfall_04.jpg"
+ },
+ {
+  "ad": "Tunca Köprüsü",
+  "ilce": "Çamlıhemşin",
+  "tur": "Tarihi yer",
+  "simge": "🌉",
+  "ucretsiz": true,
+  "vikipedi": "Tunca Köprüsü",
+  "aciklama": "Fırtına Deresi üzerindeki tarihi taş kemerli köprülerden biri."
+ },
+ {
+  "ad": "Kaçkar Dağları Millî Parkı",
+  "ilce": "Çamlıhemşin",
+  "tur": "Doğa",
+  "simge": "⛰️",
+  "ucretsiz": false,
+  "vikipedi": "Kaçkar Dağları Millî Parkı",
+  "aciklama": "Buzul gölleri, yaylaları ve zirveleriyle trekking sevenlerin gözdesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ka%C3%A7kar_Da%C4%9Flar%C4%B1_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ka%C3%A7kar_mountains.JPG/330px-Ka%C3%A7kar_mountains.JPG"
+ },
+ {
+  "ad": "Anzer Yaylası",
+  "ilce": "İkizdere",
+  "tur": "Doğa",
+  "simge": "🍯",
+  "ucretsiz": true,
+  "vikipedi": "Anzer Yaylası",
+  "aciklama": "Anzer balıyla ünlü, geniş yeşil düzlükleri olan yayla.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Anzer_Yaylas%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Anzer_yaylas%C4%B1.JPG/330px-Anzer_yaylas%C4%B1.JPG"
+ },
+ {
+  "ad": "Rize Çay Bahçeleri",
+  "ilce": "Merkez",
+  "tur": "Park",
+  "simge": "🍵",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Yamaçlara yayılan çay tarlaları; taze demli çay ve manzara için uğranan yerler."
+ }
+]

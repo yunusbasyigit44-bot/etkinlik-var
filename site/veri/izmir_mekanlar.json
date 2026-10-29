@@ -1,0 +1,132 @@
+[
+ {
+  "ad": "Kemeraltı Çarşısı",
+  "ilce": "Konak",
+  "tur": "Çarşı",
+  "simge": "🛍️",
+  "ucretsiz": true,
+  "vikipedi": "Kemeraltı",
+  "aciklama": "Yüzyıllardır alışverişin kalbi; han, hamam, cami ve kahvelerle dolu dar sokaklar.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kemeralt%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/TR_Izmir_asv2020-02_img06_Kemeralt%C4%B1.jpg/330px-TR_Izmir_asv2020-02_img06_Kemeralt%C4%B1.jpg"
+ },
+ {
+  "ad": "Saat Kulesi",
+  "ilce": "Konak",
+  "tur": "Tarihi yer",
+  "simge": "🕰️",
+  "ucretsiz": true,
+  "vikipedi": "İzmir Saat Kulesi",
+  "aciklama": "Konak Meydanı'nda şehrin simgesi; 1901'de yapılan kule İzmir'in buluşma noktası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C4%B0zmir_Saat_Kulesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Izmir_square_clock_tower.jpg/330px-Izmir_square_clock_tower.jpg"
+ },
+ {
+  "ad": "Asansör",
+  "ilce": "Konak",
+  "tur": "Tarihi yer",
+  "simge": "🛗",
+  "ucretsiz": true,
+  "vikipedi": "Tarihî Asansör",
+  "aciklama": "Karataş'ta 1907'den kalma asansör; tepesinden körfez manzarası seyredilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Tarih%C3%AE_Asans%C3%B6r",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Asansor_From_Ground_Level_Izmir_Turkey.jpg/330px-Asansor_From_Ground_Level_Izmir_Turkey.jpg"
+ },
+ {
+  "ad": "Kadifekale",
+  "ilce": "Konak",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Kadifekale",
+  "aciklama": "Antik Smyrna'yı gören tepedeki kale; gün batımında şehrin en güzel manzaralarından biri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kadifekale",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Kadifekale_IzmirTurkey_EUnluBlogspot.jpg/330px-Kadifekale_IzmirTurkey_EUnluBlogspot.jpg"
+ },
+ {
+  "ad": "Kültürpark",
+  "ilce": "Konak",
+  "tur": "Park",
+  "simge": "🌳",
+  "ucretsiz": true,
+  "vikipedi": "Kültürpark",
+  "aciklama": "Fuar, pavyon, göl ve yeşil alanlarıyla şehrin ortasındaki büyük park.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/K%C3%BClt%C3%BCrpark",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%C4%B0zmir_International_Fair_from_Kadifekale.JPG/330px-%C4%B0zmir_International_Fair_from_Kadifekale.JPG"
+ },
+ {
+  "ad": "Agora Açık Hava Müzesi",
+  "ilce": "Konak",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "İzmir Agorası",
+  "aciklama": "Roma dönemi sütunları ve kemerli galerileriyle antik Smyrna'nın pazar yeri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C4%B0zmir_Agoras%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Izmir_Agora.JPG/330px-Izmir_Agora.JPG"
+ },
+ {
+  "ad": "Efes Antik Kenti",
+  "ilce": "Selçuk",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Efes",
+  "aciklama": "Dünyanın en iyi korunmuş antik kentlerinden; Celsus Kütüphanesi ve Büyük Tiyatro görülmeli.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Efes",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Library_of_Celsus_side_view.jpg/330px-Library_of_Celsus_side_view.jpg"
+ },
+ {
+  "ad": "Alaçatı",
+  "ilce": "Çeşme",
+  "tur": "Gezi bölgesi",
+  "simge": "⛵",
+  "ucretsiz": true,
+  "vikipedi": "Alaçatı",
+  "aciklama": "Taş evleri, butikleri ve rüzgâr sörfüyle bilinen şirin Ege kasabası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ala%C3%A7at%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Ala%C3%A7at%C4%B1_2016.jpg/330px-Ala%C3%A7at%C4%B1_2016.jpg"
+ },
+ {
+  "ad": "Foça",
+  "ilce": "Foça",
+  "tur": "Doğa",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": "Foça",
+  "aciklama": "Küçük koyları, balıkçı limanı ve Akdeniz foklarıyla ünlü tarihî liman kasabası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Fo%C3%A7a",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Fo%C3%A7a35.jpg/330px-Fo%C3%A7a35.jpg"
+ },
+ {
+  "ad": "Bergama Akropolü",
+  "ilce": "Bergama",
+  "tur": "Antik kent",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Pergamon",
+  "aciklama": "Dik bir tepede Pergamon Krallığı'nın tiyatrosu, Zeus Sunağı ve Trajan Tapınağı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Pergamon",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Acropolis_-_Bergama_%28Pergamon%29_-_Turkey_-_10_%285747249729%29.jpg/330px-Acropolis_-_Bergama_%28Pergamon%29_-_Turkey_-_10_%285747249729%29.jpg"
+ },
+ {
+  "ad": "Kordon",
+  "ilce": "Konak",
+  "tur": "Park",
+  "simge": "🌅",
+  "ucretsiz": true,
+  "vikipedi": "Kordon (İzmir)",
+  "aciklama": "Körfez boyunca yürüyüş, bisiklet ve çay keyfi için şehrin gözde sahil şeridi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kordon_(%C4%B0zmir)",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/TR_Izmir_asv2020-02_img16_Alsancak_seaside.jpg/330px-TR_Izmir_asv2020-02_img16_Alsancak_seaside.jpg"
+ },
+ {
+  "ad": "Birgi",
+  "ilce": "Ödemiş",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Aydınoğulları'ndan kalma Ulu Cami ve ahşap konaklarıyla korunmuş tarihî kasaba."
+ }
+]

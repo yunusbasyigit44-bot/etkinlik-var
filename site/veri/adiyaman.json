@@ -1,0 +1,119 @@
+{
+ "il": "adiyaman",
+ "guncelleme": "2026-10-29T16:37+03:00",
+ "ilceler": [
+  "Merkez",
+  "Besni",
+  "Çelikhan",
+  "Gerger",
+  "Gölbaşı",
+  "Kahta",
+  "Samsat",
+  "Sincik",
+  "Tut"
+ ],
+ "etkinlikler": [
+  {
+   "id": "35563f9885b0",
+   "baslik": "Gazze'den Küresel Vicdana: İnsanlığın ve Uluslararası Hukukun Sınavı",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Merkez",
+   "mekan": "Mustafa V. Koç Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/10/30/gazzeden-kuresel-vicdana-insanligin-ve-uluslararasi-hukukun-sinavi",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/10/30/gazzeden-kuresel-vicdana-insanligin-ve-uluslararasi-hukukun-si/thumb/whatsapp%20%C4%B1mage%202026-10-21%20at%2013.48.38.jpeg"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Adıyaman Üniversitesi",
+   "tur": "universite",
+   "url": "https://adiyaman.edu.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "8 ilçe kaymakamlığı",
+   "tur": "kaymakamlik",
+   "url": "https://www.kahta.gov.tr/duyurular",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari (ihale vb.); etkinlik yok"
+  },
+  {
+   "ad": "Adıyaman Belediyesi",
+   "tur": "belediye",
+   "url": "https://adiyaman.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası var ama güncel değil (son kayıt Eylül 2025)"
+  },
+  {
+   "ad": "Adıyaman Valiliği",
+   "tur": "valilik",
+   "url": "https://www.adiyaman.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Adıyaman İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://adiyaman.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü",
+   "tur": "diger",
+   "url": "https://adiyaman.gsb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "bot koruması — okunamıyor"
+  },
+  {
+   "ad": "Kahta, Besni, Gölbaşı belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "sadece olmuş etkinliklerin haberleri"
+  },
+  {
+   "ad": "Nemrut Gastronomi Buluşmaları, Kommagene Bienali",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık etkinlikler; 2026 programı henüz yayımlanmamış"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/adiyaman",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "İl Milli Eğitim Müdürlüğü",
+   "tur": "diger",
+   "url": "https://adiyaman.meb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "idari haberler; etkinlik yok"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+[
+ {
+  "ad": "Munzur Vadisi Millî Parkı",
+  "ilce": "Merkez",
+  "tur": "doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": "Munzur Vadisi Millî Parkı",
+  "aciklama": "Türkiye'nin en büyük milli parklarından biri; kaynak suları, derin vadisi ve zengin bitki örtüsüyle doğa yürüyüşü için ideal.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Munzur_Vadisi_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Munzur_Vadisi_Milli_Park%C4%B1.jpg/330px-Munzur_Vadisi_Milli_Park%C4%B1.jpg"
+ },
+ {
+  "ad": "Munzur Gözeleri",
+  "ilce": "Merkez",
+  "tur": "doğa",
+  "simge": "💧",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Munzur Çayı'nın kayalıklardan fışkıran soğuk kaynakları; çevresi piknik ve alabalık tesisleriyle dolu."
+ },
+ {
+  "ad": "Ovacık ve Yaylaları",
+  "ilce": "Ovacık",
+  "tur": "doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Yüksek dağlar ve yaylalarla çevrili sakin bir ilçe; sonbaharda renkli manzaralarıyla bilinir."
+ },
+ {
+  "ad": "Tunceli Müzesi",
+  "ilce": "Merkez",
+  "tur": "müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Bölgenin arkeolojik ve etnografik eserlerini bir arada gösteren il müzesi."
+ },
+ {
+  "ad": "Pertek Kalesi",
+  "ilce": "Pertek",
+  "tur": "tarihi",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Pertek Kalesi",
+  "aciklama": "Keban Baraj Gölü kıyısında, kayalık bir tepede yükselen tarihi kale.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Pertek_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Pertek_Kales%C4%B1.jpg/330px-Pertek_Kales%C4%B1.jpg"
+ },
+ {
+  "ad": "Pülümür Vadisi",
+  "ilce": "Pülümür",
+  "tur": "doğa",
+  "simge": "🌄",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Pülümür Çayı boyunca uzanan, dağ ve köy manzaralı vadi yolu."
+ },
+ {
+  "ad": "Hozat Yaylaları",
+  "ilce": "Hozat",
+  "tur": "tarihi",
+  "simge": "🏯",
+  "ucretsiz": true,
+  "vikipedi": "Hozat",
+  "aciklama": "Hozat'ın tarihi dokusu ve çevresindeki yayla manzaraları.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Hozat"
+ },
+ {
+  "ad": "Çemişgezek ve Murat Vadisi",
+  "ilce": "Çemişgezek",
+  "tur": "tarihi",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Çemişgezek",
+  "aciklama": "Murat Nehri vadisine hâkim eski bir yerleşim ve kale kalıntıları.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87emi%C5%9Fgezek"
+ },
+ {
+  "ad": "Tunceli Çarşısı ve Munzur Çayı Kıyısı",
+  "ilce": "Merkez",
+  "tur": "çarşı",
+  "simge": "🛍️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehir merkezinde çay kıyısında yürüyüş, kafe ve yöresel ürün (bal, peynir, ceviz) alışverişi."
+ }
+]

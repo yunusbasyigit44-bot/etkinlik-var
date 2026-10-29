@@ -1,0 +1,95 @@
+{
+ "il": "kirikkale",
+ "guncelleme": "2026-10-29T16:45+03:00",
+ "ilceler": [
+  "Merkez",
+  "Bahşılı",
+  "Balışeyh",
+  "Çelebi",
+  "Delice",
+  "Karakeçili",
+  "Keskin",
+  "Sulakyurt",
+  "Yahşihan"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Belediye Şehir Tiyatrosu",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir oyun takvimi bulunamadı"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Kırıkkale Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.kirikkale.bel.tr/?sayfa=etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Kırıkkale Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.kirikkale.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Kırıkkale Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Kırıkkale İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://kirikkale.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/kirikkale",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "İlçe belediyeleri (Yahşihan, Keskin, Delice…)",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor (sonraki tur)"
+  }
+ ]
+}

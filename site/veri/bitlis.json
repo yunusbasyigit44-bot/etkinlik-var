@@ -1,0 +1,86 @@
+{
+ "il": "bitlis",
+ "guncelleme": "2026-10-29T16:40+03:00",
+ "ilceler": [
+  "Merkez",
+  "Adilcevaz",
+  "Ahlat",
+  "Güroymak",
+  "Hizan",
+  "Mutki",
+  "Tatvan"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Bitlis Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.bitlis.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular/haberler; etkinlik takvimi okunmuyor"
+  },
+  {
+   "ad": "Bitlis Eren Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.beu.edu.tr/Etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "liste var ama etkinlik günü açık yazmıyor (yayın tarihi); otomatik okunmuyor"
+  },
+  {
+   "ad": "Bitlis Valiliği, ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.bitlis.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Bitlis İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://bitlis.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Tatvan ve Ahlat belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok / otomatik okunmuyor"
+  },
+  {
+   "ad": "Yıllık etkinlikler (Ahlat kültür-sanat, Tatvan Nemrut)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/bitlis",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

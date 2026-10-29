@@ -1,0 +1,165 @@
+{
+ "il": "hakkari",
+ "guncelleme": "2026-10-29T16:42+03:00",
+ "ilceler": [
+  "Merkez",
+  "Çukurca",
+  "Derecik",
+  "Şemdinli",
+  "Yüksekova"
+ ],
+ "etkinlikler": [
+  {
+   "id": "ec1bc2752753",
+   "baslik": "\"Kürsüden Klavyeye: Akademisyenler İçin Omurga Sağlığı\" Semineri",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Yüksekova",
+   "mekan": "Yüksekova MYO Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminer",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/533/%22kursuden-klavyeye-akademisyenler-icin-omurga-sagligi%22-semineri",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/533/cover/thumb/ee1dc4f66d374c4ba969bb93bf6efec0.webp"
+  },
+  {
+   "id": "a8d4497913c4",
+   "baslik": "\"Yasa Dışı Bahis Bağımlılığı\" Semineri",
+   "tarih": "2026-11-02",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "Muhammed Selim Seven Konferans Salonu (Zemin Kat)",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminer",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/531/%22yasa-disi-bahis-bagimliligi%22-semineri",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/531/cover/thumb/882e3a39733b4b85b2104bc5a0b75e63.webp"
+  },
+  {
+   "id": "493a1a6ac272",
+   "baslik": "\"Görünmeyen Güç: Enerjiyi Üretmek mi, Akıllıca Tüketmek mi?\" Semineri",
+   "tarih": "2026-11-02",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Hakkâri Kız Meslek Lisesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminer",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/524/%22gorunmeyen-guc-enerjiyi-uretmek-mi-akillica-tuketmek-mi%22-semineri",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/524/cover/thumb/2f4ec9fbf36f4864bf1b89a406742e5e.webp"
+  },
+  {
+   "id": "f080ae373599",
+   "baslik": "2026-2027 Akademik Yılı Açılış Töreni",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "12:30",
+   "ilce": "Merkez",
+   "mekan": "Rektörlük Konferans Salonu",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": "Diğer",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/521/2026-2027-akademik-yili-acilis-toreni",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/521/cover/thumb/5493a1f404fe48498d967396eeb888b7.webp"
+  },
+  {
+   "id": "636d0393bfa3",
+   "baslik": "“Dijitalleşen Para, Dönüşen Suç: Finansal Siber Suçlarla Mücadele” Söyleşisi",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Muhammed Selim Seven Konferans Salonu (Zemin Kat)",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Diğer",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/526/dijitallesen-para-donusen-suc-finansal-siber-suclarla-mucadele-soylesisi",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/526/cover/thumb/d0d4b4c9e2e74ed988e35e9aaca109b1.webp"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Hakkari Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.hakkari.edu.tr/etkinlikler",
+   "etkinlik_sayisi": 5,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "Hakkari'de sahne yok"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi yok"
+  },
+  {
+   "ad": "Hakkari Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.hakkari.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "site sertifikası geçersiz — okunamıyor"
+  },
+  {
+   "ad": "Hakkari Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.hakkari.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Hakkari İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://hakkari.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yüksekova, Şemdinli, Çukurca belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi bulunamadı"
+  },
+  {
+   "ad": "Yıllık festivaller (Cilo Dağcılık, Yüksekova Kültür-Sanat…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/hakkari",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

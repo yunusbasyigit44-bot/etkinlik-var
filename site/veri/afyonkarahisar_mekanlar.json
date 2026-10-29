@@ -1,0 +1,106 @@
+[
+ {
+  "ad": "Afyonkarahisar Kalesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Afyonkarahisar Kalesi",
+  "aciklama": "Şehrin ortasında yükselen volkanik kayanın tepesindeki kale; yaklaşık 700 basamakla çıkılır, şehir manzarası muhteşem.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Afyonkarahisar_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Afyonkarahisar_Kalesi_havadan.jpg/330px-Afyonkarahisar_Kalesi_havadan.jpg"
+ },
+ {
+  "ad": "Kocatepe ve Atatürk Anıtı",
+  "ilce": "Merkez",
+  "tur": "Tarihi alan",
+  "simge": "🇹🇷",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Büyük Taarruz'un başlatıldığı tepe; Başkomutan Tarihi Millî Parkı'nın bir parçası. Ağustos sonunda anma törenleri yapılır."
+ },
+ {
+  "ad": "Frig Vadisi",
+  "ilce": "İhsaniye",
+  "tur": "Doğa / antik",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Peri bacaları, kaya mezarları ve Frig anıtlarıyla yürüyüş ve bisiklet rotaları (Frig Yolu)."
+ },
+ {
+  "ad": "Ayazini Köyü",
+  "ilce": "İhsaniye",
+  "tur": "Tarihi yerleşim",
+  "simge": "⛪",
+  "ucretsiz": true,
+  "vikipedi": "Ayazini, İhsaniye",
+  "aciklama": "Kayalara oyulmuş Bizans kiliseleri ve kaya evleriyle Frig Vadisi'nin en çok gezilen köyü.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ayazini",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/AyazinKirche4.jpg/330px-AyazinKirche4.jpg"
+ },
+ {
+  "ad": "Afyonkarahisar Arkeoloji Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Afyonkarahisar Müzesi",
+  "aciklama": "Frig, Roma ve Bizans dönemi eserleri; özellikle mermer heykel koleksiyonu. Müze Kart geçerli.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Afyonkarahisar_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Afyonkarahisar_M%C3%BCzesi_04.jpg/330px-Afyonkarahisar_M%C3%BCzesi_04.jpg"
+ },
+ {
+  "ad": "Zafer Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🎖️",
+  "ucretsiz": false,
+  "vikipedi": "Zafer Müzesi",
+  "aciklama": "Büyük Taarruz sırasında Atatürk'ün karargâh olarak kullandığı tarihi bina.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Zafer_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/VictoryMuseumAfyonkarahsar.JPG/330px-VictoryMuseumAfyonkarahsar.JPG"
+ },
+ {
+  "ad": "Afyonkarahisar Ulu Camii",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Afyonkarahisar Ulu Camii",
+  "aciklama": "Ahşap direkli Selçuklu camilerinin güzel bir örneği; çevresindeki eski Afyon evleriyle gezilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Afyonkarahisar_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Afyonkarahisar_Ulu_Camii_Exterior_1881.jpg/330px-Afyonkarahisar_Ulu_Camii_Exterior_1881.jpg"
+ },
+ {
+  "ad": "Mevlevihane Camii ve Müzesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🌀",
+  "ucretsiz": true,
+  "vikipedi": "Sultan Dîvânî Mevlevîhâne Müzesi",
+  "aciklama": "Sultan Veled döneminden kalma Mevlevi dergâhı; şehrin kültür hayatının simge yapılarından.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sultan_D%C3%AEv%C3%A2n%C3%AE_Mevlev%C3%AEh%C3%A2ne_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Afyonkarahisar_Mevlevihanesi_Exterior_2129.jpg/330px-Afyonkarahisar_Mevlevihanesi_Exterior_2129.jpg"
+ },
+ {
+  "ad": "Eber Gölü",
+  "ilce": "Bolvadin",
+  "tur": "Doğa / göl",
+  "simge": "🦢",
+  "ucretsiz": true,
+  "vikipedi": "Eber Gölü",
+  "aciklama": "Sazlık göl ve kuş gözlem alanı; leylek ve su kuşlarıyla bilinir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Eber_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Eber_Lake.jpg/330px-Eber_Lake.jpg"
+ },
+ {
+  "ad": "Sandıklı Termal (Hüdai Kaplıcası)",
+  "ilce": "Sandıklı",
+  "tur": "Termal",
+  "simge": "♨️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Çamur banyosuyla ünlü kaplıca; Afyon'un termal turizminin önemli noktalarından."
+ }
+]

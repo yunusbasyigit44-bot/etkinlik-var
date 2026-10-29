@@ -1,0 +1,80 @@
+[
+ {
+  "ad": "Ertuğrul Gazi Türbesi",
+  "ilce": "Söğüt",
+  "tur": "Türbe / tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Ertuğrul Gazi Türbesi",
+  "aciklama": "Osmanlı Devleti'nin kurucusunun babası Ertuğrul Gazi'nin türbesi; Söğüt'te camisiyle birlikte ziyaret edilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ertu%C4%9Frul_Gazi_T%C3%BCrbesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Ertu%C4%9Frul_Gazi_T%C3%BCrbesi.JPG/330px-Ertu%C4%9Frul_Gazi_T%C3%BCrbesi.JPG"
+ },
+ {
+  "ad": "Söğüt Ertuğrul Gazi Müzesi",
+  "ilce": "Söğüt",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Osmanlı'nın ilk yıllarını anlatan sergiler ve Yörük kültürü eserleri bulunur."
+ },
+ {
+  "ad": "Şeyh Edebali Türbesi",
+  "ilce": "Merkez",
+  "tur": "Türbe / tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Şeyh Edebali",
+  "aciklama": "Osman Gazi'nin manevi öğretmeni ve kayınpederi Şeyh Edebali'nin kent merkezindeki türbesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C5%9Eeyh_Edebali",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%C5%9Eeyh_Edebali.JPG/330px-%C5%9Eeyh_Edebali.JPG"
+ },
+ {
+  "ad": "Bilecik Kalesi (Şehir Kalesi)",
+  "ilce": "Merkez",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Bilecik Kalesi",
+  "aciklama": "Kentin üzerindeki kaya tepesinde yer alan tarihi kale kalıntıları; manzarası güzeldir."
+ },
+ {
+  "ad": "Bilecik Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Bölgedeki arkeolojik buluntular ve etnografik eserler sergilenir."
+ },
+ {
+  "ad": "Bozüyük Seramik Müzesi",
+  "ilce": "Bozüyük",
+  "tur": "Müze",
+  "simge": "🍶",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Seramik sanayisiyle bilinen Bozüyük'ün üretim geçmişini gösteren müze."
+ },
+ {
+  "ad": "Osmaneli Eski Çarşı ve Evleri",
+  "ilce": "Osmaneli",
+  "tur": "Tarihi doku",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": "Osmaneli",
+  "aciklama": "Geleneksel Osmanlı evleri ve dar sokaklarıyla yürünerek gezilen eski şehir dokusu.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Osmaneli",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/11500_Osmaneli-Bilecik%2C_Turkey_-_panoramio_%285%29.jpg/330px-11500_Osmaneli-Bilecik%2C_Turkey_-_panoramio_%285%29.jpg"
+ },
+ {
+  "ad": "Söğüt Yörük Çadırı ve Ertuğrul Gazi Anıtı",
+  "ilce": "Söğüt",
+  "tur": "Anıt",
+  "simge": "⛺",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Söğüt'ün merkezindeki Ertuğrul Gazi anıtı çevresinde kurulan kültür alanı; her yıl şenliklere de ev sahipliği yapar."
+ }
+]

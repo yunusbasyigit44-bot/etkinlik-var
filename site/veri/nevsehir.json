@@ -1,0 +1,150 @@
+{
+ "il": "nevsehir",
+ "guncelleme": "2026-10-29T16:43+03:00",
+ "ilceler": [
+  "Merkez",
+  "Acıgöl",
+  "Avanos",
+  "Derinkuyu",
+  "Gülşehir",
+  "Hacıbektaş",
+  "Kozaklı",
+  "Ürgüp"
+ ],
+ "etkinlikler": [
+  {
+   "id": "ebae20ff99ec",
+   "baslik": "29 Ekim Cumhuriyet Bayramı Fener Alayı",
+   "tarih": "2026-10-29",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Ürgüp",
+   "mekan": "Ürgüp",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Ürgüp Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://urgup.bel.tr/tr/etkinlik/29-ekim-cumhuriyet-bayrami-fener-alayi/21",
+   "gorsel": "https://urgup.bel.tr/upload/etkinlikler/2026_10_23-zaNg6z5MFSgABuHCJ54y.jpg"
+  },
+  {
+   "id": "3cf9495ef573",
+   "baslik": "“İnsani Düzenler: Kendiliğinden mi, Organize mi?” Başlıklı Söyleşi",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Kültürel Etkinlik",
+   "kaynak_ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.nevsehir.edu.tr/tr/59208",
+   "gorsel": null
+  },
+  {
+   "id": "02158e39b3ba",
+   "baslik": "3. Ürgüp Tavla Turnuvası",
+   "tarih": "2026-11-07",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Ürgüp",
+   "mekan": "Ürgüp",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Ürgüp Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://urgup.bel.tr/tr/etkinlik/3-urgup-tavla-turnuvasi/28",
+   "gorsel": "https://urgup.bel.tr/upload/etkinlikler/2026_10_23-pNsfrXT16fgXyUA4CqGO.jpg"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Ürgüp Belediyesi",
+   "tur": "belediye",
+   "url": "https://urgup.bel.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 2,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.nevsehir.edu.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Avanos Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.avanos.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi bulunamadı"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi yok"
+  },
+  {
+   "ad": "Kapadokya Sanat ve Kültür festivalleri, Ürgüp Bağ Bozumu, Hacıbektaş Anma Törenleri…",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "Nevşehir Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.nevsehir.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok; sadece haber (kahve atölyesi, patates festivali haberleri)"
+  },
+  {
+   "ad": "Nevşehir Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.nevsehir.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Nevşehir İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://nevsehir.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/nevsehir",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "Ürgüp etkinlik bilet sitesi (etkinlik.urgup.bel.tr)",
+   "tur": "belediye",
+   "url": "https://etkinlik.urgup.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "bilet satış sitesi; kazınmıyor"
+  }
+ ]
+}

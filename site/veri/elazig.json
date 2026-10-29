@@ -1,0 +1,90 @@
+{
+ "il": "elazig",
+ "guncelleme": "2026-10-29T16:41+03:00",
+ "ilceler": [
+  "Merkez",
+  "Ağın",
+  "Alacakaya",
+  "Arıcak",
+  "Baskil",
+  "Karakoçan",
+  "Keban",
+  "Kovancılar",
+  "Maden",
+  "Palu",
+  "Sivrice"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "11 ilçe kaymakamlığı ve belediyeleri",
+   "tur": "kaymakamlik",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Elazığ Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.elazig.bel.tr/etkinlik",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası var ama güncel değil (son kayıt Şubat 2026)"
+  },
+  {
+   "ad": "Elazığ Valiliği",
+   "tur": "valilik",
+   "url": "https://www.elazig.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Elazığ İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://elazig.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Fırat Kısa Film Festivali, Hazar Şiir Akşamları, Elazığ Gastronomi Festivali, Baskil Kayısı Festivali",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; 2026-27 tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "Fırat Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.firat.edu.tr/page/event",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/elazig",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

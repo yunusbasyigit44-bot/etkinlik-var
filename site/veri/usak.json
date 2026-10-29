@@ -1,0 +1,85 @@
+{
+ "il": "usak",
+ "guncelleme": "2026-10-29T16:45+03:00",
+ "ilceler": [
+  "Merkez",
+  "Banaz",
+  "Eşme",
+  "Karahallı",
+  "Sivaslı",
+  "Ulubey"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Eşme, Banaz, Sivaslı belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor (sonraki tur)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Uşak Belediyesi",
+   "tur": "belediye",
+   "url": "https://usak.bel.tr/etkinlikler?d=yaklasan",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Uşak Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.usak.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Uşak Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.usak.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik akışı oturum açma sayfasına yönleniyor — okunamıyor"
+  },
+  {
+   "ad": "Uşak İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://usak.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Yıllık festivaller (Uşak Kitap Fuarı, Ulubey Kanyonu etkinlikleri, Eşme Kilim…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/usak",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

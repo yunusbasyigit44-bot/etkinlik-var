@@ -1,0 +1,104 @@
+[
+ {
+  "ad": "Mardin Kalesi",
+  "ilce": "Artuklu",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Mardin Kalesi",
+  "aciklama": "Eski şehrin tepesindeki kale; çevresi askerî alan olduğu için içine girilemez ama yakınından Mezopotamya Ovası'nın manzarası görülür.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Mardin_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Mardin%2C_Turkey.JPG/330px-Mardin%2C_Turkey.JPG"
+ },
+ {
+  "ad": "Mardin Ulu Camii",
+  "ilce": "Artuklu",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Selçuklu döneminden kalma, ince taş işçiliğiyle öne çıkan eski şehrin en köklü camilerinden biri."
+ },
+ {
+  "ad": "Kasımiye Medresesi",
+  "ilce": "Artuklu",
+  "tur": "Medrese",
+  "simge": "🕌",
+  "ucretsiz": false,
+  "vikipedi": "Kasımiye Medresesi",
+  "aciklama": "Artuklu döneminden kalma, avlusu ve teraslarıyla ovaya bakan güzel bir medrese; taş süslemeleri çok ünlüdür.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kas%C4%B1miye_Medresesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Kas%C4%B1miye_medrese%2C_Mardin%2C_Turkey.JPG/330px-Kas%C4%B1miye_medrese%2C_Mardin%2C_Turkey.JPG"
+ },
+ {
+  "ad": "Zinciriye Medresesi",
+  "ilce": "Artuklu",
+  "tur": "Medrese",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Sultan Isa Medresesi olarak da bilinen bu yapı, Mardin'in en güzel taş işçiliğine sahip tarihî eserlerinden biridir."
+ },
+ {
+  "ad": "Mardin Müzesi",
+  "ilce": "Artuklu",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Mardin Müzesi",
+  "aciklama": "Eski bir Süryani patrikhane yapısında; bölgenin arkeolojik ve etnografik eserlerini sergiler.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Mardin_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Mardin_P1050137_20080426105032.JPG/330px-Mardin_P1050137_20080426105032.JPG"
+ },
+ {
+  "ad": "Deyrulzafaran Manastırı",
+  "ilce": "Artuklu",
+  "tur": "Manastır",
+  "simge": "⛪",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Mardin'in doğusunda, Süryani Ortodoks Kilisesi'nin uzun yıllar merkezi olmuş tarihî manastır."
+ },
+ {
+  "ad": "Dara Antik Kenti",
+  "ilce": "Artuklu",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Bizans döneminde kurulmuş sınır kenti; devasa su sarnıçları ve kaya mezarlarıyla ilgi çeker."
+ },
+ {
+  "ad": "Midyat Eski Şehir",
+  "ilce": "Midyat",
+  "tur": "Tarihi alan",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": "Midyat",
+  "aciklama": "Telkâri gümüş işçiliği ve taş evleriyle tanınan, Süryani kültürünün yaşadığı tarihî sokaklar.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Midyat",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mor_Barsomo_church%2C_Midyat.jpg/330px-Mor_Barsomo_church%2C_Midyat.jpg"
+ },
+ {
+  "ad": "Mor Gabriel Manastırı",
+  "ilce": "Midyat",
+  "tur": "Manastır",
+  "simge": "⛪",
+  "ucretsiz": false,
+  "vikipedi": "Mor Gabriel Manastırı",
+  "aciklama": "Dünyanın en eski aktif manastırlarından biri kabul edilen, Tur Abdin bölgesindeki tarihî Süryani manastırı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Mor_Gabriel_Manast%C4%B1r%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Deyrulumur_P1040804_20080425103239.JPG/330px-Deyrulumur_P1040804_20080425103239.JPG"
+ },
+ {
+  "ad": "Savur Eski Çarşı ve Sokakları",
+  "ilce": "Savur",
+  "tur": "Tarihi alan",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": "Savur",
+  "aciklama": "Taş evleri, tarihî çarşısı ve sakin havasıyla Mardin'in daha az bilinen ama çok güzel küçük ilçesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Savur",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Stewr.jpg/330px-Stewr.jpg"
+ }
+]

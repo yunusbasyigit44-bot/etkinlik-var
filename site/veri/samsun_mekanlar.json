@@ -1,0 +1,92 @@
+[
+ {
+  "ad": "Amisos Tepesi (Amisos Antik Kenti)",
+  "ilce": "İlkadım",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": true,
+  "vikipedi": "Amisos Tepesi",
+  "aciklama": "Şehrin kuruluş yeri sayılan tepe; Amisos'un kalıntıları ve deniz manzarası bir arada."
+ },
+ {
+  "ad": "Bandırma Vapuru Müzesi",
+  "ilce": "İlkadım",
+  "tur": "Müze",
+  "simge": "🚢",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Atatürk'ün Samsun'a çıkışında kullanılan Bandırma Vapuru'nun yeniden yapılan kopyası, içi müze olarak gezilebiliyor."
+ },
+ {
+  "ad": "Samsun Kent Müzesi",
+  "ilce": "İlkadım",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Samsun Kent Müzesi",
+  "aciklama": "Samsun'un kültürünü, tarihini ve gündelik yaşamını anlatan kent müzesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Samsun_Kent_M%C3%BCzesi"
+ },
+ {
+  "ad": "Samsun Saat Kulesi",
+  "ilce": "İlkadım",
+  "tur": "Tarihi yer",
+  "simge": "🕰️",
+  "ucretsiz": true,
+  "vikipedi": "Samsun Saat Kulesi",
+  "aciklama": "Şehir merkezinde, buluşma noktası olarak bilinen tarihi saat kulesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Samsun_Saat_Kulesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Samsun_Saat_Kulesi_%282%29.jpg/330px-Samsun_Saat_Kulesi_%282%29.jpg"
+ },
+ {
+  "ad": "Onur Anıtı",
+  "ilce": "İlkadım",
+  "tur": "Anıt",
+  "simge": "🗿",
+  "ucretsiz": true,
+  "vikipedi": "Onur Anıtı",
+  "aciklama": "Kurtuluş Savaşı'nın başlangıcını simgeleyen, şehrin sembol anıtlarından biri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Onur_An%C4%B1t%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Onur_An%C4%B1t%C4%B1.JPG/330px-Onur_An%C4%B1t%C4%B1.JPG"
+ },
+ {
+  "ad": "Kızılırmak Deltası ve Kuş Cenneti",
+  "ilce": "Bafra",
+  "tur": "Doğa",
+  "simge": "🦢",
+  "ucretsiz": false,
+  "vikipedi": "Kızılırmak Deltası",
+  "aciklama": "Göller, sazlıklar ve yüzlerce kuş türüyle kuş gözlemcilerinin gözdesi sulak alan.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%C4%B1rmak_Deltas%C4%B1"
+ },
+ {
+  "ad": "Ladik Gölü",
+  "ilce": "Ladik",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": "Ladik Gölü",
+  "aciklama": "Ormanlarla çevrili, piknik ve doğa yürüyüşü için sevilen sakin bir göl.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ladik_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Ladik_G%C3%B6l%C3%BC_Kenar%C4%B1nda_Bir_Tarla_ve_Akda%C4%9F.jpg/330px-Ladik_G%C3%B6l%C3%BC_Kenar%C4%B1nda_Bir_Tarla_ve_Akda%C4%9F.jpg"
+ },
+ {
+  "ad": "Vezirköprü Pontus Kral Mezarları",
+  "ilce": "Vezirköprü",
+  "tur": "Tarihi yer",
+  "simge": "⛰️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Kayalara oyulmuş, Pontus döneminden kalma anıtsal mezar odaları."
+ },
+ {
+  "ad": "Havza",
+  "ilce": "Havza",
+  "tur": "Şehir",
+  "simge": "♨️",
+  "ucretsiz": true,
+  "vikipedi": "Havza",
+  "aciklama": "Kaplıcalarıyla ve Atatürk'ün Havza'da kaldığı evle bilinen şirin ilçe.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Havza"
+ }
+]

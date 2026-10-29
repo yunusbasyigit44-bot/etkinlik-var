@@ -1,0 +1,83 @@
+[
+ {
+  "ad": "Karaca Mağarası",
+  "ilce": "Torul",
+  "tur": "Mağara / doğa",
+  "simge": "🦇",
+  "ucretsiz": false,
+  "vikipedi": "Karaca Mağarası",
+  "aciklama": "Sarkıt ve dikitleriyle ünlü, Türkiye'nin gezilebilir en güzel mağaralarından biri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Karaca_Ma%C4%9Faras%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Karaca_Ma%C4%9Faras%C4%B1_%2813%29.jpg/330px-Karaca_Ma%C4%9Faras%C4%B1_%2813%29.jpg"
+ },
+ {
+  "ad": "Torul Kalesi",
+  "ilce": "Torul",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Torul Kalesi",
+  "aciklama": "Kayaya oyulmuş merdivenli geçidi ve vadiye bakan manzarasıyla eski bir kale.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Torul_Kalesi"
+ },
+ {
+  "ad": "Zigana Geçidi",
+  "ilce": "Torul",
+  "tur": "Doğa / geçit",
+  "simge": "🏔️",
+  "ucretsiz": true,
+  "vikipedi": "Zigana Geçidi",
+  "aciklama": "Gümüşhane ile Trabzon'u bağlayan, yeşil dağların arasından geçen yüksek bir geçit; yazın serin molalar için sevilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Zigana_Ge%C3%A7idi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Zigana.JPG/330px-Zigana.JPG"
+ },
+ {
+  "ad": "Limni Gölü",
+  "ilce": "Torul",
+  "tur": "Doğa / göl",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": "Limni Gölü",
+  "aciklama": "Ormanlık bir vadide, sakin ve fotoğraflık küçük bir göl.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Limni_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Lake_Limni_aerial_view_01.jpg/330px-Lake_Limni_aerial_view_01.jpg"
+ },
+ {
+  "ad": "Eski Gümüşhane Evleri",
+  "ilce": "Merkez",
+  "tur": "Tarihi mahalle",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Taş ve ahşap Osmanlı evleriyle dolu, şehrin eski mahallesi; dar sokaklarında yürüyüş yapılır."
+ },
+ {
+  "ad": "Gümüşhane Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Bölgenin arkeolojik ve etnografik eserlerini bir araya getiren il müzesi."
+ },
+ {
+  "ad": "Kelkit Vadisi",
+  "ilce": "Kelkit",
+  "tur": "Doğa",
+  "simge": "🌾",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Gümüşhane'nin tarım ve hayvancılık ilçesi Kelkit'in geniş vadi manzarası; sonbaharda renk renk görünür."
+ },
+ {
+  "ad": "Santa Harabeleri",
+  "ilce": "Merkez",
+  "tur": "Tarihi yerleşim",
+  "simge": "⛏️",
+  "ucretsiz": true,
+  "vikipedi": "Santa Harabeleri",
+  "aciklama": "Osmanlı döneminde madenciliğiyle öne çıkan, Yanbolu Vadisi'ndeki terk edilmiş tarihi yerleşim; kiliseleri ve taş yapılarıyla gezilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Santa_Harabeleri",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Santa_harabeleri.jpg/330px-Santa_harabeleri.jpg"
+ }
+]

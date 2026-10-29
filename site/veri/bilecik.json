@@ -1,0 +1,87 @@
+{
+ "il": "bilecik",
+ "guncelleme": "2026-10-29T16:40+03:00",
+ "ilceler": [
+  "Merkez",
+  "Bozüyük",
+  "Gölpazarı",
+  "İnhisar",
+  "Osmaneli",
+  "Pazaryeri",
+  "Söğüt",
+  "Yenipazar"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Bilecik Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.bilecik.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "kültür-sanat projeleri ve atölye sayfası var; tarihli etkinlik takvimi okunmuyor"
+  },
+  {
+   "ad": "Bilecik Valiliği, ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.bilecik.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Bilecik İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://bilecik.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Bilecik Şeyh Edebali Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.bilecik.edu.tr/main/arama/2",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik arama sayfası var ama düzenli takvim yok; otomatik okunmuyor"
+  },
+  {
+   "ad": "Bozüyük, Osmaneli, Söğüt belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok / otomatik okunmuyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Söğüt Ertuğrul Gazi'yi Anma ve Yörük Şenlikleri, Bozüyük Seramik günleri",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/bilecik",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

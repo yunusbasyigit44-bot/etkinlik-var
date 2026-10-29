@@ -1,0 +1,119 @@
+{
+ "il": "osmaniye",
+ "guncelleme": "2026-10-29T16:46+03:00",
+ "ilceler": [
+  "Merkez",
+  "Bahçe",
+  "Düziçi",
+  "Hasanbeyli",
+  "Kadirli",
+  "Sumbas",
+  "Toprakkale"
+ ],
+ "etkinlikler": [
+  {
+   "id": "4342949058f8",
+   "baslik": "Uluslararası Korkut Ata Türk Dünyası Kongresi",
+   "tarih": "2026-11-03",
+   "bitis": "2026-11-06",
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Osmaniye Korkut Ata Üniversitesi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Osmaniye Korkut Ata Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.osmaniye.edu.tr/tr/etkinlikler/2068-uluslararasi-korkut-ata-turk-dunyasi-kongresi",
+   "gorsel": null
+  },
+  {
+   "id": "a547a11426cc",
+   "baslik": "Uluslararası Enerji Çalışmaları Kongresi",
+   "tarih": "2026-12-02",
+   "bitis": "2026-12-05",
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Osmaniye Korkut Ata Üniversitesi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Osmaniye Korkut Ata Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.osmaniye.edu.tr/tr/etkinlikler/2069-uluslararasi-enerji-calismalari-kongresi",
+   "gorsel": null
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Osmaniye Korkut Ata Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.osmaniye.edu.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 2,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Kadirli, Düziçi, Bahçe, Toprakkale belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor (sonraki tur)"
+  },
+  {
+   "ad": "Osmaniye Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.osmaniye.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi sayfası 2019'dan beri boş; duyurular idari"
+  },
+  {
+   "ad": "Osmaniye Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.osmaniye.gov.tr/duyurular",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Osmaniye İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://osmaniye.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller (Yer Fıstığı, Karatepe Kültür Sanat, Zorkun Yayla Şenlikleri…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/osmaniye",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+[
+ {
+  "ad": "Odunpazarı Evleri",
+  "ilce": "Odunpazarı",
+  "tur": "Tarihi mahalle",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": "Odunpazarı Evleri",
+  "aciklama": "Osmanlı dönemi ahşap evleriyle kaplı dar sokaklar; müzeler, kafeler ve el sanatları dükkânlarıyla yürüyerek gezilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Odunpazar%C4%B1_Evleri",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/tr/thumb/2/2f/Eskiodunpazarievleri.jpg/330px-Eskiodunpazarievleri.jpg"
+ },
+ {
+  "ad": "Kurşunlu Külliyesi",
+  "ilce": "Odunpazarı",
+  "tur": "Külliye / cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Kurşunlu Külliyesi",
+  "aciklama": "Mimar Sinan'a atfedilen, Osmanlı külliye mimarisinin güzel bir örneği; çevresinde lületaşı atölyeleri bulunur.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kur%C5%9Funlu_K%C3%BClliyesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Eski%C5%9Fehir_Kur%C5%9Funlu_K%C3%BClliyesi1716b.jpg/330px-Eski%C5%9Fehir_Kur%C5%9Funlu_K%C3%BClliyesi1716b.jpg"
+ },
+ {
+  "ad": "Sazova Bilim, Kültür ve Sanat Parkı",
+  "ilce": "Tepebaşı",
+  "tur": "Park / eğlence",
+  "simge": "🎡",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Masal şatosu, bilim merkezi ve geniş yeşil alanıyla aileler için gün boyu gezilecek büyük park."
+ },
+ {
+  "ad": "Porsuk Çayı ve Kentpark",
+  "ilce": "Tepebaşı",
+  "tur": "Park / nehir",
+  "simge": "🚣",
+  "ucretsiz": true,
+  "vikipedi": "Porsuk Çayı",
+  "aciklama": "Şehrin ortasından geçen nehir boyunca yürüyüş, gondol ve kayık turları; kıyıdaki kafeler akşamları canlıdır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Porsuk_%C3%87ay%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Adalar_porsuk1.JPG/330px-Adalar_porsuk1.JPG"
+ },
+ {
+  "ad": "Yılmaz Büyükerşen Balmumu Müzesi",
+  "ilce": "Odunpazarı",
+  "tur": "Müze",
+  "simge": "🗿",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Ünlü kişilerin ve Eskişehir yaşamından sahnelerin balmumu heykellerle gösterildiği müze."
+ },
+ {
+  "ad": "Lületaşı Müzesi",
+  "ilce": "Odunpazarı",
+  "tur": "Müze",
+  "simge": "💎",
+  "ucretsiz": false,
+  "vikipedi": "Lületaşı Müzesi",
+  "aciklama": "Eskişehir'in simgesi lületaşı işçiliğini ve eski eserlerini tanıtan müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/L%C3%BCleta%C5%9F%C4%B1_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Meerschaumpfeife.jpg/330px-Meerschaumpfeife.jpg"
+ },
+ {
+  "ad": "Eskişehir Arkeoloji Müzesi",
+  "ilce": "Odunpazarı",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Eskişehir Arkeoloji Müzesi",
+  "aciklama": "Frig, Roma ve Bizans dönemi buluntularını sergileyen bölge müzesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Eski%C5%9Fehir_Arkeoloji_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Eski%C5%9Fehir_Eti_Archaeology_Museum_building.jpg/330px-Eski%C5%9Fehir_Eti_Archaeology_Museum_building.jpg"
+ },
+ {
+  "ad": "Yazılıkaya (Frig Vadisi)",
+  "ilce": "Han",
+  "tur": "Antik alan",
+  "simge": "🗿",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Kayalara oyulmuş Frig anıtları ve Midas Anıtı; Eskişehir'in en etkileyici antik alanı."
+ },
+ {
+  "ad": "Seyitgazi Battalgazi Külliyesi",
+  "ilce": "Seyitgazi",
+  "tur": "Külliye / tarihi yer",
+  "simge": "🕍",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Efsanelerle anılan Battal Gazi'nin türbesinin bulunduğu, Selçuklu ve Osmanlı döneminden kalan külliye."
+ },
+ {
+  "ad": "Sivrihisar Ulu Camii",
+  "ilce": "Sivrihisar",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Sivrihisar Ulu Camii",
+  "aciklama": "Ahşap direkli ve geniş iç mekânıyla ünlü, Selçuklu dönemi camisi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sivrihisar_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Sivrihisar_Ulu_Camii_2041.jpg/330px-Sivrihisar_Ulu_Camii_2041.jpg"
+ },
+ {
+  "ad": "Haller Gençlik Merkezi",
+  "ilce": "Odunpazarı",
+  "tur": "Kültür / çarşı",
+  "simge": "🎭",
+  "ucretsiz": true,
+  "vikipedi": "Haller Gençlik Merkezi",
+  "aciklama": "Eski hal binasının yeniden kullanıldığı; sahne, sergi ve kafelerle dolu kültür sanat mekânı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Haller_Gen%C3%A7lik_Merkezi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Haller_Gen%C3%A7lik_Merkezi.JPG/330px-Haller_Gen%C3%A7lik_Merkezi.JPG"
+ }
+]

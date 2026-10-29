@@ -1,0 +1,83 @@
+[
+ {
+  "ad": "Çamlık Millî Parkı",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🌲",
+  "ucretsiz": true,
+  "vikipedi": "Yozgat Çamlığı Millî Parkı",
+  "aciklama": "Şehir merkezine yakın, çam ormanı içinde yürüyüş ve piknik alanları ile küçük bir hayvanat bahçesi bulunan millî park.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Yozgat_%C3%87aml%C4%B1%C4%9F%C4%B1_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Yozgat-%C3%A7aml%C4%B1%C4%9F%C4%B1-milli-park%C4%B1.jpg/330px-Yozgat-%C3%A7aml%C4%B1%C4%9F%C4%B1-milli-park%C4%B1.jpg"
+ },
+ {
+  "ad": "Çapanoğlu Camii",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Çapanoğlu Camii",
+  "aciklama": "18. yüzyılda Çapanoğlu ailesi tarafından yaptırılan, Türk barok üslubunun örneği, şehrin simgesi cami.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87apano%C4%9Flu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/%C3%87apano%C4%9Flu_Mosque-_2014-02-11_14-18.JPG/330px-%C3%87apano%C4%9Flu_Mosque-_2014-02-11_14-18.JPG"
+ },
+ {
+  "ad": "Nizamoğlu Konağı",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Yozgat'ın eski kent dokusunu yansıtan, geleneksel evlerin güzel bir örneği olan tarihi konak."
+ },
+ {
+  "ad": "Alacahöyük",
+  "ilce": "Sorgun",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Alacahöyük",
+  "aciklama": "Hitit döneminin önemli yerleşimlerinden; Sfenksli Kapı ve kabartmalarıyla bilinen açık hava müzesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Alacah%C3%B6y%C3%BCk",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Alaca_H%C3%BCy%C3%BCk_1.jpg/330px-Alaca_H%C3%BCy%C3%BCk_1.jpg"
+ },
+ {
+  "ad": "Sarıkaya Roma Hamamı ve Kaplıcası",
+  "ilce": "Sarıkaya",
+  "tur": "Tarihi yer",
+  "simge": "♨️",
+  "ucretsiz": false,
+  "vikipedi": "Basilica Therma",
+  "aciklama": "Roma döneminden kalan hamam ve şifalı sularıyla bilinen, hâlâ kullanılan termal tesis.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Basilica_Therma",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Sar%C4%B1kaya_Hamam%C4%B1.jpg/330px-Sar%C4%B1kaya_Hamam%C4%B1.jpg"
+ },
+ {
+  "ad": "Kerkenes Antik Kenti",
+  "ilce": "Sorgun",
+  "tur": "Antik kent",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": "Kerkenes",
+  "aciklama": "Dağ başında kurulmuş, surlarla çevrili Demir Çağı kenti; geniş ve etkileyici bir kalıntı alanı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kerkenes"
+ },
+ {
+  "ad": "Yozgat Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Hitit, Roma ve Osmanlı dönemlerine ait eserleri sergileyen il müzesi."
+ },
+ {
+  "ad": "Yozgat Çarşısı",
+  "ilce": "Merkez",
+  "tur": "Çarşı",
+  "simge": "🛍️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehrin eski çarşısında yöresel tatlar ve el sanatları bulunur; Yozgat usulü testi kebabı denenebilir."
+ }
+]

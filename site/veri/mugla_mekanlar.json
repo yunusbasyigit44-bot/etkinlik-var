@@ -1,0 +1,110 @@
+[
+ {
+  "ad": "Bodrum Kalesi (Sualtı Arkeoloji Müzesi)",
+  "ilce": "Bodrum",
+  "tur": "Kale / Müze",
+  "simge": "🏰",
+  "ucretsiz": false,
+  "vikipedi": "Bodrum Kalesi",
+  "aciklama": "Haçlı şövalyelerinin yaptığı kale; içinde dünyaca ünlü Sualtı Arkeoloji Müzesi var, kule tepelerinden körfez manzarası harika.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Bodrum_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/BodrumCastlesoutheast.jpg/330px-BodrumCastlesoutheast.jpg"
+ },
+ {
+  "ad": "Halikarnas Mozolesi",
+  "ilce": "Bodrum",
+  "tur": "Antik yapı",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Halikarnas Mozolesi",
+  "aciklama": "Antik dünyanın yedi harikasından biri olan mezar anıtının kalıntıları; yanındaki küçük müze maketle yapıyı anlatır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Halikarnas_Mozolesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Mausoleum_of_Halicarnassus.jpg/330px-Mausoleum_of_Halicarnassus.jpg"
+ },
+ {
+  "ad": "Bodrum Antik Tiyatrosu",
+  "ilce": "Bodrum",
+  "tur": "Antik yapı",
+  "simge": "🎭",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehre bakan yamaca oyulmuş Helenistik dönem tiyatrosu; yazın hâlâ etkinliklere ev sahipliği yapar."
+ },
+ {
+  "ad": "Ölüdeniz",
+  "ilce": "Fethiye",
+  "tur": "Plaj / Doğa",
+  "simge": "🏖️",
+  "ucretsiz": false,
+  "vikipedi": "Ölüdeniz",
+  "aciklama": "Turkuaz rengi lagünü, Babadağ'dan yamaç paraşütü uçuşları ve Mavi Lagün'üyle Türkiye'nin en ünlü plajlarından biri."
+ },
+ {
+  "ad": "Kayaköy",
+  "ilce": "Fethiye",
+  "tur": "Tarihi yer",
+  "simge": "🏚️",
+  "ucretsiz": false,
+  "vikipedi": "Kayaköy",
+  "aciklama": "Nüfus mübadelesinden sonra boşalan Rum köyü; yüzlerce taş evin kalıntısı açık hava müzesi gibi gezilir."
+ },
+ {
+  "ad": "Saklıkent Kanyonu",
+  "ilce": "Fethiye",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": false,
+  "vikipedi": "Saklıkent Millî Parkı",
+  "aciklama": "Yaklaşık 18 km uzunluğundaki derin kanyon; buz gibi suyun içinde yürüyüş ve rafting yapılabilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sakl%C4%B1kent_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Sakl%C4%B1kent_Kanyonu.jpg/330px-Sakl%C4%B1kent_Kanyonu.jpg"
+ },
+ {
+  "ad": "Fethiye Lahit Kaya Mezarları (Amyntas)",
+  "ilce": "Fethiye",
+  "tur": "Antik yapı",
+  "simge": "🪦",
+  "ucretsiz": false,
+  "vikipedi": "Amintas Kaya Mezarı",
+  "aciklama": "Fethiye'nin üzerindeki kayalığa oyulmuş Likya dönemi mezarı; şehrin simgelerinden biridir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Amintas_Kaya_Mezar%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Tomb_of_Amyntas.jpg/330px-Tomb_of_Amyntas.jpg"
+ },
+ {
+  "ad": "Dalyan ve Kaunos Antik Kenti",
+  "ilce": "Ortaca",
+  "tur": "Antik kent",
+  "simge": "🚤",
+  "ucretsiz": false,
+  "vikipedi": "Kaunos",
+  "aciklama": "Dalyan Kanalı'nda tekne turu yapıp Kaunos'un kaya mezarlarını ve antik tiyatrosunu görebilirsiniz; İztuzu Plajı da yakındadır."
+ },
+ {
+  "ad": "Marmaris Kalesi",
+  "ilce": "Marmaris",
+  "tur": "Kale / Müze",
+  "simge": "🏰",
+  "ucretsiz": false,
+  "vikipedi": "Marmaris Kalesi",
+  "aciklama": "Liman girişindeki tarihî kale; içinde Marmaris Müzesi bulunur, çevresinde eski çarşı sokakları vardır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Marmaris_Kalesi"
+ },
+ {
+  "ad": "Knidos Antik Kenti",
+  "ilce": "Datça",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Knidos",
+  "aciklama": "Datça Yarımadası'nın en ucunda iki denizin buluştuğu yerde kurulmuş antik liman kenti."
+ },
+ {
+  "ad": "Muğla Eski Şehir (Tarihi Çarşı)",
+  "ilce": "Menteşe",
+  "tur": "Tarihi alan",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Dar sokakları, beyaz badanalı taş evleri ve sıcak insanlarıyla Muğla şehir merkezinin tarihî dokusu."
+ }
+]

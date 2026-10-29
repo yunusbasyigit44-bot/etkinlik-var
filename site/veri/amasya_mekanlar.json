@@ -1,0 +1,88 @@
+[
+ {
+  "ad": "Amasya Kral Kaya Mezarları",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "⛰️",
+  "ucretsiz": false,
+  "vikipedi": "Amasya Kral Kaya Mezarları",
+  "aciklama": "Kayalara oyulmuş Pontus krallarının mezarları; şehrin simgesi ve gece aydınlatmasıyla etkileyici."
+ },
+ {
+  "ad": "Yalıboyu Evleri",
+  "ilce": "Merkez",
+  "tur": "Tarihi mahalle",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": "Yalıboyu Evleri",
+  "aciklama": "Yeşilırmak kıyısındaki Osmanlı dönemi ahşap evler; yürüyüş ve fotoğraf için en güzel köşe."
+ },
+ {
+  "ad": "Amasya Kalesi",
+  "ilce": "Merkez",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Harşena Dağı",
+  "aciklama": "Şehri tepeden izleyen antik kale; yukarıdan Yeşilırmak ve vadi manzarası harika.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Har%C5%9Fena_Da%C4%9F%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Amasya%27daki_tarihi_evler_ve_Kral_Kaya_Mezarlar%C4%B1.jpg/330px-Amasya%27daki_tarihi_evler_ve_Kral_Kaya_Mezarlar%C4%B1.jpg"
+ },
+ {
+  "ad": "Sultan II. Bayezid Külliyesi",
+  "ilce": "Merkez",
+  "tur": "Külliye / cami",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "II. Bayezid Külliyesi (Amasya)",
+  "aciklama": "15. yüzyıldan kalma, Osmanlı mimarisinin güzel bir örneği olan külliye."
+ },
+ {
+  "ad": "Amasya Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Bölgenin arkeolojik ve etnografik eserlerini ve ünlü Kabaktepe Mumyalarını barındırır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Amasya_Arkeoloji_ve_Mumya_M%C3%BCzesi"
+ },
+ {
+  "ad": "Hazeranlar Konağı",
+  "ilce": "Merkez",
+  "tur": "Müze / konak",
+  "simge": "🏠",
+  "ucretsiz": false,
+  "vikipedi": "Hazeranlar Konağı",
+  "aciklama": "18. yüzyıl Amasya evinin iç düzenini gösteren, ziyarete açık güzel bir konak."
+ },
+ {
+  "ad": "Ferhat ile Şirin Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "💘",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Ferhat ile Şirin hikâyesini heykeller ve canlandırmalarla anlatan müze."
+ },
+ {
+  "ad": "Borabay Gölü",
+  "ilce": "Taşova",
+  "tur": "Doğa / göl",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Çevresi ormanla kaplı, piknik ve doğa yürüyüşü için sevilen bir göl.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Boraboy_G%C3%B6l%C3%BC"
+ },
+ {
+  "ad": "Merzifon Kara Mustafa Paşa Külliyesi",
+  "ilce": "Merzifon",
+  "tur": "Külliye",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "17. yüzyılda yapılmış Merzifon'un en önemli tarihî yapı topluluğu.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Merzifon_Ta%C5%9Fhan%C4%B1"
+ }
+]

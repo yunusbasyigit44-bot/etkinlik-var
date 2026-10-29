@@ -1,0 +1,89 @@
+[
+ {
+  "ad": "Rakoczi Müzesi",
+  "ilce": "Süleymanpaşa",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Rákóczi Müzesi",
+  "aciklama": "Macar Prensi II. Rákóczi'nin sürgünde yaşadığı ev; dönemin eşyaları ve belgeleri sergilenir."
+ },
+ {
+  "ad": "Tekirdağ Müzesi",
+  "ilce": "Süleymanpaşa",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Tekirdağ Arkeoloji ve Etnografya Müzesi",
+  "aciklama": "Trakya'nın arkeoloji ve etnografya eserlerini bir arada gösteren şehir müzesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Tekirda%C4%9F_Arkeoloji_ve_Etnografya_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Tekirda%C4%9F_Museum_of_Archaeology_and_Ethnography_%2802%29.JPG/330px-Tekirda%C4%9F_Museum_of_Archaeology_and_Ethnography_%2802%29.JPG"
+ },
+ {
+  "ad": "Namık Kemal Evi",
+  "ilce": "Süleymanpaşa",
+  "tur": "Müze",
+  "simge": "📚",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şair Namık Kemal'in doğduğu ev; kişisel eşyaları ve eserleri ziyaretçilere açık."
+ },
+ {
+  "ad": "Tekirdağ Sahili ve Yürüyüş Yolu",
+  "ilce": "Süleymanpaşa",
+  "tur": "Sahil",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Marmara kıyısında uzanan, Tekirdağ köftesi ve rakıyla anılan akşam yürüyüşü rotası."
+ },
+ {
+  "ad": "Rüstem Paşa Camii",
+  "ilce": "Süleymanpaşa",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Rüstem Paşa Camii",
+  "aciklama": "Mimar Sinan'a atfedilen, 16. yüzyıl Osmanlı camii ve külliyesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/R%C3%BCstem_Pa%C5%9Fa_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Rustem_Pasha_Mosque.JPG/330px-Rustem_Pasha_Mosque.JPG"
+ },
+ {
+  "ad": "Ganos Dağı ve Şarköy Bağları",
+  "ilce": "Şarköy",
+  "tur": "Doğa / bağ",
+  "simge": "🍇",
+  "ucretsiz": true,
+  "vikipedi": "Işıklar Dağı",
+  "aciklama": "Marmara'ya bakan yamaçlarda bağlar, şarap evleri ve doğa yürüyüşü rotaları.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/I%C5%9F%C4%B1klar_Da%C4%9F%C4%B1"
+ },
+ {
+  "ad": "Çorlu Çarşısı ve Saat Kulesi",
+  "ilce": "Çorlu",
+  "tur": "Çarşı",
+  "simge": "🕰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Çorlu'nun merkezindeki tarihi saat kulesi ve çevresindeki canlı çarşı."
+ },
+ {
+  "ad": "Hayrabolu Çarşısı",
+  "ilce": "Hayrabolu",
+  "tur": "Çarşı",
+  "simge": "🍯",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Ünlü Hayrabolu tatlısıyla anılan ilçenin tarihi dokusu ve çarşısı."
+ },
+ {
+  "ad": "Marmaraereğlisi Sahili",
+  "ilce": "Marmaraereğlisi",
+  "tur": "Sahil",
+  "simge": "⛵",
+  "ucretsiz": true,
+  "vikipedi": "Marmaraereğlisi",
+  "aciklama": "Antik Herakleia'nın kalıntıları üzerinde kurulu, deniz kenarında sakin bir balıkçı ilçesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Marmaraere%C4%9Flisi"
+ }
+]

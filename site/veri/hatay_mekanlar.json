@@ -1,0 +1,95 @@
+[
+ {
+  "ad": "Hatay Arkeoloji Müzesi",
+  "ilce": "Antakya",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Hatay Arkeoloji Müzesi",
+  "aciklama": "Dünyanın en zengin mozaik koleksiyonlarından birine sahip müze; 2023 depremi sonrası açık olup olmadığına ziyaretten önce bakın.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Hatay_Arkeoloji_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Hatay_Archaeology_Museum%2C_Antakya%2C_Turkey_%2835454860543%29.jpg/330px-Hatay_Archaeology_Museum%2C_Antakya%2C_Turkey_%2835454860543%29.jpg"
+ },
+ {
+  "ad": "Habib-i Neccar Camii",
+  "ilce": "Antakya",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Habib-i Neccar Camii",
+  "aciklama": "Anadolu'nun ilk camilerinden sayılan tarihî yapı; depremde ağır hasar gördü, restorasyon süreci takip edilmeli.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Habib-i_Neccar_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Habib-i-Neccar_Camii-composite.jpg/330px-Habib-i-Neccar_Camii-composite.jpg"
+ },
+ {
+  "ad": "Sen Piyer Kilisesi",
+  "ilce": "Antakya",
+  "tur": "Tarihi yer",
+  "simge": "⛪",
+  "ucretsiz": false,
+  "vikipedi": "Aziz Petrus Kilisesi",
+  "aciklama": "Dünyanın ilk mağara kiliselerinden biri; hristiyanlık tarihi açısından önemli bir hac noktası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Aziz_Petrus_Kilisesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/ChurchSaintPeterAntakya.jpg/330px-ChurchSaintPeterAntakya.jpg"
+ },
+ {
+  "ad": "Titus Tüneli",
+  "ilce": "Samandağ",
+  "tur": "Tarihi yer",
+  "simge": "🚇",
+  "ucretsiz": false,
+  "vikipedi": "Titus Tüneli",
+  "aciklama": "Roma döneminde kayaya oyulan etkileyici su tüneli ve kanal sistemi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Titus_T%C3%BCneli",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Titus_Tunnel%2C_Seleucia_Pieria.jpg/330px-Titus_Tunnel%2C_Seleucia_Pieria.jpg"
+ },
+ {
+  "ad": "Harbiye Şelaleleri",
+  "ilce": "Defne",
+  "tur": "Doğa",
+  "simge": "🌊",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Antik Daphne'nin yeşil vadisindeki şelaleler; dinlenmek ve yürüyüş için sevilen bir yer."
+ },
+ {
+  "ad": "Uzun Çarşı",
+  "ilce": "Antakya",
+  "tur": "Çarşı",
+  "simge": "🛍️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Antakya'nın tarihî çarşısı; künefe, baharat ve el sanatlarıyla ünlü (deprem sonrası yeniden canlanma sürecinde)."
+ },
+ {
+  "ad": "Vakıflı Köyü",
+  "ilce": "Samandağ",
+  "tur": "Köy / doğa",
+  "simge": "🏡",
+  "ucretsiz": true,
+  "vikipedi": "Vakıflı, Samandağ",
+  "aciklama": "Türkiye'nin tek Ermeni köyü; narenciye bahçeleri ve sakin atmosferiyle bilinir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Vak%C4%B1fl%C4%B1%2C_Samanda%C4%9F",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Vakifli_church-DCP_8791_25p.jpg/330px-Vakifli_church-DCP_8791_25p.jpg"
+ },
+ {
+  "ad": "Musa Dağı",
+  "ilce": "Samandağ",
+  "tur": "Doğa",
+  "simge": "🌲",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Akdeniz'e bakan yeşil dağ; yürüyüş rotaları ve tarihî hikâyeleriyle bilinir."
+ },
+ {
+  "ad": "İskenderun Sahili",
+  "ilce": "İskenderun",
+  "tur": "Sahil / park",
+  "simge": "🌅",
+  "ucretsiz": true,
+  "vikipedi": "İskenderun",
+  "aciklama": "Sahil boyunca uzanan yürüyüş yolu ve çay bahçeleri; akşam üzeri en sevilen buluşma yeri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C4%B0skenderun",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/IskenderunShorelineWithMountain092012.jpg/330px-IskenderunShorelineWithMountain092012.jpg"
+ }
+]

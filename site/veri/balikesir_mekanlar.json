@@ -1,0 +1,106 @@
+[
+ {
+  "ad": "Cunda Adası",
+  "ilce": "Ayvalık",
+  "tur": "Ada / doğa",
+  "simge": "🏝️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Taş evleri, Rum mimarisi ve balık restoranlarıyla ünlü, köprüyle karaya bağlanan ada.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Cunda"
+ },
+ {
+  "ad": "Sarımsaklı Plajı",
+  "ilce": "Ayvalık",
+  "tur": "Plaj / doğa",
+  "simge": "🏖️",
+  "ucretsiz": true,
+  "vikipedi": "Sarımsaklı",
+  "aciklama": "Uzun kumsalı ve sığ denizi ile aileler için uygun bir yaz durağı."
+ },
+ {
+  "ad": "Kaz Dağları Milli Parkı",
+  "ilce": "Edremit",
+  "tur": "Milli park / doğa",
+  "simge": "🌲",
+  "ucretsiz": false,
+  "vikipedi": "Kazdağı Millî Parkı",
+  "aciklama": "Oksijeni bol çam ormanları, şelaleleri ve yürüyüş parkurlarıyla ünlü dağ.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kazda%C4%9F%C4%B1_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Kazdagi_Verwaltung.JPG/330px-Kazdagi_Verwaltung.JPG"
+ },
+ {
+  "ad": "Şeytan Sofrası",
+  "ilce": "Ayvalık",
+  "tur": "Manzara noktası",
+  "simge": "🌅",
+  "ucretsiz": true,
+  "vikipedi": "Şeytan Sofrası",
+  "aciklama": "Ayvalık ve Ege adalarına bakan, gün batımıyla ünlü seyir tepesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C5%9Eeytan_Sofras%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Seytansofrasi.JPG/330px-Seytansofrasi.JPG"
+ },
+ {
+  "ad": "Altınoluk",
+  "ilce": "Edremit",
+  "tur": "Sahil",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": "Altınoluk",
+  "aciklama": "Körfezin kıyısında yürüyüş yolu, balıkçı lokantaları ve plajlarıyla gezilen sahil beldesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Alt%C4%B1noluk",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Altinoluk.jpg/330px-Altinoluk.jpg"
+ },
+ {
+  "ad": "Kuş Cenneti Milli Parkı",
+  "ilce": "Bandırma",
+  "tur": "Milli park / doğa",
+  "simge": "🦆",
+  "ucretsiz": false,
+  "vikipedi": "Kuşcenneti Millî Parkı",
+  "aciklama": "Manyas Gölü kıyısında göçmen kuşların izlendiği, gözlem kulesi bulunan alan.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ku%C5%9Fcenneti_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Oka_10w.jpg/330px-Oka_10w.jpg"
+ },
+ {
+  "ad": "Bandırma Vapuru Müzesi",
+  "ilce": "Bandırma",
+  "tur": "Müze",
+  "simge": "🚢",
+  "ucretsiz": true,
+  "vikipedi": "Bandırma Vapuru",
+  "aciklama": "Atatürk'ün Samsun'a çıkışında kullandığı geminin aslına uygun yapılan örneği müze olarak gezilebilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Band%C4%B1rma_Vapuru",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Band%C4%B1rma_Vapuru.png/330px-Band%C4%B1rma_Vapuru.png"
+ },
+ {
+  "ad": "Balıkesir Saat Kulesi",
+  "ilce": "Karesi",
+  "tur": "Tarihi yer",
+  "simge": "🕰️",
+  "ucretsiz": true,
+  "vikipedi": "Balıkesir Saat Kulesi",
+  "aciklama": "Kent merkezindeki tarihi saat kulesi ve çevresindeki çarşı yürüyüşe uygundur.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Bal%C4%B1kesir_Saat_Kulesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Bal%C4%B1kesir_Clock_Tower_front_view%2C_Bal%C4%B1kesir%2C_2023.jpg/330px-Bal%C4%B1kesir_Clock_Tower_front_view%2C_Bal%C4%B1kesir%2C_2023.jpg"
+ },
+ {
+  "ad": "Erdek Kapıdağ Yarımadası",
+  "ilce": "Erdek",
+  "tur": "Yarımada / doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Marmara Denizi'ne uzanan, koyları ve manzara noktalarıyla bilinen yarımada.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kap%C4%B1da%C4%9F_Yar%C4%B1madas%C4%B1"
+ },
+ {
+  "ad": "Yağcıbedir Halıları",
+  "ilce": "Sındırgı",
+  "tur": "Kültür",
+  "simge": "🧶",
+  "ucretsiz": true,
+  "vikipedi": "Yağcıbedir",
+  "aciklama": "Yağcıbedir halılarıyla tanınan yöre; geleneksel dokuma kültürünü tanımak için ilginç bir durak."
+ }
+]

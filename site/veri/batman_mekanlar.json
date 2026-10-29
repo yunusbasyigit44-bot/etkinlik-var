@@ -1,0 +1,96 @@
+[
+ {
+  "ad": "Hasankeyf Antik Kenti",
+  "ilce": "Hasankeyf",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Hasankeyf",
+  "aciklama": "Dicle kıyısında on iki bin yıllık yerleşim; kaleleri, mağaraları ve anıtlarıyla ünlü.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Hasankeyf",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Hasankeyf.JPG/330px-Hasankeyf.JPG"
+ },
+ {
+  "ad": "Zeynel Bey Türbesi",
+  "ilce": "Hasankeyf",
+  "tur": "Türbe",
+  "simge": "🕌",
+  "ucretsiz": false,
+  "vikipedi": "Zeynel Bey Türbesi",
+  "aciklama": "Akkoyunlu döneminden kalma, mavi-turkuaz çinileriyle dikkat çeken türbe.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Zeynel_Bey_T%C3%BCrbesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Zeynel_Bey_Mausoleum%2C_Hasankeyf.jpg/330px-Zeynel_Bey_Mausoleum%2C_Hasankeyf.jpg"
+ },
+ {
+  "ad": "Er-Rızk Camii",
+  "ilce": "Hasankeyf",
+  "tur": "Cami",
+  "simge": "🕌",
+  "ucretsiz": false,
+  "vikipedi": "Er-Rızk Camii",
+  "aciklama": "Eyyubi döneminden kalan, Dicle kıyısındaki tarihi cami."
+ },
+ {
+  "ad": "Hasankeyf Müzesi",
+  "ilce": "Hasankeyf",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Hasankeyf Müzesi",
+  "aciklama": "Hasankeyf'in tarihini ve taşınan eserleri anlatan müze."
+ },
+ {
+  "ad": "Ilısu Barajı",
+  "ilce": "Hasankeyf",
+  "tur": "Baraj gölü",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Dicle üzerindeki büyük baraj gölü; çevresi manzara için ziyaret ediliyor.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Il%C4%B1su_Baraj%C4%B1_ve_Hidroelektrik_Santrali"
+ },
+ {
+  "ad": "Batman Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Batman Müzesi",
+  "aciklama": "Bölgenin arkeolojik buluntularını ve etnografik eserlerini sergileyen müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Batman_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Batman_M%C3%BCzesi.jpg/330px-Batman_M%C3%BCzesi.jpg"
+ },
+ {
+  "ad": "Batman Barajı",
+  "ilce": "Merkez",
+  "tur": "Baraj gölü",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": "Batman Barajı ve Hidroelektrik Santrali",
+  "aciklama": "Batman Çayı üzerindeki baraj; kıyısı dinlenme ve piknik için kullanılıyor.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Batman_Baraj%C4%B1_ve_Hidroelektrik_Santrali",
+  "gorsel": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Batman_dam-GAP.jpg"
+ },
+ {
+  "ad": "Gercüş Tarihi Çarşısı",
+  "ilce": "Gercüş",
+  "tur": "Tarihi doku",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": "Gercüş",
+  "aciklama": "Gercüş'ün taş evleri ve dar sokaklarıyla eski şehir dokusu.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Gerc%C3%BC%C5%9F",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Kercews%C3%AA.jpg/330px-Kercews%C3%AA.jpg"
+ },
+ {
+  "ad": "Sason Doğası",
+  "ilce": "Sason",
+  "tur": "Doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": "Sason",
+  "aciklama": "Dağlık, bol sulu ve yeşil Sason çevresi; yaylalar ve doğa yürüyüşleri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sason",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Sason_2012.JPG/330px-Sason_2012.JPG"
+ }
+]

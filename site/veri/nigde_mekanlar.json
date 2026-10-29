@@ -1,0 +1,95 @@
+[
+ {
+  "ad": "Niğde Kalesi (Alaaddin Camii ve Kale)",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Niğde Kalesi",
+  "aciklama": "Şehrin tepesinde duran Selçuklu dönemi kalesi; çevresinde Alaaddin Camii ve eski sokaklar gezilebilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ni%C4%9Fde_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Ni%C4%9Fde_kalesi_ve_saat_kulesi.jpg/330px-Ni%C4%9Fde_kalesi_ve_saat_kulesi.jpg"
+ },
+ {
+  "ad": "Niğde Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Bölgenin Hitit'ten Osmanlı'ya uzanan eserlerini ve Niğde'ye özgü mezar anıtlarını sergiliyor."
+ },
+ {
+  "ad": "Sungur Bey Camii",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "14. yüzyıldan kalma, taş işçiliğiyle öne çıkan Niğde'nin en tanınmış camilerinden biri."
+ },
+ {
+  "ad": "Hüdavend Hatun Türbesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕍",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Selçuklu mimarisinin zarif örneklerinden olan sekizgen planlı türbe."
+ },
+ {
+  "ad": "Eski Gümüşler Manastırı",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "⛪",
+  "ucretsiz": false,
+  "vikipedi": "Gümüşler Manastırı",
+  "aciklama": "Kayaya oyulmuş, duvar resimleriyle ünlü Bizans dönemi manastır kompleksi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fler_Manast%C4%B1r%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Gumusler_Monastery_Courtyard_1202.jpg/330px-Gumusler_Monastery_Courtyard_1202.jpg"
+ },
+ {
+  "ad": "Aladağlar ve Demirkazık",
+  "ilce": "Çamardı",
+  "tur": "Doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": "Aladağlar Millî Parkı",
+  "aciklama": "Dağcıların ve doğa yürüyüşçülerinin sevdiği, Demirkazık Zirvesi'ne ev sahipliği yapan Toros kolu.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Alada%C4%9Flar_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Yelatan_Alada%C4%9Flar_03.jpg/330px-Yelatan_Alada%C4%9Flar_03.jpg"
+ },
+ {
+  "ad": "Çiftehan Kervansarayı ve Kaplıcası",
+  "ilce": "Ulukışla",
+  "tur": "Tarihi yer",
+  "simge": "🐪",
+  "ucretsiz": true,
+  "vikipedi": "Çiftehan",
+  "aciklama": "Eski ipek ve ticaret yolu üzerinde, tarihi kervansarayı ve sıcak su kaynaklarıyla bilinen bir yer.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87iftehan",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/%C3%87iftehank%C3%B6y%C3%BCnden.jpg/330px-%C3%87iftehank%C3%B6y%C3%BCnden.jpg"
+ },
+ {
+  "ad": "Tyana Antik Kenti (Kemerhisar)",
+  "ilce": "Bor",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": true,
+  "vikipedi": "Kemerhisar",
+  "aciklama": "Hitit'ten Roma'ya uzanan eski Tyana kentinin kalıntıları ve Roma su kemeri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kemerhisar",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kemerhisar-aqueduct.jpg/330px-Kemerhisar-aqueduct.jpg"
+ },
+ {
+  "ad": "Ak Medrese",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Ak Medrese (Niğde)",
+  "aciklama": "Niğde merkezde bulunan, Anadolu Selçuklu ve Beylikler dönemine ait taş işçiliği güzel bir medrese.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ak_Medrese_(Ni%C4%9Fde)",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ni%C4%9Fde_Ak_Medrese_046.jpg/330px-Ni%C4%9Fde_Ak_Medrese_046.jpg"
+ }
+]

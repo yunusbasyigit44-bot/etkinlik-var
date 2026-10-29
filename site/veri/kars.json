@@ -1,0 +1,87 @@
+{
+ "il": "kars",
+ "guncelleme": "2026-10-29T16:44+03:00",
+ "ilceler": [
+  "Merkez",
+  "Akyaka",
+  "Arpaçay",
+  "Digor",
+  "Kağızman",
+  "Sarıkamış",
+  "Selim",
+  "Susuz"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi yok"
+  },
+  {
+   "ad": "Kafkas Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.kafkas.edu.tr/kddb/tr/tumEtkinlikler2",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası boş geliyor; takvim okunamadı"
+  },
+  {
+   "ad": "Kars Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.kars.bel.tr/duyurular",
+   "etkinlik_sayisi": 0,
+   "durum": "sadece idari duyuru ve haber; tarihli etkinlik takvimi yok"
+  },
+  {
+   "ad": "Kars Kafkas Kültür Yolu, Kars Kaz-Kış, Ani Harabeleri etkinlikleri",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "Kars Valiliği ve 7 ilçe kaymakamlığı",
+   "tur": "valilik",
+   "url": "https://www.kars.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Kars İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://kars.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Sarıkamış, Kağızman, Digor belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/kars",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

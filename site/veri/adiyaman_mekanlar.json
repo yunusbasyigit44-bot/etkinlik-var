@@ -1,0 +1,109 @@
+[
+ {
+  "ad": "Nemrut Dağı",
+  "ilce": "Kahta",
+  "tur": "Antik alan / UNESCO",
+  "simge": "🗿",
+  "ucretsiz": false,
+  "vikipedi": "Nemrut Dağı",
+  "aciklama": "Kommagene Kralı Antiochos'un dev heykelleriyle UNESCO Dünya Mirası. Gün doğumu ve gün batımı manzarası ünlü; kışın yol kapanabilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Nemrut_Da%C4%9F%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Mount_Nemrut_-_East_Terrace_%284961323529%29.jpg/330px-Mount_Nemrut_-_East_Terrace_%284961323529%29.jpg"
+ },
+ {
+  "ad": "Cendere Köprüsü",
+  "ilce": "Kahta",
+  "tur": "Tarihi yer",
+  "simge": "🌉",
+  "ucretsiz": true,
+  "vikipedi": "Cendere Köprüsü",
+  "aciklama": "Roma döneminden kalma tek kemerli taş köprü; Nemrut yolunda mola için ideal.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Cendere_K%C3%B6pr%C3%BCs%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Portuguese_Bridge_%28Severan_Bridge%292.jpg/330px-Portuguese_Bridge_%28Severan_Bridge%292.jpg"
+ },
+ {
+  "ad": "Arsameia Antik Kenti",
+  "ilce": "Kahta",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Arsameia",
+  "aciklama": "Kommagene Krallığı'nın yazlık başkenti; Herakles ile Mithridates'in tokalaşma kabartması burada."
+ },
+ {
+  "ad": "Karakuş Tümülüsü",
+  "ilce": "Kahta",
+  "tur": "Antik alan",
+  "simge": "🦅",
+  "ucretsiz": true,
+  "vikipedi": "Karakuş Tümülüsü",
+  "aciklama": "Kommagene kraliyet kadınlarının mezar tepesi; tepesinde kartal heykelli sütunlar.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Karaku%C5%9F_T%C3%BCm%C3%BCl%C3%BCs%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Tumulus_of_Karakus_01.jpg/330px-Tumulus_of_Karakus_01.jpg"
+ },
+ {
+  "ad": "Perre Antik Kenti",
+  "ilce": "Merkez",
+  "tur": "Antik kent",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": "Perre (antik kent)",
+  "aciklama": "Şehir merkezine 5 km uzaklıkta kaya mezarları ve Roma çeşmesi olan antik kent.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Perre_(antik_kent)",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/PerreAntikKenti_09.jpg/330px-PerreAntikKenti_09.jpg"
+ },
+ {
+  "ad": "Adıyaman Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🖼️",
+  "ucretsiz": false,
+  "vikipedi": "Adıyaman Müzesi",
+  "aciklama": "Bölgenin tarih öncesinden Kommagene dönemine uzanan eserleri. Müze Kart geçerli.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ad%C4%B1yaman_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Museum_Ad%C4%B1yaman_Au%C3%9Fenansicht.jpg/330px-Museum_Ad%C4%B1yaman_Au%C3%9Fenansicht.jpg"
+ },
+ {
+  "ad": "Atatürk Barajı Gölü",
+  "ilce": "Kahta",
+  "tur": "Doğa / göl",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": "Atatürk Barajı",
+  "aciklama": "Türkiye'nin en büyük baraj gölü; kıyıda yürüyüş, balık restoranları ve feribot manzarası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Atat%C3%BCrk_Baraj%C4%B1_ve_Hidroelektrik_Santrali",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/63850_Eskin-Bozova-%C5%9Eanl%C4%B1urfa%2C_Turkey_-_panoramio_%281%29.jpg/330px-63850_Eskin-Bozova-%C5%9Eanl%C4%B1urfa%2C_Turkey_-_panoramio_%281%29.jpg"
+ },
+ {
+  "ad": "Gölbaşı Gölleri",
+  "ilce": "Gölbaşı",
+  "tur": "Doğa / göl",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": "Gölbaşı, Adıyaman",
+  "aciklama": "Gölbaşı ilçesindeki göller ve çevresindeki piknik ve yürüyüş alanları.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/G%C3%B6lba%C5%9F%C4%B1%2C_Ad%C4%B1yaman",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/G%C3%B6lba%C5%9F%C4%B1_-_panoramio.jpg/330px-G%C3%B6lba%C5%9F%C4%B1_-_panoramio.jpg"
+ },
+ {
+  "ad": "Eski Besni",
+  "ilce": "Besni",
+  "tur": "Tarihi yerleşim",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kayalara oyulmuş evleri ve tarihi dokusuyla terk edilmiş eski Besni yerleşimi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Besni"
+ },
+ {
+  "ad": "Adıyaman Ulu Camii",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Adıyaman Ulu Camii",
+  "aciklama": "Şehir merkezindeki tarihi cami; çevresindeki çarşıyla birlikte gezilebilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ad%C4%B1yaman_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Adyamanulucami.jpg/330px-Adyamanulucami.jpg"
+ }
+]

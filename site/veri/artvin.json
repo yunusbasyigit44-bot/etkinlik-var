@@ -1,0 +1,143 @@
+{
+ "il": "artvin",
+ "guncelleme": "2026-10-29T16:39+03:00",
+ "ilceler": [
+  "Merkez",
+  "Ardanuç",
+  "Arhavi",
+  "Borçka",
+  "Hopa",
+  "Murgul",
+  "Şavşat",
+  "Yusufeli"
+ ],
+ "etkinlikler": [
+  {
+   "id": "98d23f74a2d0",
+   "baslik": "Tıbbi Aromatik Bitkiler Üzerine Yetiştiricilik ve Kozmetik Ürün Oluşturma Eğitimi-4",
+   "tarih": "2026-11-02",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Merkez",
+   "mekan": "ANG Botanik Bahçesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Artvin Çoruh Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.artvin.edu.tr/tr/etkinlik/tibbi-aromatik-bitkiler-uzerine-yetistiricilik-ve-kozmetik-urun-olusturma-egitimi-4-1",
+   "gorsel": "https://www.artvin.edu.tr/uploads/www.artvin.edu.tr/etkinlikler/456_tibbiaromatikegitimjt35d.jpeg"
+  },
+  {
+   "id": "5ed7253961a2",
+   "baslik": "Dekan Öğrenci Buluşması",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Nihat Gökyiğit Kongre ve Kültür Merkezi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Artvin Çoruh Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.artvin.edu.tr/tr/etkinlik/dekan-ogrenci-bulusmasi-1",
+   "gorsel": "https://www.artvin.edu.tr/uploads/sbf.artvin.edu.tr/etkinlikler/221_renci-dekan-bulusmasi-poster-tasarimiffq9s.jpg"
+  },
+  {
+   "id": "b78a2112e55f",
+   "baslik": "Türkiye'de Felsefe",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Nihat Gökyiğit Kongre ve Kültür Merkezi 15 Temmuz Milli İrade Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Artvin Çoruh Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.artvin.edu.tr/tr/etkinlik/turkiye-de-felsefe",
+   "gorsel": "https://www.artvin.edu.tr/uploads/fef.artvin.edu.tr/etkinlikler/102_whatsapp-image-2026-09-29-at-140937r0sl4.jpeg"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Artvin Çoruh Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.artvin.edu.tr/tr/etkinlik/tumu",
+   "etkinlik_sayisi": 3,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "8 ilçe kaymakamlığı",
+   "tur": "kaymakamlik",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Artvin Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.artvin.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok; haberler eski"
+  },
+  {
+   "ad": "Artvin Valiliği",
+   "tur": "valilik",
+   "url": "https://www.artvin.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Artvin İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://artvin.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Hopa, Arhavi, Yusufeli, Şavşat belediyeleri",
+   "tur": "belediye",
+   "url": "https://www.hopa.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok; sadece haber"
+  },
+  {
+   "ad": "Kafkasör Kültür ve Sanat Festivali, Hopa Kemençe Festivali, Arhavi Çay Festivali…",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; 2027 programı henüz yayımlanmamış"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/artvin",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

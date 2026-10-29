@@ -1,0 +1,554 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Etkinlik Var — Bugün ne yapsam?</title>
+<meta name="description" content="Belediye, üniversite, valilik, kaymakamlık ve STK etkinlikleri tek yerde. Bugün ne yapsam diyenler için il il etkinlik takvimi.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📅</text></svg>">
+<style>
+:root{
+  --bg:#f7f5f0; --kart:#ffffff; --yazi:#1d1b16; --soluk:#6b665c; --cizgi:#e4dfd4;
+  --ana:#d9480f; --ana-acik:#fff0e6; --yesil:#2b8a3e; --yesil-acik:#ebfbee; --mavi:#1c5fb8;
+  --golge:0 1px 2px rgba(0,0,0,.06),0 4px 14px rgba(0,0,0,.05); --r:14px;
+}
+@media (prefers-color-scheme:dark){:root:not([data-tema="acik"]){
+  --bg:#15140f; --kart:#211f19; --yazi:#f1ede4; --soluk:#a39d90; --cizgi:#36332a;
+  --ana:#ff8a4c; --ana-acik:#3a2416; --yesil:#69db7c; --yesil-acik:#1b2e1f; --mavi:#74a9f5; --golge:none;}}
+:root[data-tema="koyu"]{
+  --bg:#15140f; --kart:#211f19; --yazi:#f1ede4; --soluk:#a39d90; --cizgi:#36332a;
+  --ana:#ff8a4c; --ana-acik:#3a2416; --yesil:#69db7c; --yesil-acik:#1b2e1f; --mavi:#74a9f5; --golge:none;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--yazi);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--mavi)}
+.kap{max-width:880px;margin:0 auto;padding:0 16px}
+header{background:var(--kart);border-bottom:1px solid var(--cizgi);position:sticky;top:0;z-index:5}
+.ust{display:flex;align-items:center;gap:12px;padding:10px 0;flex-wrap:wrap}
+.logo{font-weight:800;font-size:20px;text-decoration:none;color:var(--yazi);white-space:nowrap}
+.logo span{color:var(--ana)}
+select,input,textarea,button{font:inherit;color:inherit}
+select,input,textarea{background:var(--kart);border:1px solid var(--cizgi);border-radius:10px;padding:8px 10px;max-width:100%}
+.il-sec{margin-left:auto}
+button{cursor:pointer}
+.dugme{border:1px solid var(--cizgi);background:var(--kart);border-radius:999px;padding:7px 14px;white-space:nowrap}
+a.dugme{color:inherit;text-decoration:none;display:inline-block}
+.dugme.secili{background:var(--yazi);color:var(--bg);border-color:var(--yazi)}
+.dugme.ana{background:var(--ana);border-color:var(--ana);color:#fff;font-weight:700}
+.hero{padding:22px 0 8px}
+.hero h1{margin:0 0 4px;font-size:clamp(24px,5vw,34px);line-height:1.15}
+.hero p{margin:0;color:var(--soluk)}
+.rastgele{margin-top:14px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.oneri{margin-top:12px}
+.serit{display:flex;gap:8px;overflow-x:auto;padding:10px 0;scrollbar-width:thin}
+.filtre{display:flex;gap:8px;flex-wrap:wrap;align-items:center;padding:4px 0 10px}
+.filtre label{display:flex;gap:6px;align-items:center;white-space:nowrap}
+.filtre input[type=search]{flex:1;min-width:160px}
+.gun-baslik{font-size:14px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;color:var(--soluk);margin:18px 0 8px}
+.kart{background:var(--kart);border:1px solid var(--cizgi);border-radius:var(--r);box-shadow:var(--golge);padding:12px;margin-bottom:10px;display:grid;grid-template-columns:112px 1fr;gap:14px}
+.afis{position:relative;width:112px;aspect-ratio:3/4;border-radius:10px;overflow:hidden;background:var(--ana-acik);display:flex;align-items:center;justify-content:center;font-size:40px}
+.afis img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.afis .takvim{position:absolute;top:6px;left:6px;padding:3px 7px;font-size:12px;line-height:1.15;background:var(--kart);box-shadow:0 1px 4px rgba(0,0,0,.25);z-index:1}
+.afis .takvim b{font-size:17px}.afis .takvim small{font-size:10px}
+.kart h3 a{color:inherit;text-decoration:none}.kart h3 a:hover{text-decoration:underline}
+.kart.bitti{opacity:.55}.bitti-etiket{background:var(--yazi);color:var(--bg);margin-bottom:4px}
+.git{background:var(--ana);border-color:var(--ana);color:#fff!important;font-weight:700}
+.takvim{background:var(--ana-acik);color:var(--ana);border-radius:10px;text-align:center;padding:6px 0;height:max-content}
+.takvim b{display:block;font-size:22px;line-height:1}
+.takvim small{font-size:12px;font-weight:700;text-transform:uppercase}
+.kart h3{margin:0 0 4px;font-size:17px;line-height:1.3}
+.bilgi{color:var(--soluk);font-size:14px;display:flex;flex-wrap:wrap;gap:4px 12px}
+.etiket{display:inline-block;font-size:12px;font-weight:700;border-radius:6px;padding:1px 7px;background:var(--bg);border:1px solid var(--cizgi)}
+.etiket.ucretsiz{background:var(--yesil-acik);color:var(--yesil);border-color:transparent}
+.eylem{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+.eylem .dugme{font-size:14px;padding:5px 11px}
+.gidiyorum.aktif{background:var(--yesil);border-color:var(--yesil);color:#fff}
+.bos{background:var(--kart);border:1px dashed var(--cizgi);border-radius:var(--r);padding:18px;color:var(--soluk)}
+section{margin:28px 0}
+section h2{font-size:21px;margin:0 0 10px}
+.mekanlar{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}
+.mekan{background:var(--kart);border:1px solid var(--cizgi);border-radius:var(--r);padding:0 0 12px;overflow:hidden}
+.mekan>*:not(.foto){margin-left:12px;margin-right:12px}
+.mekan .foto{aspect-ratio:16/9;background:var(--ana-acik);display:flex;align-items:center;justify-content:center;font-size:42px;margin-bottom:10px;position:relative}
+.mekan .foto img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.mekan .baglantilar{display:flex;gap:12px;font-size:14px}
+.mekan h4{margin:0 0 2px;font-size:16px}
+.mekan p{margin:4px 0 0;font-size:14px;color:var(--soluk)}
+form.ekle{display:grid;gap:10px;background:var(--kart);border:1px solid var(--cizgi);border-radius:var(--r);padding:16px}
+form.ekle .iki{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+form.ekle label{display:grid;gap:4px;font-size:14px;font-weight:600}
+@media (max-width:560px){form.ekle .iki{grid-template-columns:1fr}.kart{grid-template-columns:84px 1fr;gap:10px}.afis{width:84px}}
+table{width:100%;border-collapse:collapse;font-size:14px;background:var(--kart);border-radius:var(--r);overflow:hidden}
+th,td{text-align:left;padding:7px 9px;border-bottom:1px solid var(--cizgi);vertical-align:top}
+.tablo-kap{overflow-x:auto;border:1px solid var(--cizgi);border-radius:var(--r)}
+.durum-ok{color:var(--yesil);font-weight:700}.durum-yok{color:var(--ana);font-weight:700}
+footer{color:var(--soluk);font-size:13px;padding:24px 0 40px;border-top:1px solid var(--cizgi);margin-top:30px}
+.yakinda{padding:40px 0}
+.not{font-size:13px;color:var(--soluk)}
+.gizli{display:none!important}
+</style>
+</head>
+<body>
+<header><div class="kap ust">
+  <a class="logo" href="?">Etkinlik <span>Var</span></a>
+  <select class="il-sec" id="ilSec" aria-label="İl seç"></select>
+  <button class="dugme" id="temaDugme" title="Açık / koyu tema" aria-label="Tema değiştir">◐</button>
+</div></header>
+
+<main class="kap" id="ana">
+  <div class="hero">
+    <h1 id="baslik">Bugün ne yapsam?</h1>
+    <div class="rastgele">
+      <button class="dugme ana" id="rastgeleDugme">🎲 Bana bir şey öner</button>
+      <span class="not" id="guncelleme"></span>
+    </div>
+    <div class="oneri" id="oneri"></div>
+  </div>
+
+  <div id="ilIcerik">
+    <nav class="serit" id="zamanSerit" aria-label="Zaman"></nav>
+    <div class="filtre">
+      <select id="ilceSec" aria-label="İlçe"></select>
+      <select id="kategoriSec" aria-label="Kategori"></select>
+      <label><input type="checkbox" id="ucretsizSec"> Sadece ücretsiz</label>
+      <input type="search" id="ara" placeholder="Ara: konser, çocuk, satranç…" aria-label="Ara">
+    </div>
+    <div class="serit" id="hizliSerit" aria-label="Hızlı seçim">
+      <button class="dugme" data-hizli="cocuk">🧸 Çocuklar için</button>
+      <button class="dugme" data-hizli="ucretsiz">🆓 Ücretsiz</button>
+      <button class="dugme" data-hizli="aksam">🌙 Akşam (18:00 sonrası)</button>
+      <button class="dugme" data-hizli="sahne">🎭 Sahne</button>
+    </div>
+    <div id="liste"></div>
+
+    <section id="biletliBolum">
+      <h2>Biletli konser ve gösteriler</h2>
+      <p class="not">Özel organizasyonların biletli etkinlikleri bilet sitelerinde listeleniyor. Doğrudan şehrin sayfasına gidin:</p>
+      <div class="serit" id="biletLinkleri"></div>
+    </section>
+
+    <section id="mekanBolum">
+      <h2>Etkinlik yoksa da gidilecek yer çok</h2>
+      <p class="not">Her gün açık olan müze, park, tarihi yer ve doğa noktaları. Ziyaret saatlerini gitmeden kontrol edin.</p>
+      <div class="mekanlar" id="mekanlar"></div>
+    </section>
+
+    <section id="gecmisBolum">
+      <details id="gecmis">
+        <summary><h2 style="display:inline">Geçmiş etkinlikler</h2> <span class="not">— son bir yılda neler oldu?</span></summary>
+        <div id="gecmisListe" style="margin-top:12px"><p class="not">Yükleniyor…</p></div>
+      </details>
+    </section>
+
+    <section id="ekle">
+      <h2>Etkinliğini ekle</h2>
+      <p class="not">Kurum, kulüp, dernek ya da mekân misiniz? Etkinliğinizi gönderin; kontrol edildikten sonra yayınlanır. Ücretsiz.</p>
+      <form class="ekle" id="ekleForm">
+        <label>Etkinlik adı *<input name="baslik" required maxlength="140"></label>
+        <div class="iki">
+          <label>Tarih *<input type="date" name="tarih" required></label>
+          <label>Saat<input type="time" name="saat"></label>
+        </div>
+        <div class="iki">
+          <label>İlçe *<select name="ilce" id="formIlce" required></select></label>
+          <label>Mekân *<input name="mekan" required maxlength="120" placeholder="Örn. Seyhan Kültür Merkezi"></label>
+        </div>
+        <div class="iki">
+          <label>Kategori<select name="kategori" id="formKategori"></select></label>
+          <label>Ücret<select name="ucretsiz"><option value="true">Ücretsiz</option><option value="false">Ücretli</option></select></label>
+        </div>
+        <label>Kısa açıklama<textarea name="aciklama" rows="3" maxlength="600"></textarea></label>
+        <label>Duyuru linki (site / Instagram)<input type="url" name="link" maxlength="300" placeholder="https://"></label>
+        <label>Düzenleyen kurum / kişi *<input name="duzenleyen" required maxlength="120"></label>
+        <p class="not">Kişisel iletişim bilginizi yazmayın; kontrol için duyuru linkini kullanıyoruz.</p>
+        <div><button class="dugme ana" type="submit">Gönder</button> <span id="formSonuc" class="not"></span></div>
+      </form>
+    </section>
+
+    <section id="kaynakBolum">
+      <h2>Bu listeyi nereden topluyoruz?</h2>
+      <p class="not">Etkinlikler kurumların kendi sitelerindeki duyurulardan her sabah otomatik derlenir. Hata olabilir — gitmeden önce “Kaynak” bağlantısından kontrol edin.</p>
+      <div class="tablo-kap"><table id="kaynakTablo"></table></div>
+    </section>
+  </div>
+
+  <div class="yakinda gizli" id="yakinda">
+    <div class="bos"><b id="yakindaIl"></b> için etkinlik takvimi hazırlanıyor. İller plaka sırasıyla ekleniyor.
+    Şu an hazır olan iller: <span id="hazirIller"></span>.</div>
+  </div>
+</main>
+
+<footer><div class="kap">
+  Etkinlik Var — kamu kurumlarının ve toplulukların duyurularını tek yerde toplayan bağımsız bir derleme. Hiçbir kurumla resmî bağı yoktur.
+  Bilgiler ve afişler duyuru sahiplerine aittir; her etkinlikte kaynağa bağlantı verilir. Mekân fotoğrafları Wikimedia Commons'tan (serbest lisans).
+</div></footer>
+
+<script>
+// ---------------------------------------------------------------
+// Ayarlar
+// ---------------------------------------------------------------
+// Plaka sırası: dizideki yer + 1 = plaka numarası
+const ILLER = ["Adana","Adıyaman","Afyonkarahisar","Ağrı","Amasya","Ankara","Antalya","Artvin","Aydın","Balıkesir","Bilecik","Bingöl","Bitlis","Bolu","Burdur","Bursa","Çanakkale","Çankırı","Çorum","Denizli","Diyarbakır","Edirne","Elazığ","Erzincan","Erzurum","Eskişehir","Gaziantep","Giresun","Gümüşhane","Hakkari","Hatay","Isparta","Mersin","İstanbul","İzmir","Kars","Kastamonu","Kayseri","Kırklareli","Kırşehir","Kocaeli","Konya","Kütahya","Malatya","Manisa","Kahramanmaraş","Mardin","Muğla","Muş","Nevşehir","Niğde","Ordu","Rize","Sakarya","Samsun","Siirt","Sinop","Sivas","Tekirdağ","Tokat","Trabzon","Tunceli","Şanlıurfa","Uşak","Van","Yozgat","Zonguldak","Aksaray","Bayburt","Karaman","Kırıkkale","Batman","Şırnak","Bartın","Ardahan","Iğdır","Yalova","Karabük","Kilis","Osmaniye","Düzce"];
+let HAZIR = [];   // verisi olan iller — veri/hazir.json'dan okunur (toplayıcı yazar)
+// "Gidiyorum" sayacı ve "Etkinliğini ekle" formu için veritabanı (bkz. supabase_kurulum.sql).
+// Bu anahtar herkese açık olacak şekilde tasarlanmıştır; neyin yazılabileceğini veritabanı kuralları belirler.
+const SUPABASE_URL = "https://xsskbnvpsjsuvjovehxc.supabase.co";
+const SUPABASE_ANAHTAR = "sb_publishable_vhq-lCqjhd4418JJmDI_4w_4CqfHv-X";
+const KATEGORI_SIMGE = {"Konser":"🎵","Tiyatro":"🎭","Sinema":"🎬","Sergi":"🖼️","Çocuk":"🧸","Spor":"🏅","Söyleşi":"🎤","Akademik":"🎓","Atölye":"🛠️","Festival":"🎪","Anma / Tören":"🎖️","Diğer":"📌"};
+const AYLAR = ["Oca","Şub","Mar","Nis","May","Haz","Tem","Ağu","Eyl","Eki","Kas","Ara"];
+const GUNLER = ["Pazar","Pazartesi","Salı","Çarşamba","Perşembe","Cuma","Cumartesi"];
+
+// ---------------------------------------------------------------
+// Küçük yardımcılar
+// ---------------------------------------------------------------
+const $ = id => document.getElementById(id);
+const kucuk = s => (s||"").replace(/I/g,"ı").replace(/İ/g,"i").toLowerCase();
+const kod = s => kucuk(s).replace(/ç/g,"c").replace(/ğ/g,"g").replace(/ı/g,"i").replace(/ö/g,"o").replace(/ş/g,"s").replace(/ü/g,"u").replace(/[^a-z0-9]/g,"");
+const kacis = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+// Türkçe bulunma eki: Adana'da, İzmir'de, Kars'ta, Tokat'ta
+function de(ad){
+  const k = kucuk(ad), unluler = [...k].filter(c => "aeıioöuü".includes(c));
+  const kalin = "aıou".includes(unluler[unluler.length-1]);
+  const sert = "fstkçşhp".includes(k[k.length-1]);
+  return ad + "'" + (sert ? "t" : "d") + (kalin ? "a" : "e");
+}
+function yerelTarih(d){ return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0"); }
+function tarihOku(s){ const [y,m,g]=s.split("-").map(Number); return new Date(y,m-1,g); }
+function gunEkle(d,n){ const x=new Date(d); x.setDate(x.getDate()+n); return x; }
+function sakla(k,v){ try{ localStorage.setItem(k,JSON.stringify(v)); }catch(e){} }
+function oku(k,v){ try{ const x=localStorage.getItem(k); return x?JSON.parse(x):v; }catch(e){ return v; } }
+function cihazKimligi(){
+  let c = oku("bnv_cihaz", null);
+  if(!c){ c = (crypto.randomUUID ? crypto.randomUUID() : "10000000-1000-4000-8000-100000000000".replace(/[018]/g,x=>(x^Math.random()*16>>x/4).toString(16))); sakla("bnv_cihaz", c); }
+  return c;
+}
+
+// ---------------------------------------------------------------
+// Tema
+// ---------------------------------------------------------------
+(function(){
+  const t = oku("bnv_tema", null); if(t) document.documentElement.dataset.tema = t;
+  $("temaDugme").onclick = () => {
+    const koyuMu = document.documentElement.dataset.tema ? document.documentElement.dataset.tema==="koyu" : matchMedia("(prefers-color-scheme: dark)").matches;
+    const yeni = koyuMu ? "acik" : "koyu"; document.documentElement.dataset.tema = yeni; sakla("bnv_tema", yeni);
+  };
+})();
+
+// ---------------------------------------------------------------
+// Durum
+// ---------------------------------------------------------------
+const params = new URLSearchParams(location.search);
+const ilAdi = ILLER.find(i => kod(i) === (params.get("il") || oku("bnv_il","adana"))) || "Adana";
+let VERI = {etkinlikler:[], kaynaklar:[], ilceler:[]}, MEKANLAR = [];
+let secim = { zaman: params.get("zaman") || "bugun", ilce:"", kategori:"", ucretsiz:false, ara:"", hizli:"" };
+const HIZLI = {
+  cocuk:   e => e.kategori === "Çocuk",
+  ucretsiz:e => e.ucretsiz === true,
+  aksam:   e => (e.saat||"") >= "18:00",
+  sahne:   e => ["Tiyatro","Konser","Çocuk","Festival"].includes(e.kategori),
+};
+let gidiyorum = new Set(oku("bnv_gidiyorum", []));
+let sayilar = {};
+
+function ilSecCiz(){ $("ilSec").innerHTML = ILLER.map(i => `<option value="${kod(i)}" ${i===ilAdi?"selected":""}>${String(ILLER.indexOf(i)+1).padStart(2,"0")} ${i}${HAZIR.includes(i)?"":" (yakında)"}</option>`).join(""); }
+$("ilSec").onchange = e => { sakla("bnv_il", e.target.value); location.search = "?il=" + e.target.value; };
+
+// ---------------------------------------------------------------
+// Zaman aralıkları
+// ---------------------------------------------------------------
+function araliklar(){
+  const bugun = new Date(); bugun.setHours(0,0,0,0);
+  const g = bugun.getDay();                       // 0 pazar … 6 cumartesi
+  const cmt = gunEkle(bugun, g===0 ? -1 : 6-g);   // pazar günü "hafta sonu" = bugün+dün
+  return {
+    bugun:   {ad:"Bugün",       bas:bugun, bit:bugun},
+    yarin:   {ad:"Yarın",       bas:gunEkle(bugun,1), bit:gunEkle(bugun,1)},
+    haftasonu:{ad:"Hafta sonu", bas:(g===0?bugun:cmt), bit:gunEkle(cmt,1)},
+    hafta:   {ad:"7 gün",       bas:bugun, bit:gunEkle(bugun,6)},
+    ay:      {ad:"30 gün",      bas:bugun, bit:gunEkle(bugun,29)},
+  };
+}
+// Saati geçen etkinlik: tek günlük, bugün, başlangıçtan 3 saat geçmiş (saat yoksa gün bitince)
+function bittiMi(e){
+  if(e.bitis && e.bitis !== e.tarih) return tarihOku(e.bitis) < bugunTarih();
+  const simdi = new Date();
+  if(e.tarih !== yerelTarih(simdi)) return tarihOku(e.tarih) < bugunTarih();
+  if(!e.saat) return false;
+  const [s,d] = e.saat.split(":").map(Number);
+  const bas = new Date(simdi); bas.setHours(s, d, 0, 0);
+  return simdi - bas > 3*3600*1000;
+}
+function bugunTarih(){ const b = new Date(); b.setHours(0,0,0,0); return b; }
+function aralikta(e, a){ const b = tarihOku(e.tarih), s = tarihOku(e.bitis || e.tarih); return s >= a.bas && b <= a.bit; }
+
+// ---------------------------------------------------------------
+// Çizim
+// ---------------------------------------------------------------
+function filtrele(){
+  const a = araliklar()[secim.zaman];
+  const q = kucuk(secim.ara);
+  return VERI.etkinlikler.filter(e =>
+    aralikta(e, a) &&
+    (!secim.ilce || e.ilce === secim.ilce) &&
+    (!secim.kategori || e.kategori === secim.kategori) &&
+    (!secim.ucretsiz || e.ucretsiz === true) &&
+    (!secim.hizli || HIZLI[secim.hizli](e)) &&
+    (!q || kucuk(e.baslik+" "+(e.mekan||"")+" "+(e.ozet||"")+" "+e.kaynak_ad).includes(q))
+  ).sort((x,y) => (bittiMi(x)-bittiMi(y)) || (x.tarih+(x.saat||"99")).localeCompare(y.tarih+(y.saat||"99")));
+}
+
+function kartHTML(e){
+  const d = tarihOku(e.tarih), sim = KATEGORI_SIMGE[e.kategori] || "📌";
+  const aralik = e.bitis && e.bitis !== e.tarih ? ` – ${tarihOku(e.bitis).getDate()} ${AYLAR[tarihOku(e.bitis).getMonth()]}` : "";
+  const gid = gidiyorum.has(e.id), n = (sayilar[e.id]||0);
+  const harita = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent((e.mekan||"") + " " + (e.ilce||"") + " " + ilAdi);
+  const link = e.kaynak_url ? kacis(e.kaynak_url) : "";
+  const gitYazi = e.ucretsiz === false ? "🎟️ Bilet / detay" : "Detaylar";
+  const bitti = bittiMi(e);
+  return `<article class="kart${bitti?" bitti":""}" data-id="${e.id}">
+    <div class="afis">${sim}
+      ${e.gorsel?`<img src="${kacis(e.gorsel)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:""}
+      <div class="takvim"><b>${d.getDate()}</b><small>${AYLAR[d.getMonth()]}</small></div>
+    </div>
+    <div>
+      ${bitti?'<span class="etiket bitti-etiket">Bitti</span>':""}
+      <h3>${link?`<a href="${link}" target="_blank" rel="noopener">${kacis(e.baslik)}</a>`:kacis(e.baslik)}</h3>
+      <div class="bilgi">
+        <span>${sim} ${kacis(e.kategori)}</span>
+        ${e.saat?`<span>🕒 ${kacis(e.saat)}</span>`:""}
+        ${aralik?`<span>📆 ${d.getDate()} ${AYLAR[d.getMonth()]}${aralik}</span>`:""}
+        ${e.mekan?`<span>📍 ${kacis(e.mekan)}</span>`:""}
+        ${e.ilce?`<span>${kacis(e.ilce)}</span>`:""}
+      </div>
+      <div style="margin-top:6px">${e.ucretsiz===true?'<span class="etiket ucretsiz">Ücretsiz</span> ':e.ucretsiz===false?'<span class="etiket">Ücretli</span> ':""}<span class="etiket">${kacis(e.kaynak_ad)}</span></div>
+      ${e.ozet?`<p class="not" style="margin:8px 0 0">${kacis(e.ozet)}</p>`:""}
+      <div class="eylem">
+        ${link?`<a class="dugme git" href="${link}" target="_blank" rel="noopener">${gitYazi} ↗</a>`:""}
+        <button class="dugme gidiyorum ${gid?"aktif":""}" data-eylem="git">${gid?"✓ Gidiyorum":"🙋 Gidiyorum"}${n?` · ${n}`:""}</button>
+        <button class="dugme" data-eylem="takvim">📅 Takvime ekle</button>
+        <button class="dugme" data-eylem="paylas">↗ Paylaş</button>
+        <a class="dugme" href="${harita}" target="_blank" rel="noopener">🗺️ Yol tarifi</a>
+      </div>
+    </div>
+  </article>`;
+}
+
+function listeCiz(){
+  const l = filtrele(), a = araliklar()[secim.zaman];
+  if(!l.length){
+    const sonraki = VERI.etkinlikler.filter(e => tarihOku(e.bitis||e.tarih) > a.bit).length;
+    $("liste").innerHTML = `<div class="bos">${a.ad} için bu filtrelere uyan etkinlik bulamadık.
+      ${sonraki?`Daha ileri tarihte <b>${sonraki}</b> etkinlik var — <a href="#" data-zaman="ay">30 güne bak</a>.`:""}
+      Aşağıdaki <a href="#mekanBolum">her gün açık yerlere</a> göz atabilirsiniz.</div>`;
+    return;
+  }
+  let html = "", son = "";
+  for(const e of l){
+    const gunAnahtar = e.tarih < yerelTarih(a.bas) ? yerelTarih(a.bas) : e.tarih;   // devam eden etkinlikler bugünün altında
+    if(gunAnahtar !== son){
+      const d = tarihOku(gunAnahtar);
+      html += `<div class="gun-baslik">${GUNLER[d.getDay()]}, ${d.getDate()} ${AYLAR[d.getMonth()]}</div>`;
+      son = gunAnahtar;
+    }
+    html += kartHTML(e);
+  }
+  $("liste").innerHTML = html;
+}
+
+function zamanCiz(){
+  const a = araliklar();
+  $("zamanSerit").innerHTML = Object.entries(a).map(([k,v]) => {
+    const n = VERI.etkinlikler.filter(e => aralikta(e,v)).length;
+    return `<button class="dugme ${secim.zaman===k?"secili":""}" data-zaman="${k}">${v.ad} <small>(${n})</small></button>`;
+  }).join("");
+}
+
+function filtreCiz(){
+  const ilceler = VERI.ilceler || [...new Set(VERI.etkinlikler.map(e=>e.ilce).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"tr"));
+  $("ilceSec").innerHTML = `<option value="">Tüm ilçeler</option>` + ilceler.map(i=>`<option>${kacis(i)}</option>`).join("");
+  $("formIlce").innerHTML = `<option value="">Seçin</option>` + ilceler.map(i=>`<option>${kacis(i)}</option>`).join("");
+  const kat = Object.keys(KATEGORI_SIMGE);
+  $("kategoriSec").innerHTML = `<option value="">Tüm türler</option>` + kat.map(k=>`<option value="${k}">${KATEGORI_SIMGE[k]} ${k}</option>`).join("");
+  $("formKategori").innerHTML = kat.map(k=>`<option value="${k}">${KATEGORI_SIMGE[k]} ${k}</option>`).join("");
+}
+
+function mekanCiz(){
+  const l = secim.ilce ? MEKANLAR.filter(m=>m.ilce===secim.ilce) : MEKANLAR;
+  $("mekanlar").innerHTML = (l.length?l:MEKANLAR).map(m => `<div class="mekan">
+    <div class="foto">${kacis(m.simge||"📍")}${m.gorsel?`<img src="${kacis(m.gorsel)}" alt="${kacis(m.ad)}" loading="lazy" onerror="this.remove()">`:""}</div>
+    <h4>${kacis(m.ad)}</h4>
+    <div class="bilgi"><span>${kacis(m.tur)}</span><span>${kacis(m.ilce)}</span>${m.ucretsiz?'<span class="etiket ucretsiz">Ücretsiz</span>':""}</div>
+    <p>${kacis(m.aciklama)}</p>
+    <p class="baglantilar"><a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(m.ad+" "+m.ilce+" "+ilAdi)}" target="_blank" rel="noopener">🗺️ Haritada aç</a>
+      ${m.bilgi_url?`<a href="${kacis(m.bilgi_url)}" target="_blank" rel="noopener">ℹ️ Hakkında</a>`:""}</p>
+  </div>`).join("");
+}
+
+function kaynakCiz(){
+  const k = VERI.kaynaklar || [];
+  $("kaynakTablo").innerHTML = `<thead><tr><th>Kaynak</th><th>Tür</th><th>Durum</th><th>Etkinlik</th></tr></thead><tbody>` +
+    k.map(x => `<tr><td>${x.url?`<a href="${kacis(x.url)}" target="_blank" rel="noopener">${kacis(x.ad)}</a>`:kacis(x.ad)}</td><td>${kacis(x.tur)}</td>
+      <td class="${x.durum==="çalışıyor"?"durum-ok":"durum-yok"}">${kacis(x.durum)}</td><td>${x.etkinlik_sayisi ?? "—"}</td></tr>`).join("") + "</tbody>";
+}
+
+async function gecmisCiz(){
+  let arsiv = [];
+  try{ arsiv = await fetch(`veri/arsiv/${kod(ilAdi)}.json`, {cache:"no-cache"}).then(r=>r.ok?r.json():[]); }catch(err){}
+  if(!arsiv.length){ $("gecmisListe").innerHTML = `<p class="not">Henüz arşivde etkinlik yok. Süresi dolan etkinlikler burada birikecek.</p>`; return; }
+  const satir = e => { const d = tarihOku(e.tarih);
+    return `<tr><td>${d.getDate()} ${AYLAR[d.getMonth()]} ${d.getFullYear()}</td><td>${e.kaynak_url?`<a href="${kacis(e.kaynak_url)}" target="_blank" rel="noopener">${kacis(e.baslik)}</a>`:kacis(e.baslik)}</td><td>${kacis(e.kategori)}</td><td>${kacis(e.mekan||e.ilce||"")}</td></tr>`; };
+  $("gecmisListe").innerHTML = `<div class="tablo-kap"><table><thead><tr><th>Tarih</th><th>Etkinlik</th><th>Tür</th><th>Yer</th></tr></thead><tbody>${arsiv.slice(0,200).map(satir).join("")}</tbody></table></div>`;
+}
+
+function biletCiz(){
+  const k = kod(ilAdi);
+  const siteler = [["etkinlik.io","https://etkinlik.io/"+k],["Bubilet","https://www.bubilet.com.tr/"+k],
+    ["Biletinial","https://biletinial.com/tr-tr/sehrineozel/"+k],["Biletino","https://biletino.com/tr/city/"+k+"/"]];
+  $("biletLinkleri").innerHTML = siteler.map(([ad,u]) => `<a class="dugme" href="${u}" target="_blank" rel="noopener">${ad} · ${ilAdi} ↗</a>`).join("");
+}
+
+function hepsiniCiz(){ zamanCiz(); listeCiz(); }
+
+// ---------------------------------------------------------------
+// "Bana bir şey öner"
+// ---------------------------------------------------------------
+$("rastgeleDugme").onclick = () => {
+  const a = araliklar();
+  let havuz = VERI.etkinlikler.filter(e => aralikta(e, a.bugun) && !bittiMi(e));
+  let not = "Bugün için önerimiz:";
+  if(!havuz.length){ havuz = VERI.etkinlikler.filter(e => aralikta(e, a.hafta) && !bittiMi(e)); not = "Bugün etkinlik yok, ama bu hafta şuna ne dersin:"; }
+  if(!havuz.length){
+    const m = MEKANLAR[Math.floor(Math.random()*MEKANLAR.length)];
+    $("oneri").innerHTML = m ? `<p class="not">Bu hafta etkinlik bulamadık; şuraya gitmeye ne dersin:</p><div class="mekan"><div class="foto">${kacis(m.simge||"📍")}${m.gorsel?`<img src="${kacis(m.gorsel)}" alt="" onerror="this.remove()">`:""}</div><h4>${kacis(m.ad)}</h4><p>${kacis(m.aciklama)}</p></div>` : "";
+    return;
+  }
+  const e = havuz[Math.floor(Math.random()*havuz.length)];
+  $("oneri").innerHTML = `<p class="not">${not} <a href="#" id="oneriKapat">kapat</a></p>` + kartHTML(e);
+  $("oneriKapat").onclick = ev => { ev.preventDefault(); $("oneri").innerHTML = ""; };
+};
+
+// ---------------------------------------------------------------
+// Kart düğmeleri
+// ---------------------------------------------------------------
+document.addEventListener("click", ev => {
+  const h = ev.target.closest("[data-hizli]");
+  if(h){
+    secim.hizli = secim.hizli === h.dataset.hizli ? "" : h.dataset.hizli;
+    document.querySelectorAll("[data-hizli]").forEach(b => b.classList.toggle("secili", b.dataset.hizli === secim.hizli));
+    listeCiz(); return;
+  }
+  const z = ev.target.closest("[data-zaman]");
+  if(z){ ev.preventDefault(); secim.zaman = z.dataset.zaman; hepsiniCiz(); return; }
+  const d = ev.target.closest("[data-eylem]"); if(!d) return;
+  const id = d.closest(".kart").dataset.id, e = VERI.etkinlikler.find(x=>x.id===id); if(!e) return;
+  if(d.dataset.eylem==="git") gidiyorumDegistir(e);
+  if(d.dataset.eylem==="takvim") takvimeEkle(e);
+  if(d.dataset.eylem==="paylas") paylas(e);
+});
+
+async function gidiyorumDegistir(e){
+  const once = gidiyorum.has(e.id);
+  if(once){ gidiyorum.delete(e.id); sayilar[e.id] = Math.max(0,(sayilar[e.id]||1)-1); }
+  else { gidiyorum.add(e.id); sayilar[e.id] = (sayilar[e.id]||0)+1; }
+  sakla("bnv_gidiyorum", [...gidiyorum]); listeCiz();
+  try{
+    const url = SUPABASE_URL + "/rest/v1/rpc/" + (once ? "gidiyorum_vazgec" : "gidiyorum_ekle");
+    await fetch(url, {method:"POST", headers:{apikey:SUPABASE_ANAHTAR,"Content-Type":"application/json"},
+      body: JSON.stringify({p_etkinlik:e.id, p_cihaz:cihazKimligi()})});
+  }catch(err){ /* veritabanına ulaşılamazsa seçim yine de bu cihazda kalır */ }
+}
+
+async function sayilariGetir(){
+  try{
+    const r = await fetch(SUPABASE_URL + "/rest/v1/gidiyorum_sayilari?select=etkinlik_id,sayi", {headers:{apikey:SUPABASE_ANAHTAR}});
+    if(!r.ok) return;
+    for(const s of await r.json()) sayilar[s.etkinlik_id] = s.sayi;
+    listeCiz();
+  }catch(err){}
+}
+
+function takvimeEkle(e){
+  const t = e.tarih.replace(/-/g,"");
+  const bitis = yerelTarih(gunEkle(tarihOku(e.bitis||e.tarih),1)).replace(/-/g,"");
+  let bas = `DTSTART;VALUE=DATE:${t}`, bit = `DTEND;VALUE=DATE:${bitis}`;
+  if(e.saat && !e.bitis){ const s=e.saat.replace(":",""); bas=`DTSTART;TZID=Europe/Istanbul:${t}T${s}00`; const h=String(Math.min(23,+e.saat.slice(0,2)+2)).padStart(2,"0"); bit=`DTEND;TZID=Europe/Istanbul:${t}T${h}${e.saat.slice(3)}00`; }
+  const temiz = s => String(s||"").replace(/[\\,;]/g, m=>"\\"+m).replace(/\n/g,"\\n");
+  const ics = ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//EtkinlikVar//TR","BEGIN:VEVENT",`UID:${e.id}@etkinlikvar`,
+    `DTSTAMP:${new Date().toISOString().replace(/[-:]/g,"").slice(0,15)}Z`, bas, bit,
+    `SUMMARY:${temiz(e.baslik)}`, `LOCATION:${temiz([e.mekan,e.ilce,ilAdi].filter(Boolean).join(", "))}`,
+    `DESCRIPTION:${temiz((e.ozet||"")+" Kaynak: "+(e.kaynak_url||e.kaynak_ad))}`,"END:VEVENT","END:VCALENDAR"].join("\r\n");
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([ics],{type:"text/calendar"}));
+  a.download = "etkinlik.ics"; a.click(); setTimeout(()=>URL.revokeObjectURL(a.href), 2000);
+}
+
+function paylas(e){
+  const d = tarihOku(e.tarih);
+  const metin = `${e.baslik} — ${d.getDate()} ${AYLAR[d.getMonth()]}${e.saat?" "+e.saat:""}, ${e.mekan||e.ilce||ilAdi}`;
+  const url = location.origin + location.pathname + "?il=" + kod(ilAdi);
+  if(navigator.share){ navigator.share({title:e.baslik, text:metin, url}).catch(()=>{}); }
+  else window.open("https://wa.me/?text=" + encodeURIComponent(metin + " " + url), "_blank", "noopener");
+}
+
+// ---------------------------------------------------------------
+// Etkinliğini ekle formu
+// ---------------------------------------------------------------
+$("ekleForm").onsubmit = async ev => {
+  ev.preventDefault();
+  const f = Object.fromEntries(new FormData(ev.target));
+  const kayit = {il:kod(ilAdi), baslik:f.baslik.trim(), tarih:f.tarih, saat:f.saat||null, ilce:f.ilce, mekan:f.mekan.trim(),
+    kategori:f.kategori, ucretsiz:f.ucretsiz==="true", aciklama:f.aciklama.trim()||null, link:f.link.trim()||null,
+    duzenleyen:f.duzenleyen.trim(), cihaz:cihazKimligi()};
+  $("formSonuc").textContent = "Gönderiliyor…";
+  try{
+    const r = await fetch(SUPABASE_URL + "/rest/v1/etkinlik_oneri", {method:"POST",
+      headers:{apikey:SUPABASE_ANAHTAR,"Content-Type":"application/json",Prefer:"return=minimal"}, body:JSON.stringify(kayit)});
+    if(!r.ok) throw new Error(await r.text());
+    $("formSonuc").textContent = "Teşekkürler! Kontrol edildikten sonra yayınlanacak.";
+    ev.target.reset();
+  }catch(err){
+    $("formSonuc").textContent = "Şu an gönderilemedi. Lütfen biraz sonra tekrar deneyin.";
+  }
+};
+
+// ---------------------------------------------------------------
+// Filtre olayları
+// ---------------------------------------------------------------
+$("gecmis").addEventListener("toggle", e => { if(e.target.open && !e.target.dataset.yuklendi){ e.target.dataset.yuklendi = 1; gecmisCiz(); } });
+$("ilceSec").onchange = e => { secim.ilce = e.target.value; listeCiz(); mekanCiz(); };
+$("kategoriSec").onchange = e => { secim.kategori = e.target.value; listeCiz(); };
+$("ucretsizSec").onchange = e => { secim.ucretsiz = e.target.checked; listeCiz(); };
+$("ara").oninput = e => { secim.ara = e.target.value; listeCiz(); };
+
+// ---------------------------------------------------------------
+// Açılış
+// ---------------------------------------------------------------
+(async function(){
+  try{ HAZIR = await fetch("veri/hazir.json", {cache:"no-cache"}).then(r=>r.json()); }catch(err){ HAZIR = ["Adana"]; }
+  ilSecCiz();
+  document.title = `${ilAdi} etkinlikleri · Bugün ne yapsam? — Etkinlik Var`;
+  if(!HAZIR.includes(ilAdi)){
+    $("ilIcerik").classList.add("gizli"); $("rastgeleDugme").classList.add("gizli");
+    $("yakinda").classList.remove("gizli"); $("yakindaIl").textContent = ilAdi;
+    $("hazirIller").innerHTML = HAZIR.map(i=>`<a href="?il=${kod(i)}">${i}</a>`).join(", ");
+    $("baslik").textContent = `${ilAdi} yakında`;
+    return;
+  }
+  $("baslik").textContent = `${de(ilAdi)} bugün ne yapsam?`;
+  try{
+    const [v, m] = await Promise.all([
+      fetch(`veri/${kod(ilAdi)}.json`, {cache:"no-cache"}).then(r=>r.json()),
+      fetch(`veri/${kod(ilAdi)}_mekanlar.json`).then(r=>r.ok?r.json():[]).catch(()=>[]),
+    ]);
+    VERI = v; MEKANLAR = m;
+  }catch(err){
+    $("liste").innerHTML = `<div class="bos">Etkinlik listesi yüklenemedi. Sayfayı yenilemeyi deneyin.</div>`;
+  }
+  if(VERI.guncelleme){
+    const g = new Date(VERI.guncelleme);
+    $("guncelleme").textContent = `Son güncelleme: ${g.getDate()} ${AYLAR[g.getMonth()]} ${String(g.getHours()).padStart(2,"0")}:${String(g.getMinutes()).padStart(2,"0")} · ${VERI.etkinlikler.length} etkinlik`;
+  }
+  filtreCiz(); hepsiniCiz(); mekanCiz(); kaynakCiz(); biletCiz(); sayilariGetir();
+})();
+</script>
+</body>
+</html>

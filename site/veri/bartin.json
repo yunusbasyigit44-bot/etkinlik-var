@@ -1,0 +1,100 @@
+{
+ "il": "bartin",
+ "guncelleme": "2026-10-29T16:46+03:00",
+ "ilceler": [
+  "Merkez",
+  "Amasra",
+  "Kurucaşile",
+  "Ulus"
+ ],
+ "etkinlikler": [
+  {
+   "id": "c28dd65d4bfe",
+   "baslik": "Itec Conference 2026",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Merkez",
+   "mekan": "None",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bartın Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bartin.edu.tr/etkinlikler/itec-conference-2026.html",
+   "gorsel": "https://cdn.bartin.edu.tr/w3/1cd2b98daf5d5306d70ea7aa1eb84d42/whatsappimage20260609at09.38.54_tifil.jpeg"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Bartın Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.bartin.edu.tr/",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Amasra Belediyesi",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor (sonraki tur)"
+  },
+  {
+   "ad": "Bartın Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.bartin.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "site hata veriyor (500)"
+  },
+  {
+   "ad": "Bartın Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Bartın İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://bartin.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller (Amasra Turizm ve Kültür Festivali…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/bartin",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

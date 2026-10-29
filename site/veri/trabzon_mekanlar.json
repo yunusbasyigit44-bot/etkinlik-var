@@ -1,0 +1,104 @@
+[
+ {
+  "ad": "Sümela Manastırı",
+  "ilce": "Maçka",
+  "tur": "tarihi",
+  "simge": "⛪",
+  "ucretsiz": false,
+  "vikipedi": "Altındere Vadisi Millî Parkı",
+  "aciklama": "Altındere Vadisi'nde kayalığa oyulmuş, Karadeniz'in en ünlü manastırı. Yürüyüşle ya da araçla çıkılır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Alt%C4%B1ndere_Vadisi_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/61750_Alt%C4%B1ndere-Ma%C3%A7ka-Trabzon%2C_Turkey_-_panoramio_%2818%29.jpg/330px-61750_Alt%C4%B1ndere-Ma%C3%A7ka-Trabzon%2C_Turkey_-_panoramio_%2818%29.jpg"
+ },
+ {
+  "ad": "Ayasofya Müzesi",
+  "ilce": "Ortahisar",
+  "tur": "müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Ayasofya (Trabzon)",
+  "aciklama": "Deniz kıyısındaki 13. yüzyıl Bizans kilisesi; duvarlarındaki freskleriyle ünlü.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ayasofya_(Trabzon)",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Hagia_Sophia_Trabzon.jpg/330px-Hagia_Sophia_Trabzon.jpg"
+ },
+ {
+  "ad": "Uzungöl",
+  "ilce": "Çaykara",
+  "tur": "doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": "Uzungöl",
+  "aciklama": "Dağlarla çevrili göl kıyısında yürüyüş ve çay molası için en çok tercih edilen yer.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Uzung%C3%B6l",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Uzung%C3%B6l%2C_Trabzon.jpg/330px-Uzung%C3%B6l%2C_Trabzon.jpg"
+ },
+ {
+  "ad": "Atatürk Köşkü",
+  "ilce": "Ortahisar",
+  "tur": "müze",
+  "simge": "🏠",
+  "ucretsiz": false,
+  "vikipedi": "Trabzon Atatürk Köşkü",
+  "aciklama": "Ormanlık bir tepedeki, Atatürk'ün Trabzon'da kaldığı köşk; bugün müze olarak gezilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Trabzon_Atat%C3%BCrk_K%C3%B6%C5%9Fk%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Atat%C3%BCrk_K%C3%B6%C5%9Fk%C3%BC-Trabzon-01.jpg/330px-Atat%C3%BCrk_K%C3%B6%C5%9Fk%C3%BC-Trabzon-01.jpg"
+ },
+ {
+  "ad": "Trabzon Kalesi ve Zağnos Vadisi",
+  "ilce": "Ortahisar",
+  "tur": "tarihi",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Trabzon Kalesi",
+  "aciklama": "Eski şehri çevreleyen surlar ve vadi boyunca uzanan yürüyüş yolu.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Trabzon_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Trabzon_Kalesi.jpeg/330px-Trabzon_Kalesi.jpeg"
+ },
+ {
+  "ad": "Boztepe",
+  "ilce": "Ortahisar",
+  "tur": "doğa",
+  "simge": "🌄",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehri ve denizi tepeden izleyebileceğiniz çay bahçeleriyle bilinen seyir tepesi."
+ },
+ {
+  "ad": "Trabzon Müzesi (Kostaki Köşkü)",
+  "ilce": "Ortahisar",
+  "tur": "müze",
+  "simge": "🖼️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Tarihi bir konakta bölgenin arkeoloji ve etnografya eserlerini sergileyen müze."
+ },
+ {
+  "ad": "Sera Gölü",
+  "ilce": "Çaykara",
+  "tur": "doğa",
+  "simge": "🌲",
+  "ucretsiz": true,
+  "vikipedi": "Sera Gölü",
+  "aciklama": "Yüksek yaylalarda, çevresi ormanla kaplı sakin bir tabiat parkı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sera_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Sera_G%C3%B6l%C3%BC.jpg/330px-Sera_G%C3%B6l%C3%BC.jpg"
+ },
+ {
+  "ad": "Kadırga Yaylası",
+  "ilce": "Yomra",
+  "tur": "doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Yaz aylarında şenliklerin yapıldığı, sis ve çayırlarıyla ünlü yayla."
+ },
+ {
+  "ad": "Atapark ve Meydan Çarşısı",
+  "ilce": "Ortahisar",
+  "tur": "çarşı",
+  "simge": "🛍️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Şehrin kalbinde alışveriş, kafe ve Trabzon'un meşhur ekmek ve hamsi tatlarını bulabileceğiniz bölge."
+ }
+]

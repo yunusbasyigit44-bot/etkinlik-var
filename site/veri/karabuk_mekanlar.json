@@ -1,0 +1,87 @@
+[
+ {
+  "ad": "Safranbolu Tarihi Evleri",
+  "ilce": "Safranbolu",
+  "tur": "Tarihi kent",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": "Safranbolu",
+  "aciklama": "UNESCO Dünya Mirası listesindeki Osmanlı konakları, dar sokaklar ve çarşıyla yürüyerek gezilen açık hava müzesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Safranbolu",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Safranbolu_traditional_houses.jpg/330px-Safranbolu_traditional_houses.jpg"
+ },
+ {
+  "ad": "Cinci Han",
+  "ilce": "Safranbolu",
+  "tur": "Tarihi han",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Cinci Han (Safranbolu)",
+  "aciklama": "17. yüzyıldan kalma kervansaray; bugün otel ve çarşı olarak hizmet veriyor."
+ },
+ {
+  "ad": "İncekaya Su Kemeri",
+  "ilce": "Safranbolu",
+  "tur": "Tarihi yapı",
+  "simge": "🌉",
+  "ucretsiz": true,
+  "vikipedi": "İncekaya Su Kemeri",
+  "aciklama": "Tokatlı Kanyonu yakınındaki, vadinin üzerinden geçen tarihi su kemeri ve seyir noktası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C4%B0ncekaya_Su_Kemeri",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%C4%B0ncekaya_Su_kemeri_%282013%29_-_panoramio.jpg/330px-%C4%B0ncekaya_Su_kemeri_%282013%29_-_panoramio.jpg"
+ },
+ {
+  "ad": "Tokatlı Kanyonu",
+  "ilce": "Safranbolu",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": false,
+  "vikipedi": "Tokatlı Kanyonu",
+  "aciklama": "Cam teras ve yürüyüş yolları olan kanyon; vadiyi yüksekten izlemek mümkün."
+ },
+ {
+  "ad": "Bulak Mencilis Mağarası",
+  "ilce": "Safranbolu",
+  "tur": "Mağara",
+  "simge": "🕳️",
+  "ucretsiz": false,
+  "vikipedi": "Bulak Mencilis Mağarası",
+  "aciklama": "Sarkıt ve dikitlerle dolu, gezi parkuru düzenlenmiş büyük bir mağara."
+ },
+ {
+  "ad": "Hadrianopolis Antik Kenti",
+  "ilce": "Eskipazar",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": true,
+  "vikipedi": "Hadrianopolis (Eskipazar)",
+  "aciklama": "Eskipazar'daki Roma ve Bizans dönemi antik kent; kazılarda mozaik ve kalıntılar bulunuyor."
+ },
+ {
+  "ad": "Yörük Köyü",
+  "ilce": "Safranbolu",
+  "tur": "Köy",
+  "simge": "🏡",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Eski Safranbolu evlerini koruyan, kasabadan sakin bir köy; yöresel yemekleriyle ünlü."
+ },
+ {
+  "ad": "Karabük Demir Çelik Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏭",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Karabük'ün sanayi tarihini, ilk demir-çelik fabrikasını ve çalışanların hayatını anlatan kent müzesi."
+ },
+ {
+  "ad": "Safranbolu Çarşısı",
+  "ilce": "Safranbolu",
+  "tur": "Çarşı",
+  "simge": "🛍️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Safranbolu lokumu, safran ve el sanatları satan Arasta ve Eski Çarşı."
+ }
+]

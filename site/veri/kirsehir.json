@@ -1,0 +1,128 @@
+{
+ "il": "kirsehir",
+ "guncelleme": "2026-10-29T16:44+03:00",
+ "ilceler": [
+  "Merkez",
+  "Akçakent",
+  "Akpınar",
+  "Boztepe",
+  "Çiçekdağı",
+  "Kaman",
+  "Mucur"
+ ],
+ "etkinlikler": [
+  {
+   "id": "90a8f8d8912f",
+   "baslik": "Cumhuriyet Ormanı Ağaç Dikimi",
+   "tarih": "2026-10-29",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Merkez",
+   "mekan": "Kırşehir Belediyesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırşehir Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/cumhuriyet-ormani-agac-dikimi",
+   "gorsel": "https://www.kirsehir.bel.tr/storage/events/836faJWvicdBcjN52mvYBeOVPx1fAwnJCd1GSZyJ.png"
+  },
+  {
+   "id": "9c7ba72b4664",
+   "baslik": "29 Ekim Cumhuriyet Bayramı Konseri",
+   "tarih": "2026-10-29",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Merkez",
+   "mekan": "Kırşehir Belediyesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırşehir Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/29-ekim-cumhuriyet-bayrami-konseri",
+   "gorsel": "https://www.kirsehir.bel.tr/storage/events/qF47kC3BmtgPCnHm08cRJJFCDg8cAKXaOvvCybiy.png"
+  },
+  {
+   "id": "eccd2a1d9678",
+   "baslik": "Cumhuriyet Kampı",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": "18:00",
+   "ilce": "Merkez",
+   "mekan": "Kırşehir Belediyesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırşehir Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/cumhuriyet-kampi",
+   "gorsel": "https://www.kirsehir.bel.tr/storage/events/o9OqbKs5MWbcoxJXaeWfa6QJj5Q7u1Fd9OEnl5av.png"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Kırşehir Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.kirsehir.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 3,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Kaman, Mucur, Çiçekdağı belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi bulunamadı"
+  },
+  {
+   "ad": "Kırşehir Ahi Evran Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.ahievran.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi bulunamadı"
+  },
+  {
+   "ad": "Kırşehir Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.kirsehir.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Kırşehir İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://kirsehir.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Neşet Ertaş Anma Programı, Ahilik Haftası, Kaman Ceviz Festivali…",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/kirsehir",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

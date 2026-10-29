@@ -1,0 +1,100 @@
+{
+ "il": "amasya",
+ "guncelleme": "2026-10-29T16:38+03:00",
+ "ilceler": [
+  "Merkez",
+  "Göynücek",
+  "Gümüşhacıköy",
+  "Hamamözü",
+  "Merzifon",
+  "Suluova",
+  "Taşova"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "6 ilçe kaymakamlığı",
+   "tur": "kaymakamlik",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Amasya Belediyesi",
+   "tur": "belediye",
+   "url": "https://amasya.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Amasya Belediyesi Şehir Tiyatrosu",
+   "tur": "belediye",
+   "url": "https://tiyatro.amasya.bel.tr/",
+   "etkinlik_sayisi": 0,
+   "durum": "site hata veriyor (500)"
+  },
+  {
+   "ad": "Amasya Elması Festivali, Uluslararası Amasya Kültür ve Sanat Sempozyumu",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "Amasya Valiliği",
+   "tur": "valilik",
+   "url": "https://www.amasya.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Amasya Üniversitesi",
+   "tur": "universite",
+   "url": "https://takvim.amasya.edu.tr/",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi var ama şu an boş (JS ile yükleniyor)"
+  },
+  {
+   "ad": "Amasya İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://amasya.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Merzifon, Suluova, Gümüşhacıköy, Taşova belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/amasya",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

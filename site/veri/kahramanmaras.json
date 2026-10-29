@@ -1,0 +1,185 @@
+{
+ "il": "kahramanmaras",
+ "guncelleme": "2026-10-29T16:45+03:00",
+ "ilceler": [
+  "Afşin",
+  "Andırın",
+  "Çağlayancerit",
+  "Dulkadiroğlu",
+  "Ekinözü",
+  "Elbistan",
+  "Göksun",
+  "Nurhak",
+  "Onikişubat",
+  "Pazarcık",
+  "Türkoğlu"
+ ],
+ "etkinlikler": [
+  {
+   "id": "0e9dc63a1e25",
+   "baslik": "Türk Musikisi Federasyonu \"4. Korolar Festivali\"",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Onikişubat",
+   "mekan": "Yunus Emre Kongre ve Kültür Merkezi Sezai Karakoç Konferans Salonu",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Türk Musikisi Federasyonu",
+   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=120",
+   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2610161611530914.jpeg"
+  },
+  {
+   "id": "e67dcc92ca06",
+   "baslik": "Kahramanmaraş 4. Korolar Festivali (30-31 Ekim 2026)",
+   "tarih": "2026-10-30",
+   "bitis": "2026-10-31",
+   "saat": null,
+   "ilce": null,
+   "mekan": null,
+   "kategori": "Konser",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "Kahramanmaraş İl Kültür ve Turizm Müdürlüğü",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://kahramanmaras.ktb.gov.tr/TR-476675/kahramanmaras-4-korolar-festivali-30-31-ekim-2026.html",
+   "gorsel": null
+  },
+  {
+   "id": "b3752a1bdff5",
+   "baslik": "Konferans \"Dünya Ekonomisinde Güncel Gelişmeler\"",
+   "tarih": "2026-11-02",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Onikişubat",
+   "mekan": "Arslanbey Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Göksun Uygulamalı Bilimler Yüksekokulu Müdürlüğü",
+   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=129",
+   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2610271512083049.jpg"
+  },
+  {
+   "id": "a49611c293d3",
+   "baslik": "Gençliğin Üretim Çağı \"Bölgesel Kariyer Fuarı\"",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "09:30",
+   "ilce": "Onikişubat",
+   "mekan": "Yunus Emre Kongre ve Kültür Merkezi Sezai Karakoç Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "T.C. Çalışma ve Sosyal Güvenlik Bakanlığı, KSÜ, İŞKUR, Gençliğin Üretim Çağı (GÜÇ)",
+   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=127",
+   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2610261400297963.jpg"
+  },
+  {
+   "id": "4b27d8a1e404",
+   "baslik": "4. Geleneksel Öğretmenler Günü Koşusu",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Onikişubat",
+   "mekan": "Avşar Yerleşkesi",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": "Spor Bilimleri Fakültesi",
+   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=128",
+   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2610261500091244.jpg"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.ksu.edu.tr/",
+   "etkinlik_sayisi": 4,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Kahramanmaraş İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://kahramanmaras.ktb.gov.tr",
+   "etkinlik_sayisi": 2,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Dulkadiroğlu Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.dulkadiroglu.bel.tr/sosyal-ve-kulturel",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok; sadece haber"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi yok"
+  },
+  {
+   "ad": "Kahramanmaraş Büyükşehir Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.kahramanmaras.bel.tr/etkinlik",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası var ama şu an boş ('Etkinlik bulunamadı'); dolunca okunacak"
+  },
+  {
+   "ad": "Kahramanmaraş Edebiyat Şehri etkinlikleri, Dondurma / Tarhana festivalleri…",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "Kahramanmaraş Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.kahramanmaras.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Kahramanmaraş İstiklal Üniversitesi",
+   "tur": "universite",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi bulunamadı"
+  },
+  {
+   "ad": "Onikişubat Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.onikisubat.bel.tr/Etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası var ama şu an boş"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/kahramanmaras",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

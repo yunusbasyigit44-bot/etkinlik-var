@@ -1,0 +1,90 @@
+[
+ {
+  "ad": "Macahel (Camili) Vadisi",
+  "ilce": "Borçka",
+  "tur": "Doğa / biyosfer",
+  "simge": "🌲",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "UNESCO Biyosfer Rezervi olan, geleneksel köyleri ve yeşil ormanlarıyla sakin bir vadi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Camili%2C_Bor%C3%A7ka"
+ },
+ {
+  "ad": "Karagöl",
+  "ilce": "Borçka",
+  "tur": "Doğa / tabiat parkı",
+  "simge": "🏞️",
+  "ucretsiz": false,
+  "vikipedi": "Karagöl (Borçka)",
+  "aciklama": "Ormanla çevrili, yansımalarıyla ünlü göl; yürüyüş ve piknik için ideal.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Karag%C3%B6l_(Bor%C3%A7ka)",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Karagol_in_Borcka.jpg/330px-Karagol_in_Borcka.jpg"
+ },
+ {
+  "ad": "Kafkasör Yaylası",
+  "ilce": "Merkez",
+  "tur": "Yayla",
+  "simge": "🐂",
+  "ucretsiz": true,
+  "vikipedi": "Kafkasör Yaylası",
+  "aciklama": "Her yaz Kafkasör Kültür ve Sanat Festivali ile boğa güreşlerine ev sahipliği yapan yayla."
+ },
+ {
+  "ad": "Artvin Kalesi",
+  "ilce": "Merkez",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Artvin Kalesi",
+  "aciklama": "Kentin tepesinde duran tarihî kale; Çoruh vadisi manzarası sunar.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Artvin_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Artvin_Castle_4045.jpg/330px-Artvin_Castle_4045.jpg"
+ },
+ {
+  "ad": "Şavşat Karagöl-Sahara Milli Parkı",
+  "ilce": "Şavşat",
+  "tur": "Milli park",
+  "simge": "🌳",
+  "ucretsiz": false,
+  "vikipedi": "Karagöl-Sahara Milli Parkı",
+  "aciklama": "Sonbaharda renk cümbüşüne dönen çam ormanları ve göllerle dolu milli park."
+ },
+ {
+  "ad": "Hopa Sahili",
+  "ilce": "Hopa",
+  "tur": "Sahil",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Karadeniz kıyısında, yürüyüş ve çay keyfi için sevilen sahil kasabası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Hopa"
+ },
+ {
+  "ad": "Taşlıca (Tbeti) Kilisesi",
+  "ilce": "Yusufeli",
+  "tur": "Tarihi yer",
+  "simge": "⛪",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Yusufeli çevresindeki Gürcü krallıklarından kalma tarihî kilise kalıntılarından biri."
+ },
+ {
+  "ad": "Yusufeli Barajı ve Çoruh Vadisi",
+  "ilce": "Yusufeli",
+  "tur": "Doğa / baraj",
+  "simge": "🏔️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Türkiye'nin en yüksek barajlarından biri; rafting ve kanyon manzaralarıyla bilinen vadi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Yusufeli_Baraj%C4%B1_ve_Hidroelektrik_Santrali"
+ },
+ {
+  "ad": "Artvin Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Bölgenin tarihî ve etnografik eserlerinin sergilendiği şehir müzesi."
+ }
+]

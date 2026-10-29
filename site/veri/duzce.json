@@ -1,0 +1,87 @@
+{
+ "il": "duzce",
+ "guncelleme": "2026-10-29T16:46+03:00",
+ "ilceler": [
+  "Merkez",
+  "Akçakoca",
+  "Cumayeri",
+  "Çilimli",
+  "Gölyaka",
+  "Gümüşova",
+  "Kaynaşlı",
+  "Yığılca"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Akçakoca Belediyesi ve diğer ilçe belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor (sonraki tur)"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Düzce Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.duzce.bel.tr/duyurular",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular imar/idari; etkinlik takvimi yok"
+  },
+  {
+   "ad": "Düzce Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.duzce.gov.tr/duyurular",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Düzce Üniversitesi",
+   "tur": "universite",
+   "url": "https://haber.duzce.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "ana site sertifikası doğrulanamıyor; haber sitesinde etkinlik tarihi yok (sadece yayın tarihi)"
+  },
+  {
+   "ad": "Düzce İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://duzce.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller (Akçakoca Fındık ve Kültür, Düzce Kültür Sanat…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/duzce",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

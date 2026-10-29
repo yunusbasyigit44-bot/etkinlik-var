@@ -1,0 +1,94 @@
+[
+ {
+  "ad": "Sardes Antik Kenti",
+  "ilce": "Salihli",
+  "tur": "Antik kent",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Sardis",
+  "aciklama": "Lidya Krallığı'nın başkenti; Artemis Tapınağı ve Gymnasium kalıntıları bulunur.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sardis",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Bath-Gymnasium_complex_at_Sardis%2C_late_2nd_-_early_3rd_century_AD%2C_Sardis%2C_Turkey_%2817098680002%29.jpg/330px-The_Bath-Gymnasium_complex_at_Sardis%2C_late_2nd_-_early_3rd_century_AD%2C_Sardis%2C_Turkey_%2817098680002%29.jpg"
+ },
+ {
+  "ad": "Manisa Kalesi",
+  "ilce": "Şehzadeler",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Manisa Kalesi",
+  "aciklama": "Spil Dağı eteğinde şehre bakan tarihî kale.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Manisa_Kalesi"
+ },
+ {
+  "ad": "Sultan Camii ve Külliyesi",
+  "ilce": "Şehzadeler",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Hafsa Sultan tarafından yaptırılan, mesir macununun doğduğu külliye."
+ },
+ {
+  "ad": "Muradiye Camii",
+  "ilce": "Şehzadeler",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Muradiye Camii (Manisa)",
+  "aciklama": "Mimar Sinan'ın eseri olarak bilinen 16. yüzyıl camisi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Muradiye_Camii_(Manisa)",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/IzManisaM04.jpg/330px-IzManisaM04.jpg"
+ },
+ {
+  "ad": "Manisa Müzesi",
+  "ilce": "Şehzadeler",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Manisa Müzesi",
+  "aciklama": "Bölgenin antik ve Osmanlı dönemi eserlerini sergileyen müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Manisa_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Manisa_Museum_01.jpg/330px-Manisa_Museum_01.jpg"
+ },
+ {
+  "ad": "Spil Dağı Milli Parkı",
+  "ilce": "Yunusemre",
+  "tur": "Doğa",
+  "simge": "🏔️",
+  "ucretsiz": true,
+  "vikipedi": "Spil Dağı Millî Parkı",
+  "aciklama": "Ağlayan Kaya ve Gölcük gibi yerleriyle şehrin yanındaki yürüyüş bölgesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Spil_Da%C4%9F%C4%B1_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Spil_National_Park_-_Spil_Milli_Park%C4%B1.jpg/330px-Spil_National_Park_-_Spil_Milli_Park%C4%B1.jpg"
+ },
+ {
+  "ad": "Ağlayan Kaya",
+  "ilce": "Yunusemre",
+  "tur": "Doğa",
+  "simge": "🪨",
+  "ucretsiz": true,
+  "vikipedi": "Ağlayan Kaya",
+  "aciklama": "Niobe efsanesine bağlanan, sızan suyuyla ağlıyormuş gibi duran kaya.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/A%C4%9Flayan_Kaya"
+ },
+ {
+  "ad": "Kula Jeoparkı",
+  "ilce": "Kula",
+  "tur": "Doğa",
+  "simge": "🌋",
+  "ucretsiz": false,
+  "vikipedi": "Kula-Salihli Jeoparkı",
+  "aciklama": "Volkanik kül konileri ve lav akıntılarıyla Türkiye'nin ilk jeoparkı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kula-Salihli_Jeopark%C4%B1"
+ },
+ {
+  "ad": "Marmara Gölü",
+  "ilce": "Gölmarmara",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kuş gözlemi ve çevresinde yürüyüş için uygun, bölgenin büyük gölü."
+ }
+]

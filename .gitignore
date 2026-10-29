@@ -1,0 +1,11 @@
+# GitHub'a yüklenmeyecek dosyalar (sadece bu bilgisayarda kalır)
+
+# Claude'un geçici çalışma dosyaları
+scratchpad/
+
+# Python'un kendi oluşturduğu önbellek
+__pycache__/
+
+# Windows'un gereksiz dosyaları
+Thumbs.db
+desktop.ini

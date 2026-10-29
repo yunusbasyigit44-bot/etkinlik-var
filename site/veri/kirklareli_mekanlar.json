@@ -1,0 +1,93 @@
+[
+ {
+  "ad": "Dupnisa Mağarası",
+  "ilce": "Demirköy",
+  "tur": "Doğa",
+  "simge": "🦇",
+  "ucretsiz": false,
+  "vikipedi": "Dupnisa Mağarası",
+  "aciklama": "Istranca'da dört katlı, sarkıt ve dikitlerle dolu mağara sistemi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Dupnisa_Ma%C4%9Faras%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Dupnisa_Cave%2C_Kirklareli_-_Ahmet_Baris_ISITAN.jpg/330px-Dupnisa_Cave%2C_Kirklareli_-_Ahmet_Baris_ISITAN.jpg"
+ },
+ {
+  "ad": "Kırklareli Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Kırklareli Müzesi",
+  "aciklama": "Aşağı Pınar ve Kanlıgeçit eserleri ile bölge tarihini anlatan arkeoloji müzesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/K%C4%B1rklareli_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/K%C4%B1rklareliMuseum_%281%29.JPG/330px-K%C4%B1rklareliMuseum_%281%29.JPG"
+ },
+ {
+  "ad": "Hızırbey Külliyesi",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Osmanlı'dan kalma cami ve külliye; şehrin tarihî merkezinde."
+ },
+ {
+  "ad": "Lüleburgaz Sokollu Mehmet Paşa Külliyesi",
+  "ilce": "Lüleburgaz",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Sokollu Mehmed Paşa Külliyesi",
+  "aciklama": "Mimar Sinan'ın eseri olduğu söylenen cami, medrese ve kervansaraylı külliye.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sokollu_Mehmed_Pa%C5%9Fa_K%C3%BClliyesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Mehmet_Pasha_Mosque_15.jpg/330px-Mehmet_Pasha_Mosque_15.jpg"
+ },
+ {
+  "ad": "Vize Aya Sofya",
+  "ilce": "Vize",
+  "tur": "Tarihi yer",
+  "simge": "⛪",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Bizans döneminden kalma kilise, sonradan camiye çevrilmiş; Vize'nin ünlü yapısı."
+ },
+ {
+  "ad": "İğneada Longoz Ormanları",
+  "ilce": "Demirköy",
+  "tur": "Doğa",
+  "simge": "🌲",
+  "ucretsiz": true,
+  "vikipedi": "İğneada Longoz Ormanları Millî Parkı",
+  "aciklama": "Su altında kalan ormanları, gölleri ve kumsallarıyla sulak alan milli parkı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C4%B0%C4%9Fneada_Longoz_Ormanlar%C4%B1_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Longoz%27dan_%C4%B0%C4%9Fneada.jpg/330px-Longoz%27dan_%C4%B0%C4%9Fneada.jpg"
+ },
+ {
+  "ad": "Kıyıköy",
+  "ilce": "Vize",
+  "tur": "Doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Karadeniz kıyısında Aya Nikola Manastırı ve balıkçı liman kasabası."
+ },
+ {
+  "ad": "Babaeski Semiz Ali Paşa Külliyesi",
+  "ilce": "Babaeski",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Semiz Ali Paşa Camii (Babaeski)",
+  "aciklama": "Mimar Sinan'a atfedilen cami, hamam ve çarşı ile Babaeski'nin tarihî merkezi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Semiz_Ali_Pa%C5%9Fa_Camii_(Babaeski)",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Cedid_Ali_Pa%C5%9Fa_Camii_219.jpg/330px-Cedid_Ali_Pa%C5%9Fa_Camii_219.jpg"
+ },
+ {
+  "ad": "Demirköy",
+  "ilce": "Demirköy",
+  "tur": "Gezi bölgesi",
+  "simge": "🍃",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Istranca ormanlarının içinde, yeşil doğası ve şelaleleriyle ünlü ilçe."
+ }
+]

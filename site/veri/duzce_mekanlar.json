@@ -1,0 +1,78 @@
+[
+ {
+  "ad": "Konuralp (Prusias ad Hypium Antik Kenti)",
+  "ilce": "Merkez",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": true,
+  "vikipedi": "Prusias ad Hypium",
+  "aciklama": "Roma dönemi tiyatrosu, surları ve kalıntılarıyla Düzce'nin en önemli antik yerleşimi."
+ },
+ {
+  "ad": "Düzce Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Düzce Müzesi",
+  "aciklama": "Konuralp'te Prusias ad Hypium buluntularını ve bölgenin tarih öncesi eserlerini sergileyen müze."
+ },
+ {
+  "ad": "Efteni Gölü",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "🦢",
+  "ucretsiz": true,
+  "vikipedi": "Efteni Gölü",
+  "aciklama": "Kuş gözlemi için uygun, sazlıklarla çevrili sulak alan ve yürüyüş yolu.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Efteni_G%C3%B6l%C3%BC",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Efteni-golu.JPG/330px-Efteni-golu.JPG"
+ },
+ {
+  "ad": "Samandere Şelalesi",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "💦",
+  "ucretsiz": true,
+  "vikipedi": "Samandere Şelalesi",
+  "aciklama": "Orman içinde, yürüyerek ulaşılan şelale ve çevresindeki piknik alanları."
+ },
+ {
+  "ad": "Akçakoca",
+  "ilce": "Akçakoca",
+  "tur": "Sahil kasabası",
+  "simge": "🏖️",
+  "ucretsiz": true,
+  "vikipedi": "Akçakoca",
+  "aciklama": "Karadeniz kıyısındaki uzun plajı, limanı ve fındık bahçeleriyle bilinen tatil kasabası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ak%C3%A7akoca",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/AK%C3%87AKOCA%2C_D%C3%BCzce%2C_Turkey_-_Murat_%C3%96zsoy_37.jpg/330px-AK%C3%87AKOCA%2C_D%C3%BCzce%2C_Turkey_-_Murat_%C3%96zsoy_37.jpg"
+ },
+ {
+  "ad": "Akçakoca Kalesi (Genoa Kalesi)",
+  "ilce": "Akçakoca",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Kıyıdaki tepede duran, Ceneviz dönemine atfedilen kale kalıntısı ve deniz manzarası."
+ },
+ {
+  "ad": "Güzeldere Şelalesi",
+  "ilce": "Merkez",
+  "tur": "Doğa",
+  "simge": "💧",
+  "ucretsiz": true,
+  "vikipedi": "Güzeldere Şelalesi",
+  "aciklama": "Düzce'nin kuzeyindeki yeşillikler arasında, kısa bir yürüyüşle ulaşılan şelale."
+ },
+ {
+  "ad": "Uğurlu Şelalesi",
+  "ilce": "Akçakoca",
+  "tur": "Doğa",
+  "simge": "🌿",
+  "ucretsiz": true,
+  "vikipedi": "Uğurlu Şelalesi",
+  "aciklama": "Akçakoca'nın ormanlık yamaçlarında, yürüyerek ulaşılan şelale ve doğa alanı."
+ }
+]

@@ -1,0 +1,127 @@
+[
+ {
+  "ad": "Kayseri Kalesi",
+  "ilce": "Melikgazi",
+  "tur": "Tarihi yer",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Kayseri Kalesi",
+  "aciklama": "Şehrin ortasında siyah volkanik taştan yükselen Selçuklu ve Bizans mirası kale.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kayseri_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Fortress_of_Kayseri_01.jpg/330px-Fortress_of_Kayseri_01.jpg"
+ },
+ {
+  "ad": "Gevher Nesibe Tıp Tarihi Müzesi",
+  "ilce": "Melikgazi",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Çifte Medrese",
+  "aciklama": "1206'da yapılan Selçuklu şifahanesi ve tıp medresesi; müzik tedavisi anlatılır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87ifte_Medrese",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Gevher_Nesibe_Medrese_%28Cifte_Medrese%29_DSCF0761.jpg/330px-Gevher_Nesibe_Medrese_%28Cifte_Medrese%29_DSCF0761.jpg"
+ },
+ {
+  "ad": "Hunat Hatun Külliyesi",
+  "ilce": "Melikgazi",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": false,
+  "vikipedi": "Hunad Hatun Külliyesi",
+  "aciklama": "Cami, medrese ve hamamıyla Selçuklu döneminin en önemli yapılarından biri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Hunad_Hatun_K%C3%BClliyesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Hunat_Hatun_K%C3%BClliyesi.jpg/330px-Hunat_Hatun_K%C3%BClliyesi.jpg"
+ },
+ {
+  "ad": "Çifte Medrese",
+  "ilce": "Melikgazi",
+  "tur": "Tarihi yer",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": "Çifte Medrese",
+  "aciklama": "Biri hastane biri tıp okulu olarak yapılan, kapılarıyla meşhur Selçuklu yapısı.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87ifte_Medrese",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Gevher_Nesibe_Medrese_%28Cifte_Medrese%29_DSCF0761.jpg/330px-Gevher_Nesibe_Medrese_%28Cifte_Medrese%29_DSCF0761.jpg"
+ },
+ {
+  "ad": "Erciyes Dağı",
+  "ilce": "Develi",
+  "tur": "Doğa",
+  "simge": "⛰️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "3917 m yüksekliğiyle İç Anadolu'nun en yüksek dağı; kış turizmi ve kayak merkezi."
+ },
+ {
+  "ad": "Sultan Sazlığı",
+  "ilce": "Develi",
+  "tur": "Doğa",
+  "simge": "🦩",
+  "ucretsiz": true,
+  "vikipedi": "Sultansazlığı Millî Parkı",
+  "aciklama": "Kuş cenneti sazlık; flamingo ve pelikan gibi yüzlerce türü barındırır.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sultansazl%C4%B1%C4%9F%C4%B1_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Wild_horses1.jpg/330px-Wild_horses1.jpg"
+ },
+ {
+  "ad": "Soğanlı Vadisi",
+  "ilce": "Develi",
+  "tur": "Doğa",
+  "simge": "🏞️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Kayalara oyulmuş kiliseler ve peri bacalarıyla Kapadokya'nın az bilinen yüzü."
+ },
+ {
+  "ad": "Sahabiye Medresesi",
+  "ilce": "Melikgazi",
+  "tur": "Tarihi yer",
+  "simge": "🏛️",
+  "ucretsiz": true,
+  "vikipedi": "Sahabiye Medresesi",
+  "aciklama": "Selçuklu döneminde yapılan, taç kapısıyla ünlü medrese.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Sahabiye_Medresesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Kayseri_Sahabiye_Medresesi_2455.jpg/330px-Kayseri_Sahabiye_Medresesi_2455.jpg"
+ },
+ {
+  "ad": "Kayseri Müzesi",
+  "ilce": "Melikgazi",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Kültepe Karum tabletleri ve Hitit eserleri sergilenen arkeoloji müzesi."
+ },
+ {
+  "ad": "Kültepe Kaniş Karum",
+  "ilce": "Kocasinan",
+  "tur": "Antik kent",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Kültepe",
+  "aciklama": "Asur ticaret kolonilerinin merkezi; ilk yazılı belgelerin bulunduğu ören yeri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/K%C3%BCltepe"
+ },
+ {
+  "ad": "Mimar Sinan Memleketi, Ağırnas",
+  "ilce": "Talas",
+  "tur": "Tarihi yer",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": "Ağırnas",
+  "aciklama": "Mimar Sinan'ın doğduğu ve eski Rum evleriyle bilinen köy.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/A%C4%9F%C4%B1rnas",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/A%C4%9EIRNAS%2CKAYSER%C4%B0_-_panoramio.jpg/330px-A%C4%9EIRNAS%2CKAYSER%C4%B0_-_panoramio.jpg"
+ },
+ {
+  "ad": "Kayseri Ulu Camii",
+  "ilce": "Melikgazi",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Kayseri Ulu Camii",
+  "aciklama": "Selçuklu döneminde yapılmaya başlanan şehrin en eski büyük camilerinden biri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kayseri_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Kayseri_Ulu_Cami_DSCF1070.jpg/330px-Kayseri_Ulu_Cami_DSCF1070.jpg"
+ }
+]

@@ -1,0 +1,143 @@
+{
+ "il": "batman",
+ "guncelleme": "2026-10-29T16:45+03:00",
+ "ilceler": [
+  "Merkez",
+  "Beşiri",
+  "Gercüş",
+  "Hasankeyf",
+  "Kozluk",
+  "Sason"
+ ],
+ "etkinlikler": [
+  {
+   "id": "69cd7e7be8b1",
+   "baslik": "Midas'ın Kulakları",
+   "tarih": "2026-11-02",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Merkez",
+   "mekan": "Batman DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/midasin-kulaklari",
+   "gorsel": "veri/gorsel/dt-midasin-kulaklari.jpg"
+  },
+  {
+   "id": "b81f0a889ca9",
+   "baslik": "Midas'ın Kulakları",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Merkez",
+   "mekan": "Batman DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/midasin-kulaklari",
+   "gorsel": "veri/gorsel/dt-midasin-kulaklari.jpg"
+  },
+  {
+   "id": "a667d058f23d",
+   "baslik": "Biz Size Hayranız",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Merkez",
+   "mekan": "Batman DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/biz-size-hayraniz",
+   "gorsel": "veri/gorsel/dt-biz-size-hayraniz.jpg"
+  },
+  {
+   "id": "16fe57d118b7",
+   "baslik": "Biz Size Hayranız",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Merkez",
+   "mekan": "Batman DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/biz-size-hayraniz",
+   "gorsel": "veri/gorsel/dt-biz-size-hayraniz.jpg"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 4,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Batman Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.batman.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası var ama şu an kayıt yok"
+  },
+  {
+   "ad": "Batman Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Batman Üniversitesi",
+   "tur": "universite",
+   "url": "https://batman.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "site bağlantıyı kapatıyor — okunamıyor"
+  },
+  {
+   "ad": "Batman İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://batman.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/batman",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

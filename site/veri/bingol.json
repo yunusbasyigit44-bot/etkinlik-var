@@ -1,0 +1,80 @@
+{
+ "il": "bingol",
+ "guncelleme": "2026-10-29T16:40+03:00",
+ "ilceler": [
+  "Merkez",
+  "Adaklı",
+  "Genç",
+  "Karlıova",
+  "Kiğı",
+  "Solhan",
+  "Yayladere",
+  "Yedisu"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Bingöl Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.bingol.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi bulunamadı"
+  },
+  {
+   "ad": "Bingöl Valiliği, ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.bingol.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Bingöl Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.bingol.edu.tr/tr/tum-etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik listesi ASP.NET tablosunda (form durumu gerekiyor); otomatik okunmuyor"
+  },
+  {
+   "ad": "Bingöl İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://bingol.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık etkinlikler (kış, kültür ve bal festivalleri)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/bingol",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

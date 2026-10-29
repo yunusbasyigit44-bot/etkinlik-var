@@ -1,0 +1,109 @@
+[
+ {
+  "ad": "Truva Antik Kenti",
+  "ilce": "Merkez",
+  "tur": "Antik kent / UNESCO",
+  "simge": "🐴",
+  "ucretsiz": false,
+  "vikipedi": "Troya",
+  "aciklama": "Homeros'un İlyada'sıyla ünlü, üst üste dokuz kentin katmanlarını barındıran UNESCO alanı; yanında Truva Müzesi var.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Troya",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Hadrianic_Odeon_in_Troy_IX_%28Ilion%29%2C_Turkey.jpg/330px-Hadrianic_Odeon_in_Troy_IX_%28Ilion%29%2C_Turkey.jpg"
+ },
+ {
+  "ad": "Gelibolu Yarımadası Tarihi Milli Parkı",
+  "ilce": "Eceabat",
+  "tur": "Tarihi milli park",
+  "simge": "🪖",
+  "ucretsiz": false,
+  "vikipedi": "Çanakkale Savaşları Gelibolu Tarihî Alanı",
+  "aciklama": "Çanakkale Savaşları'nın geçtiği alan; şehitlikler, anıtlar ve siperler gezilir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87anakkale_Sava%C5%9Flar%C4%B1_Gelibolu_Tarih%C3%AE_Alan%C4%B1"
+ },
+ {
+  "ad": "Assos (Behramkale)",
+  "ilce": "Ayvacık",
+  "tur": "Antik kent",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Assos",
+  "aciklama": "Taş evleri, Athena Tapınağı ve deniz manzarasıyla tepede kurulu antik kent ve köy.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Assos",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/AssosBurgberg.jpg/330px-AssosBurgberg.jpg"
+ },
+ {
+  "ad": "Bozcaada",
+  "ilce": "Bozcaada",
+  "tur": "Ada",
+  "simge": "🍇",
+  "ucretsiz": true,
+  "vikipedi": "Bozcaada",
+  "aciklama": "Kalesi, bağları, şarap evleri ve dar sokaklarıyla küçük, sakin bir ada.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Bozcaada",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Bozcaada%2C_%C3%87anakkale%2C_2019_14.jpg/330px-Bozcaada%2C_%C3%87anakkale%2C_2019_14.jpg"
+ },
+ {
+  "ad": "Gökçeada",
+  "ilce": "Gökçeada",
+  "tur": "Ada",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": "Gökçeada",
+  "aciklama": "Türkiye'nin en büyük adası; sakin köyleri, plajları ve rüzgar sörfüyle bilinir.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/G%C3%B6k%C3%A7eada",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/G%C3%B6k%C3%A7eada_manzaras%C4%B1_%28Ara%C5%9Fa_da%C4%9F%C4%B1ndan%29.jpg/330px-G%C3%B6k%C3%A7eada_manzaras%C4%B1_%28Ara%C5%9Fa_da%C4%9F%C4%B1ndan%29.jpg"
+ },
+ {
+  "ad": "Çimenlik Kalesi ve Deniz Müzesi",
+  "ilce": "Merkez",
+  "tur": "Kale / Müze",
+  "simge": "🏰",
+  "ucretsiz": false,
+  "vikipedi": "Kale-i Sultaniye",
+  "aciklama": "Boğaz kıyısındaki Osmanlı kalesi; içinde Çanakkale Savaşı'na ait deniz müzesi bulunur.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kale-i_Sultaniye",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/%C3%87anakkale%2C_Turkey._Cimenlik_Castle%2C_now_military_museum_-_panoramio.jpg/330px-%C3%87anakkale%2C_Turkey._Cimenlik_Castle%2C_now_military_museum_-_panoramio.jpg"
+ },
+ {
+  "ad": "Kilitbahir Kalesi",
+  "ilce": "Eceabat",
+  "tur": "Kale",
+  "simge": "🏯",
+  "ucretsiz": false,
+  "vikipedi": "Kilitbahir Kalesi",
+  "aciklama": "Boğaz'ın en dar yerine bakan, yonca yaprağı planlı Osmanlı kalesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kilitbahir_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Eceabat_Kilitbahir_Fortress.JPG/330px-Eceabat_Kilitbahir_Fortress.JPG"
+ },
+ {
+  "ad": "Çanakkale Şehitler Abidesi",
+  "ilce": "Eceabat",
+  "tur": "Anıt",
+  "simge": "🇹🇷",
+  "ucretsiz": true,
+  "vikipedi": "Çanakkale Şehitleri Anıtı",
+  "aciklama": "Gelibolu Yarımadası'nın ucunda, Çanakkale Savaşı'nda hayatını kaybedenler için dikilmiş büyük anıt.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87anakkale_%C5%9Eehitleri_An%C4%B1t%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/%C5%9Eehitler_Abidesi_%C3%87anakkale.jpg/330px-%C5%9Eehitler_Abidesi_%C3%87anakkale.jpg"
+ },
+ {
+  "ad": "Kazdağı Milli Parkı",
+  "ilce": "Ayvacık",
+  "tur": "Doğa / Milli park",
+  "simge": "🌲",
+  "ucretsiz": false,
+  "vikipedi": "Kazdağı Millî Parkı",
+  "aciklama": "Oksijeni bol ormanları ve yürüyüş parkurlarıyla bilinen dağ; Antandros ve Edremit Körfezi'ne bakar.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kazda%C4%9F%C4%B1_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Kazdagi_Verwaltung.JPG/330px-Kazdagi_Verwaltung.JPG"
+ },
+ {
+  "ad": "Çanakkale Kordonboyu",
+  "ilce": "Merkez",
+  "tur": "Sahil / Park",
+  "simge": "🌅",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Boğaz kıyısında yürüyüş, Truva Atı maketi ve kafelerle gün batımı keyfi sunan sahil şeridi."
+ }
+]

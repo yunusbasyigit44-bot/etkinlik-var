@@ -1,0 +1,91 @@
+[
+ {
+  "ad": "Amasra Kalesi",
+  "ilce": "Amasra",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Amasra Kalesi",
+  "aciklama": "Karadeniz kıyısındaki Amasra'nın surları ve burçları.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Amasra_Kalesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Amasra_189.JPG/330px-Amasra_189.JPG"
+ },
+ {
+  "ad": "Amasra Müzesi",
+  "ilce": "Amasra",
+  "tur": "Müze",
+  "simge": "🏛️",
+  "ucretsiz": false,
+  "vikipedi": "Amasra Müzesi",
+  "aciklama": "Antik dönemden kalma buluntuları sergileyen küçük ve şirin müze.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Amasra_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Amasra_Museum.jpg/330px-Amasra_Museum.jpg"
+ },
+ {
+  "ad": "Tavşan Adası",
+  "ilce": "Amasra",
+  "tur": "Ada",
+  "simge": "🏝️",
+  "ucretsiz": true,
+  "vikipedi": "Tavşan Adası",
+  "aciklama": "Amasra açıklarında küçük ada; tekneyle ulaşılan fotoğraf noktası.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Tav%C5%9Fan_Adas%C4%B1"
+ },
+ {
+  "ad": "Küçük Liman",
+  "ilce": "Amasra",
+  "tur": "Liman",
+  "simge": "⚓",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Amasra'nın iki limanından biri; balıkçı tekneleri ve yürüyüş yolu."
+ },
+ {
+  "ad": "Bartın Irmağı",
+  "ilce": "Merkez",
+  "tur": "Nehir",
+  "simge": "🌊",
+  "ucretsiz": true,
+  "vikipedi": "Bartın Irmağı",
+  "aciklama": "Şehri boydan boya geçen ırmak; kıyısı yürüyüş yeri."
+ },
+ {
+  "ad": "İnkum Plajı",
+  "ilce": "Amasra",
+  "tur": "Plaj",
+  "simge": "🏖️",
+  "ucretsiz": true,
+  "vikipedi": "İnkumu",
+  "aciklama": "Amasra yakınında kumsal ve deniz keyfi sunan plaj.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C4%B0nkumu"
+ },
+ {
+  "ad": "Tarihi Bartın Evleri",
+  "ilce": "Merkez",
+  "tur": "Tarihi doku",
+  "simge": "🏘️",
+  "ucretsiz": true,
+  "vikipedi": null,
+  "aciklama": "Irmak çevresinde kalan geleneksel ahşap Bartın evleri."
+ },
+ {
+  "ad": "Kurucaşile Sahili",
+  "ilce": "Kurucaşile",
+  "tur": "Sahil",
+  "simge": "🌅",
+  "ucretsiz": true,
+  "vikipedi": "Kurucaşile",
+  "aciklama": "Kurucaşile'nin sakin Karadeniz kıyısı ve ormanlık çevresi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Kuruca%C5%9File"
+ },
+ {
+  "ad": "Ulus Ormanları",
+  "ilce": "Ulus",
+  "tur": "Doğa",
+  "simge": "🌲",
+  "ucretsiz": true,
+  "vikipedi": "Ulus, Bartın",
+  "aciklama": "Ulus çevresinde yoğun yeşil ormanlar ve yayla yürüyüşleri.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ulus%2C_Bart%C4%B1n"
+ }
+]

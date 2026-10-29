@@ -1,0 +1,103 @@
+{
+ "il": "mardin",
+ "guncelleme": "2026-10-29T16:42+03:00",
+ "ilceler": [
+  "Artuklu",
+  "Dargeçit",
+  "Derik",
+  "Kızıltepe",
+  "Mazıdağı",
+  "Midyat",
+  "Nusaybin",
+  "Ömerli",
+  "Savur",
+  "Yeşilli"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Artuklu Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.artuklu.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok; duyurular idari"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi yok"
+  },
+  {
+   "ad": "Kızıltepe Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.kiziltepe.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok; duyurular idari"
+  },
+  {
+   "ad": "Mardin Artuklu Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.artuklu.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Mardin Büyükşehir Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.mardin.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası yok; duyurular idari, haberler serbest metin"
+  },
+  {
+   "ad": "Mardin Kültür Yolu Festivali, Mardin Uluslararası Film Günleri…",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "Mardin Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.mardin.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Mardin İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://mardin.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Midyat, Nusaybin, Derik belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi bulunamadı"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/mardin",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "il": "gumushane",
+ "guncelleme": "2026-10-29T16:42+03:00",
+ "ilceler": [
+  "Merkez",
+  "Kelkit",
+  "Köse",
+  "Kürtün",
+  "Şiran",
+  "Torul"
+ ],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "2026 Gümüşhane Şenlik-Festival Takvimi (İl Kültür ve Turizm)",
+   "tur": "kultur",
+   "url": "https://gumushane.ktb.gov.tr/TR-449432/2026-yili-gumushane-ili-senlik-festival-takvimi.html",
+   "etkinlik_sayisi": 0,
+   "durum": "takvim sadece Excel dosyası olarak yayımlanmış; otomatik okunmuyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü",
+   "tur": "diger",
+   "url": "https://gumushane.gsb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Gümüşhane Belediyesi",
+   "tur": "belediye",
+   "url": "https://gumushane.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik sayfası var ama güncel değil (son kayıt Ağustos 2026)"
+  },
+  {
+   "ad": "Gümüşhane Valiliği ve 5 ilçe kaymakamlığı",
+   "tur": "valilik",
+   "url": "https://www.gumushane.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Gümüşhane Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.gumushane.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi sayfası bulunamadı; sadece haber ve duyuru"
+  },
+  {
+   "ad": "Gümüşhane İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://gumushane.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Kelkit, Şiran, Torul belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok; çoğu sadece haber"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık etkinlikler (Kelkit Aydıncık Yayla, Karaca Mağarası, Zigana şenlikleri…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/gumushane",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "İl Milli Eğitim Müdürlüğü",
+   "tur": "diger",
+   "url": "https://gumushane.meb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "idari haberler; etkinlik yok"
+  }
+ ]
+}

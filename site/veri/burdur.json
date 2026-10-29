@@ -1,0 +1,194 @@
+{
+ "il": "burdur",
+ "guncelleme": "2026-10-29T16:40+03:00",
+ "ilceler": [
+  "Merkez",
+  "Ağlasun",
+  "Altınyayla",
+  "Bucak",
+  "Çavdır",
+  "Çeltikçi",
+  "Gölhisar",
+  "Karamanlı",
+  "Kemer",
+  "Tefenni",
+  "Yeşilova"
+ ],
+ "etkinlikler": [
+  {
+   "id": "8cf243b613ed",
+   "baslik": "Dünya Meme Kanseri Farkındalık Ayı",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Burdur Devlet Hastanesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13548/1/dunya-meme-kanseri-farkindalik-ayi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13548/4_13548_2026-10-27-13-37-15-645423_thumb.webp"
+  },
+  {
+   "id": "2a75fe905dfe",
+   "baslik": "Renklenen Duvarlarım",
+   "tarih": "2026-10-31",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Bağlar Anaokulu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13544/1/renklenen-duvarlarim",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13544/4_13544_2026-10-27-10-37-55-520474_thumb.webp"
+  },
+  {
+   "id": "159cd7999921",
+   "baslik": "Kutu Oyunları Etkinliği",
+   "tarih": "2026-11-01",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Kültür Pasta ve Kafe",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13555/1/kutu-oyunlari-etkinligi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13555/4_13555_2026-10-28-06-51-19-387933_thumb.webp"
+  },
+  {
+   "id": "d90625a2a6be",
+   "baslik": "Film Gösterimi İle Yaşlanma ve Değer Temelli Sosyal Hizmet Bakış Açısından Grup Söyleşisi",
+   "tarih": "2026-11-02",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "İİBF Konferans Salonu",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13510/1/film-gosterimi-ile-yaslanma-ve-deger-temelli-sosyal-hizmet-bakis-acisindan-grup-soylesisi-",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13510/4_13510_2026-10-15-08-53-47-443216_thumb.webp"
+  },
+  {
+   "id": "ac679be9e500",
+   "baslik": "Kızılay Haftası Konseri",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": "17:00",
+   "ilce": "Merkez",
+   "mekan": "Burdur Mehmet Akif Ersoy Üniversitesi Konferans ve Sergi Salonu",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13553/1/kizilay-haftasi-konseri",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13553/4_13553_2026-10-28-06-46-36-679624_thumb.webp"
+  },
+  {
+   "id": "5f68d21f0f67",
+   "baslik": "Çin Dili ve Kültürü Topluluğu Yemek/Tanışma Etkinliği",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": "18:00",
+   "ilce": "Merkez",
+   "mekan": "Uygur Sofrası Restoranı",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13552/1/cin-dili-ve-kulturu-toplulugu-yemektanisma-etkinligi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13552/4_13552_2026-10-28-06-44-34-73487_thumb.webp"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.mehmetakif.edu.tr/",
+   "etkinlik_sayisi": 6,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "10 ilçe kaymakamlığı",
+   "tur": "kaymakamlik",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Bucak, Gölhisar belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Burdur Belediyesi",
+   "tur": "belediye",
+   "url": "https://burdur.bel.tr/feed/",
+   "etkinlik_sayisi": 0,
+   "durum": "konser/tiyatro duyuruları var ama tarih sadece afişin görselinde; otomatik okunmuyor"
+  },
+  {
+   "ad": "Burdur Valiliği",
+   "tur": "valilik",
+   "url": "https://www.burdur.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Burdur İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://burdur.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü",
+   "tur": "diger",
+   "url": "https://burdur.gsb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi yok"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Yıllık festivaller (Salda, Bucak Kiraz, Kuyucak Yoğurt…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/burdur",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  }
+ ]
+}

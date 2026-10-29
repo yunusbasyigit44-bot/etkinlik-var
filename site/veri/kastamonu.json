@@ -1,0 +1,148 @@
+{
+ "il": "kastamonu",
+ "guncelleme": "2026-10-29T16:44+03:00",
+ "ilceler": [
+  "Merkez",
+  "Abana",
+  "Ağlı",
+  "Araç",
+  "Azdavay",
+  "Bozkurt",
+  "Cide",
+  "Çatalzeytin",
+  "Daday",
+  "Devrekani",
+  "Doğanyurt",
+  "Hanönü",
+  "İhsangazi",
+  "İnebolu",
+  "Küre",
+  "Pınarbaşı",
+  "Seydiler",
+  "Şenpazar",
+  "Taşköprü",
+  "Tosya"
+ ],
+ "etkinlikler": [
+  {
+   "id": "6a0a04d73207",
+   "baslik": "Resim, Heykel ve Seramik Sergisi",
+   "tarih": "2026-10-29",
+   "bitis": null,
+   "saat": "16:00",
+   "ilce": "Merkez",
+   "mekan": "Turhan Topçuoğlu Şehir Parkı",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": "Cumhuriyet; aklın, bilimin, özgürlüğün ve sanatın yoludur. Cumhuriyetimizin 103. yılına özel olarak hazırladığımız “Cumhuriyet Sanatla Yaşıyor” Resim, Heykel ve Seramik Sergisi’ne tüm hemşehrilerimizi davet ediyorum. Tur…",
+   "kaynak_ad": "Kastamonu Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.kastamonu.bel.tr/etkinlik/resim-heykel-ve-seramik-sergisi/",
+   "gorsel": "https://www.kastamonu.bel.tr/wp-content/uploads/2026/10/866594477_1432481309060000_8941321514700264206_n.jpg"
+  },
+  {
+   "id": "3100f2028a43",
+   "baslik": "UFest - Türkiye Yüzyılı'nda Ulaşım Vizyonu",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "KÜ Merkezi Kütüphane - Sezai Karakoç Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kastamonu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://kastamonu.edu.tr/tr/etkinlikler/ufest-turkiye-yuzyilinda-ulasim-vizyonu-173",
+   "gorsel": "https://files.kastamonu.edu.tr/Ortam/2026/Ekim/Etkinlik/d35356c8-4412-4144-a10b-b42923631a0c.jpeg"
+  },
+  {
+   "id": "6909f9783357",
+   "baslik": "Kök Hücre ve Hücresel Tedaviler Derneği - Kastamonu Sempozyumu",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "KÜ Merkezi Kütüphane - Cemil Meriç Salonu",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kastamonu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://kastamonu.edu.tr/tr/etkinlikler/kok-hucre-ve-hucresel-tedaviler-dernegi-kastamonu-sempozyumu-157",
+   "gorsel": "https://files.kastamonu.edu.tr/Ortam/2026/Eyl%C3%BCl/Etkinlik/ae963586-4723-43e8-9434-444ffafc725d.jpg"
+  }
+ ],
+ "kaynaklar": [
+  {
+   "ad": "Kastamonu Üniversitesi",
+   "tur": "universite",
+   "url": "https://kastamonu.edu.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 2,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Kastamonu Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.kastamonu.bel.tr/etkinlik/",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "okunabilir etkinlik takvimi yok"
+  },
+  {
+   "ad": "Kastamonu Valiliği ve ilçe kaymakamlıkları",
+   "tur": "valilik",
+   "url": "https://www.kastamonu.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Kastamonu İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://kastamonu.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "STK'lar, öğrenci kulüpleri, kafeler",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Tosya, İnebolu, Taşköprü, Cide, Araç belediyeleri",
+   "tur": "belediye",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi okunmuyor (sonraki tur)"
+  },
+  {
+   "ad": "etkinlik.io (konser, sahne, festival)",
+   "tur": "diger",
+   "url": "https://etkinlik.io/kastamonu",
+   "etkinlik_sayisi": 0,
+   "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "İlçe festivalleri (Taşköprü Sarımsak, Cide Deniz, İnebolu Kültür-Sanat…)",
+   "tur": "diger",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "yıllık; resmî tarihleri henüz yayımlanmamış"
+  }
+ ]
+}

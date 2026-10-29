@@ -1,0 +1,80 @@
+[
+ {
+  "ad": "Çankırı Tuz Mağarası",
+  "ilce": "Merkez",
+  "tur": "Mağara / Doğa",
+  "simge": "🧂",
+  "ucretsiz": false,
+  "vikipedi": "Tuz Mağarası (Çankırı)",
+  "aciklama": "Yüzyıllardır kaya tuzu çıkarılan yeraltı galerileri; tuzlu havasıyla nefes alma için de tercih edilir."
+ },
+ {
+  "ad": "Ilgaz Dağı Milli Parkı",
+  "ilce": "Ilgaz",
+  "tur": "Doğa / Milli park",
+  "simge": "🌲",
+  "ucretsiz": false,
+  "vikipedi": "Ilgaz Dağı Millî Parkı",
+  "aciklama": "Yoğun ormanları, yürüyüş yolları ve kayak merkeziyle Çankırı ile Kastamonu arasında uzanan dağ.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/Ilgaz_Da%C4%9F%C4%B1_Mill%C3%AE_Park%C4%B1",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/HilmiAyhanPoppyFieldsMountIlgazCankiriTurkey.jpg/330px-HilmiAyhanPoppyFieldsMountIlgazCankiriTurkey.jpg"
+ },
+ {
+  "ad": "Taş Mescit",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Taş Mescit (Çankırı)",
+  "aciklama": "Şehrin en eski yapılarından biri olan Selçuklu dönemi küçük taş mescit."
+ },
+ {
+  "ad": "Çankırı Ulu Camii",
+  "ilce": "Merkez",
+  "tur": "Tarihi yer",
+  "simge": "🕌",
+  "ucretsiz": true,
+  "vikipedi": "Çankırı Ulu Camii",
+  "aciklama": "Şehir merkezinde, 16. yüzyıldan kalma kubbeli Osmanlı camisi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87ank%C4%B1r%C4%B1_Ulu_Camii",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/B%C3%BCy%C3%BCkcamih.JPG/330px-B%C3%BCy%C3%BCkcamih.JPG"
+ },
+ {
+  "ad": "Çankırı Müzesi",
+  "ilce": "Merkez",
+  "tur": "Müze",
+  "simge": "🏺",
+  "ucretsiz": false,
+  "vikipedi": "Çankırı Müzesi",
+  "aciklama": "Bölgenin arkeolojik ve etnografik eserlerinin sergilendiği küçük şehir müzesi.",
+  "bilgi_url": "https://tr.wikipedia.org/wiki/%C3%87ank%C4%B1r%C4%B1_M%C3%BCzesi",
+  "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%C3%87ank%C4%B1r%C4%B1_M%C3%BCzesi.jpg/330px-%C3%87ank%C4%B1r%C4%B1_M%C3%BCzesi.jpg"
+ },
+ {
+  "ad": "Çankırı Kalesi",
+  "ilce": "Merkez",
+  "tur": "Kale",
+  "simge": "🏰",
+  "ucretsiz": true,
+  "vikipedi": "Çankırı Kalesi",
+  "aciklama": "Şehrin tepesindeki antik kale kalıntıları; tepeden şehir manzarası izlenir."
+ },
+ {
+  "ad": "Eldivan Kaplıcası",
+  "ilce": "Eldivan",
+  "tur": "Kaplıca",
+  "simge": "♨️",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Eldivan ilçesindeki şifalı su kaynakları ve termal tesisler."
+ },
+ {
+  "ad": "Turistik Tuz Treni",
+  "ilce": "Merkez",
+  "tur": "Gezi",
+  "simge": "🚂",
+  "ucretsiz": false,
+  "vikipedi": null,
+  "aciklama": "Şehir içi tarihi noktalar arasında gezdiren, tuz kültürünü anlatan tren."
+ }
+]
