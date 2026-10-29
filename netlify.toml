@@ -27,6 +27,12 @@
   [headers.values]
     Cache-Control = "no-cache"
 
+# Uygulama tanıtım dosyası doğru türle gitsin (tarayıcı "yüklenebilir uygulama" olarak tanısın).
+[[headers]]
+  for = "/manifest.webmanifest"
+  [headers.values]
+    Content-Type = "application/manifest+json"
+
 # Android uygulamasının bu siteye ait olduğunu Google'a kanıtlayan dosya.
 [[headers]]
   for = "/.well-known/assetlinks.json"
