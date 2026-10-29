@@ -20,3 +20,16 @@
   for = "/veri/*.json"
   [headers.values]
     Cache-Control = "no-cache"
+
+# Çevrimdışı dosyası hep taze gelsin (yeni sürüm hemen devreye girsin).
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+# Android uygulamasının bu siteye ait olduğunu Google'a kanıtlayan dosya.
+[[headers]]
+  for = "/.well-known/assetlinks.json"
+  [headers.values]
+    Content-Type = "application/json"
+    Access-Control-Allow-Origin = "*"

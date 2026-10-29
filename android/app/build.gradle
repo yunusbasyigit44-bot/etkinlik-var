@@ -1,0 +1,45 @@
+plugins {
+    id 'com.android.application'
+}
+
+def siteAdresi = "etkinlik-var.netlify.app"
+
+android {
+    namespace 'com.etkinlikvar.app'
+    compileSdk 36
+
+    defaultConfig {
+        applicationId 'com.etkinlikvar.app'
+        minSdk 21
+        targetSdk 36
+        // Her yeni Play yüklemesinde sayı büyümeli: GitHub'daki derleme numarası kullanılır
+        versionCode Integer.parseInt(System.getenv("SURUM_KODU") ?: "1")
+        versionName "1.0." + (System.getenv("SURUM_KODU") ?: "1")
+        manifestPlaceholders = [siteAdresi: siteAdresi, acilisAdresi: "https://" + siteAdresi + "/?kaynak=uygulama"]
+    }
+
+    // İmza anahtarı depoda DEĞİL: GitHub gizli değişkenlerinden (secrets) derleme sırasında gelir
+    signingConfigs {
+        release {
+            storeFile file(System.getenv("IMZA_DOSYASI") ?: "imza.jks")
+            storePassword System.getenv("IMZA_SIFRE")
+            keyAlias "etkinlikvar"
+            keyPassword System.getenv("IMZA_SIFRE")
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            // Şifre yoksa (gizli değişkenler henüz girilmediyse) imzasız derlenir: sadece deneme içindir
+            if (System.getenv("IMZA_SIFRE")) signingConfig signingConfigs.release
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.5.0'
+}

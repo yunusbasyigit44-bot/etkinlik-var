@@ -1,0 +1,11 @@
+// Etkinlik Var Android uygulaması: siteyi (etkinlik-var.netlify.app) tam ekran açan
+// "Trusted Web Activity" kabuğu. Google'ın resmi androidbrowserhelper kütüphanesini kullanır.
+pluginManagement {
+    repositories { google(); mavenCentral(); gradlePluginPortal() }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories { google(); mavenCentral() }
+}
+rootProject.name = "EtkinlikVar"
+include ':app'

@@ -6,7 +6,10 @@
 <title>Etkinlik Var — Bugün ne yapsam?</title>
 <meta name="description" content="Belediye, üniversite, valilik, kaymakamlık ve STK etkinlikleri tek yerde. Bugün ne yapsam diyenler için 81 ilde etkinlik takvimi.">
 <meta name="referrer" content="strict-origin-when-cross-origin">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📅</text></svg>">
+<link rel="icon" href="ikon/ikon-192.png" type="image/png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="ikon/apple-touch-icon.png">
+<meta name="theme-color" content="#d9480f">
 <style>
 :root{
   --bg:#f7f5f0; --kart:#ffffff; --yazi:#1d1b16; --soluk:#6b665c; --cizgi:#e4dfd4;
@@ -904,10 +907,10 @@ function gunYaz(e){
 function mansetSec(){
   const n = new Date(), sinir = gunEkle(bugunTarih(), 14);
   const uygun = e => e.gorsel && anDurum(e,n) !== "bitti" && tarihOku(e.tarih) <= sinir;
-  const secilen = [], gorulen = new Set(), ilSay = {};
+  const secilen = [], gorulen = new Set(), ilSay = {}, turSay = {};
   const ekle = (e, ek = {}) => {
     const k = e.il + "|" + kucuk(e.baslik); if(gorulen.has(k)) return;
-    gorulen.add(k); ilSay[e.il] = (ilSay[e.il]||0) + 1; secilen.push({...e, ...ek});
+    gorulen.add(k); ilSay[e.il] = (ilSay[e.il]||0) + 1; turSay[e.kategori] = (turSay[e.kategori]||0) + 1; secilen.push({...e, ...ek});
   };
   for(const s of MANSET_SECIM){
     let e = TR.find(x => x.id === s.id); if(!e) continue;
@@ -919,7 +922,7 @@ function mansetSec(){
   const puan = e => (MANSET_PUAN[e.kategori]||0) * 10 - gun(e) * 2 + (e.ucretsiz ? 3 : 0);
   for(const e of TR.filter(e => uygun(e) && MANSET_PUAN[e.kategori]).sort((a,b) => puan(b) - puan(a))){
     if(secilen.length >= 20) break;
-    if((ilSay[e.il]||0) < 2) ekle(e);
+    if((ilSay[e.il]||0) < 2 && (turSay[e.kategori]||0) < 3) ekle(e);
   }
   return secilen;
 }
@@ -1207,6 +1210,9 @@ $("ilceSec").onchange = e => { secim.ilce = e.target.value; hepsiniCiz(); mekanC
 $("ucretsizSec").onchange = e => { secim.ucretsiz = e.target.checked; hepsiniCiz(); };
 let araZaman;
 $("ara").oninput = e => { clearTimeout(araZaman); araZaman = setTimeout(() => { secim.ara = e.target.value.trim(); hepsiniCiz(); }, 200); };
+
+// Çevrimdışı destek: uygulama ve "ana ekrana ekle" için (bkz. sw.js)
+if("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(() => {});
 
 // ---------------------------------------------------------------
 // Açılış

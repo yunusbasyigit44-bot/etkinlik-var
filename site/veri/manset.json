@@ -1,21 +1,92 @@
 {
-  "aciklama": "Ana sayfa manşeti için elle seçilen etkinlikler. Sıra = manşetteki sıra. Biten ya da listeden düşen etkinlik kendiliğinden atlanır; boşluklar en iyi puanlı etkinliklerle doldurulur. 'baslik' kaynaktaki yazım hatasını düzeltmek için, 'not' manşette görünen kısa cümle.",
-  "secilenler": [
-    {"id": "971a5907ceb7", "not": "Cumhuriyet'in 103. yılına opera sahnesinden selam."},
-    {"id": "6b9431c67a87", "not": "Kadıköy'de samimi bir salonda caz akşamı."},
-    {"id": "58204b829440", "baslik": "Lucia di Lammermoor", "not": "Donizetti'nin ünlü operası AKM sahnesinde."},
-    {"id": "c62758cee808", "baslik": "Anna Karenina", "not": "Tolstoy'un romanı bale olarak Antalya'da."},
-    {"id": "33dc0e9093af", "not": "Mevlevi geleneğini yerinde, Konya'da izleyin."},
-    {"id": "8d73b952ef76", "baslik": "Le Nozze di Figaro — Figaro'nun Düğünü", "not": "Mozart'ın neşeli komik operası Ankara'da."},
-    {"id": "dbc4ed1689f5", "not": "Kültürpark'ta bal, fide ve hafta sonu gezintisi."},
-    {"id": "c1cad1104b84", "baslik": "Giselle", "not": "Romantik balenin en bilinen eserlerinden biri."},
-    {"id": "5a21d31bc547", "not": "Sabahattin Ali'nin romanı Samsun'da sahnede."},
-    {"id": "e5d6b3cb4925", "not": "Bodrum Ortakent'te bağ bozumu şenliği."},
-    {"id": "1f55efdd3568", "not": "Saz ve söz: âşıklık geleneği Erzincan'da."},
-    {"id": "8bc518dbfb2e", "not": "Bizet'nin tutkulu operası Ankara'da."},
-    {"id": "8b8c23e5a20e", "not": "Victor Hugo'nun klasiği Büyük Tiyatro'da."},
-    {"id": "44a2e303f4a3", "not": "Türk dünyasından ezgiler ve oyunlar."},
-    {"id": "d7762ec713f9", "baslik": "Romantika / Bir Ömrün Seyrüseferi — Nazım Hikmet Sergisi", "not": "Kültürpark'ta ocak ortasına kadar açık."},
-    {"id": "0e9dc63a1e25", "baslik": "4. Korolar Festivali", "not": "Türk musikisi korolarından bir akşam."}
-  ]
+ "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
+ "guncelleme": "2026-10-29",
+ "secilenler": [
+  {
+   "id": "971a5907ceb7",
+   "not": "Cumhuriyet'in 103. yılına opera sahnesinden selam.",
+   "elle": true
+  },
+  {
+   "id": "6b9431c67a87",
+   "not": "Kadıköy'de samimi bir salonda caz akşamı.",
+   "elle": true
+  },
+  {
+   "id": "58204b829440",
+   "baslik": "Lucia di Lammermoor",
+   "not": "Donizetti'nin ünlü operası AKM sahnesinde.",
+   "elle": true
+  },
+  {
+   "id": "c62758cee808",
+   "baslik": "Anna Karenina",
+   "not": "Tolstoy'un romanı bale olarak Antalya'da.",
+   "elle": true
+  },
+  {
+   "id": "33dc0e9093af",
+   "not": "Mevlevi geleneğini yerinde, Konya'da izleyin.",
+   "elle": true
+  },
+  {
+   "id": "8d73b952ef76",
+   "baslik": "Le Nozze di Figaro — Figaro'nun Düğünü",
+   "not": "Mozart'ın neşeli komik operası Ankara'da.",
+   "elle": true
+  },
+  {
+   "id": "dbc4ed1689f5",
+   "not": "Kültürpark'ta bal, fide ve hafta sonu gezintisi.",
+   "elle": true
+  },
+  {
+   "id": "c1cad1104b84",
+   "baslik": "Giselle",
+   "not": "Romantik balenin en bilinen eserlerinden biri.",
+   "elle": true
+  },
+  {
+   "id": "5a21d31bc547",
+   "not": "Sabahattin Ali'nin romanı Samsun'da sahnede.",
+   "elle": true
+  },
+  {
+   "id": "e5d6b3cb4925",
+   "not": "Bodrum Ortakent'te bağ bozumu şenliği.",
+   "elle": true
+  },
+  {
+   "id": "1f55efdd3568",
+   "not": "Saz ve söz: âşıklık geleneği Erzincan'da.",
+   "elle": true
+  },
+  {
+   "id": "8bc518dbfb2e",
+   "not": "Bizet'nin tutkulu operası Ankara'da.",
+   "elle": true
+  },
+  {
+   "id": "8b8c23e5a20e",
+   "not": "Victor Hugo'nun klasiği Büyük Tiyatro'da.",
+   "elle": true
+  },
+  {
+   "id": "44a2e303f4a3",
+   "not": "Türk dünyasından ezgiler ve oyunlar.",
+   "elle": true
+  },
+  {
+   "id": "d7762ec713f9",
+   "baslik": "Romantika / Bir Ömrün Seyrüseferi — Nazım Hikmet Sergisi",
+   "not": "Kültürpark'ta ocak ortasına kadar açık.",
+   "elle": true
+  },
+  {
+   "id": "0e9dc63a1e25",
+   "baslik": "4. Korolar Festivali",
+   "not": "Türk musikisi korolarından bir akşam.",
+   "elle": true
+  }
+ ]
 }

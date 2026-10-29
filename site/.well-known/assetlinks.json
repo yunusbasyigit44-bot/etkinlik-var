@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.etkinlikvar.app",
+      "sha256_cert_fingerprints": [
+        "B4:25:FE:BE:46:C4:89:D0:8B:29:B0:BE:33:A9:29:02:F8:78:5F:82:E2:DC:95:AA:52:8C:A9:2E:97:41:73:93"
+      ]
+    }
+  }
+]

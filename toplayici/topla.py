@@ -210,6 +210,11 @@ if __name__ == "__main__":
     with open(os.path.join(KLASOR, "..", "site", "veri", "hazir.json"), "w", encoding="utf-8") as f:
         json.dump(hazir, f, ensure_ascii=False)
     turkiye_ozet(hazir)
+    try:
+        import manset                        # ana sayfa manşeti (site/veri/manset.json)
+        manset.guncelle()
+    except Exception:                        # manşet bozulsa da etkinlik listeleri kaydedilsin
+        traceback.print_exc()
     if bozuk:
         print("HATALI İLLER:", ", ".join(sorted(bozuk)))
         sys.exit(1)

@@ -1,0 +1,6 @@
+# İmza anahtarı ASLA depoya girmez
+*.jks
+*.keystore
+.gradle/
+build/
+local.properties
