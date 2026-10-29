@@ -7,7 +7,7 @@ Slogan: **Bugün ne yapsam?** · Alan adı adayı: etkinlikvar.com.tr (2026-10-2
 ## Nasıl açılır?
 - **Bilgisayarda deneme:** Claude uygulamasında "etkinlik-var" önizlemesini başlat (adres: http://localhost:8792).
 - **Etkinlikleri elle güncelleme:** `BASLAT_TOPLA.bat` dosyasına çift tıkla.
-- **İnternette yayın:** Henüz yok. Bu klasör artık kendi git deposu (yerelde hazır, 1 kayıt). Yunus onay verince GitHub'da  açılıp yüklenecek, adres https://yunusbasyigit44-bot.github.io/etkinlik-var/ olacak; her sabah 06:00'da kendini güncelleyecek (`.github/workflows/guncelle.yml` hazır).
+- **İnternette yayın:** Henüz yok. Kod GitHub'da: https://github.com/yunusbasyigit44-bot/etkinlik-var (herkese açık). Site (GitHub Pages) Yunus onay verince açılacak, adres https://yunusbasyigit44-bot.github.io/etkinlik-var/ olacak; her sabah 06:00'da kendini güncelleyecek (`.github/workflows/guncelle.yml` hazır).
 
 ## Klasörler
 | Yol | Ne |

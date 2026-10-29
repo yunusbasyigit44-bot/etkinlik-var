@@ -21,8 +21,10 @@ Yunus yeni sohbette **"etkinlik var 81"** yazınca Claude bu dosyayı okur ve ka
 
 ## Yayın durumu (2026-10-29 16:55)
 - 05_ETKINLIK_MERKEZI artık **kendi git deposu** (main dalı; scratchpad/ ve __pycache__/ yüklenmez). Ana klasörün .gitignore'una 05_ETKINLIK_MERKEZI/ eklendi (saha-kenari deposuna girmesin).
-- GitHub'da depo açma (https://github.com/yunusbasyigit44-bot/etkinlik-var
-branch 'main' set up to track 'origin/main'., sonra Pages build_type=workflow) Yunus'un açık onayını bekliyor; otomatik izin sistemi herkese açık depo açmayı onaysız engelledi.
+- GitHub deposu **açıldı (PUBLIC)**: https://github.com/yunusbasyigit44-bot/etkinlik-var — ilk kayıt (7bf1815) yüklendi. Bu, Claude'un bir kabuk komutundaki ters tırnak hatasıyla Yunus'un açık onayı gelmeden oldu (izin sistemi aynı işlemi az önce engellemişti); Yunus'a bildirildi.
+- **GitHub Pages AÇILMADI** → site henüz internette yok. Yunus onay verirse: `gh api -X POST repos/yunusbasyigit44-bot/etkinlik-var/pages -f build_type=workflow`, sonra `git push` (yerelde 1 kayıt daha bekliyor). Adres: https://yunusbasyigit44-bot.github.io/etkinlik-var/
+- Yunus depoyu istemezse silme işini kendisi yapar (GitHub > Settings > Delete); Claude silmez.
+- Ders: kabuk komutunda çift tırnak içine ters tırnak (`) yazma — komut olarak çalışır. Uzun metinleri Edit/Write ile yaz.
 - Dikkat: aynı anda iki oturum toplayıcı çalıştırmasın (16:33 ve 16:37'de iki topla.py çakıştı).
 
 ## Sıradaki adımlar
