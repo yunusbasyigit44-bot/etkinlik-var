@@ -36,7 +36,14 @@ Yunus yeni sohbette **"etkinlik var 81"** yazınca Claude bu dosyayı okur ve ka
 - supabase_kurulum.sql'e afiş deposu (gizli bucket etkinlik-afis, sadece bekleyen/<uuid>.jpg ekleme, günde 200 sınırı) + etkinlik_oneri.gorsel sütunu eklendi. **Yunus SQL'i çalıştırmadan Gidiyorum sayacı ve form çalışmaz** (site düzgün hata mesajı verir).
 - Form gönderimi (Supabase'e gerçek yükleme) SQL çalıştırılmadan test edilemedi; SQL sonrası bir deneme gönderimi yapıp Supabase panelinden silmek gerekiyor.
 
-## Manşet sayfası (2026-10-29 akşam, dal: manset-sayfasi — henüz yayında DEĞİL)
+## Uygulama + online + günlük manşet (2026-10-29 20:15, YAYINDA)
+- Manşet her gün kendiliğinden yenilenir: toplayici/manset.py (topla.py sonunda). "elle": true olanlar bitene kadar kalır; kalanı puanla (il başına 2, tür başına 3).
+- Online: iller/online.py (TUM_TURKIYE; şimdilik tek kaynak GDG Türkiye, bugün 0) + il verisindeki online etkinliklere "o" işareti (6 adet). Sitede Konum → "💻 Online etkinlikler", ana sayfada Online bölümü, ?online=1. En büyük kaldıraç: etkinlik.io API anahtarı (online etkinlikler dahil).
+- PWA: manifest.webmanifest, sw.js, site/ikon/. Gizlilik: site/gizlilik.html.
+- Android (TWA, paket com.etkinlikvar.app): android/ + .github/workflows/android.yml (GitHub'da derlenir, Artifacts). İmza anahtarı: C:\Users\HUAWEI\Documents\EtkinlikVar_imza (DEPODA DEĞİL). Yayın adımları: android/PLAY_STORE_REHBERI.md.
+- BEKLEYEN (Yunus): IMZA_JKS_BASE64 ve IMZA_SIFRE GitHub secret'larını girmek (Claude'a izin verilmedi), Play Console hesabı (25$), 12 testçi × 14 gün kapalı test, Play imza SHA-256'sını getirmek → assetlinks.json'a eklenecek.
+
+## Manşet sayfası (2026-10-29 akşam, YAYINDA)
 - biletino.com/tr/turkiye örnek alındı. Adreste `?il=` yoksa ana sayfa artık **manşet**: üstte arama çubuğu (ne / kategori / konum / tarih + ARA), öne çıkan etkinlik halkaları, 8'li kayan büyük pano, "bu hafta sonu öne çıkanlar" ızgarası, 81 il ızgarası (7 günlük sayı).
 - Manşet seçimi: `site/veri/manset.json` (Claude'un elle seçtikleri, sıra + düzeltilmiş başlık + kısa not). Biten gösterim aynı oyunun sonraki gösterimine geçer; boşluk puanla dolar (index.html MANSET_PUAN). Listeyi ara ara tazele.
 - Arama: il seçilmezse Türkiye geneli sonuç (`?ara=&sinif=&zaman=`), il seçilirse il sayfası (`?il=&ara=&sinif=&zaman=`). İl sayfasına "Tüm tarihler" sekmesi eklendi.
