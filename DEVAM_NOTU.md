@@ -19,6 +19,12 @@ Yunus yeni sohbette **"etkinlik var 81"** yazınca Claude bu dosyayı okur ve ka
 - Özet tablo: README.md → "81 il özeti".
 - **Gözden geçirilecekler:** Karaman listesinde "GDG Devfest Ankara" (başka ilde; başlık filtresi "<il>" sonda geçince yakalamıyor). Zonguldak "Maden Müzesi (Kozlu)", Karaman "Aktekke Camii", "Hatuniye Medresesi" açıklamaları doğrulanmalı. Mersin "Uzuncaburç", Isparta "Yazılı Kanyon" fotoğrafları doğrulanmadı. Siirt/Karaman üniversite başlıklarında Türkçe harf kaybı (kaynaktan). Birçok ilde gezilecek yer fotoğraf oranı < %50 (Vikipedi 429 / madde adı bulunamadı) → mekan_gorsel.py'ye arama yedeği eklenebilir.
 
+## Yayın durumu (2026-10-29 16:55)
+- 05_ETKINLIK_MERKEZI artık **kendi git deposu** (main dalı; scratchpad/ ve __pycache__/ yüklenmez). Ana klasörün .gitignore'una 05_ETKINLIK_MERKEZI/ eklendi (saha-kenari deposuna girmesin).
+- GitHub'da depo açma (https://github.com/yunusbasyigit44-bot/etkinlik-var
+branch 'main' set up to track 'origin/main'., sonra Pages build_type=workflow) Yunus'un açık onayını bekliyor; otomatik izin sistemi herkese açık depo açmayı onaysız engelledi.
+- Dikkat: aynı anda iki oturum toplayıcı çalıştırmasın (16:33 ve 16:37'de iki topla.py çakıştı).
+
 ## Sıradaki adımlar
 1. (İsteğe bağlı) Gözden geçirilecekler listesini düzelt; fotoğraf oranını artır.
 2. Yayın hazırlığı: ayrı GitHub deposu + Pages (Yunus onayı gerekli), `.github/workflows/guncelle.yml` hazır.

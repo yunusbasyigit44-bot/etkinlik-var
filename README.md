@@ -2,12 +2,12 @@
 
 Slogan: **Bugün ne yapsam?** · Alan adı adayı: etkinlikvar.com.tr (2026-10-29 itibarıyla boş görünüyor; satın alma Yunus'ta)
 
-"Bugün ne yapsam?" diyenler için il il etkinlik sitesi. Pilot il: **Adana** (başlangıç 2026-10-29). Sonra iller **plaka sırasıyla** (02 Adıyaman, 03 Afyonkarahisar…) eklenecek.
+"Bugün ne yapsam?" diyenler için il il etkinlik sitesi. Pilot il: **Adana** (başlangıç 2026-10-29). **81 ilin hepsi eklendi (2026-10-29).**
 
 ## Nasıl açılır?
-- **Bilgisayarda deneme:** Claude uygulamasında "etkinlik-var" önizlemesini başlat (adres: http://localhost:8790).
+- **Bilgisayarda deneme:** Claude uygulamasında "etkinlik-var" önizlemesini başlat (adres: http://localhost:8792).
 - **Etkinlikleri elle güncelleme:** `BASLAT_TOPLA.bat` dosyasına çift tıkla.
-- **İnternette yayın:** Henüz yok. Yunus onay verince ayrı bir GitHub deposu açılacak; her sabah 06:00'da kendini güncelleyecek (`.github/workflows/guncelle.yml` hazır).
+- **İnternette yayın:** Henüz yok. Bu klasör artık kendi git deposu (yerelde hazır, 1 kayıt). Yunus onay verince GitHub'da  açılıp yüklenecek, adres https://yunusbasyigit44-bot.github.io/etkinlik-var/ olacak; her sabah 06:00'da kendini güncelleyecek (`.github/workflows/guncelle.yml` hazır).
 
 ## Klasörler
 | Yol | Ne |
