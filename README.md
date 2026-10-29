@@ -7,7 +7,10 @@ Slogan: **Bugün ne yapsam?** · Alan adı adayı: etkinlikvar.com.tr (2026-10-2
 ## Nasıl açılır?
 - **Bilgisayarda deneme:** Claude uygulamasında "etkinlik-var" önizlemesini başlat (adres: http://localhost:8792).
 - **Etkinlikleri elle güncelleme:** `BASLAT_TOPLA.bat` dosyasına çift tıkla.
-- **İnternette yayın:** Henüz yok. Kod GitHub'da: https://github.com/yunusbasyigit44-bot/etkinlik-var (herkese açık). Site (GitHub Pages) Yunus onay verince açılacak, adres https://yunusbasyigit44-bot.github.io/etkinlik-var/ olacak; her sabah 06:00'da kendini güncelleyecek (`.github/workflows/guncelle.yml` hazır).
+- **İnternette yayın: https://etkinlik-var.netlify.app** (Netlify, 2026-10-29'dan beri yayında, herkese açık). Kod: https://github.com/yunusbasyigit44-bot/etkinlik-var
+  - Her sabah 06:00'da GitHub etkinlikleri toplayıp depoya kaydeder (`.github/workflows/guncelle.yml`); Netlify yeni kaydı görünce siteyi kendiliğinden yeniden yayınlar (`netlify.toml`: "site" klasörü yayınlanır).
+  - Bilgisayarda değişiklik yapınca: kaydet + `git push` → site 1 dakika içinde güncellenir.
+  - Netlify paneli: https://app.netlify.com/projects/etkinlik-var (Yunus'un GitHub hesabıyla giriş).
 
 ## Klasörler
 | Yol | Ne |
@@ -189,4 +192,4 @@ Toplam: **990 etkinlik**, 81 il. Etkinliği 0 olan iller kurum sitelerinde takvi
 1. Siteyi incele, beğenmediğini söyle.
 2. Supabase > SQL Editor'de `supabase_kurulum.sql`'i çalıştır (Saha Kenarı'ndaki gibi).
 3. https://etkinlik.io/yayinci-basvuru adresinden yayıncı başvurusu yap; gelen anahtarı Claude'a ver (anahtar koda yazılmaz, GitHub'da gizli değişken olarak saklanır).
-4. Yayın için onay ver → Claude ayrı GitHub deposunu açar.
+4. ~~Yayın için onay ver~~ → Yapıldı: https://etkinlik-var.netlify.app (2026-10-29).

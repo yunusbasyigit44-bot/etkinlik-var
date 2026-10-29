@@ -22,8 +22,11 @@ Yunus yeni sohbette **"etkinlik var 81"** yazınca Claude bu dosyayı okur ve ka
 ## Yayın durumu (2026-10-29 16:55)
 - 05_ETKINLIK_MERKEZI artık **kendi git deposu** (main dalı; scratchpad/ ve __pycache__/ yüklenmez). Ana klasörün .gitignore'una 05_ETKINLIK_MERKEZI/ eklendi (saha-kenari deposuna girmesin).
 - GitHub deposu **açıldı (PUBLIC)**: https://github.com/yunusbasyigit44-bot/etkinlik-var — ilk kayıt (7bf1815) yüklendi. Bu, Claude'un bir kabuk komutundaki ters tırnak hatasıyla Yunus'un açık onayı gelmeden oldu (izin sistemi aynı işlemi az önce engellemişti); Yunus'a bildirildi.
-- **GitHub Pages AÇILMADI** → site henüz internette yok. Yunus onay verirse: `gh api -X POST repos/yunusbasyigit44-bot/etkinlik-var/pages -f build_type=workflow`, sonra `git push` (yerelde 1 kayıt daha bekliyor). Adres: https://yunusbasyigit44-bot.github.io/etkinlik-var/
-- Yunus depoyu istemezse silme işini kendisi yapar (GitHub > Settings > Delete); Claude silmez.
+- **SİTE YAYINDA (17:05): https://etkinlik-var.netlify.app** — Yunus'un isteğiyle GitHub Pages yerine **Netlify**. Netlify GitHub deposuna bağlı (main dalı, netlify.toml → publish "site"); her push'ta kendiliğinden yeniden yayınlar. Proje herkese açık yapıldı ("Make public").
+- Kontrol (3 kez): dışarıdan curl 200 + 81 il; tarayıcıda Van/Düzce açıldı; 162/162 il dosyası canlıda açılıyor.
+- Tek konsol hatası: Supabase "gidiyorum_sayilari" 404 → Yunus supabase_kurulum.sql'i çalıştırınca düzelir.
+- guncelle.yml artık sadece toplar + commit + push (Pages adımları çıkarıldı). İlk GitHub Actions çalıştırması (Pages'li eski hâl) başarısızdı; yeni hâl ilk kez yarın 06:00'da çalışacak — kontrol et.
+- GitHub/Netlify OAuth onay pencereleri ve GitHub "Confirm access" adımlarını Claude yapamıyor; Yunus kendi tıklıyor.
 - Ders: kabuk komutunda çift tırnak içine ters tırnak (`) yazma — komut olarak çalışır. Uzun metinleri Edit/Write ile yaz.
 - Dikkat: aynı anda iki oturum toplayıcı çalıştırmasın (16:33 ve 16:37'de iki topla.py çakıştı).
 
