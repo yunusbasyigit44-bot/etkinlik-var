@@ -24,14 +24,21 @@ Slogan: **Bugün ne yapsam?** · Alan adı adayı: etkinlikvar.com.tr (2026-10-2
 | `supabase_kurulum.sql` | "Gidiyorum" sayacı ve "Etkinliğini ekle" formu için veritabanı kurulumu |
 
 ## Özellikler (örnek sitelerden alınanlar dahil)
-- Bugün / Yarın / Hafta sonu / 7 gün / 30 gün sekmeleri; ilçe, tür, ücretsiz filtreleri, arama
-- Hızlı seçim: Çocuklar için, Ücretsiz, Akşam, Sahne *(Biletinial'in "Çocuklar İçin" düğmesinden)*
+- **Sol menü** (2026-10-29; telefonda "☰" ile soldan açılır): Türkiye geneli sayaç (toplam / bugün / şu an süren / hafta sonu, sayarak artar), "Bu hafta en hareketli iller" çubukları, tüm filtreler
+- **Şu an** seçenekleri: Şu an sürenler · Az sonra (3 saat içinde) · Bugün başlayanlar · Devam eden (sergi, festival). Kartlarda canlı rozet: "● Şu an sürüyor", "⏳ 40 dk sonra başlıyor", "🔁 Devam ediyor · son gün …" — her dakika kendiliğinden güncellenir
+- **24 tür, 8 sınıf** (Sahne, Müzik, Aile & Çocuk, Kültür & Sanat, Eğitim & Bilim, Spor & Doğa, Festival & Lezzet, Toplum). Tür kuralları `toplayici/ortak.py` → `KATEGORILER`; sınıflar `site/index.html` → `SINIFLAR` (yeni tür eklenince ikisine de ekle). Üstte sınıf düğmeleri, solda açılır sınıf + işaretli alt türler, sayılarıyla
+- **Canlı şerit** (üstte kayan): Türkiye'de şu an süren / az sonra başlayan etkinlikler, il adına tıklayınca o ile gider. Fare üstüne gelince durur. Hareket istemeyenlerde (cihaz ayarı) animasyonlar kapanır
+- Bugün / Yarın / Hafta sonu / 7 gün / 30 gün sekmeleri; ilçe, ücretsiz, arama; seçili filtreler üstte "✕" ile tek tek kaldırılır
+- Hızlı seçim: Akşam (18:00+), İş çıkışı (hafta içi 17:30+), Aileyle gidilir
+- Türkiye özeti `site/veri/turkiye.json` her toplamada `topla.py` tarafından yazılır
 - Her etkinlikte afiş/görsel ve **Detaylar / Bilet** düğmesi (etkinliğin kendi sayfasına yönlendirir). Devlet Tiyatrosu afişleri 1 saatlik linkle geldiği için `site/veri/gorsel/` içine indirilir; eski afişler otomatik silinir
 - Her gün açık yerlerde Vikipedi fotoğrafı ve "Hakkında" bağlantısı (`toplayici/mekan_gorsel.py` ile, yeni mekan eklenince bir kez çalıştır)
 - **Gidiyorum** düğmesi ve kaç kişinin gittiği (sohbet yok — Yunus'un kararı)
 - Takvime ekle (telefon takvimine), Paylaş (WhatsApp), Yol tarifi (Google Haritalar), Kaynağa git
 - **Bana bir şey öner** düğmesi: bugünden rastgele bir etkinlik; yoksa her gün açık bir yer
 - **Etkinliğini ekle** formu: kurum/kulüp/kafe kendi etkinliğini gönderir, onaydan sonra yayınlanır *(Eventfinda dersi)*
+  - **Afiş/fotoğraf ekleme** (sürükle-bırak da olur). Güvenlik: sadece JPG/PNG/WEBP, en fazla 10 MB; fotoğraf tarayıcıda yeniden çizilip ≤1 MB JPEG'e çevrilir (konum/EXIF ve dosyaya gömülü her şey silinir; SVG ve sahte dosyalar reddedilir); "paylaşma hakkım var" onayı zorunlu; spam tuzağı alanı + 4 saniye kuralı; veritabanında gizli depo, ziyaretçi sadece yeni dosya ekleyebilir (okuyamaz/silemez/üzerine yazamaz), günde en fazla 200 fotoğraf, cihaz başına günde 10 etkinlik. Onaylanan afiş siteye elle kopyalanır
+  - Sitenin güvenlik başlıkları `netlify.toml` içinde (başka sitelere gömülemez, sadece Supabase ile konuşur)
 - Biletli konser ve gösteriler için bilet sitelerinin il sayfalarına bağlantı (içerik kopyalanmaz)
 - "Bu listeyi nereden topluyoruz?" tablosu: her kaynağın çalışıp çalışmadığı açıkça görünür
 - 81 il seçici; hazır olmayan il "yakında" der · koyu tema · telefona uygun

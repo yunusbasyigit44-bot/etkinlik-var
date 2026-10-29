@@ -161,7 +161,7 @@ def devlet_opera(kaynak, bugun):
             "saat": (p.get("oyunSaatleri") or [gun.strftime("%H:%M")])[0],
             "mekan": sahne or "Devlet Opera ve Balesi",
             "ilce": _ilce(kaynak, sahne),
-            "kategori": "Çocuk" if cocuk else ("Konser" if re.search(r"konser|resital|senfoni", ortak.kucuk(ad)) else "Tiyatro"),
+            "kategori": "Çocuk" if cocuk else ("Konser" if re.search(r"konser|resital|senfoni", ortak.kucuk(ad)) else "Opera & Bale"),
             "ucretsiz": False,
             "gorsel": gorsel,
             "url": p.get("seoFullUrl") or "https://www.operabale.gov.tr/directorates/" + OPERA_SAYFA.get(no, ""),

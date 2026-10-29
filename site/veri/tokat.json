@@ -1,6 +1,6 @@
 {
  "il": "tokat",
- "guncelleme": "2026-10-29T16:44+03:00",
+ "guncelleme": "2026-10-29T17:30+03:00",
  "ilceler": [
   "Merkez",
   "Almus",
@@ -24,7 +24,7 @@
    "saat": null,
    "ilce": "Merkez",
    "mekan": "Tokat Belediyesi",
-   "kategori": "Diğer",
+   "kategori": "Anma / Tören",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Tokat Belediyesi",
@@ -40,7 +40,7 @@
    "saat": null,
    "ilce": "Merkez",
    "mekan": "Tokat Belediyesi",
-   "kategori": "Konser",
+   "kategori": "Dans",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Tokat Belediyesi",

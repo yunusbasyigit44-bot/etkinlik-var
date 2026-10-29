@@ -1,6 +1,6 @@
 {
  "il": "diyarbakir",
- "guncelleme": "2026-10-29T16:41+03:00",
+ "guncelleme": "2026-10-29T17:22+03:00",
  "ilceler": [
   "Bağlar",
   "Bismil",
@@ -221,7 +221,7 @@
    "saat": null,
    "ilce": "Sur",
    "mekan": "Dicle Üniversitesi",
-   "kategori": "Diğer",
+   "kategori": "Gençlik",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Dicle Üniversitesi",
@@ -589,7 +589,7 @@
    "saat": null,
    "ilce": "Sur",
    "mekan": "Dicle Üniversitesi",
-   "kategori": "Akademik",
+   "kategori": "Edebiyat",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Dicle Üniversitesi",

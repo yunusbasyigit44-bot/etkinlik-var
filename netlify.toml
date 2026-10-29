@@ -3,6 +3,18 @@
   publish = "site"
   command = ""
 
+# Güvenlik başlıkları: site başka sitelerin içine gömülemez, sadece kendi dosyaları ve
+# Supabase (Gidiyorum sayacı + Etkinliğini ekle formu) ile konuşabilir.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=(), payment=()"
+    Strict-Transport-Security = "max-age=31536000"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; connect-src 'self' https://xsskbnvpsjsuvjovehxc.supabase.co; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'"
+
 # Etkinlik verisi her gün değişir; tarayıcı eski listeyi göstermesin.
 [[headers]]
   for = "/veri/*.json"

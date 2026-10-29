@@ -30,6 +30,12 @@ Yunus yeni sohbette **"etkinlik var 81"** yazınca Claude bu dosyayı okur ve ka
 - Ders: kabuk komutunda çift tırnak içine ters tırnak (`) yazma — komut olarak çalışır. Uzun metinleri Edit/Write ile yaz.
 - Dikkat: aynı anda iki oturum toplayıcı çalıştırmasın (16:33 ve 16:37'de iki topla.py çakıştı).
 
+## Sol menü sürümü (2026-10-29 akşam)
+- index.html yeniden düzenlendi: sol menü (telefonda çekmece), Türkiye geneli sayaç (veri/turkiye.json), "şu an" filtreleri, canlı kayan şerit, 24 tür / 8 sınıf, fotoğraflı güvenli form. Eski hâli: `_arsiv/index_2026-10-29_solmenu_oncesi.html`.
+- Türler genişletildi: ortak.py KATEGORILER (24 tür) + Devlet Opera eserleri artık "Opera & Bale". Sınıflar index.html SINIFLAR.
+- supabase_kurulum.sql'e afiş deposu (gizli bucket etkinlik-afis, sadece bekleyen/<uuid>.jpg ekleme, günde 200 sınırı) + etkinlik_oneri.gorsel sütunu eklendi. **Yunus SQL'i çalıştırmadan Gidiyorum sayacı ve form çalışmaz** (site düzgün hata mesajı verir).
+- Form gönderimi (Supabase'e gerçek yükleme) SQL çalıştırılmadan test edilemedi; SQL sonrası bir deneme gönderimi yapıp Supabase panelinden silmek gerekiyor.
+
 ## Sıradaki adımlar
 1. (İsteğe bağlı) Gözden geçirilecekler listesini düzelt; fotoğraf oranını artır.
 2. Yayın hazırlığı: ayrı GitHub deposu + Pages (Yunus onayı gerekli), `.github/workflows/guncelle.yml` hazır.

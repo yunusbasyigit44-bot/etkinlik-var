@@ -177,6 +177,22 @@ def duzenle(e, kaynak, bugun):
     }
 
 
+def turkiye_ozet(hazir):
+    """Sol menüdeki Türkiye geneli sayaç ve kayan şerit için tüm illerin kısa listesi (veri/turkiye.json).
+    Hangi etkinliğin "şu an" sürdüğünü site ziyaretçinin saatine göre kendisi hesaplar."""
+    veri = os.path.join(KLASOR, "..", "site", "veri")
+    etkinlikler = []
+    for ad in hazir:
+        with open(os.path.join(veri, il_kodu(ad) + ".json"), encoding="utf-8") as f:
+            for e in json.load(f)["etkinlikler"]:
+                etkinlikler.append({"id": e["id"], "il": ad, "b": e["baslik"], "t": e["tarih"], "bt": e.get("bitis"),
+                                    "s": e.get("saat"), "k": e.get("kategori"), "u": e.get("ucretsiz")})
+    etkinlikler.sort(key=lambda e: (e["t"], e["s"] or "99"))
+    with open(os.path.join(veri, "turkiye.json"), "w", encoding="utf-8") as f:
+        json.dump({"guncelleme": dt.datetime.now().astimezone().isoformat(timespec="minutes"),
+                   "etkinlikler": etkinlikler}, f, ensure_ascii=False, separators=(",", ":"))
+
+
 if __name__ == "__main__":
     bozuk = set()
     for il in (sys.argv[1:] or HAZIR_ILLER):
@@ -192,6 +208,7 @@ if __name__ == "__main__":
              and os.path.exists(os.path.join(KLASOR, "..", "site", "veri", il_kodu(ad) + ".json"))]
     with open(os.path.join(KLASOR, "..", "site", "veri", "hazir.json"), "w", encoding="utf-8") as f:
         json.dump(hazir, f, ensure_ascii=False)
+    turkiye_ozet(hazir)
     if bozuk:
         print("HATALI İLLER:", ", ".join(sorted(bozuk)))
         sys.exit(1)

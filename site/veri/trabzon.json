@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-10-29T16:44+03:00",
+ "guncelleme": "2026-10-29T17:30+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -270,7 +270,7 @@
    "saat": "13:30",
    "ilce": "Ortahisar",
    "mekan": "Derslik 1",
-   "kategori": "Diğer",
+   "kategori": "Bilim & Teknoloji",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Karadeniz Teknik Üniversitesi",
@@ -526,7 +526,7 @@
    "saat": null,
    "ilce": "Ortahisar",
    "mekan": "Trabzon Üniversitesi",
-   "kategori": "Söyleşi",
+   "kategori": "Kariyer",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Trabzon Üniversitesi",

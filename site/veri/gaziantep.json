@@ -1,6 +1,6 @@
 {
  "il": "gaziantep",
- "guncelleme": "2026-10-29T16:42+03:00",
+ "guncelleme": "2026-10-29T17:23+03:00",
  "ilceler": [
   "Şahinbey",
   "Şehitkamil",
@@ -21,7 +21,7 @@
    "saat": "10:00",
    "ilce": "Şahinbey",
    "mekan": "Gaziantep Kültür Sanat",
-   "kategori": "Spor",
+   "kategori": "Sergi",
    "ucretsiz": true,
    "ozet": "Yarışma",
    "kaynak_ad": "Gaziantep Büyükşehir Belediyesi",
@@ -69,7 +69,7 @@
    "saat": null,
    "ilce": "Şehitkamil",
    "mekan": "Gaziantep Üniversitesi",
-   "kategori": "Konser",
+   "kategori": "Geleneksel Müzik",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Gaziantep Üniversitesi",

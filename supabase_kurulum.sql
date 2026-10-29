@@ -93,3 +93,39 @@ create policy "herkes gonderebilir" on public.etkinlik_oneri
   for insert to anon, authenticated with check (true);
 -- Okuma kuralı YOK: gönderilenleri site ziyaretçileri göremez.
 grant insert on public.etkinlik_oneri to anon, authenticated;
+
+-- ------------------------------------------------------------
+-- Afiş / fotoğraf yükleme (2026-10-29)
+-- Güvenlik kuralları:
+--   * Depo (bucket) GİZLİ: yüklenen fotoğraflar internette görünmez; sadece Yunus/Claude
+--     Supabase panelinden bakar. Onaylanan afiş siteye ayrıca kopyalanır.
+--   * Sadece JPEG, en fazla 1 MB (site fotoğrafı yüklemeden önce küçültüp JPEG'e çevirir,
+--     bu sırada konum gibi gizli bilgiler silinir).
+--   * Ziyaretçi sadece "bekleyen/<rastgele-kimlik>.jpg" adıyla YENİ dosya ekleyebilir;
+--     okuyamaz, listeleyemez, silemez, üzerine yazamaz.
+--   * Kötüye kullanıma karşı tüm site için günde en fazla 200 fotoğraf.
+-- ------------------------------------------------------------
+alter table public.etkinlik_oneri add column if not exists gorsel text
+  check (gorsel is null or gorsel ~ '^bekleyen/[0-9a-f-]{36}\.jpg$');
+
+insert into storage.buckets (id, name, public, file_size_limit, allowed_mime_types)
+values ('etkinlik-afis', 'etkinlik-afis', false, 1048576, array['image/jpeg'])
+on conflict (id) do update set public = false, file_size_limit = 1048576, allowed_mime_types = array['image/jpeg'];
+
+create or replace function public.afis_kotasi_uygun() returns boolean
+language sql stable security definer set search_path = public, storage as $$
+  select count(*) < 200 from storage.objects
+  where bucket_id = 'etkinlik-afis' and created_at > now() - interval '1 day';
+$$;
+revoke all on function public.afis_kotasi_uygun() from public;
+grant execute on function public.afis_kotasi_uygun() to anon, authenticated;
+
+drop policy if exists "etkinlik afis yukleme" on storage.objects;
+create policy "etkinlik afis yukleme" on storage.objects
+  for insert to anon, authenticated
+  with check (
+    bucket_id = 'etkinlik-afis'
+    and name ~ '^bekleyen/[0-9a-f-]{36}\.jpg$'
+    and public.afis_kotasi_uygun()
+  );
+-- Okuma / güncelleme / silme kuralı YOK: ziyaretçiler hiçbir afişi göremez ya da değiştiremez.

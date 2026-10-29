@@ -131,18 +131,35 @@ def saat_bul(metin):
     return f"{int(r[1]):02d}:{r[2]}" if r else None
 
 
+# Sıra önemli: ilk eşleşen tür seçilir (özel olanlar genel olanlardan önce).
+# Site bu türleri üst sınıflarda gruplar (index.html → SINIFLAR); yeni tür eklenirse oraya da ekle.
 KATEGORILER = [
-    ("Çocuk", ["çocuk", "masal", "kukla", "minik"]),
-    ("Konser", ["konser", "müzik", "dinleti", "koro", "orkestra", "türkü", "şarkı", "resital"]),
-    ("Tiyatro", ["tiyatro", "oyun sahne", "sahneleniyor", "perde", "gösteri"]),
-    ("Sinema", ["film", "sinema", "gösterim", "festivali film"]),
-    ("Sergi", ["sergi", "sergisi", "fotoğraf", "resim", "müze"]),
-    ("Spor", ["turnuva", "maraton", "koşu", "yarış", "spor", "futbol", "voleybol", "basketbol", "satranç", "bisiklet"]),
-    ("Akademik", ["kongre", "sempozyum", "sertifika", "çalıştay", "bilimsel toplantı"]),
-    ("Söyleşi", ["söyleşi", "konferans", "panel", "seminer", "imza", "kitap", "talks", "kariyer", "buluşma"]),
-    ("Atölye", ["atölye", "kurs", "eğitim", "workshop"]),
-    ("Festival", ["festival", "karnaval", "şenlik", "fuar", "kermes"]),
-    ("Anma / Tören", ["anma", "tören", "kutlama", "cumhuriyet bayramı", "19 mayıs", "23 nisan", "30 ağustos"]),
+    ("Çocuk", ["çocuk", "masal", "kukla", "minik", "karagöz"]),
+    ("Opera & Bale", ["opera", "bale", "operet"]),
+    ("Dans", ["dans", "halk oyunları", "halkoyunları", "zeybek", "folklor", "tango", "salsa", "horon"]),
+    ("Geleneksel Müzik", ["türkü", "aşık", "aşıklar", "fasıl", "tasavvuf", "sema", "mevlevi", "ilahi", "halk müziği",
+                          "türk müziği", "sanat müziği", "ulusal müziğimiz", "mehter"]),
+    ("Konser", ["konser", "müzik", "dinleti", "koro", "orkestra", "şarkı", "resital", "caz", "senfoni", "rock"]),
+    ("Komedi", ["komedi", "stand-up", "stand up", "doğaçlama", "skeç"]),
+    ("Tiyatro", ["tiyatro", "oyun sahne", "sahneleniyor", "perde", "gösteri", "müzikal"]),
+    ("Sinema", ["film", "sinema", "gösterim", "belgesel", "kısa film"]),
+    ("Edebiyat", ["kitap", "şiir", "edebiyat", "imza günü", "imza", "yazar", "öykü", "roman"]),
+    ("Sergi", ["sergi", "sergisi", "fotoğraf", "resim", "müze", "karikatür", "heykel"]),
+    ("Bilim & Teknoloji", ["teknoloji", "yazılım", "kodlama", "devfest", "hackathon", "siber", "robot", "yapay zeka",
+                           "yapay zekâ", "bilim şenliği", "uzay", "teknofest", "girişimcilik"]),
+    ("Kariyer", ["kariyer", "staj", "istihdam", "işkur", "mülakat", "iş fuarı", "sınavları", "yds", "kpss", "soru çözme"]),
+    ("Sağlık", ["sağlık", "saglig", "kanser", "yoga", "kan bağışı", "tarama", "diyabet", "beslenme"]),
+    ("Spor", ["turnuva", "maraton", "koşu", "yarış", "spor", "futbol", "voleybol", "basketbol", "hentbol", "satranç",
+              "bisiklet", "ligi", "maç", "yüzme", "güreş"]),
+    ("Doğa & Gezi", ["gezi", "gezisi", "turu", "yürüyüş", "doğa", "kamp", "fidan", "ağaç dikimi", "ormanı", "kuş gözlem"]),
+    ("Yemek", ["yemek", "gastronomi", "lezzet", "mutfak", "tadım", "kahvaltı"]),
+    ("Akademik", ["kongre", "sempozyum", "sertifika", "çalıştay", "bilimsel toplantı", "hukuk"]),
+    ("Söyleşi", ["söyleşi", "konferans", "panel", "seminer", "talks", "buluşma", "sohbet", "anlamak"]),
+    ("Atölye", ["atölye", "kurs", "eğitim", "workshop", "kutu oyunları"]),
+    ("Festival", ["festival", "karnaval", "şenlik", "bozum", "hıdrellez", "nevruz"]),
+    ("Fuar & Kermes", ["fuar", "kermes", "pazar yeri", "bazaar", "kitap fuarı"]),
+    ("Gençlik", ["gençlik", "öğrenci topluluğu", "topluluğu", "üniversite tanıtım"]),
+    ("Anma / Tören", ["anma", "tören", "kutlama", "cumhuriyet", "19 mayıs", "23 nisan", "30 ağustos", "hatırasına"]),
 ]
 
 
