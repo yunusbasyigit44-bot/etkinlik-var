@@ -36,6 +36,13 @@ Yunus yeni sohbette **"etkinlik var 81"** yazınca Claude bu dosyayı okur ve ka
 - supabase_kurulum.sql'e afiş deposu (gizli bucket etkinlik-afis, sadece bekleyen/<uuid>.jpg ekleme, günde 200 sınırı) + etkinlik_oneri.gorsel sütunu eklendi. **Yunus SQL'i çalıştırmadan Gidiyorum sayacı ve form çalışmaz** (site düzgün hata mesajı verir).
 - Form gönderimi (Supabase'e gerçek yükleme) SQL çalıştırılmadan test edilemedi; SQL sonrası bir deneme gönderimi yapıp Supabase panelinden silmek gerekiyor.
 
+## Manşet sayfası (2026-10-29 akşam, dal: manset-sayfasi — henüz yayında DEĞİL)
+- biletino.com/tr/turkiye örnek alındı. Adreste `?il=` yoksa ana sayfa artık **manşet**: üstte arama çubuğu (ne / kategori / konum / tarih + ARA), öne çıkan etkinlik halkaları, 8'li kayan büyük pano, "bu hafta sonu öne çıkanlar" ızgarası, 81 il ızgarası (7 günlük sayı).
+- Manşet seçimi: `site/veri/manset.json` (Claude'un elle seçtikleri, sıra + düzeltilmiş başlık + kısa not). Biten gösterim aynı oyunun sonraki gösterimine geçer; boşluk puanla dolar (index.html MANSET_PUAN). Listeyi ara ara tazele.
+- Arama: il seçilmezse Türkiye geneli sonuç (`?ara=&sinif=&zaman=`), il seçilirse il sayfası (`?il=&ara=&sinif=&zaman=`). İl sayfasına "Tüm tarihler" sekmesi eklendi.
+- topla.py turkiye_ozet artık mekân/ilçe/görsel/link de yazıyor (turkiye.json ~320 KB).
+- Önizleme: oturum klasöründeki launch.json "etkinlik-manset" (port 8797). Yayın = bu dalı main'e birleştirip push (Yunus onayıyla).
+
 ## Sıradaki adımlar
 1. (İsteğe bağlı) Gözden geçirilecekler listesini düzelt; fotoğraf oranını artır.
 2. Yayın hazırlığı: ayrı GitHub deposu + Pages (Yunus onayı gerekli), `.github/workflows/guncelle.yml` hazır.
