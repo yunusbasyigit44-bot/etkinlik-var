@@ -1,0 +1,64 @@
+{
+ "il": "online",
+ "guncelleme": "2026-10-29T20:18+03:00",
+ "ilceler": [],
+ "etkinlikler": [],
+ "kaynaklar": [
+  {
+   "ad": "Google Developer Groups Türkiye (çevrim içi etkinlikler)",
+   "tur": "topluluk",
+   "url": "https://gdg.community.dev/",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "KOSGEB çevrim içi eğitimler",
+   "tur": "kamu",
+   "url": "https://lms.kosgeb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "eğitimler giriş (üyelik) gerektiren öğrenme sisteminde; okunmuyor"
+  },
+  {
+   "ad": "Kariyer Kapısı, SALT, TOBB/kalkınma ajansları",
+   "tur": "kamu",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "siteye ulaşılamadı / etkinlik takvimi okunamadı (sonraki tur)"
+  },
+  {
+   "ad": "Kommunity (topluluk platformu)",
+   "tur": "topluluk",
+   "url": "https://kommunity.com/events",
+   "etkinlik_sayisi": 0,
+   "durum": "sayfa tarayıcıda (JS) çiziliyor; herkese açık veri ucu yok"
+  },
+  {
+   "ad": "TÜBA, Bilim Akademisi",
+   "tur": "kamu",
+   "url": "https://www.tuba.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "etkinlik takvimi sayfası bulunamadı / çevrim içi program yok"
+  },
+  {
+   "ad": "TÜBİTAK etkinlikleri",
+   "tur": "kamu",
+   "url": "https://www.tubitak.gov.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "listedeki etkinlikler yüz yüze; çevrim içi ayrımı yok"
+  },
+  {
+   "ad": "Türk Omurga Derneği webinarları",
+   "tur": "stk",
+   "url": "https://turkomurga.org.tr/turkomurga/webinarlar",
+   "etkinlik_sayisi": 0,
+   "durum": "güncel program yayımlanmamış (son program 2023-2024)"
+  },
+  {
+   "ad": "Üniversite webinar sayfaları (iCal)",
+   "tur": "universite",
+   "url": null,
+   "etkinlik_sayisi": 0,
+   "durum": "denenen büyük üniversitelerde herkese açık iCal akışı yok; Anadolu Ü. listesinde çevrim içi ayrımı yok"
+  }
+ ]
+}
