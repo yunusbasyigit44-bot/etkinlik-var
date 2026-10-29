@@ -68,7 +68,7 @@ def guncelle(bugun=None):
         eski = {}
 
     def uygun(e):
-        return e.get("g") and (e.get("bt") or e["t"]) >= bugun_s and e["t"] <= sinir_s
+        return e.get("g") and e["il"] != "Online" and (e.get("bt") or e["t"]) >= bugun_s and e["t"] <= sinir_s
 
     kimlik = {e["id"]: e for e in tr}
     secilen, gorulen, il_say, tur_say = [], set(), {}, {}

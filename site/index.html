@@ -378,6 +378,11 @@ footer{color:var(--soluk);font-size:13px;padding:24px 0 40px;border-top:1px soli
         <div class="bolum-ust"><h2 id="oneCikanBaslik">Bu hafta sonu öne çıkanlar</h2><a href="?zaman=haftasonu" id="oneCikanHepsi">Tümünü gör →</a></div>
         <div class="mini-izgara" id="oneCikan"></div>
       </section>
+      <section id="onlineBolum" class="gizli">
+        <div class="bolum-ust"><h2>💻 Online etkinlikler</h2><a href="?online=1">Tümünü gör →</a></div>
+        <p class="not">Evden katılabileceğiniz seminer, atölye ve söyleşiler. Kartlar katılım sayfasını açar.</p>
+        <div class="mini-izgara" id="onlineListe"></div>
+      </section>
       <section id="ilBolum">
         <h2>İlini seç</h2>
         <p class="not">Yanındaki sayı önümüzdeki 7 gündeki etkinlik sayısı.</p>
@@ -832,7 +837,7 @@ function turkiyeCiz(){
   sayac($("trHaftaSonu"), TR.filter(e => aralikta(e, a.haftasonu)).length);
   $("trIl").textContent = HAZIR.length || 81;
   const say = {};
-  for(const e of TR) if(aralikta(e, a.hafta)) say[e.il] = (say[e.il]||0) + 1;
+  for(const e of TR) if(aralikta(e, a.hafta) && e.il !== "Online") say[e.il] = (say[e.il]||0) + 1;
   const ilk = Object.entries(say).sort((x,y) => y[1]-x[1]).slice(0,7), en = ilk.length ? ilk[0][1] : 1;
   $("cubuklar").innerHTML = ilk.map(([il,s]) => `<a class="cubuk" href="?il=${kod(il)}"><span>${kacis(il)}</span><i data-w="${Math.max(4, s/en*100)}"></i><b>${s}</b></a>`).join("");
   requestAnimationFrame(() => requestAnimationFrame(() => document.querySelectorAll(".cubuk i").forEach(i => i.style.width = i.dataset.w + "%")));
@@ -848,7 +853,7 @@ function seritCiz(){
   if(!l.length){ $("canliSerit").classList.add("gizli"); return; }
   const renk = {simdi:"nabiz", azsonra:"sari", bugun:"gri", devam:"gri"};
   const oge = e => { const d = anDurum(e,n);
-    return `<a href="?il=${kod(e.il)}"><span class="nokta ${renk[d]}"></span><b>${kacis(e.il)}</b>${e.saat && d!=="devam" ? " "+kacis(e.saat)+" ·" : ""} ${kacis(e.baslik)}</a>`; };
+    return `<a href="${e.il === "Online" ? "?online=1" : "?il="+kod(e.il)}"><span class="nokta ${renk[d]}"></span><b>${kacis(e.il)}</b>${e.saat && d!=="devam" ? " "+kacis(e.saat)+" ·" : ""} ${kacis(e.baslik)}</a>`; };
   const html = l.map(oge).join("");
   $("seritIc").innerHTML = html + `<span aria-hidden="true" style="display:contents">${html}</span>`;
   $("seritIc").style.animationDuration = Math.max(40, l.length * 7) + "s";
@@ -870,22 +875,22 @@ setInterval(() => {
 function aramaCubuguCiz(){
   const z = araliklar();
   $("acSinif").innerHTML = `<option value="">Herhangi kategori</option>` + SINIFLAR.map(s => `<option value="${kacis(s.ad)}">${s.simge} ${kacis(s.ad)}</option>`).join("");
-  $("acIl").innerHTML = `<option value="">Tüm Türkiye</option>` + ILLER.map(i => `<option value="${kod(i)}">${i}</option>`).join("");
+  $("acIl").innerHTML = `<option value="">Tüm Türkiye</option><option value="online">💻 Online etkinlikler</option>` + ILLER.map(i => `<option value="${kod(i)}">${i}</option>`).join("");
   $("acZaman").innerHTML = `<option value="">Herhangi zaman</option>` + ["bugun","yarin","haftasonu","hafta","ay"].map(k => `<option value="${k}">${z[k].ad}</option>`).join("");
   $("acAra").value = params.get("ara") || "";
   $("acSinif").value = pSinif ? pSinif.ad : "";
-  $("acIl").value = MANSET ? "" : kod(ilAdi);
+  $("acIl").value = MANSET ? (params.get("online") ? "online" : "") : kod(ilAdi);
   $("acZaman").value = params.get("zaman") in z && params.get("zaman") !== "hepsi" ? params.get("zaman") : "";
 }
 $("aramaForm").onsubmit = ev => {
   ev.preventDefault();
   const p = new URLSearchParams(), il = $("acIl").value, ara = $("acAra").value.trim();
-  if(il) p.set("il", il);
+  if(il === "online") p.set("online", "1"); else if(il) p.set("il", il);
   if(ara) p.set("ara", ara);
   if($("acSinif").value) p.set("sinif", $("acSinif").value);
-  p.set("zaman", $("acZaman").value || (il ? "hepsi" : ""));
+  p.set("zaman", $("acZaman").value || (il && il !== "online" ? "hepsi" : ""));
   if(!p.get("zaman")) p.delete("zaman");
-  if(il) sakla("bnv_il", il);
+  if(il && il !== "online") sakla("bnv_il", il);
   location.search = p.toString();
 };
 
@@ -906,7 +911,7 @@ function gunYaz(e){
 
 function mansetSec(){
   const n = new Date(), sinir = gunEkle(bugunTarih(), 14);
-  const uygun = e => e.gorsel && anDurum(e,n) !== "bitti" && tarihOku(e.tarih) <= sinir;
+  const uygun = e => e.gorsel && e.il !== "Online" && anDurum(e,n) !== "bitti" && tarihOku(e.tarih) <= sinir;
   const secilen = [], gorulen = new Set(), ilSay = {}, turSay = {};
   const ekle = (e, ek = {}) => {
     const k = e.il + "|" + kucuk(e.baslik); if(gorulen.has(k)) return;
@@ -929,10 +934,11 @@ function mansetSec(){
 
 function miniHTML(e, i = 0){
   const d = tarihOku(e.tarih < yerelTarih(new Date()) ? yerelTarih(new Date()) : e.tarih), sim = KATEGORI_SIMGE[e.kategori] || "📌";
-  return `<a class="mini" href="${ilLink(e)}" style="--i:${i}">
+  const dis = e.il === "Online" && kaynakLink(e);
+  return `<a class="mini" href="${dis || ilLink(e)}"${dis?' target="_blank" rel="noopener"':""} style="--i:${i}">
     <div class="mini-resim">${sim}${e.gorsel?`<img src="${kacis(e.gorsel)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:""}
       <div class="takvim"><b>${d.getDate()}</b><small>${AYLAR[d.getMonth()]}</small></div></div>
-    <div class="mini-yazi"><span class="mini-ust">${kacis(e.il)} · ${kacis(e.kategori)}</span><b>${kacis(e.baslik)}</b>
+    <div class="mini-yazi"><span class="mini-ust">${e.online?"💻 ":""}${kacis(e.il)}${e.online && e.il !== "Online" ? " · Online" : ""} · ${kacis(e.kategori)}</span><b>${kacis(e.baslik)}</b>
       <small>${gunYaz(e)}${e.saat && !(e.bitis && e.bitis !== e.tarih) ? " · "+kacis(e.saat) : ""}${e.mekan ? " · "+kacis(e.mekan) : ""}</small>
       ${e.ucretsiz===true?'<span><span class="etiket ucretsiz">Ücretsiz</span></span>':""}</div>
   </a>`;
@@ -987,6 +993,13 @@ function mansetCiz(){
   $("oneCikanHepsi").href = "?zaman=" + anahtar;
   $("oneCikan").innerHTML = izgara.map(miniHTML).join("") || `<div class="bos">Bu hafta için henüz etkinlik yok.</div>`;
 
+  // Online etkinlikler: önümüzdeki 30 gün, aynı başlık bir kez
+  const onlineGorulen = new Set(), online = TR.filter(e => e.online && aralikta(e, a.ay) && anDurum(e,n) !== "bitti")
+    .sort((x,y) => (x.tarih+(x.saat||"99")).localeCompare(y.tarih+(y.saat||"99")))
+    .filter(e => !onlineGorulen.has(kucuk(e.baslik)) && onlineGorulen.add(kucuk(e.baslik))).slice(0, 8);
+  $("onlineBolum").classList.toggle("gizli", !online.length);
+  $("onlineListe").innerHTML = online.map(miniHTML).join("");
+
   // İl ızgarası: plaka sırasıyla, önümüzdeki 7 gündeki etkinlik sayısı
   const say = {};
   for(const e of TR) if(aralikta(e, a.hafta) && anDurum(e,n) !== "bitti") say[e.il] = (say[e.il]||0) + 1;
@@ -995,12 +1008,13 @@ function mansetCiz(){
 
 // Türkiye geneli arama sonuçları (il seçilmeden yapılan arama)
 function aramaSonucCiz(){
-  const a = araliklar()[secim.zaman] || araliklar().hepsi, q = kucuk(secim.ara), n = new Date();
-  const l = TR.filter(e => aralikta(e, a) && anDurum(e,n) !== "bitti" && (!secim.turler.size || secim.turler.has(e.kategori)) &&
+  const a = araliklar()[params.get("zaman")] || araliklar().hepsi, q = kucuk(secim.ara), n = new Date();
+  const online = !!params.get("online");
+  const l = TR.filter(e => aralikta(e, a) && anDurum(e,n) !== "bitti" && (!online || e.online) && (!secim.turler.size || secim.turler.has(e.kategori)) &&
       (!q || kucuk(e.baslik+" "+(e.mekan||"")+" "+e.il+" "+(e.ilce||"")+" "+e.kategori).includes(q)))
     .sort((x,y) => (x.tarih+(x.saat||"99")).localeCompare(y.tarih+(y.saat||"99")));
-  const parca = [secim.ara && `“${secim.ara}”`, pSinif && pSinif.ad, params.get("zaman") && a.ad.toLocaleLowerCase("tr")].filter(Boolean).join(" · ");
-  $("aramaBaslik").textContent = `${parca || "Tüm etkinlikler"} — Türkiye genelinde ${sayiYaz(l.length)} sonuç`;
+  const parca = [online && "💻 Online", secim.ara && `“${secim.ara}”`, pSinif && pSinif.ad, params.get("zaman") && a.ad.toLocaleLowerCase("tr")].filter(Boolean).join(" · ");
+  $("aramaBaslik").textContent = `${parca || "Tüm etkinlikler"} — ${online ? "" : "Türkiye genelinde "}${sayiYaz(l.length)} sonuç`;
   $("aramaSonuc").innerHTML = l.slice(0, 120).map(miniHTML).join("") ||
     `<div class="bos">Bu aramaya uyan etkinlik bulamadık. Daha kısa bir kelime deneyin ya da tarihi “Herhangi zaman” yapın.</div>`;
   if(l.length > 120) $("aramaSonuc").insertAdjacentHTML("beforeend", `<p class="not">İlk 120 sonuç gösteriliyor; bir il seçerek daraltabilirsiniz.</p>`);
@@ -1224,7 +1238,7 @@ if("serviceWorker" in navigator && location.protocol === "https:") navigator.ser
   // Türkiye geneli liste ayrı yüklenir; il sayfası onu beklemez
   const trYukle = fetch("veri/turkiye.json", {cache:"no-cache"}).then(r => r.ok ? r.json() : {etkinlikler:[]}).then(t => {
     TR = (t.etkinlikler || []).map(e => ({id:e.id, il:e.il, baslik:e.b, tarih:e.t, bitis:e.bt, saat:e.s, kategori:e.k, ucretsiz:e.u,
-      mekan:e.m, ilce:e.ic, gorsel:e.g, kaynak_url:e.l}));
+      mekan:e.m, ilce:e.ic, gorsel:e.g, kaynak_url:e.l, online:!!e.o}));
     turkiyeCiz(); seritCiz();
   }).catch(() => $("canliSerit").classList.add("gizli"));
 
@@ -1236,13 +1250,13 @@ if("serviceWorker" in navigator && location.protocol === "https:") navigator.ser
     document.title = "Etkinlik Var — Türkiye'de bugün ne yapsam?";
     const kayitli = ILLER.find(i => kod(i) === oku("bnv_il", ""));
     if(kayitli) $("canliBilgi").innerHTML = `<a class="dugme senin-il" href="?il=${kod(kayitli)}">📍 ${kacis(de(kayitli))} ne var? →</a>`;
-    const aramaVar = ["ara","sinif","zaman"].some(k => params.get(k));
+    const aramaVar = ["ara","sinif","zaman","online"].some(k => params.get(k));
     try{ MANSET_SECIM = (await fetch("veri/manset.json", {cache:"no-cache"}).then(r => r.json())).secilenler || []; }catch(err){}
     await trYukle;
     if(aramaVar){
       $("aramaBolum").classList.remove("gizli"); $("oneCikanBolum").classList.add("gizli");
-      $("baslik").textContent = "Türkiye genelinde arama";
-      aramaSonucCiz(); mansetCiz(); $("manset").classList.add("gizli"); slaytOto(true);
+      $("baslik").textContent = params.get("online") ? "💻 Online etkinlikler" : "Türkiye genelinde arama";
+      aramaSonucCiz(); mansetCiz(); $("manset").classList.add("gizli"); $("onlineBolum").classList.add("gizli"); slaytOto(true);
     } else {
       $("manset").classList.remove("gizli"); mansetCiz();
     }

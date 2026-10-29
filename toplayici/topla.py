@@ -54,7 +54,7 @@ def il_topla(il):
         for deneme in range(2):                # boş/hatalı gelirse bir kez daha dene
             try:
                 bulunan = [e for e in (duzenle(h, kaynak, bugun) for h in kaynak["cek"](kaynak, bugun))
-                           if e and (e["kategori"] in ("Tiyatro", "Çocuk")
+                           if e and (e["kategori"] in ("Tiyatro", "Çocuk") or getattr(modul, "TUM_TURKIYE", False)
                                      or not ortak.baslikta_baska_il(e["baslik"], il_adi, modul.ILCELER))]
                 hata_metni = None
             except Exception as hata:  # bir kaynağın bozulması tüm işi durdurmasın
@@ -177,17 +177,24 @@ def duzenle(e, kaynak, bugun):
     }
 
 
+ONLINE = re.compile(r"\bonline\b|çevrim ?içi|cevrimici|webinar|\bzoom\b|youtube|canlı yayın|google meet|ms teams", re.I)
+
+
 def turkiye_ozet(hazir):
     """Türkiye geneli sayaç, kayan şerit, manşet ve Türkiye geneli arama için tüm illerin kısa listesi
     (veri/turkiye.json). Hangi etkinliğin "şu an" sürdüğünü site ziyaretçinin saatine göre kendisi hesaplar."""
     veri = os.path.join(KLASOR, "..", "site", "veri")
     etkinlikler = []
-    for ad in hazir:
+    # "Online" = iller/online.py'nin topladığı internet üzerinden etkinlikler (veri/online.json)
+    for ad in hazir + (["Online"] if os.path.exists(os.path.join(veri, "online.json")) else []):
         with open(os.path.join(veri, il_kodu(ad) + ".json"), encoding="utf-8") as f:
             for e in json.load(f)["etkinlikler"]:
-                etkinlikler.append({"id": e["id"], "il": ad, "b": e["baslik"], "t": e["tarih"], "bt": e.get("bitis"),
-                                    "s": e.get("saat"), "k": e.get("kategori"), "u": e.get("ucretsiz"),
-                                    "m": e.get("mekan"), "ic": e.get("ilce"), "g": e.get("gorsel"), "l": e.get("kaynak_url")})
+                k = {"id": e["id"], "il": ad, "b": e["baslik"], "t": e["tarih"], "bt": e.get("bitis"),
+                     "s": e.get("saat"), "k": e.get("kategori"), "u": e.get("ucretsiz"),
+                     "m": e.get("mekan"), "ic": e.get("ilce"), "g": e.get("gorsel"), "l": e.get("kaynak_url")}
+                if ad == "Online" or ONLINE.search(" ".join(filter(None, (e["baslik"], e.get("mekan"))))):
+                    k["o"] = 1               # sitede "💻 Online" etiketi ve Online araması için
+                etkinlikler.append(k)
     etkinlikler.sort(key=lambda e: (e["t"], e["s"] or "99"))
     with open(os.path.join(veri, "turkiye.json"), "w", encoding="utf-8") as f:
         json.dump({"guncelleme": dt.datetime.now().astimezone().isoformat(timespec="minutes"),
@@ -203,6 +210,13 @@ if __name__ == "__main__":
         except Exception:                    # bir ilin dosyası bozuksa diğer iller yine güncellensin
             traceback.print_exc()
             bozuk.add(il)
+    # Online etkinlikler (il değil, Türkiye geneli); bozulursa iller yine kaydedilsin
+    if not sys.argv[1:] and os.path.exists(os.path.join(KLASOR, "iller", "online.py")):
+        print("== online")
+        try:
+            il_topla("online")
+        except Exception:
+            traceback.print_exc()
     gorsel_temizle()
     # Sitede sadece verisi oluşmuş iller "hazır" görünür
     hazir = [ad for ad in ortak.ILLER if il_kodu(ad) in HAZIR_ILLER and il_kodu(ad) not in bozuk
