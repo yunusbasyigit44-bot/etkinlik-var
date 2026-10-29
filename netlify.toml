@@ -1,0 +1,10 @@
+# Netlify ayarı: derleme yok, "site" klasörü olduğu gibi yayınlanır.
+[build]
+  publish = "site"
+  command = ""
+
+# Etkinlik verisi her gün değişir; tarayıcı eski listeyi göstermesin.
+[[headers]]
+  for = "/veri/*.json"
+  [headers.values]
+    Cache-Control = "no-cache"

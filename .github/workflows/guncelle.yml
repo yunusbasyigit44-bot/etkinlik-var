@@ -1,17 +1,14 @@
-# Her sabah 06:00'da (Türkiye saati) etkinlikleri toplar, siteyi yeniden yayınlar.
+# Her sabah 06:00'da (Türkiye saati) etkinlikleri toplar ve depoya kaydeder.
+# Siteyi Netlify yayınlar: depoya yeni kayıt gelince kendiliğinden yeniden yayınlar (netlify.toml).
 name: Etkinlikleri guncelle
 
 on:
   schedule:
     - cron: "0 3 * * *"       # 03:00 UTC = 06:00 Türkiye
   workflow_dispatch:           # GitHub'dan elle de çalıştırılabilir
-  push:
-    branches: [main]
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: guncelle
@@ -26,24 +23,13 @@ jobs:
         with:
           python-version: "3.12"
       - name: Etkinlikleri topla
-        if: github.event_name != 'push'
         env:
           ETKINLIK_IO_TOKEN: ${{ secrets.ETKINLIK_IO_TOKEN }}
         run: python -I toplayici/topla.py
       - name: Değişikliği kaydet
-        if: github.event_name != 'push'
         run: |
           git config user.name "etkinlik-var-bot"
           git config user.email "actions@users.noreply.github.com"
           git add site/veri
           git diff --cached --quiet || git commit -m "Etkinlikler guncellendi $(date -u +%F)"
           git push
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-      - id: yayin
-        uses: actions/deploy-pages@v4
-    environment:
-      name: github-pages
-      url: ${{ steps.yayin.outputs.page_url }}
