@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "aedc13ce9373",
+  "baslik": "Karma Sergi",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Şehitkamil",
+  "mekan": "Gaziantep Üniversitesi",
+  "kategori": "Sergi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Gaziantep Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.gaziantep.edu.tr/etkinlik_detay.php?etkinlik_ID=7178",
+  "gorsel": null
+ }
+]

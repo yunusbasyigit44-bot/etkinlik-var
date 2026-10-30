@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-10-29T17:30+03:00",
+ "guncelleme": "2026-10-30T07:01+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -22,22 +22,6 @@
   "Yomra"
  ],
  "etkinlikler": [
-  {
-   "id": "db01443bda66",
-   "baslik": "İnsancıklar",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/insanciklar",
-   "gorsel": "veri/gorsel/dt-insanciklar.jpg"
-  },
   {
    "id": "655444125be9",
    "baslik": "İnsancıklar",
@@ -547,7 +531,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 13,
+   "etkinlik_sayisi": 12,
    "durum": "çalışıyor"
   },
   {

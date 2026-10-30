@@ -1,6 +1,6 @@
 {
  "il": "aksaray",
- "guncelleme": "2026-10-29T17:31+03:00",
+ "guncelleme": "2026-10-30T07:02+03:00",
  "ilceler": [
   "Merkez",
   "Ağaçören",
@@ -77,22 +77,6 @@
    "gorsel": null
   },
   {
-   "id": "2724cf1eceba",
-   "baslik": "Cumhuriyet Koşusu",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "08:30",
-   "ilce": "Merkez",
-   "mekan": "Aksaray Üniversitesi Kampüsü",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Aksaray Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.aksaray.edu.tr/cumhuriyet-kosusu",
-   "gorsel": null
-  },
-  {
    "id": "44d67b41f6e6",
    "baslik": "Terörsüz Türkiye Sürecinde Yarınki Türkiye’yi Düşünmek",
    "tarih": "2026-11-23",
@@ -114,7 +98,7 @@
    "ad": "Aksaray Üniversitesi",
    "tur": "universite",
    "url": "https://www.aksaray.edu.tr/Etkinlik-takvimi",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

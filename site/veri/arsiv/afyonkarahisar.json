@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "394482509007",
+  "baslik": "Ayna Konseri",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Merkez",
+  "mekan": "Prof Dr Necmettin Erbakan Kapalı Spor Salonu",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Afyonkarahisar Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.afyon.bel.tr/guncel/etkinlikler/ayna-konseri",
+  "gorsel": "https://www.afyon.bel.tr/uploads/etkinlik/0add3562-76b5-4a7f-81ba-7321e8839acf/gorsel/2026/10/a24374d4-f6d2-4e4c-bfd6-584bd6e1348d-a.jpg-medium.webp"
+ }
+]

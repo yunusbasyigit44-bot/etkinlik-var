@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "32c1f82e631c",
+  "baslik": "Ulusal Müziğimiz - Türk Müziğinin İncileri",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Lüleburgaz",
+  "mekan": "LYSA",
+  "kategori": "Geleneksel Müzik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Lüleburgaz Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://etkinlik.luleburgaz.bel.tr/etkinlik/448",
+  "gorsel": null
+ }
+]

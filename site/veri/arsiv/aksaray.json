@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "2724cf1eceba",
+  "baslik": "Cumhuriyet Koşusu",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "08:30",
+  "ilce": "Merkez",
+  "mekan": "Aksaray Üniversitesi Kampüsü",
+  "kategori": "Spor",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Aksaray Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.aksaray.edu.tr/cumhuriyet-kosusu",
+  "gorsel": null
+ }
+]

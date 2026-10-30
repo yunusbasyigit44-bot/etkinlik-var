@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "db01443bda66",
+  "baslik": "İnsancıklar",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Ortahisar",
+  "mekan": "Haluk Ongan Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/insanciklar",
+  "gorsel": null
+ }
+]

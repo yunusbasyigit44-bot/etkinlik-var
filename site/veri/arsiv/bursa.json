@@ -1,1 +1,66 @@
-[]
+[
+ {
+  "id": "8f436057174b",
+  "baslik": "Üniversite Tanıtım Programı",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "09:00",
+  "ilce": "Yıldırım",
+  "mekan": "Mimar Sinan Yerleşkesi Erguvan Salon (A Blok Zemin Kat)",
+  "kategori": "Gençlik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bursa Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/11949/%C3%BCniversite-tan%C4%B1t%C4%B1m-program%C4%B1",
+  "gorsel": null
+ },
+ {
+  "id": "fde72ae5e9c9",
+  "baslik": "Göç Hayaller Kumpanyası",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Osmangazi",
+  "mekan": "Feraizcizade Oda Tiyatrosu",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/goc-hayaller-kumpanyasi",
+  "gorsel": null
+ },
+ {
+  "id": "ef999e488166",
+  "baslik": "29 Ekim Cumhuriyet Bayramı",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "19:00",
+  "ilce": "Nilüfer",
+  "mekan": "Nilüfer",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Nilüfer Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.nilufer.bel.tr/etkinlik/29-ekim-cumhuriyet-bayrami",
+  "gorsel": "https://www.nilufer.bel.tr/i/etkinlik/5176.jpg"
+ },
+ {
+  "id": "081913dd5a76",
+  "baslik": "Kahvaltı Dahil",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Osmangazi",
+  "mekan": "Ahmet Vefik Paşa Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kahvalti-dahil",
+  "gorsel": null
+ }
+]

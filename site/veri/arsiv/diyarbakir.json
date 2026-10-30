@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "bc330d1a68b6",
+  "baslik": "Nalınlar",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Yenişehir",
+  "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nalinlar",
+  "gorsel": null
+ }
+]

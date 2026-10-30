@@ -1,6 +1,6 @@
 {
  "il": "ordu",
- "guncelleme": "2026-10-29T17:28+03:00",
+ "guncelleme": "2026-10-30T06:59+03:00",
  "ilceler": [
   "Altınordu",
   "Akkuş",
@@ -71,7 +71,7 @@
    "tur": "universite",
    "url": "https://odu.edu.tr/TumEtkinlikler",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error [Errno 101] Network is unreachable>"
   },
   {
    "ad": "Ordu İl Kültür ve Turizm Müdürlüğü",

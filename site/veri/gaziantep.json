@@ -1,6 +1,6 @@
 {
  "il": "gaziantep",
- "guncelleme": "2026-10-29T17:23+03:00",
+ "guncelleme": "2026-10-30T06:47+03:00",
  "ilceler": [
   "Şahinbey",
   "Şehitkamil",
@@ -28,22 +28,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://gaziantep.bel.tr/tr/basin/etkinlikler/iulusal-karikatur-yarismasi-1461",
    "gorsel": "https://dosya.gaziantep.bel.tr/uploads/new/2026/10/a2ec6efb-26b3-411c-81fd-fdbbc968716a_original.jpg"
-  },
-  {
-   "id": "aedc13ce9373",
-   "baslik": "Karma Sergi",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Şehitkamil",
-   "mekan": "Gaziantep Üniversitesi",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Gaziantep Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.gaziantep.edu.tr/etkinlik_detay.php?etkinlik_ID=7178",
-   "gorsel": null
   },
   {
    "id": "fe2117bd3bbd",
@@ -96,16 +80,16 @@
  ],
  "kaynaklar": [
   {
-   "ad": "Gaziantep Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.gaziantep.edu.tr/",
-   "etkinlik_sayisi": 3,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Gaziantep Büyükşehir Belediyesi",
    "tur": "belediye",
    "url": "https://www.gaziantep.bel.tr/tr/basin/etkinlikler",
+   "etkinlik_sayisi": 2,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
+  },
+  {
+   "ad": "Gaziantep Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.gaziantep.edu.tr/",
    "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },

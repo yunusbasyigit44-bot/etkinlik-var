@@ -1,6 +1,6 @@
 {
  "il": "kocaeli",
- "guncelleme": "2026-10-29T17:25+03:00",
+ "guncelleme": "2026-10-30T06:53+03:00",
  "ilceler": [
   "Başiskele",
   "Çayırova",
@@ -31,22 +31,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://izmit.bel.tr/2026-etkinliklerimiz/",
    "gorsel": "https://izmit.bel.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-11.08.44-640x905.jpeg"
-  },
-  {
-   "id": "b72ab74a567b",
-   "baslik": "Oyuncak Müzesi Atölyeleri",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": null,
-   "ilce": "İzmit",
-   "mekan": null,
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Atölye",
-   "kaynak_ad": "İzmit Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://izmit.bel.tr/2026-etkinliklerimiz/",
-   "gorsel": "https://izmit.bel.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-12.06.26-640x853.jpeg"
   },
   {
    "id": "94dce62bc2e2",
@@ -86,15 +70,15 @@
    "ad": "İzmit Belediyesi",
    "tur": "belediye",
    "url": "https://izmit.bel.tr/2026-etkinliklerimiz/",
-   "etkinlik_sayisi": 3,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 2,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Gebze Belediyesi",
    "tur": "belediye",
    "url": "https://www.gebze.bel.tr/json/etkinlik.json",
    "etkinlik_sayisi": 1,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Gebze Teknik Üniversitesi",

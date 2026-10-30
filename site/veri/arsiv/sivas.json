@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "fd5fa1fafa48",
+  "baslik": "Karacaoğlan",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "19:30",
+  "ilce": "Merkez",
+  "mekan": "Atatürk Kültür Merkezi Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/karacaoglan",
+  "gorsel": null
+ }
+]

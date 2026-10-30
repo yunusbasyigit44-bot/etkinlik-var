@@ -1,12 +1,7 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-10-29",
+ "guncelleme": "2026-10-30",
  "secilenler": [
-  {
-   "id": "971a5907ceb7",
-   "not": "Cumhuriyet'in 103. yılına opera sahnesinden selam.",
-   "elle": true
-  },
   {
    "id": "6b9431c67a87",
    "not": "Kadıköy'de samimi bir salonda caz akşamı.",
@@ -87,6 +82,10 @@
    "baslik": "4. Korolar Festivali",
    "not": "Türk musikisi korolarından bir akşam.",
    "elle": true
+  },
+  {
+   "id": "dd048d9b1884",
+   "not": "Iğdır'da canlı müzik keyfi."
   }
  ]
 }

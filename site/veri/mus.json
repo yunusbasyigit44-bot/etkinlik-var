@@ -1,6 +1,6 @@
 {
  "il": "mus",
- "guncelleme": "2026-10-29T17:28+03:00",
+ "guncelleme": "2026-10-30T06:58+03:00",
  "ilceler": [
   "Merkez",
   "Bulanık",
@@ -25,22 +25,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.alparslan.edu.tr/page/event/iskur-genclik-programi-basliyor-9607",
    "gorsel": "https://www.alparslan.edu.tr/images/event/1793083574.jpg"
-  },
-  {
-   "id": "7261bb584705",
-   "baslik": "103. Yılında Cumhuriyeti Yeniden Anlamak",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Muş Alparslan Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muş Alparslan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/103-yilinda-cumhuriyeti-yeniden-anlamak-9616",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1793177628.jpg"
   },
   {
    "id": "bca89248dd9c",
@@ -80,7 +64,7 @@
    "ad": "Muş Alparslan Üniversitesi",
    "tur": "universite",
    "url": "https://www.alparslan.edu.tr/tr/page/event",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

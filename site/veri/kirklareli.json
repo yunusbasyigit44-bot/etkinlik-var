@@ -1,6 +1,6 @@
 {
  "il": "kirklareli",
- "guncelleme": "2026-10-29T17:25+03:00",
+ "guncelleme": "2026-10-30T06:51+03:00",
  "ilceler": [
   "Merkez",
   "Babaeski",
@@ -11,32 +11,8 @@
   "Pınarhisar",
   "Vize"
  ],
- "etkinlikler": [
-  {
-   "id": "32c1f82e631c",
-   "baslik": "Ulusal Müziğimiz - Türk Müziğinin İncileri",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Lüleburgaz",
-   "mekan": "LYSA",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Lüleburgaz Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://etkinlik.luleburgaz.bel.tr/etkinlik/448",
-   "gorsel": null
-  }
- ],
+ "etkinlikler": [],
  "kaynaklar": [
-  {
-   "ad": "Lüleburgaz Belediyesi",
-   "tur": "belediye",
-   "url": "https://etkinlik.luleburgaz.bel.tr/",
-   "etkinlik_sayisi": 1,
-   "durum": "çalışıyor"
-  },
   {
    "ad": "Babaeski, Vize, Pınarhisar, Demirköy belediyeleri",
    "tur": "belediye",
@@ -83,6 +59,13 @@
    "ad": "Kırklareli İl Kültür ve Turizm Müdürlüğü",
    "tur": "kultur",
    "url": "https://kirklareli.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Lüleburgaz Belediyesi",
+   "tur": "belediye",
+   "url": "https://etkinlik.luleburgaz.bel.tr/",
    "etkinlik_sayisi": 0,
    "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },

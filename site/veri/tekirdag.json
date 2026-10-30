@@ -1,6 +1,6 @@
 {
  "il": "tekirdag",
- "guncelleme": "2026-10-29T17:29+03:00",
+ "guncelleme": "2026-10-30T07:01+03:00",
  "ilceler": [
   "Süleymanpaşa",
   "Çerkezköy",
@@ -16,38 +16,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "aebe5ba3a26c",
-   "baslik": "Resim Bölümü Cumhuriyet'in 103. Yılında \"Akademik Yolculuğumuzda Hocalarımız ve Öğrencilerimiz\" İsimli Resim Sergisi",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Süleymanpaşa",
-   "mekan": "Rektörlük Sanat Galerisi",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://bhi.nku.edu.tr/haberler/resim-bolumu-cumhuriyetin-103-yilinda-akademik-yolculugumuzda-hocalarimiz-ve-ogrencilerimiz-isimli-resim-sergisi/s/70703",
-   "gorsel": null
-  },
-  {
-   "id": "baf743da7cdc",
-   "baslik": "29 Ekim Cumhuriyet Bayramı Yüzme Yarışları",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Çerkezköy",
-   "mekan": "Çerkezköy Kapalı Yüzme Havuzu",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tekirdağ Büyükşehir Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.tekirdag.bel.tr/etkinlikler",
-   "gorsel": null
-  },
-  {
    "id": "5bcb25f4bea8",
    "baslik": "Genç Hukukçular Topluluğu “Geleceğin Hukukçusu Deneyimliyor; Mahalli İdareler” Söyleşisi Tekirdağ Kent Konseyi Binası",
    "tarih": "2026-10-30",
@@ -61,6 +29,22 @@
    "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://bhi.nku.edu.tr/haberler/genc-hukukcular-toplulugu-gelecegin-hukukcusu-deneyimliyor-mahalli-idareler-soylesisi-tekirdag-kent-konseyi-binasi/s/71045",
+   "gorsel": null
+  },
+  {
+   "id": "3bc9ec468e06",
+   "baslik": "Resim Bölümü Cumhuriyet'in 103. Yılında \"Akademik Yolculuğumuzda Hocalarımız ve Öğrencilerimiz\" İsimli Resim Sergisi",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Süleymanpaşa",
+   "mekan": "Rektörlük Sanat Galerisi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/resim-bolumu-cumhuriyetin-103-yilinda-akademik-yolculugumuzda-hocalarimiz-ve-ogrencilerimiz-isimli-resim-sergisi/s/70703",
    "gorsel": null
   },
   {
@@ -320,9 +304,9 @@
    "gorsel": null
   },
   {
-   "id": "8c6a7101d329",
+   "id": "e3531a6bf295",
    "baslik": "İngiliz Dili ve Edebiyatı Bölümü \"Talks on Literature 2: Demarginalising Genres\" Konferans",
-   "tarih": "2026-11-20",
+   "tarih": "2026-11-23",
    "bitis": null,
    "saat": "09:00",
    "ilce": "Süleymanpaşa",
@@ -336,9 +320,9 @@
    "gorsel": null
   },
   {
-   "id": "3bf383260d8d",
+   "id": "5b5422269992",
    "baslik": "MUN Etkinliği",
-   "tarih": "2026-11-20",
+   "tarih": "2026-11-23",
    "bitis": null,
    "saat": "09:00",
    "ilce": "Süleymanpaşa",
@@ -352,9 +336,9 @@
    "gorsel": null
   },
   {
-   "id": "738a91e24888",
+   "id": "7e44fd8f0e3b",
    "baslik": "EMSA Topluluğu \"Fakülteler Arası Münazara Turnuvası\"",
-   "tarih": "2026-11-20",
+   "tarih": "2026-11-23",
    "bitis": null,
    "saat": "09:00",
    "ilce": "Süleymanpaşa",
@@ -368,9 +352,9 @@
    "gorsel": null
   },
   {
-   "id": "54aa691feee4",
+   "id": "193566b8544f",
    "baslik": "Genç Hukukçular Topluluğu \"Fakülteler Arası Münazara Turnuvası\"",
-   "tarih": "2026-11-20",
+   "tarih": "2026-11-23",
    "bitis": null,
    "saat": "09:00",
    "ilce": "Süleymanpaşa",
@@ -384,9 +368,9 @@
    "gorsel": null
   },
   {
-   "id": "ed7559e01431",
+   "id": "35ba788c68f1",
    "baslik": "Coğrafya Bölümü \"Şişedeki Miras: Kolonya Coğrafyası ve Kültürü\"",
-   "tarih": "2026-11-20",
+   "tarih": "2026-11-23",
    "bitis": null,
    "saat": "10:00",
    "ilce": "Süleymanpaşa",
@@ -400,9 +384,9 @@
    "gorsel": null
   },
   {
-   "id": "9afd4610d27b",
+   "id": "c97132578779",
    "baslik": "Maliye Topluluğu \"Maliye Lokma Günleri 1\" İktisadi ve İdari Bilimler Fakültesi Önü",
-   "tarih": "2026-11-20",
+   "tarih": "2026-11-23",
    "bitis": null,
    "saat": "13:00",
    "ilce": "Süleymanpaşa",
@@ -416,9 +400,9 @@
    "gorsel": null
   },
   {
-   "id": "2bd28dd3bdd8",
+   "id": "1216313124d6",
    "baslik": "Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezi \"25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü\"",
-   "tarih": "2026-11-20",
+   "tarih": "2026-11-23",
    "bitis": null,
    "saat": "14:00",
    "ilce": "Süleymanpaşa",
@@ -437,14 +421,14 @@
    "ad": "Tekirdağ Namık Kemal Üniversitesi",
    "tur": "universite",
    "url": "https://bhi.nku.edu.tr/etkinlik",
-   "etkinlik_sayisi": 24,
+   "etkinlik_sayisi": 25,
    "durum": "çalışıyor"
   },
   {
    "ad": "Tekirdağ Büyükşehir Belediyesi",
    "tur": "belediye",
    "url": "https://www.tekirdag.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

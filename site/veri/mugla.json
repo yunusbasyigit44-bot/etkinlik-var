@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-10-29T17:27+03:00",
+ "guncelleme": "2026-10-30T06:57+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -48,86 +48,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2799/Sergi-Ibrahim_Coskun_Ben_Anadolu_Resim_Sergisi",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
-  },
-  {
-   "id": "08a3b6a0ba73",
-   "baslik": "29 Ekim Cumhuriyet Bayramı Kutlama Programı",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Bodrum",
-   "mekan": "Bodrum Kalesi",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2808/Kutlama-29_Ekim_Cumhuriyet_Bayrami_Kutlama_Programi",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
-  },
-  {
-   "id": "e38940a78f4d",
-   "baslik": "Çağdaş Yaşamı Destekleme Derneği Bodrum Şubesi’nin Düzenlediği “Cumhuriyet Yemeği",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Bodrum",
-   "mekan": "Bodrum Merkez PTT Karşısı (Eski Halk Eğitim Meydanı)",
-   "kategori": "Yemek",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2814/Yemek-Cagdas_Yasami_Destekleme_Dernegi_Bodrum_Subesi%E2%80%99nin_Duzenledigi_%E2%80%9CCumhuriyet_Yemegi",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
-  },
-  {
-   "id": "ad72713f53ba",
-   "baslik": "29 Ekim Cumhuriyet Bayramı Fener Alayı-Dedublüman Konseri",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "19:23",
-   "ilce": "Bodrum",
-   "mekan": "Başlangıç Yeri: Milta Marina Bitiş Yeri: Bodrum Belediye Meydanı Başlangıç Saati: 19.23",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2809/Fener_Alayi-Konser-29_Ekim_Cumhuriyet_Bayrami_Fener_Alayi-Dedubluman_Konseri",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2809_1792674421.0901.jpeg"
-  },
-  {
-   "id": "3934baa43a27",
-   "baslik": "29 Ekim Cumhuriyet Bayramı Fener Alayı-Fettah Can Konseri/Turgutreis",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "19:23",
-   "ilce": "Bodrum",
-   "mekan": "Başlangıç Yeri: Akçaalan Düğün Salonu Bitiş Yeri: Turgutreis Atatürk Meydanı",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2810/Fener_Alayi-Konser-29_Ekim_Cumhuriyet_Bayrami_Fener_Alayi-Fettah_Can_Konseri/Turgutreis",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2810_1792674410.2085.jpeg"
-  },
-  {
-   "id": "66db20cacf1d",
-   "baslik": "Konaklama İşletmelerinde Türk Kültür Gecelerinin Önemi ve Rolü",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "20:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/konaklama-isletmelerinde-turk-kultur-gecelerinin-onemi-ve-rolu-4665",
-   "gorsel": null
   },
   {
    "id": "e5d776c06e43",
@@ -242,22 +162,6 @@
    "gorsel": null
   },
   {
-   "id": "0d087a3cd41e",
-   "baslik": "Öğrenci & Mezun Buluşması",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "17:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/ogrenci--mezun-bulusmasi-4703",
-   "gorsel": null
-  },
-  {
    "id": "1dbe7e37fa5c",
    "baslik": "Mezun Buluşmaları",
    "tarih": "2026-11-06",
@@ -271,6 +175,22 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mezun-bulusmalari-4660",
+   "gorsel": null
+  },
+  {
+   "id": "0d087a3cd41e",
+   "baslik": "Öğrenci & Mezun Buluşması",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": "17:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/ogrenci--mezun-bulusmasi-4703",
    "gorsel": null
   },
   {
@@ -532,17 +452,17 @@
  ],
  "kaynaklar": [
   {
-   "ad": "Bodrum Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.bodrum.bel.tr/etkinlik_takvimi",
-   "etkinlik_sayisi": 17,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 14,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Bodrum Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.bodrum.bel.tr/etkinlik_takvimi",
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {

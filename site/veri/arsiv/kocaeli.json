@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "b72ab74a567b",
+  "baslik": "Oyuncak Müzesi Atölyeleri",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": null,
+  "ilce": "İzmit",
+  "mekan": null,
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": "Atölye",
+  "kaynak_ad": "İzmit Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://izmit.bel.tr/2026-etkinliklerimiz/",
+  "gorsel": "https://izmit.bel.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-12.06.26-640x853.jpeg"
+ }
+]

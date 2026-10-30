@@ -1,6 +1,6 @@
 {
  "il": "kastamonu",
- "guncelleme": "2026-10-29T17:25+03:00",
+ "guncelleme": "2026-10-30T06:50+03:00",
  "ilceler": [
   "Merkez",
   "Abana",
@@ -24,22 +24,6 @@
   "Tosya"
  ],
  "etkinlikler": [
-  {
-   "id": "6a0a04d73207",
-   "baslik": "Resim, Heykel ve Seramik Sergisi",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Merkez",
-   "mekan": "Turhan Topçuoğlu Şehir Parkı",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": "Cumhuriyet; aklın, bilimin, özgürlüğün ve sanatın yoludur. Cumhuriyetimizin 103. yılına özel olarak hazırladığımız “Cumhuriyet Sanatla Yaşıyor” Resim, Heykel ve Seramik Sergisi’ne tüm hemşehrilerimizi davet ediyorum. Tur…",
-   "kaynak_ad": "Kastamonu Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.kastamonu.bel.tr/etkinlik/resim-heykel-ve-seramik-sergisi/",
-   "gorsel": "https://www.kastamonu.bel.tr/wp-content/uploads/2026/10/866594477_1432481309060000_8941321514700264206_n.jpg"
-  },
   {
    "id": "3100f2028a43",
    "baslik": "UFest - Türkiye Yüzyılı'nda Ulaşım Vizyonu",
@@ -82,13 +66,6 @@
    "durum": "çalışıyor"
   },
   {
-   "ad": "Kastamonu Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.kastamonu.bel.tr/etkinlik/",
-   "etkinlik_sayisi": 1,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
@@ -101,6 +78,13 @@
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "okunabilir etkinlik takvimi yok"
+  },
+  {
+   "ad": "Kastamonu Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.kastamonu.bel.tr/etkinlik/",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Kastamonu Valiliği ve ilçe kaymakamlıkları",

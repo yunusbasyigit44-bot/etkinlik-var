@@ -1,6 +1,6 @@
 {
  "il": "bursa",
- "guncelleme": "2026-10-29T17:21+03:00",
+ "guncelleme": "2026-10-30T06:40+03:00",
  "ilceler": [
   "Büyükorhan",
   "Gemlik",
@@ -102,22 +102,6 @@
    "gorsel": null
   },
   {
-   "id": "f079b1afe7f9",
-   "baslik": "Bursa Müze Akademi",
-   "tarih": "2026-10-12",
-   "bitis": "2026-10-30",
-   "saat": null,
-   "ilce": "Osmangazi",
-   "mekan": "Bursa Müze",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bursa.bel.tr/etkinlik/bursa-muze-akademi",
-   "gorsel": null
-  },
-  {
    "id": "b50d9be57140",
    "baslik": "Bursa Oda Orkestrası Sanatçılarını Arıyor",
    "tarih": "2026-10-15",
@@ -180,70 +164,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bursa.bel.tr/etkinlik/bursanin-cumhuriyet-albumu-bir-kentin-ortak-hafizasi-fotograf-sergisi",
    "gorsel": null
-  },
-  {
-   "id": "8f436057174b",
-   "baslik": "Üniversite Tanıtım Programı",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Erguvan Salon (A Blok Zemin Kat)",
-   "kategori": "Gençlik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/11949/%C3%BCniversite-tan%C4%B1t%C4%B1m-program%C4%B1",
-   "gorsel": null
-  },
-  {
-   "id": "fde72ae5e9c9",
-   "baslik": "Göç Hayaller Kumpanyası",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Osmangazi",
-   "mekan": "Feraizcizade Oda Tiyatrosu",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/goc-hayaller-kumpanyasi",
-   "gorsel": "veri/gorsel/dt-goc-hayaller-kumpanyasi.jpg"
-  },
-  {
-   "id": "ef999e488166",
-   "baslik": "29 Ekim Cumhuriyet Bayramı",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Nilüfer",
-   "mekan": "Nilüfer",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Nilüfer Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.nilufer.bel.tr/etkinlik/29-ekim-cumhuriyet-bayrami",
-   "gorsel": "https://www.nilufer.bel.tr/i/etkinlik/5176.jpg"
-  },
-  {
-   "id": "081913dd5a76",
-   "baslik": "Kahvaltı Dahil",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kahvalti-dahil",
-   "gorsel": "veri/gorsel/dt-kahvalti-dahil.jpg"
   },
   {
    "id": "578a00472bda",
@@ -875,28 +795,28 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 26,
+   "etkinlik_sayisi": 24,
    "durum": "çalışıyor"
   },
   {
    "ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
    "tur": "belediye",
    "url": "https://www.bursa.bel.tr",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {
    "ad": "Bursa Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://btu.edu.tr/tr/etkinlik",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {
    "ad": "Nilüfer Belediyesi",
    "tur": "belediye",
    "url": "https://www.nilufer.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {

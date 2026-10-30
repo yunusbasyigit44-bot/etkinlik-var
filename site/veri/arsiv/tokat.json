@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "9f20fa053fca",
+  "baslik": "Cumhuriyete Doğru",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Tokat Belediyesi",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Tokat Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.tokat.bel.tr/etkinlikler/cumhuriyete-dogru",
+  "gorsel": "https://assets.tokat.bel.tr/tokatbld/events/1793089011548-3bd34f3e8959129a.webp"
+ }
+]

@@ -1,6 +1,6 @@
 {
  "il": "osmaniye",
- "guncelleme": "2026-10-29T17:32+03:00",
+ "guncelleme": "2026-10-30T07:04+03:00",
  "ilceler": [
   "Merkez",
   "Bahçe",
@@ -50,7 +50,7 @@
    "tur": "universite",
    "url": "https://www.osmaniye.edu.tr/tr/etkinlikler",
    "etkinlik_sayisi": 2,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Devlet Tiyatroları",

@@ -1,1 +1,50 @@
-[]
+[
+ {
+  "id": "105679f99099",
+  "baslik": "Ocak'ta Bahar",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Seyhan",
+  "mekan": "Ramazanoğlu Kültür Merkezi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları Adana",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ocakta-bahar",
+  "gorsel": null
+ },
+ {
+  "id": "cd5b9554af01",
+  "baslik": "Kendime Kıyamam",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Seyhan",
+  "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": "ESKİŞEHİR BÜYÜKŞEHİR BELEDİYESİ ŞEHİR TİYATROLARI",
+  "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
+  "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1790934870_7b2389cd7ecc1500c2fc.jpeg"
+ },
+ {
+  "id": "32bb87ccef68",
+  "baslik": "29 Ekim Cumhuriyet Bayramı Çelenk Sunma Töreni",
+  "tarih": "2026-10-28",
+  "bitis": "2026-10-29",
+  "saat": "16:00",
+  "ilce": "Sarıçam",
+  "mekan": "ATÜ Tören Alanı",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": "Etkinlik",
+  "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.atu.edu.tr",
+  "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/10/251020262009_K_1_d1841a78-13d3-40d8-8925-c3df8cf55256.jpg"
+ }
+]

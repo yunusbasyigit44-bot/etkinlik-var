@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-10-29T17:25+03:00",
+ "guncelleme": "2026-10-30T06:54+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -35,70 +35,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "455f675dcc37",
-   "baslik": "Woyzeck",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/woyzeck",
-   "gorsel": "veri/gorsel/dt-woyzeck.webp"
-  },
-  {
-   "id": "fbcb70dc5d09",
-   "baslik": "Andelib Ebru Sergisi",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/andelib-ebru-sergisi/1292",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/wusTY9wBkMEj8vv1BI_Nss70Z_4a6hSd.jpeg"
-  },
-  {
-   "id": "17aef9d56648",
-   "baslik": "Kafesten Bir Kuş Uçtu",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/kafesten-bir-kus-uctu/1215",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/wcbyD2JrgJZ0D3-Xu8jC3m3JcLLf7HSU.jpeg"
-  },
-  {
-   "id": "acb80d1b0084",
-   "baslik": "Konya Okulu - Prof. Dr. Ömer Özpınar",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-omer-ozpinar/1212",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/D0JfVX30v_QV6zHMCiLrLbEeJJUhCC60.jpeg"
-  },
-  {
    "id": "6eb2cca43e1c",
    "baslik": "Selçuklu Emiri Mübârizüddîn Ertokuş Konferansları 1",
    "tarih": "2026-10-30",
@@ -129,6 +65,38 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/woyzeck",
    "gorsel": "veri/gorsel/dt-woyzeck.webp"
+  },
+  {
+   "id": "e86b14084532",
+   "baslik": "Andelib Ebru Sergisi",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/andelib-ebru-sergisi/1292",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/wusTY9wBkMEj8vv1BI_Nss70Z_4a6hSd.jpeg"
+  },
+  {
+   "id": "2bd9e5d3535e",
+   "baslik": "Kafesten Bir Kuş Uçtu",
+   "tarih": "2026-10-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/kafesten-bir-kus-uctu/1215",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/wcbyD2JrgJZ0D3-Xu8jC3m3JcLLf7HSU.jpeg"
   },
   {
    "id": "165b8d2b6e9c",
@@ -369,6 +337,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/esas-misafir",
    "gorsel": "veri/gorsel/dt-esas-misafir.jpg"
+  },
+  {
+   "id": "d72765cc0d1e",
+   "baslik": "Konya Okulu - Prof. Dr. Ömer Özpınar",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-omer-ozpinar/1212",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/D0JfVX30v_QV6zHMCiLrLbEeJJUhCC60.jpeg"
   },
   {
    "id": "72c3f936ddea",
@@ -693,17 +677,17 @@
  ],
  "kaynaklar": [
   {
-   "ad": "Devlet Tiyatroları",
-   "tur": "kultur",
-   "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 17,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
    "etkinlik_sayisi": 17,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {

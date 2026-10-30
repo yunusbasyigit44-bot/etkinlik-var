@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-10-29T17:19+03:00",
+ "guncelleme": "2026-10-30T06:36+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -53,22 +53,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261027141418_ekimgecidi_afis.jpeg"
-  },
-  {
-   "id": "394482509007",
-   "baslik": "Ayna Konseri",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Merkez",
-   "mekan": "Prof Dr Necmettin Erbakan Kapalı Spor Salonu",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Afyonkarahisar Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.afyon.bel.tr/guncel/etkinlikler/ayna-konseri",
-   "gorsel": "https://www.afyon.bel.tr/uploads/etkinlik/0add3562-76b5-4a7f-81ba-7321e8839acf/gorsel/2026/10/a24374d4-f6d2-4e4c-bfd6-584bd6e1348d-a.jpg-medium.webp"
   },
   {
    "id": "196abfbcc848",
@@ -304,17 +288,17 @@
    "durum": "çalışıyor"
   },
   {
-   "ad": "Afyonkarahisar Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.afyon.bel.tr/guncel/etkinlikler",
-   "etkinlik_sayisi": 2,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
    "tur": "universite",
    "url": "https://afsu.edu.tr/category/etkinlikler/",
    "etkinlik_sayisi": 2,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
+  },
+  {
+   "ad": "Afyonkarahisar Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.afyon.bel.tr/guncel/etkinlikler",
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

@@ -1,1 +1,66 @@
-[]
+[
+ {
+  "id": "455f675dcc37",
+  "baslik": "Woyzeck",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Selçuklu",
+  "mekan": "Konya DT Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/woyzeck",
+  "gorsel": null
+ },
+ {
+  "id": "fbcb70dc5d09",
+  "baslik": "Andelib Ebru Sergisi",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Selçuklu",
+  "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+  "kategori": "Sergi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanatkonya.com/etkinlikler/andelib-ebru-sergisi/1292",
+  "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/wusTY9wBkMEj8vv1BI_Nss70Z_4a6hSd.jpeg"
+ },
+ {
+  "id": "17aef9d56648",
+  "baslik": "Kafesten Bir Kuş Uçtu",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Selçuklu",
+  "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanatkonya.com/etkinlikler/kafesten-bir-kus-uctu/1215",
+  "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/wcbyD2JrgJZ0D3-Xu8jC3m3JcLLf7HSU.jpeg"
+ },
+ {
+  "id": "acb80d1b0084",
+  "baslik": "Konya Okulu - Prof. Dr. Ömer Özpınar",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Selçuklu",
+  "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-omer-ozpinar/1212",
+  "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/D0JfVX30v_QV6zHMCiLrLbEeJJUhCC60.jpeg"
+ }
+]

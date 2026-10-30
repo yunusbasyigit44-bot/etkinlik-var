@@ -1,6 +1,6 @@
 {
  "il": "kirsehir",
- "guncelleme": "2026-10-29T17:25+03:00",
+ "guncelleme": "2026-10-30T06:51+03:00",
  "ilceler": [
   "Merkez",
   "Akçakent",
@@ -11,38 +11,6 @@
   "Mucur"
  ],
  "etkinlikler": [
-  {
-   "id": "90a8f8d8912f",
-   "baslik": "Cumhuriyet Ormanı Ağaç Dikimi",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Merkez",
-   "mekan": "Kırşehir Belediyesi",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırşehir Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/cumhuriyet-ormani-agac-dikimi",
-   "gorsel": "https://www.kirsehir.bel.tr/storage/events/836faJWvicdBcjN52mvYBeOVPx1fAwnJCd1GSZyJ.png"
-  },
-  {
-   "id": "9c7ba72b4664",
-   "baslik": "29 Ekim Cumhuriyet Bayramı Konseri",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Merkez",
-   "mekan": "Kırşehir Belediyesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırşehir Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/29-ekim-cumhuriyet-bayrami-konseri",
-   "gorsel": "https://www.kirsehir.bel.tr/storage/events/qF47kC3BmtgPCnHm08cRJJFCDg8cAKXaOvvCybiy.png"
-  },
   {
    "id": "eccd2a1d9678",
    "baslik": "Cumhuriyet Kampı",
@@ -65,7 +33,7 @@
    "ad": "Kırşehir Belediyesi",
    "tur": "belediye",
    "url": "https://www.kirsehir.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

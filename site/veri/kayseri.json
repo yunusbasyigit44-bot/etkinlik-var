@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-10-29T17:25+03:00",
+ "guncelleme": "2026-10-30T06:51+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -20,38 +20,6 @@
   "Yeşilhisar"
  ],
  "etkinlikler": [
-  {
-   "id": "4e60afa96b52",
-   "baslik": "VIII. Ulusal I. Uluslararası Katılımlı Farmasötik Kimya Kongresi",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Melikgazi",
-   "mekan": "Erciyes Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Erciyes Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.erciyes.edu.tr/tr/etkinlik-detay/viii-ulusal-i-uluslararasi-katilimli-farmasotik-kimya-kongresi/10431",
-   "gorsel": "https://www.erciyes.edu.tr/images/Etkinlik/06523187-7bfb-4983-98c4-008094d482e2.png"
-  },
-  {
-   "id": "89755f4da8ee",
-   "baslik": "Düğün ya da Davul",
-   "tarih": "2026-10-29",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Melikgazi",
-   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dugun-ya-da-davul",
-   "gorsel": "veri/gorsel/dt-dugun-ya-da-davul.webp"
-  },
   {
    "id": "f825be76e098",
    "baslik": "Düğün ya da Davul",
@@ -346,14 +314,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {
    "ad": "Erciyes Üniversitesi",
    "tur": "universite",
    "url": "https://www.erciyes.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

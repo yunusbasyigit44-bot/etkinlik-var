@@ -1,1 +1,34 @@
-[]
+[
+ {
+  "id": "60171431bd08",
+  "baslik": "Rüzgârda Savrulan Yapraklar",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Tepebaşı",
+  "mekan": "Sanat Sokağı Kukla Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
+  "kaynak_ad": "Eskişehir Şehir Tiyatroları",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
+  "gorsel": null
+ },
+ {
+  "id": "2350f3a217ac",
+  "baslik": "Karanlıktan Bahsetmek Yok",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Odunpazarı",
+  "mekan": "Haldun Dormen Sahnesi ( Haller Gençlik Merkezi )",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
+  "kaynak_ad": "Eskişehir Şehir Tiyatroları",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
+  "gorsel": null
+ }
+]

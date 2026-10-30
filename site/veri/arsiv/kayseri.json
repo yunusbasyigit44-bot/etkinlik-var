@@ -1,1 +1,34 @@
-[]
+[
+ {
+  "id": "4e60afa96b52",
+  "baslik": "VIII. Ulusal I. Uluslararası Katılımlı Farmasötik Kimya Kongresi",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "09:00",
+  "ilce": "Melikgazi",
+  "mekan": "Erciyes Üniversitesi",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Erciyes Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.erciyes.edu.tr/tr/etkinlik-detay/viii-ulusal-i-uluslararasi-katilimli-farmasotik-kimya-kongresi/10431",
+  "gorsel": "https://www.erciyes.edu.tr/images/Etkinlik/06523187-7bfb-4983-98c4-008094d482e2.png"
+ },
+ {
+  "id": "89755f4da8ee",
+  "baslik": "Düğün ya da Davul",
+  "tarih": "2026-10-29",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Melikgazi",
+  "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dugun-ya-da-davul",
+  "gorsel": null
+ }
+]
