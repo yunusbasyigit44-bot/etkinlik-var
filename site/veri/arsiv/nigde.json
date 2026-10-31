@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "baef21ff724d",
+  "baslik": "Tuzlu Komedi",
+  "tarih": "2026-10-30",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Merkez",
+  "mekan": "Niğde Belediyesi Kültür Merkezi",
+  "kategori": "Komedi",
+  "ucretsiz": false,
+  "ozet": null,
+  "kaynak_ad": "Niğde Belediyesi Kültür Online (tiyatro, gösteri)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kulturonline.nigde.bel.tr/etkinlikdetay.php?s=tuzlu-komed&q=185",
+  "gorsel": "https://kulturonline.nigde.bel.tr/upload/1792673238_318.jpg"
+ }
+]

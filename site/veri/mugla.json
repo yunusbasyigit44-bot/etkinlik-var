@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-10-30T06:57+03:00",
+ "guncelleme": "2026-10-31T06:56+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -50,6 +50,38 @@
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
   },
   {
+   "id": "3e1c910e5ed5",
+   "baslik": "2026 Uluslararası GastroBodrum Gastronomi Festivali",
+   "tarih": "2026-10-30",
+   "bitis": "2026-11-01",
+   "saat": "10:00",
+   "ilce": "Bodrum",
+   "mekan": "Gümbet Dolgu Alanı",
+   "kategori": "Yemek",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bodrum Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2823/Festival-2026_Uluslararasi_GastroBodrum_Gastronomi_Festivali",
+   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2823_1793340537.3717.png"
+  },
+  {
+   "id": "53ea4a81d216",
+   "baslik": "Bozum Şenliği",
+   "tarih": "2026-10-31",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Bodrum",
+   "mekan": "Ortakent Pazar Yeri",
+   "kategori": "Festival",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bodrum Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2824/Senlik-Bozum_Senligi",
+   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2824_1793340834.6265.png"
+  },
+  {
    "id": "e5d776c06e43",
    "baslik": "TVF Arabica Coffee Kadınlar Voleybol 1. Ligi B.B.Bodrumspor – Eczacıbaşı",
    "tarih": "2026-10-31",
@@ -96,6 +128,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2822/-Bozum_Senligi",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2822_1793174088.8295.jpeg"
+  },
+  {
+   "id": "38b48bfbd039",
+   "baslik": "“Eğitim Değiştirir” İyilik Koşusu",
+   "tarih": "2026-11-01",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Bodrum",
+   "mekan": "Turgutreis Atatürk Meydanı",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bodrum Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2825/Kosu-%E2%80%9CEgitim_Degistirir%E2%80%9D_Iyilik_Kosusu",
+   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2825_1793341012.2155.png"
   },
   {
    "id": "353935f0d48f",
@@ -258,6 +306,22 @@
    "gorsel": null
   },
   {
+   "id": "b990c213fb83",
+   "baslik": "Kadınlar EHP Euro Cup Hentbol İlk Maç HC Byala - Yalıkavakspor",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "17:00",
+   "ilce": "Bodrum",
+   "mekan": "B.B Binnaz Karakaya Spor Salonu",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bodrum Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2827/Mac-Kadinlar_EHP_Euro_Cup_Hentbol_Ilk_Mac_HC_Byala_-_Yalikavakspor",
+   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+  },
+  {
    "id": "f24d655dd26c",
    "baslik": "TVF Arabica Coffee Kadınlar Voleybol 1. Ligi B.B.Bodrumspor – Vakıfbank",
    "tarih": "2026-11-14",
@@ -287,6 +351,22 @@
    "kaynak_ad": "Bodrum Belediyesi",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2744/Mac-Kadinlar_Hentbol_Super_Ligi_Maci_Yalikavakspor-Manisa_BB",
+   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+  },
+  {
+   "id": "f2ca9170b738",
+   "baslik": "Kadınlar EHP Euro Cup Hentbol İlk Maç Yalıkavakspor - HC Byala",
+   "tarih": "2026-11-15",
+   "bitis": null,
+   "saat": "17:00",
+   "ilce": "Bodrum",
+   "mekan": "B.B Binnaz Karakaya Spor Salonu",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bodrum Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2828/Mac-Kadinlar_EHP_Euro_Cup_Hentbol_Ilk_Mac_Yalikavakspor_-_HC_Byala",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
   },
   {
@@ -452,17 +532,17 @@
  ],
  "kaynaklar": [
   {
+   "ad": "Bodrum Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.bodrum.bel.tr/etkinlik_takvimi",
+   "etkinlik_sayisi": 18,
+   "durum": "çalışıyor"
+  },
+  {
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
    "etkinlik_sayisi": 14,
-   "durum": "çalışıyor"
-  },
-  {
-   "ad": "Bodrum Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.bodrum.bel.tr/etkinlik_takvimi",
-   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {

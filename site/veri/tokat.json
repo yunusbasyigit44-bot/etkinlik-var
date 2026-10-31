@@ -1,6 +1,6 @@
 {
  "il": "tokat",
- "guncelleme": "2026-10-30T07:01+03:00",
+ "guncelleme": "2026-10-31T07:01+03:00",
  "ilceler": [
   "Merkez",
   "Almus",
@@ -16,22 +16,6 @@
   "Zile"
  ],
  "etkinlikler": [
-  {
-   "id": "44a2e303f4a3",
-   "baslik": "Türk Dünyası Müzik ve Dans Gösterisi",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Tokat Belediyesi",
-   "kategori": "Dans",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tokat Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.tokat.bel.tr/etkinlikler/turk-dunyasi-muzik-ve-dans-gosterisi",
-   "gorsel": "https://assets.tokat.bel.tr/tokatbld/events/1793017326476-478873654f06d8a4.webp"
-  },
   {
    "id": "571105eb9fb7",
    "baslik": "Cumhuriyet Ezgileri Konseri",
@@ -54,7 +38,7 @@
    "ad": "Tokat Belediyesi",
    "tur": "belediye",
    "url": "https://www.tokat.bel.tr/",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

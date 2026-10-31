@@ -1,6 +1,6 @@
 {
  "il": "nigde",
- "guncelleme": "2026-10-30T06:58+03:00",
+ "guncelleme": "2026-10-31T06:58+03:00",
  "ilceler": [
   "Merkez",
   "Altunhisar",
@@ -10,22 +10,6 @@
   "Ulukışla"
  ],
  "etkinlikler": [
-  {
-   "id": "baef21ff724d",
-   "baslik": "Tuzlu Komedi",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Merkez",
-   "mekan": "Niğde Belediyesi Kültür Merkezi",
-   "kategori": "Komedi",
-   "ucretsiz": false,
-   "ozet": null,
-   "kaynak_ad": "Niğde Belediyesi Kültür Online (tiyatro, gösteri)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kulturonline.nigde.bel.tr/etkinlikdetay.php?s=tuzlu-komed&q=185",
-   "gorsel": "https://kulturonline.nigde.bel.tr/upload/1792673238_318.jpg"
-  },
   {
    "id": "d644d96bec3a",
    "baslik": "Ortaya Karışık",
@@ -80,7 +64,7 @@
    "ad": "Niğde Belediyesi Kültür Online (tiyatro, gösteri)",
    "tur": "belediye",
    "url": "https://kulturonline.nigde.bel.tr/etkinlikler.php",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "0e9dc63a1e25",
+  "baslik": "Türk Musikisi Federasyonu \"4. Korolar Festivali\"",
+  "tarih": "2026-10-30",
+  "bitis": null,
+  "saat": "19:00",
+  "ilce": "Onikişubat",
+  "mekan": "Yunus Emre Kongre ve Kültür Merkezi Sezai Karakoç Konferans Salonu",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": "Türk Musikisi Federasyonu",
+  "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=120",
+  "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2610161611530914.jpeg"
+ }
+]

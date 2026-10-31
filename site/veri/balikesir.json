@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-10-30T06:39+03:00",
+ "guncelleme": "2026-10-31T06:38+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -25,22 +25,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "364d5cf2012b",
-   "baslik": "Cambrıdge Lınguaskıll Sınavları",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Karesi",
-   "mekan": "Necatibey Eğitim Fakültesi",
-   "kategori": "Kariyer",
-   "ucretsiz": true,
-   "ozet": "Sürekli̇ Eği̇ti̇m Uygulama Ve Araştirma Merkezi̇ Müdürlüğü",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_BA%C3%9CNSEM_1791969506.png"
-  },
-  {
    "id": "86132db3244c",
    "baslik": "BAÜN TTO III. İnovatif Fikirler Proje Pazarı",
    "tarih": "2026-11-02",
@@ -55,6 +39,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Proje_Pazar%C4%B1_Afi%C5%9Fi_1791958214.jpeg"
+  },
+  {
+   "id": "53beccebc78a",
+   "baslik": "100+3 Şehirler Arası Karma Sergi",
+   "tarih": "2026-11-02",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Altıeylül",
+   "mekan": "GÜZEL SANATLAR FAKÜLTESİ",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": "Güzel Sanatlar Fakültesi̇",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_100%2B3_%C5%9Fehirleraras%C4%B1_karma_sergi_derya_hoca_%281%29_1793358238.jpeg"
   },
   {
    "id": "2d0faef4ad2f",

@@ -1,6 +1,6 @@
 {
  "il": "erzincan",
- "guncelleme": "2026-10-30T06:43+03:00",
+ "guncelleme": "2026-10-31T06:42+03:00",
  "ilceler": [
   "Merkez",
   "Çayırlı",
@@ -13,22 +13,6 @@
   "Üzümlü"
  ],
  "etkinlikler": [
-  {
-   "id": "38213d1cc06e",
-   "baslik": "EBYÜ Kayak Kulübü \"Sporla Daha Güçlü Bir Geleceğe\"",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "EBYU Kapalı Spor Salonu",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": "Fiziksel Etkinlik",
-   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://ebyu.edu.tr/etkinlik/ebyu-kayak-kulubu-sporla-daha-guclu-bir-gelecege/",
-   "gorsel": null
-  },
   {
    "id": "1f55efdd3568",
    "baslik": "Aşıklar Gecesi",
@@ -83,7 +67,7 @@
    "ad": "Erzincan Binali Yıldırım Üniversitesi",
    "tur": "universite",
    "url": "https://ebyu.edu.tr/etkinlik/?ical=1",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

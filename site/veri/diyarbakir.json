@@ -1,6 +1,6 @@
 {
  "il": "diyarbakir",
- "guncelleme": "2026-10-30T06:42+03:00",
+ "guncelleme": "2026-10-31T06:41+03:00",
  "ilceler": [
   "Bağlar",
   "Bismil",
@@ -21,22 +21,6 @@
   "Yenişehir"
  ],
  "etkinlikler": [
-  {
-   "id": "8cda7ddd5f26",
-   "baslik": "Nalınlar",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yenişehir",
-   "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nalinlar",
-   "gorsel": "veri/gorsel/dt-nalinlar.webp"
-  },
   {
    "id": "e402d9a2388c",
    "baslik": "Türkiye Hadis İhtisas Toplantısı ve Yurt Dışında Akademik Hadis Çalışmalarının Geleceği Çalıştayı",
@@ -603,7 +587,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 20,
+   "etkinlik_sayisi": 19,
    "durum": "çalışıyor"
   },
   {

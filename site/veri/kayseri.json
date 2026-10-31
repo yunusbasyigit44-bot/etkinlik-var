@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-10-30T06:51+03:00",
+ "guncelleme": "2026-10-31T06:50+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -20,22 +20,6 @@
   "Yeşilhisar"
  ],
  "etkinlikler": [
-  {
-   "id": "f825be76e098",
-   "baslik": "Düğün ya da Davul",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Melikgazi",
-   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dugun-ya-da-davul",
-   "gorsel": "veri/gorsel/dt-dugun-ya-da-davul.webp"
-  },
   {
    "id": "6c4fda6adee8",
    "baslik": "Kültür Yolu Turu",
@@ -314,7 +298,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {

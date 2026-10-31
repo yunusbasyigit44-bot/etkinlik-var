@@ -1,5 +1,53 @@
 [
  {
+  "id": "80867b4102c5",
+  "baslik": "Şato'da Sonbahar Resitalleri",
+  "tarih": "2026-10-30",
+  "bitis": null,
+  "saat": "17:00",
+  "ilce": null,
+  "mekan": "Şato Kütüphanesi",
+  "kategori": "Konser",
+  "ucretsiz": null,
+  "ozet": null,
+  "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+  "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-19/0097997d-3ad3-441d-ad9b-afae2f387be1-gukfzb4b.jpg"
+ },
+ {
+  "id": "3e22bc5238b9",
+  "baslik": "Arturo Ui’nin Önlenebilir Tırmanışı",
+  "tarih": "2026-10-30",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Konak",
+  "mekan": "İzBBŞT İsmet İnönü Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": null,
+  "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+  "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-02-16/b89ce134-4345-4a8c-aee3-23707d4d4340-iyx0asa3.jpeg"
+ },
+ {
+  "id": "167e6a2b0507",
+  "baslik": "Kanlı Nigar",
+  "tarih": "2026-10-30",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Karşıyaka",
+  "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kanli-nigar",
+  "gorsel": null
+ },
+ {
   "id": "f1c9cb591946",
   "baslik": "Yeniden Sinematek / Robert Redford Bakışı -Sona Doğru",
   "tarih": "2026-10-29",
@@ -110,5 +158,21 @@
   "kaynak_tur": "belediye",
   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-26/d92829a8-f884-4e4e-88d5-e37b45803b4d-pxu5rknm.jpg"
+ },
+ {
+  "id": "144f9139862f",
+  "baslik": "Resim Sergisi",
+  "tarih": "2026-10-13",
+  "bitis": "2026-10-30",
+  "saat": null,
+  "ilce": "Konak",
+  "mekan": "Konak Belediyesi",
+  "kategori": "Sergi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Konak Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.konak.bel.tr/tr/etkinlikler/etkinlik/resim-sergisi",
+  "gorsel": null
  }
 ]

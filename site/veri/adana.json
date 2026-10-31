@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-10-30T06:36+03:00",
+ "guncelleme": "2026-10-31T06:34+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -19,54 +19,6 @@
   "Yüreğir"
  ],
  "etkinlikler": [
-  {
-   "id": "7a47453c4076",
-   "baslik": "Umudunu Yitirmeyen Sığırcık",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Fuaye Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/umudunu-yitirmeyen-sigircik",
-   "gorsel": "veri/gorsel/dt-umudunu-yitirmeyen-sigircik.webp"
-  },
-  {
-   "id": "b99d9ab64b30",
-   "baslik": "Umudunu Yitirmeyen Sığırcık",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Fuaye Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/umudunu-yitirmeyen-sigircik",
-   "gorsel": "veri/gorsel/dt-umudunu-yitirmeyen-sigircik.webp"
-  },
-  {
-   "id": "700d5eac1e97",
-   "baslik": "Ocak'ta Bahar",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ocakta-bahar",
-   "gorsel": "veri/gorsel/dt-ocakta-bahar.jpg"
-  },
   {
    "id": "cb584eaacad5",
    "baslik": "Ocak'ta Bahar",
@@ -146,6 +98,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.atu.edu.tr",
    "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/10/271020260945_K_471_8bfe809c-ce06-40ba-a19e-c767b77faee3.png"
+  },
+  {
+   "id": "7babd36b86d5",
+   "baslik": "Bankacılık Sektörü",
+   "tarih": "2026-11-02",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Sarıçam",
+   "mekan": "İİSBF Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Etkinlik",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/10/301020261205_K_1_0640edd4-71fd-4dcf-a8af-e027a5824380.jpg"
   },
   {
    "id": "4de0d8894a39",
@@ -242,6 +210,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1790929524_cf1eda201e56247449ae.jpeg"
+  },
+  {
+   "id": "321a82bda903",
+   "baslik": "Dijital Ortamda İletişim ve Nezaket Eğitimi",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "Çukurova Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çukurova Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cu.edu.tr/haber-detay/dijital-ortamda-ıletisim-ve-nezaket-egitimi/",
+   "gorsel": "https://www.cu.edu.tr/media/se0h41wi/dijitalortam.jpeg"
   },
   {
    "id": "a337271454ca",
@@ -612,6 +596,22 @@
    "gorsel": "veri/gorsel/dt-umudunu-yitirmeyen-sigircik.webp"
   },
   {
+   "id": "e99fd7fa099d",
+   "baslik": "SOIL QUALITY ASSESSMENT: PHYSICO-CHEMICAL, MICROBIOLOGICAL AND GENOTOXICITY PERSPECTIVES",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "Çukurova Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çukurova Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cu.edu.tr/haber-detay/soıl-qualıty-assessment-physıco-chemıcal-mıcrobıologıcal-and-genotoxıcıty-perspectıves/",
+   "gorsel": "https://www.cu.edu.tr/media/zi1pzull/soiltesting.jpeg"
+  },
+  {
    "id": "9c158781fd2b",
    "baslik": "Erken Cumhuriyet Dönemi Mimarisinde 'Aydınlanma' Mekanları: Halkevleri Binaların Tipolojisi ve Biçimlenişi",
    "tarih": "2026-11-18",
@@ -674,6 +674,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.cu.edu.tr/haber-detay/memluk-devleti-tarih-siyaset-kultur-ve-sanat/",
    "gorsel": "https://www.cu.edu.tr/media/neonphao/cutam_kasim_2026_programi_sayfa_4.jpg"
+  },
+  {
+   "id": "90fa325f8eed",
+   "baslik": "18. Mesleki ve Teknik Bilimler Kongresi",
+   "tarih": "2026-12-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "Çukurova Üniversitesi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çukurova Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cu.edu.tr/haber-detay/18-mesleki-ve-teknik-bilimler-kongresi/",
+   "gorsel": "https://www.cu.edu.tr/media/akpofdix/kongres.jpeg"
   }
  ],
  "kaynaklar": [
@@ -681,7 +697,7 @@
    "ad": "Devlet Tiyatroları Adana",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 21,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {
@@ -695,14 +711,14 @@
    "ad": "Çukurova Üniversitesi",
    "tur": "universite",
    "url": "https://www.cu.edu.tr",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

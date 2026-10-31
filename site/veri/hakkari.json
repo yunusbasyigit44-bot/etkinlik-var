@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-10-30T06:47+03:00",
+ "guncelleme": "2026-10-31T06:46+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -10,20 +10,20 @@
  ],
  "etkinlikler": [
   {
-   "id": "ec1bc2752753",
-   "baslik": "\"Kürsüden Klavyeye: Akademisyenler İçin Omurga Sağlığı\" Semineri",
-   "tarih": "2026-10-30",
+   "id": "5bf6dc6ff86c",
+   "baslik": "\"Öğretici-Eğitici ve Geliştirici Materyal Dağıtımı\" Etkinliği",
+   "tarih": "2026-11-01",
    "bitis": null,
-   "saat": "13:00",
-   "ilce": "Yüksekova",
-   "mekan": "Yüksekova MYO Konferans Salonu",
-   "kategori": "Söyleşi",
+   "saat": "08:30",
+   "ilce": "Çukurca",
+   "mekan": "Hakkari Merkeze ve Çukurca ilçesine bağlı köy okulları",
+   "kategori": "Diğer",
    "ucretsiz": true,
-   "ozet": "Seminer",
+   "ozet": "Diğer",
    "kaynak_ad": "Hakkari Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/533/%22kursuden-klavyeye-akademisyenler-icin-omurga-sagligi%22-semineri",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/533/cover/thumb/ee1dc4f66d374c4ba969bb93bf6efec0.webp"
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/534/%22ogretici-egitici-ve-gelistirici-materyal-dagitimi%22-etkinligi",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/534/cover/thumb/05525b4b2b6d47bba98100984d756cc7.webp"
   },
   {
    "id": "a8d4497913c4",
@@ -58,11 +58,11 @@
    "gorsel": "https://hubis.hakkari.edu.tr/media/event/524/cover/thumb/2f4ec9fbf36f4864bf1b89a406742e5e.webp"
   },
   {
-   "id": "f080ae373599",
+   "id": "2bf5f058840d",
    "baslik": "2026-2027 Akademik Yılı Açılış Töreni",
    "tarih": "2026-11-04",
    "bitis": null,
-   "saat": "12:30",
+   "saat": "12:00",
    "ilce": "Merkez",
    "mekan": "Rektörlük Konferans Salonu",
    "kategori": "Anma / Tören",
@@ -71,7 +71,7 @@
    "kaynak_ad": "Hakkari Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/521/2026-2027-akademik-yili-acilis-toreni",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/521/cover/thumb/5493a1f404fe48498d967396eeb888b7.webp"
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/521/cover/thumb/df869f7f9ec44988a11292d5698e2000.webp"
   },
   {
    "id": "636d0393bfa3",

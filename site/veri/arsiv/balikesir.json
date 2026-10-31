@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "364d5cf2012b",
+  "baslik": "Cambrıdge Lınguaskıll Sınavları",
+  "tarih": "2026-10-30",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Karesi",
+  "mekan": "Necatibey Eğitim Fakültesi",
+  "kategori": "Kariyer",
+  "ucretsiz": true,
+  "ozet": "Sürekli̇ Eği̇ti̇m Uygulama Ve Araştirma Merkezi̇ Müdürlüğü",
+  "kaynak_ad": "Balıkesir Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+  "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_BA%C3%9CNSEM_1791969506.png"
+ }
+]

@@ -1,5 +1,21 @@
 [
  {
+  "id": "f825be76e098",
+  "baslik": "Düğün ya da Davul",
+  "tarih": "2026-10-30",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Melikgazi",
+  "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dugun-ya-da-davul",
+  "gorsel": null
+ },
+ {
   "id": "4e60afa96b52",
   "baslik": "VIII. Ulusal I. Uluslararası Katılımlı Farmasötik Kimya Kongresi",
   "tarih": "2026-10-29",

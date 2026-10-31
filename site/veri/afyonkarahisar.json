@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-10-30T06:36+03:00",
+ "guncelleme": "2026-10-31T06:35+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -285,7 +285,7 @@
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
    "etkinlik_sayisi": 13,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",

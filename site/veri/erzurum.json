@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-10-30T06:43+03:00",
+ "guncelleme": "2026-10-31T06:42+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -24,22 +24,6 @@
   "Uzundere"
  ],
  "etkinlikler": [
-  {
-   "id": "bd6faf3dc2c8",
-   "baslik": "Yalancının Mumu",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yalancinin-mumu",
-   "gorsel": "veri/gorsel/dt-yalancinin-mumu.jpg"
-  },
   {
    "id": "9a948bd2d43f",
    "baslik": "Temel İngilizce Kursu",
@@ -457,6 +441,38 @@
    "gorsel": "veri/gorsel/dt-delikburunlular-kabilesi.webp"
   },
   {
+   "id": "841f38df7f21",
+   "baslik": "Öğrenci Sosyal Sorumluluk Proje Çağrısı (2026/2 Dönemi)",
+   "tarih": "2026-11-15",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum Teknik Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erzurum Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erzurum.edu.tr/etkinlik/ogrenci-sosyal-sorumluluk-proje-cagrs-20262-donemi1",
+   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/e80f3d16-2540-48d7-ae6a-faddb923106b.webp?width=600&height=749&mode=carve"
+  },
+  {
+   "id": "e719e3e235ce",
+   "baslik": "Akademisyen Sosyal Sorumluluk Proje Çağrısı (2026/2 Dönemi)",
+   "tarih": "2026-11-15",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum Teknik Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erzurum Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erzurum.edu.tr/etkinlik/akademisyen-sosyal-sorumluluk-proje-cagrs-20262-donemi1",
+   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/c79be707-2e94-4e31-846a-9440c4d15995.webp?width=600&height=749&mode=carve"
+  },
+  {
    "id": "3103d4e90a81",
    "baslik": "Doğumunun 150. Yılında Ziya Gökalp ve Türk Felsefesinin İnşası Sempozyumu",
    "tarih": "2026-11-19",
@@ -510,7 +526,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {
@@ -524,7 +540,7 @@
    "ad": "Erzurum Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://erzurum.edu.tr/",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

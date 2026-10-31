@@ -14,5 +14,53 @@
   "kaynak_tur": "universite",
   "kaynak_url": "https://www.aksaray.edu.tr/cumhuriyet-kosusu",
   "gorsel": null
+ },
+ {
+  "id": "7e032d6d3e91",
+  "baslik": "Türkiye Sibervatan Programı 2027 Dönemi Başlıyor",
+  "tarih": "2026-10-10",
+  "bitis": "2026-10-30",
+  "saat": "09:30",
+  "ilce": "Merkez",
+  "mekan": "Aksaray Üniversitesi",
+  "kategori": "Bilim & Teknoloji",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Aksaray Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.aksaray.edu.tr/turkiye-sibervatan-programi-2027-donemi-basliyor",
+  "gorsel": null
+ },
+ {
+  "id": "e8a4633f542b",
+  "baslik": "Öğrenci Koçluğu ve Eğitim Danışmanlığı Sertifika Programı",
+  "tarih": "2026-09-30",
+  "bitis": "2026-10-30",
+  "saat": "08:00",
+  "ilce": "Merkez",
+  "mekan": "ASÜ Sürekli Eğitim Merkezi",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Aksaray Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.aksaray.edu.tr/ogrenci-koclugu-ve-egitim-danismanligi-sertifika-programi",
+  "gorsel": null
+ },
+ {
+  "id": "5aecccae3c00",
+  "baslik": "Saygılı Yaşam Güvenli İlişkiler Konferansı",
+  "tarih": "2026-09-30",
+  "bitis": "2026-10-30",
+  "saat": "10:30",
+  "ilce": "Merkez",
+  "mekan": "ASÜ Konferans Salonu",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Aksaray Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.aksaray.edu.tr/saygili-yasam-guvenli-iliskiler-konferansi",
+  "gorsel": null
  }
 ]

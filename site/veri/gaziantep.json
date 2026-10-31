@@ -1,6 +1,6 @@
 {
  "il": "gaziantep",
- "guncelleme": "2026-10-30T06:47+03:00",
+ "guncelleme": "2026-10-31T06:46+03:00",
  "ilceler": [
   "Şahinbey",
   "Şehitkamil",
@@ -46,6 +46,22 @@
    "gorsel": "https://dosya.gaziantep.bel.tr/uploads/new/2026/10/a2ecda9a-1d3b-4901-906c-4d60205e49ed_original.jpg"
   },
   {
+   "id": "77be6c58e4c3",
+   "baslik": "Savaş Muhabirliği ve Saha Gazeteciliği",
+   "tarih": "2026-11-02",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Şehitkamil",
+   "mekan": "Gaziantep Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Gaziantep Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.gaziantep.edu.tr/etkinlik_detay.php?etkinlik_ID=7184",
+   "gorsel": null
+  },
+  {
    "id": "a9abfc5ec3b3",
    "baslik": "Osman Öztunç ve Zemahşer Nazım Şekli Panel ve Aşık Dinletisi",
    "tarih": "2026-11-06",
@@ -80,18 +96,18 @@
  ],
  "kaynaklar": [
   {
+   "ad": "Gaziantep Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.gaziantep.edu.tr/",
+   "etkinlik_sayisi": 3,
+   "durum": "çalışıyor"
+  },
+  {
    "ad": "Gaziantep Büyükşehir Belediyesi",
    "tur": "belediye",
    "url": "https://www.gaziantep.bel.tr/tr/basin/etkinlikler",
    "etkinlik_sayisi": 2,
    "durum": "geçici sorun: önceki veri gösteriliyor"
-  },
-  {
-   "ad": "Gaziantep Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.gaziantep.edu.tr/",
-   "etkinlik_sayisi": 2,
-   "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Tiyatroları",

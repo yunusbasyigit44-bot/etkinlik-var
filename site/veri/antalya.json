@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-10-30T06:39+03:00",
+ "guncelleme": "2026-10-31T06:37+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -23,54 +23,6 @@
   "Serik"
  ],
  "etkinlikler": [
-  {
-   "id": "fbc77cc9c38c",
-   "baslik": "Kızımın Ruh Hali Testlerinde Çoğunlukla 'Bazen'i İşaretliyorum",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kizimin-ruh-hali-testlerinde-cogunlukla-bazeni-isaretliyorum",
-   "gorsel": "veri/gorsel/dt-kizimin-ruh-hali-testlerinde-cogunlukla-bazeni-isaretliyorum.jpg"
-  },
-  {
-   "id": "160ad8e35a3c",
-   "baslik": "COP31, Akdeniz Üniversitesi Öğrencilerini İklimin Geleceğine Ortak Olmaya Davet Ediyor!",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Atatürk Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/cop31_akdeniz_universitesi_ogrencilerini_iklimin_gelecegine_ortak_olmaya_davet_ediyor-5740",
-   "gorsel": null
-  },
-  {
-   "id": "aaf0decfbaa1",
-   "baslik": "SciSpace ile Yapay Zeka Destekli Literatür Taraması Eğitimi",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Online",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/scispace_ile_yapay_zeka_destekli_literatur_taramasi_egitimi_-5669",
-   "gorsel": null
-  },
   {
    "id": "09dcb345b019",
    "baslik": "Kızımın Ruh Hali Testlerinde Çoğunlukla 'Bazen'i İşaretliyorum",
@@ -213,6 +165,22 @@
    "kaynak_ad": "Akdeniz Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/fen_fakultesi_temel_bilim_seminerleri_-5746",
+   "gorsel": null
+  },
+  {
+   "id": "d1e4b6d0820c",
+   "baslik": "Çevre Hizmet Ödülleri-2025 Ödül Töreni",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, İletişim Fakültesi Konferans Salonu",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/cevre_hizmet_odulleri2025_odul_toreni-5747",
    "gorsel": null
   },
   {
@@ -541,14 +509,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 21,
-   "durum": "çalışıyor"
-  },
-  {
-   "ad": "Akdeniz Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.akdeniz.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 20,
    "durum": "çalışıyor"
   },
   {
@@ -556,6 +517,13 @@
    "tur": "kultur",
    "url": "https://www.operabale.gov.tr",
    "etkinlik_sayisi": 5,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Akdeniz Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.akdeniz.edu.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

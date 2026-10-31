@@ -1,6 +1,6 @@
 {
  "il": "bursa",
- "guncelleme": "2026-10-30T06:40+03:00",
+ "guncelleme": "2026-10-31T06:39+03:00",
  "ilceler": [
   "Büyükorhan",
   "Gemlik",
@@ -67,22 +67,6 @@
    "kaynak_ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bursa.bel.tr/etkinlik/hunkar-koskunde-zamanin-taniklari-2",
-   "gorsel": null
-  },
-  {
-   "id": "28639ecd11b7",
-   "baslik": "Ekim Ayı Etkinlik Takvimi",
-   "tarih": "2026-10-01",
-   "bitis": "2026-10-31",
-   "saat": null,
-   "ilce": "Osmangazi",
-   "mekan": "İlk Teleferik 20.YY",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bursa.bel.tr/etkinlik/ekim-ayi-etkinlik-takvimi",
    "gorsel": null
   },
   {
@@ -180,70 +164,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bursa.bel.tr/etkinlik/bakarsan-cumhuriyeti-gorursun",
    "gorsel": null
-  },
-  {
-   "id": "9f5b92eff701",
-   "baslik": "Şehircilik ve İmar Hukuku",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Yıldırım",
-   "mekan": "Yıldırım Bayezid Yerleşkesi Kırmızı Salon (A Blok Zemin Kat)",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12142/%C5%9Fehircilik-ve-i%CC%87mar-hukuku",
-   "gorsel": null
-  },
-  {
-   "id": "f8eca8467e81",
-   "baslik": "Konak Sinema'da Bu Hafta",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Nilüfer",
-   "mekan": "Nilüfer",
-   "kategori": "Sinema",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Nilüfer Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.nilufer.bel.tr/etkinlik/konak-sinema-da-bu-hafta",
-   "gorsel": "https://www.nilufer.bel.tr/i/etkinlik/5187.jpg"
-  },
-  {
-   "id": "e710580ba816",
-   "baslik": "Göç Hayaller Kumpanyası",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Osmangazi",
-   "mekan": "Feraizcizade Oda Tiyatrosu",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/goc-hayaller-kumpanyasi",
-   "gorsel": "veri/gorsel/dt-goc-hayaller-kumpanyasi.jpg"
-  },
-  {
-   "id": "d8e68a7a99e1",
-   "baslik": "Kahvaltı Dahil",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kahvalti-dahil",
-   "gorsel": "veri/gorsel/dt-kahvalti-dahil.jpg"
   },
   {
    "id": "68d7a8e74a08",
@@ -678,6 +598,22 @@
    "gorsel": "veri/gorsel/dt-dorian-grayin-portresi.webp"
   },
   {
+   "id": "fbaff0dc4c3a",
+   "baslik": "Şehircilik ve İmar Hukuku",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Yıldırım",
+   "mekan": "Yıldırım Bayezid Yerleşkesi Kırmızı Salon (A Blok Zemin Kat)",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12144/%C5%9Fehircilik-ve-i%CC%87mar-hukuku",
+   "gorsel": null
+  },
+  {
    "id": "89a14885b1d0",
    "baslik": "Bir Yaşdönümü Rüyası",
    "tarih": "2026-11-13",
@@ -795,14 +731,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 24,
+   "etkinlik_sayisi": 22,
    "durum": "çalışıyor"
   },
   {
    "ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
    "tur": "belediye",
    "url": "https://www.bursa.bel.tr",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {
@@ -816,7 +752,7 @@
    "ad": "Nilüfer Belediyesi",
    "tur": "belediye",
    "url": "https://www.nilufer.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "sivas",
- "guncelleme": "2026-10-30T07:01+03:00",
+ "guncelleme": "2026-10-31T07:00+03:00",
  "ilceler": [
   "Merkez",
   "Akıncılar",
@@ -21,22 +21,6 @@
   "Zara"
  ],
  "etkinlikler": [
-  {
-   "id": "52f8ed275042",
-   "baslik": "Karacaoğlan",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Merkez",
-   "mekan": "Atatürk Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/karacaoglan",
-   "gorsel": "veri/gorsel/dt-karacaoglan.jpg"
-  },
   {
    "id": "d7bfc34b2c5d",
    "baslik": "Karacaoğlan",
@@ -363,7 +347,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {

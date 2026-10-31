@@ -1,6 +1,6 @@
 {
  "il": "igdir",
- "guncelleme": "2026-10-30T07:03+03:00",
+ "guncelleme": "2026-10-31T07:03+03:00",
  "ilceler": [
   "Merkez",
   "Aralık",
@@ -8,22 +8,6 @@
   "Tuzluca"
  ],
  "etkinlikler": [
-  {
-   "id": "dd048d9b1884",
-   "baslik": "\"Şiir Dinletisi\" Programı",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Iğdır Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Iğdır Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/siir-dinletisi-program-32/register",
-   "gorsel": "https://www.igdir.edu.tr/web/image/56451-07842ec3/1.jfif"
-  },
   {
    "id": "db4b980ea443",
    "baslik": "\"COP31 Yolunda: Değişen İklim, Değişen Yaşam\" Paneli",
@@ -46,7 +30,7 @@
    "ad": "Iğdır Üniversitesi",
    "tur": "universite",
    "url": "https://www.igdir.edu.tr/events/",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

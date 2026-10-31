@@ -1,12 +1,7 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-10-30",
+ "guncelleme": "2026-10-31",
  "secilenler": [
-  {
-   "id": "6b9431c67a87",
-   "not": "Kadıköy'de samimi bir salonda caz akşamı.",
-   "elle": true
-  },
   {
    "id": "58204b829440",
    "baslik": "Lucia di Lammermoor",
@@ -67,25 +62,26 @@
    "elle": true
   },
   {
-   "id": "44a2e303f4a3",
-   "not": "Türk dünyasından ezgiler ve oyunlar.",
-   "elle": true
-  },
-  {
    "id": "d7762ec713f9",
    "baslik": "Romantika / Bir Ömrün Seyrüseferi — Nazım Hikmet Sergisi",
    "not": "Kültürpark'ta ocak ortasına kadar açık.",
    "elle": true
   },
   {
-   "id": "0e9dc63a1e25",
-   "baslik": "4. Korolar Festivali",
-   "not": "Türk musikisi korolarından bir akşam.",
-   "elle": true
+   "id": "fe58f33d378f",
+   "not": "Muğla'da canlı müzik keyfi."
   },
   {
-   "id": "dd048d9b1884",
-   "not": "Iğdır'da canlı müzik keyfi."
+   "id": "571105eb9fb7",
+   "not": "Tokat'ta canlı müzik keyfi."
+  },
+  {
+   "id": "5a7fb2921ed7",
+   "not": "Aydın'da canlı müzik keyfi."
+  },
+  {
+   "id": "0fa351dba26c",
+   "not": "Çankırı'da geleneksel ezgiler."
   }
  ]
 }

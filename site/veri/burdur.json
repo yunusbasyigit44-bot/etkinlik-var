@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-10-30T06:40+03:00",
+ "guncelleme": "2026-10-31T06:39+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,22 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "8cf243b613ed",
-   "baslik": "Dünya Meme Kanseri Farkındalık Ayı",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Burdur Devlet Hastanesi",
-   "kategori": "Sağlık",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13548/1/dunya-meme-kanseri-farkindalik-ayi",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13548/4_13548_2026-10-27-13-37-15-645423_thumb.webp"
-  },
   {
    "id": "2a75fe905dfe",
    "baslik": "Renklenen Duvarlarım",
@@ -110,6 +94,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13552/1/cin-dili-ve-kulturu-toplulugu-yemektanisma-etkinligi",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13552/4_13552_2026-10-28-06-44-34-73487_thumb.webp"
+  },
+  {
+   "id": "b4bb7516d156",
+   "baslik": "Türkiye'nin Çatısı Ağrı Dağı'na Yolculuk",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "Fen-Edebiyat Fakültesi Konferans Salonu 1",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13558/1/turkiyenin-catisi-agri-dagina-yolculuk",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13558/4_13558_2026-10-30-07-14-17-565291_thumb.webp"
   }
  ],
  "kaynaklar": [

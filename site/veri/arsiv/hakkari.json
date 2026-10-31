@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "ec1bc2752753",
+  "baslik": "\"Kürsüden Klavyeye: Akademisyenler İçin Omurga Sağlığı\" Semineri",
+  "tarih": "2026-10-30",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Yüksekova",
+  "mekan": "Yüksekova MYO Konferans Salonu",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Seminer",
+  "kaynak_ad": "Hakkari Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/533/%22kursuden-klavyeye-akademisyenler-icin-omurga-sagligi%22-semineri",
+  "gorsel": "https://hubis.hakkari.edu.tr/media/event/533/cover/thumb/ee1dc4f66d374c4ba969bb93bf6efec0.webp"
+ }
+]

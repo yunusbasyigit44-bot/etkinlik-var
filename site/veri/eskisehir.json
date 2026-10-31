@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-10-30T06:46+03:00",
+ "guncelleme": "2026-10-31T06:45+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -33,22 +33,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg"
-  },
-  {
-   "id": "f6bb849d3cc3",
-   "baslik": "Dost",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Sanat Sokağı Genco Erkal Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
   },
   {
    "id": "06c8ce144c47",
@@ -97,6 +81,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
    "gorsel": null
+  },
+  {
+   "id": "22e854126041",
+   "baslik": "IP Öncüleri 2026: Eskişehir Projesi Açılış Töreni",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": "Törenler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ip-onculeri-2026-eskisehir-projesi-acilis-toreni-1793355817",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae46ff0ad712.jpg"
   },
   {
    "id": "0c7b2480df51",
@@ -211,6 +211,22 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71856d3218.jpg"
   },
   {
+   "id": "c22c8b33488a",
+   "baslik": "Çocukluktan Yetişkinliğe Dikkat Eksikliği Hiperaktivite Bozukluğu",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": "Seminerler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/cocukluktan-yetiskinlige-dikkat-eksikligi-hiperaktivite-bozuklugu-1793355527",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae46eea3072e.jpg"
+  },
+  {
    "id": "1cb36427436f",
    "baslik": "Meriç Düzbaş \"Tambur Resitali",
    "tarih": "2026-11-06",
@@ -289,6 +305,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/turk-halk-muzigi-solo-konseri-1774509637",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/sayfa/61dac07e28c14.jpeg"
+  },
+  {
+   "id": "2d97e2f058ea",
+   "baslik": "Atatürk Portreleri",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": "Sergiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ataturk-portreleri-1793355621",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae46f2612a07.jpg"
   },
   {
    "id": "48f6bf34c73d",
@@ -673,6 +705,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
    "gorsel": null
+  },
+  {
+   "id": "5cf01d8fc57c",
+   "baslik": "Gestasyonel Diyabet ve Beslenme",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": "Konferanslar",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/gestasyonel-diyabet-ve-beslenme-1793355708",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae46f93ea876.jpg"
   },
   {
    "id": "0885a9172ea0",
@@ -1155,54 +1203,6 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35bde7bf6a.jpg"
   },
   {
-   "id": "fe4fae977120",
-   "baslik": "Es Es Tayfa Gitar Üçlüsü",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Konser ve Dinletiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/es-es-tayfa-gitar-uclusu-1792482199",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71b71bd420.jpg"
-  },
-  {
-   "id": "0f2c0469c5a2",
-   "baslik": "Ozan Akçay \"Gitar Resitali",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Konser ve Dinletiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ozan-akcay-gitar-resitali-1792482267",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71bc6665b7.jpg"
-  },
-  {
-   "id": "a6c05890f564",
-   "baslik": "Tarık Çodri \"Gitar Resitali",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Konser ve Dinletiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/tarik-codri-gitar-resitali-1792482339",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71c059d263.jpg"
-  },
-  {
    "id": "3d2fc0b03178",
    "baslik": "Verimsizler",
    "tarih": "2026-11-27",
@@ -1217,22 +1217,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
    "gorsel": null
-  },
-  {
-   "id": "2cc193965f8f",
-   "baslik": "Kişisel Gelişim Zirvesi",
-   "tarih": "2026-11-28",
-   "bitis": "2026-11-29",
-   "saat": "08:30",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Seminerler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/kisisel-gelisim-zirvesi-1781681697",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a324ddbb8bdd.jpg"
   },
   {
    "id": "2a109ae99af2",
@@ -1279,7 +1263,7 @@
    "ad": "Eskişehir Şehir Tiyatroları",
    "tur": "belediye",
    "url": "https://tiyatro.eskisehir.bel.tr/oyuntakvimi.php",
-   "etkinlik_sayisi": 33,
+   "etkinlik_sayisi": 32,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

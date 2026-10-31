@@ -1,6 +1,6 @@
 {
  "il": "nevsehir",
- "guncelleme": "2026-10-30T06:58+03:00",
+ "guncelleme": "2026-10-31T06:57+03:00",
  "ilceler": [
   "Merkez",
   "Acıgöl",
@@ -12,22 +12,6 @@
   "Ürgüp"
  ],
  "etkinlikler": [
-  {
-   "id": "3cf9495ef573",
-   "baslik": "“İnsani Düzenler: Kendiliğinden mi, Organize mi?” Başlıklı Söyleşi",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Nevşehir Hacı Bektaş Veli Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Kültürel Etkinlik",
-   "kaynak_ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.nevsehir.edu.tr/tr/59208",
-   "gorsel": null
-  },
   {
    "id": "02158e39b3ba",
    "baslik": "3. Ürgüp Tavla Turnuvası",
@@ -46,13 +30,6 @@
   }
  ],
  "kaynaklar": [
-  {
-   "ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.nevsehir.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 1,
-   "durum": "çalışıyor"
-  },
   {
    "ad": "Ürgüp Belediyesi",
    "tur": "belediye",
@@ -94,6 +71,13 @@
    "url": "https://www.nevsehir.bel.tr",
    "etkinlik_sayisi": 0,
    "durum": "etkinlik takvimi yok; sadece haber (kahve atölyesi, patates festivali haberleri)"
+  },
+  {
+   "ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.nevsehir.edu.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Nevşehir Valiliği ve ilçe kaymakamlıkları",

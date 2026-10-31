@@ -1,6 +1,6 @@
 {
  "il": "kocaeli",
- "guncelleme": "2026-10-30T06:53+03:00",
+ "guncelleme": "2026-10-31T06:53+03:00",
  "ilceler": [
   "Başiskele",
   "Çayırova",
@@ -33,22 +33,6 @@
    "gorsel": "https://izmit.bel.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-11.08.44-640x905.jpeg"
   },
   {
-   "id": "94dce62bc2e2",
-   "baslik": "Ritim ve Sahne Sanatları Topluluğu",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": null,
-   "ilce": "İzmit",
-   "mekan": null,
-   "kategori": "Gençlik",
-   "ucretsiz": true,
-   "ozet": "Performans",
-   "kaynak_ad": "İzmit Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://izmit.bel.tr/2026-etkinliklerimiz/",
-   "gorsel": "https://izmit.bel.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-11.36.22-640x853.jpeg"
-  },
-  {
    "id": "d368a5612eda",
    "baslik": "Tafiti Çölde Macera",
    "tarih": "2026-10-31",
@@ -67,16 +51,16 @@
  ],
  "kaynaklar": [
   {
-   "ad": "İzmit Belediyesi",
-   "tur": "belediye",
-   "url": "https://izmit.bel.tr/2026-etkinliklerimiz/",
-   "etkinlik_sayisi": 2,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
-  },
-  {
    "ad": "Gebze Belediyesi",
    "tur": "belediye",
    "url": "https://www.gebze.bel.tr/json/etkinlik.json",
+   "etkinlik_sayisi": 1,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
+  },
+  {
+   "ad": "İzmit Belediyesi",
+   "tur": "belediye",
+   "url": "https://izmit.bel.tr/2026-etkinliklerimiz/",
    "etkinlik_sayisi": 1,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },

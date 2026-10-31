@@ -1,6 +1,6 @@
 {
  "il": "mersin",
- "guncelleme": "2026-10-30T06:47+03:00",
+ "guncelleme": "2026-10-31T06:46+03:00",
  "ilceler": [
   "Akdeniz",
   "Anamur",
@@ -114,20 +114,20 @@
    "gorsel": "veri/gorsel/dob-4-3269.webp"
   },
   {
-   "id": "28ab643991da",
-   "baslik": "Denizcilikte Sektör-Akademi İşbirliği ve Fakülte Tanıtım Etkinliği - 1",
-   "tarih": "2026-11-05",
+   "id": "42e4f37f4bfd",
+   "baslik": "YÖKAK Bilgilendirme Toplantısı",
+   "tarih": "2026-11-04",
    "bitis": null,
-   "saat": "13:00",
+   "saat": "14:00",
    "ilce": "Yenişehir",
-   "mekan": "Denizcilik Fakültesi Konferans Salonu",
-   "kategori": "Diğer",
+   "mekan": "Çevrim içi",
+   "kategori": "Söyleşi",
    "ucretsiz": true,
-   "ozet": "Etkinlik",
+   "ozet": "Seminer",
    "kaynak_ad": "Mersin Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/denizcilikte-sektor-akademi-isbirligi-ve-fakulte-tanitim-etkinligi-1-n-10000934",
-   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/1a0520cf-b03d-44c4-b06d-467c5548a77e/d0e7e1ea-a3f8-4e65-b5c7-28583a22c23f/2f5b054c-6306-4662-8754-ede883ee2c8e/960-108ee26b03d2feeb69d49f7f748cfaba6595dac8ec22b2bdc30d954c5aeeea37.webp"
+   "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/yokak-bilgilendirme-toplantisi-n-10001042",
+   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/d9eaba20-0b44-4a43-a7fa-6451703c3334/0c702422-9c94-44bf-93ca-7431e046c014/612bef0b-4f66-4a2b-af9f-cf5585c559d5/1280-bf08aee1effa5d4e7a1f0cac84a77b14a627f332e358f7295540a8b5e23cd218.webp"
   },
   {
    "id": "c29706ca1cef",

@@ -1,5 +1,21 @@
 [
  {
+  "id": "eccd2a1d9678",
+  "baslik": "Cumhuriyet Kampı",
+  "tarih": "2026-10-30",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Merkez",
+  "mekan": "Kırşehir Belediyesi",
+  "kategori": "Doğa & Gezi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Kırşehir Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/cumhuriyet-kampi",
+  "gorsel": "https://www.kirsehir.bel.tr/storage/events/o9OqbKs5MWbcoxJXaeWfa6QJj5Q7u1Fd9OEnl5av.png"
+ },
+ {
   "id": "90a8f8d8912f",
   "baslik": "Cumhuriyet Ormanı Ağaç Dikimi",
   "tarih": "2026-10-29",

@@ -1,6 +1,6 @@
 {
  "il": "karaman",
- "guncelleme": "2026-10-30T07:02+03:00",
+ "guncelleme": "2026-10-31T07:02+03:00",
  "ilceler": [
   "Merkez",
   "Ayrancı",
@@ -10,70 +10,6 @@
   "Sarıveliler"
  ],
  "etkinlikler": [
-  {
-   "id": "911890b6fd96",
-   "baslik": "Çocuklarla 29 Ekim'i Anma Etkinligi",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4122",
-   "gorsel": null
-  },
-  {
-   "id": "2ce09a7b77d5",
-   "baslik": "Meme Kanseri Farkindalik",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Sağlık",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4119",
-   "gorsel": null
-  },
-  {
-   "id": "c6c683844fa5",
-   "baslik": "Dogaya Vefa",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4120",
-   "gorsel": null
-  },
-  {
-   "id": "2731892748a4",
-   "baslik": "Kiz Futbol Turnuvasi",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4121",
-   "gorsel": null
-  },
   {
    "id": "cf2da98bb45c",
    "baslik": "GDG Devfest Ankara",
@@ -112,7 +48,7 @@
    "ad": "Karamanoğlu Mehmetbey Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.kmu.edu.tr/index.aspx",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

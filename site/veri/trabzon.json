@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-10-30T07:01+03:00",
+ "guncelleme": "2026-10-31T07:01+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -22,22 +22,6 @@
   "Yomra"
  ],
  "etkinlikler": [
-  {
-   "id": "655444125be9",
-   "baslik": "İnsancıklar",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/insanciklar",
-   "gorsel": "veri/gorsel/dt-insanciklar.jpg"
-  },
   {
    "id": "f37ae37205fd",
    "baslik": "İnsancıklar",
@@ -119,22 +103,6 @@
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_lc2X7.jpg"
   },
   {
-   "id": "dcbc2bdd0a32",
-   "baslik": "AKTS Eğitimi",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Ortahisar",
-   "mekan": "Diş Hekimliği Fakültesi Derslik 3",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/dents/etkinlik/akts-egitimi",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/mrKKBN.jpg"
-  },
-  {
    "id": "2fbc5af53076",
    "baslik": "Tribosurf'26 \"International Conference on Tribology and Surface Science\" Konferansı",
    "tarih": "2026-11-04",
@@ -181,6 +149,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/hayvan-sagliginin-izinde-hayvancilik-isletmesinde-gunluk-yasam",
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_3opwu.jpg"
+  },
+  {
+   "id": "ab927a49c099",
+   "baslik": "Sürdürülebilir Kalkınma Amaçlarında Özel Sektörün ve Üniversitelerin Rolü",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Ortahisar",
+   "mekan": "Teknoloji Transferi Uygulama ve Araştırma Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/ark/etkinlik/surdurulebilir-kalkinma-amaclarinda-ozel-sektorun-ve-universitelerin-rolu-9o",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/ark_75e41596f990.png"
   },
   {
    "id": "6de940271e31",
@@ -295,6 +279,22 @@
    "gorsel": "veri/gorsel/dt-istanbulun-son-beyzadeleri.jpg"
   },
   {
+   "id": "5cc3bd3fb502",
+   "baslik": "\"17 Hedef 1 Gelecek\" Serisi-1",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": "09:30",
+   "ilce": "Ortahisar",
+   "mekan": "KTÜ TV",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/ark/etkinlik/17-hedef-1-gelecek-serisi-1",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/ark_dd543983e322.jpg"
+  },
+  {
    "id": "5fa0fac777a3",
    "baslik": "Erasmus+ Yolculuğu: Öğrenciden Öğrenciye",
    "tarih": "2026-11-06",
@@ -359,22 +359,6 @@
    "gorsel": "veri/gorsel/dt-istanbulun-son-beyzadeleri.jpg"
   },
   {
-   "id": "4e5c64155e21",
-   "baslik": "10 Kasım Atatürk'ü Anma Günü - Çelenk Sunma Töreni",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "09:05",
-   "ilce": "Ortahisar",
-   "mekan": "Atatürk Anıtı Önü (Rektörlük Önü)",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Trabzon Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/2194",
-   "gorsel": "https://www.trabzon.edu.tr/storage/2024/11/8/b9628092-3268-4a0f-af12-6cd13266705b.jpg"
-  },
-  {
    "id": "0b47f19a46e3",
    "baslik": "İPARD Proje Bilgilendirme Eğitimi",
    "tarih": "2026-11-11",
@@ -405,6 +389,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/julius-caesar",
    "gorsel": "veri/gorsel/dt-julius-caesar.webp"
+  },
+  {
+   "id": "8069385518a0",
+   "baslik": "Aile Sağlığı Merkezlerinde Ebelik ve Doğum Hizmetleri",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/aile-sagligi-merkezlerinde-ebelik-ve-dogum-hizmetleri",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_764b098cd8da.jpg"
   },
   {
    "id": "139caa34780a",
@@ -524,21 +524,21 @@
    "ad": "Karadeniz Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://www.ktu.edu.tr",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {
    "ad": "Trabzon Üniversitesi",
    "tur": "universite",
    "url": "https://www.trabzon.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

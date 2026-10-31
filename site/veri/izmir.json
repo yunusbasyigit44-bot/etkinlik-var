@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-10-30T06:50+03:00",
+ "guncelleme": "2026-10-31T06:49+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -147,22 +147,6 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-07/e42a0ad6-506c-43ec-b3be-3b3de036ef56-mtqjjo1s.jpeg"
   },
   {
-   "id": "144f9139862f",
-   "baslik": "Resim Sergisi",
-   "tarih": "2026-10-13",
-   "bitis": "2026-10-30",
-   "saat": null,
-   "ilce": "Konak",
-   "mekan": "Konak Belediyesi",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konak Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.konak.bel.tr/tr/etkinlikler/etkinlik/resim-sergisi",
-   "gorsel": null
-  },
-  {
    "id": "284f22cc2baa",
    "baslik": "İFOD Kadın Eli Fotoğraf Sergisi",
    "tarih": "2026-10-15",
@@ -225,54 +209,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.konak.bel.tr/tr/etkinlikler/etkinlik/zamanin-dokusu",
    "gorsel": "https://www.konak.bel.tr/upload/activity/9dccf9bd-fe3e-4949-9403-e18f613830e7_6adf35065a7b6.jpg"
-  },
-  {
-   "id": "80867b4102c5",
-   "baslik": "Şato'da Sonbahar Resitalleri",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": null,
-   "mekan": "Şato Kütüphanesi",
-   "kategori": "Konser",
-   "ucretsiz": null,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-19/0097997d-3ad3-441d-ad9b-afae2f387be1-gukfzb4b.jpg"
-  },
-  {
-   "id": "3e22bc5238b9",
-   "baslik": "Arturo Ui’nin Önlenebilir Tırmanışı",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Konak",
-   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-02-16/b89ce134-4345-4a8c-aee3-23707d4d4340-iyx0asa3.jpeg"
-  },
-  {
-   "id": "167e6a2b0507",
-   "baslik": "Kanlı Nigar",
-   "tarih": "2026-10-30",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kanli-nigar",
-   "gorsel": "veri/gorsel/dt-kanli-nigar.webp"
   },
   {
    "id": "dbc4ed1689f5",
@@ -1432,14 +1368,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 38,
+   "etkinlik_sayisi": 37,
    "durum": "çalışıyor"
   },
   {
    "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "tur": "belediye",
    "url": "https://kultursanat.izmir.bel.tr/",
-   "etkinlik_sayisi": 38,
+   "etkinlik_sayisi": 36,
    "durum": "çalışıyor"
   },
   {
@@ -1453,7 +1389,7 @@
    "ad": "Konak Belediyesi",
    "tur": "belediye",
    "url": "https://www.konak.bel.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
