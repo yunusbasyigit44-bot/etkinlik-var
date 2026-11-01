@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-10-31T06:37+03:00",
+ "guncelleme": "2026-11-01T06:44+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -23,54 +23,6 @@
   "Serik"
  ],
  "etkinlikler": [
-  {
-   "id": "09dcb345b019",
-   "baslik": "Kızımın Ruh Hali Testlerinde Çoğunlukla 'Bazen'i İşaretliyorum",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kizimin-ruh-hali-testlerinde-cogunlukla-bazeni-isaretliyorum",
-   "gorsel": "veri/gorsel/dt-kizimin-ruh-hali-testlerinde-cogunlukla-bazeni-isaretliyorum.jpg"
-  },
-  {
-   "id": "c62758cee808",
-   "baslik": "Anna Karenına",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/anna-karenina-antalya-dob",
-   "gorsel": "veri/gorsel/dob-5-867.webp"
-  },
-  {
-   "id": "b62bdf671613",
-   "baslik": "Kızımın Ruh Hali Testlerinde Çoğunlukla 'Bazen'i İşaretliyorum",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kizimin-ruh-hali-testlerinde-cogunlukla-bazeni-isaretliyorum",
-   "gorsel": "veri/gorsel/dt-kizimin-ruh-hali-testlerinde-cogunlukla-bazeni-isaretliyorum.jpg"
-  },
   {
    "id": "1eb7a909ebe2",
    "baslik": "Üç Kedi Bir Dilek",
@@ -509,20 +461,20 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 20,
-   "durum": "çalışıyor"
-  },
-  {
-   "ad": "Devlet Opera ve Balesi",
-   "tur": "kultur",
-   "url": "https://www.operabale.gov.tr",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {
    "ad": "Akdeniz Üniversitesi",
    "tur": "universite",
    "url": "https://www.akdeniz.edu.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 4,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Opera ve Balesi",
+   "tur": "kultur",
+   "url": "https://www.operabale.gov.tr",
    "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },

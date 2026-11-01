@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-10-31T06:42+03:00",
+ "guncelleme": "2026-11-01T06:49+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -24,54 +24,6 @@
   "Uzundere"
  ],
  "etkinlikler": [
-  {
-   "id": "9a948bd2d43f",
-   "baslik": "Temel İngilizce Kursu",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "09:30",
-   "ilce": "Yakutiye",
-   "mekan": "ATASEM",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Atatürk Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://atauni.edu.tr/etkinlik/temel-ingilizce-kursu/",
-   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/10/temel-ing-819x1024.jpeg"
-  },
-  {
-   "id": "24ca0ddf76ac",
-   "baslik": "Yalancının Mumu",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yalancinin-mumu",
-   "gorsel": "veri/gorsel/dt-yalancinin-mumu.jpg"
-  },
-  {
-   "id": "98497e358a59",
-   "baslik": "Yalancının Mumu",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yalancinin-mumu",
-   "gorsel": "veri/gorsel/dt-yalancinin-mumu.jpg"
-  },
   {
    "id": "e188b647a77b",
    "baslik": "Toefl ibt Eğitimi",
@@ -526,14 +478,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 16,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {
    "ad": "Atatürk Üniversitesi",
    "tur": "universite",
    "url": "https://atauni.edu.tr/tum-etkinlikler/",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-10-31T06:53+03:00",
+ "guncelleme": "2026-11-01T07:00+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,86 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "7fde571cb72b",
-   "baslik": "Woyzeck",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/woyzeck",
-   "gorsel": "veri/gorsel/dt-woyzeck.webp"
-  },
-  {
-   "id": "7db2507c8c23",
-   "baslik": "Woyzeck",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/woyzeck",
-   "gorsel": "veri/gorsel/dt-woyzeck.webp"
-  },
-  {
-   "id": "0c709888b053",
-   "baslik": "Andelib Ebru Sergisi",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/andelib-ebru-sergisi/1292",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/wusTY9wBkMEj8vv1BI_Nss70Z_4a6hSd.jpeg"
-  },
-  {
-   "id": "33dc0e9093af",
-   "baslik": "Sema Mukabelesi",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sema-mukabelesi/1293",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/d8YpWM5IjV_GJcNCev50rF-_OqN_vGs5.jpeg"
-  },
-  {
-   "id": "3190f95b3a77",
-   "baslik": "Konya Okulu - Ahmet Özkan",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-ahmet-ozkan/1214",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/rDq9Q0TPY6VfiNgCpIQW7D8nJ2a-fvLC.jpeg"
-  },
   {
    "id": "bc5a152e5140",
    "baslik": "Konya Okulu - Prof. Dr. Ali Akpınar",
@@ -275,22 +195,6 @@
    "gorsel": "veri/gorsel/dt-esas-misafir.jpg"
   },
   {
-   "id": "a85d7b78bd43",
-   "baslik": "Tematik Film Okumaları",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Sinema",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/tematik-film-okumalari/1335",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/0vRhf-w6SQeFSasNJ_Thvt5IG7e8j6y7.jpeg"
-  },
-  {
    "id": "d72765cc0d1e",
    "baslik": "Konya Okulu - Prof. Dr. Ömer Özpınar",
    "tarih": "2026-11-05",
@@ -305,6 +209,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-omer-ozpinar/1212",
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/D0JfVX30v_QV6zHMCiLrLbEeJJUhCC60.jpeg"
+  },
+  {
+   "id": "a85d7b78bd43",
+   "baslik": "Tematik Film Okumaları",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Sinema",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/tematik-film-okumalari/1335",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/0vRhf-w6SQeFSasNJ_Thvt5IG7e8j6y7.jpeg"
   },
   {
    "id": "72c3f936ddea",
@@ -417,6 +337,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanatkonya.com/etkinlikler/soz-arasinda-edebiyat-ve-sanat-uzerine-konusmalar/1332",
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAr7rQ-kN_9FsooKim_r07VzUrnN4Gxp.jpeg"
+  },
+  {
+   "id": "95df083944f5",
+   "baslik": "Konya Okulu - Ahmet Özkan",
+   "tarih": "2026-11-07",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-ahmet-ozkan/1214",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/rDq9Q0TPY6VfiNgCpIQW7D8nJ2a-fvLC.jpeg"
   },
   {
    "id": "f6238f7b53bd",
@@ -664,14 +600,14 @@
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 15,
    "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {

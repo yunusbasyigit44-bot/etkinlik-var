@@ -1,6 +1,6 @@
 {
  "il": "aydin",
- "guncelleme": "2026-10-31T06:38+03:00",
+ "guncelleme": "2026-11-01T06:44+03:00",
  "ilceler": [
   "Efeler",
   "Bozdoğan",
@@ -52,6 +52,54 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://haber.adu.edu.tr/etkinlik/gelenegin-izinden-2000148578",
    "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261023141548-Y3SOK0NC58NMNVEIQENL-000038722467782526598531.jpeg"
+  },
+  {
+   "id": "e0524175d8ea",
+   "baslik": "Çağrışım Tekniği ile Yaratıcı Yazarlık Eğitimi",
+   "tarih": "2027-01-04",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Efeler",
+   "mekan": "https://adusem.adu.edu.tr/",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": "Eğitim",
+   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/cagrisim-teknigi-ile-yaratici-yazarlik-egitimi-2000148585",
+   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261031111211-MAGE20261031AT104458-000076049461711739511053.jpeg"
+  },
+  {
+   "id": "13339618420c",
+   "baslik": "Bağlam Temelli Soru Yazarlığı Eğitimi",
+   "tarih": "2027-01-08",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Efeler",
+   "mekan": "https://adusem.adu.edu.tr/",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": "Eğitim",
+   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/baglam-temelli-soru-yazarligi-egitimi-2000148599",
+   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261031111432-MAGE20261031AT104458-000025300661720881804858.jpeg"
+  },
+  {
+   "id": "3b786f74f0ae",
+   "baslik": "LGS Koçluk",
+   "tarih": "2027-01-10",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Efeler",
+   "mekan": "https://adusem.adu.edu.tr/",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim",
+   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/lgs-kocluk-2000148592",
+   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261031111229-MAGE20261031AT104459-000083693903290690448659.jpeg"
   }
  ],
  "kaynaklar": [
@@ -59,7 +107,7 @@
    "ad": "Aydın Adnan Menderes Üniversitesi",
    "tur": "universite",
    "url": "https://haber.adu.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

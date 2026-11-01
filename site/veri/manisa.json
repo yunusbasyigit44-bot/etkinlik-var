@@ -1,6 +1,6 @@
 {
  "il": "manisa",
- "guncelleme": "2026-10-31T06:54+03:00",
+ "guncelleme": "2026-11-01T07:01+03:00",
  "ilceler": [
   "Ahmetli",
   "Akhisar",
@@ -36,22 +36,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1288",
    "gorsel": "https://kultur.manisa.bel.tr/uploads/events/2e7997df-b0c9-4adc-8a7d-8792bded6288_C%CC%A7I%CC%87ZMELI%CC%87-KEDI%CC%87-EKI%CC%87M-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg.jpeg"
-  },
-  {
-   "id": "e58b0786e393",
-   "baslik": "Şiddetli Geçimsizlik Tiyatro Oyunu",
-   "tarih": "2026-10-28",
-   "bitis": "2026-10-31",
-   "saat": "20:00",
-   "ilce": "Şehzadeler",
-   "mekan": "Şehir Tiyatrosu Uğur Mumcu Sahnesi - Şehzadeler / Manisa",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1287",
-   "gorsel": "https://kultur.manisa.bel.tr/uploads/events/b9f001ee-07a5-4dc1-945f-eaafa11cb009_S%CC%A7I%CC%87DDETLI%CC%87-GEC%CC%A7I%CC%87MSI%CC%87ZLI%CC%87K-EKI%CC%87M-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg.jpeg"
   },
   {
    "id": "64dd3ec87ae1",
@@ -251,7 +235,7 @@
    "ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
    "tur": "belediye",
    "url": "https://kultur.manisa.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 8,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

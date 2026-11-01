@@ -1,6 +1,6 @@
 {
  "il": "van",
- "guncelleme": "2026-10-31T07:02+03:00",
+ "guncelleme": "2026-11-01T07:09+03:00",
  "ilceler": [
   "İpekyolu",
   "Tuşba",
@@ -293,7 +293,7 @@
    "tur": "belediye",
    "url": "https://www.ipekyolu.bel.tr/etkinlikler",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error timed out>"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "il": "karaman",
- "guncelleme": "2026-10-31T07:02+03:00",
+ "guncelleme": "2026-11-01T07:09+03:00",
  "ilceler": [
   "Merkez",
   "Ayrancı",
@@ -9,48 +9,8 @@
   "Kazımkarabekir",
   "Sarıveliler"
  ],
- "etkinlikler": [
-  {
-   "id": "cf2da98bb45c",
-   "baslik": "GDG Devfest Ankara",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "04:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4124",
-   "gorsel": null
-  },
-  {
-   "id": "8b2c6dde598d",
-   "baslik": "Harekete Geç, Sagligini Kesfet",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Sağlık",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4123",
-   "gorsel": null
-  }
- ],
+ "etkinlikler": [],
  "kaynaklar": [
-  {
-   "ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "tur": "universite",
-   "url": "https://etkinlik.kmu.edu.tr/index.aspx",
-   "etkinlik_sayisi": 2,
-   "durum": "çalışıyor"
-  },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
@@ -83,6 +43,13 @@
    "ad": "Karaman İl Kültür ve Turizm Müdürlüğü",
    "tur": "kultur",
    "url": "https://karaman.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Karamanoğlu Mehmetbey Üniversitesi",
+   "tur": "universite",
+   "url": "https://etkinlik.kmu.edu.tr/index.aspx",
    "etkinlik_sayisi": 0,
    "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },

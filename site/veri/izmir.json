@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-10-31T06:49+03:00",
+ "guncelleme": "2026-11-01T06:57+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -49,22 +49,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-09-04/12e29244-550e-4f28-bdf2-3851db07fca9-yiqiqiro.jpg"
-  },
-  {
-   "id": "131355780fd6",
-   "baslik": "İki Akıntı Arasında",
-   "tarih": "2026-07-31",
-   "bitis": "2026-10-31",
-   "saat": null,
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka İskele Galeri",
-   "kategori": "Sergi",
-   "ucretsiz": null,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-07-29/78da84ce-6730-40a5-b0a5-d005f53a8342-e42vxc1e.jpeg"
   },
   {
    "id": "47ebfceec752",
@@ -225,54 +209,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-26/c3eb0489-c0f6-4074-a577-43ec37124f55-pbjjf3f2.jpeg"
-  },
-  {
-   "id": "791b0199ec11",
-   "baslik": "Kanlı Nigar",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kanli-nigar",
-   "gorsel": "veri/gorsel/dt-kanli-nigar.webp"
-  },
-  {
-   "id": "e6f97d8b6c31",
-   "baslik": "Arturo Ui’nin Önlenebilir Tırmanışı",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Konak",
-   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-02-16/b89ce134-4345-4a8c-aee3-23707d4d4340-iyx0asa3.jpeg"
-  },
-  {
-   "id": "acb0b689aa68",
-   "baslik": "Kanlı Nigar",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kanli-nigar",
-   "gorsel": "veri/gorsel/dt-kanli-nigar.webp"
   },
   {
    "id": "41cf81745770",
@@ -915,6 +851,22 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-22/e06cb1a8-7b0c-4c2b-99ed-bb32f4492809-4zacnjvg.jpeg"
   },
   {
+   "id": "6ecd0e755f6f",
+   "baslik": "Halktan Biri",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-04-07/8ec8a040-119b-4ce6-ae8f-9c7e00484cc7-brtod2zv.jpeg"
+  },
+  {
    "id": "c27f0741b169",
    "baslik": "Hayâl-i Temsil",
    "tarih": "2026-11-12",
@@ -961,6 +913,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/tosca-izmir-dob",
    "gorsel": "veri/gorsel/dob-3-88.webp"
+  },
+  {
+   "id": "ac4c4ef18c39",
+   "baslik": "Halktan Biri",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-04-07/8ec8a040-119b-4ce6-ae8f-9c7e00484cc7-brtod2zv.jpeg"
   },
   {
    "id": "82a268b15183",
@@ -1057,6 +1025,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/bir-tenor-araniyor-izmir-dob",
    "gorsel": "veri/gorsel/dob-3-606.webp"
+  },
+  {
+   "id": "772e27be46bc",
+   "baslik": "Halktan Biri",
+   "tarih": "2026-11-14",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-04-07/8ec8a040-119b-4ce6-ae8f-9c7e00484cc7-brtod2zv.jpeg"
   },
   {
    "id": "f99b0a94ba2d",
@@ -1365,17 +1349,17 @@
  ],
  "kaynaklar": [
   {
-   "ad": "Devlet Tiyatroları",
-   "tur": "kultur",
-   "url": "https://devtiyatro.gov.tr",
+   "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "tur": "belediye",
+   "url": "https://kultursanat.izmir.bel.tr/",
    "etkinlik_sayisi": 37,
    "durum": "çalışıyor"
   },
   {
-   "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "tur": "belediye",
-   "url": "https://kultursanat.izmir.bel.tr/",
-   "etkinlik_sayisi": 36,
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 35,
    "durum": "çalışıyor"
   },
   {

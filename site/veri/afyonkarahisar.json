@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-10-31T06:35+03:00",
+ "guncelleme": "2026-11-01T06:42+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -71,11 +71,75 @@
    "gorsel": "https://www.afyon.bel.tr/uploads/etkinlik/ec0e5e50-24db-4bb5-9c85-a0492da96dfe/gorsel/2026/10/94a7e69a-d163-4820-ac11-42f0312a7071-d.jpg-medium.webp"
   },
   {
-   "id": "1f3165b73774",
-   "baslik": "Kariyer Söyleyişisi",
+   "id": "bd0fadd2cac7",
+   "baslik": "İslam İktisadı ve Finansı Özel Oturumu: Jeoekonomi ve Jeofinans Perspektifinden İslam Ekonomisi ve Finansı",
+   "tarih": "2026-11-02",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Merkez",
+   "mekan": "Prof. Dr. Sabri Bektöre Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Panel · İslam İkti̇sadi Ve Fi̇nansi Uygulama Ve Araştirma Me",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261029215243_akifam_ozel_oturumlar_2.jpg"
+  },
+  {
+   "id": "132f476ef1f2",
+   "baslik": "Jeoekonomi ve Jeofinans Perspektifinden İslam Ekonomisi ve Finansı",
+   "tarih": "2026-11-02",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Merkez",
+   "mekan": "Prof. Dr. Sabri Bektöre Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminer · İkti̇sadi̇ Ve İdari̇ Bi̇li̇mler Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261030135033_0dc1ab66-25c9-4dd5-9be0-76d7aa180f32.jpg"
+  },
+  {
+   "id": "8155a5cadf8a",
+   "baslik": "Mucize ve Umudun Adı LÖSEV",
    "tarih": "2026-11-03",
    "bitis": null,
-   "saat": "09:00",
+   "saat": "13:00",
+   "ilce": "Sandıklı",
+   "mekan": "Sandıklı Meslek Yüksekokulu Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Konferans · Sandikli Meslek Yüksekokulu",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261028171942_whatsapp_image_2026-10-28_at_17.18.48.jpeg"
+  },
+  {
+   "id": "f06b162801b7",
+   "baslik": "Anlam Krizi, İnsan Neden Yaşar",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Merkez",
+   "mekan": "Prof. Dr. Sabri Bektöre Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Söyleşi · İkti̇sadi̇ Ve İdari̇ Bi̇li̇mler Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261030152549_whatsapp_image_2026-10-30_at_15.12.42.jpeg"
+  },
+  {
+   "id": "5205f7046825",
+   "baslik": "Kariyer Söyleyişisi",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "11:00",
    "ilce": "Merkez",
    "mekan": "Prof. Dr. Sabri Bektöre Konferans Salonu",
    "kategori": "Kariyer",
@@ -84,7 +148,7 @@
    "kaynak_ad": "Afyon Kocatepe Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": null
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261030152229_whatsapp_image_2026-10-30_at_15.20.21.jpeg"
   },
   {
    "id": "de3209ba5692",
@@ -101,6 +165,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261021095439_muh.jpg"
+  },
+  {
+   "id": "cd4b69527bd4",
+   "baslik": "Hizmet İçi Eğitim-satınalma (doğrudan temin) işlemleri",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Prof. Dr. Şehabettin Yiğitbaşı Kütüphanesi Konferans Salonu",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim Programı · Personel Dai̇re Başkanliği",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": null
+  },
+  {
+   "id": "304be7a39443",
+   "baslik": "Ulusal Bilinç ve Evrensel Barış Ekseninde Atatürk’ü Anlamak",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Merkez",
+   "mekan": "Erdal Akar Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Panel · Atatürk İlkeleri̇ Ve İnkilap Tari̇hi̇ Bölüm Başkanliği",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261030144716_whatsapp_image_2026-10-30_at_14.15.46.jpeg"
   },
   {
    "id": "fe32f95fd863",
@@ -284,8 +380,8 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 13,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 19,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
@@ -299,7 +395,7 @@
    "tur": "belediye",
    "url": "https://www.afyon.bel.tr/guncel/etkinlikler",
    "etkinlik_sayisi": 1,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "17 ilçe kaymakamlığı",

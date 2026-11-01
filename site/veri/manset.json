@@ -1,54 +1,10 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-10-31",
+ "guncelleme": "2026-11-01",
  "secilenler": [
-  {
-   "id": "58204b829440",
-   "baslik": "Lucia di Lammermoor",
-   "not": "Donizetti'nin ünlü operası AKM sahnesinde.",
-   "elle": true
-  },
-  {
-   "id": "c62758cee808",
-   "baslik": "Anna Karenina",
-   "not": "Tolstoy'un romanı bale olarak Antalya'da.",
-   "elle": true
-  },
-  {
-   "id": "33dc0e9093af",
-   "not": "Mevlevi geleneğini yerinde, Konya'da izleyin.",
-   "elle": true
-  },
-  {
-   "id": "8d73b952ef76",
-   "baslik": "Le Nozze di Figaro — Figaro'nun Düğünü",
-   "not": "Mozart'ın neşeli komik operası Ankara'da.",
-   "elle": true
-  },
   {
    "id": "dbc4ed1689f5",
    "not": "Kültürpark'ta bal, fide ve hafta sonu gezintisi.",
-   "elle": true
-  },
-  {
-   "id": "c1cad1104b84",
-   "baslik": "Giselle",
-   "not": "Romantik balenin en bilinen eserlerinden biri.",
-   "elle": true
-  },
-  {
-   "id": "5a21d31bc547",
-   "not": "Sabahattin Ali'nin romanı Samsun'da sahnede.",
-   "elle": true
-  },
-  {
-   "id": "e5d6b3cb4925",
-   "not": "Bodrum Ortakent'te bağ bozumu şenliği.",
-   "elle": true
-  },
-  {
-   "id": "1f55efdd3568",
-   "not": "Saz ve söz: âşıklık geleneği Erzincan'da.",
    "elle": true
   },
   {
@@ -68,20 +24,52 @@
    "elle": true
   },
   {
-   "id": "fe58f33d378f",
-   "not": "Muğla'da canlı müzik keyfi."
+   "id": "af9cd5c15e9e",
+   "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "571105eb9fb7",
-   "not": "Tokat'ta canlı müzik keyfi."
+   "id": "00ebe3ad4dab",
+   "not": "Mersin'de opera ve bale sahnesinden bir akşam."
   },
   {
    "id": "5a7fb2921ed7",
    "not": "Aydın'da canlı müzik keyfi."
   },
   {
+   "id": "5f570568def9",
+   "not": "Aydın'da canlı müzik keyfi."
+  },
+  {
+   "id": "ac679be9e500",
+   "not": "Burdur'da canlı müzik keyfi."
+  },
+  {
    "id": "0fa351dba26c",
    "not": "Çankırı'da geleneksel ezgiler."
+  },
+  {
+   "id": "b27bbc0f56d5",
+   "not": "Konya'da geleneksel ezgiler."
+  },
+  {
+   "id": "10379b1e0871",
+   "not": "Samsun'da geleneksel ezgiler."
+  },
+  {
+   "id": "32dec59f1b29",
+   "not": "Manisa'da perde açılıyor."
+  },
+  {
+   "id": "7519419db484",
+   "not": "Adana'da perde açılıyor."
+  },
+  {
+   "id": "a00303c71871",
+   "not": "Gaziantep'te gezip görülecek bir sergi."
+  },
+  {
+   "id": "6f85dac51929",
+   "not": "Eskişehir'de gezip görülecek bir sergi."
   }
  ]
 }

@@ -1,5 +1,53 @@
 [
  {
+  "id": "791b0199ec11",
+  "baslik": "Kanlı Nigar",
+  "tarih": "2026-10-31",
+  "bitis": null,
+  "saat": "15:00",
+  "ilce": "Karşıyaka",
+  "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kanli-nigar",
+  "gorsel": null
+ },
+ {
+  "id": "e6f97d8b6c31",
+  "baslik": "Arturo Ui’nin Önlenebilir Tırmanışı",
+  "tarih": "2026-10-31",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Konak",
+  "mekan": "İzBBŞT İsmet İnönü Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": null,
+  "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+  "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-02-16/b89ce134-4345-4a8c-aee3-23707d4d4340-iyx0asa3.jpeg"
+ },
+ {
+  "id": "acb0b689aa68",
+  "baslik": "Kanlı Nigar",
+  "tarih": "2026-10-31",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Karşıyaka",
+  "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kanli-nigar",
+  "gorsel": null
+ },
+ {
   "id": "80867b4102c5",
   "baslik": "Şato'da Sonbahar Resitalleri",
   "tarih": "2026-10-30",
@@ -174,5 +222,21 @@
   "kaynak_tur": "belediye",
   "kaynak_url": "https://www.konak.bel.tr/tr/etkinlikler/etkinlik/resim-sergisi",
   "gorsel": null
+ },
+ {
+  "id": "131355780fd6",
+  "baslik": "İki Akıntı Arasında",
+  "tarih": "2026-07-31",
+  "bitis": "2026-10-31",
+  "saat": null,
+  "ilce": "Karşıyaka",
+  "mekan": "Karşıyaka İskele Galeri",
+  "kategori": "Sergi",
+  "ucretsiz": null,
+  "ozet": null,
+  "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+  "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-07-29/78da84ce-6730-40a5-b0a5-d005f53a8342-e42vxc1e.jpeg"
  }
 ]

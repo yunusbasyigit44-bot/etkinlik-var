@@ -1,6 +1,6 @@
 {
  "il": "mersin",
- "guncelleme": "2026-10-31T06:46+03:00",
+ "guncelleme": "2026-11-01T06:54+03:00",
  "ilceler": [
   "Akdeniz",
   "Anamur",
@@ -32,22 +32,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/karma-sergi-cumhuriyetin-renkleri-ikatin-izinde-n-10000937",
    "gorsel": "https://cdn.mersin.edu.tr/public/renditions/263e22a6-5deb-4e11-ad3a-cace3345de92/ed7e4b04-522d-4843-8f83-1572d8718ab1/e65a460f-01fb-4f55-b0a2-9860a753bb27/1280-6dee5c85417e9cb9ed725ffacf23e030f603b1d32c2e3dd8828f0cea924f0b0d.webp"
-  },
-  {
-   "id": "c1cad1104b84",
-   "baslik": "Gıselle",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yenişehir",
-   "mekan": "Mersin Opera Büyük Sahne",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/giselle-mersin-dob",
-   "gorsel": "veri/gorsel/dob-4-778.webp"
   },
   {
    "id": "fbd112625ad0",
@@ -231,6 +215,22 @@
    "tarih": "2026-11-14",
    "bitis": null,
    "saat": "15:00",
+   "ilce": "Yenişehir",
+   "mekan": "Mersin Opera Büyük Sahne",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/romeo-juliet-mersin-dob",
+   "gorsel": "veri/gorsel/dob-4-3186.webp"
+  },
+  {
+   "id": "fecb61aad33b",
+   "baslik": "Romeo ve Julıet",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "20:00",
    "ilce": "Yenişehir",
    "mekan": "Mersin Opera Büyük Sahne",
    "kategori": "Opera & Bale",

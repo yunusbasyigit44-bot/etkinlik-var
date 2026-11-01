@@ -1,6 +1,6 @@
 {
  "il": "sinop",
- "guncelleme": "2026-10-31T06:59+03:00",
+ "guncelleme": "2026-11-01T07:06+03:00",
  "ilceler": [
   "Merkez",
   "Ayancık",
@@ -30,22 +30,6 @@
    "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/09/YDS-SORU-COZME-KAMPI.webp"
   },
   {
-   "id": "ddcc1615607b",
-   "baslik": "Yapay Zeka Destekli No-Code Yazılım Geliştirme ve Yayınlama Eğitimi (Giriş Seviye)",
-   "tarih": "2026-10-22",
-   "bitis": "2026-10-31",
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sinop Üniversitesi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": "Susem",
-   "kaynak_ad": "Sinop Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/yapay-zeka-destekli-no-code-yazilim-gelistirme-ve-yayinlama-egitimi-giris-seviye/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/10/Yapay-Zeka.jpg.jpeg"
-  },
-  {
    "id": "9444cee352d0",
    "baslik": "Yapay Zeka Destekli Oyun Geliştirme ve Yayınlama Eğitimi",
    "tarih": "2026-10-24",
@@ -60,22 +44,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sinop.edu.tr/etkinlik/yapay-zeka-destekli-oyun-gelistirme-ve-yayinlama-egitimi/",
    "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/10/Oyun-Gelistirme.jpg.jpeg"
-  },
-  {
-   "id": "bad3b5870cde",
-   "baslik": "OYUN SENDE'26 : Akademiden Sahaya Oyun Geliştirme Konferansı",
-   "tarih": "2026-10-30",
-   "bitis": "2026-10-31",
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sinop Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": "Sempozyum",
-   "kaynak_ad": "Sinop Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/oyun-sende/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/07/konferans.jpg"
   },
   {
    "id": "95e0e0b0a8e4",
@@ -243,7 +211,7 @@
    "ad": "Sinop Üniversitesi",
    "tur": "universite",
    "url": "https://www.sinop.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 12,
    "durum": "çalışıyor"
   },
   {

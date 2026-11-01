@@ -1,5 +1,21 @@
 [
  {
+  "id": "1f55efdd3568",
+  "baslik": "Aşıklar Gecesi",
+  "tarih": "2026-10-31",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Merkez",
+  "mekan": "Erzincan Belediyesi Kültür Sanat Merkezi",
+  "kategori": "Geleneksel Müzik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Erzincan Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://erzincan.bel.tr/etkinlikler/asiklar-gecesi/143",
+  "gorsel": "https://erzincan.bel.tr/upload/etkinlikler/2026_10_26-03AcAPnSksocoJR9zfEo.jpg"
+ },
+ {
   "id": "38213d1cc06e",
   "baslik": "EBYÜ Kayak Kulübü \"Sporla Daha Güçlü Bir Geleceğe\"",
   "tarih": "2026-10-30",

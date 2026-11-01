@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-10-31T07:01+03:00",
+ "guncelleme": "2026-11-01T07:08+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -22,38 +22,6 @@
   "Yomra"
  ],
  "etkinlikler": [
-  {
-   "id": "f37ae37205fd",
-   "baslik": "İnsancıklar",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/insanciklar",
-   "gorsel": "veri/gorsel/dt-insanciklar.jpg"
-  },
-  {
-   "id": "9065de5e5916",
-   "baslik": "İnsancıklar",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/insanciklar",
-   "gorsel": "veri/gorsel/dt-insanciklar.jpg"
-  },
   {
    "id": "a6c84b189dde",
    "baslik": "Dijital Dönüşümün Hayatımızdaki İzleri",
@@ -85,6 +53,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ktu.edu.tr/dents/etkinlik/farmakovijilans",
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/y7Ue5c.jpg"
+  },
+  {
+   "id": "b159982628f4",
+   "baslik": "KTÜ İİBF Mezunlar Derneği Faaliyetleri",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/ktu-iibf-mezunlar-dernegi-faaliyetleri",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_53585d103cb7.jpg"
   },
   {
    "id": "0cd978ca70e3",
@@ -524,14 +508,14 @@
    "ad": "Karadeniz Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://www.ktu.edu.tr",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {

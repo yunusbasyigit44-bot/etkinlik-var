@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-10-31T06:46+03:00",
+ "guncelleme": "2026-11-01T06:53+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -96,7 +96,7 @@
    "tur": "universite",
    "url": "https://www.hakkari.edu.tr/etkinlikler",
    "etkinlik_sayisi": 5,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Devlet Tiyatroları",

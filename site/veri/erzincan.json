@@ -1,6 +1,6 @@
 {
  "il": "erzincan",
- "guncelleme": "2026-10-31T06:42+03:00",
+ "guncelleme": "2026-11-01T06:48+03:00",
  "ilceler": [
   "Merkez",
   "Çayırlı",
@@ -13,22 +13,6 @@
   "Üzümlü"
  ],
  "etkinlikler": [
-  {
-   "id": "1f55efdd3568",
-   "baslik": "Aşıklar Gecesi",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Merkez",
-   "mekan": "Erzincan Belediyesi Kültür Sanat Merkezi",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Erzincan Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://erzincan.bel.tr/etkinlikler/asiklar-gecesi/143",
-   "gorsel": "https://erzincan.bel.tr/upload/etkinlikler/2026_10_26-03AcAPnSksocoJR9zfEo.jpg"
-  },
   {
    "id": "f13561030603",
    "baslik": "Bozkırın Kızlarından Küresel Liderlere Türk Dünyasının Kadın Liderleri Kongresi",
@@ -71,13 +55,6 @@
    "durum": "çalışıyor"
   },
   {
-   "ad": "Erzincan Belediyesi",
-   "tur": "belediye",
-   "url": "https://erzincan.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 1,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "8 ilçe kaymakamlığı",
    "tur": "kaymakamlik",
    "url": null,
@@ -88,6 +65,13 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Erzincan Belediyesi",
+   "tur": "belediye",
+   "url": "https://erzincan.bel.tr/etkinlikler",
    "etkinlik_sayisi": 0,
    "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },

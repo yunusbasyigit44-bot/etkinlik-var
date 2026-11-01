@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-10-31T06:50+03:00",
+ "guncelleme": "2026-11-01T06:57+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -20,54 +20,6 @@
   "Yeşilhisar"
  ],
  "etkinlikler": [
-  {
-   "id": "6c4fda6adee8",
-   "baslik": "Kültür Yolu Turu",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Melikgazi",
-   "mekan": "Erciyes Üniversitesi",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Erciyes Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.erciyes.edu.tr/tr/etkinlik-detay/kultur-yolu-turu/10424",
-   "gorsel": "https://www.erciyes.edu.tr/images/Etkinlik/56bfb838-e210-4095-8ede-f0da927caa5a.jpg"
-  },
-  {
-   "id": "792d8ce5d73e",
-   "baslik": "Düğün ya da Davul",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Melikgazi",
-   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dugun-ya-da-davul",
-   "gorsel": "veri/gorsel/dt-dugun-ya-da-davul.webp"
-  },
-  {
-   "id": "6a03a78f57f1",
-   "baslik": "Düğün ya da Davul",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Melikgazi",
-   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dugun-ya-da-davul",
-   "gorsel": "veri/gorsel/dt-dugun-ya-da-davul.webp"
-  },
   {
    "id": "1dd339cbb9a6",
    "baslik": "Leenane'nin Güzellik Kraliçesi",
@@ -298,14 +250,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 13,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {
    "ad": "Erciyes Üniversitesi",
    "tur": "universite",
    "url": "https://www.erciyes.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

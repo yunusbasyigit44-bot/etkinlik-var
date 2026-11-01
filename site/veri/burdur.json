@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-10-31T06:39+03:00",
+ "guncelleme": "2026-11-01T06:45+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,22 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "2a75fe905dfe",
-   "baslik": "Renklenen Duvarlarım",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Bağlar Anaokulu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13544/1/renklenen-duvarlarim",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13544/4_13544_2026-10-27-10-37-55-520474_thumb.webp"
-  },
   {
    "id": "159cd7999921",
    "baslik": "Kutu Oyunları Etkinliği",
@@ -110,6 +94,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13558/1/turkiyenin-catisi-agri-dagina-yolculuk",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13558/4_13558_2026-10-30-07-14-17-565291_thumb.webp"
+  },
+  {
+   "id": "f5f1be9d2905",
+   "baslik": "The Good Nurse Film Gösterimi",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "16:00",
+   "ilce": "Merkez",
+   "mekan": "Avşarhan Sinema Salonu",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13551/1/the-good-nurse-film-gosterimi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13551/4_13551_2026-10-28-06-41-09-249857_thumb.webp"
   }
  ],
  "kaynaklar": [

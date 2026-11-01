@@ -1,5 +1,21 @@
 [
  {
+  "id": "d368a5612eda",
+  "baslik": "Tafiti Çölde Macera",
+  "tarih": "2026-10-31",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Gebze",
+  "mekan": "Gebze Kültür Merkezi",
+  "kategori": "Çocuk",
+  "ucretsiz": true,
+  "ozet": "Çocuk Sineması",
+  "kaynak_ad": "Gebze Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.gebze.bel.tr/etkinlik/tafiti-colde-macera_1030.html",
+  "gorsel": "https://www.gebze.bel.tr/etkinlik/20260925140701.jpg"
+ },
+ {
   "id": "94dce62bc2e2",
   "baslik": "Ritim ve Sahne Sanatları Topluluğu",
   "tarih": "2026-10-30",

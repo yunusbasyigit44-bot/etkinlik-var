@@ -1,6 +1,6 @@
 {
  "il": "kahramanmaras",
- "guncelleme": "2026-10-31T06:54+03:00",
+ "guncelleme": "2026-11-01T07:01+03:00",
  "ilceler": [
   "Afşin",
   "Andırın",
@@ -15,22 +15,6 @@
   "Türkoğlu"
  ],
  "etkinlikler": [
-  {
-   "id": "e67dcc92ca06",
-   "baslik": "Kahramanmaraş 4. Korolar Festivali (30-31 Ekim 2026)",
-   "tarih": "2026-10-30",
-   "bitis": "2026-10-31",
-   "saat": null,
-   "ilce": null,
-   "mekan": null,
-   "kategori": "Konser",
-   "ucretsiz": null,
-   "ozet": null,
-   "kaynak_ad": "Kahramanmaraş İl Kültür ve Turizm Müdürlüğü",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://kahramanmaras.ktb.gov.tr/TR-476675/kahramanmaras-4-korolar-festivali-30-31-ekim-2026.html",
-   "gorsel": null
-  },
   {
    "id": "b3752a1bdff5",
    "baslik": "Konferans \"Dünya Ekonomisinde Güncel Gelişmeler\"",
@@ -89,13 +73,6 @@
    "durum": "çalışıyor"
   },
   {
-   "ad": "Kahramanmaraş İl Kültür ve Turizm Müdürlüğü",
-   "tur": "kultur",
-   "url": "https://kahramanmaras.ktb.gov.tr",
-   "etkinlik_sayisi": 2,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
@@ -136,6 +113,13 @@
    "url": "https://www.kahramanmaras.gov.tr",
    "etkinlik_sayisi": 0,
    "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Kahramanmaraş İl Kültür ve Turizm Müdürlüğü",
+   "tur": "kultur",
+   "url": "https://kahramanmaras.ktb.gov.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Kahramanmaraş İstiklal Üniversitesi",

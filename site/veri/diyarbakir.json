@@ -1,6 +1,6 @@
 {
  "il": "diyarbakir",
- "guncelleme": "2026-10-31T06:41+03:00",
+ "guncelleme": "2026-11-01T06:48+03:00",
  "ilceler": [
   "Bağlar",
   "Bismil",
@@ -36,38 +36,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/turkiye-hadis-ihtisas-toplantisi-ve-yurt-disinda-akademik-hadis-calismalarinin-gelecegi-calistayi-12907",
    "gorsel": "https://www.dicle.edu.tr/contents/events/photos/3e8e9089-6ac5-418c-897c-f8cf009410ea/ss_thumb_4dff91776eb2456fb5b2c5591bc1dbe2_IMG-20261006-WA0005.jpg"
-  },
-  {
-   "id": "c3f660688692",
-   "baslik": "Nalınlar",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Yenişehir",
-   "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nalinlar",
-   "gorsel": "veri/gorsel/dt-nalinlar.webp"
-  },
-  {
-   "id": "a47ac43f5f4c",
-   "baslik": "Nalınlar",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yenişehir",
-   "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nalinlar",
-   "gorsel": "veri/gorsel/dt-nalinlar.webp"
   },
   {
    "id": "969c8010689f",
@@ -518,6 +486,22 @@
    "gorsel": "https://www.dicle.edu.tr/contents/events/photos/621f0250-5f57-406a-8833-b0c2156b5aee/ss_thumb_038fb6fa7dd94bce96f4154435d2cf5e_WhatsApp%20Image%202026-10-27%20at%2013.04.31.jpeg"
   },
   {
+   "id": "77abe74d79b8",
+   "baslik": "Serpêhatıyê Nıkoyê Şılbık",
+   "tarih": "2026-11-22",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Yenişehir",
+   "mekan": "Çandamed/Sezai̇ Karakoç Kültür Ve Kongre Merkezi̇ (Mehmet Emi̇n Yalçinkaya Sahnesi̇)",
+   "kategori": "Diğer",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "Diyarbakır Büyükşehir Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.diyarbakir.bel.tr/etkinlikler/serpehatiye-nikoye-silbik",
+   "gorsel": "https://www.diyarbakir.bel.tr/uploads/medium_c3dde2c0_a583_492d_92c4_0a2a2831168b_18c5f1a60b.jpeg"
+  },
+  {
    "id": "94bc3df304c8",
    "baslik": "Destana Moraşîne",
    "tarih": "2026-11-23",
@@ -587,7 +571,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {
@@ -601,7 +585,7 @@
    "ad": "Diyarbakır Büyükşehir Belediyesi",
    "tur": "belediye",
    "url": "https://www.diyarbakir.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "isparta",
- "guncelleme": "2026-10-31T06:46+03:00",
+ "guncelleme": "2026-11-01T06:54+03:00",
  "ilceler": [
   "Merkez",
   "Aksu",
@@ -17,22 +17,6 @@
   "Yenişehir"
  ],
  "etkinlikler": [
-  {
-   "id": "fe1a91e0e677",
-   "baslik": "Poster Session",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Türker Taşaltın Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Konferans",
-   "kaynak_ad": "Süleyman Demirel Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=AF71A92F-8242-1487-851F-3A249DCD86E8"
-  },
   {
    "id": "d7c45b427429",
    "baslik": "Suya Adanmış Bir Ömür: Süleyman Demirel",
@@ -80,6 +64,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
    "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=4A03156F-85E6-5C49-77D8-3A2456AB29C6"
+  },
+  {
+   "id": "4198db754d18",
+   "baslik": "Su Altı Topluluğu Dalış Etkinliği",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Isparta Uygulamalı Bilimler Üniversitesi",
+   "kategori": "Gençlik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Isparta Uygulamalı Bilimler Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.iste.edu.tr/etkinlik-merkezi/2026/11/05/949",
+   "gorsel": "https://www.iste.edu.tr/gallery/_etkinlik_thumb/949_event_1793441677.jpeg"
   },
   {
    "id": "461ee08ba6ea",
@@ -151,14 +151,14 @@
    "ad": "Süleyman Demirel Üniversitesi",
    "tur": "universite",
    "url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {
    "ad": "Isparta Uygulamalı Bilimler Üniversitesi",
    "tur": "universite",
    "url": "https://www.iste.edu.tr/etkinlik-merkezi",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

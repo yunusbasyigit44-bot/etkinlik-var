@@ -1,6 +1,6 @@
 {
  "il": "tokat",
- "guncelleme": "2026-10-31T07:01+03:00",
+ "guncelleme": "2026-11-01T07:07+03:00",
  "ilceler": [
   "Merkez",
   "Almus",
@@ -15,32 +15,8 @@
   "Yeşilyurt",
   "Zile"
  ],
- "etkinlikler": [
-  {
-   "id": "571105eb9fb7",
-   "baslik": "Cumhuriyet Ezgileri Konseri",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Tokat Belediyesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tokat Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.tokat.bel.tr/etkinlikler/cumhuriyet-ezgileri-konseri",
-   "gorsel": "https://assets.tokat.bel.tr/tokatbld/events/1793017433994-824a0d586e7c5393.webp"
-  }
- ],
+ "etkinlikler": [],
  "kaynaklar": [
-  {
-   "ad": "Tokat Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.tokat.bel.tr/",
-   "etkinlik_sayisi": 1,
-   "durum": "çalışıyor"
-  },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
@@ -68,6 +44,13 @@
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Tokat Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.tokat.bel.tr/",
+   "etkinlik_sayisi": 0,
+   "durum": "hata: IncompleteRead(149890 bytes read, 530378 more expected)"
   },
   {
    "ad": "Tokat Gaziosmanpaşa Üniversitesi",

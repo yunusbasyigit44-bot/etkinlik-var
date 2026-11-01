@@ -1,5 +1,21 @@
 [
  {
+  "id": "fe1a91e0e677",
+  "baslik": "Poster Session",
+  "tarih": "2026-10-31",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Türker Taşaltın Konferans Salonu",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Konferans",
+  "kaynak_ad": "Süleyman Demirel Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+  "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=AF71A92F-8242-1487-851F-3A249DCD86E8"
+ },
+ {
   "id": "64adc155b041",
   "baslik": "Necropoleis Research Network · Annual Meeting Ix",
   "tarih": "2026-10-30",

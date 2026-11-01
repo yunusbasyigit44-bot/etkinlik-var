@@ -14,5 +14,21 @@
   "kaynak_tur": "universite",
   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=120",
   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2610161611530914.jpeg"
+ },
+ {
+  "id": "e67dcc92ca06",
+  "baslik": "Kahramanmaraş 4. Korolar Festivali (30-31 Ekim 2026)",
+  "tarih": "2026-10-30",
+  "bitis": "2026-10-31",
+  "saat": null,
+  "ilce": null,
+  "mekan": null,
+  "kategori": "Konser",
+  "ucretsiz": null,
+  "ozet": null,
+  "kaynak_ad": "Kahramanmaraş İl Kültür ve Turizm Müdürlüğü",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://kahramanmaras.ktb.gov.tr/TR-476675/kahramanmaras-4-korolar-festivali-30-31-ekim-2026.html",
+  "gorsel": null
  }
 ]

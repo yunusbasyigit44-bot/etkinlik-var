@@ -1,6 +1,6 @@
 {
  "il": "samsun",
- "guncelleme": "2026-10-31T06:59+03:00",
+ "guncelleme": "2026-11-01T07:06+03:00",
  "ilceler": [
   "Atakum",
   "Canik",
@@ -21,22 +21,6 @@
   "Yakakent"
  ],
  "etkinlikler": [
-  {
-   "id": "5a21d31bc547",
-   "baslik": "Kürk Mantolu Madonna",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "İlkadım",
-   "mekan": "Samsun Devlet Opera ve Balesi · Aydın Gün Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Samsun Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/kurk-mantolu-madonna-samsun-dob-samsun-kultur-yolu-festivali",
-   "gorsel": "veri/gorsel/dob-samsun-3211.webp"
-  },
   {
    "id": "df28be48504c",
    "baslik": "Kürk Mantolu Madonna",
@@ -169,6 +153,22 @@
    "id": "f270ffc83464",
    "baslik": "Don Kişot (2026)",
    "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "İlkadım",
+   "mekan": "Samsun Devlet Opera ve Balesi · Aydın Gün Salonu",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Samsun Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/don-kisot-samsun-dob",
+   "gorsel": "veri/gorsel/dob-samsun-3401.webp"
+  },
+  {
+   "id": "395318846dec",
+   "baslik": "Don Kişot (2026)",
+   "tarih": "2026-11-18",
    "bitis": null,
    "saat": "20:00",
    "ilce": "İlkadım",

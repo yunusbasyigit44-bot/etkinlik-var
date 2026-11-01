@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-10-31T06:34+03:00",
+ "guncelleme": "2026-11-01T06:40+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -19,54 +19,6 @@
   "Yüreğir"
  ],
  "etkinlikler": [
-  {
-   "id": "cb584eaacad5",
-   "baslik": "Ocak'ta Bahar",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ocakta-bahar",
-   "gorsel": "veri/gorsel/dt-ocakta-bahar.jpg"
-  },
-  {
-   "id": "ea842abcfe22",
-   "baslik": "Ocak'ta Bahar",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ocakta-bahar",
-   "gorsel": "veri/gorsel/dt-ocakta-bahar.jpg"
-  },
-  {
-   "id": "d09abdf7c997",
-   "baslik": "39 Basamak",
-   "tarih": "2026-10-31",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": "ADANA BÜYÜKŞEHİR BELEDİYESİ ŞEHİR TİYATROLARI",
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1791792944_2d3e047175504e933f02.jpeg"
-  },
   {
    "id": "7519419db484",
    "baslik": "Annem Niçin Miyavladı?",
@@ -697,14 +649,14 @@
    "ad": "Devlet Tiyatroları Adana",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {
    "ad": "Adana Büyükşehir Şehir Tiyatrosu",
    "tur": "belediye",
    "url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {
