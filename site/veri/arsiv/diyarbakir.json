@@ -1,5 +1,37 @@
 [
  {
+  "id": "969c8010689f",
+  "baslik": "Alacalı Şemsiye",
+  "tarih": "2026-11-01",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Kayapınar",
+  "mekan": "Kayapınar Kültür Merkezi Sahnesi",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/alacali-semsiye",
+  "gorsel": null
+ },
+ {
+  "id": "aefebf009544",
+  "baslik": "T3 Fpv Akademi Eğitmen Eğitimi Başvuruları Başladı!",
+  "tarih": "2026-11-01",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Sur",
+  "mekan": "Dicle Üniversitesi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Dicle Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/t3-fpv-akademi-egitmen-egitimi-basvurulari-basladi!-12986",
+  "gorsel": "https://www.dicle.edu.tr/contents/events/photos/4a74bc20-fa26-4bcb-86a6-87d92de3fb75/ss_thumb_33216bc8eb194ff595a4b09b79294524_WhatsApp%20Image%202026-10-26%20at%2016.32.17.jpeg"
+ },
+ {
   "id": "c3f660688692",
   "baslik": "Nalınlar",
   "tarih": "2026-10-31",
@@ -46,6 +78,22 @@
   "kaynak_tur": "kultur",
   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nalinlar",
   "gorsel": null
+ },
+ {
+  "id": "e402d9a2388c",
+  "baslik": "Türkiye Hadis İhtisas Toplantısı ve Yurt Dışında Akademik Hadis Çalışmalarının Geleceği Çalıştayı",
+  "tarih": "2026-10-30",
+  "bitis": "2026-11-01",
+  "saat": null,
+  "ilce": "Sur",
+  "mekan": "Dicle Üniversitesi",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Dicle Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/turkiye-hadis-ihtisas-toplantisi-ve-yurt-disinda-akademik-hadis-calismalarinin-gelecegi-calistayi-12907",
+  "gorsel": "https://www.dicle.edu.tr/contents/events/photos/3e8e9089-6ac5-418c-897c-f8cf009410ea/ss_thumb_4dff91776eb2456fb5b2c5591bc1dbe2_IMG-20261006-WA0005.jpg"
  },
  {
   "id": "bc330d1a68b6",

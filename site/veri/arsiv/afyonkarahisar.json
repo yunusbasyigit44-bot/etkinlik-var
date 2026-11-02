@@ -1,5 +1,21 @@
 [
  {
+  "id": "196abfbcc848",
+  "baslik": "Cumhuriyet Koşusu",
+  "tarih": "2026-11-01",
+  "bitis": null,
+  "saat": "12:00",
+  "ilce": "Merkez",
+  "mekan": "Tomris Hatun Rahvan At Yarislari Tesisi",
+  "kategori": "Spor",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Afyonkarahisar Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.afyon.bel.tr/guncel/etkinlikler/cumhuriyet-kosusu",
+  "gorsel": "https://www.afyon.bel.tr/uploads/etkinlik/ec0e5e50-24db-4bb5-9c85-a0492da96dfe/gorsel/2026/10/94a7e69a-d163-4820-ac11-42f0312a7071-d.jpg-medium.webp"
+ },
+ {
   "id": "394482509007",
   "baslik": "Ayna Konseri",
   "tarih": "2026-10-29",

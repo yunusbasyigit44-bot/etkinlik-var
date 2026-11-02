@@ -1,5 +1,21 @@
 [
  {
+  "id": "d7c45b427429",
+  "baslik": "Suya Adanmış Bir Ömür: Süleyman Demirel",
+  "tarih": "2026-11-01",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Radyo SDÜ",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": "Anma Programı",
+  "kaynak_ad": "Süleyman Demirel Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+  "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=1DF52B48-3CB6-B82E-B497-3A249DCE8D85"
+ },
+ {
   "id": "fe1a91e0e677",
   "baslik": "Poster Session",
   "tarih": "2026-10-31",

@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-11-01T06:57+03:00",
+ "guncelleme": "2026-11-02T06:59+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -34,7 +34,7 @@
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanenin-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanenin-guzellik-kralicesi.webp"
+   "gorsel": null
   },
   {
    "id": "9d3b67a7f874",
@@ -114,7 +114,7 @@
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanenin-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanenin-guzellik-kralicesi.webp"
+   "gorsel": null
   },
   {
    "id": "25bfb17218a0",
@@ -130,7 +130,7 @@
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanenin-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanenin-guzellik-kralicesi.webp"
+   "gorsel": null
   },
   {
    "id": "7e712cdf0957",
@@ -146,7 +146,7 @@
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanenin-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanenin-guzellik-kralicesi.webp"
+   "gorsel": null
   },
   {
    "id": "283d1abafb34",
@@ -162,7 +162,7 @@
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanenin-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanenin-guzellik-kralicesi.webp"
+   "gorsel": null
   },
   {
    "id": "29fd6153c331",
@@ -194,7 +194,7 @@
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanenin-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanenin-guzellik-kralicesi.webp"
+   "gorsel": null
   },
   {
    "id": "67aa06d7bfc6",
@@ -210,7 +210,7 @@
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanenin-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanenin-guzellik-kralicesi.webp"
+   "gorsel": null
   },
   {
    "id": "2cc142139307",
@@ -226,7 +226,7 @@
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanenin-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanenin-guzellik-kralicesi.webp"
+   "gorsel": null
   },
   {
    "id": "8dc73f381203",
@@ -242,7 +242,7 @@
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanenin-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanenin-guzellik-kralicesi.webp"
+   "gorsel": null
   }
  ],
  "kaynaklar": [

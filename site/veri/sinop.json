@@ -1,6 +1,6 @@
 {
  "il": "sinop",
- "guncelleme": "2026-11-01T07:06+03:00",
+ "guncelleme": "2026-11-02T07:07+03:00",
  "ilceler": [
   "Merkez",
   "Ayancık",
@@ -62,6 +62,38 @@
    "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/06/ases2.sempozyum.png"
   },
   {
+   "id": "a0b389172dc7",
+   "baslik": "Çağdaş Türk Edebiyatının Bir Temsilcisi; \"Sabahattin Ali\" (1907-1948)",
+   "tarih": "2026-11-02",
+   "bitis": "2026-11-03",
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Sinop Üniversitesi",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": "Bilimsel Etkinlikler",
+   "kaynak_ad": "Sinop Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/cagdas-turk-edebiyatinin-bir-temsilcisi-sabahattin-ali/",
+   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/10/sabahattinalisempozyum.webp"
+  },
+  {
+   "id": "ee57991fae57",
+   "baslik": "\"Karadeniz'e Vurulan Selçuklu Mührü\" Sinop'un Fethi (1214)",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Merkez",
+   "mekan": "Sinop Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Sosyal Etkinlik",
+   "kaynak_ad": "Sinop Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/karadenize-vurulan-selcuklu-muhru-sinopun-fethi-1214/",
+   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/10/sinopfethi.webp"
+  },
+  {
    "id": "882a06f61422",
    "baslik": "Proje Yönetiminin Temelleri Eğitimi",
    "tarih": "2026-11-04",
@@ -92,6 +124,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sinop.edu.tr/etkinlik/xviii-uluslararasi-dunya-dili-turkce-sempozyumu/",
    "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/06/dunyadiliturkcesempozyumu-1.png"
+  },
+  {
+   "id": "f612c79077a8",
+   "baslik": "SSCI/SCIE Yayın Stratejileri Serisi -12 / PROCESS Macro ile Aracılık Düzenleyicilik ve Koşullu Süreç Analizleri Eğitimi (II.Oturum)",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": "09:30",
+   "ilce": "Merkez",
+   "mekan": "Sinop Üniversitesi",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": "Bilimsel Etkinlikler",
+   "kaynak_ad": "Sinop Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/ssci-scie-yayin-stratejileri-serisi-12-process-macro-ile-aracilik-duzenleyicilik-ve-kosullu-surec-analizleri-egitimi-ii-oturum/",
+   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/10/SSCISCIEyayinstratejileri12_1.webp"
   },
   {
    "id": "e810b76cfa95",
@@ -211,7 +259,7 @@
    "ad": "Sinop Üniversitesi",
    "tur": "universite",
    "url": "https://www.sinop.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 15,
    "durum": "çalışıyor"
   },
   {

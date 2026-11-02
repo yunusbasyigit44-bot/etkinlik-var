@@ -1,5 +1,21 @@
 [
  {
+  "id": "4b4e47207e7b",
+  "baslik": "Nilüfer Belediyesi Squash Spor Merkezi Açılıyor!",
+  "tarih": "2026-11-01",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Nilüfer",
+  "mekan": "Nilüfer",
+  "kategori": "Spor",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Nilüfer Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.nilufer.bel.tr/etkinlik/nilufer-belediyesi-squash-spor-merkezi-aciliyor",
+  "gorsel": "https://www.nilufer.bel.tr/i/etkinlik/5186.jpg"
+ },
+ {
   "id": "68d7a8e74a08",
   "baslik": "Kahvaltı Dahil",
   "tarih": "2026-10-31",
@@ -173,6 +189,22 @@
   "kaynak_ad": "Devlet Tiyatroları",
   "kaynak_tur": "kultur",
   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kahvalti-dahil",
+  "gorsel": null
+ },
+ {
+  "id": "a587e5e70dbc",
+  "baslik": "29 Ekim Cumhuriyet Bayramı Etkinlik Takvimi",
+  "tarih": "2026-10-26",
+  "bitis": "2026-11-01",
+  "saat": null,
+  "ilce": "Osmangazi",
+  "mekan": null,
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.bursa.bel.tr/etkinlik/29-ekim-cumhuriyet-bayrami-etkinlik-takvimi",
   "gorsel": null
  }
 ]

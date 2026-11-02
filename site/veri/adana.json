@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-01T06:40+03:00",
+ "guncelleme": "2026-11-02T06:43+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -19,22 +19,6 @@
   "Yüreğir"
  ],
  "etkinlikler": [
-  {
-   "id": "7519419db484",
-   "baslik": "Annem Niçin Miyavladı?",
-   "tarih": "2026-11-01",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": "Güzelyurt Belediyesi Şehir Tiyatrosu",
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1789825562_1edd72ba0ab58a6e8fe7.jpeg"
-  },
   {
    "id": "2d86bac02986",
    "baslik": "Bankacılık Sektöründe Kariyer Fırsatları",
@@ -656,7 +640,7 @@
    "ad": "Adana Büyükşehir Şehir Tiyatrosu",
    "tur": "belediye",
    "url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {

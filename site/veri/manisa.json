@@ -1,6 +1,6 @@
 {
  "il": "manisa",
- "guncelleme": "2026-11-01T07:01+03:00",
+ "guncelleme": "2026-11-02T07:02+03:00",
  "ilceler": [
   "Ahmetli",
   "Akhisar",
@@ -21,22 +21,6 @@
   "Yunusemre"
  ],
  "etkinlikler": [
-  {
-   "id": "32dec59f1b29",
-   "baslik": "Çizmeli Kedi Tiyatro Oyunu",
-   "tarih": "2026-10-24",
-   "bitis": "2026-11-01",
-   "saat": "14:00",
-   "ilce": "Şehzadeler",
-   "mekan": "Şehir Tiyatrosu Uğur Mumcu Sahnesi - Şehzadeler / Manisa",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1288",
-   "gorsel": "https://kultur.manisa.bel.tr/uploads/events/2e7997df-b0c9-4adc-8a7d-8792bded6288_C%CC%A7I%CC%87ZMELI%CC%87-KEDI%CC%87-EKI%CC%87M-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg.jpeg"
-  },
   {
    "id": "64dd3ec87ae1",
    "baslik": "Hackathon Sanayi ve Kampüslerde Yeşil Dönüşüm",
@@ -235,7 +219,7 @@
    "ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
    "tur": "belediye",
    "url": "https://kultur.manisa.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 7,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

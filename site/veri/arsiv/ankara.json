@@ -1,5 +1,37 @@
 [
  {
+  "id": "8b8c23e5a20e",
+  "baslik": "Sefiller",
+  "tarih": "2026-11-01",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Çankaya",
+  "mekan": "Büyük Tiyatro",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sefiller",
+  "gorsel": null
+ },
+ {
+  "id": "fb7287c8b740",
+  "baslik": "Bir Aile Provası: Yaşayın Gitsin",
+  "tarih": "2026-11-01",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Çankaya",
+  "mekan": "Çankaya Belediyesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Çankaya Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.cankaya.bel.tr/kultur-sanat/bi-r-ai-le-provasi-yasayin-gi-tsi-n",
+  "gorsel": "https://www.cankaya.bel.tr/uploads/images/B__R_A__LE_PROVASI_1789650986_L5hE2y3g.webp"
+ },
+ {
   "id": "ed5f5e8a5e62",
   "baslik": "Adiedi",
   "tarih": "2026-10-31",

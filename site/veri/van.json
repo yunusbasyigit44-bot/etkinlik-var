@@ -1,6 +1,6 @@
 {
  "il": "van",
- "guncelleme": "2026-11-01T07:09+03:00",
+ "guncelleme": "2026-11-02T07:10+03:00",
  "ilceler": [
   "İpekyolu",
   "Tuşba",
@@ -17,22 +17,6 @@
   "Saray"
  ],
  "etkinlikler": [
-  {
-   "id": "10c417520978",
-   "baslik": "Toti ile Poti",
-   "tarih": "2026-11-01",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "İpekyolu",
-   "mekan": "Erhan Gökgücü DT Genç Sahne",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/toti-ile-poti",
-   "gorsel": "veri/gorsel/dt-toti-ile-poti.jpg"
-  },
   {
    "id": "86f455588aa6",
    "baslik": "Papağan Kaçtı",
@@ -215,7 +199,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {
@@ -293,7 +277,7 @@
    "tur": "belediye",
    "url": "https://www.ipekyolu.bel.tr/etkinlikler",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   }
  ]
 }

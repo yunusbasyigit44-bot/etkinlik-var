@@ -1,6 +1,6 @@
 {
  "il": "tokat",
- "guncelleme": "2026-11-01T07:07+03:00",
+ "guncelleme": "2026-11-02T07:09+03:00",
  "ilceler": [
   "Merkez",
   "Almus",
@@ -50,7 +50,7 @@
    "tur": "belediye",
    "url": "https://www.tokat.bel.tr/",
    "etkinlik_sayisi": 0,
-   "durum": "hata: IncompleteRead(149890 bytes read, 530378 more expected)"
+   "durum": "hata: IncompleteRead(166274 bytes read, 513319 more expected)"
   },
   {
    "ad": "Tokat Gaziosmanpaşa Üniversitesi",

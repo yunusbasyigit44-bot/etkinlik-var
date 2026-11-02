@@ -1,6 +1,6 @@
 {
  "il": "ankara",
- "guncelleme": "2026-11-01T06:43+03:00",
+ "guncelleme": "2026-11-02T06:45+03:00",
  "ilceler": [
   "Akyurt",
   "Altındağ",
@@ -29,38 +29,6 @@
   "Yenimahalle"
  ],
  "etkinlikler": [
-  {
-   "id": "8b8c23e5a20e",
-   "baslik": "Sefiller",
-   "tarih": "2026-11-01",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Büyük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sefiller",
-   "gorsel": "veri/gorsel/dt-sefiller.jpg"
-  },
-  {
-   "id": "fb7287c8b740",
-   "baslik": "Bir Aile Provası: Yaşayın Gitsin",
-   "tarih": "2026-11-01",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Çankaya",
-   "mekan": "Çankaya Belediyesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankaya Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.cankaya.bel.tr/kultur-sanat/bi-r-ai-le-provasi-yasayin-gi-tsi-n",
-   "gorsel": "https://www.cankaya.bel.tr/uploads/images/B__R_A__LE_PROVASI_1789650986_L5hE2y3g.webp"
-  },
   {
    "id": "8bc518dbfb2e",
    "baslik": "Carmen",
@@ -204,6 +172,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.cankaya.bel.tr/kultur-sanat/dogudan-evrensele-macar-mimarlarin-donusen-arayislari",
    "gorsel": "https://www.cankaya.bel.tr/uploads/images/dogudan-evrensele_1793101103_w0Wn7jwz.webp"
+  },
+  {
+   "id": "3d22e8faf387",
+   "baslik": "Tango After Dark",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Çankaya",
+   "mekan": "Çankaya Belediyesi",
+   "kategori": "Dans",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankaya Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.cankaya.bel.tr/kultur-sanat/tango-after-dark",
+   "gorsel": "https://www.cankaya.bel.tr/uploads/images/TANGO_AFTER_DARK_1789468382_TOVkBIE5.webp"
   },
   {
    "id": "d5791daae020",
@@ -1699,7 +1683,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 93,
+   "etkinlik_sayisi": 92,
    "durum": "çalışıyor"
   },
   {

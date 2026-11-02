@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-01T06:42+03:00",
+ "guncelleme": "2026-11-02T06:44+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -53,22 +53,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261027141418_ekimgecidi_afis.jpeg"
-  },
-  {
-   "id": "196abfbcc848",
-   "baslik": "Cumhuriyet Koşusu",
-   "tarih": "2026-11-01",
-   "bitis": null,
-   "saat": "12:00",
-   "ilce": "Merkez",
-   "mekan": "Tomris Hatun Rahvan At Yarislari Tesisi",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Afyonkarahisar Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.afyon.bel.tr/guncel/etkinlikler/cumhuriyet-kosusu",
-   "gorsel": "https://www.afyon.bel.tr/uploads/etkinlik/ec0e5e50-24db-4bb5-9c85-a0492da96dfe/gorsel/2026/10/94a7e69a-d163-4820-ac11-42f0312a7071-d.jpg-medium.webp"
   },
   {
    "id": "bd0fadd2cac7",
@@ -391,18 +375,18 @@
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
-   "ad": "Afyonkarahisar Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.afyon.bel.tr/guncel/etkinlikler",
-   "etkinlik_sayisi": 1,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
-  },
-  {
    "ad": "17 ilçe kaymakamlığı",
    "tur": "kaymakamlik",
    "url": "https://www.sandikli.gov.tr/duyurular",
    "etkinlik_sayisi": 0,
    "durum": "duyurular idari (ihale vb.); etkinlik yok"
+  },
+  {
+   "ad": "Afyonkarahisar Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.afyon.bel.tr/guncel/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Afyonkarahisar Valiliği",

@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-01T06:44+03:00",
+ "guncelleme": "2026-11-02T06:46+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -23,38 +23,6 @@
   "Serik"
  ],
  "etkinlikler": [
-  {
-   "id": "1eb7a909ebe2",
-   "baslik": "Üç Kedi Bir Dilek",
-   "tarih": "2026-11-01",
-   "bitis": null,
-   "saat": "01:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/uc-kedi-bir-dilek",
-   "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
-  },
-  {
-   "id": "6f11357b8141",
-   "baslik": "Üç Kedi Bir Dilek",
-   "tarih": "2026-11-01",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/uc-kedi-bir-dilek",
-   "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
-  },
   {
    "id": "732576e7d308",
    "baslik": "Kırmızı Cüce",
@@ -461,7 +429,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {

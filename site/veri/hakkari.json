@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-11-01T06:53+03:00",
+ "guncelleme": "2026-11-02T06:54+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -9,22 +9,6 @@
   "Yüksekova"
  ],
  "etkinlikler": [
-  {
-   "id": "5bf6dc6ff86c",
-   "baslik": "\"Öğretici-Eğitici ve Geliştirici Materyal Dağıtımı\" Etkinliği",
-   "tarih": "2026-11-01",
-   "bitis": null,
-   "saat": "08:30",
-   "ilce": "Çukurca",
-   "mekan": "Hakkari Merkeze ve Çukurca ilçesine bağlı köy okulları",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Diğer",
-   "kaynak_ad": "Hakkari Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/534/%22ogretici-egitici-ve-gelistirici-materyal-dagitimi%22-etkinligi",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/534/cover/thumb/05525b4b2b6d47bba98100984d756cc7.webp"
-  },
   {
    "id": "a8d4497913c4",
    "baslik": "\"Yasa Dışı Bahis Bağımlılığı\" Semineri",
@@ -95,7 +79,7 @@
    "ad": "Hakkari Üniversitesi",
    "tur": "universite",
    "url": "https://www.hakkari.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

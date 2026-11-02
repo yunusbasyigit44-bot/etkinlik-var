@@ -1,6 +1,6 @@
 {
  "il": "diyarbakir",
- "guncelleme": "2026-11-01T06:48+03:00",
+ "guncelleme": "2026-11-02T06:49+03:00",
  "ilceler": [
   "Bağlar",
   "Bismil",
@@ -21,54 +21,6 @@
   "Yenişehir"
  ],
  "etkinlikler": [
-  {
-   "id": "e402d9a2388c",
-   "baslik": "Türkiye Hadis İhtisas Toplantısı ve Yurt Dışında Akademik Hadis Çalışmalarının Geleceği Çalıştayı",
-   "tarih": "2026-10-30",
-   "bitis": "2026-11-01",
-   "saat": null,
-   "ilce": "Sur",
-   "mekan": "Dicle Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Dicle Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/turkiye-hadis-ihtisas-toplantisi-ve-yurt-disinda-akademik-hadis-calismalarinin-gelecegi-calistayi-12907",
-   "gorsel": "https://www.dicle.edu.tr/contents/events/photos/3e8e9089-6ac5-418c-897c-f8cf009410ea/ss_thumb_4dff91776eb2456fb5b2c5591bc1dbe2_IMG-20261006-WA0005.jpg"
-  },
-  {
-   "id": "969c8010689f",
-   "baslik": "Alacalı Şemsiye",
-   "tarih": "2026-11-01",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Kayapınar",
-   "mekan": "Kayapınar Kültür Merkezi Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/alacali-semsiye",
-   "gorsel": "veri/gorsel/dt-alacali-semsiye.webp"
-  },
-  {
-   "id": "aefebf009544",
-   "baslik": "T3 Fpv Akademi Eğitmen Eğitimi Başvuruları Başladı!",
-   "tarih": "2026-11-01",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Sur",
-   "mekan": "Dicle Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Dicle Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/t3-fpv-akademi-egitmen-egitimi-basvurulari-basladi!-12986",
-   "gorsel": "https://www.dicle.edu.tr/contents/events/photos/4a74bc20-fa26-4bcb-86a6-87d92de3fb75/ss_thumb_33216bc8eb194ff595a4b09b79294524_WhatsApp%20Image%202026-10-26%20at%2016.32.17.jpeg"
-  },
   {
    "id": "4bdc753f6058",
    "baslik": "Gün Eksilmesin Penceremden",
@@ -571,14 +523,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {
    "ad": "Dicle Üniversitesi",
    "tur": "universite",
    "url": "https://www.dicle.edu.tr/etkinlikler/tumu",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 10,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

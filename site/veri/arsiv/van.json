@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "10c417520978",
+  "baslik": "Toti ile Poti",
+  "tarih": "2026-11-01",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "İpekyolu",
+  "mekan": "Erhan Gökgücü DT Genç Sahne",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/toti-ile-poti",
+  "gorsel": null
+ }
+]

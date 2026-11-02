@@ -1,5 +1,21 @@
 [
  {
+  "id": "7519419db484",
+  "baslik": "Annem Niçin Miyavladı?",
+  "tarih": "2026-11-01",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Seyhan",
+  "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": "Güzelyurt Belediyesi Şehir Tiyatrosu",
+  "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
+  "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1789825562_1edd72ba0ab58a6e8fe7.jpeg"
+ },
+ {
   "id": "cb584eaacad5",
   "baslik": "Ocak'ta Bahar",
   "tarih": "2026-10-31",

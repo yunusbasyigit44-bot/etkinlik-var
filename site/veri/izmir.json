@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-11-01T06:57+03:00",
+ "guncelleme": "2026-11-02T06:58+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -193,54 +193,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.konak.bel.tr/tr/etkinlikler/etkinlik/zamanin-dokusu",
    "gorsel": "https://www.konak.bel.tr/upload/activity/9dccf9bd-fe3e-4949-9403-e18f613830e7_6adf35065a7b6.jpg"
-  },
-  {
-   "id": "dbc4ed1689f5",
-   "baslik": "Balkon Bahçe Bitkileri ve Bal Üreticileri Festivali",
-   "tarih": "2026-10-31",
-   "bitis": "2026-11-01",
-   "saat": "15:00",
-   "ilce": "Konak",
-   "mekan": "Kültürpark Kaskatlı Havuz",
-   "kategori": "Festival",
-   "ucretsiz": null,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-26/c3eb0489-c0f6-4074-a577-43ec37124f55-pbjjf3f2.jpeg"
-  },
-  {
-   "id": "41cf81745770",
-   "baslik": "Don Kişot",
-   "tarih": "2026-11-01",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Konak",
-   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/25-12-05/804b89fc-c4c4-4bb9-9bdd-dc9887379b17-42dhrg32.jpg"
-  },
-  {
-   "id": "4a91a1b8fcc1",
-   "baslik": "Alternatif Park Konserleri",
-   "tarih": "2026-11-01",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Bostanlı Yasemin Kafe Önü",
-   "kategori": "Konser",
-   "ucretsiz": null,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-20/576c658f-05b5-4bfa-8262-c335d23535e2-45oe2xao.jpg"
   },
   {
    "id": "42480a246e0c",
@@ -1349,17 +1301,17 @@
  ],
  "kaynaklar": [
   {
-   "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "tur": "belediye",
-   "url": "https://kultursanat.izmir.bel.tr/",
-   "etkinlik_sayisi": 37,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 35,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "tur": "belediye",
+   "url": "https://kultursanat.izmir.bel.tr/",
+   "etkinlik_sayisi": 34,
    "durum": "çalışıyor"
   },
   {

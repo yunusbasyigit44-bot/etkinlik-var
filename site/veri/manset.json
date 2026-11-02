@@ -1,20 +1,10 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-11-01",
+ "guncelleme": "2026-11-02",
  "secilenler": [
-  {
-   "id": "dbc4ed1689f5",
-   "not": "Kültürpark'ta bal, fide ve hafta sonu gezintisi.",
-   "elle": true
-  },
   {
    "id": "8bc518dbfb2e",
    "not": "Bizet'nin tutkulu operası Ankara'da.",
-   "elle": true
-  },
-  {
-   "id": "8b8c23e5a20e",
-   "not": "Victor Hugo'nun klasiği Büyük Tiyatro'da.",
    "elle": true
   },
   {
@@ -24,12 +14,12 @@
    "elle": true
   },
   {
-   "id": "af9cd5c15e9e",
-   "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
-  },
-  {
    "id": "00ebe3ad4dab",
    "not": "Mersin'de opera ve bale sahnesinden bir akşam."
+  },
+  {
+   "id": "f9ab418f9ab9",
+   "not": "Antalya'da opera ve bale sahnesinden bir akşam."
   },
   {
    "id": "5a7fb2921ed7",
@@ -56,20 +46,28 @@
    "not": "Samsun'da geleneksel ezgiler."
   },
   {
-   "id": "32dec59f1b29",
-   "not": "Manisa'da perde açılıyor."
+   "id": "d90625a2a6be",
+   "not": "Burdur'da perde açılıyor."
   },
   {
-   "id": "7519419db484",
+   "id": "4de0d8894a39",
    "not": "Adana'da perde açılıyor."
+  },
+  {
+   "id": "1b86ae411dbc",
+   "not": "İstanbul'da kahkaha garantili bir akşam."
+  },
+  {
+   "id": "3d22e8faf387",
+   "not": "Ankara'da ritim ve dans dolu bir gösteri."
+  },
+  {
+   "id": "df28be48504c",
+   "not": "Samsun'da perde açılıyor."
   },
   {
    "id": "a00303c71871",
    "not": "Gaziantep'te gezip görülecek bir sergi."
-  },
-  {
-   "id": "6f85dac51929",
-   "not": "Eskişehir'de gezip görülecek bir sergi."
   }
  ]
 }
