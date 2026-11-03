@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "69cd7e7be8b1",
+  "baslik": "Midas'ın Kulakları",
+  "tarih": "2026-11-02",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Merkez",
+  "mekan": "Batman DT Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/midasin-kulaklari",
+  "gorsel": null
+ }
+]

@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-02T06:47+03:00",
+ "guncelleme": "2026-11-03T06:46+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,22 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "d90625a2a6be",
-   "baslik": "Film Gösterimi İle Yaşlanma ve Değer Temelli Sosyal Hizmet Bakış Açısından Grup Söyleşisi",
-   "tarih": "2026-11-02",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Merkez",
-   "mekan": "İİBF Konferans Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13510/1/film-gosterimi-ile-yaslanma-ve-deger-temelli-sosyal-hizmet-bakis-acisindan-grup-soylesisi-",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13510/4_13510_2026-10-15-08-53-47-443216_thumb.webp"
-  },
   {
    "id": "ac679be9e500",
    "baslik": "Kızılay Haftası Konseri",
@@ -110,6 +94,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13535/1/universite-ogrencilerinde-mental-sagligin-korunmasi",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13535/4_13535_2026-10-23-12-11-37-50537_thumb.webp"
+  },
+  {
+   "id": "186fb3c89e5e",
+   "baslik": "Çocuklarla Kültür ve Bilim Buluşması",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Burdur Nene Hatun Anaokulu",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13554/1/cocuklarla-kultur-ve-bilim-bulusmasi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13554/4_13554_2026-10-28-06-49-23-466031_thumb.webp"
   }
  ],
  "kaynaklar": [

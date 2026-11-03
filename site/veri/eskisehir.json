@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-02T06:53+03:00",
+ "guncelleme": "2026-11-03T06:52+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -145,6 +145,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/atama-kriterleri-1790938648",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8dff2e30e.jpg"
+  },
+  {
+   "id": "108cdb9d1870",
+   "baslik": "Dil ve Konuşma Terapisinde Kariyer: Akademisyenlik",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": "11:30",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "Seminerler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/dil-ve-konusma-terapisinde-kariyer-akademisyenlik-1793609386",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae84e93744ea.jpg"
   },
   {
    "id": "54708d799139",
@@ -384,6 +400,22 @@
    "kaynak_ad": "Eskişehir Şehir Tiyatroları",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
+   "gorsel": null
+  },
+  {
+   "id": "b173018a8ee1",
+   "baslik": "Tepebaşı Belediyesi Pop & Caz Korosu Koristlerini Arıyor",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "17:00",
+   "ilce": "Tepebaşı",
+   "mekan": "FERDİ ZEYREK YAŞAM MERKEZİ",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tepebaşı Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.tepebasi.bel.tr/Etkinlikler/Detay/tepebasi-belediyesi-pop-caz-korosu-koristlerini-ariyor",
    "gorsel": null
   },
   {
@@ -657,6 +689,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
    "gorsel": null
+  },
+  {
+   "id": "666cf26e14e1",
+   "baslik": "Dil ve Konuşma Terapisinde Kariyer: Dernek Temsilciliği ve Klinik Yönetimi",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "11:30",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "Seminerler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/dil-ve-konusma-terapisinde-kariyer-dernek-temsilciligi-ve-klinik-yonetimi-1793609167",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae84dbbe1529.jpg"
   },
   {
    "id": "5cf01d8fc57c",
@@ -979,6 +1027,22 @@
    "gorsel": null
   },
   {
+   "id": "b95b77cb7937",
+   "baslik": "LÖSEV Fayda Projesi",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "11:30",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminerler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/losev-fayda-projesi-1793609099",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae84d7a89b1e.jpg"
+  },
+  {
    "id": "d55cc3d8f1a5",
    "baslik": "Bobo ve Arkadaşları",
    "tarih": "2026-11-26",
@@ -1139,54 +1203,6 @@
    "gorsel": null
   },
   {
-   "id": "3a8e991f2a0f",
-   "baslik": "Bir Bizans Sınır Kalesinin Hikayesi: Harmantepe",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Seminerler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/bir-bizans-sinir-kalesinin-hikayesi-harmantepe-1791187959",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35bde7bf6a.jpg"
-  },
-  {
-   "id": "fe4fae977120",
-   "baslik": "Es Es Tayfa Gitar Üçlüsü",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Konser ve Dinletiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/es-es-tayfa-gitar-uclusu-1792482199",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71b71bd420.jpg"
-  },
-  {
-   "id": "0f2c0469c5a2",
-   "baslik": "Ozan Akçay \"Gitar Resitali",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Konser ve Dinletiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ozan-akcay-gitar-resitali-1792482267",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71bc6665b7.jpg"
-  },
-  {
    "id": "3d2fc0b03178",
    "baslik": "Verimsizler",
    "tarih": "2026-11-27",
@@ -1251,6 +1267,13 @@
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
+   "ad": "Tepebaşı Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.tepebasi.bel.tr/Etkinlikler",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
+  {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
@@ -1312,13 +1335,6 @@
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
-  },
-  {
-   "ad": "Tepebaşı Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.tepebasi.bel.tr/Etkinlikler",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yıllık festivaller (Uluslararası Eskişehir Festivali, Uçan Balon, Sivrihisar Nasreddin Hoca…)",

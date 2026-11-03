@@ -1,6 +1,6 @@
 {
  "il": "agri",
- "guncelleme": "2026-11-02T06:44+03:00",
+ "guncelleme": "2026-11-03T06:41+03:00",
  "ilceler": [
   "Merkez",
   "Diyadin",
@@ -39,7 +39,7 @@
    "tur": "universite",
    "url": "https://www.agri.edu.tr/haberduyuru.aspx?bid=1&tid=3",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error [Errno -3] Temporary failure in name resolution>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Ağrı İl Kültür ve Turizm Müdürlüğü",

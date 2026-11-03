@@ -1,12 +1,7 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-11-02",
+ "guncelleme": "2026-11-03",
  "secilenler": [
-  {
-   "id": "8bc518dbfb2e",
-   "not": "Bizet'nin tutkulu operası Ankara'da.",
-   "elle": true
-  },
   {
    "id": "d7762ec713f9",
    "baslik": "Romantika / Bir Ömrün Seyrüseferi — Nazım Hikmet Sergisi",
@@ -22,8 +17,8 @@
    "not": "Antalya'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "5a7fb2921ed7",
-   "not": "Aydın'da canlı müzik keyfi."
+   "id": "d5048a504128",
+   "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
   },
   {
    "id": "5f570568def9",
@@ -42,32 +37,36 @@
    "not": "Konya'da geleneksel ezgiler."
   },
   {
+   "id": "e66a47b43c33",
+   "not": "Tokat'ta festival havası."
+  },
+  {
+   "id": "397e05538b60",
+   "not": "Ankara'da canlı müzik keyfi."
+  },
+  {
    "id": "10379b1e0871",
    "not": "Samsun'da geleneksel ezgiler."
   },
   {
-   "id": "d90625a2a6be",
+   "id": "b5f2c41b4aa1",
+   "not": "Ankara'da perde açılıyor."
+  },
+  {
+   "id": "8eb9a0873845",
+   "not": "Kahramanmaraş'ta perde açılıyor."
+  },
+  {
+   "id": "f5f1be9d2905",
    "not": "Burdur'da perde açılıyor."
-  },
-  {
-   "id": "4de0d8894a39",
-   "not": "Adana'da perde açılıyor."
-  },
-  {
-   "id": "1b86ae411dbc",
-   "not": "İstanbul'da kahkaha garantili bir akşam."
-  },
-  {
-   "id": "3d22e8faf387",
-   "not": "Ankara'da ritim ve dans dolu bir gösteri."
-  },
-  {
-   "id": "df28be48504c",
-   "not": "Samsun'da perde açılıyor."
   },
   {
    "id": "a00303c71871",
    "not": "Gaziantep'te gezip görülecek bir sergi."
+  },
+  {
+   "id": "6f85dac51929",
+   "not": "Eskişehir'de gezip görülecek bir sergi."
   }
  ]
 }

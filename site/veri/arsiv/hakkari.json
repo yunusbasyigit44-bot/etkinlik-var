@@ -1,5 +1,37 @@
 [
  {
+  "id": "a8d4497913c4",
+  "baslik": "\"Yasa Dışı Bahis Bağımlılığı\" Semineri",
+  "tarih": "2026-11-02",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Merkez",
+  "mekan": "Muhammed Selim Seven Konferans Salonu (Zemin Kat)",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Seminer",
+  "kaynak_ad": "Hakkari Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/531/%22yasa-disi-bahis-bagimliligi%22-semineri",
+  "gorsel": "https://hubis.hakkari.edu.tr/media/event/531/cover/thumb/882e3a39733b4b85b2104bc5a0b75e63.webp"
+ },
+ {
+  "id": "493a1a6ac272",
+  "baslik": "\"Görünmeyen Güç: Enerjiyi Üretmek mi, Akıllıca Tüketmek mi?\" Semineri",
+  "tarih": "2026-11-02",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Merkez",
+  "mekan": "Hakkâri Kız Meslek Lisesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Seminer",
+  "kaynak_ad": "Hakkari Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/524/%22gorunmeyen-guc-enerjiyi-uretmek-mi-akillica-tuketmek-mi%22-semineri",
+  "gorsel": "https://hubis.hakkari.edu.tr/media/event/524/cover/thumb/2f4ec9fbf36f4864bf1b89a406742e5e.webp"
+ },
+ {
   "id": "5bf6dc6ff86c",
   "baslik": "\"Öğretici-Eğitici ve Geliştirici Materyal Dağıtımı\" Etkinliği",
   "tarih": "2026-11-01",

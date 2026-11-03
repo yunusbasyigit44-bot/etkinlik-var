@@ -1,6 +1,6 @@
 {
  "il": "isparta",
- "guncelleme": "2026-11-02T06:55+03:00",
+ "guncelleme": "2026-11-03T06:53+03:00",
  "ilceler": [
   "Merkez",
   "Aksu",
@@ -18,36 +18,20 @@
  ],
  "etkinlikler": [
   {
-   "id": "5fce583efd21",
-   "baslik": "XII. Uluslararası Sosyal ve Uygulamalı Gerontoloji Sempozyumu",
-   "tarih": "2026-11-02",
+   "id": "f23681f51228",
+   "baslik": "Sağlık Sektöründe Kariyer Fırsatları ve Tıbbi Sekreterliğin Geleceği",
+   "tarih": "2026-11-03",
    "bitis": null,
    "saat": null,
    "ilce": "Merkez",
-   "mekan": "AKDENİZ ÜNİVERSİTESİ",
-   "kategori": "Akademik",
+   "mekan": "Isparta Uygulamalı Bilimler Üniversitesi",
+   "kategori": "Kariyer",
    "ucretsiz": true,
-   "ozet": "Kongre",
-   "kaynak_ad": "Süleyman Demirel Üniversitesi",
+   "ozet": null,
+   "kaynak_ad": "Isparta Uygulamalı Bilimler Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=602397E9-98EB-263C-654F-3A2489DC9306"
-  },
-  {
-   "id": "788ed945212e",
-   "baslik": "Cumhuriyetin İkinci Yüzyılına Girerken Birinci Yüzyılın Değerlendirmesi",
-   "tarih": "2026-11-02",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "SDÜ İktisadi ve İdari Bilimler Fakültesi Konferans Salonu B",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Konferans",
-   "kaynak_ad": "Süleyman Demirel Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=4A03156F-85E6-5C49-77D8-3A2456AB29C6"
+   "kaynak_url": "https://www.iste.edu.tr/etkinlik-merkezi/2026/11/03/951",
+   "gorsel": "https://www.iste.edu.tr/gallery/_etkinlik_thumb/951_event_1793628762.jpeg"
   },
   {
    "id": "4198db754d18",
@@ -80,6 +64,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
    "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=FB02AA5B-4471-2494-B681-3A2456AE7EC0"
+  },
+  {
+   "id": "4c318b6ba12e",
+   "baslik": "10 Kasım Atatürk'ü Anma Etkinlikleri Geleneksel Atatürk Koşusu",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Isparta Uygulamalı Bilimler Üniversitesi",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Isparta Uygulamalı Bilimler Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.iste.edu.tr/etkinlik-merkezi/2026/11/10/950",
+   "gorsel": "https://www.iste.edu.tr/gallery/_etkinlik_thumb/950_event_1793623668.jpeg"
   },
   {
    "id": "ad06af1669de",
@@ -132,17 +132,17 @@
  ],
  "kaynaklar": [
   {
-   "ad": "Süleyman Demirel Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "etkinlik_sayisi": 5,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Isparta Uygulamalı Bilimler Üniversitesi",
    "tur": "universite",
    "url": "https://www.iste.edu.tr/etkinlik-merkezi",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 4,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Süleyman Demirel Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

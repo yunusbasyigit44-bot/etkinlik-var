@@ -1,5 +1,37 @@
 [
  {
+  "id": "aea7dc1796aa",
+  "baslik": "Gömercin Kuşları",
+  "tarih": "2026-11-02",
+  "bitis": null,
+  "saat": "20:30",
+  "ilce": "Kadıköy",
+  "mekan": "Alan Kadıköy",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Taklacı gömercinler koltuklarını ve küreklerini alıp bu kez sahnenin tam ortasına oturuyorlar, önlerine geleni gömüp geçiyorlar; üstelik bu sefer seyirciler arasındaki gömercinlerin de katkısıyla! Bu toplu gömü seansını …",
+  "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/gomercin-kuslari-2-11-26",
+  "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/gomercin-kuslari-51c6b6ef-af1d-4b15-8c58-36b9407aaa0f.jpg"
+ },
+ {
+  "id": "1b86ae411dbc",
+  "baslik": "Still Standing - Uraz Kaygılaroğlu",
+  "tarih": "2026-11-02",
+  "bitis": null,
+  "saat": "20:30",
+  "ilce": "Kadıköy",
+  "mekan": "Caddebostan Kültür Merkezi",
+  "kategori": "Komedi",
+  "ucretsiz": true,
+  "ozet": "Uraz Kaygılaroğlu'nun tek kişilik stand-up gösterisi Still Standing, oyuncunun kamera arkasındaki gerçek hayatını, babalık deneyimlerini ve günlük kargaşalarını sahneye taşıyor.",
+  "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/still-standing-uraz-kaygilaroglu-2-11-26",
+  "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/still-standing-uraz-kaygilaroglu-stand-up-35eba1c7-4d14-4d79-bb27-40b9a78edfc1.jpg"
+ },
+ {
   "id": "af9cd5c15e9e",
   "baslik": "Kahve Konserleri: Caffè Italiano",
   "tarih": "2026-11-01",

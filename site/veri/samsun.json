@@ -1,6 +1,6 @@
 {
  "il": "samsun",
- "guncelleme": "2026-11-02T07:07+03:00",
+ "guncelleme": "2026-11-03T07:06+03:00",
  "ilceler": [
   "Atakum",
   "Canik",
@@ -22,22 +22,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "df28be48504c",
-   "baslik": "Kürk Mantolu Madonna",
-   "tarih": "2026-11-02",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "İlkadım",
-   "mekan": "Samsun Devlet Opera ve Balesi · Aydın Gün Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Samsun Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/kurk-mantolu-madonna-samsun-dob-samsun-kultur-yolu-festivali",
-   "gorsel": "veri/gorsel/dob-samsun-3211.webp"
-  },
-  {
    "id": "1e310863037d",
    "baslik": "Pinokyo",
    "tarih": "2026-11-03",
@@ -52,6 +36,38 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/pinokyo-samsun-dob",
    "gorsel": null
+  },
+  {
+   "id": "1f9339dece79",
+   "baslik": "Renklerle Bir Arada: Cam Mozaik Sanat Atölyesi",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Atölye Çalışması",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/atolye-calismasi/renklerle-bir-arada-cam-mozaik-sanat-atolyesi",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/renklerle_bir_arada_cam_mozaik_sanat_atolyesi-afis.jpg"
+  },
+  {
+   "id": "94007a4305d9",
+   "baslik": "Kültürel Miras Aktarımında Sanatın Rolü",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Söyleşi",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/soylesi/kulturel-miras-aktariminda-sanatin-rolu",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/resim_bolumu_ogrenci_-_mezun_bulusmasi-_afis.jpg"
   },
   {
    "id": "66a5f7c55052",
@@ -118,6 +134,22 @@
    "gorsel": "veri/gorsel/dob-samsun-3306.webp"
   },
   {
+   "id": "86747825b0e9",
+   "baslik": "Uygulamalı Girişimcilik Eğitimi",
+   "tarih": "2026-11-09",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": "Eğitim",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/egitim/uygulamali-girisimcilik-egitimi-1",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/uygulamali_girsimcilik_egitimi_1_1.png"
+  },
+  {
    "id": "43bffbdf18c3",
    "baslik": "Okulumuz Orman",
    "tarih": "2026-11-11",
@@ -132,6 +164,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/okulumuz-orman-samsun-dob",
    "gorsel": "veri/gorsel/dob-samsun-2835.webp"
+  },
+  {
+   "id": "09e286759580",
+   "baslik": "Camın Yeni Hikayesi: Sanatla Yeniden Hayat",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Diğer Etkinlik Türü",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/diger-etkinlik-turu/camin-yeni-hikayesi-sanatla-yeniden-hayat",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/camin-yeni-hikayesi-sanatla-yeniden-hayat-afis2026-rev.jpg"
   },
   {
    "id": "f17867e17794",
@@ -182,6 +230,22 @@
    "gorsel": "veri/gorsel/dob-samsun-3401.webp"
   },
   {
+   "id": "13f127e57dcd",
+   "baslik": "Pinokyo",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "İlkadım",
+   "mekan": "Samsun Devlet Opera ve Balesi · Aydın Gün Salonu",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Samsun Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/pinokyo-samsun-dob",
+   "gorsel": null
+  },
+  {
    "id": "af4adb9a3a9e",
    "baslik": "XX. Deney Hayvanları Kullanım Sertifikası Eğitim Programı",
    "tarih": "2026-11-23",
@@ -216,17 +280,17 @@
  ],
  "kaynaklar": [
   {
-   "ad": "Samsun Devlet Opera ve Balesi",
-   "tur": "kultur",
-   "url": "https://apimain.operabale.gov.tr/v1/web/temsil/mudurluk/listele/6",
+   "ad": "Ondokuz Mayıs Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.omu.edu.tr/tr/etkinlikler",
    "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {
-   "ad": "Ondokuz Mayıs Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.omu.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 4,
+   "ad": "Samsun Devlet Opera ve Balesi",
+   "tur": "kultur",
+   "url": "https://apimain.operabale.gov.tr/v1/web/temsil/mudurluk/listele/6",
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {

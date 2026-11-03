@@ -1,5 +1,21 @@
 [
  {
+  "id": "42480a246e0c",
+  "baslik": "Aziz Vukolos'ta Akustik Günler",
+  "tarih": "2026-11-02",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Konak",
+  "mekan": "Aziz Vukolos Kilisesi Kültür Merkezi (Ayavukla Kilisesi)",
+  "kategori": "Konser",
+  "ucretsiz": null,
+  "ozet": null,
+  "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+  "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-19/8cace7cc-de74-41b7-8762-e5a2f5b6bef3-y4npyclp.jpg"
+ },
+ {
   "id": "41cf81745770",
   "baslik": "Don Kişot",
   "tarih": "2026-11-01",
@@ -270,6 +286,22 @@
   "kaynak_tur": "belediye",
   "kaynak_url": "https://www.konak.bel.tr/tr/etkinlikler/etkinlik/resim-sergisi",
   "gorsel": null
+ },
+ {
+  "id": "47ebfceec752",
+  "baslik": "Rüya Beni'ne Uyanış",
+  "tarih": "2026-09-02",
+  "bitis": "2026-11-02",
+  "saat": null,
+  "ilce": "Konak",
+  "mekan": "Konak Metro Sanat Galerisi",
+  "kategori": "Sergi",
+  "ucretsiz": null,
+  "ozet": null,
+  "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+  "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-08-25/967e7f80-2b91-412c-a48b-1287810b065f-uuh1y5ci.jpeg"
  },
  {
   "id": "131355780fd6",

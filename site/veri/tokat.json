@@ -1,6 +1,6 @@
 {
  "il": "tokat",
- "guncelleme": "2026-11-02T07:09+03:00",
+ "guncelleme": "2026-11-03T07:07+03:00",
  "ilceler": [
   "Merkez",
   "Almus",
@@ -15,8 +15,64 @@
   "Yeşilyurt",
   "Zile"
  ],
- "etkinlikler": [],
+ "etkinlikler": [
+  {
+   "id": "e66a47b43c33",
+   "baslik": "Antikacılar ve Nostalji Festivali",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Tokat Belediyesi",
+   "kategori": "Festival",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tokat Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.tokat.bel.tr/etkinlikler/antikacilar-ve-nostalji-festivali",
+   "gorsel": "https://assets.tokat.bel.tr/tokatbld/events/1792396568551-e9fd6ac7ab891894.webp"
+  },
+  {
+   "id": "acde951f7a70",
+   "baslik": "Kılıçarslan",
+   "tarih": "2026-11-07",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Tokat Belediyesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tokat Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.tokat.bel.tr/etkinlikler/kilicarslan",
+   "gorsel": "https://assets.tokat.bel.tr/tokatbld/events/1793621241100-6085cb358d06b664.webp"
+  },
+  {
+   "id": "898527699d50",
+   "baslik": "Kılıçarslan",
+   "tarih": "2026-11-08",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Tokat Belediyesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tokat Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.tokat.bel.tr/etkinlikler/kilicarslan",
+   "gorsel": "https://assets.tokat.bel.tr/tokatbld/events/1793621299314-c62c6a301fa274e4.webp"
+  }
+ ],
  "kaynaklar": [
+  {
+   "ad": "Tokat Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.tokat.bel.tr/",
+   "etkinlik_sayisi": 3,
+   "durum": "çalışıyor"
+  },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
@@ -44,13 +100,6 @@
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
-  },
-  {
-   "ad": "Tokat Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.tokat.bel.tr/",
-   "etkinlik_sayisi": 0,
-   "durum": "hata: IncompleteRead(166274 bytes read, 513319 more expected)"
   },
   {
    "ad": "Tokat Gaziosmanpaşa Üniversitesi",

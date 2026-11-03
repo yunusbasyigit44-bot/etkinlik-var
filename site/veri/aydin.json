@@ -1,6 +1,6 @@
 {
  "il": "aydin",
- "guncelleme": "2026-11-02T06:47+03:00",
+ "guncelleme": "2026-11-03T06:45+03:00",
  "ilceler": [
   "Efeler",
   "Bozdoğan",
@@ -21,22 +21,6 @@
   "Yenipazar"
  ],
  "etkinlikler": [
-  {
-   "id": "5a7fb2921ed7",
-   "baslik": "Ud Resitali",
-   "tarih": "2026-11-02",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Efeler",
-   "mekan": "Atatürk Kongre Merkezi Aydın Bey Salonu",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Konser",
-   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/ud-resitali-2000148571",
-   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261023094655-XTL5IE1NZCDFIED3UNVS-000024659698350438700034.jpeg"
-  },
   {
    "id": "5f570568def9",
    "baslik": "Geleneğin İzinden",
@@ -107,7 +91,7 @@
    "ad": "Aydın Adnan Menderes Üniversitesi",
    "tur": "universite",
    "url": "https://haber.adu.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

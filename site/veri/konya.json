@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-02T07:01+03:00",
+ "guncelleme": "2026-11-03T06:59+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,22 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "bc5a152e5140",
-   "baslik": "Konya Okulu - Prof. Dr. Ali Akpınar",
-   "tarih": "2026-11-02",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ali-akpinar/1209",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/yGQGIOJfI79AnIe5ZXoRLPI9Q5MHkGaB.jpeg"
-  },
   {
    "id": "5ca577c14e52",
    "baslik": "COP 31 Yolunda İklim Değişikliği Eyleminde Yerel Yönetimlerin Üniversite ile İş Birliği",
@@ -195,22 +179,6 @@
    "gorsel": "veri/gorsel/dt-esas-misafir.jpg"
   },
   {
-   "id": "d72765cc0d1e",
-   "baslik": "Konya Okulu - Prof. Dr. Ömer Özpınar",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-omer-ozpinar/1212",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/D0JfVX30v_QV6zHMCiLrLbEeJJUhCC60.jpeg"
-  },
-  {
    "id": "a85d7b78bd43",
    "baslik": "Tematik Film Okumaları",
    "tarih": "2026-11-05",
@@ -225,6 +193,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanatkonya.com/etkinlikler/tematik-film-okumalari/1335",
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/0vRhf-w6SQeFSasNJ_Thvt5IG7e8j6y7.jpeg"
+  },
+  {
+   "id": "d72765cc0d1e",
+   "baslik": "Konya Okulu - Prof. Dr. Ömer Özpınar",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-omer-ozpinar/1212",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/D0JfVX30v_QV6zHMCiLrLbEeJJUhCC60.jpeg"
   },
   {
    "id": "72c3f936ddea",
@@ -355,6 +339,22 @@
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/rDq9Q0TPY6VfiNgCpIQW7D8nJ2a-fvLC.jpeg"
   },
   {
+   "id": "216d278cfea8",
+   "baslik": "Konya Okulu - Prof. Dr. Ali Akpınar",
+   "tarih": "2026-11-09",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ali-akpinar/1209",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/yGQGIOJfI79AnIe5ZXoRLPI9Q5MHkGaB.jpeg"
+  },
+  {
    "id": "f6238f7b53bd",
    "baslik": "Atatürk'ün Sevdiği Şarkılar Konseri",
    "tarih": "2026-11-10",
@@ -385,6 +385,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/eglence-dunyasi",
    "gorsel": "veri/gorsel/dt-eglence-dunyasi.webp"
+  },
+  {
+   "id": "026b621d7e01",
+   "baslik": "Profesörlük Beratı Taktim Töreni",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Meram",
+   "mekan": "Necmettin Erbakan Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": "Bilimsel",
+   "kaynak_ad": "Necmettin Erbakan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/profesorluk-berati-taktim-toreni-2535",
+   "gorsel": null
   },
   {
    "id": "507e790caf20",
@@ -499,6 +515,70 @@
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/s2nxpC4lPzVjRDVwyEPjuoKy8F5IJTAl.jpeg"
   },
   {
+   "id": "d3bd68f58706",
+   "baslik": "Yastık Adam",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Selçuklu",
+   "mekan": "Konya DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
+   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
+  },
+  {
+   "id": "6569647a16cd",
+   "baslik": "Yastık Adam",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Selçuklu",
+   "mekan": "Konya DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
+   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
+  },
+  {
+   "id": "c726fd234afc",
+   "baslik": "Yastık Adam",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Selçuklu",
+   "mekan": "Konya DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
+   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
+  },
+  {
+   "id": "eda9e45156b9",
+   "baslik": "Yastık Adam",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Selçuklu",
+   "mekan": "Konya DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
+   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
+  },
+  {
    "id": "a4e7c94bf44a",
    "baslik": "Klasik Kemençe Atölyesi",
    "tarih": "2026-11-22",
@@ -597,6 +677,13 @@
  ],
  "kaynaklar": [
   {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 17,
+   "durum": "çalışıyor"
+  },
+  {
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
@@ -604,17 +691,10 @@
    "durum": "çalışıyor"
   },
   {
-   "ad": "Devlet Tiyatroları",
-   "tur": "kultur",
-   "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 13,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Necmettin Erbakan Üniversitesi",
    "tur": "universite",
    "url": "https://erbakan.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {

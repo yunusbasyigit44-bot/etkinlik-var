@@ -1,5 +1,21 @@
 [
  {
+  "id": "e188b647a77b",
+  "baslik": "Toefl ibt Eğitimi",
+  "tarih": "2026-11-02",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Yakutiye",
+  "mekan": "Atatürk Üniversitesi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Atatürk Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://atauni.edu.tr/etkinlik/toefl-ibt-egitimi/",
+  "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/10/tedfl-819x1024.jpeg"
+ },
+ {
   "id": "9a948bd2d43f",
   "baslik": "Temel İngilizce Kursu",
   "tarih": "2026-10-31",

@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-11-02T06:54+03:00",
+ "guncelleme": "2026-11-03T06:52+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -9,38 +9,6 @@
   "Yüksekova"
  ],
  "etkinlikler": [
-  {
-   "id": "a8d4497913c4",
-   "baslik": "\"Yasa Dışı Bahis Bağımlılığı\" Semineri",
-   "tarih": "2026-11-02",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Merkez",
-   "mekan": "Muhammed Selim Seven Konferans Salonu (Zemin Kat)",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Seminer",
-   "kaynak_ad": "Hakkari Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/531/%22yasa-disi-bahis-bagimliligi%22-semineri",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/531/cover/thumb/882e3a39733b4b85b2104bc5a0b75e63.webp"
-  },
-  {
-   "id": "493a1a6ac272",
-   "baslik": "\"Görünmeyen Güç: Enerjiyi Üretmek mi, Akıllıca Tüketmek mi?\" Semineri",
-   "tarih": "2026-11-02",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Hakkâri Kız Meslek Lisesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Seminer",
-   "kaynak_ad": "Hakkari Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/524/%22gorunmeyen-guc-enerjiyi-uretmek-mi-akillica-tuketmek-mi%22-semineri",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/524/cover/thumb/2f4ec9fbf36f4864bf1b89a406742e5e.webp"
-  },
   {
    "id": "2bf5f058840d",
    "baslik": "2026-2027 Akademik Yılı Açılış Töreni",
@@ -72,6 +40,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/526/dijitallesen-para-donusen-suc-finansal-siber-suclarla-mucadele-soylesisi",
    "gorsel": "https://hubis.hakkari.edu.tr/media/event/526/cover/thumb/d0d4b4c9e2e74ed988e35e9aaca109b1.webp"
+  },
+  {
+   "id": "3ea7646e4675",
+   "baslik": "2. Uluslararası Mezopotamya Bilimsel Araştırmalar Kongresi",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "(Hibrit) Açılış: Rektörlük Konferans Salonu / Kongre Oturumları: Zeynel Bey Yerleşkesi, Merkezi Derslikler Binası, Muhammed Selim Seven Konferans Salonu",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": "Araştırma",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/484/2-uluslararasi-mezopotamya-bilimsel-arastirmalar-kongresi",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/484/cover/thumb/8af93e1e490c43319ba166823d9e1476.webp"
   }
  ],
  "kaynaklar": [
@@ -79,8 +63,8 @@
    "ad": "Hakkari Üniversitesi",
    "tur": "universite",
    "url": "https://www.hakkari.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 4,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 3,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Tiyatroları",

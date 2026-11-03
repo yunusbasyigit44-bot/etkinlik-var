@@ -1,6 +1,6 @@
 {
  "il": "manisa",
- "guncelleme": "2026-11-02T07:02+03:00",
+ "guncelleme": "2026-11-03T07:01+03:00",
  "ilceler": [
   "Ahmetli",
   "Akhisar",
@@ -36,6 +36,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/hackathon-sanayi-ve-kampuslerde-yesil-donusum#baslangic",
    "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261020105017170-DZ2B5.jpg"
+  },
+  {
+   "id": "e342fd6b0c69",
+   "baslik": "Doğanın İçinden, Gökyüzüne Söyleşisi",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Yunusemre",
+   "mekan": "MCBÜ Spor Bilimleri Fakültesi Konferans Salonu",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/doganin-icinden-gokyuzune-soylesisi#baslangic",
+   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261102123615709-4UBRU.jpg"
+  },
+  {
+   "id": "5ec470749a66",
+   "baslik": "Dijital Dünyada Güvenli Gelecek “Yeni Nesil Tehditler, Suçlar ve Mücadele Yöntemleri”",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Yunusemre",
+   "mekan": "MCBÜ Süleyman Demirel Kültür Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/dijital-dunyada-guvenli-gelecek-yeni-nesil-tehditler-suclar-ve-mucadele-yontemleri#baslangic",
+   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261102175317530-CZQBE.jpg"
   },
   {
    "id": "cdb5c6524545",
@@ -182,22 +214,6 @@
    "gorsel": "https://kultur.manisa.bel.tr/uploads/events/ad0c3b67-d3a2-4cd9-a64d-e01adea57ae9_AYNI-S%CC%A7EYLERI%CC%87N-OYUNU-LAMBASI-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
   },
   {
-   "id": "53a3414fa94a",
-   "baslik": "Gençlerle 360° 12. Uluslararası Öğrenci Kongresi",
-   "tarih": "2026-12-03",
-   "bitis": "2026-12-04",
-   "saat": "10:00",
-   "ilce": "Yunusemre",
-   "mekan": "MCBÜ Şehit Prof. Dr. İlhan Varank Yerleşkesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/genclerle-360-12-uluslararasi-ogrenci-kongresi#baslangic",
-   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261021164927839-YYGBF.jpg"
-  },
-  {
    "id": "87cd5e759703",
    "baslik": "VII. Ulusal Üniversite Sanayi İş Birliği Ar-Ge ve İnovasyon Kongresi",
    "tarih": "2026-12-09",
@@ -226,7 +242,7 @@
    "ad": "Manisa Celal Bayar Üniversitesi",
    "tur": "universite",
    "url": "https://www.mcbu.edu.tr",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {

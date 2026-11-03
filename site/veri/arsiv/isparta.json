@@ -1,5 +1,37 @@
 [
  {
+  "id": "5fce583efd21",
+  "baslik": "XII. Uluslararası Sosyal ve Uygulamalı Gerontoloji Sempozyumu",
+  "tarih": "2026-11-02",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "AKDENİZ ÜNİVERSİTESİ",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": "Kongre",
+  "kaynak_ad": "Süleyman Demirel Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+  "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=602397E9-98EB-263C-654F-3A2489DC9306"
+ },
+ {
+  "id": "788ed945212e",
+  "baslik": "Cumhuriyetin İkinci Yüzyılına Girerken Birinci Yüzyılın Değerlendirmesi",
+  "tarih": "2026-11-02",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "SDÜ İktisadi ve İdari Bilimler Fakültesi Konferans Salonu B",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Konferans",
+  "kaynak_ad": "Süleyman Demirel Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+  "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=4A03156F-85E6-5C49-77D8-3A2456AB29C6"
+ },
+ {
   "id": "d7c45b427429",
   "baslik": "Suya Adanmış Bir Ömür: Süleyman Demirel",
   "tarih": "2026-11-01",

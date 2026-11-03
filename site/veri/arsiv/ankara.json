@@ -1,5 +1,21 @@
 [
  {
+  "id": "8bc518dbfb2e",
+  "baslik": "Carmen",
+  "tarih": "2026-11-02",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Çankaya",
+  "mekan": "Atatürk Sanat Merkezi Çankaya Kırmızı Salon",
+  "kategori": "Opera & Bale",
+  "ucretsiz": false,
+  "ozet": "Devlet Opera ve Balesi",
+  "kaynak_ad": "Devlet Opera ve Balesi",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://biletinial.com/opera-bale/carmen-ankara-dob",
+  "gorsel": null
+ },
+ {
   "id": "8b8c23e5a20e",
   "baslik": "Sefiller",
   "tarih": "2026-11-01",

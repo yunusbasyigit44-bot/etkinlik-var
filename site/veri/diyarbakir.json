@@ -1,6 +1,6 @@
 {
  "il": "diyarbakir",
- "guncelleme": "2026-11-02T06:49+03:00",
+ "guncelleme": "2026-11-03T06:47+03:00",
  "ilceler": [
   "Bağlar",
   "Bismil",
@@ -36,6 +36,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gun-eksilmesin-penceremden",
    "gorsel": "veri/gorsel/dt-gun-eksilmesin-penceremden.jpg"
+  },
+  {
+   "id": "4554bcfcb1f4",
+   "baslik": "İklim Mücadelesinde Ulaşımın Rolü: Cop31'i Anlamak",
+   "tarih": "2026-11-03",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sur",
+   "mekan": "Dicle Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Dicle Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/iklim-mucadelesinde-ulasimin-rolu-cop31i-anlamak-12993",
+   "gorsel": "https://www.dicle.edu.tr/contents/events/photos/9bfd5a68-622a-4d23-be9e-313049f6866c/ss_thumb_489fd34918ea4115a7e8942fc810c11c_IMG-20261030-WA0018.jpg"
   },
   {
    "id": "ade9f1c8eb4b",
@@ -115,7 +131,7 @@
    "kaynak_ad": "Dicle Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/genclik-ve-gelecek-bagimlilik-kodlarini-kirmak-12919",
-   "gorsel": "https://www.dicle.edu.tr/contents/events/photos/4ec92d74-4d17-4a8e-a377-52f8800f96d6/ss_thumb_1fdffb74664a427eb574707b149edc16_WhatsApp%20Image%202026-10-09%20at%2011.35.17.jpeg"
+   "gorsel": "https://www.dicle.edu.tr/contents/events/photos/4ec92d74-4d17-4a8e-a377-52f8800f96d6/ss_thumb_c9f964f6ffd24ab3add104b79aeca943_WhatsApp%20Image%202026-11-02%20at%2014.37.29.jpeg"
   },
   {
    "id": "ed6ddb56cc61",
@@ -422,6 +438,22 @@
    "gorsel": "veri/gorsel/dt-alacali-semsiye.webp"
   },
   {
+   "id": "21d1c90fb8a9",
+   "baslik": "Borderline",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Yenişehir",
+   "mekan": "Oda Tiyatrosu Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/borderline",
+   "gorsel": "veri/gorsel/dt-borderline.webp"
+  },
+  {
    "id": "13d481026fe3",
    "baslik": "Geçmişten Günümüze Diyarbakır'da Eğitim",
    "tarih": "2026-11-17",
@@ -435,7 +467,103 @@
    "kaynak_ad": "Dicle Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/gecmisten-gunumuze-diyarbakirda-egitim-12985",
-   "gorsel": "https://www.dicle.edu.tr/contents/events/photos/621f0250-5f57-406a-8833-b0c2156b5aee/ss_thumb_038fb6fa7dd94bce96f4154435d2cf5e_WhatsApp%20Image%202026-10-27%20at%2013.04.31.jpeg"
+   "gorsel": "https://www.dicle.edu.tr/contents/events/photos/621f0250-5f57-406a-8833-b0c2156b5aee/ss_thumb_95ff5a1f9e4241ceb29b7b7bf6de6b83_IMG-20261030-WA0000.jpg"
+  },
+  {
+   "id": "6137cf6e2a47",
+   "baslik": "Gizli Bahçe'nin Bezelyesi",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Kayapınar",
+   "mekan": "Kayapınar Kültür Merkezi Fuaye",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gizli-bahcenin-bezelyesi",
+   "gorsel": "veri/gorsel/dt-gizli-bahcenin-bezelyesi.webp"
+  },
+  {
+   "id": "4faeac697e0a",
+   "baslik": "Borderline",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Yenişehir",
+   "mekan": "Oda Tiyatrosu Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/borderline",
+   "gorsel": "veri/gorsel/dt-borderline.webp"
+  },
+  {
+   "id": "44c028c7cf7d",
+   "baslik": "Palyaço Bar",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Yenişehir",
+   "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/palyaco-bar",
+   "gorsel": "veri/gorsel/dt-palyaco-bar.jpg"
+  },
+  {
+   "id": "e584c3524d47",
+   "baslik": "Palyaço Bar",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Yenişehir",
+   "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/palyaco-bar",
+   "gorsel": "veri/gorsel/dt-palyaco-bar.jpg"
+  },
+  {
+   "id": "77d8c999a4c9",
+   "baslik": "Palyaço Bar",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Yenişehir",
+   "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/palyaco-bar",
+   "gorsel": "veri/gorsel/dt-palyaco-bar.jpg"
+  },
+  {
+   "id": "31e5e05e4a36",
+   "baslik": "Palyaço Bar",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Yenişehir",
+   "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/palyaco-bar",
+   "gorsel": "veri/gorsel/dt-palyaco-bar.jpg"
   },
   {
    "id": "77abe74d79b8",
@@ -452,6 +580,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.diyarbakir.bel.tr/etkinlikler/serpehatiye-nikoye-silbik",
    "gorsel": "https://www.diyarbakir.bel.tr/uploads/medium_c3dde2c0_a583_492d_92c4_0a2a2831168b_18c5f1a60b.jpeg"
+  },
+  {
+   "id": "46c9b1f636bc",
+   "baslik": "Alacalı Şemsiye",
+   "tarih": "2026-11-22",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Kayapınar",
+   "mekan": "Kayapınar Kültür Merkezi Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/alacali-semsiye",
+   "gorsel": "veri/gorsel/dt-alacali-semsiye.webp"
   },
   {
    "id": "94bc3df304c8",
@@ -523,15 +667,15 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 16,
+   "etkinlik_sayisi": 24,
    "durum": "çalışıyor"
   },
   {
    "ad": "Dicle Üniversitesi",
    "tur": "universite",
    "url": "https://www.dicle.edu.tr/etkinlikler/tumu",
-   "etkinlik_sayisi": 10,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 11,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Diyarbakır Büyükşehir Belediyesi",

@@ -1,6 +1,6 @@
 {
  "il": "adiyaman",
- "guncelleme": "2026-11-02T06:43+03:00",
+ "guncelleme": "2026-11-03T06:40+03:00",
  "ilceler": [
   "Merkez",
   "Besni",
@@ -28,6 +28,54 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/04/adyu-teknokent-tanitim-ve-bilgilendirme-programi",
    "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/04/adyu-teknokent-tanitim-ve-bilgilendirme-programi/thumb/whatsapp%20%C4%B1mage%202026-10-30%20at%2010.18.53.jpeg"
+  },
+  {
+   "id": "e593df191d60",
+   "baslik": "Bankacılıkta Kariyer Yolcuğu",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Merkez",
+   "mekan": "Mediko Sosyal Konferans Salonu",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/05/bankacilikta-kariyer-yolcugu",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/05/bankacilikta-kariyer-yolcugu/thumb/bankac%C4%B1l%C4%B1k.jpg"
+  },
+  {
+   "id": "5f6367db058c",
+   "baslik": "Deprem Sonrası Psikolojik Dayanıklılık ve Zaman Yönetimi Farkındalığı",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Merkez",
+   "mekan": "Mustafa V. Koç Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/23/deprem-sonrasi-psikolojik-dayaniklilik-ve-zaman-yonetimi-farkindaligi",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/23/deprem-sonrasi-psikolojik-dayaniklilik-ve-zaman-yonetimi-farkind/thumb/deprem%20sonras%C4%B1.jpg"
+  },
+  {
+   "id": "65d9f6bc8340",
+   "baslik": "Profesyonelotel Yöneticileri Geleceğin Şeflerinden Neler Bekliyor?",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Merkez",
+   "mekan": "ADYÜ Farabi Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/25/profesyonelotel-yoneticileri-gelecegin-seflerinden-neler-bekliyor",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/25/profesyonelotel-yoneticileri-gelecegin-seflerinden-neler-bekliyo/thumb/gastronomi%C5%9Fef.jpg"
   }
  ],
  "kaynaklar": [
@@ -35,7 +83,7 @@
    "ad": "Adıyaman Üniversitesi",
    "tur": "universite",
    "url": "https://adiyaman.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

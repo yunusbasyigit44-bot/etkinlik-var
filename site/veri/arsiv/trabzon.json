@@ -1,5 +1,37 @@
 [
  {
+  "id": "a6c84b189dde",
+  "baslik": "Dijital Dönüşümün Hayatımızdaki İzleri",
+  "tarih": "2026-11-02",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Ortahisar",
+  "mekan": "Radyo/TV",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/dijital-donusumun-hayatimizdaki-izleri",
+  "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_apjlf.jpg"
+ },
+ {
+  "id": "4155d6384e0d",
+  "baslik": "Farmakovijilans",
+  "tarih": "2026-11-02",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Ortahisar",
+  "mekan": "Derslik 1",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.ktu.edu.tr/dents/etkinlik/farmakovijilans",
+  "gorsel": "https://www.ktu.edu.tr/slayt/etk/y7Ue5c.jpg"
+ },
+ {
   "id": "f37ae37205fd",
   "baslik": "İnsancıklar",
   "tarih": "2026-10-31",

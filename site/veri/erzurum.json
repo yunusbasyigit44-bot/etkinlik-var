@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-02T06:51+03:00",
+ "guncelleme": "2026-11-03T06:49+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -25,20 +25,20 @@
  ],
  "etkinlikler": [
   {
-   "id": "e188b647a77b",
-   "baslik": "Toefl ibt Eğitimi",
-   "tarih": "2026-11-02",
+   "id": "72a5f5bb2070",
+   "baslik": "TÜBİTAK 2209-A 2209-B Çevrim İçi Bilgilendirme",
+   "tarih": "2026-11-03",
    "bitis": null,
-   "saat": "18:00",
+   "saat": "15:00",
    "ilce": "Yakutiye",
    "mekan": "Atatürk Üniversitesi",
-   "kategori": "Atölye",
+   "kategori": "Diğer",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Atatürk Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://atauni.edu.tr/etkinlik/toefl-ibt-egitimi/",
-   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/10/tedfl-819x1024.jpeg"
+   "kaynak_url": "https://atauni.edu.tr/etkinlik/tubitak-2209-a-2209-b-cevrim-ici-bilgilendirme/",
+   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/tubitak_toplant-731x1024.png"
   },
   {
    "id": "63a60108d0c7",
@@ -73,6 +73,22 @@
    "gorsel": "veri/gorsel/dt-delikburunlular-kabilesi.webp"
   },
   {
+   "id": "40392ee8887c",
+   "baslik": "Uzay Bilimleri Ekosistemi ve Türkiye Ulusal Gözlemevleri",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Yakutiye",
+   "mekan": "İİBF Ana Bina B-2 Amfisi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Atatürk Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://atauni.edu.tr/etkinlik/uzay-bilimleri-ekosistemi-ve-turkiye-ulusal-gozlemevleri/",
+   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/uzay.jpeg"
+  },
+  {
    "id": "ac31d2c1b387",
    "baslik": "Cambridge Linguaskill Eğitimi",
    "tarih": "2026-11-04",
@@ -87,6 +103,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://atauni.edu.tr/etkinlik/cambridge-linguaskill-egitimi/",
    "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/10/cambrigde-819x1024.jpeg"
+  },
+  {
+   "id": "ac2851b763ff",
+   "baslik": "Yapay Zeka Destekli Databeeg ile Veri Analizi Eğitimi",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Yakutiye",
+   "mekan": "Atatürk Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Atatürk Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://atauni.edu.tr/etkinlik/yapay-zeka-destekli-databeeg-ile-veri-analizi-egitimi/",
+   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/Yapay-Zeka-Destekli-Databeeg-ile-Veri-Analizi-Egitimi-731x1024.jpeg"
   },
   {
    "id": "83fe743f8982",
@@ -135,6 +167,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://atauni.edu.tr/etkinlik/uluslararasi-orta-koridor-palandoken-sempozyumu/",
    "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/09/2-819x1024.jpg"
+  },
+  {
+   "id": "6b63da75172c",
+   "baslik": "Maxqda ile Yapay Zeka Destekli Nitel Veri Analizi Eğitimi",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Yakutiye",
+   "mekan": "Atatürk Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Atatürk Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://atauni.edu.tr/etkinlik/maxqda-ile-yapay-zeka-destekli-nitel-veri-analizi-egitimi/",
+   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/Maxqda-ile-Yapay-Zeka-Destekli-Nitel-Veri-Analizi-Egitimi-731x1024.jpeg"
   },
   {
    "id": "d486ee68993c",
@@ -441,6 +489,86 @@
    "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/10/zy-731x1024.jpeg"
   },
   {
+   "id": "de457a65daeb",
+   "baslik": "Timur ve Yıldırım",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/timur-ve-yildirim",
+   "gorsel": "veri/gorsel/dt-timur-ve-yildirim.jpg"
+  },
+  {
+   "id": "23f7c15e21fc",
+   "baslik": "Timur ve Yıldırım",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/timur-ve-yildirim",
+   "gorsel": "veri/gorsel/dt-timur-ve-yildirim.jpg"
+  },
+  {
+   "id": "1c29abd32dcc",
+   "baslik": "Timur ve Yıldırım",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/timur-ve-yildirim",
+   "gorsel": "veri/gorsel/dt-timur-ve-yildirim.jpg"
+  },
+  {
+   "id": "5e298b1c7d1b",
+   "baslik": "Timur ve Yıldırım",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/timur-ve-yildirim",
+   "gorsel": "veri/gorsel/dt-timur-ve-yildirim.jpg"
+  },
+  {
+   "id": "f8956b2c2871",
+   "baslik": "Delikburunlular Kabilesi",
+   "tarih": "2026-11-22",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum DT Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/delikburunlular-kabilesi",
+   "gorsel": "veri/gorsel/dt-delikburunlular-kabilesi.webp"
+  },
+  {
    "id": "5b33a337e053",
    "baslik": "YÖKDİL – YDS Kursu",
    "tarih": "2026-11-24",
@@ -478,14 +606,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 19,
    "durum": "çalışıyor"
   },
   {
    "ad": "Atatürk Üniversitesi",
    "tur": "universite",
    "url": "https://atauni.edu.tr/tum-etkinlikler/",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {

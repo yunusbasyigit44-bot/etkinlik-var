@@ -1,6 +1,6 @@
 {
  "il": "mus",
- "guncelleme": "2026-11-02T07:05+03:00",
+ "guncelleme": "2026-11-03T07:04+03:00",
  "ilceler": [
   "Merkez",
   "Bulanık",
@@ -9,8 +9,32 @@
   "Malazgirt",
   "Varto"
  ],
- "etkinlikler": [],
+ "etkinlikler": [
+  {
+   "id": "138e2fbd6b54",
+   "baslik": "EEG Sinyallerinden...",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/eeg-sinyallerinde-9630",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1793624664.jpg"
+  }
+ ],
  "kaynaklar": [
+  {
+   "ad": "Muş Alparslan Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.alparslan.edu.tr/tr/page/event",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
@@ -38,13 +62,6 @@
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "etkinlik takvimi bulunamadı"
-  },
-  {
-   "ad": "Muş Alparslan Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.alparslan.edu.tr/tr/page/event",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Muş Alparslan Üniversitesi Etkinlik Takvimi (etakvim)",

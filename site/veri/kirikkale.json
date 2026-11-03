@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-02T07:10+03:00",
+ "guncelleme": "2026-11-03T07:10+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -54,7 +54,7 @@
    "tur": "universite",
    "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: The read operation timed out"
   },
   {
    "ad": "Kırıkkale İl Kültür ve Turizm Müdürlüğü",
