@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-11-03T06:56+03:00",
+ "guncelleme": "2026-11-04T06:55+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -193,54 +193,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.konak.bel.tr/tr/etkinlikler/etkinlik/zamanin-dokusu",
    "gorsel": "https://www.konak.bel.tr/upload/activity/9dccf9bd-fe3e-4949-9403-e18f613830e7_6adf35065a7b6.jpg"
-  },
-  {
-   "id": "3ea6814e6aae",
-   "baslik": "Kanlı Nigar",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kanli-nigar",
-   "gorsel": "veri/gorsel/dt-kanli-nigar.webp"
-  },
-  {
-   "id": "a2aa161ea52e",
-   "baslik": "Nihayet Makamı",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nihayet-makami",
-   "gorsel": "veri/gorsel/dt-nihayet-makami.jpg"
-  },
-  {
-   "id": "3b33c0883e30",
-   "baslik": "Barok Akşamı",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Konak",
-   "mekan": "Elhamra Sahnesi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/barok-aksami-izmir-dob",
-   "gorsel": "veri/gorsel/dob-3-3400.webp"
   },
   {
    "id": "09412a6432e4",
@@ -1123,6 +1075,22 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-19/3c4fadb6-3c09-4d60-a6cc-8c2820ce0515-4pjtsjw1.jpg"
   },
   {
+   "id": "0f9f8c29916d",
+   "baslik": "Bir Tenor Aranıyor",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Necdet Aydın Salonu",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/bir-tenor-araniyor-izmir-dob",
+   "gorsel": "veri/gorsel/dob-3-606.webp"
+  },
+  {
    "id": "0610ab81da31",
    "baslik": "Rüstemoğlu Cemal'in Tuhaf Hikâyesi",
    "tarih": "2026-11-17",
@@ -1544,7 +1512,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 50,
+   "etkinlik_sayisi": 48,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "sivas",
- "guncelleme": "2026-11-03T07:07+03:00",
+ "guncelleme": "2026-11-04T07:05+03:00",
  "ilceler": [
   "Merkez",
   "Akıncılar",
@@ -21,38 +21,6 @@
   "Zara"
  ],
  "etkinlikler": [
-  {
-   "id": "bb61accdbe08",
-   "baslik": "Çayırın En Tuhaf Yuvası",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Merkez",
-   "mekan": "Sivas DT Fuaye",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/cayirin-en-tuhaf-yuvasi",
-   "gorsel": "veri/gorsel/dt-cayirin-en-tuhaf-yuvasi.jpg"
-  },
-  {
-   "id": "db8f10ea8733",
-   "baslik": "Geleceği İnşa Et: Girişimcinin Yolculuğu-Ergün Kırlıkovalı",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sivas Cumhuriyet Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Geleceği İnşa Et: Girişimcinin Yolculuğu-Ergün Kırlıkovalı",
-   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19095-gelecegi-insa-et-girisimcinin-yolculugu-ergun-kirlikovali",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/190/Gelecegi-insa-Et--Girisimcinin-Yolculugu-Ergun-Kirlikovali-10178.jpg"
-  },
   {
    "id": "3afabcf910e0",
    "baslik": "Çayırın En Tuhaf Yuvası",
@@ -427,14 +395,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {
    "ad": "Sivas Cumhuriyet Üniversitesi",
    "tur": "universite",
    "url": "https://www.cumhuriyet.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 5,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

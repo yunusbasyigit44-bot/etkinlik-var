@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-03T06:52+03:00",
+ "guncelleme": "2026-11-04T06:51+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -33,54 +33,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg"
-  },
-  {
-   "id": "22e854126041",
-   "baslik": "IP Öncüleri 2026: Eskişehir Projesi Açılış Töreni",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": "Törenler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ip-onculeri-2026-eskisehir-projesi-acilis-toreni-1793355817",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae46ff0ad712.jpg"
-  },
-  {
-   "id": "0c7b2480df51",
-   "baslik": "Toplumsal Katkı Eğitimi",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/toplumsal-katki-1790938605",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8dd75d893.jpg"
-  },
-  {
-   "id": "74501706c979",
-   "baslik": "Gelenekten Bilime Turşu Kurma Atölyesi",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "14:15",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/gelenekten-bilime-tursu-kurma-1792484438",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad724356b63e.jpg"
   },
   {
    "id": "bcdfe6ee17f9",
@@ -211,6 +163,22 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad718908d255.jpg"
   },
   {
+   "id": "4a1019952623",
+   "baslik": "15. Dönem Karikatür Atölyeleri Başlıyor",
+   "tarih": "2026-11-07",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Tepebaşı",
+   "mekan": "ATİLLA ÖZER KARİKATÜRLÜ EV",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tepebaşı Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.tepebasi.bel.tr/Etkinlikler/Detay/15-donem-karikatur-atolyeleri-basliyor",
+   "gorsel": null
+  },
+  {
    "id": "6bec2b7cfab4",
    "baslik": "Güvenli Binalar ve Hazırlıklı Mahalleler: Şirintepe'de Afet Hazırlığı, Gönüllülük ve Sivil Katılım Projesi",
    "tarih": "2026-11-07",
@@ -225,6 +193,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/guvenli-binalar-ve-hazirlikli-mahalleler-sirintepede-afet-hazirligi-gonulluluk-1792501288",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad76612502cf.jpg"
+  },
+  {
+   "id": "f84e7706f17d",
+   "baslik": "Din, Tarih ve Felsefe Sohbetleri",
+   "tarih": "2026-11-07",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Tepebaşı",
+   "mekan": "ÖZDİLEK SANAT MERKEZİ",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tepebaşı Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.tepebasi.bel.tr/Etkinlikler/Detay/din-tarih-ve-felsefe-sohbetleri",
+   "gorsel": null
   },
   {
    "id": "cd432e1de66f",
@@ -1203,6 +1187,54 @@
    "gorsel": null
   },
   {
+   "id": "3a8e991f2a0f",
+   "baslik": "Bir Bizans Sınır Kalesinin Hikayesi: Harmantepe",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminerler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/bir-bizans-sinir-kalesinin-hikayesi-harmantepe-1791187959",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35bde7bf6a.jpg"
+  },
+  {
+   "id": "fe4fae977120",
+   "baslik": "Es Es Tayfa Gitar Üçlüsü",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser ve Dinletiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/es-es-tayfa-gitar-uclusu-1792482199",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71b71bd420.jpg"
+  },
+  {
+   "id": "0f2c0469c5a2",
+   "baslik": "Ozan Akçay \"Gitar Resitali",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "17:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser ve Dinletiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ozan-akcay-gitar-resitali-1792482267",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71bc6665b7.jpg"
+  },
+  {
    "id": "3d2fc0b03178",
    "baslik": "Verimsizler",
    "tarih": "2026-11-27",
@@ -1270,7 +1302,7 @@
    "ad": "Tepebaşı Belediyesi",
    "tur": "belediye",
    "url": "https://www.tepebasi.bel.tr/Etkinlikler",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

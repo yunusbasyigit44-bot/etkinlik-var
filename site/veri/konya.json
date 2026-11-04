@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-03T06:59+03:00",
+ "guncelleme": "2026-11-04T06:57+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,86 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "5ca577c14e52",
-   "baslik": "COP 31 Yolunda İklim Değişikliği Eyleminde Yerel Yönetimlerin Üniversite ile İş Birliği",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "09:30",
-   "ilce": "Meram",
-   "mekan": "Necmettin Erbakan Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Sosyal Fayda",
-   "kaynak_ad": "Necmettin Erbakan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/cop-31-yolunda-iklim-degisikligi-eyleminde-yerel-yonetimlerin-universite-ile-is-birligi-2534",
-   "gorsel": null
-  },
-  {
-   "id": "41e5a37c6095",
-   "baslik": "Eğlence Dünyası",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/eglence-dunyasi",
-   "gorsel": "veri/gorsel/dt-eglence-dunyasi.webp"
-  },
-  {
-   "id": "d2351d9c9d55",
-   "baslik": "Eğlence Dünyası",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/eglence-dunyasi",
-   "gorsel": "veri/gorsel/dt-eglence-dunyasi.webp"
-  },
-  {
-   "id": "b27bbc0f56d5",
-   "baslik": "Bando ve Mehteran Takımı",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/bando-ve-mehteran-takimi/1023",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAyBilmjccQ296naROtXR3SHNgU-hwjQ.jpeg"
-  },
-  {
-   "id": "c0f424bebb4c",
-   "baslik": "Konya Okulu - Rıfat Oral",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-rifat-oral/1210",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/SApHSIWb-TuZ-BJe80RLqrN0XUkZix2x.jpeg"
-  },
   {
    "id": "eca12d649596",
    "baslik": "Eğlence Dünyası",
@@ -177,6 +97,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/esas-misafir",
    "gorsel": "veri/gorsel/dt-esas-misafir.jpg"
+  },
+  {
+   "id": "c04660b0689c",
+   "baslik": "Bando ve Mehteran Takımı",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Geleneksel Müzik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/bando-ve-mehteran-takimi/1023",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAyBilmjccQ296naROtXR3SHNgU-hwjQ.jpeg"
   },
   {
    "id": "a85d7b78bd43",
@@ -259,6 +195,22 @@
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/6TepHQzXi6VI1DNDtStZvN6yS99vrmzr.jpeg"
   },
   {
+   "id": "30bf3b0962cf",
+   "baslik": "Şehir Konferansları - Akşehir",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-aksehir/1336",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/sUqLlXWBvy4zSwrekz1DBxmULKECHTgO.jpeg"
+  },
+  {
    "id": "738a9429a23f",
    "baslik": "Konya Okulu - Prof. Dr. İbrahim Işıtan",
    "tarih": "2026-11-06",
@@ -339,6 +291,38 @@
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/rDq9Q0TPY6VfiNgCpIQW7D8nJ2a-fvLC.jpeg"
   },
   {
+   "id": "4791cc7eac5d",
+   "baslik": "Şehir Konferansları - Ilgın",
+   "tarih": "2026-11-07",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-ilgin/1337",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/MCyVkSRYdN1xiIPgNT7ZCtOnMRT3cf8I.jpeg"
+  },
+  {
+   "id": "481ceb016203",
+   "baslik": "Şehir Konferansları - Kadınhanı",
+   "tarih": "2026-11-08",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-kadinhani/1338",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/i0SqBQOC-hEr4DHOsTJe9cK4JMYNs4f2.jpeg"
+  },
+  {
    "id": "216d278cfea8",
    "baslik": "Konya Okulu - Prof. Dr. Ali Akpınar",
    "tarih": "2026-11-09",
@@ -368,6 +352,38 @@
    "kaynak_ad": "Necmettin Erbakan Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/ataturk-un-sevdigi-sarkilar-konseri-2510",
+   "gorsel": null
+  },
+  {
+   "id": "3c6c557d3c28",
+   "baslik": "Konya Okulu - Rıfat Oral",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-rifat-oral/1210",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/SApHSIWb-TuZ-BJe80RLqrN0XUkZix2x.jpeg"
+  },
+  {
+   "id": "490e5f5f0d36",
+   "baslik": "Milli Ağaçlandırma Günü",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Meram",
+   "mekan": "Necmettin Erbakan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Sosyo-Kültürel",
+   "kaynak_ad": "Necmettin Erbakan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/milli-agaclandirma-gunu-2539",
    "gorsel": null
   },
   {
@@ -677,16 +693,16 @@
  ],
  "kaynaklar": [
   {
-   "ad": "Devlet Tiyatroları",
-   "tur": "kultur",
-   "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 17,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
+   "etkinlik_sayisi": 18,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 15,
    "durum": "çalışıyor"
   },

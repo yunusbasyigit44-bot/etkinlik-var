@@ -1,6 +1,6 @@
 {
  "il": "aksaray",
- "guncelleme": "2026-11-03T07:09+03:00",
+ "guncelleme": "2026-11-04T07:07+03:00",
  "ilceler": [
   "Merkez",
   "Ağaçören",
@@ -12,6 +12,22 @@
   "Sultanhanı"
  ],
  "etkinlikler": [
+  {
+   "id": "e8a4633f542b",
+   "baslik": "Öğrenci Koçluğu ve Eğitim Danışmanlığı Sertifika Programı",
+   "tarih": "2026-09-30",
+   "bitis": "2026-11-13",
+   "saat": "08:00",
+   "ilce": "Merkez",
+   "mekan": "ASÜ Sürekli Eğitim Merkezi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/ogrenci-koclugu-ve-egitim-danismanligi-sertifika-programi",
+   "gorsel": null
+  },
   {
    "id": "16a19246e1b1",
    "baslik": "CNC Torna Operatörlüğü Kursu",
@@ -26,6 +42,22 @@
    "kaynak_ad": "Aksaray Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.aksaray.edu.tr/cnc-torna-operatorlugu-kursu",
+   "gorsel": null
+  },
+  {
+   "id": "f8d6eef83a39",
+   "baslik": "ASÜ Sahnede Müzik Yetenek Yarışması",
+   "tarih": "2026-11-15",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Merkez",
+   "mekan": "Aksaray Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/asu-sahnede-muzik-yetenek-yarismasi-2",
    "gorsel": null
   },
   {
@@ -50,7 +82,7 @@
    "ad": "Aksaray Üniversitesi",
    "tur": "universite",
    "url": "https://www.aksaray.edu.tr/Etkinlik-takvimi",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

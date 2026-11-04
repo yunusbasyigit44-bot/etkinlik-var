@@ -1,6 +1,6 @@
 {
  "il": "karaman",
- "guncelleme": "2026-11-03T07:09+03:00",
+ "guncelleme": "2026-11-04T07:07+03:00",
  "ilceler": [
   "Merkez",
   "Ayrancı",
@@ -10,54 +10,6 @@
   "Sarıveliler"
  ],
  "etkinlikler": [
-  {
-   "id": "f1240af35e83",
-   "baslik": "Çadir Kurma Egitimi",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4130",
-   "gorsel": null
-  },
-  {
-   "id": "32021a6ce9b2",
-   "baslik": "Satranç Turnuvasi",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4129",
-   "gorsel": null
-  },
-  {
-   "id": "c8e44f4826b1",
-   "baslik": "Toplanti",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4131",
-   "gorsel": null
-  },
   {
    "id": "415ae559c3e5",
    "baslik": "Egitim",
@@ -464,7 +416,7 @@
    "ad": "Karamanoğlu Mehmetbey Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.kmu.edu.tr/index.aspx",
-   "etkinlik_sayisi": 28,
+   "etkinlik_sayisi": 25,
    "durum": "çalışıyor"
   },
   {

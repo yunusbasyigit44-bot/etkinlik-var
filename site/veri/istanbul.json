@@ -1,6 +1,6 @@
 {
  "il": "istanbul",
- "guncelleme": "2026-11-03T06:54+03:00",
+ "guncelleme": "2026-11-04T06:53+03:00",
  "ilceler": [
   "Adalar",
   "Arnavutköy",
@@ -122,102 +122,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.itu.edu.tr/EtkinlikDetay.aspx?etkinlik=2668",
    "gorsel": "https://etkinlik.itu.edu.tr/uploads/etkinlik/0a897693-5b5c-4b29-827f-c48c5187b84b.png"
-  },
-  {
-   "id": "b45dd7949a07",
-   "baslik": "Callback",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Şişli",
-   "mekan": "Mecidiyeköy Stüdyo Sahne",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/callback",
-   "gorsel": "veri/gorsel/dt-callback.jpg"
-  },
-  {
-   "id": "d5048a504128",
-   "baslik": "Ulusal Müziğimiz - Selman Ada",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Kadıköy",
-   "mekan": "Kadıköy Belediyesi Süreyya Operası",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/ulusal-muzigimiz-selman-ada-istanbul-dob",
-   "gorsel": "veri/gorsel/dob-2-3368.webp"
-  },
-  {
-   "id": "218bd9230d1f",
-   "baslik": "Dokuz Kraliçe",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Kadıköy",
-   "mekan": "Sinematek/Sinema Evi",
-   "kategori": "Sinema",
-   "ucretsiz": true,
-   "ozet": "Yeni Arjantin Sineması’nın ana akım sinemaya yakın duran önemli örneklerinden Dokuz Kraliçe, hiçbir şeyin göründüğü gibi olmadığı bir dolandırıcılık hikâyesi üzerinden politik ve ekonomik krizin eşiğindeki Arjantin’in na…",
-   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/dokuz-kralice-3-11-26",
-   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/dokuz-kralice-de2bf237-a8c6-4c89-9a92-91e25b2b6e34.jpg"
-  },
-  {
-   "id": "6bbffb4ee9b0",
-   "baslik": "Aslında Kaşık Yok",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Şişli",
-   "mekan": "Mecidiyeköy Büyük Sahne",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/aslinda-kasik-yok",
-   "gorsel": "veri/gorsel/dt-aslinda-kasik-yok.webp"
-  },
-  {
-   "id": "4b2dfdb881e9",
-   "baslik": "Sesler",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:30",
-   "ilce": "Kadıköy",
-   "mekan": "Caddebostan Kültür Merkezi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Salih Bademci tek kişilik muhteşem bir performansla sezon boyunca izleyici karşısında.",
-   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/sesler-3-11-26",
-   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/sesler-26b4a559-a30e-4668-b1b3-3ed5976db8bf.jpg"
-  },
-  {
-   "id": "4d8c54cfda04",
-   "baslik": "Bir Delinin Hatıra Defteri",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:30",
-   "ilce": "Kadıköy",
-   "mekan": "Barış Manço Kültür Merkezi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Görünür olma arzusu ve toplumsal baskıyla şekillenen Bir Delinin Hatıra Defteri, bugünün kalabalık yalnızlıklarına ve bastırılmış hayallerine zamansız bir çentik atıyor.",
-   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/bir-delinin-hatira-defteri-3-11-26",
-   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/bir-delinin-hatira-defteri-4487b864-4a50-42b5-adae-3e679ad9abe1.jpg"
   },
   {
    "id": "0f1eb816e30d",
@@ -412,22 +316,6 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/8be0925b62394ce4ba8f56b47d85b0d3.jpg"
   },
   {
-   "id": "40658bcbf60a",
-   "baslik": "Hayalî'nin Hayali",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ümraniye",
-   "mekan": "Ümraniye Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/hayalnin-hayali",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/175191db6c864ba5b440fe713f6f106a.png"
-  },
-  {
    "id": "72f69c673fa1",
    "baslik": "Yenilmez",
    "tarih": "2026-11-04",
@@ -540,6 +428,38 @@
    "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/terapist-7df430c3-c574-4af8-9a7b-a0317c8da1cf.jpg"
   },
   {
+   "id": "e5d7b25cbfab",
+   "baslik": "Veda Yemeği",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "20:30",
+   "ilce": "Kadıköy",
+   "mekan": "Caddebostan Kültür Merkezi",
+   "kategori": "Komedi",
+   "ucretsiz": true,
+   "ozet": "Toplumsal kuralları, arkadaşlık tabularını ve çiftlerin uyumsuzluğunu ortaya seren acımasız bir kara komedi.",
+   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/veda-yemegi-4-11-26",
+   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/veda-yemegi-0dfd7cc4-b5f9-4009-a5db-2725f3e29a29.jpg"
+  },
+  {
+   "id": "533ee35dd27f",
+   "baslik": "Hadi Öldürsene Canikom",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "20:30",
+   "ilce": "Kadıköy",
+   "mekan": "Kozyatağı Kültür Merkezi",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": "Aziz Nesin, Hadi Öldürsene Canikom ile yalnızlığı, yaşlılığı, özlemleri ve içimizde saklı kalan o çocuksu yanı hınzır ve sarsıcı kalemiyle sorgulatıyor. Sıcak, tanıdık ve dokunaklı bir hikâye…",
+   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/hadi-oldursene-canikom-4-11-26",
+   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/hadi-oldursene-canikom-7a7476f5-c8db-4360-b7ac-a612dc9346ae.jpg"
+  },
+  {
    "id": "fdbca97913a4",
    "baslik": "IEEE AP-S ITU DL Workshop",
    "tarih": "2026-11-05",
@@ -570,6 +490,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/callback",
    "gorsel": "veri/gorsel/dt-callback.jpg"
+  },
+  {
+   "id": "c38ee200b682",
+   "baslik": "Khalkedon’dan Olympos’a: Mitlerin İzinde",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": "18:30",
+   "ilce": "Kadıköy",
+   "mekan": "Tarih, Edebiyat ve Sanat Kütüphanesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "TESAK Mitoloji Söyleşileri - Konuşmacı: Prof. Dr. Bergen Coşkun",
+   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/khalkedondan-olymposa-mitlerin-izinde-5-11-26",
+   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/khalkedondan-olymposa-mitlerin-izinde-bd3ad7ec-1a9e-44af-95fc-1b6ede7f6fdb.jpg"
   },
   {
    "id": "a173989d3767",
@@ -668,22 +604,6 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/8be0925b62394ce4ba8f56b47d85b0d3.jpg"
   },
   {
-   "id": "c575eb7c4285",
-   "baslik": "Hayalî'nin Hayali",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ümraniye",
-   "mekan": "Ümraniye Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/hayalnin-hayali",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/175191db6c864ba5b440fe713f6f106a.png"
-  },
-  {
    "id": "e03713318701",
    "baslik": "Yenilmez",
    "tarih": "2026-11-05",
@@ -698,6 +618,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/yenilmez",
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/117d2b469cd54f0abf731fb32b73959f.jpeg"
+  },
+  {
+   "id": "1f79f197a273",
+   "baslik": "Maya Deren - 1. Bölüm",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Kadıköy",
+   "mekan": "Sinematek/Sinema Evi",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": "Maya Deren - 1. Bölüm’de İkindi Tuzakları, Dönüşen Zamanda Ritüel ve Gecenin Ta Kendisi filmleri art arda gösterilecektir. Toplam süre 44 dakikadır.",
+   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/maya-deren-1-bolum-5-11-26",
+   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/maya-deren-1-bolum-43032122-9ffb-44a0-8ea7-66356919a822.jpg"
   },
   {
    "id": "9e48462b376e",
@@ -858,22 +794,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/arturo-uinin-onlenebilir-tirmanisi-izmir-bb-sehir-tiyatrolari",
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/8be0925b62394ce4ba8f56b47d85b0d3.jpg"
-  },
-  {
-   "id": "cfb6fe960059",
-   "baslik": "Hayalî'nin Hayali",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ümraniye",
-   "mekan": "Ümraniye Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/hayalnin-hayali",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/175191db6c864ba5b440fe713f6f106a.png"
   },
   {
    "id": "770f23b40eb9",
@@ -1068,22 +988,6 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/8be0925b62394ce4ba8f56b47d85b0d3.jpg"
   },
   {
-   "id": "103abfaf0eea",
-   "baslik": "Hayalî'nin Hayali",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Ümraniye",
-   "mekan": "Ümraniye Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/hayalnin-hayali",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/175191db6c864ba5b440fe713f6f106a.png"
-  },
-  {
    "id": "d2b834f84691",
    "baslik": "Yenilmez",
    "tarih": "2026-11-07",
@@ -1276,22 +1180,6 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/8be0925b62394ce4ba8f56b47d85b0d3.jpg"
   },
   {
-   "id": "177c194c3380",
-   "baslik": "Hayalî'nin Hayali",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ümraniye",
-   "mekan": "Ümraniye Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/hayalnin-hayali",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/175191db6c864ba5b440fe713f6f106a.png"
-  },
-  {
    "id": "c953dfd723d8",
    "baslik": "Yenilmez",
    "tarih": "2026-11-07",
@@ -1420,6 +1308,22 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/faaae22304284d27b08f1f55f8f6872f.jpg"
   },
   {
+   "id": "ead68098d707",
+   "baslik": "Çöpsüz Dünya",
+   "tarih": "2026-11-08",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Çocuk Oyunu",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/copsuz-dunya",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/767a7106753f474b817deb00c1a4f7e5.jpg"
+  },
+  {
    "id": "e3c223847e86",
    "baslik": "Oh Ne Âlâ Memleket",
    "tarih": "2026-11-08",
@@ -1450,6 +1354,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/benim-kucuk-yildizim",
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/faaae22304284d27b08f1f55f8f6872f.jpg"
+  },
+  {
+   "id": "4f151afe3577",
+   "baslik": "Çöpsüz Dünya",
+   "tarih": "2026-11-08",
+   "bitis": null,
+   "saat": "16:00",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Çocuk Oyunu",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/copsuz-dunya",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/767a7106753f474b817deb00c1a4f7e5.jpg"
   },
   {
    "id": "c1feba105800",
@@ -1676,6 +1596,22 @@
    "gorsel": "veri/gorsel/dt-misafir-.webp"
   },
   {
+   "id": "1133f30641c5",
+   "baslik": "Romeo ve Julıet",
+   "tarih": "2026-11-14",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Beyoğlu",
+   "mekan": "AKM Türk Telekom Opera Salonu",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/romeo-ve-juliet-idob-akm",
+   "gorsel": "veri/gorsel/dob-2-3066.webp"
+  },
+  {
    "id": "fcd715c060e8",
    "baslik": "Sumud (Gazze)",
    "tarih": "2026-11-14",
@@ -1756,6 +1692,22 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/faaae22304284d27b08f1f55f8f6872f.jpg"
   },
   {
+   "id": "70ef15f97bdb",
+   "baslik": "Çöpsüz Dünya",
+   "tarih": "2026-11-15",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Çocuk Oyunu",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/copsuz-dunya",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/767a7106753f474b817deb00c1a4f7e5.jpg"
+  },
+  {
    "id": "2f17378777bd",
    "baslik": "Kırmızı Küre",
    "tarih": "2026-11-15",
@@ -1786,6 +1738,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/benim-kucuk-yildizim",
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/faaae22304284d27b08f1f55f8f6872f.jpg"
+  },
+  {
+   "id": "189cbea147dc",
+   "baslik": "Çöpsüz Dünya",
+   "tarih": "2026-11-15",
+   "bitis": null,
+   "saat": "16:00",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Çocuk Oyunu",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/copsuz-dunya",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/767a7106753f474b817deb00c1a4f7e5.jpg"
   },
   {
    "id": "b0f35cf17000",
@@ -2092,22 +2060,6 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/9f88e8aa8d5c4dcaba860a9ed8ff0547.jpg"
   },
   {
-   "id": "9a6251a8de75",
-   "baslik": "Hayalî'nin Hayali",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Üsküdar",
-   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/hayalnin-hayali",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/175191db6c864ba5b440fe713f6f106a.png"
-  },
-  {
    "id": "6285d7487b24",
    "baslik": "KÖPEK KALBİ",
    "tarih": "2026-11-25",
@@ -2138,22 +2090,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/sivrisinekler-",
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/9f88e8aa8d5c4dcaba860a9ed8ff0547.jpg"
-  },
-  {
-   "id": "71ef6ea4915b",
-   "baslik": "Hayalî'nin Hayali",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Üsküdar",
-   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/hayalnin-hayali",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/175191db6c864ba5b440fe713f6f106a.png"
   },
   {
    "id": "e4155642c6b3",
@@ -2204,22 +2140,6 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/9f88e8aa8d5c4dcaba860a9ed8ff0547.jpg"
   },
   {
-   "id": "55c31997f6dd",
-   "baslik": "Hayalî'nin Hayali",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Üsküdar",
-   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/hayalnin-hayali",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/175191db6c864ba5b440fe713f6f106a.png"
-  },
-  {
    "id": "8ac577cf9a36",
    "baslik": "KÖPEK KALBİ",
    "tarih": "2026-11-27",
@@ -2250,22 +2170,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/sivrisinekler-",
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/9f88e8aa8d5c4dcaba860a9ed8ff0547.jpg"
-  },
-  {
-   "id": "acec481c77d2",
-   "baslik": "Hayalî'nin Hayali",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Üsküdar",
-   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/hayalnin-hayali",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/175191db6c864ba5b440fe713f6f106a.png"
   },
   {
    "id": "454f3857ae56",
@@ -2300,22 +2204,6 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/9f88e8aa8d5c4dcaba860a9ed8ff0547.jpg"
   },
   {
-   "id": "ee6d66b38b6f",
-   "baslik": "Hayalî'nin Hayali",
-   "tarih": "2026-11-28",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Üsküdar",
-   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/hayalnin-hayali",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/175191db6c864ba5b440fe713f6f106a.png"
-  },
-  {
    "id": "dcd6be0db764",
    "baslik": "KÖPEK KALBİ",
    "tarih": "2026-11-28",
@@ -2346,22 +2234,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/sivrisinekler-",
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/9f88e8aa8d5c4dcaba860a9ed8ff0547.jpg"
-  },
-  {
-   "id": "523598eb8f28",
-   "baslik": "Hayalî'nin Hayali",
-   "tarih": "2026-11-28",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Üsküdar",
-   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/hayalnin-hayali",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/175191db6c864ba5b440fe713f6f106a.png"
   }
  ],
  "kaynaklar": [
@@ -2369,14 +2241,14 @@
    "ad": "İBB Şehir Tiyatroları",
    "tur": "belediye",
    "url": "https://sehirtiyatrolari.ibb.istanbul",
-   "etkinlik_sayisi": 66,
+   "etkinlik_sayisi": 59,
    "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 54,
+   "etkinlik_sayisi": 52,
    "durum": "çalışıyor"
   },
   {
@@ -2397,7 +2269,7 @@
    "ad": "İstanbul Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.itu.edu.tr",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

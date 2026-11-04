@@ -1,6 +1,6 @@
 {
  "il": "diyarbakir",
- "guncelleme": "2026-11-03T06:47+03:00",
+ "guncelleme": "2026-11-04T06:47+03:00",
  "ilceler": [
   "Bağlar",
   "Bismil",
@@ -21,38 +21,6 @@
   "Yenişehir"
  ],
  "etkinlikler": [
-  {
-   "id": "4bdc753f6058",
-   "baslik": "Gün Eksilmesin Penceremden",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yenişehir",
-   "mekan": "Oda Tiyatrosu Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gun-eksilmesin-penceremden",
-   "gorsel": "veri/gorsel/dt-gun-eksilmesin-penceremden.jpg"
-  },
-  {
-   "id": "4554bcfcb1f4",
-   "baslik": "İklim Mücadelesinde Ulaşımın Rolü: Cop31'i Anlamak",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Sur",
-   "mekan": "Dicle Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Dicle Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/iklim-mucadelesinde-ulasimin-rolu-cop31i-anlamak-12993",
-   "gorsel": "https://www.dicle.edu.tr/contents/events/photos/9bfd5a68-622a-4d23-be9e-313049f6866c/ss_thumb_489fd34918ea4115a7e8942fc810c11c_IMG-20261030-WA0018.jpg"
-  },
   {
    "id": "ade9f1c8eb4b",
    "baslik": "Antepfıstığı ve Badem Yetiştiriciliğinde Zararlı ve Hastalık Yönetimi",
@@ -667,15 +635,15 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 24,
+   "etkinlik_sayisi": 23,
    "durum": "çalışıyor"
   },
   {
    "ad": "Dicle Üniversitesi",
    "tur": "universite",
    "url": "https://www.dicle.edu.tr/etkinlikler/tumu",
-   "etkinlik_sayisi": 11,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 10,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Diyarbakır Büyükşehir Belediyesi",

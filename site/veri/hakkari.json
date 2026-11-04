@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-11-03T06:52+03:00",
+ "guncelleme": "2026-11-04T06:52+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -9,6 +9,22 @@
   "Yüksekova"
  ],
  "etkinlikler": [
+  {
+   "id": "7b476a22bf45",
+   "baslik": "Savaşın Çocuklar Üzerindeki Psikolojik Etkileri",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "12:00",
+   "ilce": "Merkez",
+   "mekan": "Rektörlük Konferans Salonu",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": "Sergi",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/536/savasin-cocuklar-uzerindeki-psikolojik-etkileri",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/536/cover/thumb/b638785f5f6b45d5b61cd72f86aaa53f.webp"
+  },
   {
    "id": "2bf5f058840d",
    "baslik": "2026-2027 Akademik Yılı Açılış Töreni",
@@ -56,6 +72,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/484/2-uluslararasi-mezopotamya-bilimsel-arastirmalar-kongresi",
    "gorsel": "https://hubis.hakkari.edu.tr/media/event/484/cover/thumb/8af93e1e490c43319ba166823d9e1476.webp"
+  },
+  {
+   "id": "c5f388c89cda",
+   "baslik": "\"Saygılı Yaşam ve Güvenli İlişkiler\" Eğitimi",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Merkez",
+   "mekan": "Esma Bnt El-Hakkari Konferans Salonu (1. Kat)",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/538/%22saygili-yasam-ve-guvenli-iliskiler%22-egitimi",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/538/cover/thumb/eba1b56c168841739a860475accb5c31.webp"
   }
  ],
  "kaynaklar": [
@@ -63,7 +95,7 @@
    "ad": "Hakkari Üniversitesi",
    "tur": "universite",
    "url": "https://www.hakkari.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

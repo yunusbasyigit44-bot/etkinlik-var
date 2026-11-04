@@ -1,5 +1,21 @@
 [
  {
+  "id": "72a5f5bb2070",
+  "baslik": "TÜBİTAK 2209-A 2209-B Çevrim İçi Bilgilendirme",
+  "tarih": "2026-11-03",
+  "bitis": null,
+  "saat": "15:00",
+  "ilce": "Yakutiye",
+  "mekan": "Atatürk Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Atatürk Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://atauni.edu.tr/etkinlik/tubitak-2209-a-2209-b-cevrim-ici-bilgilendirme/",
+  "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/tubitak_toplant-731x1024.png"
+ },
+ {
   "id": "e188b647a77b",
   "baslik": "Toefl ibt Eğitimi",
   "tarih": "2026-11-02",

@@ -1,6 +1,6 @@
 {
  "il": "cankiri",
- "guncelleme": "2026-11-03T06:46+03:00",
+ "guncelleme": "2026-11-04T06:46+03:00",
  "ilceler": [
   "Merkez",
   "Atkaracalar",
@@ -16,22 +16,6 @@
   "Yapraklı"
  ],
  "etkinlikler": [
-  {
-   "id": "0fa351dba26c",
-   "baslik": "Nuri Özkan'la Türkü Gecesi",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8688",
-   "gorsel": "https://medya.karatekin.edu.tr/sites/karatekin/etkinlikler/20261026_163202_6097bccef0e049d98aca0d02ea44a5cb.jpeg"
-  },
   {
    "id": "11599961431e",
    "baslik": "Sürdürülebilir Kalkınma Politikaları: Dönüşüm ve Uyum İçin Eylem Teşviki",
@@ -54,7 +38,7 @@
    "ad": "Çankırı Karatekin Üniversitesi",
    "tur": "universite",
    "url": "https://www.karatekin.edu.tr/tum-etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

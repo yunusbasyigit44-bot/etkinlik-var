@@ -1,6 +1,6 @@
 {
  "il": "erzincan",
- "guncelleme": "2026-11-03T06:48+03:00",
+ "guncelleme": "2026-11-04T06:48+03:00",
  "ilceler": [
   "Merkez",
   "Çayırlı",
@@ -46,6 +46,22 @@
    "gorsel": null
   },
   {
+   "id": "9073d11e0ad2",
+   "baslik": "Erasmus+-Would You Mind-Set?",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Merkez",
+   "mekan": "Online",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Online Konferans",
+   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://ebyu.edu.tr/etkinlik/erasmus-would-you-mind-set/",
+   "gorsel": null
+  },
+  {
    "id": "f13561030603",
    "baslik": "Bozkırın Kızlarından Küresel Liderlere Türk Dünyasının Kadın Liderleri Kongresi",
    "tarih": "2026-11-12",
@@ -83,7 +99,7 @@
    "ad": "Erzincan Binali Yıldırım Üniversitesi",
    "tur": "universite",
    "url": "https://ebyu.edu.tr/etkinlik/?ical=1",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

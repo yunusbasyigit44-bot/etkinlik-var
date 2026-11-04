@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-03T06:41+03:00",
+ "guncelleme": "2026-11-04T06:41+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -53,22 +53,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261027141418_ekimgecidi_afis.jpeg"
-  },
-  {
-   "id": "8155a5cadf8a",
-   "baslik": "Mucize ve Umudun Adı LÖSEV",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Sandıklı",
-   "mekan": "Sandıklı Meslek Yüksekokulu Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Konferans · Sandikli Meslek Yüksekokulu",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261028171942_whatsapp_image_2026-10-28_at_17.18.48.jpeg"
   },
   {
    "id": "f06b162801b7",
@@ -348,7 +332,7 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 16,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

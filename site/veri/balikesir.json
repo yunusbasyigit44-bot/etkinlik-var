@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-03T06:45+03:00",
+ "guncelleme": "2026-11-04T06:45+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -25,20 +25,36 @@
  ],
  "etkinlikler": [
   {
-   "id": "437d298e2594",
-   "baslik": "BAÜN TTO III. İnovatif Fikirler Proje Pazarı",
-   "tarih": "2026-11-05",
+   "id": "c181e7a696b6",
+   "baslik": "Kur'ân Kıssaları Bize Neyi Anlatır?\" konulu seminer",
+   "tarih": "2026-11-04",
    "bitis": null,
-   "saat": "08:00",
-   "ilce": "Altıeylül",
-   "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi",
+   "saat": "13:30",
+   "ilce": "Bandırma",
+   "mekan": "Prof. Dr. Fuat Sezgin Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bandırma Onyedi Eylül Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste/Kuran-Kissalari-Bize-Neyi-Anlatir-konulu-seminer-1919?k=-1",
+   "gorsel": null
+  },
+  {
+   "id": "1ab8dc2c12d7",
+   "baslik": "31 Ekim Dünya Tasarruf Günü Etkinliği",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Bandırma",
+   "mekan": "Prof. Dr. Fuat Sezgin Konferans Salonu",
    "kategori": "Diğer",
    "ucretsiz": true,
-   "ozet": "Balikesi̇r Üni̇versi̇tesi̇ Teknoloji̇ Transfer Ofi̇si̇",
-   "kaynak_ad": "Balıkesir Üniversitesi",
+   "ozet": null,
+   "kaynak_ad": "Bandırma Onyedi Eylül Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Proje_Pazar%C4%B1_Afi%C5%9Fi_1791958214.jpeg"
+   "kaynak_url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste/31-Ekim-Dunya-Tasarruf-Gunu-Etkinligi-1920?k=-1",
+   "gorsel": null
   },
   {
    "id": "75758c8b79f0",
@@ -121,6 +137,22 @@
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_IMG-20261015-WA0002_1792046277.jpg"
   },
   {
+   "id": "b5740d9abd45",
+   "baslik": "BAÜN TTO III. İnovatif Fikirler Proje Pazarı",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": "23:59",
+   "ilce": "Altıeylül",
+   "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Balikesi̇r Üni̇versi̇tesi̇ Teknoloji̇ Transfer Ofi̇si̇",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Proje_Pazar%C4%B1_Afi%C5%9Fi_1791958214.jpeg"
+  },
+  {
    "id": "00077929927c",
    "baslik": "Konkordato Komiserliği Yenileme Eğitimi",
    "tarih": "2026-11-07",
@@ -135,6 +167,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_konkordato_yenileme_22.10.2026_1792659705.png"
+  },
+  {
+   "id": "4deb6cc7b611",
+   "baslik": "Deney Hayvanları Kullanım Sertifikası Kursu",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "02:00",
+   "ilce": "Altıeylül",
+   "mekan": "DENEY HAYVANLARI ÜRETİM, BAKIM UYGULAMA VE ARAŞTIRMA MERKEZİ",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": "Sürekli̇ Eği̇ti̇m Uygulama Ve Araştirma Merkezi̇ Müdürlüğü",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_13.DENEY_HAYVANLARI_KULLANIM_SERT%C4%B0F%C4%B0KASI_KURSU_1793709594.png"
   },
   {
    "id": "eada9e6a5ffe",
@@ -199,6 +247,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Behcet_Multidisipliner_Sempozyum_1793605174.jpg"
+  },
+  {
+   "id": "791d5daf4eb2",
+   "baslik": "Gençliğin Üretim Çağı Bölgesel Kariyer Fuarı Balıkesir",
+   "tarih": "2026-12-23",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Altıeylül",
+   "mekan": "atatürk kongre ve kültür merkezi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "Basin",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_KAR%C4%B0YER_FUARI_BALIKES%C4%B0R_AF%C4%B0%C5%9E_web_1793692539.jpg"
   }
  ],
  "kaynaklar": [
@@ -206,14 +270,14 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 12,
    "durum": "çalışıyor"
   },
   {
    "ad": "Bandırma Onyedi Eylül Üniversitesi",
    "tur": "universite",
    "url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste?k=-1",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

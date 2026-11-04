@@ -1,5 +1,21 @@
 [
  {
+  "id": "5f570568def9",
+  "baslik": "Geleneğin İzinden",
+  "tarih": "2026-11-03",
+  "bitis": null,
+  "saat": "12:30",
+  "ilce": "Kuşadası",
+  "mekan": "Kuşadası Emine Kutlu Kampüsü Konferans Salonu",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": "Söyleşi ve Dinleti",
+  "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://haber.adu.edu.tr/etkinlik/gelenegin-izinden-2000148578",
+  "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261023141548-Y3SOK0NC58NMNVEIQENL-000038722467782526598531.jpeg"
+ },
+ {
   "id": "5a7fb2921ed7",
   "baslik": "Ud Resitali",
   "tarih": "2026-11-02",

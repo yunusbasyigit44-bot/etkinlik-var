@@ -1,6 +1,6 @@
 {
  "il": "yalova",
- "guncelleme": "2026-11-03T07:10+03:00",
+ "guncelleme": "2026-11-04T07:08+03:00",
  "ilceler": [
   "Merkez",
   "Altınova",
@@ -9,32 +9,8 @@
   "Çınarcık",
   "Termal"
  ],
- "etkinlikler": [
-  {
-   "id": "f279769be6b3",
-   "baslik": "İklimin İzinde Görsel Anlatılarla Sürdürülebilirlik",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Merkez",
-   "mekan": "Yalova Ticaret ve Sanayi Odası",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": "Sergi",
-   "kaynak_ad": "Yalova Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.yalova.edu.tr/Page/Etkinlik/iklimin-izinde-gorsel-anlatilarla-surdurulebilirlik",
-   "gorsel": "https://www.yalova.edu.tr/Uploads/www/Etkinlikler/Kucuk/1.jpeg"
-  }
- ],
+ "etkinlikler": [],
  "kaynaklar": [
-  {
-   "ad": "Yalova Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.yalova.edu.tr/tr/Etkinlik",
-   "etkinlik_sayisi": 1,
-   "durum": "çalışıyor"
-  },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
@@ -69,6 +45,13 @@
    "url": "https://www.yalova.gov.tr",
    "etkinlik_sayisi": 0,
    "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Yalova Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.yalova.edu.tr/tr/Etkinlik",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yalova İl Kültür ve Turizm Müdürlüğü",

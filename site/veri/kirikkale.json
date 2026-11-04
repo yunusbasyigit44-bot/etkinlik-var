@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-03T07:10+03:00",
+ "guncelleme": "2026-11-04T07:07+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -12,8 +12,32 @@
   "Sulakyurt",
   "Yahşihan"
  ],
- "etkinlikler": [],
+ "etkinlikler": [
+  {
+   "id": "a8a8e7783918",
+   "baslik": "14 Kasım Dünya Diyabet Günü Paneli",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10074",
+   "gorsel": null
+  }
+ ],
  "kaynaklar": [
+  {
+   "ad": "Kırıkkale Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
   {
    "ad": "Belediye Şehir Tiyatrosu",
    "tur": "belediye",
@@ -48,13 +72,6 @@
    "url": "https://www.kirikkale.gov.tr",
    "etkinlik_sayisi": 0,
    "durum": "duyurular idari; etkinlik yok"
-  },
-  {
-   "ad": "Kırıkkale Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
-   "etkinlik_sayisi": 0,
-   "durum": "hata: The read operation timed out"
   },
   {
    "ad": "Kırıkkale İl Kültür ve Turizm Müdürlüğü",

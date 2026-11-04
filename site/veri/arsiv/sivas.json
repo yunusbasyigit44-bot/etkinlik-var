@@ -1,5 +1,37 @@
 [
  {
+  "id": "bb61accdbe08",
+  "baslik": "Çayırın En Tuhaf Yuvası",
+  "tarih": "2026-11-03",
+  "bitis": null,
+  "saat": "10:30",
+  "ilce": "Merkez",
+  "mekan": "Sivas DT Fuaye",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/cayirin-en-tuhaf-yuvasi",
+  "gorsel": null
+ },
+ {
+  "id": "db8f10ea8733",
+  "baslik": "Geleceği İnşa Et: Girişimcinin Yolculuğu-Ergün Kırlıkovalı",
+  "tarih": "2026-11-03",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Sivas Cumhuriyet Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Geleceği İnşa Et: Girişimcinin Yolculuğu-Ergün Kırlıkovalı",
+  "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19095-gelecegi-insa-et-girisimcinin-yolculugu-ergun-kirlikovali",
+  "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/190/Gelecegi-insa-Et--Girisimcinin-Yolculugu-Ergun-Kirlikovali-10178.jpg"
+ },
+ {
   "id": "d7bfc34b2c5d",
   "baslik": "Karacaoğlan",
   "tarih": "2026-10-31",

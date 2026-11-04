@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-03T06:49+03:00",
+ "guncelleme": "2026-11-04T06:48+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -24,22 +24,6 @@
   "Uzundere"
  ],
  "etkinlikler": [
-  {
-   "id": "72a5f5bb2070",
-   "baslik": "TÜBİTAK 2209-A 2209-B Çevrim İçi Bilgilendirme",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Yakutiye",
-   "mekan": "Atatürk Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Atatürk Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://atauni.edu.tr/etkinlik/tubitak-2209-a-2209-b-cevrim-ici-bilgilendirme/",
-   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/tubitak_toplant-731x1024.png"
-  },
   {
    "id": "63a60108d0c7",
    "baslik": "SPSS ile Temel İstatistik Kursu",
@@ -613,7 +597,7 @@
    "ad": "Atatürk Üniversitesi",
    "tur": "universite",
    "url": "https://atauni.edu.tr/tum-etkinlikler/",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {

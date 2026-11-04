@@ -1,6 +1,6 @@
 {
  "il": "samsun",
- "guncelleme": "2026-11-03T07:06+03:00",
+ "guncelleme": "2026-11-04T07:04+03:00",
  "ilceler": [
   "Atakum",
   "Canik",
@@ -21,54 +21,6 @@
   "Yakakent"
  ],
  "etkinlikler": [
-  {
-   "id": "1e310863037d",
-   "baslik": "Pinokyo",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "İlkadım",
-   "mekan": "Samsun Devlet Opera ve Balesi · Zehra Yıldız Salonu",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Samsun Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/pinokyo-samsun-dob",
-   "gorsel": null
-  },
-  {
-   "id": "1f9339dece79",
-   "baslik": "Renklerle Bir Arada: Cam Mozaik Sanat Atölyesi",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Atakum",
-   "mekan": "Ondokuz Mayıs Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Atölye Çalışması",
-   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/atolye-calismasi/renklerle-bir-arada-cam-mozaik-sanat-atolyesi",
-   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/renklerle_bir_arada_cam_mozaik_sanat_atolyesi-afis.jpg"
-  },
-  {
-   "id": "94007a4305d9",
-   "baslik": "Kültürel Miras Aktarımında Sanatın Rolü",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Atakum",
-   "mekan": "Ondokuz Mayıs Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Söyleşi",
-   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/soylesi/kulturel-miras-aktariminda-sanatin-rolu",
-   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/resim_bolumu_ogrenci_-_mezun_bulusmasi-_afis.jpg"
-  },
   {
    "id": "66a5f7c55052",
    "baslik": "OMÜ Hemşirelik Bölümünde XII. Öğrenci–Mezun Buluşması",
@@ -148,6 +100,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/egitim/uygulamali-girisimcilik-egitimi-1",
    "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/uygulamali_girsimcilik_egitimi_1_1.png"
+  },
+  {
+   "id": "c53a3267f5cf",
+   "baslik": "10 Kasım Atatürk'ü Anma Günü: Atatürk ve Kitap",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": "Anma",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/anma-sergi-soylesi/10-kasim-ataturku-anma-gunu-ataturk-ve-kitap",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/omu_bilim_kafe_ataturk_ve_kitap_10_kasim_2026.jpeg"
   },
   {
    "id": "43bffbdf18c3",
@@ -262,6 +230,22 @@
    "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/dh_afis.jpg"
   },
   {
+   "id": "ddfad87d0842",
+   "baslik": "Okulumuz Orman",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "İlkadım",
+   "mekan": "Samsun Devlet Opera ve Balesi · Zehra Yıldız Salonu",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Samsun Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/okulumuz-orman-samsun-dob",
+   "gorsel": "veri/gorsel/dob-samsun-2835.webp"
+  },
+  {
    "id": "25fcba7e0381",
    "baslik": "2. Uluslararası Katılımlı Riskli Bebeklerde Güncel Gelişmeler Kongresi",
    "tarih": "2026-11-28",
@@ -280,17 +264,17 @@
  ],
  "kaynaklar": [
   {
-   "ad": "Ondokuz Mayıs Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.omu.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 8,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Samsun Devlet Opera ve Balesi",
    "tur": "kultur",
    "url": "https://apimain.operabale.gov.tr/v1/web/temsil/mudurluk/listele/6",
    "etkinlik_sayisi": 8,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Ondokuz Mayıs Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.omu.edu.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

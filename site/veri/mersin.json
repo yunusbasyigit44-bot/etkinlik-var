@@ -1,6 +1,6 @@
 {
  "il": "mersin",
- "guncelleme": "2026-11-03T06:53+03:00",
+ "guncelleme": "2026-11-04T06:52+03:00",
  "ilceler": [
   "Akdeniz",
   "Anamur",
@@ -32,38 +32,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/karma-sergi-cumhuriyetin-renkleri-ikatin-izinde-n-10000937",
    "gorsel": "https://cdn.mersin.edu.tr/public/renditions/263e22a6-5deb-4e11-ad3a-cace3345de92/ed7e4b04-522d-4843-8f83-1572d8718ab1/e65a460f-01fb-4f55-b0a2-9860a753bb27/1280-6dee5c85417e9cb9ed725ffacf23e030f603b1d32c2e3dd8828f0cea924f0b0d.webp"
-  },
-  {
-   "id": "00ebe3ad4dab",
-   "baslik": "Çöplük Kralı ve İcatçı",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Yenişehir",
-   "mekan": "Mersin Opera Büyük Sahne",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/copluk-krali-ve-icatci-mersin-dob",
-   "gorsel": "veri/gorsel/dob-4-3269.webp"
-  },
-  {
-   "id": "55b135ae91c0",
-   "baslik": "Akademiden Sahaya: Sektör Beklentileri ve Gerçekler Konferansı",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Yenişehir",
-   "mekan": "Denizcilik Fakültesi Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Konferans",
-   "kaynak_ad": "Mersin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/akademiden-sahaya-sektor-beklentileri-ve-gercekler-konferansi-n-10000935",
-   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/ed4b304e-da37-4483-868b-f7f8c9b106ba/e6cc848b-3615-46b3-94cf-9bc70e0fce0f/06f50b1f-67ec-4398-9561-b534ddf63c86/960-78cfe11626d0222880079953f66b6e698b046bd75e252f04fc43cf509affce82.webp"
   },
   {
    "id": "b1c7a2867cde",
@@ -160,6 +128,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/romeo-juliet-mersin-dob",
    "gorsel": "veri/gorsel/dob-4-3186.webp"
+  },
+  {
+   "id": "5139c67003d1",
+   "baslik": "10 Kasım Atatürk'ü Anma Töreni",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Akdeniz",
+   "mekan": "Prof. Dr. Uğur Oral Kültür Merkezi C Salonu",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": "Etkinlik",
+   "kaynak_ad": "Mersin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/10-kasim-ataturku-anma-toreni-n-10001650",
+   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/28690030-a27a-4fa1-87ef-00e4c998e6ae/9e8c2875-b8a5-4be9-a6ea-1d268ca0b602/034aa054-5eb1-47ab-a791-590e78df6a10/1280-e503b6993f4201a461b53785e75f643bf45fc1170eed7c51e3eb2c13d140906f.webp"
   },
   {
    "id": "25d8d27a237b",
@@ -272,6 +256,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mersin.edu.trhttps://sem.mersin.edu.tr/tr/akademik/surekli-egitim-uygulama-ve-arastirma-merkezi/etkinlikler/baslangic-seviye-orijinal-yoga-sistemi-n-10000898",
    "gorsel": "https://cdn.mersin.edu.tr/public/renditions/80cd1ce6-d2b7-47c9-9979-e78d8ed5ff9d/6dac9ed9-44ba-424c-ad13-db939ba40c7e/9f3ce839-85ec-4cc2-aefe-7dff1a4272ee/1280-08f3f38b52212515c4fe2c522dc2e9537f070015e09762ed2704c0466cd12c5d.webp"
+  },
+  {
+   "id": "9338692f4d33",
+   "baslik": "İtalyan Ezgileriyle Bir Akşam",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Akdeniz",
+   "mekan": "Mersin Kültür Merkezi Şeref Salonu",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/alman-ezgileriyle-bir-aksam-mersin-dob",
+   "gorsel": null
   }
  ],
  "kaynaklar": [

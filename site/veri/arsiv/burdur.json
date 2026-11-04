@@ -1,5 +1,37 @@
 [
  {
+  "id": "ac679be9e500",
+  "baslik": "Kızılay Haftası Konseri",
+  "tarih": "2026-11-03",
+  "bitis": null,
+  "saat": "17:00",
+  "ilce": "Merkez",
+  "mekan": "Burdur Mehmet Akif Ersoy Üniversitesi Konferans ve Sergi Salonu",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mehmetakif.edu.tr/content/13553/1/kizilay-haftasi-konseri",
+  "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13553/4_13553_2026-10-28-06-46-36-679624_thumb.webp"
+ },
+ {
+  "id": "5f68d21f0f67",
+  "baslik": "Çin Dili ve Kültürü Topluluğu Yemek/Tanışma Etkinliği",
+  "tarih": "2026-11-03",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Merkez",
+  "mekan": "Uygur Sofrası Restoranı",
+  "kategori": "Yemek",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mehmetakif.edu.tr/content/13552/1/cin-dili-ve-kulturu-toplulugu-yemektanisma-etkinligi",
+  "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13552/4_13552_2026-10-28-06-44-34-73487_thumb.webp"
+ },
+ {
   "id": "d90625a2a6be",
   "baslik": "Film Gösterimi İle Yaşlanma ve Değer Temelli Sosyal Hizmet Bakış Açısından Grup Söyleşisi",
   "tarih": "2026-11-02",

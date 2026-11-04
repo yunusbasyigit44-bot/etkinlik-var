@@ -1,5 +1,37 @@
 [
  {
+  "id": "00ebe3ad4dab",
+  "baslik": "Çöplük Kralı ve İcatçı",
+  "tarih": "2026-11-03",
+  "bitis": null,
+  "saat": "10:30",
+  "ilce": "Yenişehir",
+  "mekan": "Mersin Opera Büyük Sahne",
+  "kategori": "Opera & Bale",
+  "ucretsiz": false,
+  "ozet": "Devlet Opera ve Balesi",
+  "kaynak_ad": "Devlet Opera ve Balesi",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://biletinial.com/opera-bale/copluk-krali-ve-icatci-mersin-dob",
+  "gorsel": null
+ },
+ {
+  "id": "55b135ae91c0",
+  "baslik": "Akademiden Sahaya: Sektör Beklentileri ve Gerçekler Konferansı",
+  "tarih": "2026-11-03",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Yenişehir",
+  "mekan": "Denizcilik Fakültesi Konferans Salonu",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Konferans",
+  "kaynak_ad": "Mersin Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/akademiden-sahaya-sektor-beklentileri-ve-gercekler-konferansi-n-10000935",
+  "gorsel": "https://cdn.mersin.edu.tr/public/renditions/ed4b304e-da37-4483-868b-f7f8c9b106ba/e6cc848b-3615-46b3-94cf-9bc70e0fce0f/06f50b1f-67ec-4398-9561-b534ddf63c86/960-78cfe11626d0222880079953f66b6e698b046bd75e252f04fc43cf509affce82.webp"
+ },
+ {
   "id": "fbd112625ad0",
   "baslik": "İŞKUR Gençlik Programı Noter Kura Çekilişi",
   "tarih": "2026-11-02",

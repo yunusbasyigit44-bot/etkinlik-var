@@ -1,5 +1,21 @@
 [
  {
+  "id": "8155a5cadf8a",
+  "baslik": "Mucize ve Umudun Adı LÖSEV",
+  "tarih": "2026-11-03",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Sandıklı",
+  "mekan": "Sandıklı Meslek Yüksekokulu Konferans Salonu",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Konferans · Sandikli Meslek Yüksekokulu",
+  "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://aku.edu.tr/etkinlikler",
+  "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261028171942_whatsapp_image_2026-10-28_at_17.18.48.jpeg"
+ },
+ {
   "id": "bd0fadd2cac7",
   "baslik": "İslam İktisadı ve Finansı Özel Oturumu: Jeoekonomi ve Jeofinans Perspektifinden İslam Ekonomisi ve Finansı",
   "tarih": "2026-11-02",

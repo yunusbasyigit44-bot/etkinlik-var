@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-11-03T06:57+03:00",
+ "guncelleme": "2026-11-04T06:56+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -20,38 +20,6 @@
   "Yeşilhisar"
  ],
  "etkinlikler": [
-  {
-   "id": "dfc566baeaa5",
-   "baslik": "Leenane'in Güzellik Kraliçesi",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Melikgazi",
-   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanein-guzellik-kralicesi.webp"
-  },
-  {
-   "id": "9d3b67a7f874",
-   "baslik": "Sultanu'ş- Şu'ara Baki",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Melikgazi",
-   "mekan": "Erciyes Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Erciyes Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.erciyes.edu.tr/tr/etkinlik-detay/sultanus-suara-baki/10445",
-   "gorsel": "https://www.erciyes.edu.tr/images/Etkinlik/6f566ae4-27c9-468c-8678-d91963e5f0a0.jpg"
-  },
   {
    "id": "37a5f3e8ed53",
    "baslik": "Kayseri CBS Günü – Coğrafi Bilgi Sistemleri ile Daha Yaşanabilir Kayseri",
@@ -195,6 +163,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/agustos-parki",
    "gorsel": "veri/gorsel/dt-agustos-parki.jpg"
+  },
+  {
+   "id": "a4fb606cb933",
+   "baslik": "Tahsin Hasanoğlu ile Kariyer Söyleşisi",
+   "tarih": "2026-11-09",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Melikgazi",
+   "mekan": "Erciyes Üniversitesi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erciyes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.erciyes.edu.tr/tr/etkinlik-detay/tahsin-hasanoglu-ile-kariyer-soylesisi/10450",
+   "gorsel": "https://www.erciyes.edu.tr/images/Etkinlik/fde75a49-f84b-4aca-af67-ef0dafedb3c3.jpeg"
   },
   {
    "id": "899f7c85f1d0",
@@ -362,7 +346,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {

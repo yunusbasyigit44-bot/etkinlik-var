@@ -1,6 +1,6 @@
 {
  "il": "sinop",
- "guncelleme": "2026-11-03T07:06+03:00",
+ "guncelleme": "2026-11-04T07:04+03:00",
  "ilceler": [
   "Merkez",
   "Ayancık",
@@ -44,38 +44,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sinop.edu.tr/etkinlik/ases-2-uluslararasi-kafkas-bilimsel-arastirmalar-kongresi/",
    "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/06/ases2.sempozyum.png"
-  },
-  {
-   "id": "a0b389172dc7",
-   "baslik": "Çağdaş Türk Edebiyatının Bir Temsilcisi; \"Sabahattin Ali\" (1907-1948)",
-   "tarih": "2026-11-02",
-   "bitis": "2026-11-03",
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Sinop Üniversitesi",
-   "kategori": "Edebiyat",
-   "ucretsiz": true,
-   "ozet": "Bilimsel Etkinlikler",
-   "kaynak_ad": "Sinop Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/cagdas-turk-edebiyatinin-bir-temsilcisi-sabahattin-ali/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/10/sabahattinalisempozyum.webp"
-  },
-  {
-   "id": "ee57991fae57",
-   "baslik": "\"Karadeniz'e Vurulan Selçuklu Mührü\" Sinop'un Fethi (1214)",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Merkez",
-   "mekan": "Sinop Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Sosyal Etkinlik",
-   "kaynak_ad": "Sinop Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/karadenize-vurulan-selcuklu-muhru-sinopun-fethi-1214/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/10/sinopfethi.webp"
   },
   {
    "id": "882a06f61422",
@@ -243,7 +211,7 @@
    "ad": "Sinop Üniversitesi",
    "tur": "universite",
    "url": "https://www.sinop.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 12,
    "durum": "çalışıyor"
   },
   {

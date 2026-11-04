@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-03T06:40+03:00",
+ "guncelleme": "2026-11-04T06:40+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -19,38 +19,6 @@
   "Yüreğir"
  ],
  "etkinlikler": [
-  {
-   "id": "334c65f65dce",
-   "baslik": "Cumhuriyetin Çevirisi ve Çevirmenleri",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "16:30",
-   "ilce": "Sarıçam",
-   "mekan": "ATÜ İİSBF Konferans Salonu",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": "Etkinlik",
-   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/021120261333_K_471_078be759-3321-4ea0-afd7-c8c19fb28d76.jpg"
-  },
-  {
-   "id": "bcfece07c0d2",
-   "baslik": "Cumhuriyet'in Çevirisi ve Çevirmenleri",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Sarıçam",
-   "mekan": "İİSBF Konferans Salonu",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": "Etkinlik",
-   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/021120261147_K_269_72a018b8-af28-4b89-81c3-e1a2e6ffa7e7.jpeg"
-  },
   {
    "id": "5ca689da911f",
    "baslik": "DSA Talks",
@@ -116,8 +84,8 @@
    "gorsel": "https://www.cu.edu.tr/media/ocuoadot/cutam_kasim_2026_programi_sayfa_1.jpg"
   },
   {
-   "id": "9ef382f82dde",
-   "baslik": "Sen İstanbul'dan Daha Güzelsin",
+   "id": "09d4cd93f969",
+   "baslik": "Ocak'ta Bahar",
    "tarih": "2026-11-05",
    "bitis": null,
    "saat": "20:00",
@@ -128,8 +96,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları Adana",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sen-istanbuldan-daha-guzelsin",
-   "gorsel": "veri/gorsel/dt-sen-istanbuldan-daha-guzelsin.webp"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ocakta-bahar",
+   "gorsel": "veri/gorsel/dt-ocakta-bahar.jpg"
   },
   {
    "id": "6f94b287b2b1",
@@ -164,8 +132,8 @@
    "gorsel": "https://www.cu.edu.tr/media/se0h41wi/dijitalortam.jpeg"
   },
   {
-   "id": "a337271454ca",
-   "baslik": "Sen İstanbul'dan Daha Güzelsin",
+   "id": "b935224744a9",
+   "baslik": "Ocak'ta Bahar",
    "tarih": "2026-11-06",
    "bitis": null,
    "saat": "20:00",
@@ -176,12 +144,12 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları Adana",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sen-istanbuldan-daha-guzelsin",
-   "gorsel": "veri/gorsel/dt-sen-istanbuldan-daha-guzelsin.webp"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ocakta-bahar",
+   "gorsel": "veri/gorsel/dt-ocakta-bahar.jpg"
   },
   {
-   "id": "23e105ae6224",
-   "baslik": "Sen İstanbul'dan Daha Güzelsin",
+   "id": "7e5a5bcd2e31",
+   "baslik": "Ocak'ta Bahar",
    "tarih": "2026-11-07",
    "bitis": null,
    "saat": "20:00",
@@ -192,8 +160,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları Adana",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sen-istanbuldan-daha-guzelsin",
-   "gorsel": "veri/gorsel/dt-sen-istanbuldan-daha-guzelsin.webp"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ocakta-bahar",
+   "gorsel": "veri/gorsel/dt-ocakta-bahar.jpg"
   },
   {
    "id": "9934c9c7312f",
@@ -228,8 +196,8 @@
    "gorsel": "veri/gorsel/dt-umudunu-yitirmeyen-sigircik.webp"
   },
   {
-   "id": "af2a272195a9",
-   "baslik": "Sen İstanbul'dan Daha Güzelsin",
+   "id": "26b4833a0f46",
+   "baslik": "Ocak'ta Bahar",
    "tarih": "2026-11-08",
    "bitis": null,
    "saat": "20:00",
@@ -240,8 +208,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları Adana",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sen-istanbuldan-daha-guzelsin",
-   "gorsel": "veri/gorsel/dt-sen-istanbuldan-daha-guzelsin.webp"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ocakta-bahar",
+   "gorsel": "veri/gorsel/dt-ocakta-bahar.jpg"
   },
   {
    "id": "f8b7281a9ee8",
@@ -798,7 +766,7 @@
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

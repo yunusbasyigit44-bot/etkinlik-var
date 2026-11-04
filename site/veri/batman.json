@@ -1,6 +1,6 @@
 {
  "il": "batman",
- "guncelleme": "2026-11-03T07:10+03:00",
+ "guncelleme": "2026-11-04T07:08+03:00",
  "ilceler": [
   "Merkez",
   "Beşiri",
@@ -10,22 +10,6 @@
   "Sason"
  ],
  "etkinlikler": [
-  {
-   "id": "b81f0a889ca9",
-   "baslik": "Midas'ın Kulakları",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Merkez",
-   "mekan": "Batman DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/midasin-kulaklari",
-   "gorsel": "veri/gorsel/dt-midasin-kulaklari.jpg"
-  },
   {
    "id": "a667d058f23d",
    "baslik": "Biz Size Hayranız",
@@ -64,7 +48,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

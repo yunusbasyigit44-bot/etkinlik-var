@@ -1,5 +1,37 @@
 [
  {
+  "id": "ee57991fae57",
+  "baslik": "\"Karadeniz'e Vurulan Selçuklu Mührü\" Sinop'un Fethi (1214)",
+  "tarih": "2026-11-03",
+  "bitis": null,
+  "saat": "15:00",
+  "ilce": "Merkez",
+  "mekan": "Sinop Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Sosyal Etkinlik",
+  "kaynak_ad": "Sinop Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sinop.edu.tr/etkinlik/karadenize-vurulan-selcuklu-muhru-sinopun-fethi-1214/",
+  "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/10/sinopfethi.webp"
+ },
+ {
+  "id": "a0b389172dc7",
+  "baslik": "Çağdaş Türk Edebiyatının Bir Temsilcisi; \"Sabahattin Ali\" (1907-1948)",
+  "tarih": "2026-11-02",
+  "bitis": "2026-11-03",
+  "saat": "10:00",
+  "ilce": "Merkez",
+  "mekan": "Sinop Üniversitesi",
+  "kategori": "Edebiyat",
+  "ucretsiz": true,
+  "ozet": "Bilimsel Etkinlikler",
+  "kaynak_ad": "Sinop Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sinop.edu.tr/etkinlik/cagdas-turk-edebiyatinin-bir-temsilcisi-sabahattin-ali/",
+  "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/10/sabahattinalisempozyum.webp"
+ },
+ {
   "id": "bad3b5870cde",
   "baslik": "OYUN SENDE'26 : Akademiden Sahaya Oyun Geliştirme Konferansı",
   "tarih": "2026-10-30",

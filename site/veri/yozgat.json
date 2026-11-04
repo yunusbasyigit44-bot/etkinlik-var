@@ -1,6 +1,6 @@
 {
  "il": "yozgat",
- "guncelleme": "2026-11-03T07:08+03:00",
+ "guncelleme": "2026-11-04T07:07+03:00",
  "ilceler": [
   "Merkez",
   "Akdağmadeni",
@@ -49,6 +49,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4258",
    "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/e7fc9e2f.jpg"
+  },
+  {
+   "id": "1e47902c4e6c",
+   "baslik": "Kudüs'ten Kaşgar'a",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4259",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/13e69c5f.png"
   },
   {
    "id": "506504537199",
@@ -120,7 +136,7 @@
    "ad": "Yozgat Bozok Üniversitesi",
    "tur": "universite",
    "url": "https://www.bozok.edu.tr/",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

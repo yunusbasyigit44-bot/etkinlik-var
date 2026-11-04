@@ -1,6 +1,6 @@
 {
  "il": "isparta",
- "guncelleme": "2026-11-03T06:53+03:00",
+ "guncelleme": "2026-11-04T06:52+03:00",
  "ilceler": [
   "Merkez",
   "Aksu",
@@ -18,20 +18,20 @@
  ],
  "etkinlikler": [
   {
-   "id": "f23681f51228",
-   "baslik": "Sağlık Sektöründe Kariyer Fırsatları ve Tıbbi Sekreterliğin Geleceği",
-   "tarih": "2026-11-03",
+   "id": "4611bdcaa87b",
+   "baslik": "Hizmet İçi Eğitim (Yönetici Adayları Sınava Hazırlık Eğitimi)",
+   "tarih": "2026-11-04",
    "bitis": null,
    "saat": null,
    "ilce": "Merkez",
-   "mekan": "Isparta Uygulamalı Bilimler Üniversitesi",
-   "kategori": "Kariyer",
+   "mekan": "Hukuk Fakültesi Konferans Salonu",
+   "kategori": "Atölye",
    "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Isparta Uygulamalı Bilimler Üniversitesi",
+   "ozet": "Hizmet İçi Eğitim",
+   "kaynak_ad": "Süleyman Demirel Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.iste.edu.tr/etkinlik-merkezi/2026/11/03/951",
-   "gorsel": "https://www.iste.edu.tr/gallery/_etkinlik_thumb/951_event_1793628762.jpeg"
+   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=F2459D26-CCC2-B39A-DBBA-3A24B34B59B2"
   },
   {
    "id": "4198db754d18",
@@ -50,6 +50,22 @@
    "gorsel": "https://www.iste.edu.tr/gallery/_etkinlik_thumb/949_event_1793441677.jpeg"
   },
   {
+   "id": "4e56c331a171",
+   "baslik": "Hizmet İçi Eğitim (Protokol ve Görgü Kuralları Eğitimi)",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "M. Lütfü Çakmakçı B Konferans Salonu ile Uluslararası Genel Koordinatörlüğü",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Hizmet İçi Eğitim",
+   "kaynak_ad": "Süleyman Demirel Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=561EF7AD-5637-A017-F4D8-3A24B34FB7A4"
+  },
+  {
    "id": "461ee08ba6ea",
    "baslik": "Eğirdir Sağlık Hizmetleri MYO Masa Tenisi Turnuvası",
    "tarih": "2026-11-09",
@@ -64,6 +80,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
    "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=FB02AA5B-4471-2494-B681-3A2456AE7EC0"
+  },
+  {
+   "id": "7f46d88e28b8",
+   "baslik": "Yangın Söndürme Eğitimi",
+   "tarih": "2026-11-09",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Prof. Dr. M. Lütfü ÇAKMAKÇI Kültür Merkezi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Hizmet İçi Eğitim",
+   "kaynak_ad": "Süleyman Demirel Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=A66E89FC-0C6B-4F63-8BF5-3A24B352882F"
   },
   {
    "id": "4c318b6ba12e",
@@ -82,6 +114,38 @@
    "gorsel": "https://www.iste.edu.tr/gallery/_etkinlik_thumb/950_event_1793623668.jpeg"
   },
   {
+   "id": "e747e22beca5",
+   "baslik": "Kamu İç Kontrol Sistemi ve Kurumsal Risk Yönetimi Çalışmaları Eğitimi",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Uluslararası İlişkiler Genel Koordinatörlüğü Konferans Salonu",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Hizmet İçi Eğitim",
+   "kaynak_ad": "Süleyman Demirel Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=9B5185F8-B4A5-182D-8F06-3A24B35A98E1"
+  },
+  {
+   "id": "5e10b13a7e93",
+   "baslik": "Kariyer Günleri",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Türker Taşaltın Konferans Salonu",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "Eğitim Programı",
+   "kaynak_ad": "Süleyman Demirel Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "gorsel": null
+  },
+  {
    "id": "ad06af1669de",
    "baslik": "5. Uluslararasi-8. Ulusal Sağlık Hizmetleri Kongresi",
    "tarih": "2026-11-13",
@@ -98,6 +162,22 @@
    "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=B07BE4FF-769E-E127-D53D-3A2442264FC3"
   },
   {
+   "id": "d09e530593b5",
+   "baslik": "EGDA (Etkinlik Geliştirme ve Deneyim Artırma Topluluğu) Öğretmenlik Mesleği ve Kariyer Gelişimi Söyleşisi",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Süleyman Demirel Üniversitesi Eğitim Fakültesi, Hafız İbrahim Demiralay Amfisi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "Söyleşi",
+   "kaynak_ad": "Süleyman Demirel Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "gorsel": null
+  },
+  {
    "id": "46427af48fc3",
    "baslik": "Mevlânâ Ekonomi Kongresi",
    "tarih": "2026-11-24",
@@ -112,36 +192,20 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.iste.edu.tr/etkinlik-merkezi/2026/11/24/933",
    "gorsel": "https://www.iste.edu.tr/gallery/_etkinlik_thumb/933_event_1789571256.jpeg"
-  },
-  {
-   "id": "5d002109a708",
-   "baslik": "Mezun Buluşması - 4",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Mühendislik ve Doğa Bilimleri Fakültesi Doğu Yerleşkesi Türker Taşaltın Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Söyleşi",
-   "kaynak_ad": "Süleyman Demirel Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=C57C5AF7-EB47-68EE-5487-3A248F4621DA"
   }
  ],
  "kaynaklar": [
   {
-   "ad": "Isparta Uygulamalı Bilimler Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.iste.edu.tr/etkinlik-merkezi",
-   "etkinlik_sayisi": 4,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Süleyman Demirel Üniversitesi",
    "tur": "universite",
    "url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "etkinlik_sayisi": 8,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Isparta Uygulamalı Bilimler Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.iste.edu.tr/etkinlik-merkezi",
    "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },

@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-03T07:03+03:00",
+ "guncelleme": "2026-11-04T07:01+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -159,6 +159,22 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/kitap-saati-4657",
+   "gorsel": null
+  },
+  {
+   "id": "209ac676f286",
+   "baslik": "Fikirden Yarışa Yarıştan Geleceğe",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/fikirden-yarisa-yaristan-gelecege-4708",
    "gorsel": null
   },
   {
@@ -407,7 +423,7 @@
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 15,
    "durum": "çalışıyor"
   },
   {

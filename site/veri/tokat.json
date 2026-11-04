@@ -1,6 +1,6 @@
 {
  "il": "tokat",
- "guncelleme": "2026-11-03T07:07+03:00",
+ "guncelleme": "2026-11-04T07:06+03:00",
  "ilceler": [
   "Merkez",
   "Almus",
@@ -16,22 +16,6 @@
   "Zile"
  ],
  "etkinlikler": [
-  {
-   "id": "e66a47b43c33",
-   "baslik": "Antikacılar ve Nostalji Festivali",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Tokat Belediyesi",
-   "kategori": "Festival",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tokat Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.tokat.bel.tr/etkinlikler/antikacilar-ve-nostalji-festivali",
-   "gorsel": "https://assets.tokat.bel.tr/tokatbld/events/1792396568551-e9fd6ac7ab891894.webp"
-  },
   {
    "id": "acde951f7a70",
    "baslik": "Kılıçarslan",
@@ -70,8 +54,8 @@
    "ad": "Tokat Belediyesi",
    "tur": "belediye",
    "url": "https://www.tokat.bel.tr/",
-   "etkinlik_sayisi": 3,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 2,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Devlet Tiyatroları",

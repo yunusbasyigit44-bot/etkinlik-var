@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-03T07:08+03:00",
+ "guncelleme": "2026-11-04T07:06+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -22,38 +22,6 @@
   "Yomra"
  ],
  "etkinlikler": [
-  {
-   "id": "b159982628f4",
-   "baslik": "KTÜ İİBF Mezunlar Derneği Faaliyetleri",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Ortahisar",
-   "mekan": "Radyo/TV",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/ktu-iibf-mezunlar-dernegi-faaliyetleri",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_53585d103cb7.jpg"
-  },
-  {
-   "id": "0cd978ca70e3",
-   "baslik": "Mühendislikten Akademiye, Kaliteden Girişimciliğe",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Ortahisar",
-   "mekan": "Radyo/TV",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/muhendislikten-akademiye-kaliteden-girisimcilige",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_lc2X7.jpg"
-  },
   {
    "id": "2fbc5af53076",
    "baslik": "Tribosurf'26 \"International Conference on Tribology and Surface Science\" Konferansı",
@@ -165,6 +133,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ktu.edu.tr/dents/etkinlik/dijital-dunyada-cocuklarimiz-ve-online-oyunlar",
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/HgYEAs.jpg"
+  },
+  {
+   "id": "e1cb0313f3a2",
+   "baslik": "Aile Sohbetleri",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/aile-sohbetleri-Y6",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_23b7a3217cff.jpeg"
   },
   {
    "id": "51a6418ebeca",
@@ -311,6 +295,70 @@
    "gorsel": "veri/gorsel/dt-istanbulun-son-beyzadeleri.jpg"
   },
   {
+   "id": "d7abd7a1064e",
+   "baslik": "10 Kasım Atatürk'ü Anma Programı",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "09:05",
+   "ilce": "Ortahisar",
+   "mekan": "OKM",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/tr/etkinlik/10-kasim-ataturku-anma-programi-54",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/1TM3IN.jpg"
+  },
+  {
+   "id": "af21e4f4ca98",
+   "baslik": "Eczacılık Alanında Bilimsel Literatür Tarama Teknikleri",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Ortahisar",
+   "mekan": "Eczacılık Fakültesi Büyük Amfi",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/eczacilik/etkinlik/eczacilik-alaninda-bilimsel-literatur-tarama-teknikleri",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/0ZAQ0J.jpg"
+  },
+  {
+   "id": "ab5f7d347263",
+   "baslik": "Öğrencilerimiz Trabzon Valisi ile Buluşuyor",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Ortahisar",
+   "mekan": "KTÜ İİBF Amfi 3",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/iibf/etkinlik/ogrencilerimiz-trabzon-valisi-ile-bulusuyor",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/gRQiGQ.jpg"
+  },
+  {
+   "id": "bde202eb6940",
+   "baslik": "Dünya Diyabet Günü Sempozyumu",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Ortahisar",
+   "mekan": "KTÜ Atatürk Kültür Merkezi",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/eczacilik/etkinlik/dunya-diyabet-gunu-sempozyumu-cf",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/dlzvAe.jpg"
+  },
+  {
    "id": "0b47f19a46e3",
    "baslik": "İPARD Proje Bilgilendirme Eğitimi",
    "tarih": "2026-11-11",
@@ -423,6 +471,22 @@
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
   },
   {
+   "id": "d16c413728be",
+   "baslik": "Afet ve Acil Durum Eczacılığı",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/afet-ve-acil-durum-eczaciligi",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_f0219adfd71d.jpg"
+  },
+  {
    "id": "f6194d320883",
    "baslik": "Sıradan Kasabası",
    "tarih": "2026-11-17",
@@ -469,22 +533,6 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/julius-caesar",
    "gorsel": "veri/gorsel/dt-julius-caesar.webp"
-  },
-  {
-   "id": "4e5956afbfef",
-   "baslik": "Mezunlar Derneği Lansmanı ve Mezunlar Paneli",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Ortahisar",
-   "mekan": "AKM (Reşit Tarakçıoğlu)",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/dents/etkinlik/mezunlar-dernegi-lansmani-ve-mezunlar-paneli",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/QcPGHO.jpg"
   },
   {
    "id": "1df98e2d263f",
@@ -585,16 +633,16 @@
  ],
  "kaynaklar": [
   {
-   "ad": "Devlet Tiyatroları",
-   "tur": "kultur",
-   "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 16,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Karadeniz Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://www.ktu.edu.tr",
+   "etkinlik_sayisi": 19,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },

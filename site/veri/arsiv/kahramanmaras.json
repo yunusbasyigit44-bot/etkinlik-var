@@ -1,5 +1,21 @@
 [
  {
+  "id": "8eb9a0873845",
+  "baslik": "Tiyatro Oyunu \"Dün Bugün Yarın\"",
+  "tarih": "2026-11-03",
+  "bitis": null,
+  "saat": "15:00",
+  "ilce": "Onikişubat",
+  "mekan": "Yunus Emre Kongre ve Kültür Merkezi Sezai Karakoç Konferans Salonu",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": "Rektörlük Güzel Sanatlar Bölümü , Gösteri Sanatları Öğrenci Topluluğu",
+  "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=130",
+  "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611021347134654.jpg"
+ },
+ {
   "id": "b3752a1bdff5",
   "baslik": "Konferans \"Dünya Ekonomisinde Güncel Gelişmeler\"",
   "tarih": "2026-11-02",

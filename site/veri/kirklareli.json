@@ -1,6 +1,6 @@
 {
  "il": "kirklareli",
- "guncelleme": "2026-11-03T06:57+03:00",
+ "guncelleme": "2026-11-04T06:56+03:00",
  "ilceler": [
   "Merkez",
   "Babaeski",
@@ -11,8 +11,32 @@
   "Pınarhisar",
   "Vize"
  ],
- "etkinlikler": [],
+ "etkinlikler": [
+  {
+   "id": "b71b2bd1c558",
+   "baslik": "8 Kasım Özel Konseri",
+   "tarih": "2026-11-08",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Lüleburgaz",
+   "mekan": "LYSA",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Lüleburgaz Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://etkinlik.luleburgaz.bel.tr/etkinlik/449",
+   "gorsel": null
+  }
+ ],
  "kaynaklar": [
+  {
+   "ad": "Lüleburgaz Belediyesi",
+   "tur": "belediye",
+   "url": "https://etkinlik.luleburgaz.bel.tr/",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
   {
    "ad": "Babaeski, Vize, Pınarhisar, Demirköy belediyeleri",
    "tur": "belediye",
@@ -59,13 +83,6 @@
    "ad": "Kırklareli İl Kültür ve Turizm Müdürlüğü",
    "tur": "kultur",
    "url": "https://kirklareli.ktb.gov.tr",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
-  },
-  {
-   "ad": "Lüleburgaz Belediyesi",
-   "tur": "belediye",
-   "url": "https://etkinlik.luleburgaz.bel.tr/",
    "etkinlik_sayisi": 0,
    "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },

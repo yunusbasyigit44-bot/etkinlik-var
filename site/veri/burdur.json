@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-03T06:46+03:00",
+ "guncelleme": "2026-11-04T06:45+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,38 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "ac679be9e500",
-   "baslik": "Kızılay Haftası Konseri",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Merkez",
-   "mekan": "Burdur Mehmet Akif Ersoy Üniversitesi Konferans ve Sergi Salonu",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13553/1/kizilay-haftasi-konseri",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13553/4_13553_2026-10-28-06-46-36-679624_thumb.webp"
-  },
-  {
-   "id": "5f68d21f0f67",
-   "baslik": "Çin Dili ve Kültürü Topluluğu Yemek/Tanışma Etkinliği",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Merkez",
-   "mekan": "Uygur Sofrası Restoranı",
-   "kategori": "Yemek",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13552/1/cin-dili-ve-kulturu-toplulugu-yemektanisma-etkinligi",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13552/4_13552_2026-10-28-06-44-34-73487_thumb.webp"
-  },
   {
    "id": "b4bb7516d156",
    "baslik": "Türkiye'nin Çatısı Ağrı Dağı'na Yolculuk",
@@ -110,6 +78,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13554/1/cocuklarla-kultur-ve-bilim-bulusmasi",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13554/4_13554_2026-10-28-06-49-23-466031_thumb.webp"
+  },
+  {
+   "id": "e721a4192c82",
+   "baslik": "Zamanın içinde 65yaşında ben",
+   "tarih": "2026-11-09",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "Yaşlılık Çalışmaları Uygulama Araştırma Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13569/1/zamanin-icinde-65yasinda-ben",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13569/4_13569_2026-11-02-13-46-25-37849_thumb.webp"
+  },
+  {
+   "id": "e8a1e18b3039",
+   "baslik": "Bir Ömür, bin hikaye: Meslekler, anılar ve yaşam yolculukları",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "Yaşlılık Çalışmaları Uygulama Araştırma Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13570/1/bir-omur-bin-hikaye-meslekler-anilar-ve-yasam-yolculuklari",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13570/4_13570_2026-11-02-13-48-35-349905_thumb.webp"
   }
  ],
  "kaynaklar": [

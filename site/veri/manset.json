@@ -1,6 +1,6 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-11-03",
+ "guncelleme": "2026-11-04",
  "secilenler": [
   {
    "id": "d7762ec713f9",
@@ -9,64 +9,64 @@
    "elle": true
   },
   {
-   "id": "00ebe3ad4dab",
+   "id": "861d4e84d998",
    "not": "Mersin'de opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "f9ab418f9ab9",
-   "not": "Antalya'da opera ve bale sahnesinden bir akşam."
+   "id": "f1fa8a88a662",
+   "not": "Ankara'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "d5048a504128",
-   "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
-  },
-  {
-   "id": "5f570568def9",
-   "not": "Aydın'da canlı müzik keyfi."
-  },
-  {
-   "id": "ac679be9e500",
-   "not": "Burdur'da canlı müzik keyfi."
-  },
-  {
-   "id": "0fa351dba26c",
-   "not": "Çankırı'da geleneksel ezgiler."
-  },
-  {
-   "id": "b27bbc0f56d5",
-   "not": "Konya'da geleneksel ezgiler."
-  },
-  {
-   "id": "e66a47b43c33",
-   "not": "Tokat'ta festival havası."
-  },
-  {
-   "id": "397e05538b60",
-   "not": "Ankara'da canlı müzik keyfi."
+   "id": "10b59f73753b",
+   "not": "İzmir'de opera ve bale sahnesinden bir akşam."
   },
   {
    "id": "10379b1e0871",
    "not": "Samsun'da geleneksel ezgiler."
   },
   {
-   "id": "b5f2c41b4aa1",
-   "not": "Ankara'da perde açılıyor."
+   "id": "54708d799139",
+   "not": "Eskişehir'de canlı müzik keyfi."
   },
   {
-   "id": "8eb9a0873845",
-   "not": "Kahramanmaraş'ta perde açılıyor."
+   "id": "c04660b0689c",
+   "not": "Konya'da geleneksel ezgiler."
+  },
+  {
+   "id": "1cb36427436f",
+   "not": "Eskişehir'de canlı müzik keyfi."
+  },
+  {
+   "id": "a73b52adcb29",
+   "not": "Kayseri'de geleneksel ezgiler."
+  },
+  {
+   "id": "c93c682de094",
+   "not": "Afyonkarahisar'da canlı müzik keyfi."
   },
   {
    "id": "f5f1be9d2905",
    "not": "Burdur'da perde açılıyor."
   },
   {
+   "id": "cdb5c6524545",
+   "not": "Manisa'da perde açılıyor."
+  },
+  {
+   "id": "37798f1df4b7",
+   "not": "İstanbul'da perde açılıyor."
+  },
+  {
+   "id": "e5d7b25cbfab",
+   "not": "İstanbul'da kahkaha garantili bir akşam."
+  },
+  {
    "id": "a00303c71871",
    "not": "Gaziantep'te gezip görülecek bir sergi."
   },
   {
-   "id": "6f85dac51929",
-   "not": "Eskişehir'de gezip görülecek bir sergi."
+   "id": "6dbaf62dc677",
+   "not": "Muğla'da gezip görülecek bir sergi."
   }
  ]
 }

@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "0fa351dba26c",
+  "baslik": "Nuri Özkan'la Türkü Gecesi",
+  "tarih": "2026-11-03",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Çankırı Karatekin Üniversitesi",
+  "kategori": "Geleneksel Müzik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8688",
+  "gorsel": "https://medya.karatekin.edu.tr/sites/karatekin/etkinlikler/20261026_163202_6097bccef0e049d98aca0d02ea44a5cb.jpeg"
+ }
+]

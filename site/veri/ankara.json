@@ -1,6 +1,6 @@
 {
  "il": "ankara",
- "guncelleme": "2026-11-03T06:43+03:00",
+ "guncelleme": "2026-11-04T06:43+03:00",
  "ilceler": [
   "Akyurt",
   "Altındağ",
@@ -30,164 +30,36 @@
  ],
  "etkinlikler": [
   {
-   "id": "b5f2c41b4aa1",
-   "baslik": "Kampüsün İklimleri Dijital Hikâyeleri Gösterimi ve Forum Etkinliği",
-   "tarih": "2026-11-03",
+   "id": "dde2047b4a15",
+   "baslik": "Flört Şiddeti ve Başvuru Mekanizmaları: Saygılı Yaşam ve Güvenli İlişkiler Eğitimi",
+   "tarih": "2026-11-04",
    "bitis": null,
-   "saat": "10:00",
+   "saat": "11:00",
    "ilce": "Çankaya",
    "mekan": "Hacettepe Üniversitesi",
-   "kategori": "Tiyatro",
+   "kategori": "Söyleşi",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Hacettepe Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlikler.hacettepe.edu.tr/tr/kampusun_iklimleri_dijital_hik-3454",
-   "gorsel": "https://fs.hacettepe.edu.tr/etkinlik/2026/11-kasim/etkinlik_vitrin.png"
+   "kaynak_url": "https://etkinlikler.hacettepe.edu.tr/tr/flort_siddeti_ve_basvuru_mekan-3466",
+   "gorsel": "https://fs.hacettepe.edu.tr/etkinlik/2026/11-kasim/flort_vitrin.jpeg"
   },
   {
-   "id": "397e05538b60",
-   "baslik": "Müze Konseri",
-   "tarih": "2026-11-03",
+   "id": "06fba3a9dbab",
+   "baslik": "Onkoloji Hastalarında Egzersiz ve Fiziksel Aktivitenin Önemi",
+   "tarih": "2026-11-04",
    "bitis": null,
    "saat": "14:00",
    "ilce": "Çankaya",
-   "mekan": "Cumhuriyet Müzesi",
-   "kategori": "Konser",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/9-ekim-konseri-ankara-dob",
-   "gorsel": "veri/gorsel/dob-1-2245.jpg"
-  },
-  {
-   "id": "1123b4032990",
-   "baslik": "İki Kişilik Hırgür",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "18:30",
-   "ilce": "Çankaya",
-   "mekan": "Oda Tiyatrosu",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-kisilik-hirgur",
-   "gorsel": "veri/gorsel/dt-iki-kisilik-hirgur.jpg"
-  },
-  {
-   "id": "05cae0b7c7c4",
-   "baslik": "Adel Seni Seçti",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Şinasi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/adel-seni-secti",
-   "gorsel": "veri/gorsel/dt-adel-seni-secti.webp"
-  },
-  {
-   "id": "1df1814be675",
-   "baslik": "Tavşan Tavşanoğlu (Lapın Lapın)",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/tavsan-tavsanoglu-lapin-lapin",
-   "gorsel": "veri/gorsel/dt-tavsan-tavsanoglu-lapin-lapin.webp"
-  },
-  {
-   "id": "53d717eade61",
-   "baslik": "Siyahlı Kadın (Bir Hayalet Oyunu)",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Akün Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siyahli-kadin-bir-hayalet-oyunu",
-   "gorsel": "veri/gorsel/dt-siyahli-kadin-bir-hayalet-oyunu.jpg"
-  },
-  {
-   "id": "a9a69df43cdc",
-   "baslik": "Kadınlar, Filler ve Saireler",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Etimesgut",
-   "mekan": "Etimesgut Ckm Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kadinlar-filler-ve-saireler",
-   "gorsel": "veri/gorsel/dt-kadinlar-filler-ve-saireler.jpg"
-  },
-  {
-   "id": "5d87292f5dc8",
-   "baslik": "Medea Materıal",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Çankaya Atatürk Sanat Merkezi Mavi Salon",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/medea-material-1",
-   "gorsel": "veri/gorsel/dt-medea-material-1.jpg"
-  },
-  {
-   "id": "1656c66cbcb0",
-   "baslik": "Doğudan Evrensele Macar Mimarların Dönüşen Arayışları",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Çankaya",
-   "mekan": "Çankaya Belediyesi",
-   "kategori": "Diğer",
+   "mekan": "Hacettepe Üniversitesi",
+   "kategori": "Söyleşi",
    "ucretsiz": true,
    "ozet": null,
-   "kaynak_ad": "Çankaya Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.cankaya.bel.tr/kultur-sanat/dogudan-evrensele-macar-mimarlarin-donusen-arayislari",
-   "gorsel": "https://www.cankaya.bel.tr/uploads/images/dogudan-evrensele_1793101103_w0Wn7jwz.webp"
-  },
-  {
-   "id": "0c779daad139",
-   "baslik": "Medea Material",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Çankaya",
-   "mekan": "Çankaya Belediyesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankaya Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.cankaya.bel.tr/kultur-sanat/medea-material",
-   "gorsel": "https://www.cankaya.bel.tr/uploads/images/medea-material-1_1793600892_THbfGYOE.webp"
+   "kaynak_ad": "Hacettepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlikler.hacettepe.edu.tr/tr/onkoloji_hastalarinda_egzersiz-3462",
+   "gorsel": "https://fs.hacettepe.edu.tr/etkinlik/2026/09-eylul/onkoloji.png"
   },
   {
    "id": "d5791daae020",
@@ -220,6 +92,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/azerbaycan-gecesi-ankara-dob",
    "gorsel": "veri/gorsel/dob-1-1029.webp"
+  },
+  {
+   "id": "2af2e7fad53c",
+   "baslik": "Lysıstrata",
+   "tarih": "2026-11-04",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "CSO Ada Ankara Ziraat Bankası Ana Salon",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/lysistrata",
+   "gorsel": "veri/gorsel/dt-lysistrata.jpg"
   },
   {
    "id": "bccf51b3e134",
@@ -284,22 +172,6 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/medea-material-1",
    "gorsel": "veri/gorsel/dt-medea-material-1.jpg"
-  },
-  {
-   "id": "2af2e7fad53c",
-   "baslik": "Lysıstrata",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "CSO Ada Ankara Ziraat Bankası Ana Salon",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/lysistrata",
-   "gorsel": "veri/gorsel/dt-lysistrata.jpg"
   },
   {
    "id": "f29b46bb8537",
@@ -476,6 +348,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/rustemoglu-cemalin-tuhaf-hikayesi",
    "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
+  },
+  {
+   "id": "608235e22cfe",
+   "baslik": "Onkoloji Hastalarında Alternatif Tıp, Tamamlayıcı Tıp ve Beslenme",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Çankaya",
+   "mekan": "Hacettepe Üniversitesi",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Hacettepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlikler.hacettepe.edu.tr/tr/onkoloji_hastalarinda_alternat-3458",
+   "gorsel": "https://fs.hacettepe.edu.tr/etkinlik/2026/09-eylul/onkoloji.png"
   },
   {
    "id": "03df03dfeeec",
@@ -926,6 +814,22 @@
    "gorsel": "veri/gorsel/dob-1-3373.webp"
   },
   {
+   "id": "e7f9bacf1b94",
+   "baslik": "Nizamülmülk",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "CSO Ada Ankara Ziraat Bankası Ana Salon",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nizamulmulk",
+   "gorsel": "veri/gorsel/dt-nizamulmulk.webp"
+  },
+  {
    "id": "0a952622976f",
    "baslik": "Bu da Geçer ya Hu",
    "tarih": "2026-11-11",
@@ -1004,22 +908,6 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/goge-yazilmis-bir-alp",
    "gorsel": "veri/gorsel/dt-goge-yazilmis-bir-alp.webp"
-  },
-  {
-   "id": "e7f9bacf1b94",
-   "baslik": "Nizamülmülk",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "CSO Ada Ankara Ziraat Bankası Ana Salon",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nizamulmulk",
-   "gorsel": "veri/gorsel/dt-nizamulmulk.webp"
   },
   {
    "id": "2d0d69198084",
@@ -1180,6 +1068,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kontrabas",
    "gorsel": "veri/gorsel/dt-kontrabas.jpg"
+  },
+  {
+   "id": "63bc05a449bd",
+   "baslik": "Kuzey Kıbrıs Türk Cumhuriyeti'nin 43. Yılı Özel Konseri",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "CSO Ada Ankara Mavi Salon",
+   "kategori": "Konser",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://www.operabale.gov.tr/directorates/ankara-opera-ve-balesi-1",
+   "gorsel": "veri/gorsel/dob-1-3397.webp"
   },
   {
    "id": "c4e5d0a7e008",
@@ -2339,7 +2243,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 132,
+   "etkinlik_sayisi": 126,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Hacettepe Üniversitesi",
+   "tur": "universite",
+   "url": "https://etkinlikler.hacettepe.edu.tr/",
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {
@@ -2347,20 +2258,6 @@
    "tur": "kultur",
    "url": "https://www.operabale.gov.tr",
    "etkinlik_sayisi": 8,
-   "durum": "çalışıyor"
-  },
-  {
-   "ad": "Hacettepe Üniversitesi",
-   "tur": "universite",
-   "url": "https://etkinlikler.hacettepe.edu.tr/",
-   "etkinlik_sayisi": 7,
-   "durum": "çalışıyor"
-  },
-  {
-   "ad": "Çankaya Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.cankaya.bel.tr",
-   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {
@@ -2446,6 +2343,13 @@
    "url": "https://etkinlik.io/ankara",
    "etkinlik_sayisi": 0,
    "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "Çankaya Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.cankaya.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   }
  ]
 }

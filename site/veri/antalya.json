@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-03T06:45+03:00",
+ "guncelleme": "2026-11-04T06:44+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -23,102 +23,6 @@
   "Serik"
  ],
  "etkinlikler": [
-  {
-   "id": "732576e7d308",
-   "baslik": "Kırmızı Cüce",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kirmizi-cuce",
-   "gorsel": "veri/gorsel/dt-kirmizi-cuce.jpg"
-  },
-  {
-   "id": "63c924e180ca",
-   "baslik": "Üç Kedi Bir Dilek",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Muratpaşa",
-   "mekan": "H.i.k.m. Sanat Galerisi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/uc-kedi-bir-dilek",
-   "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
-  },
-  {
-   "id": "f9ab418f9ab9",
-   "baslik": "Attila",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/attila-antalya-dob",
-   "gorsel": "veri/gorsel/dob-5-3298.webp"
-  },
-  {
-   "id": "7e0e8afe6421",
-   "baslik": "Edebiyat Fakültesi AGEK Konferans Dizisi \"Phoenix Arkeoloji Projesi: Bozburun Yarımadası'nın Kalbinde Yeni Nesil Bir Arkeoloji Projesi\"",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Edebiyat Fakültesi, Eskiçağ Dilleri ve Kültürleri Bölümü, D-103 Azra Erhat Dersliği",
-   "kategori": "Edebiyat",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/edebiyat_fakultesi_agek_konferans_dizisi_phoenix_arkeoloji_projesi%3A_bozburun_yarimadasinin_kalbinde_yeni_nesil_bir_arkeoloji_projesi_-5750",
-   "gorsel": null
-  },
-  {
-   "id": "e4f1ecd4eea6",
-   "baslik": "Fen Fakültesi Temel Bilim Seminerleri",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Fen Fakültesi B Blok Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/fen_fakultesi_temel_bilim_seminerleri_-5746",
-   "gorsel": null
-  },
-  {
-   "id": "d1e4b6d0820c",
-   "baslik": "Çevre Hizmet Ödülleri-2025 Ödül Töreni",
-   "tarih": "2026-11-03",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, İletişim Fakültesi Konferans Salonu",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/cevre_hizmet_odulleri2025_odul_toreni-5747",
-   "gorsel": null
-  },
   {
    "id": "2b77a068cb4f",
    "baslik": "Dino Ormanı",
@@ -504,6 +408,22 @@
    "gorsel": "veri/gorsel/dt-kirmizi-cuce.jpg"
   },
   {
+   "id": "70b3db8a1120",
+   "baslik": "Çello Yıldızları ve Opera-bale Solistleri",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/cello-yildizlari-antalya-dob",
+   "gorsel": "veri/gorsel/dob-5-3302.webp"
+  },
+  {
    "id": "8ab8647c45af",
    "baslik": "Taziye",
    "tarih": "2026-11-18",
@@ -653,7 +573,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 25,
+   "etkinlik_sayisi": 23,
    "durum": "çalışıyor"
   },
   {
@@ -667,7 +587,7 @@
    "ad": "Akdeniz Üniversitesi",
    "tur": "universite",
    "url": "https://www.akdeniz.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

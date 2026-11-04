@@ -1,5 +1,37 @@
 [
  {
+  "id": "b159982628f4",
+  "baslik": "KTÜ İİBF Mezunlar Derneği Faaliyetleri",
+  "tarih": "2026-11-03",
+  "bitis": null,
+  "saat": "10:00",
+  "ilce": "Ortahisar",
+  "mekan": "Radyo/TV",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/ktu-iibf-mezunlar-dernegi-faaliyetleri",
+  "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_53585d103cb7.jpg"
+ },
+ {
+  "id": "0cd978ca70e3",
+  "baslik": "Mühendislikten Akademiye, Kaliteden Girişimciliğe",
+  "tarih": "2026-11-03",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Ortahisar",
+  "mekan": "Radyo/TV",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/muhendislikten-akademiye-kaliteden-girisimcilige",
+  "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_lc2X7.jpg"
+ },
+ {
   "id": "a6c84b189dde",
   "baslik": "Dijital Dönüşümün Hayatımızdaki İzleri",
   "tarih": "2026-11-02",
