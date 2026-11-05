@@ -1,6 +1,6 @@
 {
  "il": "sinop",
- "guncelleme": "2026-11-04T07:04+03:00",
+ "guncelleme": "2026-11-05T07:56+03:00",
  "ilceler": [
   "Merkez",
   "Ayancık",
@@ -28,38 +28,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sinop.edu.tr/etkinlik/2026-yds-2-soru-cozme-kampi/",
    "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/09/YDS-SORU-COZME-KAMPI.webp"
-  },
-  {
-   "id": "95e0e0b0a8e4",
-   "baslik": "ASES 2.Uluslararası Kafkas Bilimsel Araştırmalar Kongresi",
-   "tarih": "2026-11-01",
-   "bitis": "2026-11-04",
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sinop Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": "Sempozyum",
-   "kaynak_ad": "Sinop Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/ases-2-uluslararasi-kafkas-bilimsel-arastirmalar-kongresi/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/06/ases2.sempozyum.png"
-  },
-  {
-   "id": "882a06f61422",
-   "baslik": "Proje Yönetiminin Temelleri Eğitimi",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Sinop Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Bilimsel Etkinlikler",
-   "kaynak_ad": "Sinop Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/proje-yonetiminin-temelleri-egitimi/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/10/projeyonetiminintemelleriegitimi.webp"
   },
   {
    "id": "7368f6fadadd",
@@ -211,7 +179,7 @@
    "ad": "Sinop Üniversitesi",
    "tur": "universite",
    "url": "https://www.sinop.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {
@@ -219,7 +187,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -261,7 +229,7 @@
    "tur": "kultur",
    "url": "https://sinop.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Yıllık festivaller (Sinop Uluslararası Kültür ve Sanat Festivali, Gerze Hamsi Festivali…)",

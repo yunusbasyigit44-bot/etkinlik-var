@@ -1,6 +1,6 @@
 {
  "il": "sivas",
- "guncelleme": "2026-11-04T07:05+03:00",
+ "guncelleme": "2026-11-05T07:58+03:00",
  "ilceler": [
   "Merkez",
   "Akıncılar",
@@ -21,22 +21,6 @@
   "Zara"
  ],
  "etkinlikler": [
-  {
-   "id": "3afabcf910e0",
-   "baslik": "Çayırın En Tuhaf Yuvası",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Merkez",
-   "mekan": "Sivas DT Fuaye",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/cayirin-en-tuhaf-yuvasi",
-   "gorsel": "veri/gorsel/dt-cayirin-en-tuhaf-yuvasi.jpg"
-  },
   {
    "id": "fdbff6a0dbde",
    "baslik": "Resimli Osmanlı Tarihi",
@@ -395,8 +379,8 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 18,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 17,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Sivas Cumhuriyet Üniversitesi",
@@ -445,7 +429,7 @@
    "tur": "kultur",
    "url": "https://sivas.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Yıllık festivaller (Sivas Kültür Yolu, Divriği Ulu Camii anma günleri, Kangal Balıklı Kaplıca…)",

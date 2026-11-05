@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-04T07:06+03:00",
+ "guncelleme": "2026-11-05T08:02+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -22,118 +22,6 @@
   "Yomra"
  ],
  "etkinlikler": [
-  {
-   "id": "2fbc5af53076",
-   "baslik": "Tribosurf'26 \"International Conference on Tribology and Surface Science\" Konferansı",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "09:30",
-   "ilce": "Ortahisar",
-   "mekan": "Prof. Dr. Osman Turan Kültür ve Kongre Merkezi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/makina/etkinlik/tribosurf26-international-conference-on-tribology-and-surface-science-konferansi",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/rdycHH.jpg"
-  },
-  {
-   "id": "68ef368fb000",
-   "baslik": "Şehir Planlama Eğitiminde Şehirleri Okumada Yaratıcı Etkinlikler",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Ortahisar",
-   "mekan": "Radyo/TV",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/sehir-planlama-egitiminde-sehirleri-okumada-yaratici-etkinlikler",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_6Hju8.jpg"
-  },
-  {
-   "id": "f4acab037711",
-   "baslik": "Hayvan Sağlığının İzinde: Hayvancılık İşletmesinde Günlük Yaşam",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Ortahisar",
-   "mekan": "Radyo/TV",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/hayvan-sagliginin-izinde-hayvancilik-isletmesinde-gunluk-yasam",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_3opwu.jpg"
-  },
-  {
-   "id": "ab927a49c099",
-   "baslik": "Sürdürülebilir Kalkınma Amaçlarında Özel Sektörün ve Üniversitelerin Rolü",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Ortahisar",
-   "mekan": "Teknoloji Transferi Uygulama ve Araştırma Merkezi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/ark/etkinlik/surdurulebilir-kalkinma-amaclarinda-ozel-sektorun-ve-universitelerin-rolu-9o",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/ark_75e41596f990.png"
-  },
-  {
-   "id": "6de940271e31",
-   "baslik": "Yeşil Dönüşüm ve Kısıtlı Kaynakların Verimli Kullanılmasında Nesnelerin İnterneti",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Ortahisar",
-   "mekan": "Radyo/TV",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/yesil-donusum-ve-kisitli-kaynaklarin-verimli-kullanilmasinda-nesnelerin-interneti",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_HmV8l.jpg"
-  },
-  {
-   "id": "e9f0756af69c",
-   "baslik": "2026 Nobel Fizik Ödülü Semineri",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Ortahisar",
-   "mekan": "Fizik Bölümü Küçük Amfi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/fizik/etkinlik/2026-nobel-fizik-odulu-semineri",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/TMseUP.jpg"
-  },
-  {
-   "id": "1426659e2c38",
-   "baslik": "Dijital Dünyada Çocuklarımız Ve Online Oyunlar",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Ortahisar",
-   "mekan": "Derslik 3",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/dents/etkinlik/dijital-dunyada-cocuklarimiz-ve-online-oyunlar",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/HgYEAs.jpg"
-  },
   {
    "id": "e1cb0313f3a2",
    "baslik": "Aile Sohbetleri",
@@ -165,6 +53,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ktu.edu.tr/dents/etkinlik/akademik-calismalarda-yapay-zeka-araclarinin-etik-ve-etkin-kullanimi",
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/Vp142L.jpg"
+  },
+  {
+   "id": "0b3b89444b25",
+   "baslik": "Bakara Suresi 143. Ayeti Bağlamında Dinde İtidal, Hayatı Denge Üzerine Kurmak",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/bakara-suresi-143-ayeti-baglaminda-dinde-itidal-hayati-denge-uzerine-kurmak",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_269228b514b4.jpeg"
   },
   {
    "id": "d6bb322faafc",
@@ -309,6 +213,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ktu.edu.tr/tr/etkinlik/10-kasim-ataturku-anma-programi-54",
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/1TM3IN.jpg"
+  },
+  {
+   "id": "c9971efb9ab7",
+   "baslik": "10 Kasım Atatürk'ü Anma Günü",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "09:05",
+   "ilce": "Ortahisar",
+   "mekan": "Atatürk Anıtı Önü (Rektörlük Önü) 🕥 10.00 (Anma Konseri) 📍 Mahmut Goloğlu Kültür",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Trabzon Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/3628",
+   "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/4/0ac7707f-149a-40f7-b307-2c6e0ddf26e7.png"
+  },
+  {
+   "id": "62ea605ebbe1",
+   "baslik": "Metalik Şerit ve Sürekli Elyaf Takviyeli, Yenilikçi Hibrit Kompozit Yapıların Üretimi",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/metalik-serit-ve-surekli-elyaf-takviyeli-yenilikci-hibrit-kompozit-yapilarin-uretimi",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_7d35da6732e6.jpg"
   },
   {
    "id": "af21e4f4ca98",
@@ -535,6 +471,22 @@
    "gorsel": "veri/gorsel/dt-julius-caesar.webp"
   },
   {
+   "id": "4e5956afbfef",
+   "baslik": "Mezunlar Derneği Lansmanı ve Mezunlar Paneli",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Ortahisar",
+   "mekan": "AKM (Reşit Tarakçıoğlu)",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/dents/etkinlik/mezunlar-dernegi-lansmani-ve-mezunlar-paneli",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/QcPGHO.jpg"
+  },
+  {
    "id": "1df98e2d263f",
    "baslik": "Julıus Caesar",
    "tarih": "2026-11-20",
@@ -599,6 +551,38 @@
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
   },
   {
+   "id": "1fd2c1815485",
+   "baslik": "AB Programları ve Proje Fırsatları Bilgi Günü",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "10:15",
+   "ilce": "Ortahisar",
+   "mekan": "KTÜ TTM",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/tto/etkinlik/ab-programlari-ve-proje-firsatlari-bilgi-gunu",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/tto_abbcf4829442.jpg"
+  },
+  {
+   "id": "8add61015f9d",
+   "baslik": "Uygulamalı Proje Döngüsü Yönetimi Eğitimi",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Ortahisar",
+   "mekan": "KTÜ TTM",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/tto/etkinlik/uygulamali-proje-dongusu-yonetimi-egitimi",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/tto_ee978adefd62.jpg"
+  },
+  {
    "id": "30363f76b74c",
    "baslik": "Trabzonlu İbrahim Cûdî Efendi Bilgi Şöleni",
    "tarih": "2026-11-27",
@@ -636,7 +620,7 @@
    "ad": "Karadeniz Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://www.ktu.edu.tr",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {
@@ -644,13 +628,13 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 16,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Trabzon Üniversitesi",
    "tur": "universite",
    "url": "https://www.trabzon.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {
@@ -700,7 +684,7 @@
    "tur": "kultur",
    "url": "https://trabzon.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Yıllık festivaller (Uluslararası Trabzon Film Festivali, Kadırga Yaylası Şenlikleri, Sera Gölü…)",

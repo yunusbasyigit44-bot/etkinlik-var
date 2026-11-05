@@ -1,6 +1,6 @@
 {
  "il": "adiyaman",
- "guncelleme": "2026-11-04T06:40+03:00",
+ "guncelleme": "2026-11-05T06:47+03:00",
  "ilceler": [
   "Merkez",
   "Besni",
@@ -13,22 +13,6 @@
   "Tut"
  ],
  "etkinlikler": [
-  {
-   "id": "f55484dd42f2",
-   "baslik": "ADYÜ Teknokent Tanıtım ve Bilgilendirme Programı",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Merkez",
-   "mekan": "Mustafa V. Koç Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adıyaman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/04/adyu-teknokent-tanitim-ve-bilgilendirme-programi",
-   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/04/adyu-teknokent-tanitim-ve-bilgilendirme-programi/thumb/whatsapp%20%C4%B1mage%202026-10-30%20at%2010.18.53.jpeg"
-  },
   {
    "id": "e593df191d60",
    "baslik": "Bankacılıkta Kariyer Yolcuğu",
@@ -99,7 +83,7 @@
    "ad": "Adıyaman Üniversitesi",
    "tur": "universite",
    "url": "https://adiyaman.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {
@@ -128,14 +112,14 @@
    "tur": "kultur",
    "url": "https://adiyaman.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

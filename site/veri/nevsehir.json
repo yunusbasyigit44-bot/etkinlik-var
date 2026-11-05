@@ -1,6 +1,6 @@
 {
  "il": "nevsehir",
- "guncelleme": "2026-11-04T07:02+03:00",
+ "guncelleme": "2026-11-05T07:48+03:00",
  "ilceler": [
   "Merkez",
   "Acıgöl",
@@ -27,9 +27,32 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://urgup.bel.tr/tr/etkinlik/3-urgup-tavla-turnuvasi/28",
    "gorsel": "https://urgup.bel.tr/upload/etkinlikler/2026_10_23-pNsfrXT16fgXyUA4CqGO.jpg"
+  },
+  {
+   "id": "c83b55bc80c6",
+   "baslik": "\"Kriz Dönemlerinde Bilimsel Veri Temelli Afet ve İnsani Yardım Yönetimi\" Başlıklı Etkinlik",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Kültürel Etkinlik",
+   "kaynak_ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.nevsehir.edu.tr/tr/59329",
+   "gorsel": null
   }
  ],
  "kaynaklar": [
+  {
+   "ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.nevsehir.edu.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
   {
    "ad": "Ürgüp Belediyesi",
    "tur": "belediye",
@@ -49,7 +72,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",
@@ -73,13 +96,6 @@
    "durum": "etkinlik takvimi yok; sadece haber (kahve atölyesi, patates festivali haberleri)"
   },
   {
-   "ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.nevsehir.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
-  },
-  {
    "ad": "Nevşehir Valiliği ve ilçe kaymakamlıkları",
    "tur": "valilik",
    "url": "https://www.nevsehir.gov.tr",
@@ -91,7 +107,7 @@
    "tur": "kultur",
    "url": "https://nevsehir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

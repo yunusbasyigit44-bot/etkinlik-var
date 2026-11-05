@@ -1,6 +1,6 @@
 {
  "il": "ardahan",
- "guncelleme": "2026-11-04T07:08+03:00",
+ "guncelleme": "2026-11-05T08:16+03:00",
  "ilceler": [
   "Merkez",
   "Çıldır",
@@ -37,14 +37,14 @@
    "tur": "kultur",
    "url": "https://ardahan.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

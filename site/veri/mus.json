@@ -1,6 +1,6 @@
 {
  "il": "mus",
- "guncelleme": "2026-11-04T07:02+03:00",
+ "guncelleme": "2026-11-05T07:47+03:00",
  "ilceler": [
   "Merkez",
   "Bulanık",
@@ -11,52 +11,20 @@
  ],
  "etkinlikler": [
   {
-   "id": "138e2fbd6b54",
-   "baslik": "EEG Sinyallerinden...",
-   "tarih": "2026-11-04",
+   "id": "91e727e6bed6",
+   "baslik": "Kitap Nasıl Okunmaz ?",
+   "tarih": "2026-11-05",
    "bitis": null,
    "saat": null,
    "ilce": "Merkez",
    "mekan": "Muş Alparslan Üniversitesi",
-   "kategori": "Diğer",
+   "kategori": "Edebiyat",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Muş Alparslan Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/eeg-sinyallerinde-9630",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1793624664.jpg"
-  },
-  {
-   "id": "67198a1f9e79",
-   "baslik": "Bağımlılık ve Psikolojik Dayanıklılık",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Muş Alparslan Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muş Alparslan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/bagimlilik-ve-psikolojik-dayaniklilik-9634",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1793710502.jpg"
-  },
-  {
-   "id": "bfc6668ba6a2",
-   "baslik": "Nizamiye Sohbetleri-38",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Muş Alparslan Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muş Alparslan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/nizamiye-sohbetleri-38-9632",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1793690099.jpg"
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/kitap-nasil-okunmaz-9636",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1793771489.jpg"
   },
   {
    "id": "bfc028bc0740",
@@ -80,7 +48,7 @@
    "ad": "Muş Alparslan Üniversitesi",
    "tur": "universite",
    "url": "https://www.alparslan.edu.tr/tr/page/event",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {
@@ -88,7 +56,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",
@@ -137,7 +105,7 @@
    "tur": "kultur",
    "url": "https://mus.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

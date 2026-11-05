@@ -1,6 +1,6 @@
 {
  "il": "erzincan",
- "guncelleme": "2026-11-04T06:48+03:00",
+ "guncelleme": "2026-11-05T07:12+03:00",
  "ilceler": [
   "Merkez",
   "Çayırlı",
@@ -13,22 +13,6 @@
   "Üzümlü"
  ],
  "etkinlikler": [
-  {
-   "id": "1c27558fb610",
-   "baslik": "Eczacılık Fakültesi 2026-27 Beyaz Önlük Giyme Töreni",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Prof. Dr. Erdoğan Büyükkasap Kongre ve Kültür Merkezi",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": "Fiziksel Etkinlik",
-   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://ebyu.edu.tr/etkinlik/eczacilik-fakultesi-2026-27-beyaz-onluk-giyme-toreni/",
-   "gorsel": null
-  },
   {
    "id": "2af3a2d6a98f",
    "baslik": "F-35 ve B2'nin Görünmezliğinin Arkasındaki Türk Bilim Adamı \"Ergün Kırlıkovalı\" Konferans",
@@ -59,6 +43,22 @@
    "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://ebyu.edu.tr/etkinlik/erasmus-would-you-mind-set/",
+   "gorsel": null
+  },
+  {
+   "id": "af65955dfaed",
+   "baslik": "“Din Dili ve Gençlik” Sempozyumu",
+   "tarih": "2026-11-07",
+   "bitis": "2026-11-08",
+   "saat": "08:00",
+   "ilce": "Merkez",
+   "mekan": "Online",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": "Online Etkinlik",
+   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://ebyu.edu.tr/etkinlik/din-dili-ve-genclik-sempozyumu/",
    "gorsel": null
   },
   {
@@ -114,7 +114,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Erzincan Belediyesi",
@@ -135,7 +135,7 @@
    "tur": "kultur",
    "url": "https://erzincan.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

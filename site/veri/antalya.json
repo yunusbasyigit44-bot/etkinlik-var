@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-04T06:44+03:00",
+ "guncelleme": "2026-11-05T06:55+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -24,36 +24,52 @@
  ],
  "etkinlikler": [
   {
-   "id": "2b77a068cb4f",
-   "baslik": "Dino Ormanı",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/dino-ormani-antalya-dob",
+   "id": "c6f822662289",
+   "baslik": "Divan, COP31 Mavi Bölge’de Görev Alacak Öğrencilerimizle Mülakat Yapacak",
+   "tarih": "2026-10-09",
+   "bitis": "2026-11-21",
+   "saat": "10:00",
+   "ilce": "Döşemealtı",
+   "mekan": "Antalya Bilim Üniversitesi, Fuaye alanı",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "COP31’de sen de yerini al! Divan, Mavi Bölge mutfak ve servis hizmetleri için 9 ve 14 Ekim’de öğrencilerimizle mülakat yapacak.",
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/divan-cop31-mavi-bolge-ogrenci-mulakatlari",
    "gorsel": null
   },
   {
-   "id": "fad08fd71ded",
-   "baslik": "Buzlar Çözülmeden",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buzlar-cozulmeden",
-   "gorsel": "veri/gorsel/dt-buzlar-cozulmeden.jpg"
+   "id": "e3d9ced08c55",
+   "baslik": "COP31 Kampüste",
+   "tarih": "2026-10-21",
+   "bitis": "2026-11-21",
+   "saat": "14:00",
+   "ilce": "Döşemealtı",
+   "mekan": "Antalya Bilim Üniversitesi",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/cop31-kampuste",
+   "gorsel": null
+  },
+  {
+   "id": "a2fc821178dd",
+   "baslik": "Antalya Kriterleri Bildirisi ve Taahhütnamesi 3 Kasım’da ATSO’da İmzalanacak",
+   "tarih": "2026-11-03",
+   "bitis": "2026-11-21",
+   "saat": "10:00",
+   "ilce": "Döşemealtı",
+   "mekan": "Antalya Ticaret ve Sanayi Odası (ATSO), Atatürk Konferans Salonu",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": "Turizmde kaynak israfını azaltmaya yönelik Antalya Kriterleri Bildirisi ve Taahhütnamesi, 3 Kasım’da ATSO’da düzenlenecek törenle imzalanacak.",
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/antalya-kriterleri-bildirisi-ve-taahhutnamesi-imza-toreni",
+   "gorsel": null
   },
   {
    "id": "ccbff83862b8",
@@ -200,6 +216,38 @@
    "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
   },
   {
+   "id": "bfa5e07e92d2",
+   "baslik": "Enerji Dönüşümünde Gençlik ve Kuşaklar Arası Diyalog 9 Kasım’da ABÜ’de",
+   "tarih": "2026-11-09",
+   "bitis": "2026-11-21",
+   "saat": "10:00",
+   "ilce": "Döşemealtı",
+   "mekan": "Antalya Bilim Üniversitesi, Konferans Salonu",
+   "kategori": "Gençlik",
+   "ucretsiz": true,
+   "ozet": "ABÜ, UNIDO, SDSN ve CEET iş birliğindeki buluşma, 9 Kasım’da gençleri ve farklı kuşakları enerji dönüşümünün ortak gündeminde bir araya getirecek.",
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/enerji-donusumunde-genclik-ve-kusaklar-arasi-diyalog",
+   "gorsel": null
+  },
+  {
+   "id": "50547c2756a6",
+   "baslik": "5. Küresel Ağız Sağlığı ve İklim Eylemi Konferansı COP31 Boyunca Çevrim İçi Yapılacak",
+   "tarih": "2026-11-09",
+   "bitis": "2026-11-21",
+   "saat": "11:00",
+   "ilce": "Döşemealtı",
+   "mekan": "Çevrim içi (Zoom)",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "GOHCA-5, 9–20 Kasım’da 45’ten fazla çevrim içi oturumda 160’tan fazla uluslararası uzmanı buluşturacak. Uluslararası lansman 6 Kasım’da.",
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/gohca-5-kuresel-agiz-sagligi-ve-iklim-eylemi-konferansi",
+   "gorsel": null
+  },
+  {
    "id": "0329e8d675eb",
    "baslik": "Atatürk'ü Anma Konserı",
    "tarih": "2026-11-10",
@@ -213,6 +261,22 @@
    "kaynak_ad": "Devlet Opera ve Balesi",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://www.operabale.gov.tr/directorates/antalya-opera-ve-balesi-5",
+   "gorsel": null
+  },
+  {
+   "id": "a2db72c220fa",
+   "baslik": "“İklim Eyleminde Kültürel Miras” Programı 11–16 Kasım’da Antalya’da",
+   "tarih": "2026-11-11",
+   "bitis": "2026-11-21",
+   "saat": "10:00",
+   "ilce": "Döşemealtı",
+   "mekan": "ABÜ Kampüsü; Mimarlar Odası Antalya Şubesi, Antalya Kent Konseyi, Koç Üniversitesi AKMED",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "ICOMOS Türkiye, Uluslararası ICOMOS İklim Eylemi Çalışma Grubu ve ABÜ ortaklığındaki altı günlük program 11 Kasım’da başlıyor; kayıtlar açık.",
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/iklim-eyleminde-kulturel-miras-icomos",
    "gorsel": null
   },
   {
@@ -280,6 +344,22 @@
    "gorsel": "veri/gorsel/dt-kuslar.jpg"
   },
   {
+   "id": "8e5c6868d0d0",
+   "baslik": "İklim Hukuku ve Yönetişim Günü 13 Kasım’da ABÜ’de",
+   "tarih": "2026-11-13",
+   "bitis": "2026-11-21",
+   "saat": "08:30",
+   "ilce": "Döşemealtı",
+   "mekan": "Antalya Bilim Üniversitesi, Konferans Salonu",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": "CLGI’nin yıllık buluşması İklim Hukuku ve Yönetişim Günü, 13 Kasım’da ABÜ ev sahipliğinde yüz yüze ve çevrim içi katılıma açık olarak yapılacak.",
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/iklim-hukuku-ve-yonetisim-gunu",
+   "gorsel": null
+  },
+  {
    "id": "129a7d4dd9f9",
    "baslik": "Kuşlar",
    "tarih": "2026-11-13",
@@ -342,6 +422,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kuslar",
    "gorsel": "veri/gorsel/dt-kuslar.jpg"
+  },
+  {
+   "id": "28420e11eaab",
+   "baslik": "İklim Hukuku ve Yönetişimi Uzmanlık Kursu 15 Kasım’da: Ön Kayıtlar Sürüyor",
+   "tarih": "2026-11-15",
+   "bitis": "2026-11-21",
+   "saat": "09:00",
+   "ilce": "Döşemealtı",
+   "mekan": "ABÜ Kampüsü, A Blok amfileri (A1-76, A2-76, A1-90, A2-90)",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": "CISDL, CLGI ve ortaklarının düzenleyeceği uzmanlık kursu 15 Kasım’da yüz yüze ve çevrim içi yapılacak. Kontenjan sınırlı, ön kayıt zorunlu.",
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/iklim-hukuku-ve-yonetisimi-uzmanlik-kursu",
+   "gorsel": null
   },
   {
    "id": "625cdaf55660",
@@ -454,6 +550,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/taziye",
    "gorsel": "veri/gorsel/dt-taziye.webp"
+  },
+  {
+   "id": "6ccd45982ac4",
+   "baslik": "ABÜ, 20 Kasım’da COP31 Yeşil Bölge’deki YÖK Alanında Hukuk Paneli Düzenleyecek",
+   "tarih": "2026-11-20",
+   "bitis": "2026-11-21",
+   "saat": "14:00",
+   "ilce": "Döşemealtı",
+   "mekan": "COP31 Yeşil Bölge, YÖK alanı, Antalya Expo Center (Aksu)",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": "COP31’in son günü YÖK alanında “COP31 Antalya Hukuk Buluşmaları” paneli ve üç dijital ekran sunumu ziyaretçilerle buluşacak.",
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/cop31-yesil-bolge-yok-alani-hukuk-paneli",
+   "gorsel": null
   },
   {
    "id": "f49eb63c2c44",
@@ -573,28 +685,28 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 23,
+   "etkinlik_sayisi": 22,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
+  },
+  {
+   "ad": "Antalya Bilim Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.antalya.edu.tr/tr/etkinlik-takvimi",
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Opera ve Balesi",
    "tur": "kultur",
    "url": "https://www.operabale.gov.tr",
-   "etkinlik_sayisi": 8,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 7,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Akdeniz Üniversitesi",
    "tur": "universite",
    "url": "https://www.akdeniz.edu.tr/tr/etkinlikler",
    "etkinlik_sayisi": 2,
-   "durum": "çalışıyor"
-  },
-  {
-   "ad": "Antalya Bilim Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.antalya.edu.tr/tr/etkinlik-takvimi",
-   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {
@@ -644,7 +756,7 @@
    "tur": "kultur",
    "url": "https://antalya.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

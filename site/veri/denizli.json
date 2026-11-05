@@ -1,6 +1,6 @@
 {
  "il": "denizli",
- "guncelleme": "2026-11-04T06:46+03:00",
+ "guncelleme": "2026-11-05T07:07+03:00",
  "ilceler": [
   "Pamukkale",
   "Merkezefendi",
@@ -24,6 +24,22 @@
  ],
  "etkinlikler": [
   {
+   "id": "81caffbf9f17",
+   "baslik": "Köklerden Göklere: Hayallerimin HÜR Kanatları!",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Pamukkale",
+   "mekan": "PAÜ Prof. Dr. Hüseyin Yılmaz Kongre ve Kültür Merkezi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Pamukkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.pau.edu.tr/pau/tr/etkinlik/koklerden-goklere-hayallerimin-hur-kanatlari",
+   "gorsel": "https://cdn.pau.edu.tr/BIYS/siteler/pau/editor/202610/HurKanatlarSoylesi.jpg.jpeg"
+  },
+  {
    "id": "cadfa2a15364",
    "baslik": "II. Uluslararası Türk Dünyasında Kültürel Miras ve Aktarımı Sempozyumu",
    "tarih": "2026-11-12",
@@ -45,7 +61,7 @@
    "ad": "Pamukkale Üniversitesi",
    "tur": "universite",
    "url": "https://www.pau.edu.tr/pau/tr/etkinlikler",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {
@@ -81,14 +97,14 @@
    "tur": "kultur",
    "url": "https://denizli.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

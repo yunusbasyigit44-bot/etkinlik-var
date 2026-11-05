@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-04T06:45+03:00",
+ "guncelleme": "2026-11-05T07:02+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,38 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "b4bb7516d156",
-   "baslik": "Türkiye'nin Çatısı Ağrı Dağı'na Yolculuk",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Merkez",
-   "mekan": "Fen-Edebiyat Fakültesi Konferans Salonu 1",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13558/1/turkiyenin-catisi-agri-dagina-yolculuk",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13558/4_13558_2026-10-30-07-14-17-565291_thumb.webp"
-  },
-  {
-   "id": "f5f1be9d2905",
-   "baslik": "The Good Nurse Film Gösterimi",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Merkez",
-   "mekan": "Avşarhan Sinema Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13551/1/the-good-nurse-film-gosterimi",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13551/4_13551_2026-10-28-06-41-09-249857_thumb.webp"
-  },
   {
    "id": "e17ab5c4b430",
    "baslik": "Üniversite Öğrencilerinde Mental Sağlığın Korunması",
@@ -96,6 +64,22 @@
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13569/4_13569_2026-11-02-13-46-25-37849_thumb.webp"
   },
   {
+   "id": "a54d3bb79921",
+   "baslik": "Gülüşten Beden Sağlığına: Diyabeti Birlikte Konuşuyoruz",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Merkez",
+   "mekan": "Bilim Kafe (Taş Oda)",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13575/1/gulusten-beden-sagligina-diyabeti-birlikte-konusuyoruz",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13575/4_13575_2026-11-04-06-51-14-644412_thumb.webp"
+  },
+  {
    "id": "e8a1e18b3039",
    "baslik": "Bir Ömür, bin hikaye: Meslekler, anılar ve yaşam yolculukları",
    "tarih": "2026-11-16",
@@ -110,6 +94,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13570/1/bir-omur-bin-hikaye-meslekler-anilar-ve-yasam-yolculuklari",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13570/4_13570_2026-11-02-13-48-35-349905_thumb.webp"
+  },
+  {
+   "id": "95e507298278",
+   "baslik": "Çocuklar İçin P4C",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "Eğitim Fakültesi Konferans Salonu",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13543/1/cocuklar-icin-p4c",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13543/4_13543_2026-10-28-06-59-00-693617_thumb.webp"
   }
  ],
  "kaynaklar": [
@@ -153,14 +153,14 @@
    "tur": "kultur",
    "url": "https://burdur.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

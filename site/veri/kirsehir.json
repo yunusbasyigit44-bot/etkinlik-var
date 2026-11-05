@@ -1,6 +1,6 @@
 {
  "il": "kirsehir",
- "guncelleme": "2026-11-04T06:56+03:00",
+ "guncelleme": "2026-11-05T07:36+03:00",
  "ilceler": [
   "Merkez",
   "Akçakent",
@@ -17,7 +17,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Kaman, Mucur, Çiçekdağı belediyeleri",
@@ -52,7 +52,7 @@
    "tur": "kultur",
    "url": "https://kirsehir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Neşet Ertaş Anma Programı, Ahilik Haftası, Kaman Ceviz Festivali…",

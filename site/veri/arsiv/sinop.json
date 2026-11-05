@@ -1,5 +1,21 @@
 [
  {
+  "id": "882a06f61422",
+  "baslik": "Proje Yönetiminin Temelleri Eğitimi",
+  "tarih": "2026-11-04",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Merkez",
+  "mekan": "Sinop Üniversitesi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": "Bilimsel Etkinlikler",
+  "kaynak_ad": "Sinop Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sinop.edu.tr/etkinlik/proje-yonetiminin-temelleri-egitimi/",
+  "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/10/projeyonetiminintemelleriegitimi.webp"
+ },
+ {
   "id": "ee57991fae57",
   "baslik": "\"Karadeniz'e Vurulan Selçuklu Mührü\" Sinop'un Fethi (1214)",
   "tarih": "2026-11-03",
@@ -30,6 +46,22 @@
   "kaynak_tur": "universite",
   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/cagdas-turk-edebiyatinin-bir-temsilcisi-sabahattin-ali/",
   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/10/sabahattinalisempozyum.webp"
+ },
+ {
+  "id": "95e0e0b0a8e4",
+  "baslik": "ASES 2.Uluslararası Kafkas Bilimsel Araştırmalar Kongresi",
+  "tarih": "2026-11-01",
+  "bitis": "2026-11-04",
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Sinop Üniversitesi",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": "Sempozyum",
+  "kaynak_ad": "Sinop Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sinop.edu.tr/etkinlik/ases-2-uluslararasi-kafkas-bilimsel-arastirmalar-kongresi/",
+  "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/06/ases2.sempozyum.png"
  },
  {
   "id": "bad3b5870cde",

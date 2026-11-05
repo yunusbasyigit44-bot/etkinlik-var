@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-04T06:41+03:00",
+ "guncelleme": "2026-11-05T06:48+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -55,68 +55,36 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261027141418_ekimgecidi_afis.jpeg"
   },
   {
-   "id": "f06b162801b7",
-   "baslik": "Anlam Krizi, İnsan Neden Yaşar",
-   "tarih": "2026-11-04",
+   "id": "d0ec82fca9ec",
+   "baslik": "Hayat Kurtarmak İçin Bilinçlenin",
+   "tarih": "2026-11-05",
    "bitis": null,
-   "saat": "11:00",
+   "saat": "12:00",
    "ilce": "Merkez",
-   "mekan": "Prof. Dr. Sabri Bektöre Konferans Salonu",
+   "mekan": "Spor Bilimleri Fakültesi Antrenman Salonu",
    "kategori": "Söyleşi",
    "ucretsiz": true,
-   "ozet": "Söyleşi · İkti̇sadi̇ Ve İdari̇ Bi̇li̇mler Fakültesi̇",
+   "ozet": "Konferans · Spor Bi̇li̇mleri̇ Fakültesi̇",
    "kaynak_ad": "Afyon Kocatepe Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261030152549_whatsapp_image_2026-10-30_at_15.12.42.jpeg"
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261103140913_arama_kurtarma.jpeg"
   },
   {
-   "id": "5205f7046825",
-   "baslik": "Kariyer Söyleyişisi",
-   "tarih": "2026-11-04",
+   "id": "b590f42eef01",
+   "baslik": "Fıkhî Perspektiften Paranın Dönüşümü",
+   "tarih": "2026-11-05",
    "bitis": null,
-   "saat": "11:00",
+   "saat": "17:00",
    "ilce": "Merkez",
-   "mekan": "Prof. Dr. Sabri Bektöre Konferans Salonu",
-   "kategori": "Kariyer",
-   "ucretsiz": true,
-   "ozet": "Söyleşi · Sosyal Bi̇li̇mler Ensti̇tüsü",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261030152229_whatsapp_image_2026-10-30_at_15.20.21.jpeg"
-  },
-  {
-   "id": "de3209ba5692",
-   "baslik": "İklim Değişikliği ve Farkındalık Eğitimi",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Bolvadin",
-   "mekan": "Bolvadin Meslek Yüksekokulu Konferans Salonu",
+   "mekan": "Diyanet Gençlik Merkezi",
    "kategori": "Söyleşi",
    "ucretsiz": true,
-   "ozet": "Seminer · Bolvadi̇n Meslek Yüksekokulu",
+   "ozet": "Panel · İslam İkti̇sadi Ve Fi̇nansi Uygulama Ve Araştirma Me",
    "kaynak_ad": "Afyon Kocatepe Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261021095439_muh.jpg"
-  },
-  {
-   "id": "cd4b69527bd4",
-   "baslik": "Hizmet İçi Eğitim-satınalma (doğrudan temin) işlemleri",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Prof. Dr. Şehabettin Yiğitbaşı Kütüphanesi Konferans Salonu",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim Programı · Personel Dai̇re Başkanliği",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": null
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261104094526_akifam_afisleri.jpg"
   },
   {
    "id": "304be7a39443",
@@ -133,6 +101,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261030144716_whatsapp_image_2026-10-30_at_14.15.46.jpeg"
+  },
+  {
+   "id": "88c02a687513",
+   "baslik": "Muteferriqa Veri Tabanı ile İlgili Çevrimiçi (Online) Eğitim",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Merkez",
+   "mekan": "Çevrimiçi (Online)",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim Programı · Kütüphane Ve Dokümantasyon Dai̇re Başkanliği",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261103142359_muteferriqa_cevrimici_egitim_afisii.jpg"
   },
   {
    "id": "fe32f95fd863",
@@ -183,6 +167,38 @@
    "gorsel": null
   },
   {
+   "id": "00c2ce645f9e",
+   "baslik": "Clarivate-Çevrimiçi (Online) Eğitim: Web of Science Core Collection Kullanarak Güvenle Araştırma Yapın",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Merkez",
+   "mekan": "Çevrimiçi (Online)",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim Programı · Kütüphane Ve Dokümantasyon Dai̇re Başkanliği",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261103150007_yiauq.jpg"
+  },
+  {
+   "id": "32f74818a5c4",
+   "baslik": "Fidan Dikim Etkinliği",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "11:11",
+   "ilce": "Merkez",
+   "mekan": "Eğitim Fakültesi Önü",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": "Afyon Kocatepe Üni̇versi̇tesi̇ Rektörlüğü",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261104112428_fidan.jpeg"
+  },
+  {
    "id": "f07bb413d422",
    "baslik": "NVivo ile Araştırma/Yayın Odaklı Pratik İçerik Analizi ve R’da Veri Görselleştirme",
    "tarih": "2026-11-15",
@@ -199,6 +215,22 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261012171006_volkan_1.jpeg"
   },
   {
+   "id": "1a095af37005",
+   "baslik": "İş Dünyası İçin Kriz Yönetimi & Risk Analizi",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Mühendislik Fakültesi Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminer · İkti̇sadi̇ Ve İdari̇ Bi̇li̇mler Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261103093752_whatsapp_image_2026-11-02_at_10..jpg"
+  },
+  {
    "id": "3adefe21feda",
    "baslik": "Girişimcilikte Bir Tecrübe Paylaşımı",
    "tarih": "2026-11-25",
@@ -209,6 +241,22 @@
    "kategori": "Bilim & Teknoloji",
    "ucretsiz": true,
    "ozet": "Seminer · Sosyal Bi̇li̇mler Ensti̇tüsü",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": null
+  },
+  {
+   "id": "920596a30d5c",
+   "baslik": "Kökler ve Ateş",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kongre Merkezi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Müzikal Gösteri · Afyonkarahisar Belediye Başkanlığı",
    "kaynak_ad": "Afyon Kocatepe Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
@@ -332,8 +380,8 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 16,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 19,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
@@ -368,7 +416,7 @@
    "tur": "kultur",
    "url": "https://afyon.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Belediye Şehir Tiyatrosu",
@@ -389,7 +437,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Dinar Belediyesi",

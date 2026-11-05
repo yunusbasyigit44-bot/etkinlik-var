@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-11-04T06:55+03:00",
+ "guncelleme": "2026-11-05T07:31+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -193,54 +193,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.konak.bel.tr/tr/etkinlikler/etkinlik/zamanin-dokusu",
    "gorsel": "https://www.konak.bel.tr/upload/activity/9dccf9bd-fe3e-4949-9403-e18f613830e7_6adf35065a7b6.jpg"
-  },
-  {
-   "id": "09412a6432e4",
-   "baslik": "Kanlı Nigar",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kanli-nigar",
-   "gorsel": "veri/gorsel/dt-kanli-nigar.webp"
-  },
-  {
-   "id": "69104eb37754",
-   "baslik": "Nihayet Makamı",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nihayet-makami",
-   "gorsel": "veri/gorsel/dt-nihayet-makami.jpg"
-  },
-  {
-   "id": "10b59f73753b",
-   "baslik": "Vivaldi Mevsimler",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Konak",
-   "mekan": "Elhamra Sahnesi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/vivaldi-mevsimler-izmir-dob",
-   "gorsel": "veri/gorsel/dob-3-2783.jpg"
   },
   {
    "id": "31e287ab9a49",
@@ -1512,8 +1464,8 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 48,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 46,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
@@ -1526,8 +1478,8 @@
    "ad": "Devlet Opera ve Balesi",
    "tur": "kultur",
    "url": "https://www.operabale.gov.tr",
-   "etkinlik_sayisi": 8,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 7,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Konak Belediyesi",
@@ -1604,7 +1556,7 @@
    "tur": "kultur",
    "url": "https://izmir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "il": "amasya",
- "guncelleme": "2026-11-04T06:41+03:00",
+ "guncelleme": "2026-11-05T06:50+03:00",
  "ilceler": [
   "Merkez",
   "Göynücek",
@@ -59,14 +59,14 @@
    "tur": "kultur",
    "url": "https://amasya.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

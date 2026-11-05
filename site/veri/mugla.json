@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-04T07:01+03:00",
+ "guncelleme": "2026-11-05T07:46+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -50,22 +50,6 @@
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
   },
   {
-   "id": "ad514d0c46fd",
-   "baslik": "Mezun & Öğrenci Buluşması",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mezun--ogrenci-bulusmasi-4702",
-   "gorsel": null
-  },
-  {
    "id": "a6924fad56a7",
    "baslik": "29 Ekim Cumhuriyet Bayramı Ula Göleti Doğa Yürüyüşü",
    "tarih": "2026-11-05",
@@ -80,6 +64,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/29-ekim-cumhuriyet-bayrami-ula-goleti-doga-yuruyusu-4696",
    "gorsel": null
+  },
+  {
+   "id": "3d8d68276fe1",
+   "baslik": "Bodrum Ragetta Organizasyonu",
+   "tarih": "2026-11-06",
+   "bitis": "2026-11-08",
+   "saat": "10:00",
+   "ilce": "Bodrum",
+   "mekan": "Bitez Yalısı Ambrosia Otel Önü",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bodrum Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2830/Ragetta-Bodrum_Ragetta_Organizasyonu",
+   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2830_1793784020.1081.png"
+  },
+  {
+   "id": "1995e5209efb",
+   "baslik": "Belediyemizin Hizmet Filosuna Kazandırdığı Yeni 17 Aracın Tanıtım Töreni",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Bodrum",
+   "mekan": "Bodrum Belediye Meydanı",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bodrum Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2834/Tanitim_Toreni-Belediyemizin_Hizmet_Filosuna_Kazandirdigi_Yeni_17_Aracin_Tanitim_Toreni",
+   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
   },
   {
    "id": "1dbe7e37fa5c",
@@ -114,6 +130,22 @@
    "gorsel": null
   },
   {
+   "id": "b5f234369b69",
+   "baslik": "Bodrum Belediyesi Kültür ve Doğa Yürüyüşü-Kissebükü Antik Kenti",
+   "tarih": "2026-11-08",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Bodrum",
+   "mekan": "Bodrum Eski Otogar",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bodrum Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2831/Yuruyus-Bodrum_Belediyesi_Kultur_ve_Doga_Yuruyusu-Kissebuku_Antik_Kenti",
+   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2831_1793790932.2053.jpeg"
+  },
+  {
    "id": "a23658bc5198",
    "baslik": "Teknoloji Transfer Ofisi Eğitimi",
    "tarih": "2026-11-09",
@@ -144,6 +176,54 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/bir-ulusun-donusumunde-liderligin-gucu--ataturk-ve-toplumsal-degisimin-sosyal-psikolojisi-4692",
    "gorsel": null
+  },
+  {
+   "id": "444bf8b70e5c",
+   "baslik": "Pınarlıbelen Pazar Yeri Açılışı",
+   "tarih": "2026-11-09",
+   "bitis": null,
+   "saat": "18:00",
+   "ilce": "Bodrum",
+   "mekan": "Pınarlıbelen",
+   "kategori": "Fuar & Kermes",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bodrum Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2835/Acilis-Pinarlibelen_Pazar_Yeri_Acilisi",
+   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+  },
+  {
+   "id": "ce58f63e5b78",
+   "baslik": "10 Kasım Atatürk’ü Anma Programı",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Bodrum",
+   "mekan": "Bodrum Belediye Meydanı",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bodrum Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2832/Anma_Programi-10_Kasim_Ataturk%E2%80%99u_Anma_Programi",
+   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+  },
+  {
+   "id": "778d22356e6a",
+   "baslik": "Saat Dokuzu Beş Geçe, Bir Milletin Sessizliği- 10 Kasım Atatürk’ü Anma Konseri",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Bodrum",
+   "mekan": "B.B Herodot Kültür Merkezi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bodrum Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2836/Konser-Saat_Dokuzu_Bes_Gece_Bir_Milletin_Sessizligi-_10_Kasim_Ataturk%E2%80%99u_Anma_Konseri",
+   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
   },
   {
    "id": "8785817c38ff",
@@ -194,6 +274,22 @@
    "gorsel": null
   },
   {
+   "id": "249dfbfbd1d7",
+   "baslik": "Dünya Diyabet Günü Farkındalık Eğitimi",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/dunya-diyabet-gunu-farkindalik-egitimi-4709",
+   "gorsel": null
+  },
+  {
    "id": "b990c213fb83",
    "baslik": "Kadınlar EHP Euro Cup Hentbol İlk Maç HC Byala - Yalıkavakspor",
    "tarih": "2026-11-13",
@@ -226,19 +322,19 @@
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
   },
   {
-   "id": "472da0314e20",
-   "baslik": "Kadınlar Hentbol Süper Ligi Maçı Yalıkavakspor-Manisa B.B.",
+   "id": "d0c0f4fe6418",
+   "baslik": "Sanatçı Numan Pekdemir 50. Sanat Yılı Konseri",
    "tarih": "2026-11-14",
    "bitis": null,
-   "saat": "17:00",
+   "saat": "20:00",
    "ilce": "Bodrum",
-   "mekan": "B.B Binnaz Karakaya Spor Salonu",
-   "kategori": "Spor",
+   "mekan": "B.B Herodot Kültür Merkezi",
+   "kategori": "Konser",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Bodrum Belediyesi",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2744/Mac-Kadinlar_Hentbol_Super_Ligi_Maci_Yalikavakspor-Manisa_BB",
+   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2833/Konser-Sanatci_Numan_Pekdemir_50_Sanat_Yili_Konseri",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
   },
   {
@@ -402,6 +498,22 @@
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
   },
   {
+   "id": "d4292aa1b0e9",
+   "baslik": "Kadınlar Hentbol Süper Ligi Maçı Yalıkavakspor-Manisa B.B.",
+   "tarih": "2026-12-27",
+   "bitis": null,
+   "saat": "17:00",
+   "ilce": "Bodrum",
+   "mekan": "B.B Binnaz Karakaya Spor Salonu",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bodrum Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2829/Mac-Kadinlar_Hentbol_Super_Ligi_Maci_Yalikavakspor-Manisa_BB",
+   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+  },
+  {
    "id": "5d9c80171f5e",
    "baslik": "Kadınlar Hentbol Süper Ligi Maçı Yalıkavakspor-Üsküdar Belediyesi S.K.",
    "tarih": "2027-01-16",
@@ -420,17 +532,17 @@
  ],
  "kaynaklar": [
   {
+   "ad": "Bodrum Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.bodrum.bel.tr/etkinlik_takvimi",
+   "etkinlik_sayisi": 17,
+   "durum": "çalışıyor"
+  },
+  {
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
    "etkinlik_sayisi": 15,
-   "durum": "çalışıyor"
-  },
-  {
-   "ad": "Bodrum Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.bodrum.bel.tr/etkinlik_takvimi",
-   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {
@@ -445,7 +557,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Fethiye Belediyesi",
@@ -501,7 +613,7 @@
    "tur": "kultur",
    "url": "https://mugla.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

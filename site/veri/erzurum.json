@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-04T06:48+03:00",
+ "guncelleme": "2026-11-05T07:14+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -24,70 +24,6 @@
   "Uzundere"
  ],
  "etkinlikler": [
-  {
-   "id": "63a60108d0c7",
-   "baslik": "SPSS ile Temel İstatistik Kursu",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Yakutiye",
-   "mekan": "ATASEM",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Atatürk Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://atauni.edu.tr/etkinlik/spss-ile-temel-istatistik-kursu-3/",
-   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/10/spss-819x1024.jpeg"
-  },
-  {
-   "id": "2575d351d1f7",
-   "baslik": "Delikburunlular Kabilesi",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/delikburunlular-kabilesi",
-   "gorsel": "veri/gorsel/dt-delikburunlular-kabilesi.webp"
-  },
-  {
-   "id": "40392ee8887c",
-   "baslik": "Uzay Bilimleri Ekosistemi ve Türkiye Ulusal Gözlemevleri",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Yakutiye",
-   "mekan": "İİBF Ana Bina B-2 Amfisi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Atatürk Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://atauni.edu.tr/etkinlik/uzay-bilimleri-ekosistemi-ve-turkiye-ulusal-gozlemevleri/",
-   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/uzay.jpeg"
-  },
-  {
-   "id": "ac31d2c1b387",
-   "baslik": "Cambridge Linguaskill Eğitimi",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Yakutiye",
-   "mekan": "Atatürk Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Atatürk Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://atauni.edu.tr/etkinlik/cambridge-linguaskill-egitimi/",
-   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/10/cambrigde-819x1024.jpeg"
-  },
   {
    "id": "ac2851b763ff",
    "baslik": "Yapay Zeka Destekli Databeeg ile Veri Analizi Eğitimi",
@@ -201,6 +137,22 @@
    "gorsel": "veri/gorsel/dt-helezon.jpg"
   },
   {
+   "id": "41b9b3e1627a",
+   "baslik": "Mühendislikte İnovasyon Çalıştayı: Fikirden Teknolojiye, Teknolojiden Ürüne",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum Teknik Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erzurum Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erzurum.edu.tr/etkinlik/muhendislikte-inovasyon-calstay-fikirden-teknolojiye-teknolojiden-urune1",
+   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/17ac3e1a-4298-4405-9a28-5a7e1065fae8.webp?width=600&height=749&mode=carve"
+  },
+  {
    "id": "7ae6bc4c95eb",
    "baslik": "Helezon",
    "tarih": "2026-11-07",
@@ -311,22 +263,6 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/savas-ve-baris",
    "gorsel": "veri/gorsel/dt-savas-ve-baris.webp"
-  },
-  {
-   "id": "bfb2b7f22dc0",
-   "baslik": "Fotonik Bölümü Semineri",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum Teknik Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Erzurum Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://erzurum.edu.tr/etkinlik/fotonik-bolumu-semineri1",
-   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/41a45d8d-d08e-4a57-99f8-a18407f2ddc7.jpg?width=600&height=749&mode=carve"
   },
   {
    "id": "53170c8f065d",
@@ -590,14 +526,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 19,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 18,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Atatürk Üniversitesi",
    "tur": "universite",
    "url": "https://atauni.edu.tr/tum-etkinlikler/",
-   "etkinlik_sayisi": 13,
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {
@@ -626,7 +562,7 @@
    "tur": "kultur",
    "url": "https://erzurum.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

@@ -1,6 +1,6 @@
 {
  "il": "bursa",
- "guncelleme": "2026-11-04T06:46+03:00",
+ "guncelleme": "2026-11-05T07:04+03:00",
  "ilceler": [
   "Büyükorhan",
   "Gemlik",
@@ -163,22 +163,6 @@
    "kaynak_ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bursa.bel.tr/etkinlik/kasim-ayi-etkinlik-takvimi-2",
-   "gorsel": null
-  },
-  {
-   "id": "601cff3dc1b2",
-   "baslik": "BTÜ Konuşmaları",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Turkuaz Salon (B Blok 1. Kat)",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/11930/bt%C3%BC-konu%C5%9Fmalar%C4%B1",
    "gorsel": null
   },
   {
@@ -502,6 +486,22 @@
    "gorsel": null
   },
   {
+   "id": "63a164f8afe2",
+   "baslik": "Elektrikli Taşıtlar Uygulama ve Araştırma Merkezi-Hidrojen Teknolojileri",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Yıldırım",
+   "mekan": "Mimar Sinan Yerleşkesi Ali Sürmen Salon (G Blok Zemin Kat)",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12644/elektrikli-ta%C5%9F%C4%B1tlar-uygulama-ve-ara%C5%9Ft%C4%B1rma-merkezi-hidrojen-teknolojileri",
+   "gorsel": null
+  },
+  {
    "id": "2f314bb9c5ef",
    "baslik": "Bir Yaşdönümü Rüyası",
    "tarih": "2026-11-12",
@@ -566,19 +566,19 @@
    "gorsel": null
   },
   {
-   "id": "50afeccdfd5a",
-   "baslik": "Kudüs Semineri",
+   "id": "916b336fd362",
+   "baslik": "Lisansüstü Eğitim Enstitüsü Mezuniyet Töreni",
    "tarih": "2026-11-13",
    "bitis": null,
-   "saat": "14:00",
+   "saat": "10:00",
    "ilce": "Yıldırım",
    "mekan": "Mimar Sinan Yerleşkesi Turkuaz Salon (B Blok 1. Kat)",
-   "kategori": "Söyleşi",
+   "kategori": "Atölye",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Bursa Teknik Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12151/kud%C3%BCs-semineri",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12642/lisans%C3%BCst%C3%BC-e%C4%9Fitim-enstit%C3%BCs%C3%BC-mezuniyet-t%C3%B6reni",
    "gorsel": null
   },
   {
@@ -844,7 +844,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 28,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
@@ -900,7 +900,7 @@
    "tur": "kultur",
    "url": "https://bursa.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gemlik, Mudanya, İnegöl, İznik belediyeleri",

@@ -1,5 +1,37 @@
 [
  {
+  "id": "c181e7a696b6",
+  "baslik": "Kur'ân Kıssaları Bize Neyi Anlatır?\" konulu seminer",
+  "tarih": "2026-11-04",
+  "bitis": null,
+  "saat": "13:30",
+  "ilce": "Bandırma",
+  "mekan": "Prof. Dr. Fuat Sezgin Konferans Salonu",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bandırma Onyedi Eylül Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste/Kuran-Kissalari-Bize-Neyi-Anlatir-konulu-seminer-1919?k=-1",
+  "gorsel": null
+ },
+ {
+  "id": "1ab8dc2c12d7",
+  "baslik": "31 Ekim Dünya Tasarruf Günü Etkinliği",
+  "tarih": "2026-11-04",
+  "bitis": null,
+  "saat": "15:00",
+  "ilce": "Bandırma",
+  "mekan": "Prof. Dr. Fuat Sezgin Konferans Salonu",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bandırma Onyedi Eylül Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste/31-Ekim-Dunya-Tasarruf-Gunu-Etkinligi-1920?k=-1",
+  "gorsel": null
+ },
+ {
   "id": "86132db3244c",
   "baslik": "BAÜN TTO III. İnovatif Fikirler Proje Pazarı",
   "tarih": "2026-11-02",

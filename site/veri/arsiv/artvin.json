@@ -1,5 +1,21 @@
 [
  {
+  "id": "5ed7253961a2",
+  "baslik": "Dekan Öğrenci Buluşması",
+  "tarih": "2026-11-04",
+  "bitis": null,
+  "saat": "10:00",
+  "ilce": "Merkez",
+  "mekan": "Nihat Gökyiğit Kongre ve Kültür Merkezi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Artvin Çoruh Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.artvin.edu.tr/tr/etkinlik/dekan-ogrenci-bulusmasi-1",
+  "gorsel": "https://www.artvin.edu.tr/uploads/sbf.artvin.edu.tr/etkinlikler/221_renci-dekan-bulusmasi-poster-tasarimiffq9s.jpg"
+ },
+ {
   "id": "98d23f74a2d0",
   "baslik": "Tıbbi Aromatik Bitkiler Üzerine Yetiştiricilik ve Kozmetik Ürün Oluşturma Eğitimi-4",
   "tarih": "2026-11-02",

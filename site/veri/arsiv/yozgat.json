@@ -1,1 +1,50 @@
-[]
+[
+ {
+  "id": "0488a2b30020",
+  "baslik": "Saygılı Yaşam ve Güvenli İlişkiler Eğitimi",
+  "tarih": "2026-11-04",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Yozgat Bozok Üniversitesi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Yozgat Bozok Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4251",
+  "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/797bb611.png"
+ },
+ {
+  "id": "7c72ab71e557",
+  "baslik": "Pratik İlk Yardım Atölyesi",
+  "tarih": "2026-11-04",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Yozgat Bozok Üniversitesi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Yozgat Bozok Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4258",
+  "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/e7fc9e2f.jpg"
+ },
+ {
+  "id": "1e47902c4e6c",
+  "baslik": "Kudüs'ten Kaşgar'a",
+  "tarih": "2026-11-04",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Yozgat Bozok Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Yozgat Bozok Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4259",
+  "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/13e69c5f.png"
+ }
+]

@@ -1,6 +1,6 @@
 {
  "il": "tunceli",
- "guncelleme": "2026-11-04T07:06+03:00",
+ "guncelleme": "2026-11-05T08:03+03:00",
  "ilceler": [
   "Merkez",
   "Çemişgezek",
@@ -18,7 +18,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -67,7 +67,7 @@
    "tur": "kultur",
    "url": "https://tunceli.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Yıllık festivaller (Munzur Kültür ve Doğa Festivali, Ovacık Kültür Şenliği…)",

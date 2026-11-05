@@ -1,6 +1,6 @@
 {
  "il": "samsun",
- "guncelleme": "2026-11-04T07:04+03:00",
+ "guncelleme": "2026-11-05T07:54+03:00",
  "ilceler": [
   "Atakum",
   "Canik",
@@ -21,22 +21,6 @@
   "Yakakent"
  ],
  "etkinlikler": [
-  {
-   "id": "66a5f7c55052",
-   "baslik": "OMÜ Hemşirelik Bölümünde XII. Öğrenci–Mezun Buluşması",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Atakum",
-   "mekan": "Ondokuz Mayıs Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Söyleşi",
-   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/soylesi/omu-hemsirelik-bolumunde-xii-ogrenci-mezun-bulusmasi",
-   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/afis_42.jpeg"
-  },
   {
    "id": "6997b282db3b",
    "baslik": "Pinokyo",
@@ -268,13 +252,13 @@
    "tur": "kultur",
    "url": "https://apimain.operabale.gov.tr/v1/web/temsil/mudurluk/listele/6",
    "etkinlik_sayisi": 8,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Ondokuz Mayıs Üniversitesi",
    "tur": "universite",
    "url": "https://www.omu.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {
@@ -289,7 +273,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -338,7 +322,7 @@
    "tur": "kultur",
    "url": "https://samsun.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Yıllık festivaller (Samsun Kültür Yolu, Uluslararası Samsun Tiyatro, Bafra Balık…)",

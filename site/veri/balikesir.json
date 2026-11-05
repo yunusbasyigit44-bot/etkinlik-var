@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-04T06:45+03:00",
+ "guncelleme": "2026-11-05T06:58+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -24,38 +24,6 @@
   "Susurluk"
  ],
  "etkinlikler": [
-  {
-   "id": "c181e7a696b6",
-   "baslik": "Kur'ân Kıssaları Bize Neyi Anlatır?\" konulu seminer",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Bandırma",
-   "mekan": "Prof. Dr. Fuat Sezgin Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bandırma Onyedi Eylül Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste/Kuran-Kissalari-Bize-Neyi-Anlatir-konulu-seminer-1919?k=-1",
-   "gorsel": null
-  },
-  {
-   "id": "1ab8dc2c12d7",
-   "baslik": "31 Ekim Dünya Tasarruf Günü Etkinliği",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Bandırma",
-   "mekan": "Prof. Dr. Fuat Sezgin Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bandırma Onyedi Eylül Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste/31-Ekim-Dunya-Tasarruf-Gunu-Etkinligi-1920?k=-1",
-   "gorsel": null
-  },
   {
    "id": "75758c8b79f0",
    "baslik": "\"E-öğrenme Araçları\" ve \"Öğrenci Merkezli Öğretim\" Atölye Çalışmaları",
@@ -277,7 +245,7 @@
    "ad": "Bandırma Onyedi Eylül Üniversitesi",
    "tur": "universite",
    "url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste?k=-1",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {
@@ -306,7 +274,7 @@
    "tur": "kultur",
    "url": "https://balikesir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Balıkesir Şehir Tiyatrosu, kültür merkezleri",
@@ -320,7 +288,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

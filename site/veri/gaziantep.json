@@ -1,6 +1,6 @@
 {
  "il": "gaziantep",
- "guncelleme": "2026-11-04T06:51+03:00",
+ "guncelleme": "2026-11-05T07:18+03:00",
  "ilceler": [
   "Şahinbey",
   "Şehitkamil",
@@ -28,38 +28,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.gaziantep.bel.tr/tr/basin/etkinlikler/iulusal-karikatur-yarismasi-1461",
    "gorsel": "https://dosya.gaziantep.bel.tr/uploads/new/2026/10/a2ec6efb-26b3-411c-81fd-fdbbc968716a_original.jpg"
-  },
-  {
-   "id": "fe2117bd3bbd",
-   "baslik": "IV. Mitoloji Film Haftası",
-   "tarih": "2026-11-02",
-   "bitis": "2026-11-04",
-   "saat": "10:00",
-   "ilce": "Şahinbey",
-   "mekan": null,
-   "kategori": "Sinema",
-   "ucretsiz": true,
-   "ozet": "Festival",
-   "kaynak_ad": "Gaziantep Büyükşehir Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gaziantep.bel.tr/tr/basin/etkinlikler/iv-mitoloji-film-haftasi-1409",
-   "gorsel": "https://dosya.gaziantep.bel.tr/uploads/new/2026/10/a2ecda9a-1d3b-4901-906c-4d60205e49ed_original.jpg"
-  },
-  {
-   "id": "9c724e3f9a55",
-   "baslik": "Tıp Alanındaki Avrupa Birliği Fon Programları Tanıtımı ve Cost Aksiyonları Eğitimi",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Şehitkamil",
-   "mekan": "Gaziantep Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Gaziantep Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.gaziantep.edu.tr/etkinlik_detay.php?etkinlik_ID=7185",
-   "gorsel": null
   },
   {
    "id": "a9abfc5ec3b3",
@@ -92,6 +60,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.gaziantep.edu.tr/etkinlik_detay.php?etkinlik_ID=7175",
    "gorsel": null
+  },
+  {
+   "id": "ccd9209ceeac",
+   "baslik": "Geleneksel Atatürk Koşusu",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Şehitkamil",
+   "mekan": "Gaziantep Üniversitesi",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Gaziantep Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.gaziantep.edu.tr/etkinlik_detay.php?etkinlik_ID=7187",
+   "gorsel": null
+  },
+  {
+   "id": "21343caa50db",
+   "baslik": "10 Kasım Atatürk'ü Anma Programı",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Şehitkamil",
+   "mekan": "Gaziantep Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Gaziantep Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.gaziantep.edu.tr/etkinlik_detay.php?etkinlik_ID=7186",
+   "gorsel": null
   }
  ],
  "kaynaklar": [
@@ -99,14 +99,14 @@
    "ad": "Gaziantep Üniversitesi",
    "tur": "universite",
    "url": "https://www.gaziantep.edu.tr/",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {
    "ad": "Gaziantep Büyükşehir Belediyesi",
    "tur": "belediye",
    "url": "https://www.gaziantep.bel.tr/tr/basin/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {
@@ -114,7 +114,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gaziantep Valiliği ve 9 ilçe kaymakamlığı",
@@ -128,7 +128,7 @@
    "tur": "kultur",
    "url": "https://gaziantep.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi",

@@ -1,5 +1,21 @@
 [
  {
+  "id": "601cff3dc1b2",
+  "baslik": "BTÜ Konuşmaları",
+  "tarih": "2026-11-04",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Yıldırım",
+  "mekan": "Mimar Sinan Yerleşkesi Turkuaz Salon (B Blok 1. Kat)",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bursa Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/11930/bt%C3%BC-konu%C5%9Fmalar%C4%B1",
+  "gorsel": null
+ },
+ {
   "id": "cd67dbe614b5",
   "baslik": "4. Nilüfer Tek Sağlık Sempozyumu",
   "tarih": "2026-11-03",

@@ -1,6 +1,6 @@
 {
  "il": "kahramanmaras",
- "guncelleme": "2026-11-04T06:59+03:00",
+ "guncelleme": "2026-11-05T07:42+03:00",
  "ilceler": [
   "Afşin",
   "Andırın",
@@ -30,6 +30,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=132",
    "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611031617556377.jpg"
+  },
+  {
+   "id": "ac797a5fa28f",
+   "baslik": "Oratoryo\"Gel Gör Beni\"",
+   "tarih": "2026-11-05",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Onikişubat",
+   "mekan": "Yunus Emre Kongre ve Kültür Merkezi Sezai Karakoç Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Gösteri Sanatları Öğrenci Topluluğu",
+   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=133",
+   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611041151053874.jpg"
+  },
+  {
+   "id": "20f831b0f8df",
+   "baslik": "Hz. Peygamber'i (S.a.v.) Anlamak",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Türkoğlu",
+   "mekan": "İlahiyat Fakültesi Türkoğlu Yerleşkesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "İlahiyat Fakültesi",
+   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=134",
+   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611041632302780.jpg"
   },
   {
    "id": "a49611c293d3",
@@ -69,7 +101,7 @@
    "ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
    "tur": "universite",
    "url": "https://www.ksu.edu.tr/",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {
@@ -77,7 +109,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Dulkadiroğlu Belediyesi",
@@ -119,7 +151,7 @@
    "tur": "kultur",
    "url": "https://kahramanmaras.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Kahramanmaraş İstiklal Üniversitesi",

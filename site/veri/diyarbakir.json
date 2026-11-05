@@ -1,6 +1,6 @@
 {
  "il": "diyarbakir",
- "guncelleme": "2026-11-04T06:47+03:00",
+ "guncelleme": "2026-11-05T07:09+03:00",
  "ilceler": [
   "Bağlar",
   "Bismil",
@@ -21,54 +21,6 @@
   "Yenişehir"
  ],
  "etkinlikler": [
-  {
-   "id": "ade9f1c8eb4b",
-   "baslik": "Antepfıstığı ve Badem Yetiştiriciliğinde Zararlı ve Hastalık Yönetimi",
-   "tarih": "2026-11-03",
-   "bitis": "2026-11-04",
-   "saat": null,
-   "ilce": "Sur",
-   "mekan": "Dicle Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Dicle Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/antepfistigi-ve-badem-yetistiriciliginde-zararli-ve-hastalik-yonetimi-12978",
-   "gorsel": "https://www.dicle.edu.tr/contents/events/photos/7e6275e4-0422-4b6a-a92a-e8cff1ed9da3/ss_thumb_7e5459e7d7054575a6844a9cab8047a7_IMG-20261028-WA0003.jpg"
-  },
-  {
-   "id": "b77ab7f5ca10",
-   "baslik": "Gizli Bahçe'nin Bezelyesi",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Kayapınar",
-   "mekan": "Kayapınar Kültür Merkezi Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gizli-bahcenin-bezelyesi",
-   "gorsel": "veri/gorsel/dt-gizli-bahcenin-bezelyesi.webp"
-  },
-  {
-   "id": "2c26620a0df5",
-   "baslik": "Gün Eksilmesin Penceremden",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yenişehir",
-   "mekan": "Oda Tiyatrosu Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gun-eksilmesin-penceremden",
-   "gorsel": "veri/gorsel/dt-gun-eksilmesin-penceremden.jpg"
-  },
   {
    "id": "1b3c294d16d0",
    "baslik": "Biz Size Hayranız",
@@ -635,14 +587,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 23,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 21,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Dicle Üniversitesi",
    "tur": "universite",
    "url": "https://www.dicle.edu.tr/etkinlikler/tumu",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 9,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
@@ -678,7 +630,7 @@
    "tur": "kultur",
    "url": "https://diyarbakir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

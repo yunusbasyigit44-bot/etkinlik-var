@@ -1,5 +1,21 @@
 [
  {
+  "id": "4611bdcaa87b",
+  "baslik": "Hizmet İçi Eğitim (Yönetici Adayları Sınava Hazırlık Eğitimi)",
+  "tarih": "2026-11-04",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Hukuk Fakültesi Konferans Salonu",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": "Hizmet İçi Eğitim",
+  "kaynak_ad": "Süleyman Demirel Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+  "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=F2459D26-CCC2-B39A-DBBA-3A24B34B59B2"
+ },
+ {
   "id": "f23681f51228",
   "baslik": "Sağlık Sektöründe Kariyer Fırsatları ve Tıbbi Sekreterliğin Geleceği",
   "tarih": "2026-11-03",

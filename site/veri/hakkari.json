@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-11-04T06:52+03:00",
+ "guncelleme": "2026-11-05T07:21+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -9,54 +9,6 @@
   "Yüksekova"
  ],
  "etkinlikler": [
-  {
-   "id": "7b476a22bf45",
-   "baslik": "Savaşın Çocuklar Üzerindeki Psikolojik Etkileri",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "12:00",
-   "ilce": "Merkez",
-   "mekan": "Rektörlük Konferans Salonu",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Sergi",
-   "kaynak_ad": "Hakkari Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/536/savasin-cocuklar-uzerindeki-psikolojik-etkileri",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/536/cover/thumb/b638785f5f6b45d5b61cd72f86aaa53f.webp"
-  },
-  {
-   "id": "2bf5f058840d",
-   "baslik": "2026-2027 Akademik Yılı Açılış Töreni",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "12:00",
-   "ilce": "Merkez",
-   "mekan": "Rektörlük Konferans Salonu",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": "Diğer",
-   "kaynak_ad": "Hakkari Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/521/2026-2027-akademik-yili-acilis-toreni",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/521/cover/thumb/df869f7f9ec44988a11292d5698e2000.webp"
-  },
-  {
-   "id": "636d0393bfa3",
-   "baslik": "“Dijitalleşen Para, Dönüşen Suç: Finansal Siber Suçlarla Mücadele” Söyleşisi",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Muhammed Selim Seven Konferans Salonu (Zemin Kat)",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": "Diğer",
-   "kaynak_ad": "Hakkari Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/526/dijitallesen-para-donusen-suc-finansal-siber-suclarla-mucadele-soylesisi",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/526/cover/thumb/d0d4b4c9e2e74ed988e35e9aaca109b1.webp"
-  },
   {
    "id": "3ea7646e4675",
    "baslik": "2. Uluslararası Mezopotamya Bilimsel Araştırmalar Kongresi",
@@ -95,7 +47,7 @@
    "ad": "Hakkari Üniversitesi",
    "tur": "universite",
    "url": "https://www.hakkari.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {
@@ -131,7 +83,7 @@
    "tur": "kultur",
    "url": "https://hakkari.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

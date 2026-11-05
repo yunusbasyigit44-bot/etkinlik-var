@@ -1,6 +1,6 @@
 {
  "il": "artvin",
- "guncelleme": "2026-11-04T06:44+03:00",
+ "guncelleme": "2026-11-05T06:56+03:00",
  "ilceler": [
   "Merkez",
   "Ardanuç",
@@ -12,22 +12,6 @@
   "Yusufeli"
  ],
  "etkinlikler": [
-  {
-   "id": "5ed7253961a2",
-   "baslik": "Dekan Öğrenci Buluşması",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Nihat Gökyiğit Kongre ve Kültür Merkezi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Artvin Çoruh Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.artvin.edu.tr/tr/etkinlik/dekan-ogrenci-bulusmasi-1",
-   "gorsel": "https://www.artvin.edu.tr/uploads/sbf.artvin.edu.tr/etkinlikler/221_renci-dekan-bulusmasi-poster-tasarimiffq9s.jpg"
-  },
   {
    "id": "b78a2112e55f",
    "baslik": "Türkiye'de Felsefe",
@@ -50,7 +34,7 @@
    "ad": "Artvin Çoruh Üniversitesi",
    "tur": "universite",
    "url": "https://www.artvin.edu.tr/tr/etkinlik/tumu",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
@@ -79,14 +63,14 @@
    "tur": "kultur",
    "url": "https://artvin.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

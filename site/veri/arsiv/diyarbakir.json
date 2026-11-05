@@ -1,5 +1,37 @@
 [
  {
+  "id": "b77ab7f5ca10",
+  "baslik": "Gizli Bahçe'nin Bezelyesi",
+  "tarih": "2026-11-04",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Kayapınar",
+  "mekan": "Kayapınar Kültür Merkezi Sahnesi",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gizli-bahcenin-bezelyesi",
+  "gorsel": null
+ },
+ {
+  "id": "2c26620a0df5",
+  "baslik": "Gün Eksilmesin Penceremden",
+  "tarih": "2026-11-04",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Yenişehir",
+  "mekan": "Oda Tiyatrosu Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gun-eksilmesin-penceremden",
+  "gorsel": null
+ },
+ {
   "id": "4bdc753f6058",
   "baslik": "Gün Eksilmesin Penceremden",
   "tarih": "2026-11-03",
@@ -30,6 +62,22 @@
   "kaynak_tur": "universite",
   "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/iklim-mucadelesinde-ulasimin-rolu-cop31i-anlamak-12993",
   "gorsel": "https://www.dicle.edu.tr/contents/events/photos/9bfd5a68-622a-4d23-be9e-313049f6866c/ss_thumb_489fd34918ea4115a7e8942fc810c11c_IMG-20261030-WA0018.jpg"
+ },
+ {
+  "id": "ade9f1c8eb4b",
+  "baslik": "Antepfıstığı ve Badem Yetiştiriciliğinde Zararlı ve Hastalık Yönetimi",
+  "tarih": "2026-11-03",
+  "bitis": "2026-11-04",
+  "saat": null,
+  "ilce": "Sur",
+  "mekan": "Dicle Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Dicle Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/antepfistigi-ve-badem-yetistiriciliginde-zararli-ve-hastalik-yonetimi-12978",
+  "gorsel": "https://www.dicle.edu.tr/contents/events/photos/7e6275e4-0422-4b6a-a92a-e8cff1ed9da3/ss_thumb_7e5459e7d7054575a6844a9cab8047a7_IMG-20261028-WA0003.jpg"
  },
  {
   "id": "969c8010689f",

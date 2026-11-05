@@ -1,5 +1,21 @@
 [
  {
+  "id": "ad514d0c46fd",
+  "baslik": "Mezun & Öğrenci Buluşması",
+  "tarih": "2026-11-04",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Menteşe",
+  "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mezun--ogrenci-bulusmasi-4702",
+  "gorsel": null
+ },
+ {
   "id": "38b48bfbd039",
   "baslik": "“Eğitim Değiştirir” İyilik Koşusu",
   "tarih": "2026-11-01",

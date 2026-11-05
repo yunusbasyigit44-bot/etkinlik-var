@@ -1,6 +1,6 @@
 {
  "il": "elazig",
- "guncelleme": "2026-11-04T06:48+03:00",
+ "guncelleme": "2026-11-05T07:11+03:00",
  "ilceler": [
   "Merkez",
   "Ağın",
@@ -28,7 +28,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Elazığ Belediyesi",
@@ -49,7 +49,7 @@
    "tur": "kultur",
    "url": "https://elazig.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Fırat Kısa Film Festivali, Hazar Şiir Akşamları, Elazığ Gastronomi Festivali, Baskil Kayısı Festivali",

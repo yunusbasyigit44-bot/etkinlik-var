@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-04T06:40+03:00",
+ "guncelleme": "2026-11-05T06:46+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -68,20 +68,20 @@
    "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/021120261236_K_463_f70d646d-819d-47b0-b774-ccc58818da17.png"
   },
   {
-   "id": "d6a18fa1ee1f",
-   "baslik": "Zihniyetin Dönüşümü: Atasözleri, Toplumsal Değişme ve Yeni Değerler",
-   "tarih": "2026-11-04",
-   "bitis": null,
-   "saat": null,
+   "id": "655fb33367c3",
+   "baslik": "Bir Vatan Sabahı",
+   "tarih": "2026-11-05",
+   "bitis": "2026-11-06",
+   "saat": "13:15",
    "ilce": "Sarıçam",
-   "mekan": "Çukurova Üniversitesi",
+   "mekan": "Prof. Dr. Aziz Sancar Konferans Salonu",
    "kategori": "Diğer",
    "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çukurova Üniversitesi",
+   "ozet": "Etkinlik",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cu.edu.tr/haber-detay/zihniyetin-donusumu-atasozleri-toplumsal-degisme-ve-yeni-degerler/",
-   "gorsel": "https://www.cu.edu.tr/media/ocuoadot/cutam_kasim_2026_programi_sayfa_1.jpg"
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/041120261200_K_1_c2b15199-a7c9-4d35-92bf-30d7f1e4ef68.jpeg"
   },
   {
    "id": "09d4cd93f969",
@@ -370,6 +370,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/umudunu-yitirmeyen-sigircik",
    "gorsel": "veri/gorsel/dt-umudunu-yitirmeyen-sigircik.webp"
+  },
+  {
+   "id": "36d99d506db1",
+   "baslik": "Kariyer Sohbetleri",
+   "tarih": "2026-11-12",
+   "bitis": "2026-11-13",
+   "saat": "14:00",
+   "ilce": "Sarıçam",
+   "mekan": "İİSBF Konferans Salonu",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "Konferans",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/041120260927_K_1_10bbe3ab-fc44-4133-b51b-5bd004fd0e39.jpg"
   },
   {
    "id": "0d0ebabe55db",
@@ -746,14 +762,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 24,
-   "durum": "çalışıyor"
-  },
-  {
-   "ad": "Çukurova Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.cu.edu.tr",
-   "etkinlik_sayisi": 9,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Adana Büyükşehir Şehir Tiyatrosu",
@@ -763,10 +772,17 @@
    "durum": "çalışıyor"
   },
   {
+   "ad": "Çukurova Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.cu.edu.tr",
+   "etkinlik_sayisi": 8,
+   "durum": "çalışıyor"
+  },
+  {
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {
@@ -795,7 +811,7 @@
    "tur": "kultur",
    "url": "https://adana.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "ad": "Altın Koza Film Festivali",
