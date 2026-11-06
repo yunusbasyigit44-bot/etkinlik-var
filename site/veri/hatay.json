@@ -1,6 +1,6 @@
 {
  "il": "hatay",
- "guncelleme": "2026-11-05T07:22+03:00",
+ "guncelleme": "2026-11-06T06:55+03:00",
  "ilceler": [
   "Antakya",
   "Altınözü",
@@ -74,7 +74,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 3,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "durum": "çalışıyor"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -109,7 +109,7 @@
    "tur": "kultur",
    "url": "https://hatay.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

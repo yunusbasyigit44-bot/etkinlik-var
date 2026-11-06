@@ -1,6 +1,6 @@
 {
  "il": "erzincan",
- "guncelleme": "2026-11-05T07:12+03:00",
+ "guncelleme": "2026-11-06T06:51+03:00",
  "ilceler": [
   "Merkez",
   "Çayırlı",
@@ -13,22 +13,6 @@
   "Üzümlü"
  ],
  "etkinlikler": [
-  {
-   "id": "2af3a2d6a98f",
-   "baslik": "F-35 ve B2'nin Görünmezliğinin Arkasındaki Türk Bilim Adamı \"Ergün Kırlıkovalı\" Konferans",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Prof. Dr. Erdoğan Büyükkasap Kongre ve Kültür Merkezi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "KONFERANS",
-   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://ebyu.edu.tr/etkinlik/f-35ve-b2nin-gorunmezliginin-arkasindaki-turk-bilim-adami-ergun-kirlikovali-konferans/",
-   "gorsel": null
-  },
   {
    "id": "9073d11e0ad2",
    "baslik": "Erasmus+-Would You Mind-Set?",
@@ -99,7 +83,7 @@
    "ad": "Erzincan Binali Yıldırım Üniversitesi",
    "tur": "universite",
    "url": "https://ebyu.edu.tr/etkinlik/?ical=1",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {
@@ -114,7 +98,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Erzincan Belediyesi",
@@ -135,7 +119,7 @@
    "tur": "kultur",
    "url": "https://erzincan.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

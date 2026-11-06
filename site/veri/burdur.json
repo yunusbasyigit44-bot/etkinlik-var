@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-05T07:02+03:00",
+ "guncelleme": "2026-11-06T06:48+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,22 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "e17ab5c4b430",
-   "baslik": "Üniversite Öğrencilerinde Mental Sağlığın Korunması",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "10:15",
-   "ilce": "Tefenni",
-   "mekan": "Tefenni Meslek Yüksekokulu Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13535/1/universite-ogrencilerinde-mental-sagligin-korunmasi",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13535/4_13535_2026-10-23-12-11-37-50537_thumb.webp"
-  },
   {
    "id": "186fb3c89e5e",
    "baslik": "Çocuklarla Kültür ve Bilim Buluşması",
@@ -110,6 +94,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13543/1/cocuklar-icin-p4c",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13543/4_13543_2026-10-28-06-59-00-693617_thumb.webp"
+  },
+  {
+   "id": "0c8fde1968cf",
+   "baslik": "Yaratıcı Drama ve Masal Anlatıcılığı",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Merkez",
+   "mekan": "Eğitim Fakültesi Konferans Salonu",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13542/1/yaratici-drama-ve-masal-anlaticiligi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13542/4_13542_2026-10-28-07-00-34-52824_thumb.webp"
   }
  ],
  "kaynaklar": [
@@ -153,14 +153,14 @@
    "tur": "kultur",
    "url": "https://burdur.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

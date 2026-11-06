@@ -1,6 +1,6 @@
 {
  "il": "igdir",
- "guncelleme": "2026-11-05T08:17+03:00",
+ "guncelleme": "2026-11-06T07:12+03:00",
  "ilceler": [
   "Merkez",
   "Aralık",
@@ -8,6 +8,22 @@
   "Tuzluca"
  ],
  "etkinlikler": [
+  {
+   "id": "795f9e4a0529",
+   "baslik": "TÜBİTAK 2209 Proje Yazma Eğitimi Sizleri Bekliyor!",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": "18:00",
+   "ilce": "Merkez",
+   "mekan": "Iğdır Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Iğdır Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/tubitak-2209-proje-yazma-egitimi-sizleri-bekliyor-37/register",
+   "gorsel": null
+  },
   {
    "id": "e40390d15d88",
    "baslik": "\"Bir Millet, İki Devlet\" Ruhuyla \"Karabağ Zaferi\" Programı",
@@ -46,7 +62,7 @@
    "ad": "Iğdır Üniversitesi",
    "tur": "universite",
    "url": "https://www.igdir.edu.tr/events/",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {
@@ -61,7 +77,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -89,7 +105,7 @@
    "tur": "kultur",
    "url": "https://igdir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

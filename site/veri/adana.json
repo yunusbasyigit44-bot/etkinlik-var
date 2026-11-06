@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-05T06:46+03:00",
+ "guncelleme": "2026-11-06T06:43+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -36,38 +36,6 @@
    "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/10/261020261608_K_1_0dd5b53f-919a-434e-9c6e-364994f302d2.jpg"
   },
   {
-   "id": "bbc161c7c07a",
-   "baslik": "ATÜ Öğrenci Toplulukları Tanıtım Günü 2026",
-   "tarih": "2026-11-04",
-   "bitis": "2026-11-05",
-   "saat": "13:00",
-   "ilce": "Sarıçam",
-   "mekan": "ATÜ Tören Alanı",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Etkinlik",
-   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/10/261020261621_K_1_f049e73f-766a-41a3-9af6-5ec92c05c1ea.jpg"
-  },
-  {
-   "id": "d911b01ba68c",
-   "baslik": "DSATalks: Veri Bilimi Buluşmaları",
-   "tarih": "2026-11-04",
-   "bitis": "2026-11-05",
-   "saat": "13:15",
-   "ilce": "Sarıçam",
-   "mekan": "ATÜ Kütüphane Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Etkinlik",
-   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/021120261236_K_463_f70d646d-819d-47b0-b774-ccc58818da17.png"
-  },
-  {
    "id": "655fb33367c3",
    "baslik": "Bir Vatan Sabahı",
    "tarih": "2026-11-05",
@@ -82,54 +50,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.atu.edu.tr",
    "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/041120261200_K_1_c2b15199-a7c9-4d35-92bf-30d7f1e4ef68.jpeg"
-  },
-  {
-   "id": "09d4cd93f969",
-   "baslik": "Ocak'ta Bahar",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ocakta-bahar",
-   "gorsel": "veri/gorsel/dt-ocakta-bahar.jpg"
-  },
-  {
-   "id": "6f94b287b2b1",
-   "baslik": "Evdeki Yabancı",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": "ERZURUM BÜYÜKŞEHİR BELEDİYESİ ŞEHİR TİYATROSU",
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1790929524_cf1eda201e56247449ae.jpeg"
-  },
-  {
-   "id": "321a82bda903",
-   "baslik": "Dijital Ortamda İletişim ve Nezaket Eğitimi",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Sarıçam",
-   "mekan": "Çukurova Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çukurova Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cu.edu.tr/haber-detay/dijital-ortamda-ıletisim-ve-nezaket-egitimi/",
-   "gorsel": "https://www.cu.edu.tr/media/se0h41wi/dijitalortam.jpeg"
   },
   {
    "id": "b935224744a9",
@@ -724,6 +644,38 @@
    "gorsel": "https://www.cu.edu.tr/media/zc0p30xg/sabidam.jpeg"
   },
   {
+   "id": "46cacdcd0dd8",
+   "baslik": "Devlet Ana",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Seyhan",
+   "mekan": "Ramazanoğlu Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları Adana",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
+   "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
+  },
+  {
+   "id": "335b6ab89198",
+   "baslik": "Devlet Ana",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Seyhan",
+   "mekan": "Ramazanoğlu Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları Adana",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
+   "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
+  },
+  {
    "id": "e0a320228382",
    "baslik": "Memluk Devleti, Tarih - Siyaset - Kültür ve Sanat",
    "tarih": "2026-11-25",
@@ -738,6 +690,86 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.cu.edu.tr/haber-detay/memluk-devleti-tarih-siyaset-kultur-ve-sanat/",
    "gorsel": "https://www.cu.edu.tr/media/neonphao/cutam_kasim_2026_programi_sayfa_4.jpg"
+  },
+  {
+   "id": "8cbdf2a8d61d",
+   "baslik": "Devlet Ana",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Seyhan",
+   "mekan": "Ramazanoğlu Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları Adana",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
+   "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
+  },
+  {
+   "id": "498033991e24",
+   "baslik": "Devlet Ana",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Seyhan",
+   "mekan": "Ramazanoğlu Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları Adana",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
+   "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
+  },
+  {
+   "id": "75ea7340437f",
+   "baslik": "The Role of Economic and Financial Integration in Sustainable Development",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "Çukurova Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çukurova Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cu.edu.tr/haber-detay/the-role-of-economic-and-financial-ıntegration-in-sustainable-development/",
+   "gorsel": "https://www.cu.edu.tr/media/awfpuenr/s&#252;rd&#252;r&#252;lebilir-kalkınma-afiş.jpg"
+  },
+  {
+   "id": "c5a829134a6e",
+   "baslik": "Devlet Ana",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Seyhan",
+   "mekan": "Ramazanoğlu Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları Adana",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
+   "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
+  },
+  {
+   "id": "2779eaf23f2a",
+   "baslik": "Devlet Ana",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Seyhan",
+   "mekan": "Ramazanoğlu Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları Adana",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
+   "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
   },
   {
    "id": "90fa325f8eed",
@@ -761,14 +793,7 @@
    "ad": "Devlet Tiyatroları Adana",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 24,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
-  },
-  {
-   "ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "tur": "belediye",
-   "url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 29,
    "durum": "çalışıyor"
   },
   {
@@ -779,10 +804,17 @@
    "durum": "çalışıyor"
   },
   {
+   "ad": "Adana Büyükşehir Şehir Tiyatrosu",
+   "tur": "belediye",
+   "url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 7,
+   "durum": "çalışıyor"
+  },
+  {
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {
@@ -811,7 +843,7 @@
    "tur": "kultur",
    "url": "https://adana.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Altın Koza Film Festivali",

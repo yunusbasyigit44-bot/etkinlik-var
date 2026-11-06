@@ -1,6 +1,6 @@
 {
  "il": "aksaray",
- "guncelleme": "2026-11-05T08:09+03:00",
+ "guncelleme": "2026-11-06T07:11+03:00",
  "ilceler": [
   "Merkez",
   "Ağaçören",
@@ -61,6 +61,22 @@
    "gorsel": null
   },
   {
+   "id": "6e50cb75e7a0",
+   "baslik": "Türk Sanat Müziği Koro Çalışmaları Başlıyor",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "18:00",
+   "ilce": "Merkez",
+   "mekan": "ASÜ Sosyal Bilimler MYO Toplantı Salonu",
+   "kategori": "Geleneksel Müzik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/turk-sanat-muzigi-koro-calismalari-basliyor",
+   "gorsel": null
+  },
+  {
    "id": "44d67b41f6e6",
    "baslik": "Terörsüz Türkiye Sürecinde Yarınki Türkiye’yi Düşünmek",
    "tarih": "2026-11-23",
@@ -82,7 +98,7 @@
    "ad": "Aksaray Üniversitesi",
    "tur": "universite",
    "url": "https://www.aksaray.edu.tr/Etkinlik-takvimi",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {
@@ -104,14 +120,14 @@
    "tur": "kultur",
    "url": "https://aksaray.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

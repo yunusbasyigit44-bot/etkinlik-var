@@ -1,6 +1,6 @@
 {
  "il": "kastamonu",
- "guncelleme": "2026-11-05T07:33+03:00",
+ "guncelleme": "2026-11-06T06:59+03:00",
  "ilceler": [
   "Merkez",
   "Abana",
@@ -25,24 +25,8 @@
  ],
  "etkinlikler": [
   {
-   "id": "52ce28e41320",
-   "baslik": "Hakikat Değerlerine Açılan Yollar; Hukuk, Teknoloji ve Sanat",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "KÜ Merkez Kütüphane Sezai Karakoç Salonu",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kastamonu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://kastamonu.edu.tr/tr/etkinlikler/hakikat-degerlerine-acilan-yollar-hukuk-teknoloji-ve-sanat-174",
-   "gorsel": "https://files.kastamonu.edu.tr/Ortam/2026/Kas%C4%B1m/Etkinlik/c14fd1cb-d80e-40c8-aa5a-290faefa794f.jpg"
-  },
-  {
-   "id": "3100f2028a43",
-   "baslik": "UFest - Türkiye Yüzyılı'nda Ulaşım Vizyonu",
+   "id": "116c4153632b",
+   "baslik": "UFest - Türkiye Yüzyılı'nda Ulaştırma Vizyonu",
    "tarih": "2026-11-06",
    "bitis": null,
    "saat": null,
@@ -53,7 +37,7 @@
    "ozet": null,
    "kaynak_ad": "Kastamonu Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://kastamonu.edu.tr/tr/etkinlikler/ufest-turkiye-yuzyilinda-ulasim-vizyonu-173",
+   "kaynak_url": "https://kastamonu.edu.tr/tr/etkinlikler/ufest-turkiye-yuzyilinda-ulastirma-vizyonu-173",
    "gorsel": "https://files.kastamonu.edu.tr/Ortam/2026/Ekim/Etkinlik/d35356c8-4412-4144-a10b-b42923631a0c.jpeg"
   },
   {
@@ -78,7 +62,7 @@
    "ad": "Kastamonu Üniversitesi",
    "tur": "universite",
    "url": "https://kastamonu.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {
@@ -86,7 +70,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -114,7 +98,7 @@
    "tur": "kultur",
    "url": "https://kastamonu.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

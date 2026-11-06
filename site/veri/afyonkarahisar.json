@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-05T06:48+03:00",
+ "guncelleme": "2026-11-06T06:44+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -55,38 +55,6 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261027141418_ekimgecidi_afis.jpeg"
   },
   {
-   "id": "d0ec82fca9ec",
-   "baslik": "Hayat Kurtarmak İçin Bilinçlenin",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "12:00",
-   "ilce": "Merkez",
-   "mekan": "Spor Bilimleri Fakültesi Antrenman Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Konferans · Spor Bi̇li̇mleri̇ Fakültesi̇",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261103140913_arama_kurtarma.jpeg"
-  },
-  {
-   "id": "b590f42eef01",
-   "baslik": "Fıkhî Perspektiften Paranın Dönüşümü",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Merkez",
-   "mekan": "Diyanet Gençlik Merkezi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Panel · İslam İkti̇sadi Ve Fi̇nansi Uygulama Ve Araştirma Me",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261104094526_akifam_afisleri.jpg"
-  },
-  {
    "id": "304be7a39443",
    "baslik": "Ulusal Bilinç ve Evrensel Barış Ekseninde Atatürk’ü Anlamak",
    "tarih": "2026-11-06",
@@ -133,6 +101,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://afsu.edu.tr/afsu-9-tibbi-ve-aromatik-bitkiler-calistayi-6-kasim-2026/",
    "gorsel": null
+  },
+  {
+   "id": "b412b8782c8d",
+   "baslik": "Gondar Sirki",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Emirdağ",
+   "mekan": "Aziziye Kültür Ve Sanat Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Emirdağ Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.emirdag.bel.tr/etkinlik/gondar-sirki",
+   "gorsel": "https://www.emirdag.bel.tr/tema/genel/uploads/etkinlikler/WhatsApp-Image-2026-11-05-at-15.33.12.jpeg"
   },
   {
    "id": "c93c682de094",
@@ -380,8 +364,8 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 19,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 17,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
@@ -394,6 +378,13 @@
    "ad": "Afyonkarahisar Belediyesi",
    "tur": "belediye",
    "url": "https://www.afyon.bel.tr/guncel/etkinlikler",
+   "etkinlik_sayisi": 1,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
+  },
+  {
+   "ad": "Emirdağ Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.emirdag.bel.tr/etkinlikler",
    "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
@@ -416,7 +407,7 @@
    "tur": "kultur",
    "url": "https://afyon.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Belediye Şehir Tiyatrosu",
@@ -437,7 +428,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Dinar Belediyesi",
@@ -445,13 +436,6 @@
    "url": "https://www.dinar.bel.tr/duyurular",
    "etkinlik_sayisi": 0,
    "durum": "etkinlikler serbest metin duyurularda; otomatik okunmuyor"
-  },
-  {
-   "ad": "Emirdağ Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.emirdag.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

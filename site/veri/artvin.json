@@ -1,6 +1,6 @@
 {
  "il": "artvin",
- "guncelleme": "2026-11-05T06:56+03:00",
+ "guncelleme": "2026-11-06T06:47+03:00",
  "ilceler": [
   "Merkez",
   "Ardanuç",
@@ -63,14 +63,14 @@
    "tur": "kultur",
    "url": "https://artvin.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

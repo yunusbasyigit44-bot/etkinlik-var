@@ -1,6 +1,6 @@
 {
  "il": "mersin",
- "guncelleme": "2026-11-05T07:24+03:00",
+ "guncelleme": "2026-11-06T06:55+03:00",
  "ilceler": [
   "Akdeniz",
   "Anamur",
@@ -17,38 +17,6 @@
   "Yenişehir"
  ],
  "etkinlikler": [
-  {
-   "id": "c29706ca1cef",
-   "baslik": "Müze Sohbetleri-14 \"Mersin'in Fosilleri\"",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Yenişehir",
-   "mekan": "Deniz Bilimleri Uygulama ve Araştırma Merkezi - Deniz Canlıları Müzesi",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": "Akademik",
-   "kaynak_ad": "Mersin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/muze-sohbetleri-14-mersinin-fosilleri-n-10000874",
-   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/6737b746-530f-4450-b4ab-bf25c077f302/5c63599b-9bc8-46f5-b391-20ec111a3c43/f5487b15-9370-4c69-866d-872dcaead97d/1280-f6d16233e1349a7fa0ae4bf244654bf52411642e58c0693a97bd9a645dc992a3.webp"
-  },
-  {
-   "id": "a1b921aa8369",
-   "baslik": "3 Tenor",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Akdeniz",
-   "mekan": "Mersin Kültür Merkezi Şeref Salonu",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/3tenor-mersin-dob",
-   "gorsel": "veri/gorsel/dob-4-2616.webp"
-  },
   {
    "id": "f7ad6ab66548",
    "baslik": "Romeo ve Julıet",
@@ -194,6 +162,38 @@
    "gorsel": null
   },
   {
+   "id": "a1a4be377e47",
+   "baslik": "Tosca",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Yenişehir",
+   "mekan": "Mersin Opera Büyük Sahne",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/tosca-mersin-dob",
+   "gorsel": "veri/gorsel/dob-4-614.webp"
+  },
+  {
+   "id": "ee2378b0645c",
+   "baslik": "Konser",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Tarsus",
+   "mekan": "Tarsus Amerikan Koleji Kültür Sahnesi",
+   "kategori": "Konser",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://www.operabale.gov.tr/directorates/mersin-opera-ve-balesi-4",
+   "gorsel": "veri/gorsel/dob-4-2270.webp"
+  },
+  {
    "id": "c5effdc57d56",
    "baslik": "Batı Akdeniz Bölgesel Kariyer Fuarı",
    "tarih": "2026-11-27",
@@ -215,14 +215,14 @@
    "ad": "Devlet Opera ve Balesi",
    "tur": "kultur",
    "url": "https://www.operabale.gov.tr",
-   "etkinlik_sayisi": 7,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 8,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Mersin Üniversitesi",
    "tur": "universite",
    "url": "https://www.mersin.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {
@@ -272,7 +272,7 @@
    "tur": "kultur",
    "url": "https://mersin.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

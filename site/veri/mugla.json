@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-05T07:46+03:00",
+ "guncelleme": "2026-11-06T07:05+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -50,22 +50,6 @@
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
   },
   {
-   "id": "a6924fad56a7",
-   "baslik": "29 Ekim Cumhuriyet Bayramı Ula Göleti Doğa Yürüyüşü",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/29-ekim-cumhuriyet-bayrami-ula-goleti-doga-yuruyusu-4696",
-   "gorsel": null
-  },
-  {
    "id": "3d8d68276fe1",
    "baslik": "Bodrum Ragetta Organizasyonu",
    "tarih": "2026-11-06",
@@ -95,7 +79,7 @@
    "kaynak_ad": "Bodrum Belediyesi",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2834/Tanitim_Toreni-Belediyemizin_Hizmet_Filosuna_Kazandirdigi_Yeni_17_Aracin_Tanitim_Toreni",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2834_1793858526.1373.jpg"
   },
   {
    "id": "1dbe7e37fa5c",
@@ -208,6 +192,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2832/Anma_Programi-10_Kasim_Ataturk%E2%80%99u_Anma_Programi",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+  },
+  {
+   "id": "438276d5ee21",
+   "baslik": "Motosiklet Güvenliği ve Trafik Bilinci",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/motosiklet-guvenligi-ve-trafik-bilinci-4710",
+   "gorsel": null
   },
   {
    "id": "778d22356e6a",
@@ -557,7 +557,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Fethiye Belediyesi",
@@ -613,7 +613,7 @@
    "tur": "kultur",
    "url": "https://mugla.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

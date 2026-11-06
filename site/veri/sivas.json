@@ -1,6 +1,6 @@
 {
  "il": "sivas",
- "guncelleme": "2026-11-05T07:58+03:00",
+ "guncelleme": "2026-11-06T07:09+03:00",
  "ilceler": [
   "Merkez",
   "Akıncılar",
@@ -21,54 +21,6 @@
   "Zara"
  ],
  "etkinlikler": [
-  {
-   "id": "fdbff6a0dbde",
-   "baslik": "Resimli Osmanlı Tarihi",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Merkez",
-   "mekan": "Atatürk Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/resimli-osmanli-tarihi",
-   "gorsel": "veri/gorsel/dt-resimli-osmanli-tarihi.webp"
-  },
-  {
-   "id": "15ab09b5164b",
-   "baslik": "Acil Tipleri - Tiyatro Gösterisi",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sivas Cumhuriyet Üniversitesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": "Acil Tipleri - Tiyatro Gösterisi",
-   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19115-acil-tipleri-tiyatro-gosterisi",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/191/Acil-Tipleri----Tiyatro-Gosterisi-71642.jpeg"
-  },
-  {
-   "id": "69f52a1e1b41",
-   "baslik": "Organlar: Sahne Senin-Organlar Konuşuyor Tiyatro Etkinliği",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sivas Cumhuriyet Üniversitesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": "\"Organlar\" \"Sahne Senin-Organlar Konuşuyor\" Tiyatro Etkinliği",
-   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19114-organlar-sahne-senin-organlar-konusuyor-tiyatro-etkinligi",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/191/Organlar-Sahne-Senin-Organlar-Konusuyor-Tiyatro-Etkinligi-11299.jpeg"
-  },
   {
    "id": "8999677af751",
    "baslik": "Resimli Osmanlı Tarihi",
@@ -372,6 +324,102 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/cayirin-en-tuhaf-yuvasi",
    "gorsel": "veri/gorsel/dt-cayirin-en-tuhaf-yuvasi.jpg"
+  },
+  {
+   "id": "5fab15867dd0",
+   "baslik": "Karacaoğlan",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/karacaoglan",
+   "gorsel": "veri/gorsel/dt-karacaoglan.jpg"
+  },
+  {
+   "id": "6b59b75d9bef",
+   "baslik": "Tebeşir Ağacı",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kültür Merkezi Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/tebesir-agaci",
+   "gorsel": "veri/gorsel/dt-tebesir-agaci.jpg"
+  },
+  {
+   "id": "25ab776ceabb",
+   "baslik": "Karacaoğlan",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/karacaoglan",
+   "gorsel": "veri/gorsel/dt-karacaoglan.jpg"
+  },
+  {
+   "id": "542b3c09bc22",
+   "baslik": "Karacaoğlan",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/karacaoglan",
+   "gorsel": "veri/gorsel/dt-karacaoglan.jpg"
+  },
+  {
+   "id": "b8ef3918ab7c",
+   "baslik": "Karacaoğlan",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/karacaoglan",
+   "gorsel": "veri/gorsel/dt-karacaoglan.jpg"
+  },
+  {
+   "id": "03a8da1bfa12",
+   "baslik": "Karacaoğlan",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/karacaoglan",
+   "gorsel": "veri/gorsel/dt-karacaoglan.jpg"
   }
  ],
  "kaynaklar": [
@@ -379,14 +427,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 17,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 22,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Sivas Cumhuriyet Üniversitesi",
    "tur": "universite",
    "url": "https://www.cumhuriyet.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 3,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
@@ -429,7 +477,7 @@
    "tur": "kultur",
    "url": "https://sivas.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yıllık festivaller (Sivas Kültür Yolu, Divriği Ulu Camii anma günleri, Kangal Balıklı Kaplıca…)",

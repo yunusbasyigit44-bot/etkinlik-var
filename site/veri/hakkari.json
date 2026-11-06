@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-11-05T07:21+03:00",
+ "guncelleme": "2026-11-06T06:55+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -10,27 +10,11 @@
  ],
  "etkinlikler": [
   {
-   "id": "3ea7646e4675",
-   "baslik": "2. Uluslararası Mezopotamya Bilimsel Araştırmalar Kongresi",
-   "tarih": "2026-11-05",
+   "id": "8dbd13343351",
+   "baslik": "\"Bağımlılıkla Mücadele Farkındalık ve Bilinçlendirme\" Eğitimi",
+   "tarih": "2026-11-06",
    "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "(Hibrit) Açılış: Rektörlük Konferans Salonu / Kongre Oturumları: Zeynel Bey Yerleşkesi, Merkezi Derslikler Binası, Muhammed Selim Seven Konferans Salonu",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": "Araştırma",
-   "kaynak_ad": "Hakkari Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/484/2-uluslararasi-mezopotamya-bilimsel-arastirmalar-kongresi",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/484/cover/thumb/8af93e1e490c43319ba166823d9e1476.webp"
-  },
-  {
-   "id": "c5f388c89cda",
-   "baslik": "\"Saygılı Yaşam ve Güvenli İlişkiler\" Eğitimi",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "13:30",
+   "saat": "11:30",
    "ilce": "Merkez",
    "mekan": "Esma Bnt El-Hakkari Konferans Salonu (1. Kat)",
    "kategori": "Atölye",
@@ -38,8 +22,24 @@
    "ozet": "Eğitim",
    "kaynak_ad": "Hakkari Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/538/%22saygili-yasam-ve-guvenli-iliskiler%22-egitimi",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/538/cover/thumb/eba1b56c168841739a860475accb5c31.webp"
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/539/%22bagimlilikla-mucadele-farkindalik-ve-bilinclendirme%22-egitimi",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/539/cover/thumb/c28767e97c544736beaac2118ce854a2.webp"
+  },
+  {
+   "id": "7844435b90d4",
+   "baslik": "Köy Okullarına Uzanan Eller: Duvarda Renk Çocuklarda Umut",
+   "tarih": "2026-11-06",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Merkez",
+   "mekan": "Hakkari Bay Köyü İlkokulu",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": "Sergi",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/537/koy-okullarina-uzanan-eller-duvarda-renk-cocuklarda-umut",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/537/cover/thumb/5ecce130ff95453397017e91ebb43ad9.webp"
   }
  ],
  "kaynaklar": [
@@ -83,7 +83,7 @@
    "tur": "kultur",
    "url": "https://hakkari.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

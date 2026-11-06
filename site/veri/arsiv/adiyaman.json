@@ -1,5 +1,21 @@
 [
  {
+  "id": "e593df191d60",
+  "baslik": "Bankacılıkta Kariyer Yolcuğu",
+  "tarih": "2026-11-05",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Merkez",
+  "mekan": "Mediko Sosyal Konferans Salonu",
+  "kategori": "Kariyer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Adıyaman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/05/bankacilikta-kariyer-yolcugu",
+  "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/05/bankacilikta-kariyer-yolcugu/thumb/bankac%C4%B1l%C4%B1k.jpg"
+ },
+ {
   "id": "f55484dd42f2",
   "baslik": "ADYÜ Teknokent Tanıtım ve Bilgilendirme Programı",
   "tarih": "2026-11-04",

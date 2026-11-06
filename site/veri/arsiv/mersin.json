@@ -1,5 +1,37 @@
 [
  {
+  "id": "c29706ca1cef",
+  "baslik": "Müze Sohbetleri-14 \"Mersin'in Fosilleri\"",
+  "tarih": "2026-11-05",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Yenişehir",
+  "mekan": "Deniz Bilimleri Uygulama ve Araştırma Merkezi - Deniz Canlıları Müzesi",
+  "kategori": "Sergi",
+  "ucretsiz": true,
+  "ozet": "Akademik",
+  "kaynak_ad": "Mersin Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/muze-sohbetleri-14-mersinin-fosilleri-n-10000874",
+  "gorsel": "https://cdn.mersin.edu.tr/public/renditions/6737b746-530f-4450-b4ab-bf25c077f302/5c63599b-9bc8-46f5-b391-20ec111a3c43/f5487b15-9370-4c69-866d-872dcaead97d/1280-f6d16233e1349a7fa0ae4bf244654bf52411642e58c0693a97bd9a645dc992a3.webp"
+ },
+ {
+  "id": "a1b921aa8369",
+  "baslik": "3 Tenor",
+  "tarih": "2026-11-05",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Akdeniz",
+  "mekan": "Mersin Kültür Merkezi Şeref Salonu",
+  "kategori": "Opera & Bale",
+  "ucretsiz": false,
+  "ozet": "Devlet Opera ve Balesi",
+  "kaynak_ad": "Devlet Opera ve Balesi",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://biletinial.com/opera-bale/3tenor-mersin-dob",
+  "gorsel": null
+ },
+ {
   "id": "b1c7a2867cde",
   "baslik": "Dünya Radyoloji Günü Kariyer Sempozyumu",
   "tarih": "2026-11-04",

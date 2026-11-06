@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-11-05T07:34+03:00",
+ "guncelleme": "2026-11-06T06:59+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -20,22 +20,6 @@
   "Yeşilhisar"
  ],
  "etkinlikler": [
-  {
-   "id": "ee5ee69f2aa4",
-   "baslik": "Leenane'in Güzellik Kraliçesi",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Melikgazi",
-   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanein-guzellik-kralicesi.webp"
-  },
   {
    "id": "a73b52adcb29",
    "baslik": "Tasavvuf Musikisi Konseri ve Sema Mukabelesi",
@@ -131,6 +115,54 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.erciyes.edu.tr/tr/etkinlik-detay/tahsin-hasanoglu-ile-kariyer-soylesisi/10450",
    "gorsel": "https://www.erciyes.edu.tr/images/Etkinlik/fde75a49-f84b-4aca-af67-ef0dafedb3c3.jpeg"
+  },
+  {
+   "id": "60766467702b",
+   "baslik": "Geleceğin Teşhisi",
+   "tarih": "2026-11-09",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Melikgazi",
+   "mekan": "Erciyes Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erciyes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.erciyes.edu.tr/tr/etkinlik-detay/gelecegin-teshisi/10455",
+   "gorsel": "https://www.erciyes.edu.tr/images/Etkinlik/7b1465a9-c9f1-4d12-9840-5c7504762642.png"
+  },
+  {
+   "id": "d7abd7a1064e",
+   "baslik": "10 Kasım Atatürk'ü Anma Programı",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "09:05",
+   "ilce": "Melikgazi",
+   "mekan": "Erciyes Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erciyes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.erciyes.edu.tr/tr/etkinlik-detay/10-kasim-ataturku-anma-programi/10452",
+   "gorsel": "https://www.erciyes.edu.tr/images/Etkinlik/c15d0e8f-1d1b-4ed3-b6e6-fcc8881cb441.jpg"
+  },
+  {
+   "id": "8cf9116452d6",
+   "baslik": "Vefatının 88. Yılında Atatürk'ü Anmak ve Anlamak",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "09:30",
+   "ilce": "Melikgazi",
+   "mekan": "Erciyes Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erciyes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.erciyes.edu.tr/tr/etkinlik-detay/vefatinin-88-yilinda-ataturku-anmak-ve-anlamak/10453",
+   "gorsel": "https://www.erciyes.edu.tr/images/Etkinlik/125dbdfc-8fdc-40a3-a12c-e04a999f34f3.jpg"
   },
   {
    "id": "899f7c85f1d0",
@@ -291,6 +323,118 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/masal-gulleri",
    "gorsel": "veri/gorsel/dt-masal-gulleri.webp"
+  },
+  {
+   "id": "0db3cafb6e8e",
+   "baslik": "Keşanlı Ali Destanı",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kesanli-ali-destani",
+   "gorsel": "veri/gorsel/dt-kesanli-ali-destani.jpg"
+  },
+  {
+   "id": "6ed14a7026c4",
+   "baslik": "Kayıp Renkler",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kayip-renkler",
+   "gorsel": "veri/gorsel/dt-kayip-renkler.jpg"
+  },
+  {
+   "id": "cf9356910f21",
+   "baslik": "Keşanlı Ali Destanı",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kesanli-ali-destani",
+   "gorsel": "veri/gorsel/dt-kesanli-ali-destani.jpg"
+  },
+  {
+   "id": "0f0a4c0b1ae0",
+   "baslik": "Keşanlı Ali Destanı",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kesanli-ali-destani",
+   "gorsel": "veri/gorsel/dt-kesanli-ali-destani.jpg"
+  },
+  {
+   "id": "f9dd7218219c",
+   "baslik": "Keşanlı Ali Destanı",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kesanli-ali-destani",
+   "gorsel": "veri/gorsel/dt-kesanli-ali-destani.jpg"
+  },
+  {
+   "id": "a6128402e560",
+   "baslik": "Keşanlı Ali Destanı",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kesanli-ali-destani",
+   "gorsel": "veri/gorsel/dt-kesanli-ali-destani.jpg"
+  },
+  {
+   "id": "410619deaa8d",
+   "baslik": "Masal Gülleri",
+   "tarih": "2026-11-29",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/masal-gulleri",
+   "gorsel": "veri/gorsel/dt-masal-gulleri.webp"
   }
  ],
  "kaynaklar": [
@@ -298,14 +442,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 15,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 21,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Erciyes Üniversitesi",
    "tur": "universite",
    "url": "https://www.erciyes.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {
@@ -355,7 +499,7 @@
    "tur": "kultur",
    "url": "https://kayseri.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Kocasinan ve Talas belediyeleri",

@@ -1,6 +1,6 @@
 {
  "il": "karaman",
- "guncelleme": "2026-11-05T08:11+03:00",
+ "guncelleme": "2026-11-06T07:11+03:00",
  "ilceler": [
   "Merkez",
   "Ayrancı",
@@ -10,118 +10,6 @@
   "Sarıveliler"
  ],
  "etkinlikler": [
-  {
-   "id": "fa286e332146",
-   "baslik": "Etkili Iletisim Becerileri",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4140",
-   "gorsel": null
-  },
-  {
-   "id": "b7ea49a39d51",
-   "baslik": "Lösemili Çocuklar Haftasi Farkindalik",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4139",
-   "gorsel": null
-  },
-  {
-   "id": "1ca168b4a3f5",
-   "baslik": "Cumhuriyet ve Atatürk Konseri",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4137",
-   "gorsel": null
-  },
-  {
-   "id": "05144821dee8",
-   "baslik": "Afet Çantasi Hazirlama Egitimi",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4141",
-   "gorsel": null
-  },
-  {
-   "id": "7a3cb1e3a5ad",
-   "baslik": "Dijital Çagda Sömürgecilik Söylesisi",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4142",
-   "gorsel": null
-  },
-  {
-   "id": "f28c5dec7463",
-   "baslik": "Körling Turnuvasi",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4138",
-   "gorsel": null
-  },
-  {
-   "id": "0e1df8c956df",
-   "baslik": "Konser",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4143",
-   "gorsel": null
-  },
   {
    "id": "6112fc2e71e5",
    "baslik": "Konferans ''Organ Nakli Haftasi''",
@@ -336,7 +224,7 @@
    "ad": "Karamanoğlu Mehmetbey Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.kmu.edu.tr/index.aspx",
-   "etkinlik_sayisi": 20,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {
@@ -344,7 +232,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -372,7 +260,7 @@
    "tur": "kultur",
    "url": "https://karaman.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

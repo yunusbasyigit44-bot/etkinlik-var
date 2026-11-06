@@ -1,6 +1,6 @@
 {
  "il": "sakarya",
- "guncelleme": "2026-11-05T07:52+03:00",
+ "guncelleme": "2026-11-06T07:07+03:00",
  "ilceler": [
   "Adapazarı",
   "Serdivan",
@@ -33,7 +33,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -82,7 +82,7 @@
    "tur": "kultur",
    "url": "https://sakarya.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yıllık festivaller (Sakarya Caz, Sapanca Kültür Sanat, Uluslararası Sakarya Film…)",

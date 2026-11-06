@@ -1,5 +1,37 @@
 [
  {
+  "id": "ccbff83862b8",
+  "baslik": "Barok Rüyası",
+  "tarih": "2026-11-05",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Muratpaşa",
+  "mekan": "Antalya Haşim İşçan Kültür Merkezi",
+  "kategori": "Opera & Bale",
+  "ucretsiz": false,
+  "ozet": "Devlet Opera ve Balesi",
+  "kaynak_ad": "Devlet Opera ve Balesi",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://biletinial.com/opera-bale/barok-ruyasi-antalya-dob",
+  "gorsel": null
+ },
+ {
+  "id": "da0b3e6b5e30",
+  "baslik": "Buzlar Çözülmeden",
+  "tarih": "2026-11-05",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Muratpaşa",
+  "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buzlar-cozulmeden",
+  "gorsel": null
+ },
+ {
   "id": "2b77a068cb4f",
   "baslik": "Dino Ormanı",
   "tarih": "2026-11-04",

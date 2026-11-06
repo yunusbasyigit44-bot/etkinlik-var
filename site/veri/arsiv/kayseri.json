@@ -1,5 +1,21 @@
 [
  {
+  "id": "ee5ee69f2aa4",
+  "baslik": "Leenane'in Güzellik Kraliçesi",
+  "tarih": "2026-11-05",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Melikgazi",
+  "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
+  "gorsel": null
+ },
+ {
   "id": "37a5f3e8ed53",
   "baslik": "Kayseri CBS Günü – Coğrafi Bilgi Sistemleri ile Daha Yaşanabilir Kayseri",
   "tarih": "2026-11-04",

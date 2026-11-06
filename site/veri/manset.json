@@ -1,6 +1,6 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-11-05",
+ "guncelleme": "2026-11-06",
  "secilenler": [
   {
    "id": "d7762ec713f9",
@@ -9,32 +9,16 @@
    "elle": true
   },
   {
-   "id": "ccbff83862b8",
-   "not": "Antalya'da opera ve bale sahnesinden bir akşam."
+   "id": "fc0552713165",
+   "not": "Ankara'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "a1b921aa8369",
-   "not": "Mersin'de opera ve bale sahnesinden bir akşam."
-  },
-  {
-   "id": "a173989d3767",
+   "id": "1b8e94c96cc6",
    "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "10379b1e0871",
-   "not": "Samsun'da geleneksel ezgiler."
-  },
-  {
-   "id": "54708d799139",
-   "not": "Eskişehir'de canlı müzik keyfi."
-  },
-  {
-   "id": "e18ae01c51c9",
-   "not": "İstanbul'da canlı müzik keyfi."
-  },
-  {
-   "id": "c04660b0689c",
-   "not": "Konya'da geleneksel ezgiler."
+   "id": "4b6623b4f9f0",
+   "not": "İzmir'de opera ve bale sahnesinden bir akşam."
   },
   {
    "id": "1cb36427436f",
@@ -45,16 +29,32 @@
    "not": "Kayseri'de geleneksel ezgiler."
   },
   {
+   "id": "82e7363860be",
+   "not": "İstanbul'da canlı müzik keyfi."
+  },
+  {
+   "id": "c93c682de094",
+   "not": "Afyonkarahisar'da canlı müzik keyfi."
+  },
+  {
+   "id": "f956d28fe684",
+   "not": "Eskişehir'de geleneksel ezgiler."
+  },
+  {
+   "id": "2c455e2b4819",
+   "not": "Konya'da geleneksel ezgiler."
+  },
+  {
    "id": "cdb5c6524545",
    "not": "Manisa'da perde açılıyor."
   },
   {
-   "id": "6f94b287b2b1",
-   "not": "Adana'da perde açılıyor."
+   "id": "ac5847e36938",
+   "not": "Konya'da perde açılıyor."
   },
   {
-   "id": "15ab09b5164b",
-   "not": "Sivas'ta perde açılıyor."
+   "id": "4d1fa340e6fa",
+   "not": "Manisa'da perde açılıyor."
   },
   {
    "id": "a00303c71871",
@@ -65,8 +65,8 @@
    "not": "Muğla'da gezip görülecek bir sergi."
   },
   {
-   "id": "4b35490e2590",
-   "not": "İzmir'de gezip görülecek bir sergi."
+   "id": "3a1f137aef41",
+   "not": "Afyonkarahisar'da gezip görülecek bir sergi."
   }
  ]
 }

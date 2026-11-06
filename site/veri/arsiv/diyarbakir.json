@@ -1,5 +1,37 @@
 [
  {
+  "id": "1b3c294d16d0",
+  "baslik": "Biz Size Hayranız",
+  "tarih": "2026-11-05",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Yenişehir",
+  "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/biz-size-hayraniz",
+  "gorsel": null
+ },
+ {
+  "id": "6d5a99a9aba1",
+  "baslik": "GENÇLİK ve GELECEK: BAĞIMLILIK KODLARINI KIRMAK",
+  "tarih": "2026-11-05",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Sur",
+  "mekan": "Dicle Üniversitesi",
+  "kategori": "Gençlik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Dicle Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/genclik-ve-gelecek-bagimlilik-kodlarini-kirmak-12919",
+  "gorsel": "https://www.dicle.edu.tr/contents/events/photos/4ec92d74-4d17-4a8e-a377-52f8800f96d6/ss_thumb_c9f964f6ffd24ab3add104b79aeca943_WhatsApp%20Image%202026-11-02%20at%2014.37.29.jpeg"
+ },
+ {
   "id": "b77ab7f5ca10",
   "baslik": "Gizli Bahçe'nin Bezelyesi",
   "tarih": "2026-11-04",

@@ -1,5 +1,37 @@
 [
  {
+  "id": "4198db754d18",
+  "baslik": "Su Altı Topluluğu Dalış Etkinliği",
+  "tarih": "2026-11-05",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Isparta Uygulamalı Bilimler Üniversitesi",
+  "kategori": "Gençlik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Isparta Uygulamalı Bilimler Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.iste.edu.tr/etkinlik-merkezi/2026/11/05/949",
+  "gorsel": "https://www.iste.edu.tr/gallery/_etkinlik_thumb/949_event_1793441677.jpeg"
+ },
+ {
+  "id": "4e56c331a171",
+  "baslik": "Hizmet İçi Eğitim (Protokol ve Görgü Kuralları Eğitimi)",
+  "tarih": "2026-11-05",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "M. Lütfü Çakmakçı B Konferans Salonu ile Uluslararası Genel Koordinatörlüğü",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": "Hizmet İçi Eğitim",
+  "kaynak_ad": "Süleyman Demirel Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+  "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=561EF7AD-5637-A017-F4D8-3A24B34FB7A4"
+ },
+ {
   "id": "4611bdcaa87b",
   "baslik": "Hizmet İçi Eğitim (Yönetici Adayları Sınava Hazırlık Eğitimi)",
   "tarih": "2026-11-04",

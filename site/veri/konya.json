@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-05T07:39+03:00",
+ "guncelleme": "2026-11-06T07:01+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,70 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "370a219eb74f",
-   "baslik": "Esas Misafir",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/esas-misafir",
-   "gorsel": "veri/gorsel/dt-esas-misafir.jpg"
-  },
-  {
-   "id": "c04660b0689c",
-   "baslik": "Bando ve Mehteran Takımı",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/bando-ve-mehteran-takimi/1023",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAyBilmjccQ296naROtXR3SHNgU-hwjQ.jpeg"
-  },
-  {
-   "id": "d72765cc0d1e",
-   "baslik": "Konya Okulu - Prof. Dr. Ömer Özpınar",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-omer-ozpinar/1212",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/D0JfVX30v_QV6zHMCiLrLbEeJJUhCC60.jpeg"
-  },
-  {
-   "id": "a85d7b78bd43",
-   "baslik": "Tematik Film Okumaları",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Sinema",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/tematik-film-okumalari/1335",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/0vRhf-w6SQeFSasNJ_Thvt5IG7e8j6y7.jpeg"
-  },
   {
    "id": "72c3f936ddea",
    "baslik": "Doğumunun 150. Yılında Ziya Gökalp Uluslararası Sempozyumu",
@@ -227,22 +163,6 @@
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAr7rQ-kN_9FsooKim_r07VzUrnN4Gxp.jpeg"
   },
   {
-   "id": "4791cc7eac5d",
-   "baslik": "Şehir Konferansları - Ilgın",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-ilgin/1337",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/MCyVkSRYdN1xiIPgNT7ZCtOnMRT3cf8I.jpeg"
-  },
-  {
    "id": "95df083944f5",
    "baslik": "Konya Okulu - Ahmet Özkan",
    "tarih": "2026-11-07",
@@ -257,6 +177,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-ahmet-ozkan/1214",
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/rDq9Q0TPY6VfiNgCpIQW7D8nJ2a-fvLC.jpeg"
+  },
+  {
+   "id": "4791cc7eac5d",
+   "baslik": "Şehir Konferansları - Ilgın",
+   "tarih": "2026-11-07",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-ilgin/1337",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/MCyVkSRYdN1xiIPgNT7ZCtOnMRT3cf8I.jpeg"
   },
   {
    "id": "481ceb016203",
@@ -305,6 +241,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/ataturk-un-sevdigi-sarkilar-konseri-2510",
    "gorsel": null
+  },
+  {
+   "id": "2c455e2b4819",
+   "baslik": "Bando ve Mehteran Takımı",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Geleneksel Müzik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/bando-ve-mehteran-takimi/1023",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAyBilmjccQ296naROtXR3SHNgU-hwjQ.jpeg"
   },
   {
    "id": "3c6c557d3c28",
@@ -433,6 +385,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanatkonya.com/etkinlikler/yoldan-cikan-oyun/502",
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/F9BYx8pQToOxTklsNf2L3tRjoZr38Zwd.jpeg"
+  },
+  {
+   "id": "6d2af777bfd1",
+   "baslik": "Konya Okulu - Prof. Dr. Ömer Özpınar",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-omer-ozpinar/1212",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/D0JfVX30v_QV6zHMCiLrLbEeJJUhCC60.jpeg"
   },
   {
    "id": "50168087f4bd",
@@ -595,6 +563,102 @@
    "gorsel": null
   },
   {
+   "id": "171e94a596c4",
+   "baslik": "Yastık Adam",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Selçuklu",
+   "mekan": "Konya DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
+   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
+  },
+  {
+   "id": "032ebfde01f1",
+   "baslik": "Eğlence Dünyası",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Selçuklu",
+   "mekan": "Konya DT Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/eglence-dunyasi",
+   "gorsel": "veri/gorsel/dt-eglence-dunyasi.webp"
+  },
+  {
+   "id": "1318b81f2ed9",
+   "baslik": "Eğlence Dünyası",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Selçuklu",
+   "mekan": "Konya DT Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/eglence-dunyasi",
+   "gorsel": "veri/gorsel/dt-eglence-dunyasi.webp"
+  },
+  {
+   "id": "884beb443d3f",
+   "baslik": "Yastık Adam",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Selçuklu",
+   "mekan": "Konya DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
+   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
+  },
+  {
+   "id": "214f83ade8e5",
+   "baslik": "5. İslam Ekonomisi ve Finansı Akademik İstişare Çalıştayı",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Meram",
+   "mekan": "Necmettin Erbakan Üniversitesi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": "Sosyo-Kültürel",
+   "kaynak_ad": "Necmettin Erbakan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/5-islam-ekonomisi-ve-finansi-akademik-istisare-calistayi-2542",
+   "gorsel": null
+  },
+  {
+   "id": "09c5d5a04641",
+   "baslik": "Yastık Adam",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Selçuklu",
+   "mekan": "Konya DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
+   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
+  },
+  {
    "id": "ba4d68c4f02e",
    "baslik": "Kafesten Bir Kuş Uçtu",
    "tarih": "2026-11-27",
@@ -643,6 +707,38 @@
    "gorsel": null
   },
   {
+   "id": "6bdef9747955",
+   "baslik": "Yastık Adam",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Selçuklu",
+   "mekan": "Konya DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
+   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
+  },
+  {
+   "id": "9f2338dbb479",
+   "baslik": "Yastık Adam",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Selçuklu",
+   "mekan": "Konya DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
+   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
+  },
+  {
    "id": "58c48fd2ee0e",
    "baslik": "2. Ulusal Psikoloji Öğrenci Sempozyumu",
    "tarih": "2026-11-30",
@@ -661,24 +757,24 @@
  ],
  "kaynaklar": [
   {
-   "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "tur": "belediye",
-   "url": "https://www.konya.bel.tr/etkinlik",
-   "etkinlik_sayisi": 18,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 14,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 20,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "tur": "belediye",
+   "url": "https://www.konya.bel.tr/etkinlik",
+   "etkinlik_sayisi": 17,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Necmettin Erbakan Üniversitesi",
    "tur": "universite",
    "url": "https://erbakan.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {
@@ -700,7 +796,7 @@
    "tur": "kultur",
    "url": "https://konya.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

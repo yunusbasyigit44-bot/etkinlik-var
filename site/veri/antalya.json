@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-05T06:55+03:00",
+ "guncelleme": "2026-11-06T06:47+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -70,38 +70,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/antalya-kriterleri-bildirisi-ve-taahhutnamesi-imza-toreni",
    "gorsel": null
-  },
-  {
-   "id": "ccbff83862b8",
-   "baslik": "Barok Rüyası",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/barok-ruyasi-antalya-dob",
-   "gorsel": "veri/gorsel/dob-5-3329.webp"
-  },
-  {
-   "id": "da0b3e6b5e30",
-   "baslik": "Buzlar Çözülmeden",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buzlar-cozulmeden",
-   "gorsel": "veri/gorsel/dt-buzlar-cozulmeden.jpg"
   },
   {
    "id": "4df320fcf776",
@@ -261,7 +229,7 @@
    "kaynak_ad": "Devlet Opera ve Balesi",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://www.operabale.gov.tr/directorates/antalya-opera-ve-balesi-5",
-   "gorsel": null
+   "gorsel": "veri/gorsel/dob-5-628.webp"
   },
   {
    "id": "a2db72c220fa",
@@ -472,6 +440,22 @@
    "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
   },
   {
+   "id": "cdfab8293e2c",
+   "baslik": "Antalya Teknokent Techgreen Demoday Başvuruları Başladı!",
+   "tarih": "2026-11-15",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, ANFAŞ Fuar Merkezi, Büyük Salon",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/antalya_teknokent_techgreen_demoday_basvurulari_basladi-5753",
+   "gorsel": null
+  },
+  {
    "id": "82df28edead4",
    "baslik": "Üç Kedi Bir Dilek",
    "tarih": "2026-11-17",
@@ -520,6 +504,22 @@
    "gorsel": "veri/gorsel/dob-5-3302.webp"
   },
   {
+   "id": "f25f0de5bcef",
+   "baslik": "Müze Konseri",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Nekropol Müzesi",
+   "kategori": "Konser",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/muze-konseri-ant-dob",
+   "gorsel": "veri/gorsel/dob-5-1164.jpg"
+  },
+  {
    "id": "8ab8647c45af",
    "baslik": "Taziye",
    "tarih": "2026-11-18",
@@ -534,6 +534,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/taziye",
    "gorsel": "veri/gorsel/dt-taziye.webp"
+  },
+  {
+   "id": "4f9fbf31175f",
+   "baslik": "Fındıkkıran",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/findikkiran-antdob",
+   "gorsel": "veri/gorsel/dob-5-280.jpg"
   },
   {
    "id": "831123cf3962",
@@ -648,6 +664,70 @@
    "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
   },
   {
+   "id": "ca7c8c8e9d77",
+   "baslik": "Üç Kedi Bir Dilek",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Muratpaşa",
+   "mekan": "H.i.k.m. Sanat Galerisi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/uc-kedi-bir-dilek",
+   "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
+  },
+  {
+   "id": "86a121130b7c",
+   "baslik": "Üç Kedi Bir Dilek",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Muratpaşa",
+   "mekan": "H.i.k.m. Sanat Galerisi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/uc-kedi-bir-dilek",
+   "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
+  },
+  {
+   "id": "468b8a18d186",
+   "baslik": "Therese Raquin (Bir Cinayetin Anatomisi)",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/therese-raquin-bir-cinayetin-anatomisi",
+   "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
+  },
+  {
+   "id": "861e7abaf89e",
+   "baslik": "Therese Raquin (Bir Cinayetin Anatomisi)",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/therese-raquin-bir-cinayetin-anatomisi",
+   "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
+  },
+  {
    "id": "534658762939",
    "baslik": "DevFest Antalya 2026",
    "tarih": "2026-11-26",
@@ -662,6 +742,102 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/devfest-antalya-2026",
    "gorsel": null
+  },
+  {
+   "id": "825ba76446bd",
+   "baslik": "Therese Raquin (Bir Cinayetin Anatomisi)",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/therese-raquin-bir-cinayetin-anatomisi",
+   "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
+  },
+  {
+   "id": "3a86bb0c95d9",
+   "baslik": "Therese Raquin (Bir Cinayetin Anatomisi)",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/therese-raquin-bir-cinayetin-anatomisi",
+   "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
+  },
+  {
+   "id": "0718ce88c16e",
+   "baslik": "Therese Raquin (Bir Cinayetin Anatomisi)",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/therese-raquin-bir-cinayetin-anatomisi",
+   "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
+  },
+  {
+   "id": "c524a6189749",
+   "baslik": "Therese Raquin (Bir Cinayetin Anatomisi)",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/therese-raquin-bir-cinayetin-anatomisi",
+   "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
+  },
+  {
+   "id": "8572c4f48b93",
+   "baslik": "Kırmızı Cüce",
+   "tarih": "2026-11-29",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kirmizi-cuce",
+   "gorsel": "veri/gorsel/dt-kirmizi-cuce.jpg"
+  },
+  {
+   "id": "95e026d135aa",
+   "baslik": "Üç Kedi Bir Dilek",
+   "tarih": "2026-11-29",
+   "bitis": null,
+   "saat": "16:00",
+   "ilce": "Muratpaşa",
+   "mekan": "H.i.k.m. Sanat Galerisi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/uc-kedi-bir-dilek",
+   "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
   },
   {
    "id": "a06b251971fc",
@@ -685,8 +861,8 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 22,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 31,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Antalya Bilim Üniversitesi",
@@ -699,14 +875,14 @@
    "ad": "Devlet Opera ve Balesi",
    "tur": "kultur",
    "url": "https://www.operabale.gov.tr",
-   "etkinlik_sayisi": 7,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 8,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Akdeniz Üniversitesi",
    "tur": "universite",
    "url": "https://www.akdeniz.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {
@@ -756,7 +932,7 @@
    "tur": "kultur",
    "url": "https://antalya.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

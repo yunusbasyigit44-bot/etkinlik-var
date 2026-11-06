@@ -1,6 +1,6 @@
 {
  "il": "sanliurfa",
- "guncelleme": "2026-11-05T08:04+03:00",
+ "guncelleme": "2026-11-06T07:10+03:00",
  "ilceler": [
   "Eyyübiye",
   "Haliliye",
@@ -30,7 +30,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Eyyübiye, Karaköprü ve diğer ilçe belediyeleri",
@@ -107,7 +107,7 @@
    "tur": "kultur",
    "url": "https://sanliurfa.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   }
  ]
 }

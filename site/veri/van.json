@@ -1,6 +1,6 @@
 {
  "il": "van",
- "guncelleme": "2026-11-05T08:06+03:00",
+ "guncelleme": "2026-11-06T07:11+03:00",
  "ilceler": [
   "İpekyolu",
   "Tuşba",
@@ -17,22 +17,6 @@
   "Saray"
  ],
  "etkinlikler": [
-  {
-   "id": "d9140f64b3ff",
-   "baslik": "İbiş'in Rüyası",
-   "tarih": "2026-11-05",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "İpekyolu",
-   "mekan": "Van Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ibisin-ruyasi",
-   "gorsel": "veri/gorsel/dt-ibisin-ruyasi.webp"
-  },
   {
    "id": "d210da9ed486",
    "baslik": "İbiş'in Rüyası",
@@ -288,6 +272,118 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/toti-ile-poti",
    "gorsel": "veri/gorsel/dt-toti-ile-poti.jpg"
+  },
+  {
+   "id": "6fd961d1144e",
+   "baslik": "İbiş'in Rüyası",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ibisin-ruyasi",
+   "gorsel": "veri/gorsel/dt-ibisin-ruyasi.webp"
+  },
+  {
+   "id": "04f4d65ffa5e",
+   "baslik": "Papağan Kaçtı",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/papagan-kacti",
+   "gorsel": "veri/gorsel/dt-papagan-kacti.webp"
+  },
+  {
+   "id": "d5178e1501a4",
+   "baslik": "İbiş'in Rüyası",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ibisin-ruyasi",
+   "gorsel": "veri/gorsel/dt-ibisin-ruyasi.webp"
+  },
+  {
+   "id": "bc5f3e60c9fb",
+   "baslik": "İbiş'in Rüyası",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ibisin-ruyasi",
+   "gorsel": "veri/gorsel/dt-ibisin-ruyasi.webp"
+  },
+  {
+   "id": "12db2fa9ae30",
+   "baslik": "İbiş'in Rüyası",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ibisin-ruyasi",
+   "gorsel": "veri/gorsel/dt-ibisin-ruyasi.webp"
+  },
+  {
+   "id": "8b9994809009",
+   "baslik": "İbiş'in Rüyası",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ibisin-ruyasi",
+   "gorsel": "veri/gorsel/dt-ibisin-ruyasi.webp"
+  },
+  {
+   "id": "88e21c0dddb8",
+   "baslik": "Toti ile Poti",
+   "tarih": "2026-11-29",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "İpekyolu",
+   "mekan": "Erhan Gökgücü DT Genç Sahne",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/toti-ile-poti",
+   "gorsel": "veri/gorsel/dt-toti-ile-poti.jpg"
   }
  ],
  "kaynaklar": [
@@ -295,8 +391,8 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 17,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 23,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Büyükşehir Şehir Tiyatrosu",
@@ -352,7 +448,7 @@
    "tur": "kultur",
    "url": "https://van.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yıllık festivaller (Van Kahvaltı Festivali, Akdamar Etkinlikleri, Van Gölü Kültür Şenliği…)",

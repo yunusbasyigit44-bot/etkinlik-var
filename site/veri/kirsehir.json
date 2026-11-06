@@ -1,6 +1,6 @@
 {
  "il": "kirsehir",
- "guncelleme": "2026-11-05T07:36+03:00",
+ "guncelleme": "2026-11-06T07:00+03:00",
  "ilceler": [
   "Merkez",
   "Akçakent",
@@ -10,14 +10,38 @@
   "Kaman",
   "Mucur"
  ],
- "etkinlikler": [],
+ "etkinlikler": [
+  {
+   "id": "aae49c5bd50f",
+   "baslik": "Gazi Mustafa Kemal Atatürk'ü Anma Günü",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "12:30",
+   "ilce": "Merkez",
+   "mekan": "Kırşehir Belediyesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırşehir Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/gazi-mustafa-kemal-atatuerk-ue-anma-guenue",
+   "gorsel": "https://www.kirsehir.bel.tr/storage/events/0iDFlaVDb9LYGnljK5emIYnTY2gpkQe7ZOojEbB7.jpg"
+  }
+ ],
  "kaynaklar": [
+  {
+   "ad": "Kırşehir Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.kirsehir.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Kaman, Mucur, Çiçekdağı belediyeleri",
@@ -34,13 +58,6 @@
    "durum": "okunabilir etkinlik takvimi bulunamadı"
   },
   {
-   "ad": "Kırşehir Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.kirsehir.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
-  },
-  {
    "ad": "Kırşehir Valiliği ve ilçe kaymakamlıkları",
    "tur": "valilik",
    "url": "https://www.kirsehir.gov.tr",
@@ -52,7 +69,7 @@
    "tur": "kultur",
    "url": "https://kirsehir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Neşet Ertaş Anma Programı, Ahilik Haftası, Kaman Ceviz Festivali…",

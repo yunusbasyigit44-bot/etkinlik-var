@@ -1,5 +1,37 @@
 [
  {
+  "id": "1161d7c0c4a4",
+  "baslik": "Sağlıklı Yaşam Bilgilendirme Semineri",
+  "tarih": "2026-11-05",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Onikişubat",
+  "mekan": "Arslanbey Yerleşkesi Konferans Salonu",
+  "kategori": "Sağlık",
+  "ucretsiz": true,
+  "ozet": "Göksun Uygulamalı Bilimler Yüksekokulu",
+  "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=132",
+  "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611031617556377.jpg"
+ },
+ {
+  "id": "ac797a5fa28f",
+  "baslik": "Oratoryo\"Gel Gör Beni\"",
+  "tarih": "2026-11-05",
+  "bitis": null,
+  "saat": "19:30",
+  "ilce": "Onikişubat",
+  "mekan": "Yunus Emre Kongre ve Kültür Merkezi Sezai Karakoç Konferans Salonu",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Gösteri Sanatları Öğrenci Topluluğu",
+  "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=133",
+  "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611041151053874.jpg"
+ },
+ {
   "id": "8eb9a0873845",
   "baslik": "Tiyatro Oyunu \"Dün Bugün Yarın\"",
   "tarih": "2026-11-03",

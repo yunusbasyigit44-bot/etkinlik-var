@@ -1,6 +1,6 @@
 {
  "il": "tokat",
- "guncelleme": "2026-11-05T08:00+03:00",
+ "guncelleme": "2026-11-06T07:09+03:00",
  "ilceler": [
   "Merkez",
   "Almus",
@@ -71,14 +71,14 @@
    "tur": "belediye",
    "url": "https://www.tokat.bel.tr/",
    "etkinlik_sayisi": 3,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Erbaa, Niksar, Turhal, Zile belediyeleri",
@@ -120,7 +120,7 @@
    "tur": "kultur",
    "url": "https://tokat.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yıllık festivaller (Tokat Yaz Festivali, Niksar Kültür ve Turizm, Zile Pekmez…)",
