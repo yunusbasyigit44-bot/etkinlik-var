@@ -1,6 +1,6 @@
 {
  "il": "adiyaman",
- "guncelleme": "2026-11-06T06:43+03:00",
+ "guncelleme": "2026-11-07T06:39+03:00",
  "ilceler": [
   "Merkez",
   "Besni",
@@ -76,6 +76,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/25/profesyonelotel-yoneticileri-gelecegin-seflerinden-neler-bekliyor",
    "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/25/profesyonelotel-yoneticileri-gelecegin-seflerinden-neler-bekliyo/thumb/gastronomi%C5%9Fef.jpg"
+  },
+  {
+   "id": "830e10055fd2",
+   "baslik": "3. Sınıflar Önlük Giyme Töreni",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Merkez",
+   "mekan": "Mustafa V. Koç Konferans Salonu",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/27/3-siniflar-onluk-giyme-toreni",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/27/3-siniflar-onluk-giyme-toreni/thumb/%C3%B6nl%C3%BCk%20giyme.jpg"
   }
  ],
  "kaynaklar": [
@@ -83,7 +99,7 @@
    "ad": "Adıyaman Üniversitesi",
    "tur": "universite",
    "url": "https://adiyaman.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

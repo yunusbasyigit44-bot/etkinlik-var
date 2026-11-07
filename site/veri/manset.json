@@ -1,6 +1,6 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-11-06",
+ "guncelleme": "2026-11-07",
  "secilenler": [
   {
    "id": "d7762ec713f9",
@@ -9,27 +9,23 @@
    "elle": true
   },
   {
-   "id": "fc0552713165",
-   "not": "Ankara'da opera ve bale sahnesinden bir akşam."
-  },
-  {
-   "id": "1b8e94c96cc6",
-   "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
-  },
-  {
    "id": "4b6623b4f9f0",
    "not": "İzmir'de opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "1cb36427436f",
-   "not": "Eskişehir'de canlı müzik keyfi."
+   "id": "d56324771082",
+   "not": "Ankara'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "a73b52adcb29",
-   "not": "Kayseri'de geleneksel ezgiler."
+   "id": "427fb3bcd35b",
+   "not": "Antalya'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "82e7363860be",
+   "id": "cd55ee9b32ec",
+   "not": "İstanbul'da canlı müzik keyfi."
+  },
+  {
+   "id": "98d3b12665c0",
    "not": "İstanbul'da canlı müzik keyfi."
   },
   {
@@ -49,24 +45,28 @@
    "not": "Manisa'da perde açılıyor."
   },
   {
-   "id": "ac5847e36938",
-   "not": "Konya'da perde açılıyor."
-  },
-  {
    "id": "4d1fa340e6fa",
    "not": "Manisa'da perde açılıyor."
+  },
+  {
+   "id": "d8dab366e01a",
+   "not": "Kocaeli'de perde açılıyor."
   },
   {
    "id": "a00303c71871",
    "not": "Gaziantep'te gezip görülecek bir sergi."
   },
   {
+   "id": "6f85dac51929",
+   "not": "Eskişehir'de gezip görülecek bir sergi."
+  },
+  {
    "id": "6dbaf62dc677",
    "not": "Muğla'da gezip görülecek bir sergi."
   },
   {
-   "id": "3a1f137aef41",
-   "not": "Afyonkarahisar'da gezip görülecek bir sergi."
+   "id": "b5f234369b69",
+   "not": "Muğla'da doğada bir gün."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "il": "yalova",
- "guncelleme": "2026-11-06T07:12+03:00",
+ "guncelleme": "2026-11-07T07:05+03:00",
  "ilceler": [
   "Merkez",
   "Altınova",
@@ -51,7 +51,7 @@
    "tur": "universite",
    "url": "https://www.yalova.edu.tr/tr/Etkinlik",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: HTTP Error 503: Service Unavailable"
   },
   {
    "ad": "Yalova İl Kültür ve Turizm Müdürlüğü",

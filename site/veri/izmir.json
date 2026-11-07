@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-11-06T06:59+03:00",
+ "guncelleme": "2026-11-07T06:53+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -193,54 +193,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.konak.bel.tr/tr/etkinlikler/etkinlik/zamanin-dokusu",
    "gorsel": "https://www.konak.bel.tr/upload/activity/9dccf9bd-fe3e-4949-9403-e18f613830e7_6adf35065a7b6.jpg"
-  },
-  {
-   "id": "9a33bad9510c",
-   "baslik": "Halktan Biri",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Konak",
-   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-04-07/8ec8a040-119b-4ce6-ae8f-9c7e00484cc7-brtod2zv.jpeg"
-  },
-  {
-   "id": "4c676a97dc66",
-   "baslik": "Kanlı Nigar",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kanli-nigar",
-   "gorsel": "veri/gorsel/dt-kanli-nigar.webp"
-  },
-  {
-   "id": "262186ca81e2",
-   "baslik": "Nihayet Makamı",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nihayet-makami",
-   "gorsel": "veri/gorsel/dt-nihayet-makami.jpg"
   },
   {
    "id": "602309781fe4",
@@ -1848,14 +1800,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 61,
+   "etkinlik_sayisi": 59,
    "durum": "çalışıyor"
   },
   {
    "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "tur": "belediye",
    "url": "https://kultursanat.izmir.bel.tr/",
-   "etkinlik_sayisi": 42,
+   "etkinlik_sayisi": 41,
    "durum": "çalışıyor"
   },
   {

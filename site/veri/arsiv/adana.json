@@ -1,5 +1,21 @@
 [
  {
+  "id": "b935224744a9",
+  "baslik": "Ocak'ta Bahar",
+  "tarih": "2026-11-06",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Seyhan",
+  "mekan": "Ramazanoğlu Kültür Merkezi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları Adana",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ocakta-bahar",
+  "gorsel": null
+ },
+ {
   "id": "09d4cd93f969",
   "baslik": "Ocak'ta Bahar",
   "tarih": "2026-11-05",
@@ -48,6 +64,22 @@
   "gorsel": "https://www.cu.edu.tr/media/se0h41wi/dijitalortam.jpeg"
  },
  {
+  "id": "655fb33367c3",
+  "baslik": "Bir Vatan Sabahı",
+  "tarih": "2026-11-05",
+  "bitis": "2026-11-06",
+  "saat": "13:15",
+  "ilce": "Sarıçam",
+  "mekan": "Prof. Dr. Aziz Sancar Konferans Salonu",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Etkinlik",
+  "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.atu.edu.tr",
+  "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/041120261200_K_1_c2b15199-a7c9-4d35-92bf-30d7f1e4ef68.jpeg"
+ },
+ {
   "id": "d6a18fa1ee1f",
   "baslik": "Zihniyetin Dönüşümü: Atasözleri, Toplumsal Değişme ve Yeni Değerler",
   "tarih": "2026-11-04",
@@ -94,6 +126,22 @@
   "kaynak_tur": "universite",
   "kaynak_url": "https://www.atu.edu.tr",
   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/021120261236_K_463_f70d646d-819d-47b0-b774-ccc58818da17.png"
+ },
+ {
+  "id": "5ca689da911f",
+  "baslik": "DSA Talks",
+  "tarih": "2026-11-04",
+  "bitis": "2026-11-06",
+  "saat": "12:00",
+  "ilce": "Sarıçam",
+  "mekan": "Kütüphane Konferans Salonu",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Etkinlik",
+  "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.atu.edu.tr",
+  "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/10/261020261608_K_1_0dd5b53f-919a-434e-9c6e-364994f302d2.jpg"
  },
  {
   "id": "334c65f65dce",

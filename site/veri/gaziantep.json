@@ -1,6 +1,6 @@
 {
  "il": "gaziantep",
- "guncelleme": "2026-11-06T06:54+03:00",
+ "guncelleme": "2026-11-07T06:49+03:00",
  "ilceler": [
   "Şahinbey",
   "Şehitkamil",
@@ -28,54 +28,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.gaziantep.bel.tr/tr/basin/etkinlikler/iulusal-karikatur-yarismasi-1461",
    "gorsel": "https://dosya.gaziantep.bel.tr/uploads/new/2026/10/a2ec6efb-26b3-411c-81fd-fdbbc968716a_original.jpg"
-  },
-  {
-   "id": "9aa68d2349d0",
-   "baslik": "Okunamayan'' Kişisel Sergi",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Şehitkamil",
-   "mekan": "Gaziantep Üniversitesi",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Gaziantep Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.gaziantep.edu.tr/etkinlik_detay.php?etkinlik_ID=7189",
-   "gorsel": null
-  },
-  {
-   "id": "a9abfc5ec3b3",
-   "baslik": "Osman Öztunç ve Zemahşer Nazım Şekli Panel ve Aşık Dinletisi",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Şehitkamil",
-   "mekan": "Gaziantep Üniversitesi",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Gaziantep Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.gaziantep.edu.tr/etkinlik_detay.php?etkinlik_ID=7179",
-   "gorsel": null
-  },
-  {
-   "id": "7e718c8b9f4b",
-   "baslik": "Yükseköğretimde İyi Uygulamalar Çalıştayı",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Şehitkamil",
-   "mekan": "Gaziantep Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Gaziantep Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.gaziantep.edu.tr/etkinlik_detay.php?etkinlik_ID=7175",
-   "gorsel": null
   },
   {
    "id": "d56922b607c1",
@@ -108,6 +60,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.gaziantep.edu.tr/etkinlik_detay.php?etkinlik_ID=7187",
    "gorsel": null
+  },
+  {
+   "id": "21343caa50db",
+   "baslik": "10 Kasım Atatürk'ü Anma Programı",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Şehitkamil",
+   "mekan": "Gaziantep Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Gaziantep Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.gaziantep.edu.tr/etkinlik_detay.php?etkinlik_ID=7186",
+   "gorsel": null
   }
  ],
  "kaynaklar": [
@@ -115,7 +83,7 @@
    "ad": "Gaziantep Üniversitesi",
    "tur": "universite",
    "url": "https://www.gaziantep.edu.tr/",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

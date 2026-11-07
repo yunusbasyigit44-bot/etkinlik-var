@@ -1,6 +1,6 @@
 {
  "il": "karaman",
- "guncelleme": "2026-11-06T07:11+03:00",
+ "guncelleme": "2026-11-07T07:04+03:00",
  "ilceler": [
   "Merkez",
   "Ayrancı",
@@ -10,86 +10,6 @@
   "Sarıveliler"
  ],
  "etkinlikler": [
-  {
-   "id": "6112fc2e71e5",
-   "baslik": "Konferans ''Organ Nakli Haftasi''",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4148",
-   "gorsel": null
-  },
-  {
-   "id": "80038bf0d76c",
-   "baslik": "Yasli Dostu Gençler Toplulugu",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "10:15",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4144",
-   "gorsel": null
-  },
-  {
-   "id": "f0c073b7cbc6",
-   "baslik": "Sagliga Uzanan Her Adim Umuda Uzanan Bir El",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "10:15",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Sağlık",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4145",
-   "gorsel": null
-  },
-  {
-   "id": "0170affa2bb9",
-   "baslik": "Yangin Tahliye Egitimi",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4147",
-   "gorsel": null
-  },
-  {
-   "id": "d46ad58b749f",
-   "baslik": "Beyt-ül Makdis Boyama Etkinligi",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4146",
-   "gorsel": null
-  },
   {
    "id": "fe88db9cbd3f",
    "baslik": "Deprem Tahliye Egitimi",
@@ -224,7 +144,7 @@
    "ad": "Karamanoğlu Mehmetbey Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.kmu.edu.tr/index.aspx",
-   "etkinlik_sayisi": 13,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {

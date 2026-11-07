@@ -1,6 +1,6 @@
 {
  "il": "sivas",
- "guncelleme": "2026-11-06T07:09+03:00",
+ "guncelleme": "2026-11-07T07:02+03:00",
  "ilceler": [
   "Merkez",
   "Akıncılar",
@@ -21,22 +21,6 @@
   "Zara"
  ],
  "etkinlikler": [
-  {
-   "id": "8999677af751",
-   "baslik": "Resimli Osmanlı Tarihi",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Merkez",
-   "mekan": "Atatürk Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/resimli-osmanli-tarihi",
-   "gorsel": "veri/gorsel/dt-resimli-osmanli-tarihi.webp"
-  },
   {
    "id": "d349cba450a5",
    "baslik": "Resimli Osmanlı Tarihi",
@@ -427,7 +411,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 22,
+   "etkinlik_sayisi": 21,
    "durum": "çalışıyor"
   },
   {

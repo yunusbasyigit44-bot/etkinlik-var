@@ -1,6 +1,6 @@
 {
  "il": "erzincan",
- "guncelleme": "2026-11-06T06:51+03:00",
+ "guncelleme": "2026-11-07T06:46+03:00",
  "ilceler": [
   "Merkez",
   "Çayırlı",
@@ -13,22 +13,6 @@
   "Üzümlü"
  ],
  "etkinlikler": [
-  {
-   "id": "9073d11e0ad2",
-   "baslik": "Erasmus+-Would You Mind-Set?",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Merkez",
-   "mekan": "Online",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Online Konferans",
-   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://ebyu.edu.tr/etkinlik/erasmus-would-you-mind-set/",
-   "gorsel": null
-  },
   {
    "id": "af65955dfaed",
    "baslik": "“Din Dili ve Gençlik” Sempozyumu",
@@ -59,6 +43,22 @@
    "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://ebyu.edu.tr/etkinlik/bozkirin-kizlarindan-kuresel-liderlere-turk-dunyasinin-kadin-liderleri-kongresi/",
+   "gorsel": null
+  },
+  {
+   "id": "e7d3cb62b2f4",
+   "baslik": "Kırık Kalp Sendromu Söyleşisi",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Erzincan Binali Yıldırım Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "söyleşi",
+   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://ebyu.edu.tr/etkinlik/kirik-kalp-sendromu-soylesisi/",
    "gorsel": null
   },
   {

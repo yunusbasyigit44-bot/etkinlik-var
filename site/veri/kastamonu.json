@@ -1,6 +1,6 @@
 {
  "il": "kastamonu",
- "guncelleme": "2026-11-06T06:59+03:00",
+ "guncelleme": "2026-11-07T06:53+03:00",
  "ilceler": [
   "Merkez",
   "Abana",
@@ -25,22 +25,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "116c4153632b",
-   "baslik": "UFest - Türkiye Yüzyılı'nda Ulaştırma Vizyonu",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "KÜ Merkezi Kütüphane - Sezai Karakoç Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kastamonu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://kastamonu.edu.tr/tr/etkinlikler/ufest-turkiye-yuzyilinda-ulastirma-vizyonu-173",
-   "gorsel": "https://files.kastamonu.edu.tr/Ortam/2026/Ekim/Etkinlik/d35356c8-4412-4144-a10b-b42923631a0c.jpeg"
-  },
-  {
    "id": "6909f9783357",
    "baslik": "Kök Hücre ve Hücresel Tedaviler Derneği - Kastamonu Sempozyumu",
    "tarih": "2026-11-27",
@@ -62,7 +46,7 @@
    "ad": "Kastamonu Üniversitesi",
    "tur": "universite",
    "url": "https://kastamonu.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

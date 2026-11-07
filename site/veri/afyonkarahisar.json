@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-06T06:44+03:00",
+ "guncelleme": "2026-11-07T06:40+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -53,70 +53,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261027141418_ekimgecidi_afis.jpeg"
-  },
-  {
-   "id": "304be7a39443",
-   "baslik": "Ulusal Bilinç ve Evrensel Barış Ekseninde Atatürk’ü Anlamak",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Merkez",
-   "mekan": "Erdal Akar Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Panel · Atatürk İlkeleri̇ Ve İnkilap Tari̇hi̇ Bölüm Başkanliği",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261030144716_whatsapp_image_2026-10-30_at_14.15.46.jpeg"
-  },
-  {
-   "id": "88c02a687513",
-   "baslik": "Muteferriqa Veri Tabanı ile İlgili Çevrimiçi (Online) Eğitim",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Merkez",
-   "mekan": "Çevrimiçi (Online)",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim Programı · Kütüphane Ve Dokümantasyon Dai̇re Başkanliği",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261103142359_muteferriqa_cevrimici_egitim_afisii.jpg"
-  },
-  {
-   "id": "fe32f95fd863",
-   "baslik": "AFSÜ 9. Tıbbi ve Aromatik Bitkiler Çalıştayı: Üretimden Moleküle Safran",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://afsu.edu.tr/afsu-9-tibbi-ve-aromatik-bitkiler-calistayi-6-kasim-2026/",
-   "gorsel": null
-  },
-  {
-   "id": "b412b8782c8d",
-   "baslik": "Gondar Sirki",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Emirdağ",
-   "mekan": "Aziziye Kültür Ve Sanat Merkezi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Emirdağ Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.emirdag.bel.tr/etkinlik/gondar-sirki",
-   "gorsel": "https://www.emirdag.bel.tr/tema/genel/uploads/etkinlikler/WhatsApp-Image-2026-11-05-at-15.33.12.jpeg"
   },
   {
    "id": "c93c682de094",
@@ -364,14 +300,7 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 17,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
-  },
-  {
-   "ad": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
-   "tur": "universite",
-   "url": "https://afsu.edu.tr/category/etkinlikler/",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 15,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
@@ -382,11 +311,11 @@
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
-   "ad": "Emirdağ Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.emirdag.bel.tr/etkinlikler",
+   "ad": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
+   "tur": "universite",
+   "url": "https://afsu.edu.tr/category/etkinlikler/",
    "etkinlik_sayisi": 1,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "17 ilçe kaymakamlığı",
@@ -436,6 +365,13 @@
    "url": "https://www.dinar.bel.tr/duyurular",
    "etkinlik_sayisi": 0,
    "durum": "etkinlikler serbest metin duyurularda; otomatik okunmuyor"
+  },
+  {
+   "ad": "Emirdağ Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.emirdag.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

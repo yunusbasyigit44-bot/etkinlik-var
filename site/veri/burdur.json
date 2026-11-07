@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-06T06:48+03:00",
+ "guncelleme": "2026-11-07T06:43+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,22 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "186fb3c89e5e",
-   "baslik": "Çocuklarla Kültür ve Bilim Buluşması",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Burdur Nene Hatun Anaokulu",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13554/1/cocuklarla-kultur-ve-bilim-bulusmasi",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13554/4_13554_2026-10-28-06-49-23-466031_thumb.webp"
-  },
   {
    "id": "e721a4192c82",
    "baslik": "Zamanın içinde 65yaşında ben",
@@ -62,6 +46,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13575/1/gulusten-beden-sagligina-diyabeti-birlikte-konusuyoruz",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13575/4_13575_2026-11-04-06-51-14-644412_thumb.webp"
+  },
+  {
+   "id": "1bd21bab454c",
+   "baslik": "Doğaya Vefa: Temiz Kampüs, Temiz Gelecek!",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "16:00",
+   "ilce": "Merkez",
+   "mekan": "Prof. Dr. İlhan Varank Kütüphanesi Bahçesi",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13587/1/dogaya-vefa-temiz-kampus-temiz-gelecek",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13587/4_13587_2026-11-06-12-22-29-884130_thumb.webp"
   },
   {
    "id": "e8a1e18b3039",

@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-11-06T06:55+03:00",
+ "guncelleme": "2026-11-07T06:50+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -8,48 +8,8 @@
   "Şemdinli",
   "Yüksekova"
  ],
- "etkinlikler": [
-  {
-   "id": "8dbd13343351",
-   "baslik": "\"Bağımlılıkla Mücadele Farkındalık ve Bilinçlendirme\" Eğitimi",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "11:30",
-   "ilce": "Merkez",
-   "mekan": "Esma Bnt El-Hakkari Konferans Salonu (1. Kat)",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Hakkari Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/539/%22bagimlilikla-mucadele-farkindalik-ve-bilinclendirme%22-egitimi",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/539/cover/thumb/c28767e97c544736beaac2118ce854a2.webp"
-  },
-  {
-   "id": "7844435b90d4",
-   "baslik": "Köy Okullarına Uzanan Eller: Duvarda Renk Çocuklarda Umut",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Merkez",
-   "mekan": "Hakkari Bay Köyü İlkokulu",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Sergi",
-   "kaynak_ad": "Hakkari Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/537/koy-okullarina-uzanan-eller-duvarda-renk-cocuklarda-umut",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/537/cover/thumb/5ecce130ff95453397017e91ebb43ad9.webp"
-  }
- ],
+ "etkinlikler": [],
  "kaynaklar": [
-  {
-   "ad": "Hakkari Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.hakkari.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 2,
-   "durum": "çalışıyor"
-  },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
@@ -77,6 +37,13 @@
    "url": "https://www.hakkari.gov.tr",
    "etkinlik_sayisi": 0,
    "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Hakkari Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.hakkari.edu.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Hakkari İl Kültür ve Turizm Müdürlüğü",

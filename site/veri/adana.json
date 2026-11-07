@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-06T06:43+03:00",
+ "guncelleme": "2026-11-07T06:39+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -19,54 +19,6 @@
   "Yüreğir"
  ],
  "etkinlikler": [
-  {
-   "id": "5ca689da911f",
-   "baslik": "DSA Talks",
-   "tarih": "2026-11-04",
-   "bitis": "2026-11-06",
-   "saat": "12:00",
-   "ilce": "Sarıçam",
-   "mekan": "Kütüphane Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Etkinlik",
-   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/10/261020261608_K_1_0dd5b53f-919a-434e-9c6e-364994f302d2.jpg"
-  },
-  {
-   "id": "655fb33367c3",
-   "baslik": "Bir Vatan Sabahı",
-   "tarih": "2026-11-05",
-   "bitis": "2026-11-06",
-   "saat": "13:15",
-   "ilce": "Sarıçam",
-   "mekan": "Prof. Dr. Aziz Sancar Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Etkinlik",
-   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/041120261200_K_1_c2b15199-a7c9-4d35-92bf-30d7f1e4ef68.jpeg"
-  },
-  {
-   "id": "b935224744a9",
-   "baslik": "Ocak'ta Bahar",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ocakta-bahar",
-   "gorsel": "veri/gorsel/dt-ocakta-bahar.jpg"
-  },
   {
    "id": "7e5a5bcd2e31",
    "baslik": "Ocak'ta Bahar",
@@ -242,6 +194,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1785228188_52e9eb10863781690586.jpeg"
+  },
+  {
+   "id": "653dfe9709d5",
+   "baslik": "Geleceğe Nefes - 11 Kasım Milli Ağaçlandırma Günü",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "Çukurova Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çukurova Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cu.edu.tr/haber-detay/agac/",
+   "gorsel": "https://www.cu.edu.tr/media/rb4lcwyp/gelecegenefes.jpeg"
   },
   {
    "id": "7c3d08de103c",
@@ -793,14 +761,14 @@
    "ad": "Devlet Tiyatroları Adana",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 29,
+   "etkinlik_sayisi": 28,
    "durum": "çalışıyor"
   },
   {
    "ad": "Çukurova Üniversitesi",
    "tur": "universite",
    "url": "https://www.cu.edu.tr",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {
@@ -814,7 +782,7 @@
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

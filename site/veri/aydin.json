@@ -1,6 +1,6 @@
 {
  "il": "aydin",
- "guncelleme": "2026-11-06T06:47+03:00",
+ "guncelleme": "2026-11-07T06:43+03:00",
  "ilceler": [
   "Efeler",
   "Bozdoğan",
@@ -21,22 +21,6 @@
   "Yenipazar"
  ],
  "etkinlikler": [
-  {
-   "id": "f1a67074a4ee",
-   "baslik": "Tralleis'i Geziyorum",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Efeler",
-   "mekan": "Tralleis Antik Kenti",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": "Toplumsal Katkı Hizmetlerimiz",
-   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/tralleis-i-geziyorum-2000148606",
-   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261103140735-KBTRALLEISIGEZIYORUM-000002263707221311562993.png"
-  },
   {
    "id": "89b84177fc46",
    "baslik": "İş Sağlığı ve Güvenliği Eğitimi",
@@ -395,7 +379,7 @@
    "ad": "Aydın Adnan Menderes Üniversitesi",
    "tur": "universite",
    "url": "https://haber.adu.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 23,
+   "etkinlik_sayisi": 22,
    "durum": "çalışıyor"
   },
   {

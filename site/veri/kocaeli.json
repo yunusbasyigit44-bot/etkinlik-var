@@ -1,6 +1,6 @@
 {
  "il": "kocaeli",
- "guncelleme": "2026-11-06T07:01+03:00",
+ "guncelleme": "2026-11-07T06:55+03:00",
  "ilceler": [
   "Başiskele",
   "Çayırova",
@@ -16,22 +16,6 @@
   "Körfez"
  ],
  "etkinlikler": [
-  {
-   "id": "988521ac17fa",
-   "baslik": "“Cumhuriyet ve Biz – 10“",
-   "tarih": "2026-10-27",
-   "bitis": "2026-11-06",
-   "saat": null,
-   "ilce": "İzmit",
-   "mekan": null,
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": "Sergi",
-   "kaynak_ad": "İzmit Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://izmit.bel.tr/2026-etkinliklerimiz/",
-   "gorsel": "https://izmit.bel.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-11.08.44-640x905.jpeg"
-  },
   {
    "id": "d8dab366e01a",
    "baslik": "Geç Kalanlar",
@@ -410,13 +394,6 @@
    "durum": "çalışıyor"
   },
   {
-   "ad": "İzmit Belediyesi",
-   "tur": "belediye",
-   "url": "https://izmit.bel.tr/2026-etkinliklerimiz/",
-   "etkinlik_sayisi": 1,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
-  },
-  {
    "ad": "Gebze Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://takvim.gtu.edu.tr/",
@@ -485,6 +462,13 @@
    "url": "https://etkinlik.io/kocaeli",
    "etkinlik_sayisi": 0,
    "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "İzmit Belediyesi",
+   "tur": "belediye",
+   "url": "https://izmit.bel.tr/2026-etkinliklerimiz/",
+   "etkinlik_sayisi": 0,
+   "durum": "hata: <urlopen error timed out>"
   }
  ]
 }

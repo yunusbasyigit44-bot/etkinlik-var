@@ -1,5 +1,21 @@
 [
  {
+  "id": "2aa3be155b8a",
+  "baslik": "SkyTech Proje Yarışması Lansman Töreni",
+  "tarih": "2026-11-06",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Yunusemre",
+  "mekan": "MCBÜ Prof. Ümit Doğay Arınç Kültür Merkezi",
+  "kategori": "Spor",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/skytech-proje-yarismasi-lansman-toreni#baslangic",
+  "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261105151857656-3YUFF.jpg"
+ },
+ {
   "id": "2d489f0dcbf3",
   "baslik": "COP31 Yolunda Sanayi-Üniversite İş Birliği Çalıştayı",
   "tarih": "2026-11-05",

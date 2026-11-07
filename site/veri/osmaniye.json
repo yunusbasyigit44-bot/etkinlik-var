@@ -1,6 +1,6 @@
 {
  "il": "osmaniye",
- "guncelleme": "2026-11-06T07:13+03:00",
+ "guncelleme": "2026-11-07T07:05+03:00",
  "ilceler": [
   "Merkez",
   "Bahçe",
@@ -11,22 +11,6 @@
   "Toprakkale"
  ],
  "etkinlikler": [
-  {
-   "id": "4342949058f8",
-   "baslik": "Uluslararası Korkut Ata Türk Dünyası Kongresi",
-   "tarih": "2026-11-03",
-   "bitis": "2026-11-06",
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Osmaniye Korkut Ata Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Osmaniye Korkut Ata Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.osmaniye.edu.tr/tr/etkinlikler/2068-uluslararasi-korkut-ata-turk-dunyasi-kongresi",
-   "gorsel": null
-  },
   {
    "id": "a547a11426cc",
    "baslik": "Uluslararası Enerji Çalışmaları Kongresi",
@@ -49,7 +33,7 @@
    "ad": "Osmaniye Korkut Ata Üniversitesi",
    "tur": "universite",
    "url": "https://www.osmaniye.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

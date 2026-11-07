@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-06T07:01+03:00",
+ "guncelleme": "2026-11-07T06:55+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,86 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "72c3f936ddea",
-   "baslik": "Doğumunun 150. Yılında Ziya Gökalp Uluslararası Sempozyumu",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Meram",
-   "mekan": "Necmettin Erbakan Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": "Sosyal Fayda",
-   "kaynak_ad": "Necmettin Erbakan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/dogumunun-150-yilinda-ziya-gokalp-uluslararasi-sempozyumu-2488",
-   "gorsel": null
-  },
-  {
-   "id": "9d52c9489d93",
-   "baslik": "Esas Misafir",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/esas-misafir",
-   "gorsel": "veri/gorsel/dt-esas-misafir.jpg"
-  },
-  {
-   "id": "ac5847e36938",
-   "baslik": "Narnia Günlükleri - Aslan, Cadı ve Dolap",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/narnia-gunlukleri-aslan-cadi-ve-dolap/438",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/6TepHQzXi6VI1DNDtStZvN6yS99vrmzr.jpeg"
-  },
-  {
-   "id": "738a9429a23f",
-   "baslik": "Konya Okulu - Prof. Dr. İbrahim Işıtan",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ibrahim-isitan/1213",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/oET8lUtuoOMCDVGMfJLHfOT2Bg4F3FHY.jpeg"
-  },
-  {
-   "id": "30bf3b0962cf",
-   "baslik": "Şehir Konferansları - Akşehir",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-aksehir/1336",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/sUqLlXWBvy4zSwrekz1DBxmULKECHTgO.jpeg"
-  },
   {
    "id": "3ac58185857b",
    "baslik": "Esas Misafir",
@@ -161,6 +81,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanatkonya.com/etkinlikler/soz-arasinda-edebiyat-ve-sanat-uzerine-konusmalar/1332",
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAr7rQ-kN_9FsooKim_r07VzUrnN4Gxp.jpeg"
+  },
+  {
+   "id": "c5f435d35769",
+   "baslik": "Narnia Günlükleri - Aslan, Cadı ve Dolap",
+   "tarih": "2026-11-07",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/narnia-gunlukleri-aslan-cadi-ve-dolap/438",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/6TepHQzXi6VI1DNDtStZvN6yS99vrmzr.jpeg"
   },
   {
    "id": "95df083944f5",
@@ -417,6 +353,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/olumune-cinayet",
    "gorsel": "veri/gorsel/dt-olumune-cinayet.jpg"
+  },
+  {
+   "id": "0213e4f68f72",
+   "baslik": "Konya Okulu - Prof. Dr. İbrahim Işıtan",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ibrahim-isitan/1213",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/oET8lUtuoOMCDVGMfJLHfOT2Bg4F3FHY.jpeg"
   },
   {
    "id": "24fd89738799",
@@ -760,21 +712,21 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 20,
+   "etkinlik_sayisi": 19,
    "durum": "çalışıyor"
   },
   {
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {
    "ad": "Necmettin Erbakan Üniversitesi",
    "tur": "universite",
    "url": "https://erbakan.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

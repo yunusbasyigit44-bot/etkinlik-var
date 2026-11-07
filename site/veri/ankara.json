@@ -1,6 +1,6 @@
 {
  "il": "ankara",
- "guncelleme": "2026-11-06T06:46+03:00",
+ "guncelleme": "2026-11-07T06:41+03:00",
  "ilceler": [
   "Akyurt",
   "Altındağ",
@@ -29,134 +29,6 @@
   "Yenimahalle"
  ],
  "etkinlikler": [
-  {
-   "id": "608235e22cfe",
-   "baslik": "Onkoloji Hastalarında Alternatif Tıp, Tamamlayıcı Tıp ve Beslenme",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Çankaya",
-   "mekan": "Hacettepe Üniversitesi",
-   "kategori": "Sağlık",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Hacettepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlikler.hacettepe.edu.tr/tr/onkoloji_hastalarinda_alternat-3458",
-   "gorsel": "https://fs.hacettepe.edu.tr/etkinlik/2026/09-eylul/onkoloji.png"
-  },
-  {
-   "id": "03df03dfeeec",
-   "baslik": "İki Kişilik Hırgür",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "18:30",
-   "ilce": "Çankaya",
-   "mekan": "Oda Tiyatrosu",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-kisilik-hirgur",
-   "gorsel": "veri/gorsel/dt-iki-kisilik-hirgur.jpg"
-  },
-  {
-   "id": "fc0552713165",
-   "baslik": "Steplerden Bozkır'a",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "CSO Ada Ankara Mavi Salon",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/steplerden-bozkira-ankara-dob",
-   "gorsel": "veri/gorsel/dob-1-3396.webp"
-  },
-  {
-   "id": "cd5bfc7d1951",
-   "baslik": "Adel Seni Seçti",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Şinasi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/adel-seni-secti",
-   "gorsel": "veri/gorsel/dt-adel-seni-secti.webp"
-  },
-  {
-   "id": "c29c1cf3f9df",
-   "baslik": "Tavşan Tavşanoğlu (Lapın Lapın)",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/tavsan-tavsanoglu-lapin-lapin",
-   "gorsel": "veri/gorsel/dt-tavsan-tavsanoglu-lapin-lapin.webp"
-  },
-  {
-   "id": "57dc2d357fcd",
-   "baslik": "Siyahlı Kadın (Bir Hayalet Oyunu)",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Akün Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siyahli-kadin-bir-hayalet-oyunu",
-   "gorsel": "veri/gorsel/dt-siyahli-kadin-bir-hayalet-oyunu.jpg"
-  },
-  {
-   "id": "e8fb99665bd2",
-   "baslik": "Kan Kardeşler",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Çankaya Atatürk Sanat Merkezi Kırmızı Salon",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kan-kardesler",
-   "gorsel": "veri/gorsel/dt-kan-kardesler.jpg"
-  },
-  {
-   "id": "9958c43648d2",
-   "baslik": "Bir Bakıştan Diğerine",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Çankaya",
-   "mekan": "Çankaya Belediyesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankaya Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.cankaya.bel.tr/kultur-sanat/bir-bakistan-digerine",
-   "gorsel": "https://www.cankaya.bel.tr/uploads/images/foto__raf__n200_yili_1793101369_aa5yZbGT.webp"
-  },
   {
    "id": "d8136ffd1133",
    "baslik": "Çocuklar için Müzik ve Opera",
@@ -878,6 +750,22 @@
    "gorsel": "veri/gorsel/dob-1-2865.webp"
   },
   {
+   "id": "acebee44e94e",
+   "baslik": "Coppelia",
+   "tarih": "2026-11-14",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Çankaya",
+   "mekan": "Opera Sahnesi",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/coppelia-ankara-dob",
+   "gorsel": "veri/gorsel/dob-1-1413.webp"
+  },
+  {
    "id": "d3055e3b4191",
    "baslik": "Bu da Geçer ya Hu",
    "tarih": "2026-11-14",
@@ -1278,22 +1166,6 @@
    "gorsel": "veri/gorsel/dt-woyzeck.webp"
   },
   {
-   "id": "d92df2ae8427",
-   "baslik": "Esaretin Bedeli",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Çankaya Atatürk Sanat Merkezi Kırmızı Salon",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/esaretin-bedeli",
-   "gorsel": "veri/gorsel/dt-esaretin-bedeli.jpg"
-  },
-  {
    "id": "3c75813433aa",
    "baslik": "Sen de Gitme Triyandafilis",
    "tarih": "2026-11-18",
@@ -1340,6 +1212,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dosya-kelebek-2",
    "gorsel": "veri/gorsel/dt-dosya-kelebek-2.webp"
+  },
+  {
+   "id": "d92df2ae8427",
+   "baslik": "Esaretin Bedeli",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Çankaya Atatürk Sanat Merkezi Kırmızı Salon",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/esaretin-bedeli",
+   "gorsel": "veri/gorsel/dt-esaretin-bedeli.jpg"
   },
   {
    "id": "e61a3149d8cb",
@@ -1406,22 +1294,6 @@
    "gorsel": "veri/gorsel/dt-woyzeck.webp"
   },
   {
-   "id": "90358a18832a",
-   "baslik": "Esaretin Bedeli",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Çankaya Atatürk Sanat Merkezi Kırmızı Salon",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/esaretin-bedeli",
-   "gorsel": "veri/gorsel/dt-esaretin-bedeli.jpg"
-  },
-  {
    "id": "94e623a7a65f",
    "baslik": "Sen de Gitme Triyandafilis",
    "tarih": "2026-11-19",
@@ -1468,6 +1340,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/mukemmel-partner",
    "gorsel": "veri/gorsel/dt-mukemmel-partner.jpg"
+  },
+  {
+   "id": "90358a18832a",
+   "baslik": "Esaretin Bedeli",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Çankaya Atatürk Sanat Merkezi Kırmızı Salon",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/esaretin-bedeli",
+   "gorsel": "veri/gorsel/dt-esaretin-bedeli.jpg"
   },
   {
    "id": "071550305b6a",
@@ -1518,22 +1406,6 @@
    "gorsel": "veri/gorsel/dt-woyzeck.webp"
   },
   {
-   "id": "2d4a80d0d4c4",
-   "baslik": "Esaretin Bedeli",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Çankaya Atatürk Sanat Merkezi Kırmızı Salon",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/esaretin-bedeli",
-   "gorsel": "veri/gorsel/dt-esaretin-bedeli.jpg"
-  },
-  {
    "id": "02347fca3334",
    "baslik": "Kılıçarslan",
    "tarih": "2026-11-20",
@@ -1564,6 +1436,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sen-de-gitme-triyandafilis",
    "gorsel": "veri/gorsel/dt-sen-de-gitme-triyandafilis.jpg"
+  },
+  {
+   "id": "2d4a80d0d4c4",
+   "baslik": "Esaretin Bedeli",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Çankaya Atatürk Sanat Merkezi Kırmızı Salon",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/esaretin-bedeli",
+   "gorsel": "veri/gorsel/dt-esaretin-bedeli.jpg"
   },
   {
    "id": "5bf7123b6326",
@@ -2588,6 +2476,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sen-de-gitme-triyandafilis",
    "gorsel": "veri/gorsel/dt-sen-de-gitme-triyandafilis.jpg"
+  },
+  {
+   "id": "c8779dd472f3",
+   "baslik": "12 Öfkeli.",
+   "tarih": "2027-01-06",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "CSO Ada Ankara Ziraat Bankası Ana Salon",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/12-ofkeli",
+   "gorsel": "veri/gorsel/dt-12-ofkeli.jpg"
   }
  ],
  "kaynaklar": [
@@ -2595,7 +2499,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 151,
+   "etkinlik_sayisi": 147,
    "durum": "çalışıyor"
   },
   {
@@ -2609,14 +2513,7 @@
    "ad": "Hacettepe Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlikler.hacettepe.edu.tr/",
-   "etkinlik_sayisi": 5,
-   "durum": "çalışıyor"
-  },
-  {
-   "ad": "Çankaya Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.cankaya.bel.tr",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {
@@ -2702,6 +2599,13 @@
    "url": "https://etkinlik.io/ankara",
    "etkinlik_sayisi": 0,
    "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
+  },
+  {
+   "ad": "Çankaya Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.cankaya.bel.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   }
  ]
 }

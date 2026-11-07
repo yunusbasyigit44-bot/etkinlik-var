@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-06T06:47+03:00",
+ "guncelleme": "2026-11-07T06:42+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -46,10 +46,10 @@
    "bitis": "2026-11-21",
    "saat": "14:00",
    "ilce": "Döşemealtı",
-   "mekan": "Antalya Bilim Üniversitesi",
+   "mekan": "A Blok, A1-92/93",
    "kategori": "Doğa & Gezi",
    "ucretsiz": true,
-   "ozet": null,
+   "ozet": "COP31 Kampüste etkinliği 21 Ekim 2026’da 14.00–16.00 saatleri arasında A Blok A1-92/93’te yapılacak.",
    "kaynak_ad": "Antalya Bilim Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/cop31-kampuste",
@@ -69,38 +69,6 @@
    "kaynak_ad": "Antalya Bilim Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/antalya-kriterleri-bildirisi-ve-taahhutnamesi-imza-toreni",
-   "gorsel": null
-  },
-  {
-   "id": "4df320fcf776",
-   "baslik": "Buzlar Çözülmeden",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buzlar-cozulmeden",
-   "gorsel": "veri/gorsel/dt-buzlar-cozulmeden.jpg"
-  },
-  {
-   "id": "dca7fcf3fc4b",
-   "baslik": "Mimarlık Fakültesi 'AGEK Etkinliği'",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Mimarlık Fakültesi, Fuat Sezgin Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/mimarlik_fakultesi_agek_etkinligi-5744",
    "gorsel": null
   },
   {
@@ -232,6 +200,38 @@
    "gorsel": "veri/gorsel/dob-5-628.webp"
   },
   {
+   "id": "675c65ac52cd",
+   "baslik": "10 Kasım Ulu Önder Atatürk’ü Anma Töreni",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Üniversite Tören Alanı",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/10_kasim_ulu_onder_ataturk%E2%80%99u_anma_toreni-5757",
+   "gorsel": null
+  },
+  {
+   "id": "63b27fe272aa",
+   "baslik": "Atatürk İlkeleri ve İnkılap Tarihi Araştırma Uygulama Merkezi ‘10 Kasım Atatürk’ü Anma Konferansı’",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Atatürk Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/ataturk_ilkeleri_ve_inkilap_tarihi_arastirma_uygulama_merkezi_%E2%80%9810_kasim_ataturk%E2%80%99u_anma_konferansi%E2%80%99-5755",
+   "gorsel": null
+  },
+  {
    "id": "a2db72c220fa",
    "baslik": "“İklim Eyleminde Kültürel Miras” Programı 11–16 Kasım’da Antalya’da",
    "tarih": "2026-11-11",
@@ -312,11 +312,11 @@
    "gorsel": "veri/gorsel/dt-kuslar.jpg"
   },
   {
-   "id": "8e5c6868d0d0",
+   "id": "261da6494aeb",
    "baslik": "İklim Hukuku ve Yönetişim Günü 13 Kasım’da ABÜ’de",
    "tarih": "2026-11-13",
    "bitis": "2026-11-21",
-   "saat": "08:30",
+   "saat": "09:30",
    "ilce": "Döşemealtı",
    "mekan": "Antalya Bilim Üniversitesi, Konferans Salonu",
    "kategori": "Akademik",
@@ -401,7 +401,7 @@
    "mekan": "ABÜ Kampüsü, A Blok amfileri (A1-76, A2-76, A1-90, A2-90)",
    "kategori": "Akademik",
    "ucretsiz": true,
-   "ozet": "CISDL, CLGI ve ortaklarının düzenleyeceği uzmanlık kursu 15 Kasım’da yüz yüze ve çevrim içi yapılacak. Kontenjan sınırlı, ön kayıt zorunlu.",
+   "ozet": "CISDL, CLGI ve ortaklarının düzenleyeceği uzmanlık kursu 15 Kasım’da yüz yüze yapılacak. Kontenjan sınırlı, ön kayıt zorunlu.",
    "kaynak_ad": "Antalya Bilim Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/iklim-hukuku-ve-yonetisimi-uzmanlik-kursu",
@@ -728,22 +728,6 @@
    "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
   },
   {
-   "id": "534658762939",
-   "baslik": "DevFest Antalya 2026",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Döşemealtı",
-   "mekan": "Antalya Bilim Üniversitesi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Antalya Bilim Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/devfest-antalya-2026",
-   "gorsel": null
-  },
-  {
    "id": "825ba76446bd",
    "baslik": "Therese Raquin (Bir Cinayetin Anatomisi)",
    "tarih": "2026-11-26",
@@ -774,6 +758,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/therese-raquin-bir-cinayetin-anatomisi",
    "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
+  },
+  {
+   "id": "d423b2e28202",
+   "baslik": "DevFest Antalya 2026",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Döşemealtı",
+   "mekan": "Antalya Bilim Üniversitesi, Konferans Salonu",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": "GDG Antalya’nın düzenlediği DevFest’26 Antalya, 28 Kasım’da üniversitemizde. Katılım ücretsiz, kontenjan sınırlı; kayıt zorunlu.",
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/devfest-antalya-2026",
+   "gorsel": null
   },
   {
    "id": "0718ce88c16e",
@@ -861,7 +861,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 31,
+   "etkinlik_sayisi": 30,
    "durum": "çalışıyor"
   },
   {
@@ -882,7 +882,7 @@
    "ad": "Akdeniz Üniversitesi",
    "tur": "universite",
    "url": "https://www.akdeniz.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

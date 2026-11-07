@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-06T07:05+03:00",
+ "guncelleme": "2026-11-07T06:58+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -64,54 +64,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2830/Ragetta-Bodrum_Ragetta_Organizasyonu",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2830_1793784020.1081.png"
-  },
-  {
-   "id": "1995e5209efb",
-   "baslik": "Belediyemizin Hizmet Filosuna Kazandırdığı Yeni 17 Aracın Tanıtım Töreni",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Bodrum",
-   "mekan": "Bodrum Belediye Meydanı",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2834/Tanitim_Toreni-Belediyemizin_Hizmet_Filosuna_Kazandirdigi_Yeni_17_Aracin_Tanitim_Toreni",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2834_1793858526.1373.jpg"
-  },
-  {
-   "id": "1dbe7e37fa5c",
-   "baslik": "Mezun Buluşmaları",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "17:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mezun-bulusmalari-4660",
-   "gorsel": null
-  },
-  {
-   "id": "0d087a3cd41e",
-   "baslik": "Öğrenci & Mezun Buluşması",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "17:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/ogrenci--mezun-bulusmasi-4703",
-   "gorsel": null
   },
   {
    "id": "b5f234369b69",
@@ -402,6 +354,22 @@
    "gorsel": null
   },
   {
+   "id": "8509f2f3cea7",
+   "baslik": "Mezun Buluşmaları",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mezun-bulusmalari-4711",
+   "gorsel": null
+  },
+  {
    "id": "9d08649fed92",
    "baslik": "TFF 1. Lig Futbol Karşılaşması Bodrumspor- Vanspor",
    "tarih": "2026-11-23",
@@ -535,14 +503,14 @@
    "ad": "Bodrum Belediyesi",
    "tur": "belediye",
    "url": "https://www.bodrum.bel.tr/etkinlik_takvimi",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {

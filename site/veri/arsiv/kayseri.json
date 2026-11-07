@@ -1,5 +1,37 @@
 [
  {
+  "id": "a73b52adcb29",
+  "baslik": "Tasavvuf Musikisi Konseri ve Sema Mukabelesi",
+  "tarih": "2026-11-06",
+  "bitis": null,
+  "saat": "19:00",
+  "ilce": "Melikgazi",
+  "mekan": "Erciyes Üniversitesi",
+  "kategori": "Geleneksel Müzik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Erciyes Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.erciyes.edu.tr/tr/etkinlik-detay/tasavvuf-musikisi-konseri-ve-sema-mukabelesi/10449",
+  "gorsel": "https://www.erciyes.edu.tr/images/Etkinlik/c35666e5-cd57-4b05-9752-08b588e10751.jpg"
+ },
+ {
+  "id": "d3a77d829be5",
+  "baslik": "Leenane'in Güzellik Kraliçesi",
+  "tarih": "2026-11-06",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Melikgazi",
+  "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
+  "gorsel": null
+ },
+ {
   "id": "ee5ee69f2aa4",
   "baslik": "Leenane'in Güzellik Kraliçesi",
   "tarih": "2026-11-05",

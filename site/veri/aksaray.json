@@ -1,6 +1,6 @@
 {
  "il": "aksaray",
- "guncelleme": "2026-11-06T07:11+03:00",
+ "guncelleme": "2026-11-07T07:04+03:00",
  "ilceler": [
   "Merkez",
   "Ağaçören",
@@ -45,6 +45,22 @@
    "gorsel": null
   },
   {
+   "id": "c574c2bf3c22",
+   "baslik": "Geleceğe Nefes, Yarınlara Umut Oluyoruz!",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Merkez",
+   "mekan": "Yeni Göl Park Alanı",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/gelecege-nefes--yarinlara-umut-oluyoruz",
+   "gorsel": null
+  },
+  {
    "id": "f8d6eef83a39",
    "baslik": "ASÜ Sahnede Müzik Yetenek Yarışması",
    "tarih": "2026-11-15",
@@ -77,6 +93,22 @@
    "gorsel": null
   },
   {
+   "id": "26f32b9a338c",
+   "baslik": "Türk Halk Müziği Koro Çalışmaları Başlıyor",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "18:00",
+   "ilce": "Merkez",
+   "mekan": "ASÜ Eğitim Fakültesi Güzel Sanatlar Bölümü",
+   "kategori": "Geleneksel Müzik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/turk-halk-muzigi-koro-calismalari-basliyor",
+   "gorsel": null
+  },
+  {
    "id": "44d67b41f6e6",
    "baslik": "Terörsüz Türkiye Sürecinde Yarınki Türkiye’yi Düşünmek",
    "tarih": "2026-11-23",
@@ -98,7 +130,7 @@
    "ad": "Aksaray Üniversitesi",
    "tur": "universite",
    "url": "https://www.aksaray.edu.tr/Etkinlik-takvimi",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

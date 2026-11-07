@@ -1,6 +1,6 @@
 {
  "il": "sinop",
- "guncelleme": "2026-11-06T07:07+03:00",
+ "guncelleme": "2026-11-07T07:01+03:00",
  "ilceler": [
   "Merkez",
   "Ayancık",
@@ -28,38 +28,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sinop.edu.tr/etkinlik/2026-yds-2-soru-cozme-kampi/",
    "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/09/YDS-SORU-COZME-KAMPI.webp"
-  },
-  {
-   "id": "7368f6fadadd",
-   "baslik": "XVIII.Uluslararası Dünya Dili Türkçe Sempozyumu",
-   "tarih": "2026-11-05",
-   "bitis": "2026-11-06",
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Sinop Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": "Sempozyum",
-   "kaynak_ad": "Sinop Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/xviii-uluslararasi-dunya-dili-turkce-sempozyumu/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/06/dunyadiliturkcesempozyumu-1.png"
-  },
-  {
-   "id": "f612c79077a8",
-   "baslik": "SSCI/SCIE Yayın Stratejileri Serisi -12 / PROCESS Macro ile Aracılık Düzenleyicilik ve Koşullu Süreç Analizleri Eğitimi (II.Oturum)",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "09:30",
-   "ilce": "Merkez",
-   "mekan": "Sinop Üniversitesi",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": "Bilimsel Etkinlikler",
-   "kaynak_ad": "Sinop Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/ssci-scie-yayin-stratejileri-serisi-12-process-macro-ile-aracilik-duzenleyicilik-ve-kosullu-surec-analizleri-egitimi-ii-oturum/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/10/SSCISCIEyayinstratejileri12_1.webp"
   },
   {
    "id": "e810b76cfa95",
@@ -179,7 +147,7 @@
    "ad": "Sinop Üniversitesi",
    "tur": "universite",
    "url": "https://www.sinop.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {

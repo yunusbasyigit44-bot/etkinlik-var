@@ -1,6 +1,6 @@
 {
  "il": "bursa",
- "guncelleme": "2026-11-06T06:49+03:00",
+ "guncelleme": "2026-11-07T06:44+03:00",
  "ilceler": [
   "Büyükorhan",
   "Gemlik",
@@ -166,86 +166,6 @@
    "gorsel": null
   },
   {
-   "id": "19b9f8586bbc",
-   "baslik": "Kan ve Sultan",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "02:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kan-ve-sultan",
-   "gorsel": "veri/gorsel/dt-kan-ve-sultan.webp"
-  },
-  {
-   "id": "32e378eb9b8f",
-   "baslik": "Şehircilik ve İmar Hukuku",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Yıldırım",
-   "mekan": "Yıldırım Bayezid Yerleşkesi Kırmızı Salon (A Blok Zemin Kat)",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12143/%C5%9Fehircilik-ve-i%CC%87mar-hukuku",
-   "gorsel": null
-  },
-  {
-   "id": "15ecbe8d4283",
-   "baslik": "Mükemmel Partner",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Osmangazi",
-   "mekan": "Feraizcizade Oda Tiyatrosu",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/mukemmel-partner",
-   "gorsel": "veri/gorsel/dt-mukemmel-partner.jpg"
-  },
-  {
-   "id": "0c65e8f5ba93",
-   "baslik": "Gönlümüzdeki Nağmeler Konseri",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yıldırım",
-   "mekan": "Yıldırım Bayezid Salonu",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bursa.bel.tr/etkinlik/gonlumuzdeki-nagmeler-konseri-3",
-   "gorsel": null
-  },
-  {
-   "id": "b38911d072b0",
-   "baslik": "Özel Kuruluş Toplantısı",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Ali Sürmen Salon (G Blok Zemin Kat)",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12621/%C3%B6zel-kurulu%C5%9F-toplant%C4%B1s%C4%B1",
-   "gorsel": null
-  },
-  {
    "id": "e4a3c94f93b2",
    "baslik": "Yaratıcı Kodlama",
    "tarih": "2026-11-07",
@@ -356,6 +276,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dorian-grayin-portresi",
    "gorsel": "veri/gorsel/dt-dorian-grayin-portresi.webp"
+  },
+  {
+   "id": "975a64660302",
+   "baslik": "Selanik’ten Anıtkabir’e Atatürk’ün Sevdiği Şarkılar",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "20:30",
+   "ilce": "Nilüfer",
+   "mekan": "Nilüfer",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Nilüfer Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.nilufer.bel.tr/etkinlik/selanik-ten-anitkabir-e-ataturk-un-sevdigi-sarkilar",
+   "gorsel": "https://www.nilufer.bel.tr/i/etkinlik/5192.jpg"
   },
   {
    "id": "d369a7cbe230",
@@ -678,6 +614,22 @@
    "gorsel": "veri/gorsel/dt-scapin-ve-yeni-dolaplari.jpg"
   },
   {
+   "id": "c41a035d4369",
+   "baslik": "BTÜ Konuşmaları",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Yıldırım",
+   "mekan": "Mimar Sinan Yerleşkesi Turkuaz Salon (B Blok 1. Kat)",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/11932/bt%C3%BC-konu%C5%9Fmalar%C4%B1",
+   "gorsel": null
+  },
+  {
    "id": "708894a5310f",
    "baslik": "Scapin ve Yeni Dolapları",
    "tarih": "2026-11-18",
@@ -971,28 +923,28 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 36,
+   "etkinlik_sayisi": 34,
    "durum": "çalışıyor"
   },
   {
    "ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
    "tur": "belediye",
    "url": "https://www.bursa.bel.tr",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 10,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Bursa Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://btu.edu.tr/tr/etkinlik",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {
    "ad": "Nilüfer Belediyesi",
    "tur": "belediye",
    "url": "https://www.nilufer.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

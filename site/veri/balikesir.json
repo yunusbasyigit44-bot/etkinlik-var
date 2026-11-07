@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-06T06:47+03:00",
+ "guncelleme": "2026-11-07T06:43+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -25,54 +25,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "6c2b5720a5ca",
-   "baslik": "“BAÜN TTO III. İnovatif Fikirler Proje Pazarı: Sürdürülebilir Gelecek İçin İkiz Dönüşüm”",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Altıeylül",
-   "mekan": "Baün tto",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Basin",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_IMG-20261015-WA0001_1792046071.jpg"
-  },
-  {
-   "id": "0fe009b60a93",
-   "baslik": "Baün tto III. Innovatsion g'oyalar Loyihalar Bozori",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "17:30",
-   "ilce": "Altıeylül",
-   "mekan": "Baün Tto",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Basin",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_IMG-20261015-WA0002_1792046277.jpg"
-  },
-  {
-   "id": "b5740d9abd45",
-   "baslik": "BAÜN TTO III. İnovatif Fikirler Proje Pazarı",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "23:59",
-   "ilce": "Altıeylül",
-   "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Balikesi̇r Üni̇versi̇tesi̇ Teknoloji̇ Transfer Ofi̇si̇",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Proje_Pazar%C4%B1_Afi%C5%9Fi_1791958214.jpeg"
-  },
-  {
    "id": "00077929927c",
    "baslik": "Konkordato Komiserliği Yenileme Eğitimi",
    "tarih": "2026-11-07",
@@ -87,6 +39,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_konkordato_yenileme_22.10.2026_1792659705.png"
+  },
+  {
+   "id": "566635b620c3",
+   "baslik": "10 Kasım Atatürk'ü Anma Günü Özel Konseri",
+   "tarih": "2026-11-09",
+   "bitis": null,
+   "saat": "11:30",
+   "ilce": "Altıeylül",
+   "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi Şehit Fethi Sekin Konferans Salonu",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Sağlik Kültür Ve Spor Daire Başkanliği",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-06_at_15.36.09_1793968800.jpeg"
   },
   {
    "id": "58edcbbb8dd7",
@@ -222,7 +190,7 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {

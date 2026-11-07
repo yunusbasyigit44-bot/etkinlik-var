@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-06T06:51+03:00",
+ "guncelleme": "2026-11-07T06:46+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -24,86 +24,6 @@
   "Uzundere"
  ],
  "etkinlikler": [
-  {
-   "id": "4f6ddf18010c",
-   "baslik": "Uluslararası Orta Koridor Palandöken Sempozyumu",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Yakutiye",
-   "mekan": "Atatürk Üniversitesi 15 Temmuz Milli İrade Salonu",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Atatürk Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://atauni.edu.tr/etkinlik/uluslararasi-orta-koridor-palandoken-sempozyumu/",
-   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/09/2-819x1024.jpg"
-  },
-  {
-   "id": "6b63da75172c",
-   "baslik": "Maxqda ile Yapay Zeka Destekli Nitel Veri Analizi Eğitimi",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Yakutiye",
-   "mekan": "Atatürk Üniversitesi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Atatürk Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://atauni.edu.tr/etkinlik/maxqda-ile-yapay-zeka-destekli-nitel-veri-analizi-egitimi/",
-   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/Maxqda-ile-Yapay-Zeka-Destekli-Nitel-Veri-Analizi-Egitimi-731x1024.jpeg"
-  },
-  {
-   "id": "d486ee68993c",
-   "baslik": "Dijital Dünyada Güvenle İlerlemek İçin; İnternet Tehlikelerini Fark Edelim, Bilinçli Kullanıcı Olalım",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Yakutiye",
-   "mekan": "Fen Fakültesi Orhan Yavuz Amfisi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Atatürk Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://atauni.edu.tr/etkinlik/dijital-dunyada-guvenle-ilerlemek-icin-internet-tehlikelerini-fark-edelim-bilincli-kullanici-olalim/",
-   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/10/Dijital_dunyada_gunenle_ilerlemek_afis_page-0001.jpg-731x1024.jpeg"
-  },
-  {
-   "id": "db2b19beaa0d",
-   "baslik": "Helezon",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/helezon",
-   "gorsel": "veri/gorsel/dt-helezon.jpg"
-  },
-  {
-   "id": "41b9b3e1627a",
-   "baslik": "Mühendislikte İnovasyon Çalıştayı: Fikirden Teknolojiye, Teknolojiden Ürüne",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum Teknik Üniversitesi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Erzurum Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://erzurum.edu.tr/etkinlik/muhendislikte-inovasyon-calstay-fikirden-teknolojiye-teknolojiden-urune1",
-   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/17ac3e1a-4298-4405-9a28-5a7e1065fae8.webp?width=600&height=749&mode=carve"
-  },
   {
    "id": "7ae6bc4c95eb",
    "baslik": "Helezon",
@@ -518,7 +438,7 @@
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/seferi-ramazan-beyin-nafile-dunyasi",
-   "gorsel": null
+   "gorsel": "veri/gorsel/dt-seferi-ramazan-beyin-nafile-dunyasi.webp"
   },
   {
    "id": "c5443c71ff03",
@@ -534,7 +454,7 @@
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/seferi-ramazan-beyin-nafile-dunyasi",
-   "gorsel": null
+   "gorsel": "veri/gorsel/dt-seferi-ramazan-beyin-nafile-dunyasi.webp"
   },
   {
    "id": "f8198db801e0",
@@ -566,7 +486,7 @@
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/seferi-ramazan-beyin-nafile-dunyasi",
-   "gorsel": null
+   "gorsel": "veri/gorsel/dt-seferi-ramazan-beyin-nafile-dunyasi.webp"
   },
   {
    "id": "58f6672ac558",
@@ -582,7 +502,7 @@
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/seferi-ramazan-beyin-nafile-dunyasi",
-   "gorsel": null
+   "gorsel": "veri/gorsel/dt-seferi-ramazan-beyin-nafile-dunyasi.webp"
   },
   {
    "id": "92aae4ce6716",
@@ -606,21 +526,21 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 20,
+   "etkinlik_sayisi": 19,
    "durum": "çalışıyor"
   },
   {
    "ad": "Atatürk Üniversitesi",
    "tur": "universite",
    "url": "https://atauni.edu.tr/tum-etkinlikler/",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {
    "ad": "Erzurum Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://erzurum.edu.tr/",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

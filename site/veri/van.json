@@ -1,6 +1,6 @@
 {
  "il": "van",
- "guncelleme": "2026-11-06T07:11+03:00",
+ "guncelleme": "2026-11-07T07:03+03:00",
  "ilceler": [
   "İpekyolu",
   "Tuşba",
@@ -17,22 +17,6 @@
   "Saray"
  ],
  "etkinlikler": [
-  {
-   "id": "d210da9ed486",
-   "baslik": "İbiş'in Rüyası",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "İpekyolu",
-   "mekan": "Van Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ibisin-ruyasi",
-   "gorsel": "veri/gorsel/dt-ibisin-ruyasi.webp"
-  },
   {
    "id": "ed68c46f5b27",
    "baslik": "İbiş'in Rüyası",
@@ -391,7 +375,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 23,
+   "etkinlik_sayisi": 22,
    "durum": "çalışıyor"
   },
   {

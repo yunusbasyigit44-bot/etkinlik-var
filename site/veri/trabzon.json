@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-06T07:10+03:00",
+ "guncelleme": "2026-11-07T07:03+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -22,54 +22,6 @@
   "Yomra"
  ],
  "etkinlikler": [
-  {
-   "id": "5cc3bd3fb502",
-   "baslik": "\"17 Hedef 1 Gelecek\" Serisi-1",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "09:30",
-   "ilce": "Ortahisar",
-   "mekan": "KTÜ TV",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/ark/etkinlik/17-hedef-1-gelecek-serisi-1",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/ark_dd543983e322.jpg"
-  },
-  {
-   "id": "5fa0fac777a3",
-   "baslik": "Erasmus+ Yolculuğu: Öğrenciden Öğrenciye",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Ortahisar",
-   "mekan": "Derslik 1",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/dents/etkinlik/erasmus-yolculugu-ogrenciden-ogrenciye",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/dents_7J3Zj.jpg"
-  },
-  {
-   "id": "31af1afa6d10",
-   "baslik": "İstanbul'un Son Beyzadeleri",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/istanbulun-son-beyzadeleri",
-   "gorsel": "veri/gorsel/dt-istanbulun-son-beyzadeleri.jpg"
-  },
   {
    "id": "ea28e6b2f20a",
    "baslik": "İstanbul'un Son Beyzadeleri",
@@ -149,6 +101,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/metalik-serit-ve-surekli-elyaf-takviyeli-yenilikci-hibrit-kompozit-yapilarin-uretimi",
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_7d35da6732e6.jpg"
+  },
+  {
+   "id": "5114490adb57",
+   "baslik": "\"Atatürk ve Trabzon\" Konferansı",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Ortahisar",
+   "mekan": "Mahmut Goloğlu Kültür Merkezi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Trabzon Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/3636",
+   "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/6/5b04d538-b56e-4b6b-88fb-1e5c6ee1dbf6.jpeg"
   },
   {
    "id": "af21e4f4ca98",
@@ -764,21 +732,21 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 27,
+   "etkinlik_sayisi": 26,
    "durum": "çalışıyor"
   },
   {
    "ad": "Karadeniz Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://www.ktu.edu.tr",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {
    "ad": "Trabzon Üniversitesi",
    "tur": "universite",
    "url": "https://www.trabzon.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {

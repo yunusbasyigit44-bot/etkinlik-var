@@ -1,5 +1,37 @@
 [
  {
+  "id": "4df320fcf776",
+  "baslik": "Buzlar Çözülmeden",
+  "tarih": "2026-11-06",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Muratpaşa",
+  "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buzlar-cozulmeden",
+  "gorsel": null
+ },
+ {
+  "id": "dca7fcf3fc4b",
+  "baslik": "Mimarlık Fakültesi 'AGEK Etkinliği'",
+  "tarih": "2026-11-06",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Konyaaltı",
+  "mekan": "Akdeniz Üniversitesi, Mimarlık Fakültesi, Fuat Sezgin Konferans Salonu",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Akdeniz Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/mimarlik_fakultesi_agek_etkinligi-5744",
+  "gorsel": null
+ },
+ {
   "id": "ccbff83862b8",
   "baslik": "Barok Rüyası",
   "tarih": "2026-11-05",

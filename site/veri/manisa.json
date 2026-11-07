@@ -1,6 +1,6 @@
 {
  "il": "manisa",
- "guncelleme": "2026-11-06T07:03+03:00",
+ "guncelleme": "2026-11-07T06:56+03:00",
  "ilceler": [
   "Ahmetli",
   "Akhisar",
@@ -38,22 +38,6 @@
    "gorsel": "https://kultur.manisa.bel.tr/uploads/events/03afb678-fd97-4d71-b7b7-d0c6b1f7e3c1_GDK-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
   },
   {
-   "id": "2aa3be155b8a",
-   "baslik": "SkyTech Proje Yarışması Lansman Töreni",
-   "tarih": "2026-11-06",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Yunusemre",
-   "mekan": "MCBÜ Prof. Ümit Doğay Arınç Kültür Merkezi",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/skytech-proje-yarismasi-lansman-toreni#baslangic",
-   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261105151857656-3YUFF.jpg"
-  },
-  {
    "id": "4d1fa340e6fa",
    "baslik": "Çizmeli Kedi",
    "tarih": "2026-11-07",
@@ -83,7 +67,7 @@
    "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/klinik-tanida-multi-omik-yaklasimlarin-yeri#baslangic",
-   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261104154145509-THFBX.jpg"
+   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261106160946645-FT7MR.jpg"
   },
   {
    "id": "62672e13a6e8",
@@ -226,7 +210,7 @@
    "ad": "Manisa Celal Bayar Üniversitesi",
    "tur": "universite",
    "url": "https://www.mcbu.edu.tr",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

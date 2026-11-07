@@ -1,6 +1,6 @@
 {
  "il": "elazig",
- "guncelleme": "2026-11-06T06:51+03:00",
+ "guncelleme": "2026-11-07T06:46+03:00",
  "ilceler": [
   "Merkez",
   "Ağın",
@@ -49,7 +49,7 @@
    "tur": "kultur",
    "url": "https://elazig.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error [Errno -5] No address associated with hostname>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Fırat Kısa Film Festivali, Hazar Şiir Akşamları, Elazığ Gastronomi Festivali, Baskil Kayısı Festivali",

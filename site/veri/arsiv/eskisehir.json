@@ -1,5 +1,21 @@
 [
  {
+  "id": "1cb36427436f",
+  "baslik": "Meriç Düzbaş \"Tambur Resitali",
+  "tarih": "2026-11-06",
+  "bitis": null,
+  "saat": "15:00",
+  "ilce": "Tepebaşı",
+  "mekan": "Anadolu Üniversitesi",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": "Konser ve Dinletiler",
+  "kaynak_ad": "Anadolu Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/meric-duzbas-tambur-resitali-1792481459",
+  "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad718908d255.jpg"
+ },
+ {
   "id": "d2c935c26271",
   "baslik": "Atama Kriterleri Eğitimi",
   "tarih": "2026-11-05",
