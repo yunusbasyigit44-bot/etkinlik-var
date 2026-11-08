@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-11-07T06:54+03:00",
+ "guncelleme": "2026-11-08T13:40+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -20,38 +20,6 @@
   "Yeşilhisar"
  ],
  "etkinlikler": [
-  {
-   "id": "d49ad2e2dfaa",
-   "baslik": "Leenane'in Güzellik Kraliçesi",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Melikgazi",
-   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanein-guzellik-kralicesi.webp"
-  },
-  {
-   "id": "ac2595349ceb",
-   "baslik": "Leenane'in Güzellik Kraliçesi",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Melikgazi",
-   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanein-guzellik-kralicesi.webp"
-  },
   {
    "id": "29fd6153c331",
    "baslik": "Ağustos Parkı",
@@ -410,8 +378,8 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 20,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 18,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Erciyes Üniversitesi",
@@ -467,7 +435,7 @@
    "tur": "kultur",
    "url": "https://kayseri.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Kocasinan ve Talas belediyeleri",

@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-07T06:46+03:00",
+ "guncelleme": "2026-11-08T13:19+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -24,38 +24,6 @@
   "Uzundere"
  ],
  "etkinlikler": [
-  {
-   "id": "7ae6bc4c95eb",
-   "baslik": "Helezon",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/helezon",
-   "gorsel": "veri/gorsel/dt-helezon.jpg"
-  },
-  {
-   "id": "5cb3a5dd5150",
-   "baslik": "Helezon",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/helezon",
-   "gorsel": "veri/gorsel/dt-helezon.jpg"
-  },
   {
    "id": "ec97e747da5d",
    "baslik": "Delikburunlular Kabilesi",
@@ -526,8 +494,8 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 19,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 17,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Atatürk Üniversitesi",
@@ -562,7 +530,7 @@
    "tur": "kultur",
    "url": "https://erzurum.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

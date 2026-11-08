@@ -1,5 +1,37 @@
 [
  {
+  "id": "ea28e6b2f20a",
+  "baslik": "İstanbul'un Son Beyzadeleri",
+  "tarih": "2026-11-07",
+  "bitis": null,
+  "saat": "15:00",
+  "ilce": "Ortahisar",
+  "mekan": "Haluk Ongan Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/istanbulun-son-beyzadeleri",
+  "gorsel": null
+ },
+ {
+  "id": "27aba4974bb1",
+  "baslik": "İstanbul'un Son Beyzadeleri",
+  "tarih": "2026-11-07",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Ortahisar",
+  "mekan": "Haluk Ongan Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/istanbulun-son-beyzadeleri",
+  "gorsel": null
+ },
+ {
   "id": "5cc3bd3fb502",
   "baslik": "\"17 Hedef 1 Gelecek\" Serisi-1",
   "tarih": "2026-11-06",

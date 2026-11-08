@@ -1,6 +1,6 @@
 {
  "il": "nigde",
- "guncelleme": "2026-11-07T06:59+03:00",
+ "guncelleme": "2026-11-08T13:54+03:00",
  "ilceler": [
   "Merkez",
   "Altunhisar",
@@ -70,7 +70,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -98,7 +98,7 @@
    "tur": "kultur",
    "url": "https://nigde.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

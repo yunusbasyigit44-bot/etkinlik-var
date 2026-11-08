@@ -1,6 +1,6 @@
 {
  "il": "manisa",
- "guncelleme": "2026-11-07T06:56+03:00",
+ "guncelleme": "2026-11-08T13:46+03:00",
  "ilceler": [
   "Ahmetli",
   "Akhisar",
@@ -246,7 +246,7 @@
    "tur": "kultur",
    "url": "https://manisa.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

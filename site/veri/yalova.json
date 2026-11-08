@@ -1,6 +1,6 @@
 {
  "il": "yalova",
- "guncelleme": "2026-11-07T07:05+03:00",
+ "guncelleme": "2026-11-08T14:24+03:00",
  "ilceler": [
   "Merkez",
   "Altınova",
@@ -16,7 +16,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -51,14 +51,14 @@
    "tur": "universite",
    "url": "https://www.yalova.edu.tr/tr/Etkinlik",
    "etkinlik_sayisi": 0,
-   "durum": "hata: HTTP Error 503: Service Unavailable"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yalova İl Kültür ve Turizm Müdürlüğü",
    "tur": "kultur",
    "url": "https://yalova.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error timed out>"
   },
   {
    "ad": "Yıllık festivaller (Armutlu, Çınarcık şenlikleri…)",

@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-07T07:03+03:00",
+ "guncelleme": "2026-11-08T14:08+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -22,38 +22,6 @@
   "Yomra"
  ],
  "etkinlikler": [
-  {
-   "id": "ea28e6b2f20a",
-   "baslik": "İstanbul'un Son Beyzadeleri",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/istanbulun-son-beyzadeleri",
-   "gorsel": "veri/gorsel/dt-istanbulun-son-beyzadeleri.jpg"
-  },
-  {
-   "id": "27aba4974bb1",
-   "baslik": "İstanbul'un Son Beyzadeleri",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/istanbulun-son-beyzadeleri",
-   "gorsel": "veri/gorsel/dt-istanbulun-son-beyzadeleri.jpg"
-  },
   {
    "id": "d7abd7a1064e",
    "baslik": "10 Kasım Atatürk'ü Anma Programı",
@@ -732,8 +700,8 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 26,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 24,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Karadeniz Teknik Üniversitesi",
@@ -796,7 +764,7 @@
    "tur": "kultur",
    "url": "https://trabzon.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Yıllık festivaller (Uluslararası Trabzon Film Festivali, Kadırga Yaylası Şenlikleri, Sera Gölü…)",

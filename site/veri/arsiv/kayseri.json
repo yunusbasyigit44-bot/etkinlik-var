@@ -1,5 +1,37 @@
 [
  {
+  "id": "d49ad2e2dfaa",
+  "baslik": "Leenane'in Güzellik Kraliçesi",
+  "tarih": "2026-11-07",
+  "bitis": null,
+  "saat": "15:00",
+  "ilce": "Melikgazi",
+  "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
+  "gorsel": null
+ },
+ {
+  "id": "ac2595349ceb",
+  "baslik": "Leenane'in Güzellik Kraliçesi",
+  "tarih": "2026-11-07",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Melikgazi",
+  "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
+  "gorsel": null
+ },
+ {
   "id": "a73b52adcb29",
   "baslik": "Tasavvuf Musikisi Konseri ve Sema Mukabelesi",
   "tarih": "2026-11-06",

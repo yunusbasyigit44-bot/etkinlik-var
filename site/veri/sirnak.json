@@ -1,6 +1,6 @@
 {
  "il": "sirnak",
- "guncelleme": "2026-11-07T07:04+03:00",
+ "guncelleme": "2026-11-08T14:20+03:00",
  "ilceler": [
   "Merkez",
   "Beytüşşebap",
@@ -17,7 +17,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -73,7 +73,7 @@
    "tur": "kultur",
    "url": "https://sirnak.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error timed out>"
   }
  ]
 }

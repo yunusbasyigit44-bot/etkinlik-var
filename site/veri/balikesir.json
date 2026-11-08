@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-07T06:43+03:00",
+ "guncelleme": "2026-11-08T13:03+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -24,22 +24,6 @@
   "Susurluk"
  ],
  "etkinlikler": [
-  {
-   "id": "00077929927c",
-   "baslik": "Konkordato Komiserliği Yenileme Eğitimi",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "12:00",
-   "ilce": "Karesi",
-   "mekan": "Necatibey Eğitim Fakültesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Sürekli̇ Eği̇ti̇m Uygulama Ve Araştirma Merkezi̇ Müdürlüğü",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_konkordato_yenileme_22.10.2026_1792659705.png"
-  },
   {
    "id": "566635b620c3",
    "baslik": "10 Kasım Atatürk'ü Anma Günü Özel Konseri",
@@ -190,7 +174,7 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {
@@ -226,7 +210,7 @@
    "tur": "kultur",
    "url": "https://balikesir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Balıkesir Şehir Tiyatrosu, kültür merkezleri",
@@ -240,7 +224,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

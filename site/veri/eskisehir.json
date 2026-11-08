@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-07T06:49+03:00",
+ "guncelleme": "2026-11-08T13:23+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -33,70 +33,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg"
-  },
-  {
-   "id": "4a1019952623",
-   "baslik": "15. Dönem Karikatür Atölyeleri Başlıyor",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Tepebaşı",
-   "mekan": "ATİLLA ÖZER KARİKATÜRLÜ EV",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tepebaşı Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.tepebasi.bel.tr/Etkinlikler/Detay/15-donem-karikatur-atolyeleri-basliyor",
-   "gorsel": null
-  },
-  {
-   "id": "96c81ef65dcb",
-   "baslik": "10 Kadından 10 Kasıma Sergisi",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Tepebaşı",
-   "mekan": "ESPARK",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tepebaşı Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.tepebasi.bel.tr/Etkinlikler/Detay/10-kadindan-10-kasima-sergisi",
-   "gorsel": null
-  },
-  {
-   "id": "6bec2b7cfab4",
-   "baslik": "Güvenli Binalar ve Hazırlıklı Mahalleler: Şirintepe'de Afet Hazırlığı, Gönüllülük ve Sivil Katılım Projesi",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Seminerler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/guvenli-binalar-ve-hazirlikli-mahalleler-sirintepede-afet-hazirligi-gonulluluk-1792501288",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad76612502cf.jpg"
-  },
-  {
-   "id": "f84e7706f17d",
-   "baslik": "Din, Tarih ve Felsefe Sohbetleri",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Tepebaşı",
-   "mekan": "ÖZDİLEK SANAT MERKEZİ",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tepebaşı Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.tepebasi.bel.tr/Etkinlikler/Detay/din-tarih-ve-felsefe-sohbetleri",
-   "gorsel": null
   },
   {
    "id": "cd432e1de66f",
@@ -1297,6 +1233,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
    "gorsel": null
+  },
+  {
+   "id": "d6433eb7824e",
+   "baslik": "Marketing Anadolu Kulüp Tanıtım Standı",
+   "tarih": "2026-11-30",
+   "bitis": "2026-12-04",
+   "saat": "08:30",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Tanıtım Aktiviteleri",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/marketing-anadolu-kulup-tanitim-standi-1792755781",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb47e462976.jpg"
   }
  ],
  "kaynaklar": [
@@ -1318,7 +1270,7 @@
    "ad": "Tepebaşı Belediyesi",
    "tur": "belediye",
    "url": "https://www.tepebasi.bel.tr/Etkinlikler",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {
@@ -1326,7 +1278,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Eskişehir Büyükşehir Belediyesi",
@@ -1361,7 +1313,7 @@
    "tur": "kultur",
    "url": "https://eskisehir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

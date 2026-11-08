@@ -1,6 +1,6 @@
 {
  "il": "tekirdag",
- "guncelleme": "2026-11-07T07:02+03:00",
+ "guncelleme": "2026-11-08T14:05+03:00",
  "ilceler": [
   "Süleymanpaşa",
   "Çerkezköy",
@@ -16,54 +16,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "0094e8df1b19",
-   "baslik": "Tıp Öğrencileri Birliği Topluluğu “IFMSA Değişim Sınavı 2026” Tıp Fakültesi dönem -1 amfisi",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Süleymanpaşa",
-   "mekan": "Tekirdağ Namık Kemal Üniversitesi",
-   "kategori": "Gençlik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://bhi.nku.edu.tr/haberler/tip-ogrencileri-birligi-toplulugu-ifmsa-degisim-sinavi-2026-tip-fakultesi-donem-1-amfisi/s/71505",
-   "gorsel": null
-  },
-  {
-   "id": "abbf0afd2ecf",
-   "baslik": "Resim Bölümü Cumhuriyet'in 103. Yılında \"Akademik Yolculuğumuzda Hocalarımız ve Öğrencilerimiz\" İsimli Resim Sergisi",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Süleymanpaşa",
-   "mekan": "Rektörlük Sanat Galerisi",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://bhi.nku.edu.tr/haberler/resim-bolumu-cumhuriyetin-103-yilinda-akademik-yolculugumuzda-hocalarimiz-ve-ogrencilerimiz-isimli-resim-sergisi/s/70703",
-   "gorsel": null
-  },
-  {
-   "id": "96b70aecbb6c",
-   "baslik": "Rumuz Goncagül",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Süleymanpaşa",
-   "mekan": "Yılmaz İçöz Sahnesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tekirdağ Büyükşehir Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.tekirdag.bel.tr/etkinlikler",
-   "gorsel": "https://candancozum.tekirdag.bel.tr/fs/d14927a76b3883e66ebc208da1dcfc81.png"
-  },
-  {
    "id": "628d35ee3901",
    "baslik": "Akil Öğrenciler ÜNİAK Topluluğu \"Edirne Kültür Gezisi\"",
    "tarih": "2026-11-08",
@@ -77,6 +29,22 @@
    "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://bhi.nku.edu.tr/haberler/akil-ogrenciler-uniak-toplulugu-edirne-kultur-gezisi/s/71500",
+   "gorsel": null
+  },
+  {
+   "id": "ffc59816f655",
+   "baslik": "Resim Bölümü Cumhuriyet'in 103. Yılında \"Akademik Yolculuğumuzda Hocalarımız ve Öğrencilerimiz\" İsimli Resim Sergisi",
+   "tarih": "2026-11-08",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Süleymanpaşa",
+   "mekan": "Rektörlük Sanat Galerisi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/resim-bolumu-cumhuriyetin-103-yilinda-akademik-yolculugumuzda-hocalarimiz-ve-ogrencilerimiz-isimli-resim-sergisi/s/70703",
    "gorsel": null
   },
   {
@@ -352,22 +320,6 @@
    "gorsel": "https://candancozum.tekirdag.bel.tr/fs/49d24d4579e3a989a6b1ccf67bd09c36.png"
   },
   {
-   "id": "fd4b8e32a975",
-   "baslik": "İklim Sağlığı Elçileri Topluluğu “İklim Elçileri ve İklim Kahramanları Bir arada” Şehit Piyade Ercan İlköğretim Okulu",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "08:00",
-   "ilce": "Süleymanpaşa",
-   "mekan": "Tekirdağ Namık Kemal Üniversitesi",
-   "kategori": "Gençlik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://bhi.nku.edu.tr/haberler/iklim-sagligi-elcileri-toplulugu-iklim-elcileri-ve-iklim-kahramanlari-bir-arada-sehit-piyade-ercan-ilkogretim-okulu/s/71777",
-   "gorsel": null
-  },
-  {
    "id": "a6333bd884dd",
    "baslik": "Türk Müziği Devlet Konservatuvarı Ders",
    "tarih": "2026-11-18",
@@ -384,9 +336,41 @@
    "gorsel": null
   },
   {
-   "id": "de2a973aaff1",
+   "id": "57be4727669b",
+   "baslik": "İklim Sağlığı Elçileri Topluluğu “İklim Elçileri ve İklim Kahramanları Bir arada” Şehit Piyade Ercan İlköğretim Okulu",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "08:00",
+   "ilce": "Süleymanpaşa",
+   "mekan": "Tekirdağ Namık Kemal Üniversitesi",
+   "kategori": "Gençlik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/iklim-sagligi-elcileri-toplulugu-iklim-elcileri-ve-iklim-kahramanlari-bir-arada-sehit-piyade-ercan-ilkogretim-okulu/s/71777",
+   "gorsel": null
+  },
+  {
+   "id": "d35b54b9a643",
+   "baslik": "Türk Müziği Devlet Konservatuvarı Ders",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "08:30",
+   "ilce": "Süleymanpaşa",
+   "mekan": "Ziraat Konferans Salonu",
+   "kategori": "Geleneksel Müzik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/turk-muzigi-devlet-konservatuvari-ders/s/69479",
+   "gorsel": null
+  },
+  {
+   "id": "7e4b852ac94e",
    "baslik": "İngiliz Dili ve Edebiyatı Bölümü \" \"Literatures in English\"",
-   "tarih": "2026-11-18",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "08:30",
    "ilce": "Süleymanpaşa",
@@ -400,9 +384,9 @@
    "gorsel": null
   },
   {
-   "id": "1ed3ba186fab",
+   "id": "2823a4bf81e5",
    "baslik": "İngiliz Dili ve Edebiyatı Bölümü \"Talks on Literature 2: Demarginalising Genres\" Konferans",
-   "tarih": "2026-11-18",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "09:00",
    "ilce": "Süleymanpaşa",
@@ -416,9 +400,9 @@
    "gorsel": null
   },
   {
-   "id": "3f8ee3df48e2",
+   "id": "a69b90e3db23",
    "baslik": "IVSA Tekirdağ Topluluğu “Veteriner Hekimlikte Homeopati’nin Önemi”",
-   "tarih": "2026-11-18",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "09:00",
    "ilce": "Süleymanpaşa",
@@ -432,9 +416,9 @@
    "gorsel": null
   },
   {
-   "id": "d39725a3813a",
+   "id": "f58d9488639b",
    "baslik": "MUN Etkinliği",
-   "tarih": "2026-11-18",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "09:00",
    "ilce": "Süleymanpaşa",
@@ -448,9 +432,9 @@
    "gorsel": null
   },
   {
-   "id": "c4249d167c7e",
+   "id": "236c94de37a1",
    "baslik": "EMSA Topluluğu \"Fakülteler Arası Münazara Turnuvası\"",
-   "tarih": "2026-11-18",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "09:00",
    "ilce": "Süleymanpaşa",
@@ -464,9 +448,9 @@
    "gorsel": null
   },
   {
-   "id": "956ec03a4c72",
+   "id": "f5901699dd2a",
    "baslik": "Genç Hukukçular Topluluğu \"Fakülteler Arası Münazara Turnuvası\"",
-   "tarih": "2026-11-18",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "09:00",
    "ilce": "Süleymanpaşa",
@@ -480,9 +464,9 @@
    "gorsel": null
   },
   {
-   "id": "d1fe8a7ec050",
+   "id": "3435588db21f",
    "baslik": "4. Tekirdağ Denizcilik Zirvesi DENLİMDER",
-   "tarih": "2026-11-18",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "09:00",
    "ilce": "Süleymanpaşa",
@@ -496,9 +480,9 @@
    "gorsel": null
   },
   {
-   "id": "1c329b29ed72",
+   "id": "c359cc7eb51e",
    "baslik": "Türk Müziği Devlet Konservatuvarı \"Keman Dinletisi\"",
-   "tarih": "2026-11-18",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "09:00",
    "ilce": "Süleymanpaşa",
@@ -512,9 +496,9 @@
    "gorsel": null
   },
   {
-   "id": "33798776705b",
+   "id": "d32a12ed4263",
    "baslik": "Coğrafya Bölümü \"Şişedeki Miras: Kolonya Coğrafyası ve Kültürü\"",
-   "tarih": "2026-11-18",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "10:00",
    "ilce": "Süleymanpaşa",
@@ -528,9 +512,9 @@
    "gorsel": null
   },
   {
-   "id": "93dcfa797efd",
+   "id": "b9a42b551c0d",
    "baslik": "Maliye Topluluğu \"Maliye Lokma Günleri 1\" İktisadi ve İdari Bilimler Fakültesi Önü",
-   "tarih": "2026-11-18",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "13:00",
    "ilce": "Süleymanpaşa",
@@ -544,9 +528,9 @@
    "gorsel": null
   },
   {
-   "id": "5a8194d35be5",
+   "id": "a38a3b5f10c5",
    "baslik": "Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezi \"25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü\"",
-   "tarih": "2026-11-18",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "14:00",
    "ilce": "Süleymanpaşa",
@@ -560,9 +544,9 @@
    "gorsel": null
   },
   {
-   "id": "27cd0083f64d",
+   "id": "8aa863ebd2b3",
    "baslik": "Radyo, Televizyon ve Sinema Bölümü Rüya Film Topluluğu \"ReBuilding Palanga (Palanga'yı Yeniden İnşa Etmek)\" Belgesel Film",
-   "tarih": "2026-11-18",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "14:00",
    "ilce": "Süleymanpaşa",
@@ -576,9 +560,9 @@
    "gorsel": null
   },
   {
-   "id": "c360039bd57c",
+   "id": "eee57a55d890",
    "baslik": "Türk Müziği Devlet Konservatuvarı Ders",
-   "tarih": "2026-11-18",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "14:30",
    "ilce": "Süleymanpaşa",
@@ -592,9 +576,9 @@
    "gorsel": null
   },
   {
-   "id": "5e3907077c64",
+   "id": "1bfa6b548344",
    "baslik": "Çalışma Ekonomisi ve Endüstri İlişkileri Bölümü \"Plaktan Dijital Çağa Müzik Endüstrisinin Serüveni\"",
-   "tarih": "2026-11-18",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "14:30",
    "ilce": "Süleymanpaşa",
@@ -608,9 +592,9 @@
    "gorsel": null
   },
   {
-   "id": "0dc00d48f365",
+   "id": "00d77b35c5ec",
    "baslik": "IVSA Tekirdağ Topluluğu “IVSA İç Hastalıkları Webinarı”",
-   "tarih": "2026-11-18",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "19:00",
    "ilce": "Süleymanpaşa",
@@ -732,7 +716,7 @@
    "ad": "Tekirdağ Büyükşehir Belediyesi",
    "tur": "belediye",
    "url": "https://www.tekirdag.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 9,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
@@ -740,7 +724,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -775,7 +759,7 @@
    "tur": "kultur",
    "url": "https://tekirdag.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Yıllık festivaller (Tekirdağ Kiraz, Şarköy, Rakı Festivali…)",

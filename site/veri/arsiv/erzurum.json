@@ -1,5 +1,37 @@
 [
  {
+  "id": "7ae6bc4c95eb",
+  "baslik": "Helezon",
+  "tarih": "2026-11-07",
+  "bitis": null,
+  "saat": "15:00",
+  "ilce": "Yakutiye",
+  "mekan": "Erzurum DT Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/helezon",
+  "gorsel": null
+ },
+ {
+  "id": "5cb3a5dd5150",
+  "baslik": "Helezon",
+  "tarih": "2026-11-07",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Yakutiye",
+  "mekan": "Erzurum DT Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/helezon",
+  "gorsel": null
+ },
+ {
   "id": "4f6ddf18010c",
   "baslik": "Uluslararası Orta Koridor Palandöken Sempozyumu",
   "tarih": "2026-11-06",

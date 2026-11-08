@@ -1,6 +1,6 @@
 {
  "il": "osmaniye",
- "guncelleme": "2026-11-07T07:05+03:00",
+ "guncelleme": "2026-11-08T14:27+03:00",
  "ilceler": [
   "Merkez",
   "Bahçe",
@@ -41,7 +41,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -76,7 +76,7 @@
    "tur": "kultur",
    "url": "https://osmaniye.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

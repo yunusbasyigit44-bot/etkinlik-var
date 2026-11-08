@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-07T06:39+03:00",
+ "guncelleme": "2026-11-08T12:51+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -19,38 +19,6 @@
   "Yüreğir"
  ],
  "etkinlikler": [
-  {
-   "id": "7e5a5bcd2e31",
-   "baslik": "Ocak'ta Bahar",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ocakta-bahar",
-   "gorsel": "veri/gorsel/dt-ocakta-bahar.jpg"
-  },
-  {
-   "id": "9934c9c7312f",
-   "baslik": "Karanlıkta Komedi",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": "ADANA BÜYÜKŞEHİR BELEDİYESİ ŞEHİR TİYATROLARI",
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1791791870_f57ceb548eed97efd01f.jpeg"
-  },
   {
    "id": "af052efb7f2a",
    "baslik": "Umudunu Yitirmeyen Sığırcık",
@@ -761,8 +729,8 @@
    "ad": "Devlet Tiyatroları Adana",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 28,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 27,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Çukurova Üniversitesi",
@@ -775,7 +743,7 @@
    "ad": "Adana Büyükşehir Şehir Tiyatrosu",
    "tur": "belediye",
    "url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {
@@ -811,7 +779,7 @@
    "tur": "kultur",
    "url": "https://adana.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Altın Koza Film Festivali",

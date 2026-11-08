@@ -1,5 +1,21 @@
 [
  {
+  "id": "d976c17e015d",
+  "baslik": "Üniversiteler Arası Küre Buluşması",
+  "tarih": "2026-11-07",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Burdur Mehmet Akif Ersoy Üniversitesi-Lavanta Tepesi Otel",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": "Kongre",
+  "kaynak_ad": "Süleyman Demirel Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+  "gorsel": null
+ },
+ {
   "id": "4198db754d18",
   "baslik": "Su Altı Topluluğu Dalış Etkinliği",
   "tarih": "2026-11-05",

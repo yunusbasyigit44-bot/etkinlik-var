@@ -1,5 +1,37 @@
 [
  {
+  "id": "d3cd5229da90",
+  "baslik": "Biz Size Hayranız",
+  "tarih": "2026-11-07",
+  "bitis": null,
+  "saat": "15:00",
+  "ilce": "Yenişehir",
+  "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/biz-size-hayraniz",
+  "gorsel": null
+ },
+ {
+  "id": "156ccbdc22f8",
+  "baslik": "Biz Size Hayranız",
+  "tarih": "2026-11-07",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Yenişehir",
+  "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/biz-size-hayraniz",
+  "gorsel": null
+ },
+ {
   "id": "ed6ddb56cc61",
   "baslik": "Biz Size Hayranız",
   "tarih": "2026-11-06",

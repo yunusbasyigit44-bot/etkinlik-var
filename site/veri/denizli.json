@@ -1,6 +1,6 @@
 {
  "il": "denizli",
- "guncelleme": "2026-11-07T06:44+03:00",
+ "guncelleme": "2026-11-08T13:13+03:00",
  "ilceler": [
   "Pamukkale",
   "Merkezefendi",
@@ -81,14 +81,14 @@
    "tur": "kultur",
    "url": "https://denizli.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

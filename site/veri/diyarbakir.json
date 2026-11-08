@@ -1,6 +1,6 @@
 {
  "il": "diyarbakir",
- "guncelleme": "2026-11-07T06:45+03:00",
+ "guncelleme": "2026-11-08T13:15+03:00",
  "ilceler": [
   "Bağlar",
   "Bismil",
@@ -52,38 +52,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/ateec-2026-11870",
    "gorsel": "https://www.dicle.edu.tr/contents/events/photos/607925a4-d73e-4c5d-b531-955c8a285a3a/ss_thumb_55a249fb524a4aa5aa6bc109b069a1fb_IMG-20260815-WA0000.jpg"
-  },
-  {
-   "id": "d3cd5229da90",
-   "baslik": "Biz Size Hayranız",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Yenişehir",
-   "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/biz-size-hayraniz",
-   "gorsel": "veri/gorsel/dt-biz-size-hayraniz.jpg"
-  },
-  {
-   "id": "156ccbdc22f8",
-   "baslik": "Biz Size Hayranız",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yenişehir",
-   "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/biz-size-hayraniz",
-   "gorsel": "veri/gorsel/dt-biz-size-hayraniz.jpg"
   },
   {
    "id": "dae2055527e8",
@@ -635,8 +603,8 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 27,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 25,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Dicle Üniversitesi",
@@ -678,7 +646,7 @@
    "tur": "kultur",
    "url": "https://diyarbakir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

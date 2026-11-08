@@ -1,6 +1,6 @@
 {
  "il": "malatya",
- "guncelleme": "2026-11-07T06:55+03:00",
+ "guncelleme": "2026-11-08T13:45+03:00",
  "ilceler": [
   "Akçadağ",
   "Arapgir",
@@ -65,7 +65,7 @@
    "tur": "kultur",
    "url": "https://malatya.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

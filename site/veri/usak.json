@@ -1,6 +1,6 @@
 {
  "il": "usak",
- "guncelleme": "2026-11-07T07:03+03:00",
+ "guncelleme": "2026-11-08T14:10+03:00",
  "ilceler": [
   "Merkez",
   "Banaz",
@@ -16,7 +16,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Eşme, Banaz, Sivaslı belediyeleri",
@@ -65,7 +65,7 @@
    "tur": "kultur",
    "url": "https://usak.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Yıllık festivaller (Uşak Kitap Fuarı, Ulubey Kanyonu etkinlikleri, Eşme Kilim…)",

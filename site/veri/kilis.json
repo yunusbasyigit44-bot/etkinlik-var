@@ -1,6 +1,6 @@
 {
  "il": "kilis",
- "guncelleme": "2026-11-07T07:05+03:00",
+ "guncelleme": "2026-11-08T14:26+03:00",
  "ilceler": [
   "Merkez",
   "Elbeyli",
@@ -47,14 +47,14 @@
    "tur": "kultur",
    "url": "https://kilis.ktb.gov.tr",
    "etkinlik_sayisi": 2,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error timed out>"
   },
   {
    "ad": "Elbeyli, Musabeyli, Polateli belediyeleri",

@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-07T06:55+03:00",
+ "guncelleme": "2026-11-08T13:44+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -35,57 +35,9 @@
  ],
  "etkinlikler": [
   {
-   "id": "3ac58185857b",
-   "baslik": "Esas Misafir",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/esas-misafir",
-   "gorsel": "veri/gorsel/dt-esas-misafir.jpg"
-  },
-  {
-   "id": "423eb1395450",
-   "baslik": "Esas Misafir",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/esas-misafir",
-   "gorsel": "veri/gorsel/dt-esas-misafir.jpg"
-  },
-  {
-   "id": "18575e2ab0d9",
-   "baslik": "Söz Arasında Edebiyat ve Sanat Üzerine Konuşmalar",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Edebiyat",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/soz-arasinda-edebiyat-ve-sanat-uzerine-konusmalar/1332",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAr7rQ-kN_9FsooKim_r07VzUrnN4Gxp.jpeg"
-  },
-  {
-   "id": "c5f435d35769",
+   "id": "88b2286714ae",
    "baslik": "Narnia Günlükleri - Aslan, Cadı ve Dolap",
-   "tarih": "2026-11-07",
+   "tarih": "2026-11-08",
    "bitis": null,
    "saat": null,
    "ilce": "Selçuklu",
@@ -97,38 +49,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanatkonya.com/etkinlikler/narnia-gunlukleri-aslan-cadi-ve-dolap/438",
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/6TepHQzXi6VI1DNDtStZvN6yS99vrmzr.jpeg"
-  },
-  {
-   "id": "95df083944f5",
-   "baslik": "Konya Okulu - Ahmet Özkan",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-ahmet-ozkan/1214",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/rDq9Q0TPY6VfiNgCpIQW7D8nJ2a-fvLC.jpeg"
-  },
-  {
-   "id": "4791cc7eac5d",
-   "baslik": "Şehir Konferansları - Ilgın",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-ilgin/1337",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/MCyVkSRYdN1xiIPgNT7ZCtOnMRT3cf8I.jpeg"
   },
   {
    "id": "481ceb016203",
@@ -417,6 +337,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanatkonya.com/etkinlikler/kultur-sanat-soylesileri/1334",
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/s2nxpC4lPzVjRDVwyEPjuoKy8F5IJTAl.jpeg"
+  },
+  {
+   "id": "ea5161b8a0ec",
+   "baslik": "Konya Okulu - Ahmet Özkan",
+   "tarih": "2026-11-14",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-ahmet-ozkan/1214",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/rDq9Q0TPY6VfiNgCpIQW7D8nJ2a-fvLC.jpeg"
   },
   {
    "id": "d3bd68f58706",
@@ -712,14 +648,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 19,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 17,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
-   "etkinlik_sayisi": 16,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {
@@ -748,7 +684,7 @@
    "tur": "kultur",
    "url": "https://konya.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

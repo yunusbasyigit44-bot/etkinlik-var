@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-07T06:42+03:00",
+ "guncelleme": "2026-11-08T13:00+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -70,54 +70,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/antalya-kriterleri-bildirisi-ve-taahhutnamesi-imza-toreni",
    "gorsel": null
-  },
-  {
-   "id": "7eace50e55f2",
-   "baslik": "Buzlar Çözülmeden",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buzlar-cozulmeden",
-   "gorsel": "veri/gorsel/dt-buzlar-cozulmeden.jpg"
-  },
-  {
-   "id": "427fb3bcd35b",
-   "baslik": "Carmına Burana",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/carmina-burana-antalya-dob",
-   "gorsel": "veri/gorsel/dob-5-3389.webp"
-  },
-  {
-   "id": "5a72df29dcab",
-   "baslik": "Buzlar Çözülmeden",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buzlar-cozulmeden",
-   "gorsel": "veri/gorsel/dt-buzlar-cozulmeden.jpg"
   },
   {
    "id": "c618951f2d7f",
@@ -861,8 +813,8 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 30,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 28,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Antalya Bilim Üniversitesi",
@@ -875,8 +827,8 @@
    "ad": "Devlet Opera ve Balesi",
    "tur": "kultur",
    "url": "https://www.operabale.gov.tr",
-   "etkinlik_sayisi": 8,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 7,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Akdeniz Üniversitesi",
@@ -932,7 +884,7 @@
    "tur": "kultur",
    "url": "https://antalya.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

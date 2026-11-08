@@ -1,6 +1,6 @@
 {
  "il": "kocaeli",
- "guncelleme": "2026-11-07T06:55+03:00",
+ "guncelleme": "2026-11-08T13:42+03:00",
  "ilceler": [
   "Başiskele",
   "Çayırova",
@@ -16,22 +16,6 @@
   "Körfez"
  ],
  "etkinlikler": [
-  {
-   "id": "d8dab366e01a",
-   "baslik": "Geç Kalanlar",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Gebze",
-   "mekan": "Gebze Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": "Yetişkin Tiyatrosu",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/gec-kalanlar_1039.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030103438.jpg"
-  },
   {
    "id": "4476341c972f",
    "baslik": "Kediler Sokağı Çocuk Müzikali",
@@ -390,7 +374,7 @@
    "ad": "Gebze Belediyesi",
    "tur": "belediye",
    "url": "https://www.gebze.bel.tr/json/etkinlik.json",
-   "etkinlik_sayisi": 23,
+   "etkinlik_sayisi": 22,
    "durum": "çalışıyor"
   },
   {
@@ -447,7 +431,7 @@
    "tur": "kultur",
    "url": "https://kocaeli.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

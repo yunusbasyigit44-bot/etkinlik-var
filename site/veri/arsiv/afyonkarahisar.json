@@ -1,5 +1,21 @@
 [
  {
+  "id": "c93c682de094",
+  "baslik": "Zelişah \\u0026 Mustafa Konseri",
+  "tarih": "2026-11-07",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Merkez",
+  "mekan": "Afyonkarahisar Belediyesi Şehir Tiyatrosu",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Afyonkarahisar Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.afyon.bel.tr/guncel/etkinlikler/zelisah-mustafa-konseri",
+  "gorsel": "https://www.afyon.bel.tr/uploads/etkinlik/67c2daa3-1e3f-4420-a7c8-3bdbabb195a4/gorsel/2026/11/d77666fc-5be6-44d0-9559-cc66ac56e07b-sitekk-medium.webp"
+ },
+ {
   "id": "304be7a39443",
   "baslik": "Ulusal Bilinç ve Evrensel Barış Ekseninde Atatürk’ü Anlamak",
   "tarih": "2026-11-06",

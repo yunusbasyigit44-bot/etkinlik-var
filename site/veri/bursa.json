@@ -1,6 +1,6 @@
 {
  "il": "bursa",
- "guncelleme": "2026-11-07T06:44+03:00",
+ "guncelleme": "2026-11-08T13:09+03:00",
  "ilceler": [
   "Büyükorhan",
   "Gemlik",
@@ -164,70 +164,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bursa.bel.tr/etkinlik/kasim-ayi-etkinlik-takvimi-2",
    "gorsel": null
-  },
-  {
-   "id": "e4a3c94f93b2",
-   "baslik": "Yaratıcı Kodlama",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Nilüfer",
-   "mekan": "Nilüfer",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Nilüfer Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.nilufer.bel.tr/etkinlik/yaratici-kodlama",
-   "gorsel": "https://www.nilufer.bel.tr/i/etkinlik/5190.jpg"
-  },
-  {
-   "id": "08b55c7510f9",
-   "baslik": "Kan ve Sultan",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kan-ve-sultan",
-   "gorsel": "veri/gorsel/dt-kan-ve-sultan.webp"
-  },
-  {
-   "id": "7c66139db1c4",
-   "baslik": "Mükemmel Partner",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Osmangazi",
-   "mekan": "Feraizcizade Oda Tiyatrosu",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/mukemmel-partner",
-   "gorsel": "veri/gorsel/dt-mukemmel-partner.jpg"
-  },
-  {
-   "id": "c628cc352805",
-   "baslik": "Kan ve Sultan",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kan-ve-sultan",
-   "gorsel": "veri/gorsel/dt-kan-ve-sultan.webp"
   },
   {
    "id": "b58455de858f",
@@ -923,8 +859,8 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 34,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 31,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
@@ -944,7 +880,7 @@
    "ad": "Nilüfer Belediyesi",
    "tur": "belediye",
    "url": "https://www.nilufer.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {
@@ -980,7 +916,7 @@
    "tur": "kultur",
    "url": "https://bursa.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gemlik, Mudanya, İnegöl, İznik belediyeleri",

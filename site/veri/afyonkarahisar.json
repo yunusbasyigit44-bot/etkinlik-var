@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-07T06:40+03:00",
+ "guncelleme": "2026-11-08T12:53+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -55,20 +55,20 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261027141418_ekimgecidi_afis.jpeg"
   },
   {
-   "id": "c93c682de094",
-   "baslik": "Zelişah \\u0026 Mustafa Konseri",
-   "tarih": "2026-11-07",
+   "id": "0b1ca09348c3",
+   "baslik": "Mutfaklarda Atık Yönetimi",
+   "tarih": "2026-11-09",
    "bitis": null,
-   "saat": "20:00",
+   "saat": "10:00",
    "ilce": "Merkez",
-   "mekan": "Afyonkarahisar Belediyesi Şehir Tiyatrosu",
-   "kategori": "Konser",
+   "mekan": "Emirdağ Aile Destek Merkezi",
+   "kategori": "Yemek",
    "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Afyonkarahisar Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.afyon.bel.tr/guncel/etkinlikler/zelisah-mustafa-konseri",
-   "gorsel": "https://www.afyon.bel.tr/uploads/etkinlik/67c2daa3-1e3f-4420-a7c8-3bdbabb195a4/gorsel/2026/11/d77666fc-5be6-44d0-9559-cc66ac56e07b-sitekk-medium.webp"
+   "ozet": "Eğitim Programı · Emi̇rdağ Meslek Yüksekokulu",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261105131955_whatsapp_image_2026-11-05_at_13.07.05.jpeg"
   },
   {
    "id": "a9e1ae51169c",
@@ -151,6 +151,22 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261103093752_whatsapp_image_2026-11-02_at_10..jpg"
   },
   {
+   "id": "ae496244e5bb",
+   "baslik": "İş Dünyası İçin Kriz Yönetimi ve Risk Analizi",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Mühendislik Fakültesi Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminer · Teknoloji̇ Transfer Ofi̇si̇ Koordi̇natörlüğü",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261105162102_kucuk_boyutlu.jpg"
+  },
+  {
    "id": "3adefe21feda",
    "baslik": "Girişimcilikte Bir Tecrübe Paylaşımı",
    "tarih": "2026-11-25",
@@ -197,6 +213,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261019120043_whatsapp_image_2026-10-16_at_17..jpg"
+  },
+  {
+   "id": "e4925705a001",
+   "baslik": "Kariyer Günleri (Prof. Dr. Gökhan GÖRHAN)",
+   "tarih": "2026-11-26",
+   "bitis": "2026-12-02",
+   "saat": "14:00",
+   "ilce": "Dazkırı",
+   "mekan": "Dazkırı MYO Konferans Salonu",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "Kariyer Günleri · Dazkiri Meslek Yüksekokulu",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261104153646_kariyer_gunleri_soylesileri.jpeg"
   },
   {
    "id": "09ad3a09fef5",
@@ -300,15 +332,8 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 15,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
-  },
-  {
-   "ad": "Afyonkarahisar Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.afyon.bel.tr/guncel/etkinlikler",
-   "etkinlik_sayisi": 1,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 18,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
@@ -325,6 +350,13 @@
    "durum": "duyurular idari (ihale vb.); etkinlik yok"
   },
   {
+   "ad": "Afyonkarahisar Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.afyon.bel.tr/guncel/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
    "ad": "Afyonkarahisar Valiliği",
    "tur": "valilik",
    "url": "https://www.afyonkarahisar.gov.tr",
@@ -336,7 +368,7 @@
    "tur": "kultur",
    "url": "https://afyon.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Belediye Şehir Tiyatrosu",
@@ -357,7 +389,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Dinar Belediyesi",

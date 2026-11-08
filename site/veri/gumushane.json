@@ -1,6 +1,6 @@
 {
  "il": "gumushane",
- "guncelleme": "2026-11-07T06:49+03:00",
+ "guncelleme": "2026-11-08T13:26+03:00",
  "ilceler": [
   "Merkez",
   "Kelkit",
@@ -23,7 +23,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",
@@ -58,7 +58,7 @@
    "tur": "kultur",
    "url": "https://gumushane.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Kelkit, Şiran, Torul belediyeleri",

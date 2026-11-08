@@ -1,5 +1,21 @@
 [
  {
+  "id": "f7ad6ab66548",
+  "baslik": "Romeo ve Julıet",
+  "tarih": "2026-11-07",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Yenişehir",
+  "mekan": "Mersin Opera Büyük Sahne",
+  "kategori": "Opera & Bale",
+  "ucretsiz": false,
+  "ozet": "Devlet Opera ve Balesi",
+  "kaynak_ad": "Devlet Opera ve Balesi",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://biletinial.com/opera-bale/romeo-juliet-mersin-dob",
+  "gorsel": null
+ },
+ {
   "id": "c29706ca1cef",
   "baslik": "Müze Sohbetleri-14 \"Mersin'in Fosilleri\"",
   "tarih": "2026-11-05",

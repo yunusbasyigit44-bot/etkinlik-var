@@ -1,6 +1,6 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-11-07",
+ "guncelleme": "2026-11-08",
  "secilenler": [
   {
    "id": "d7762ec713f9",
@@ -9,32 +9,32 @@
    "elle": true
   },
   {
-   "id": "4b6623b4f9f0",
+   "id": "83cde40b893d",
+   "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
+  },
+  {
+   "id": "c5ca94b52829",
    "not": "İzmir'de opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "d56324771082",
+   "id": "2324515fdeac",
    "not": "Ankara'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "427fb3bcd35b",
-   "not": "Antalya'da opera ve bale sahnesinden bir akşam."
+   "id": "c1ec98d8104d",
+   "not": "Iğdır'da canlı müzik keyfi."
   },
   {
-   "id": "cd55ee9b32ec",
-   "not": "İstanbul'da canlı müzik keyfi."
-  },
-  {
-   "id": "98d3b12665c0",
-   "not": "İstanbul'da canlı müzik keyfi."
-  },
-  {
-   "id": "c93c682de094",
-   "not": "Afyonkarahisar'da canlı müzik keyfi."
+   "id": "566635b620c3",
+   "not": "Balıkesir'de canlı müzik keyfi."
   },
   {
    "id": "f956d28fe684",
    "not": "Eskişehir'de geleneksel ezgiler."
+  },
+  {
+   "id": "778d22356e6a",
+   "not": "Muğla'da canlı müzik keyfi."
   },
   {
    "id": "2c455e2b4819",
@@ -49,8 +49,8 @@
    "not": "Manisa'da perde açılıyor."
   },
   {
-   "id": "d8dab366e01a",
-   "not": "Kocaeli'de perde açılıyor."
+   "id": "5ac2806faa1c",
+   "not": "İstanbul'da perde açılıyor."
   },
   {
    "id": "a00303c71871",
@@ -65,8 +65,8 @@
    "not": "Muğla'da gezip görülecek bir sergi."
   },
   {
-   "id": "b5f234369b69",
-   "not": "Muğla'da doğada bir gün."
+   "id": "4476341c972f",
+   "not": "Kocaeli'de çocuklarla gidilecek bir etkinlik."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "il": "mersin",
- "guncelleme": "2026-11-07T06:50+03:00",
+ "guncelleme": "2026-11-08T13:30+03:00",
  "ilceler": [
   "Akdeniz",
   "Anamur",
@@ -17,22 +17,6 @@
   "Yenişehir"
  ],
  "etkinlikler": [
-  {
-   "id": "f7ad6ab66548",
-   "baslik": "Romeo ve Julıet",
-   "tarih": "2026-11-07",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yenişehir",
-   "mekan": "Mersin Opera Büyük Sahne",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/romeo-juliet-mersin-dob",
-   "gorsel": "veri/gorsel/dob-4-3186.webp"
-  },
   {
    "id": "5139c67003d1",
    "baslik": "10 Kasım Atatürk'ü Anma Töreni",
@@ -215,8 +199,8 @@
    "ad": "Devlet Opera ve Balesi",
    "tur": "kultur",
    "url": "https://www.operabale.gov.tr",
-   "etkinlik_sayisi": 8,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 7,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Mersin Üniversitesi",
@@ -272,7 +256,7 @@
    "tur": "kultur",
    "url": "https://mersin.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

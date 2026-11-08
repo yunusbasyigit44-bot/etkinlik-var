@@ -1,6 +1,6 @@
 {
  "il": "yozgat",
- "guncelleme": "2026-11-07T07:04+03:00",
+ "guncelleme": "2026-11-08T14:13+03:00",
  "ilceler": [
   "Merkez",
   "Akdağmadeni",
@@ -96,7 +96,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -138,7 +138,7 @@
    "tur": "kultur",
    "url": "https://yozgat.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Yıllık festivaller (Sürmeli Şenlikleri, Çamlık Şenlikleri…)",
