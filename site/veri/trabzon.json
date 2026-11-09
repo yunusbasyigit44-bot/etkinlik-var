@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-08T14:08+03:00",
+ "guncelleme": "2026-11-09T14:15+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -343,6 +343,22 @@
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
   },
   {
+   "id": "8d59561c9c3f",
+   "baslik": "Yapay Zekaya Giriş",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Ortahisar",
+   "mekan": "KTÜ Uzaktan Eğitim Sistemi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/akademi/etkinlik/yapay-zekaya-giris",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/akademi_a23ac6385d8d.jpg"
+  },
+  {
    "id": "fe191adb17b9",
    "baslik": "Julıus Caesar",
    "tarih": "2026-11-19",
@@ -551,6 +567,22 @@
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/tto_ee978adefd62.jpg"
   },
   {
+   "id": "22b2271dd91c",
+   "baslik": "\"Bağımsızlık: Davranıştan Duyguya, Fark Etmekten Değişime\" Paneli",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Ortahisar",
+   "mekan": "Trabzon Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Trabzon Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/3642",
+   "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/8/a2a586c3-f18c-4a2b-a32d-ffb07b9e6aca.jpeg"
+  },
+  {
    "id": "04264d7d0aae",
    "baslik": "Sıradan Kasabası",
    "tarih": "2026-11-25",
@@ -581,6 +613,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siradan-kasabasi",
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
+  },
+  {
+   "id": "cc6ee2f6d8b1",
+   "baslik": "İyi Prompt Nasıl Yazılır?",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Ortahisar",
+   "mekan": "KTÜ Uzaktan Eğitim Sistemi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/akademi/etkinlik/iyi-prompt-nasil-yazilir",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/Bi0OS4.jpg"
   },
   {
    "id": "71606e410a3e",
@@ -679,6 +727,70 @@
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
   },
   {
+   "id": "a3741c855c8f",
+   "baslik": "ChatGPT",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "08:00",
+   "ilce": "Ortahisar",
+   "mekan": "BTK Akademi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/akademi/etkinlik/chatgpt",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/akademi_cc2edd67cefe.jpg"
+  },
+  {
+   "id": "aba818b56f3f",
+   "baslik": "Dijital Etik ve Veri Gizliliği",
+   "tarih": "2026-12-10",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Ortahisar",
+   "mekan": "KTÜ Nazım Terzioğlu Amfisi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/akademi/etkinlik/dijital-etik-ve-veri-gizliligi",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/akademi_8b89c7333c6e.jpg"
+  },
+  {
+   "id": "a7d7dfdcdecc",
+   "baslik": "Üretken Yapay Zekâ ile Sunum Hazırlama",
+   "tarih": "2026-12-17",
+   "bitis": null,
+   "saat": "08:00",
+   "ilce": "Ortahisar",
+   "mekan": "BTK Akademi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/akademi/etkinlik/uretken-yapay-zeka-ile-sunum-hazirlama",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/akademi_0f9e9a03c705.jpg"
+  },
+  {
+   "id": "18daabd9b750",
+   "baslik": "Power BI ile Veri Analizi ve Raporlama",
+   "tarih": "2026-12-24",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Ortahisar",
+   "mekan": "KTÜ Uzaktan Eğitim Sistemi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/akademi/etkinlik/power-bi-ile-veri-analizi-ve-raporlama",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/akademi_db406ff5774b.jpg"
+  },
+  {
    "id": "cb7b2fa25405",
    "baslik": "Kariyer ve Yetkinlik Buluşmaları-1",
    "tarih": "2026-12-25",
@@ -693,6 +805,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/2258",
    "gorsel": "https://www.trabzon.edu.tr/storage/2024/12/16/bf26102c-2855-478c-bd67-71e5d7febb80.jpg"
+  },
+  {
+   "id": "5d4f27db3ad5",
+   "baslik": "Kamuda Yapay Zekâ Dönüşümü",
+   "tarih": "2026-12-31",
+   "bitis": null,
+   "saat": "08:00",
+   "ilce": "Ortahisar",
+   "mekan": "BTK Akademi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/akademi/etkinlik/kamuda-yapay-zeka-donusumu",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/akademi_49c8d8fee811.jpg"
   }
  ],
  "kaynaklar": [
@@ -701,20 +829,20 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 24,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "durum": "çalışıyor"
   },
   {
    "ad": "Karadeniz Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://www.ktu.edu.tr",
-   "etkinlik_sayisi": 13,
+   "etkinlik_sayisi": 20,
    "durum": "çalışıyor"
   },
   {
    "ad": "Trabzon Üniversitesi",
    "tur": "universite",
    "url": "https://www.trabzon.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {
@@ -764,7 +892,7 @@
    "tur": "kultur",
    "url": "https://trabzon.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yıllık festivaller (Uluslararası Trabzon Film Festivali, Kadırga Yaylası Şenlikleri, Sera Gölü…)",

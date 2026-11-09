@@ -1,5 +1,21 @@
 [
  {
+  "id": "3f62655d5322",
+  "baslik": "Lisans Akademi Açılış Dersi ve Kahvaltı Programı",
+  "tarih": "2026-11-08",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "SDÜ Konukevi",
+  "kategori": "Yemek",
+  "ucretsiz": true,
+  "ozet": "Eğitim Programı",
+  "kaynak_ad": "Süleyman Demirel Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+  "gorsel": null
+ },
+ {
   "id": "d976c17e015d",
   "baslik": "Üniversiteler Arası Küre Buluşması",
   "tarih": "2026-11-07",

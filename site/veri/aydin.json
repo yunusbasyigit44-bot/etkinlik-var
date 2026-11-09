@@ -1,6 +1,6 @@
 {
  "il": "aydin",
- "guncelleme": "2026-11-08T13:02+03:00",
+ "guncelleme": "2026-11-09T13:54+03:00",
  "ilceler": [
   "Efeler",
   "Bozdoğan",
@@ -36,6 +36,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://haber.adu.edu.tr/etkinlik/is-sagligi-ve-guvenligi-egitimi-2000148613",
    "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261103154732-2CHO8IBO2N5JPF0TLKD1-000076162472458090703344.jpeg"
+  },
+  {
+   "id": "445a88137702",
+   "baslik": "Atatürk'ün Fikir Dünyası",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "09:30",
+   "ilce": "Efeler",
+   "mekan": "Atatürk Kongre Merkezi Yörük İsa Bey Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Panel",
+   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/ataturk-un-fikir-dunyasi-2000148774",
+   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261109111513-FV1Q4FMD51635Q421VI1-000088651962531600883185.jpg"
   },
   {
    "id": "5fcafaa1df30",
@@ -379,7 +395,7 @@
    "ad": "Aydın Adnan Menderes Üniversitesi",
    "tur": "universite",
    "url": "https://haber.adu.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 22,
+   "etkinlik_sayisi": 23,
    "durum": "çalışıyor"
   },
   {
@@ -401,14 +417,14 @@
    "tur": "kultur",
    "url": "https://aydin.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Efeler ve Nazilli belediyeleri",

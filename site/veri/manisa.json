@@ -1,6 +1,6 @@
 {
  "il": "manisa",
- "guncelleme": "2026-11-08T13:46+03:00",
+ "guncelleme": "2026-11-09T14:09+03:00",
  "ilceler": [
   "Ahmetli",
   "Akhisar",
@@ -52,6 +52,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1295",
    "gorsel": "https://kultur.manisa.bel.tr/uploads/events/61f67eb8-2961-4170-b9d7-1eaa95d68845_C%CC%A7I%CC%87ZMELI%CC%87-KEDI%CC%87-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
+  },
+  {
+   "id": "97e058a9b18b",
+   "baslik": "10 Kasım Atatürk'ü Anma Programları",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "08:50",
+   "ilce": "Yunusemre",
+   "mekan": "Rekreasyon Alanı, SDKM Açık Amfi, İlahiyat Fakültesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/10-kasim-ataturk-u-anma-programlari#baslangic",
+   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261109085042088-3XST7.jpg"
   },
   {
    "id": "b423f03b6315",
@@ -210,7 +226,7 @@
    "ad": "Manisa Celal Bayar Üniversitesi",
    "tur": "universite",
    "url": "https://www.mcbu.edu.tr",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {
@@ -246,7 +262,7 @@
    "tur": "kultur",
    "url": "https://manisa.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

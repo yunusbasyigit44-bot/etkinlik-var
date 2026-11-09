@@ -1,5 +1,21 @@
 [
  {
+  "id": "b5f234369b69",
+  "baslik": "Bodrum Belediyesi Kültür ve Doğa Yürüyüşü-Kissebükü Antik Kenti",
+  "tarih": "2026-11-08",
+  "bitis": null,
+  "saat": "10:30",
+  "ilce": "Bodrum",
+  "mekan": "Bodrum Eski Otogar",
+  "kategori": "Doğa & Gezi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bodrum Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2831/Yuruyus-Bodrum_Belediyesi_Kultur_ve_Doga_Yuruyusu-Kissebuku_Antik_Kenti",
+  "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2831_1793790932.2053.jpeg"
+ },
+ {
   "id": "1995e5209efb",
   "baslik": "Belediyemizin Hizmet Filosuna Kazandırdığı Yeni 17 Aracın Tanıtım Töreni",
   "tarih": "2026-11-06",
@@ -46,6 +62,22 @@
   "kaynak_tur": "universite",
   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/ogrenci--mezun-bulusmasi-4703",
   "gorsel": null
+ },
+ {
+  "id": "3d8d68276fe1",
+  "baslik": "Bodrum Ragetta Organizasyonu",
+  "tarih": "2026-11-06",
+  "bitis": "2026-11-08",
+  "saat": "10:00",
+  "ilce": "Bodrum",
+  "mekan": "Bitez Yalısı Ambrosia Otel Önü",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bodrum Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2830/Ragetta-Bodrum_Ragetta_Organizasyonu",
+  "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2830_1793784020.1081.png"
  },
  {
   "id": "a6924fad56a7",

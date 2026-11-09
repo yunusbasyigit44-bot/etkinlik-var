@@ -1,6 +1,6 @@
 {
  "il": "nigde",
- "guncelleme": "2026-11-08T13:54+03:00",
+ "guncelleme": "2026-11-09T14:11+03:00",
  "ilceler": [
   "Merkez",
   "Altunhisar",
@@ -10,22 +10,6 @@
   "Ulukışla"
  ],
  "etkinlikler": [
-  {
-   "id": "17826dde5363",
-   "baslik": "Gülmek Serbest",
-   "tarih": "2026-11-08",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Merkez",
-   "mekan": "Niğde Belediyesi Kültür Merkezi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Niğde Belediyesi Kültür Online (tiyatro, gösteri)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kulturonline.nigde.bel.tr/etkinlikdetay.php?s=glmek-serbest&q=188",
-   "gorsel": "https://kulturonline.nigde.bel.tr/upload/1792827377_105.jpg"
-  },
   {
    "id": "97eb9d5d7296",
    "baslik": "5. Uluslararası Spor, Antropoloji, Beslenme, Anatomi ve Radyoloji Kongresi",
@@ -45,13 +29,6 @@
  ],
  "kaynaklar": [
   {
-   "ad": "Niğde Belediyesi Kültür Online (tiyatro, gösteri)",
-   "tur": "belediye",
-   "url": "https://kulturonline.nigde.bel.tr/etkinlikler.php",
-   "etkinlik_sayisi": 1,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Niğde Ömer Halisdemir Üniversitesi",
    "tur": "universite",
    "url": "https://www.ohu.edu.tr/etkinlikler",
@@ -70,7 +47,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -78,6 +55,13 @@
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Niğde Belediyesi Kültür Online (tiyatro, gösteri)",
+   "tur": "belediye",
+   "url": "https://kulturonline.nigde.bel.tr/etkinlikler.php",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Niğde Belediyesi ana sitesi",
@@ -98,7 +82,7 @@
    "tur": "kultur",
    "url": "https://nigde.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

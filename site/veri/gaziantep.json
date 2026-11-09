@@ -1,6 +1,6 @@
 {
  "il": "gaziantep",
- "guncelleme": "2026-11-08T13:24+03:00",
+ "guncelleme": "2026-11-09T14:01+03:00",
  "ilceler": [
   "Şahinbey",
   "Şehitkamil",
@@ -84,7 +84,7 @@
    "tur": "universite",
    "url": "https://www.gaziantep.edu.tr/",
    "etkinlik_sayisi": 3,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Gaziantep Büyükşehir Belediyesi",
@@ -98,7 +98,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gaziantep Valiliği ve 9 ilçe kaymakamlığı",
@@ -112,7 +112,7 @@
    "tur": "kultur",
    "url": "https://gaziantep.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi",

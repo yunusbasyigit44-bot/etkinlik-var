@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-08T12:51+03:00",
+ "guncelleme": "2026-11-09T13:51+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -19,54 +19,6 @@
   "Yüreğir"
  ],
  "etkinlikler": [
-  {
-   "id": "af052efb7f2a",
-   "baslik": "Umudunu Yitirmeyen Sığırcık",
-   "tarih": "2026-11-08",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Fuaye Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/umudunu-yitirmeyen-sigircik",
-   "gorsel": "veri/gorsel/dt-umudunu-yitirmeyen-sigircik.webp"
-  },
-  {
-   "id": "26b4833a0f46",
-   "baslik": "Ocak'ta Bahar",
-   "tarih": "2026-11-08",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ocakta-bahar",
-   "gorsel": "veri/gorsel/dt-ocakta-bahar.jpg"
-  },
-  {
-   "id": "f8b7281a9ee8",
-   "baslik": "Haydi Karına Koş",
-   "tarih": "2026-11-08",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": "Yenişehir Belediyesi Şehir Tiyatrosu",
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1790078651_32c6e90590c97e95370b.png"
-  },
   {
    "id": "327f31d86b19",
    "baslik": "Stres Yönetimi ve Motivasyon",
@@ -98,6 +50,38 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1788779342_d33629b77ab5f5dc08af.jpeg"
+  },
+  {
+   "id": "31ff99446938",
+   "baslik": "10 Kasım Atatürk'ü Anma Töreni",
+   "tarih": "2026-11-10",
+   "bitis": "2026-11-11",
+   "saat": "12:05",
+   "ilce": "Sarıçam",
+   "mekan": "ATÜ Tören Alanı",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": "Etkinlik",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/081120261928_K_1_1f8e29de-8c8d-4977-a32b-9aa8c48ebbe6.jpg"
+  },
+  {
+   "id": "55a3168a8aec",
+   "baslik": "10 Kasım Etkinlikleri",
+   "tarih": "2026-11-10",
+   "bitis": "2026-11-11",
+   "saat": "13:00",
+   "ilce": "Sarıçam",
+   "mekan": "Prof. Dr. Aziz Sancar Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Etkinlik",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/081120261926_K_1_97266225-7182-4506-8a64-0d46cbcdd6d5.jpg"
   },
   {
    "id": "c69f866f5919",
@@ -178,6 +162,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.cu.edu.tr/haber-detay/agac/",
    "gorsel": "https://www.cu.edu.tr/media/rb4lcwyp/gelecegenefes.jpeg"
+  },
+  {
+   "id": "e945b2650a58",
+   "baslik": "Atatürk'ü Anma Programı",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "Çukurova Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çukurova Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cu.edu.tr/haber-detay/ataturk-u-anma-programi/",
+   "gorsel": "https://www.cu.edu.tr/media/tj0fubiw/amiral.jpeg"
   },
   {
    "id": "7c3d08de103c",
@@ -729,28 +729,28 @@
    "ad": "Devlet Tiyatroları Adana",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 27,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 25,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Çukurova Üniversitesi",
    "tur": "universite",
    "url": "https://www.cu.edu.tr",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {
    "ad": "Adana Büyükşehir Şehir Tiyatrosu",
    "tur": "belediye",
    "url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {
@@ -779,7 +779,7 @@
    "tur": "kultur",
    "url": "https://adana.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Altın Koza Film Festivali",

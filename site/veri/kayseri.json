@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-11-08T13:40+03:00",
+ "guncelleme": "2026-11-09T14:06+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -20,22 +20,6 @@
   "Yeşilhisar"
  ],
  "etkinlikler": [
-  {
-   "id": "29fd6153c331",
-   "baslik": "Ağustos Parkı",
-   "tarih": "2026-11-08",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Melikgazi",
-   "mekan": "Kayseri DT Fuaye",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/agustos-parki",
-   "gorsel": "veri/gorsel/dt-agustos-parki.jpg"
-  },
   {
    "id": "a4fb606cb933",
    "baslik": "Tahsin Hasanoğlu ile Kariyer Söyleşisi",
@@ -378,8 +362,8 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 18,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 17,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Erciyes Üniversitesi",
@@ -435,7 +419,7 @@
    "tur": "kultur",
    "url": "https://kayseri.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Kocasinan ve Talas belediyeleri",

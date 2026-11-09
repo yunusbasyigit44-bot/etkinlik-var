@@ -1,6 +1,6 @@
 {
  "il": "kirklareli",
- "guncelleme": "2026-11-08T13:41+03:00",
+ "guncelleme": "2026-11-09T14:06+03:00",
  "ilceler": [
   "Merkez",
   "Babaeski",
@@ -11,32 +11,8 @@
   "Pınarhisar",
   "Vize"
  ],
- "etkinlikler": [
-  {
-   "id": "b71b2bd1c558",
-   "baslik": "8 Kasım Özel Konseri",
-   "tarih": "2026-11-08",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Lüleburgaz",
-   "mekan": "LYSA",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Lüleburgaz Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://etkinlik.luleburgaz.bel.tr/etkinlik/449",
-   "gorsel": null
-  }
- ],
+ "etkinlikler": [],
  "kaynaklar": [
-  {
-   "ad": "Lüleburgaz Belediyesi",
-   "tur": "belediye",
-   "url": "https://etkinlik.luleburgaz.bel.tr/",
-   "etkinlik_sayisi": 1,
-   "durum": "çalışıyor"
-  },
   {
    "ad": "Babaeski, Vize, Pınarhisar, Demirköy belediyeleri",
    "tur": "belediye",
@@ -49,7 +25,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Kakava Şenlikleri, Kıyıköy ve İğneada etkinlikleri…",
@@ -84,7 +60,14 @@
    "tur": "kultur",
    "url": "https://kirklareli.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Lüleburgaz Belediyesi",
+   "tur": "belediye",
+   "url": "https://etkinlik.luleburgaz.bel.tr/",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

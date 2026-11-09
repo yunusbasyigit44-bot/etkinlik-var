@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-08T13:51+03:00",
+ "guncelleme": "2026-11-09T14:10+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -48,54 +48,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2799/Sergi-Ibrahim_Coskun_Ben_Anadolu_Resim_Sergisi",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
-  },
-  {
-   "id": "3d8d68276fe1",
-   "baslik": "Bodrum Ragetta Organizasyonu",
-   "tarih": "2026-11-06",
-   "bitis": "2026-11-08",
-   "saat": "10:00",
-   "ilce": "Bodrum",
-   "mekan": "Bitez Yalısı Ambrosia Otel Önü",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2830/Ragetta-Bodrum_Ragetta_Organizasyonu",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2830_1793784020.1081.png"
-  },
-  {
-   "id": "b5f234369b69",
-   "baslik": "Bodrum Belediyesi Kültür ve Doğa Yürüyüşü-Kissebükü Antik Kenti",
-   "tarih": "2026-11-08",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Bodrum",
-   "mekan": "Bodrum Eski Otogar",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2831/Yuruyus-Bodrum_Belediyesi_Kultur_ve_Doga_Yuruyusu-Kissebuku_Antik_Kenti",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2831_1793790932.2053.jpeg"
-  },
-  {
-   "id": "a23658bc5198",
-   "baslik": "Teknoloji Transfer Ofisi Eğitimi",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/teknoloji-transfer-ofisi-egitimi-4706",
-   "gorsel": null
   },
   {
    "id": "85efd8e19ed5",
@@ -354,6 +306,54 @@
    "gorsel": null
   },
   {
+   "id": "246f6bb53467",
+   "baslik": "Köyceğiz Gölünün Oluşumu",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/koycegiz-golunun-olusumu-4714",
+   "gorsel": null
+  },
+  {
+   "id": "44756ce780fd",
+   "baslik": "Topraktan Hasada",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "16:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/topraktan-hasada-4715",
+   "gorsel": null
+  },
+  {
+   "id": "470034f0a661",
+   "baslik": "Müdür & Öğrenci Buluşması",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "11:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mudur--ogrenci-bulusmasi-4713",
+   "gorsel": null
+  },
+  {
    "id": "8509f2f3cea7",
    "baslik": "Mezun Buluşmaları",
    "tarih": "2026-11-18",
@@ -367,6 +367,22 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mezun-bulusmalari-4711",
+   "gorsel": null
+  },
+  {
+   "id": "57af02bce36b",
+   "baslik": "Mezun & Öğrenci Buluşmaları",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mezun--ogrenci-bulusmalari-4712",
    "gorsel": null
   },
   {
@@ -500,16 +516,16 @@
  ],
  "kaynaklar": [
   {
-   "ad": "Bodrum Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.bodrum.bel.tr/etkinlik_takvimi",
-   "etkinlik_sayisi": 16,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
+   "etkinlik_sayisi": 17,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Bodrum Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.bodrum.bel.tr/etkinlik_takvimi",
    "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
@@ -525,7 +541,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Fethiye Belediyesi",
@@ -581,7 +597,7 @@
    "tur": "kultur",
    "url": "https://mugla.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

@@ -1,6 +1,6 @@
 {
  "il": "karaman",
- "guncelleme": "2026-11-08T14:16+03:00",
+ "guncelleme": "2026-11-09T14:17+03:00",
  "ilceler": [
   "Merkez",
   "Ayrancı",
@@ -152,7 +152,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -180,7 +180,7 @@
    "tur": "kultur",
    "url": "https://karaman.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

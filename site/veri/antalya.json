@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-08T13:00+03:00",
+ "guncelleme": "2026-11-09T13:54+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -70,38 +70,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/antalya-kriterleri-bildirisi-ve-taahhutnamesi-imza-toreni",
    "gorsel": null
-  },
-  {
-   "id": "c618951f2d7f",
-   "baslik": "Üç Kedi Bir Dilek",
-   "tarih": "2026-11-08",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Muratpaşa",
-   "mekan": "H.i.k.m. Sanat Galerisi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/uc-kedi-bir-dilek",
-   "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
-  },
-  {
-   "id": "87dd38befc68",
-   "baslik": "Üç Kedi Bir Dilek",
-   "tarih": "2026-11-08",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Muratpaşa",
-   "mekan": "H.i.k.m. Sanat Galerisi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/uc-kedi-bir-dilek",
-   "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
   },
   {
    "id": "bfa5e07e92d2",
@@ -568,6 +536,22 @@
    "gorsel": "veri/gorsel/dt-taziye.webp"
   },
   {
+   "id": "2167af13ca87",
+   "baslik": "Fındıkkıran",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/findikkiran-antdob",
+   "gorsel": "veri/gorsel/dob-5-280.jpg"
+  },
+  {
    "id": "cc9c0e5584e6",
    "baslik": "Taziye",
    "tarih": "2026-11-21",
@@ -813,8 +797,8 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 28,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 26,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Antalya Bilim Üniversitesi",
@@ -827,8 +811,8 @@
    "ad": "Devlet Opera ve Balesi",
    "tur": "kultur",
    "url": "https://www.operabale.gov.tr",
-   "etkinlik_sayisi": 7,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 8,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Akdeniz Üniversitesi",
@@ -884,7 +868,7 @@
    "tur": "kultur",
    "url": "https://antalya.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

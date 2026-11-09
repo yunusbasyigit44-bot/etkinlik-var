@@ -1,6 +1,6 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-11-08",
+ "guncelleme": "2026-11-09",
  "secilenler": [
   {
    "id": "d7762ec713f9",
@@ -9,28 +9,28 @@
    "elle": true
   },
   {
-   "id": "83cde40b893d",
-   "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
-  },
-  {
-   "id": "c5ca94b52829",
-   "not": "İzmir'de opera ve bale sahnesinden bir akşam."
-  },
-  {
    "id": "2324515fdeac",
    "not": "Ankara'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "c1ec98d8104d",
-   "not": "Iğdır'da canlı müzik keyfi."
+   "id": "25d8d27a237b",
+   "not": "Mersin'de opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "566635b620c3",
+   "id": "17d1345d4cf8",
+   "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
+  },
+  {
+   "id": "e0d35fb4cf73",
    "not": "Balıkesir'de canlı müzik keyfi."
   },
   {
    "id": "f956d28fe684",
    "not": "Eskişehir'de geleneksel ezgiler."
+  },
+  {
+   "id": "bd7c4713cbb9",
+   "not": "Iğdır'da canlı müzik keyfi."
   },
   {
    "id": "778d22356e6a",
@@ -41,6 +41,10 @@
    "not": "Konya'da geleneksel ezgiler."
   },
   {
+   "id": "92e63f75c2ac",
+   "not": "İzmir'de geleneksel ezgiler."
+  },
+  {
    "id": "cdb5c6524545",
    "not": "Manisa'da perde açılıyor."
   },
@@ -49,24 +53,20 @@
    "not": "Manisa'da perde açılıyor."
   },
   {
-   "id": "5ac2806faa1c",
-   "not": "İstanbul'da perde açılıyor."
+   "id": "298f9c82f8be",
+   "not": "Eskişehir'de perde açılıyor."
+  },
+  {
+   "id": "6c165b4e08a9",
+   "not": "Tokat'ta ritim ve dans dolu bir gösteri."
   },
   {
    "id": "a00303c71871",
    "not": "Gaziantep'te gezip görülecek bir sergi."
   },
   {
-   "id": "6f85dac51929",
-   "not": "Eskişehir'de gezip görülecek bir sergi."
-  },
-  {
    "id": "6dbaf62dc677",
    "not": "Muğla'da gezip görülecek bir sergi."
-  },
-  {
-   "id": "4476341c972f",
-   "not": "Kocaeli'de çocuklarla gidilecek bir etkinlik."
   }
  ]
 }

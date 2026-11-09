@@ -1,6 +1,6 @@
 {
  "il": "kocaeli",
- "guncelleme": "2026-11-08T13:42+03:00",
+ "guncelleme": "2026-11-09T14:07+03:00",
  "ilceler": [
   "Başiskele",
   "Çayırova",
@@ -16,22 +16,6 @@
   "Körfez"
  ],
  "etkinlikler": [
-  {
-   "id": "4476341c972f",
-   "baslik": "Kediler Sokağı Çocuk Müzikali",
-   "tarih": "2026-11-08",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Gebze",
-   "mekan": "Gebze Kültür Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Çocuk Tiyatrosu",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/kediler-sokagi-cocuk-muzikali_1040.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030103711.jpg"
-  },
   {
    "id": "4836452cabc1",
    "baslik": "Süper Yetenek 2",
@@ -374,7 +358,7 @@
    "ad": "Gebze Belediyesi",
    "tur": "belediye",
    "url": "https://www.gebze.bel.tr/json/etkinlik.json",
-   "etkinlik_sayisi": 22,
+   "etkinlik_sayisi": 21,
    "durum": "çalışıyor"
   },
   {
@@ -431,7 +415,7 @@
    "tur": "kultur",
    "url": "https://kocaeli.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

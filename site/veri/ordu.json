@@ -1,6 +1,6 @@
 {
  "il": "ordu",
- "guncelleme": "2026-11-08T13:56+03:00",
+ "guncelleme": "2026-11-09T14:12+03:00",
  "ilceler": [
   "Altınordu",
   "Akkuş",
@@ -36,7 +36,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Fatsa Belediyesi",
@@ -78,7 +78,7 @@
    "tur": "kultur",
    "url": "https://ordu.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-08T12:53+03:00",
+ "guncelleme": "2026-11-09T13:52+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -117,6 +117,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261104112428_fidan.jpeg"
+  },
+  {
+   "id": "a966188fbb36",
+   "baslik": "AD Scientific Index - Çevrimiçi (Online) Eğitim: Stratejik Çözümler ve Akademik Görünürlük",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Merkez",
+   "mekan": "Çevrimiçi (Online)",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim Programı · Kütüphane Ve Dokümantasyon Dai̇re Başkanliği",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261106144218_bx5hw.jpg"
   },
   {
    "id": "f07bb413d422",
@@ -332,7 +348,7 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 19,
    "durum": "çalışıyor"
   },
   {
@@ -368,7 +384,7 @@
    "tur": "kultur",
    "url": "https://afyon.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Belediye Şehir Tiyatrosu",
@@ -389,7 +405,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Dinar Belediyesi",

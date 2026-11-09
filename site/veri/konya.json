@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-08T13:44+03:00",
+ "guncelleme": "2026-11-09T14:07+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,38 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "88b2286714ae",
-   "baslik": "Narnia Günlükleri - Aslan, Cadı ve Dolap",
-   "tarih": "2026-11-08",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/narnia-gunlukleri-aslan-cadi-ve-dolap/438",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/6TepHQzXi6VI1DNDtStZvN6yS99vrmzr.jpeg"
-  },
-  {
-   "id": "481ceb016203",
-   "baslik": "Şehir Konferansları - Kadınhanı",
-   "tarih": "2026-11-08",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-kadinhani/1338",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/i0SqBQOC-hEr4DHOsTJe9cK4JMYNs4f2.jpeg"
-  },
   {
    "id": "216d278cfea8",
    "baslik": "Konya Okulu - Prof. Dr. Ali Akpınar",
@@ -649,13 +617,13 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 17,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "durum": "çalışıyor"
   },
   {
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 12,
    "durum": "çalışıyor"
   },
   {
@@ -684,7 +652,7 @@
    "tur": "kultur",
    "url": "https://konya.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

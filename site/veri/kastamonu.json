@@ -1,6 +1,6 @@
 {
  "il": "kastamonu",
- "guncelleme": "2026-11-08T13:38+03:00",
+ "guncelleme": "2026-11-09T14:06+03:00",
  "ilceler": [
   "Merkez",
   "Abana",
@@ -54,7 +54,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -82,7 +82,7 @@
    "tur": "kultur",
    "url": "https://kastamonu.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

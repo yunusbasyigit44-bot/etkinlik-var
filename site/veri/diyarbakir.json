@@ -1,6 +1,6 @@
 {
  "il": "diyarbakir",
- "guncelleme": "2026-11-08T13:15+03:00",
+ "guncelleme": "2026-11-09T13:57+03:00",
  "ilceler": [
   "Bağlar",
   "Bismil",
@@ -36,38 +36,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/ucretsiz-kort-tenisi-kursu-12977",
    "gorsel": "https://www.dicle.edu.tr/contents/events/photos/61730663-be34-4427-a527-63d900c094a2/ss_thumb_a31d6ad776c440ceb86a935cdae4519a_WhatsApp%20Image%202026-10-26%20at%2011.43.28.jpeg"
-  },
-  {
-   "id": "d7697eabdc82",
-   "baslik": "Ateec 2026",
-   "tarih": "2026-11-06",
-   "bitis": "2026-11-08",
-   "saat": null,
-   "ilce": "Sur",
-   "mekan": "Dicle Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Dicle Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/ateec-2026-11870",
-   "gorsel": "https://www.dicle.edu.tr/contents/events/photos/607925a4-d73e-4c5d-b531-955c8a285a3a/ss_thumb_55a249fb524a4aa5aa6bc109b069a1fb_IMG-20260815-WA0000.jpg"
-  },
-  {
-   "id": "dae2055527e8",
-   "baslik": "Alacalı Şemsiye",
-   "tarih": "2026-11-08",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Kayapınar",
-   "mekan": "Kayapınar Kültür Merkezi Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/alacali-semsiye",
-   "gorsel": "veri/gorsel/dt-alacali-semsiye.webp"
   },
   {
    "id": "bc8e640031a3",
@@ -603,14 +571,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 25,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 24,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Dicle Üniversitesi",
    "tur": "universite",
    "url": "https://www.dicle.edu.tr/etkinlikler/tumu",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 6,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
@@ -646,7 +614,7 @@
    "tur": "kultur",
    "url": "https://diyarbakir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

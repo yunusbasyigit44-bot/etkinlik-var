@@ -1,5 +1,37 @@
 [
  {
+  "id": "88b2286714ae",
+  "baslik": "Narnia Günlükleri - Aslan, Cadı ve Dolap",
+  "tarih": "2026-11-08",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Selçuklu",
+  "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanatkonya.com/etkinlikler/narnia-gunlukleri-aslan-cadi-ve-dolap/438",
+  "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/6TepHQzXi6VI1DNDtStZvN6yS99vrmzr.jpeg"
+ },
+ {
+  "id": "481ceb016203",
+  "baslik": "Şehir Konferansları - Kadınhanı",
+  "tarih": "2026-11-08",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Selçuklu",
+  "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-kadinhani/1338",
+  "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/i0SqBQOC-hEr4DHOsTJe9cK4JMYNs4f2.jpeg"
+ },
+ {
   "id": "3ac58185857b",
   "baslik": "Esas Misafir",
   "tarih": "2026-11-07",

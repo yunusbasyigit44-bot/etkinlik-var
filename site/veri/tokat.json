@@ -1,6 +1,6 @@
 {
  "il": "tokat",
- "guncelleme": "2026-11-08T14:06+03:00",
+ "guncelleme": "2026-11-09T14:15+03:00",
  "ilceler": [
   "Merkez",
   "Almus",
@@ -16,22 +16,6 @@
   "Zile"
  ],
  "etkinlikler": [
-  {
-   "id": "9258275a3979",
-   "baslik": "Çark Dönerken Eserini Üret!",
-   "tarih": "2026-11-08",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Tokat Belediyesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tokat Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.tokat.bel.tr/etkinlikler/cark-donerken-eserini-uret",
-   "gorsel": "https://assets.tokat.bel.tr/tokatbld/events/1793869415187-1a27b68a0dc7afbe.webp"
-  },
   {
    "id": "e0cf63ba3c42",
    "baslik": "10 Kasım Atatürk'ü Anma Programları",
@@ -70,7 +54,7 @@
    "ad": "Tokat Belediyesi",
    "tur": "belediye",
    "url": "https://www.tokat.bel.tr/",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {
@@ -78,7 +62,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Erbaa, Niksar, Turhal, Zile belediyeleri",
@@ -120,7 +104,7 @@
    "tur": "kultur",
    "url": "https://tokat.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yıllık festivaller (Tokat Yaz Festivali, Niksar Kültür ve Turizm, Zile Pekmez…)",

@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-08T13:07+03:00",
+ "guncelleme": "2026-11-09T13:55+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -16,22 +16,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "32422538cefe",
-   "baslik": "Kent Belleğinde Yaratıcı Buluşma",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Burdur Kent Belleği Evi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13589/1/kent-belleginde-yaratici-bulusma",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13589/4_13589_2026-11-07-14-47-05-876051_thumb.webp"
-  },
-  {
    "id": "e721a4192c82",
    "baslik": "Zamanın içinde 65yaşında ben",
    "tarih": "2026-11-09",
@@ -46,6 +30,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13569/1/zamanin-icinde-65yasinda-ben",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13569/4_13569_2026-11-02-13-46-25-37849_thumb.webp"
+  },
+  {
+   "id": "ecf7c6fe206c",
+   "baslik": "Acil Tıpta Eğitim Günleri-2 Nöroloji ve Kardiyoloji Eğitimi",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Merkez",
+   "mekan": "Prof. Dr. İlhan Varank Kütüphanesi Konferans Salonları",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13593/1/acil-tipta-egitim-gunleri-2-noroloji-ve-kardiyoloji-egitimi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13593/4_13593_2026-11-09-07-50-48-551196_thumb.webp"
   },
   {
    "id": "a54d3bb79921",
@@ -153,14 +153,14 @@
    "tur": "kultur",
    "url": "https://burdur.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

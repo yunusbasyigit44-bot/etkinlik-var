@@ -1,6 +1,6 @@
 {
  "il": "zonguldak",
- "guncelleme": "2026-11-08T14:14+03:00",
+ "guncelleme": "2026-11-09T14:17+03:00",
  "ilceler": [
   "Merkez",
   "Alaplı",
@@ -18,7 +18,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -74,7 +74,7 @@
    "tur": "kultur",
    "url": "https://zonguldak.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "etkinlik.io (konser, sahne, festival)",

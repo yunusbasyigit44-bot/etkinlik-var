@@ -1,5 +1,21 @@
 [
  {
+  "id": "b58455de858f",
+  "baslik": "Bencil Dev",
+  "tarih": "2026-11-08",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Osmangazi",
+  "mekan": "Ahmet Vefik Paşa Sahnesi",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bencil-dev",
+  "gorsel": null
+ },
+ {
   "id": "e4a3c94f93b2",
   "baslik": "Yaratıcı Kodlama",
   "tarih": "2026-11-07",

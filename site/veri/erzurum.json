@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-08T13:19+03:00",
+ "guncelleme": "2026-11-09T13:58+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -119,6 +119,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/delikburunlular-kabilesi",
    "gorsel": "veri/gorsel/dt-delikburunlular-kabilesi.webp"
+  },
+  {
+   "id": "d821484c1ae7",
+   "baslik": "Yükseköğretimde Yeni Eğilimler, Etkili Uygulamalar ve Zorluklar",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Yakutiye",
+   "mekan": "Atatürk Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Atatürk Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://atauni.edu.tr/etkinlik/yuksekogretimde-yeni-egilimler-etkili-uygulamalar-ve-zorluklar/",
+   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/yuksek-762x1024.jpeg"
   },
   {
    "id": "9df51a4ff4bf",
@@ -495,13 +511,13 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 17,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "durum": "çalışıyor"
   },
   {
    "ad": "Atatürk Üniversitesi",
    "tur": "universite",
    "url": "https://atauni.edu.tr/tum-etkinlikler/",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {
@@ -530,7 +546,7 @@
    "tur": "kultur",
    "url": "https://erzurum.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

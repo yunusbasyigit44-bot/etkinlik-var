@@ -1,5 +1,37 @@
 [
  {
+  "id": "145a9b4a27d4",
+  "baslik": "Yaşam Döngüsü",
+  "tarih": "2026-11-08",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Çankaya",
+  "mekan": "Şinasi Sahnesi",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yasam-dongusu",
+  "gorsel": null
+ },
+ {
+  "id": "16b49bcde904",
+  "baslik": "Aşık Veysel",
+  "tarih": "2026-11-08",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Çankaya",
+  "mekan": "Büyük Tiyatro",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/asik-veysel",
+  "gorsel": null
+ },
+ {
   "id": "d8136ffd1133",
   "baslik": "Çocuklar için Müzik ve Opera",
   "tarih": "2026-11-07",

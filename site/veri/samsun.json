@@ -1,6 +1,6 @@
 {
  "il": "samsun",
- "guncelleme": "2026-11-08T13:59+03:00",
+ "guncelleme": "2026-11-09T14:12+03:00",
  "ilceler": [
   "Atakum",
   "Canik",
@@ -252,7 +252,7 @@
    "tur": "kultur",
    "url": "https://apimain.operabale.gov.tr/v1/web/temsil/mudurluk/listele/6",
    "etkinlik_sayisi": 8,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "durum": "çalışıyor"
   },
   {
    "ad": "Ondokuz Mayıs Üniversitesi",
@@ -273,7 +273,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -322,7 +322,7 @@
    "tur": "kultur",
    "url": "https://samsun.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yıllık festivaller (Samsun Kültür Yolu, Uluslararası Samsun Tiyatro, Bafra Balık…)",

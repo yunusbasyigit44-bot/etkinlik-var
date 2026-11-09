@@ -1,5 +1,21 @@
 [
  {
+  "id": "dae2055527e8",
+  "baslik": "Alacalı Şemsiye",
+  "tarih": "2026-11-08",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Kayapınar",
+  "mekan": "Kayapınar Kültür Merkezi Sahnesi",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/alacali-semsiye",
+  "gorsel": null
+ },
+ {
   "id": "d3cd5229da90",
   "baslik": "Biz Size Hayranız",
   "tarih": "2026-11-07",
@@ -78,6 +94,22 @@
   "kaynak_tur": "universite",
   "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/dicle%E2%80%99den-meric%E2%80%99e-akademi-turkiye-lisansustu-dersleri-12972",
   "gorsel": "https://www.dicle.edu.tr/contents/events/photos/83a8ca75-b21b-4acc-93da-42f5b98366bf/ss_thumb_329f838eb4194aa8935fc8655b71f246_IMG-20261023-WA0006.jpg"
+ },
+ {
+  "id": "d7697eabdc82",
+  "baslik": "Ateec 2026",
+  "tarih": "2026-11-06",
+  "bitis": "2026-11-08",
+  "saat": null,
+  "ilce": "Sur",
+  "mekan": "Dicle Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Dicle Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/ateec-2026-11870",
+  "gorsel": "https://www.dicle.edu.tr/contents/events/photos/607925a4-d73e-4c5d-b531-955c8a285a3a/ss_thumb_55a249fb524a4aa5aa6bc109b069a1fb_IMG-20260815-WA0000.jpg"
  },
  {
   "id": "1b3c294d16d0",

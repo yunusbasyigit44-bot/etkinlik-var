@@ -1,6 +1,6 @@
 {
  "il": "erzincan",
- "guncelleme": "2026-11-08T13:18+03:00",
+ "guncelleme": "2026-11-09T13:58+03:00",
  "ilceler": [
   "Merkez",
   "Çayırlı",
@@ -13,22 +13,6 @@
   "Üzümlü"
  ],
  "etkinlikler": [
-  {
-   "id": "af65955dfaed",
-   "baslik": "“Din Dili ve Gençlik” Sempozyumu",
-   "tarih": "2026-11-07",
-   "bitis": "2026-11-08",
-   "saat": "08:00",
-   "ilce": "Merkez",
-   "mekan": "Online",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": "Online Etkinlik",
-   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://ebyu.edu.tr/etkinlik/din-dili-ve-genclik-sempozyumu/",
-   "gorsel": null
-  },
   {
    "id": "f13561030603",
    "baslik": "Bozkırın Kızlarından Küresel Liderlere Türk Dünyasının Kadın Liderleri Kongresi",
@@ -83,7 +67,7 @@
    "ad": "Erzincan Binali Yıldırım Üniversitesi",
    "tur": "universite",
    "url": "https://ebyu.edu.tr/etkinlik/?ical=1",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {
@@ -98,7 +82,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Erzincan Belediyesi",
@@ -119,7 +103,7 @@
    "tur": "kultur",
    "url": "https://erzincan.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",
