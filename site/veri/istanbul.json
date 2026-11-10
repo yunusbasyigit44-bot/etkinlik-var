@@ -1,6 +1,6 @@
 {
  "il": "istanbul",
- "guncelleme": "2026-11-09T14:03+03:00",
+ "guncelleme": "2026-11-10T13:56+03:00",
  "ilceler": [
   "Adalar",
   "Arnavutköy",
@@ -90,22 +90,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/ayni-sehir-farkli-renkler-7-20-11-26",
    "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/ayni-sehir-farkli-renkler-1d1f7fe7-6a05-4b8e-aeab-4828a0bc81ef.jpg"
-  },
-  {
-   "id": "25049172539b",
-   "baslik": "Çok Küçük Bir İhtimalin Hikayesi",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": "20:30",
-   "ilce": "Kadıköy",
-   "mekan": "Alan Kadıköy",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Pulitzer Drama Ödüllü oyun \"Çok Küçük Bir İhtimalin Hikayesi\" bireysel yalnızlığın içinden geçen kırılgan hayatlara, küçük bir olasılık da olsa yeniden başlama cesaretini fısıldıyor ve seyirciyi bu duygunun ortağı olmaya…",
-   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/cok-kucuk-bir-ihtimalin-hikayesi-9-11-26",
-   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/cok-kucuk-bir-ihtimalin-hikayesi-77200625-2368-4ac9-83a8-31163436eabf.jpg"
   },
   {
    "id": "c1feba105800",
@@ -364,6 +348,22 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/6331fbdb8b9f46a88efffe4d4ca01221.jpg"
   },
   {
+   "id": "5d10f0737a41",
+   "baslik": "Saat 10’da Rosaura",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Kadıköy",
+   "mekan": "Sinematek/Sinema Evi",
+   "kategori": "Sinema",
+   "ucretsiz": true,
+   "ozet": "Genellikle Orson Welles’in Yurttaş Kane ve Akira Kurosawa’nın Rashomon adlı filmleriyle beraber anılan, gizemini son dakikasına kadar koruyan Saat 10’da Rosaura, yönetmeni Mario Soffici’nin ustalık dönemi filmlerinden bi…",
+   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/saat-10da-rosaura-11-11-26",
+   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/saat-10da-rosaura-088399c1-8bfa-4ded-8fc8-14662d775e89.jpg"
+  },
+  {
    "id": "336035cc46de",
    "baslik": "ADK İstanbul Gençlik Quartet",
    "tarih": "2026-11-11",
@@ -572,20 +572,20 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/6331fbdb8b9f46a88efffe4d4ca01221.jpg"
   },
   {
-   "id": "4e9413b047af",
-   "baslik": "Kadıköy Belediyesi Çocuk Sanat Merkezi Resitalleri",
+   "id": "49aac4d433e7",
+   "baslik": "Nefesin Rengi Tuşun Ateşi",
    "tarih": "2026-11-12",
    "bitis": null,
    "saat": "20:00",
    "ilce": "Kadıköy",
-   "mekan": "Yeldeğirmeni Sanat",
-   "kategori": "Çocuk",
+   "mekan": "Süreyya Operası",
+   "kategori": "Konser",
    "ucretsiz": true,
-   "ozet": "Yeldeğirmeni Sanat’ta gerçekleşecek bu resital gecesinde Kadıköy Belediyesi Çocuk Sanat Merkezi öğrencileri, öğretmenleriyle birlikte geniş bir repertuarla dinleyicilerinin karşısına çıkacak.",
+   "ozet": "Klasik formların sınırlarını aşan, dünya ve Türkiye prömiyerlerine ev sahipliği yapan bu özel seçki, müzikseverlere sadece bir konser değil, kulaklarda iz bırakacak cüretkar bir işitsel deneyim vadediyor.",
    "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/kadikoy-belediyesi-cocuk-sanat-merkezi-resitalleri-12-11-26",
-   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/kadikoy-belediyesi-cocuk-sanat-merkezi-resitalleri-1a6cd58d-e828-482b-903a-19314ca872a7.jpg"
+   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/nefesin-rengi-tusun-atesi-12-11-26",
+   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/nefesin-rengi-tusun-atesi-39217721-81fe-4130-a6f7-6fbdfc8d33b2.jpg"
   },
   {
    "id": "9a2b391b7caf",
@@ -618,6 +618,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/misafir-",
    "gorsel": "veri/gorsel/dt-misafir-.webp"
+  },
+  {
+   "id": "9f5d7d99035d",
+   "baslik": "Akademik Kariyerde Proje Yazarlığı: TÜBİTAK Projelerine 3501 ile Adım Atmak",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Sarıyer",
+   "mekan": "İstanbul Teknik Üniversitesi",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "İstanbul Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.itu.edu.tr/EtkinlikDetay.aspx?etkinlik=2670",
+   "gorsel": "https://etkinlik.itu.edu.tr/uploads/etkinlik/a63af81b-75f6-4ba2-9696-0dbed8c74aa3.jpg"
   },
   {
    "id": "f2daef238a15",
@@ -1645,7 +1661,7 @@
    "ad": "İstanbul Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.itu.edu.tr",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

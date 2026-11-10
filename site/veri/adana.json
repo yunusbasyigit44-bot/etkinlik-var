@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-09T13:51+03:00",
+ "guncelleme": "2026-11-10T13:44+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -19,38 +19,6 @@
   "Yüreğir"
  ],
  "etkinlikler": [
-  {
-   "id": "327f31d86b19",
-   "baslik": "Stres Yönetimi ve Motivasyon",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Sarıçam",
-   "mekan": "ATÜ İİSBF Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Etkinlik",
-   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/021120261331_K_471_ae59bd8b-95e4-4181-bdf3-7e2a1c7aa8ec.jpg"
-  },
-  {
-   "id": "dd0e9e9ddc85",
-   "baslik": "Beni Bu Güzel Havalar Mahvetti",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": "Gaziantep Büyükşehir Belediyesi Şehir Tiyatrosu",
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1788779342_d33629b77ab5f5dc08af.jpeg"
-  },
   {
    "id": "31ff99446938",
    "baslik": "10 Kasım Atatürk'ü Anma Töreni",
@@ -98,6 +66,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1786723237_ddec5eed1ee80b70c490.jpeg"
+  },
+  {
+   "id": "d894fc6f3c44",
+   "baslik": "i-Rec 2027 Uluslararası Fotoğraf Yarışması ve Sergisi",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "online",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": "Etkinlik",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/101120261144_K_226_5c5ca7eb-191a-4fed-b68b-152bae73094a.png"
   },
   {
    "id": "a1b86e0fcd31",
@@ -178,6 +162,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.cu.edu.tr/haber-detay/ataturk-u-anma-programi/",
    "gorsel": "https://www.cu.edu.tr/media/tj0fubiw/amiral.jpeg"
+  },
+  {
+   "id": "e041a1d1b6a1",
+   "baslik": "Türk Dünyası Kültür Köprüsü",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "Çukurova Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çukurova Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cu.edu.tr/haber-detay/turk-dunyasi-kultur-koprusu/",
+   "gorsel": "https://www.cu.edu.tr/media/zcfpdsnp/tu-rk-du-nyası-paneli-afis-i.jpg"
   },
   {
    "id": "7c3d08de103c",
@@ -706,22 +706,6 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
    "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
-  },
-  {
-   "id": "90fa325f8eed",
-   "baslik": "18. Mesleki ve Teknik Bilimler Kongresi",
-   "tarih": "2026-12-18",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Sarıçam",
-   "mekan": "Çukurova Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çukurova Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cu.edu.tr/haber-detay/18-mesleki-ve-teknik-bilimler-kongresi/",
-   "gorsel": "https://www.cu.edu.tr/media/akpofdix/kongres.jpeg"
   }
  ],
  "kaynaklar": [
@@ -740,16 +724,16 @@
    "durum": "çalışıyor"
   },
   {
-   "ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "tur": "belediye",
-   "url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 5,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
+   "etkinlik_sayisi": 4,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Adana Büyükşehir Şehir Tiyatrosu",
+   "tur": "belediye",
+   "url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
    "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },

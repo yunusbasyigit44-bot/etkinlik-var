@@ -1,5 +1,37 @@
 [
  {
+  "id": "ce7c648365cf",
+  "baslik": "Fareler ve İnsanlar",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Bornova",
+  "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareler-ve-insanlar",
+  "gorsel": null
+ },
+ {
+  "id": "e451210c6e60",
+  "baslik": "Aziz Vukolos'ta Akustik Günler",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Konak",
+  "mekan": "Aziz Vukolos Kilisesi Kültür Merkezi (Ayavukla Kilisesi)",
+  "kategori": "Konser",
+  "ucretsiz": null,
+  "ozet": null,
+  "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+  "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-19/cde43c26-b840-465f-b558-f809582f0c80-35133euh.jpg"
+ },
+ {
   "id": "fa24415df58c",
   "baslik": "Kırmızı Kanatlı Baykuş",
   "tarih": "2026-11-08",

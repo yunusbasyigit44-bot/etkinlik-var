@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-09T13:54+03:00",
+ "guncelleme": "2026-11-10T13:46+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -101,6 +101,38 @@
    "kaynak_ad": "Antalya Bilim Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/gohca-5-kuresel-agiz-sagligi-ve-iklim-eylemi-konferansi",
+   "gorsel": null
+  },
+  {
+   "id": "880dd44a0875",
+   "baslik": "10 Kasım Saygı Duruşu ve Anma Programı",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "09:05",
+   "ilce": "Döşemealtı",
+   "mekan": "Antalya Bilim Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/10-kasim-saygi-durusu-ve-anma-programi",
+   "gorsel": null
+  },
+  {
+   "id": "e216f8c7e146",
+   "baslik": "Dünya Radyoloji Günü",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Döşemealtı",
+   "mekan": "Antalya Bilim Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/dunya-radyoloji-gunu",
    "gorsel": null
   },
   {
@@ -422,6 +454,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/cello-yildizlari-antalya-dob",
    "gorsel": "veri/gorsel/dob-5-3302.webp"
+  },
+  {
+   "id": "7b4ed9aa1a4d",
+   "baslik": "Organ Nakli ve Organ Bağışı Konferansı",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Döşemealtı",
+   "mekan": "Antalya Bilim Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/organ-nakli-ve-organ-bagisi-konferansi-2",
+   "gorsel": null
   },
   {
    "id": "f25f0de5bcef",
@@ -804,7 +852,7 @@
    "ad": "Antalya Bilim Üniversitesi",
    "tur": "universite",
    "url": "https://www.antalya.edu.tr/tr/etkinlik-takvimi",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {

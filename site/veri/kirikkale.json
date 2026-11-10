@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-09T14:17+03:00",
+ "guncelleme": "2026-11-10T14:09+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -13,6 +13,22 @@
   "Yahşihan"
  ],
  "etkinlikler": [
+  {
+   "id": "04c0a0abfb0f",
+   "baslik": "Geleceğe Nefes Dünyaya Barış",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10078",
+   "gorsel": null
+  },
   {
    "id": "a8a8e7783918",
    "baslik": "14 Kasım Dünya Diyabet Günü Paneli",
@@ -51,7 +67,7 @@
    "ad": "Kırıkkale Üniversitesi",
    "tur": "universite",
    "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

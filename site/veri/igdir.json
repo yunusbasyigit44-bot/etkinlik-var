@@ -1,6 +1,6 @@
 {
  "il": "igdir",
- "guncelleme": "2026-11-09T14:18+03:00",
+ "guncelleme": "2026-11-10T14:10+03:00",
  "ilceler": [
   "Merkez",
   "Aralık",
@@ -23,6 +23,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/10-kasm-ataturk-u-anma-gunu-panel-anma-konseri-38/register",
    "gorsel": "https://www.igdir.edu.tr/web/image/56868-b0804e42/1.jfif"
+  },
+  {
+   "id": "114cf5df041e",
+   "baslik": "\"Kadına Yönelik Şiddetle Mücadelede Toplumsal Cinsiyet Eşitliği: Önleme, Farkındalık ve Dönüştürücü Yaklaşımlar\" Online Semineri",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Iğdır Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Iğdır Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/kadna-yonelik-siddetle-mucadelede-toplumsal-cinsiyet-esitligi-onleme-farkndalk-ve-donusturucu-yaklasmlar-online-semineri-39/register",
+   "gorsel": "https://www.igdir.edu.tr/web/image/56905-c84a430c/1.jfif"
   }
  ],
  "kaynaklar": [
@@ -30,7 +46,7 @@
    "ad": "Iğdır Üniversitesi",
    "tur": "universite",
    "url": "https://www.igdir.edu.tr/events/",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-11-09T14:05+03:00",
+ "guncelleme": "2026-11-10T13:58+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -179,38 +179,6 @@
    "gorsel": "https://www.konak.bel.tr/upload/activity/9dccf9bd-fe3e-4949-9403-e18f613830e7_6adf35065a7b6.jpg"
   },
   {
-   "id": "ce7c648365cf",
-   "baslik": "Fareler ve İnsanlar",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareler-ve-insanlar",
-   "gorsel": "veri/gorsel/dt-fareler-ve-insanlar.jpg"
-  },
-  {
-   "id": "e451210c6e60",
-   "baslik": "Aziz Vukolos'ta Akustik Günler",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Konak",
-   "mekan": "Aziz Vukolos Kilisesi Kültür Merkezi (Ayavukla Kilisesi)",
-   "kategori": "Konser",
-   "ucretsiz": null,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-19/cde43c26-b840-465f-b558-f809582f0c80-35133euh.jpg"
-  },
-  {
    "id": "92e63f75c2ac",
    "baslik": "Aziz Vukolos'ta Akustik Türk Müziği Konserleri",
    "tarih": "2026-11-10",
@@ -227,20 +195,20 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-15/9fdca017-d5c1-4dc7-8ee9-d71c6a2a54bb-dqpjs2x1.jpg"
   },
   {
-   "id": "f6238f7b53bd",
-   "baslik": "Atatürk'ün Sevdiği Şarkılar Konseri",
+   "id": "6a9caf0d3ef1",
+   "baslik": "Hayâl-i Temsil",
    "tarih": "2026-11-10",
    "bitis": null,
    "saat": "20:00",
-   "ilce": "Tire",
-   "mekan": "Tire Belediyesi Kültür Salonu",
-   "kategori": "Konser",
-   "ucretsiz": null,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-05/7c33a001-29e4-4913-9305-16742e484a0e-jqrfrhbs.jpg"
+   "ilce": "Karşıyaka",
+   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hayal-i-temsil",
+   "gorsel": "veri/gorsel/dt-hayal-i-temsil.jpg"
   },
   {
    "id": "4edbbb09af34",
@@ -257,22 +225,6 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareler-ve-insanlar",
    "gorsel": "veri/gorsel/dt-fareler-ve-insanlar.jpg"
-  },
-  {
-   "id": "6a9caf0d3ef1",
-   "baslik": "Hayâl-i Temsil",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hayal-i-temsil",
-   "gorsel": "veri/gorsel/dt-hayal-i-temsil.jpg"
   },
   {
    "id": "25d8d27a237b",
@@ -323,6 +275,22 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-21/b1c8cd5e-c389-42f3-ad43-7f9ee10f1588-gahcjuxs.jpg"
   },
   {
+   "id": "f23a6d3c0e17",
+   "baslik": "Hayâl-i Temsil",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Karşıyaka",
+   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hayal-i-temsil",
+   "gorsel": "veri/gorsel/dt-hayal-i-temsil.jpg"
+  },
+  {
    "id": "76d6561107e7",
    "baslik": "Fareler ve İnsanlar",
    "tarih": "2026-11-11",
@@ -339,20 +307,20 @@
    "gorsel": "veri/gorsel/dt-fareler-ve-insanlar.jpg"
   },
   {
-   "id": "f23a6d3c0e17",
-   "baslik": "Hayâl-i Temsil",
-   "tarih": "2026-11-11",
+   "id": "34111caf4588",
+   "baslik": "''Nazım Aramızda'' Belgesel Gösterimi ve Yönetmen ile Söyleşi",
+   "tarih": "2026-11-12",
    "bitis": null,
-   "saat": "20:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
+   "saat": "19:00",
+   "ilce": "Konak",
+   "mekan": "Kültürpark Atlas Pavyonu",
    "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hayal-i-temsil",
-   "gorsel": "veri/gorsel/dt-hayal-i-temsil.jpg"
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-09/c8e348f8-cdf5-40de-ab63-1d83448efd95-g5qnfeja.jpeg"
   },
   {
    "id": "5dc77dd9abff",
@@ -403,22 +371,6 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-04-07/8ec8a040-119b-4ce6-ae8f-9c7e00484cc7-brtod2zv.jpeg"
   },
   {
-   "id": "bdaa9f0a553c",
-   "baslik": "Fareler ve İnsanlar",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareler-ve-insanlar",
-   "gorsel": "veri/gorsel/dt-fareler-ve-insanlar.jpg"
-  },
-  {
    "id": "c27f0741b169",
    "baslik": "Hayâl-i Temsil",
    "tarih": "2026-11-12",
@@ -433,6 +385,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hayal-i-temsil",
    "gorsel": "veri/gorsel/dt-hayal-i-temsil.jpg"
+  },
+  {
+   "id": "bdaa9f0a553c",
+   "baslik": "Fareler ve İnsanlar",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareler-ve-insanlar",
+   "gorsel": "veri/gorsel/dt-fareler-ve-insanlar.jpg"
   },
   {
    "id": "790d79d203ef",
@@ -467,22 +435,6 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-04-07/8ec8a040-119b-4ce6-ae8f-9c7e00484cc7-brtod2zv.jpeg"
   },
   {
-   "id": "2e3bc2c2995c",
-   "baslik": "Fareler ve İnsanlar",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareler-ve-insanlar",
-   "gorsel": "veri/gorsel/dt-fareler-ve-insanlar.jpg"
-  },
-  {
    "id": "82a268b15183",
    "baslik": "Hayâl-i Temsil",
    "tarih": "2026-11-13",
@@ -497,6 +449,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hayal-i-temsil",
    "gorsel": "veri/gorsel/dt-hayal-i-temsil.jpg"
+  },
+  {
+   "id": "2e3bc2c2995c",
+   "baslik": "Fareler ve İnsanlar",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareler-ve-insanlar",
+   "gorsel": "veri/gorsel/dt-fareler-ve-insanlar.jpg"
   },
   {
    "id": "72fe7729487e",
@@ -531,22 +499,6 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-05/19568c31-f692-4cdc-aa39-56c56e1e0c84-ejxdbi33.jpeg"
   },
   {
-   "id": "7a6f8fb2f430",
-   "baslik": "Fareler ve İnsanlar",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareler-ve-insanlar",
-   "gorsel": "veri/gorsel/dt-fareler-ve-insanlar.jpg"
-  },
-  {
    "id": "8892d6c024b2",
    "baslik": "Hayâl-i Temsil",
    "tarih": "2026-11-14",
@@ -561,6 +513,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hayal-i-temsil",
    "gorsel": "veri/gorsel/dt-hayal-i-temsil.jpg"
+  },
+  {
+   "id": "7a6f8fb2f430",
+   "baslik": "Fareler ve İnsanlar",
+   "tarih": "2026-11-14",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareler-ve-insanlar",
+   "gorsel": "veri/gorsel/dt-fareler-ve-insanlar.jpg"
   },
   {
    "id": "846a420a49d9",
@@ -611,22 +579,6 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-04-07/8ec8a040-119b-4ce6-ae8f-9c7e00484cc7-brtod2zv.jpeg"
   },
   {
-   "id": "1274867d323a",
-   "baslik": "Fareler ve İnsanlar",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareler-ve-insanlar",
-   "gorsel": "veri/gorsel/dt-fareler-ve-insanlar.jpg"
-  },
-  {
    "id": "f99b0a94ba2d",
    "baslik": "Hayâl-i Temsil",
    "tarih": "2026-11-14",
@@ -641,6 +593,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hayal-i-temsil",
    "gorsel": "veri/gorsel/dt-hayal-i-temsil.jpg"
+  },
+  {
+   "id": "1274867d323a",
+   "baslik": "Fareler ve İnsanlar",
+   "tarih": "2026-11-14",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareler-ve-insanlar",
+   "gorsel": "veri/gorsel/dt-fareler-ve-insanlar.jpg"
   },
   {
    "id": "4586638ac835",
@@ -771,22 +739,6 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-05/2a322b6a-f6b0-4e51-a13c-8aeb4913bd1c-obwwo12k.jpg"
   },
   {
-   "id": "8c250e688f4d",
-   "baslik": "İki Yeşil Susamuru",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-yesil-susamuru",
-   "gorsel": "veri/gorsel/dt-iki-yesil-susamuru.jpg"
-  },
-  {
    "id": "0610ab81da31",
    "baslik": "Rüstemoğlu Cemal'in Tuhaf Hikâyesi",
    "tarih": "2026-11-17",
@@ -801,6 +753,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/rustemoglu-cemalin-tuhaf-hikayesi",
    "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
+  },
+  {
+   "id": "8c250e688f4d",
+   "baslik": "İki Yeşil Susamuru",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-yesil-susamuru",
+   "gorsel": "veri/gorsel/dt-iki-yesil-susamuru.jpg"
   },
   {
    "id": "fbeb864462fe",
@@ -851,22 +819,6 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-15/01cf102d-9871-4079-9ffb-616358858c0c-2fy1mhvf.jpg"
   },
   {
-   "id": "eb125d514e6a",
-   "baslik": "İki Yeşil Susamuru",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-yesil-susamuru",
-   "gorsel": "veri/gorsel/dt-iki-yesil-susamuru.jpg"
-  },
-  {
    "id": "b124d2983740",
    "baslik": "Rüstemoğlu Cemal'in Tuhaf Hikâyesi",
    "tarih": "2026-11-18",
@@ -881,6 +833,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/rustemoglu-cemalin-tuhaf-hikayesi",
    "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
+  },
+  {
+   "id": "eb125d514e6a",
+   "baslik": "İki Yeşil Susamuru",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-yesil-susamuru",
+   "gorsel": "veri/gorsel/dt-iki-yesil-susamuru.jpg"
   },
   {
    "id": "9faba185b8f5",
@@ -899,22 +867,6 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-22/6d41da70-3ff4-4293-ba26-b98cfb7df313-3h5nznsy.jpeg"
   },
   {
-   "id": "7fe998632ccf",
-   "baslik": "İki Yeşil Susamuru",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-yesil-susamuru",
-   "gorsel": "veri/gorsel/dt-iki-yesil-susamuru.jpg"
-  },
-  {
    "id": "dd1043148e0d",
    "baslik": "Rüstemoğlu Cemal'in Tuhaf Hikâyesi",
    "tarih": "2026-11-19",
@@ -931,9 +883,9 @@
    "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
   },
   {
-   "id": "5dc53290013b",
+   "id": "7fe998632ccf",
    "baslik": "İki Yeşil Susamuru",
-   "tarih": "2026-11-20",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": "20:00",
    "ilce": "Bornova",
@@ -961,6 +913,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/rustemoglu-cemalin-tuhaf-hikayesi",
    "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
+  },
+  {
+   "id": "5dc53290013b",
+   "baslik": "İki Yeşil Susamuru",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-yesil-susamuru",
+   "gorsel": "veri/gorsel/dt-iki-yesil-susamuru.jpg"
   },
   {
    "id": "af58619fbd69",
@@ -1011,22 +979,6 @@
    "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
   },
   {
-   "id": "167d75f807a3",
-   "baslik": "İki Yeşil Susamuru",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-yesil-susamuru",
-   "gorsel": "veri/gorsel/dt-iki-yesil-susamuru.jpg"
-  },
-  {
    "id": "99b578eab68a",
    "baslik": "Rüstemoğlu Cemal'in Tuhaf Hikâyesi",
    "tarih": "2026-11-21",
@@ -1041,6 +993,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/rustemoglu-cemalin-tuhaf-hikayesi",
    "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
+  },
+  {
+   "id": "167d75f807a3",
+   "baslik": "İki Yeşil Susamuru",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-yesil-susamuru",
+   "gorsel": "veri/gorsel/dt-iki-yesil-susamuru.jpg"
   },
   {
    "id": "af9290cc4870",
@@ -1059,22 +1027,6 @@
    "gorsel": "veri/gorsel/dt-kirmizi-kanatli-baykus.jpg"
   },
   {
-   "id": "8a808c0bd69b",
-   "baslik": "Yuko",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yuko",
-   "gorsel": "veri/gorsel/dt-yuko.jpg"
-  },
-  {
    "id": "816f5dbf0ab8",
    "baslik": "Otobüs Durağında Üç Bencil",
    "tarih": "2026-11-22",
@@ -1089,6 +1041,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/otobus-duraginda-uc-bencil",
    "gorsel": "veri/gorsel/dt-otobus-duraginda-uc-bencil.jpg"
+  },
+  {
+   "id": "8a808c0bd69b",
+   "baslik": "Yuko",
+   "tarih": "2026-11-22",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yuko",
+   "gorsel": "veri/gorsel/dt-yuko.jpg"
   },
   {
    "id": "c5e986dc05ff",
@@ -1139,22 +1107,6 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-15/6e95ac9c-cd29-4e93-986c-90e0b00329b8-hzqjlj3i.jpg"
   },
   {
-   "id": "c202ed7f94bb",
-   "baslik": "Bağdat Rüzgarında Dokuz Kadın",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bagdat-ruzgarinda-dokuz-kadin",
-   "gorsel": "veri/gorsel/dt-bagdat-ruzgarinda-dokuz-kadin.webp"
-  },
-  {
    "id": "c43939ecd4d0",
    "baslik": "Kurtlar Sofrası",
    "tarih": "2026-11-24",
@@ -1169,6 +1121,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
    "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+  },
+  {
+   "id": "c202ed7f94bb",
+   "baslik": "Bağdat Rüzgarında Dokuz Kadın",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bagdat-ruzgarinda-dokuz-kadin",
+   "gorsel": "veri/gorsel/dt-bagdat-ruzgarinda-dokuz-kadin.webp"
   },
   {
    "id": "aff0d51bfff4",
@@ -1187,22 +1155,6 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-05/589789e2-aca8-402f-ad0c-f012eec7f095-i1rghpwn.jpeg"
   },
   {
-   "id": "5250d29b7f5e",
-   "baslik": "Bağdat Rüzgarında Dokuz Kadın",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bagdat-ruzgarinda-dokuz-kadin",
-   "gorsel": "veri/gorsel/dt-bagdat-ruzgarinda-dokuz-kadin.webp"
-  },
-  {
    "id": "cddf7134ce05",
    "baslik": "Kurtlar Sofrası",
    "tarih": "2026-11-25",
@@ -1217,6 +1169,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
    "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+  },
+  {
+   "id": "5250d29b7f5e",
+   "baslik": "Bağdat Rüzgarında Dokuz Kadın",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bagdat-ruzgarinda-dokuz-kadin",
+   "gorsel": "veri/gorsel/dt-bagdat-ruzgarinda-dokuz-kadin.webp"
   },
   {
    "id": "f04973d59344",
@@ -1235,22 +1203,6 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-22/b819f272-21f1-4522-9a31-9e3a4e04640d-lzzjhfld.jpeg"
   },
   {
-   "id": "b17de5621b39",
-   "baslik": "Bağdat Rüzgarında Dokuz Kadın",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bagdat-ruzgarinda-dokuz-kadin",
-   "gorsel": "veri/gorsel/dt-bagdat-ruzgarinda-dokuz-kadin.webp"
-  },
-  {
    "id": "ea6b8d198968",
    "baslik": "Kurtlar Sofrası",
    "tarih": "2026-11-26",
@@ -1265,6 +1217,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
    "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+  },
+  {
+   "id": "b17de5621b39",
+   "baslik": "Bağdat Rüzgarında Dokuz Kadın",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bagdat-ruzgarinda-dokuz-kadin",
+   "gorsel": "veri/gorsel/dt-bagdat-ruzgarinda-dokuz-kadin.webp"
   },
   {
    "id": "a6ac3040b1ca",
@@ -1315,22 +1283,6 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-22/ad99ebda-6d89-42aa-9852-9746a5633a77-fo5khebf.jpeg"
   },
   {
-   "id": "2dfd79d3ccad",
-   "baslik": "Bağdat Rüzgarında Dokuz Kadın",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bagdat-ruzgarinda-dokuz-kadin",
-   "gorsel": "veri/gorsel/dt-bagdat-ruzgarinda-dokuz-kadin.webp"
-  },
-  {
    "id": "1969c811d473",
    "baslik": "Kurtlar Sofrası",
    "tarih": "2026-11-27",
@@ -1345,6 +1297,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
    "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+  },
+  {
+   "id": "2dfd79d3ccad",
+   "baslik": "Bağdat Rüzgarında Dokuz Kadın",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bagdat-ruzgarinda-dokuz-kadin",
+   "gorsel": "veri/gorsel/dt-bagdat-ruzgarinda-dokuz-kadin.webp"
   },
   {
    "id": "02f1641270a9",
@@ -1363,22 +1331,6 @@
    "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
   },
   {
-   "id": "b589df4149b6",
-   "baslik": "Bağdat Rüzgarında Dokuz Kadın",
-   "tarih": "2026-11-28",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bagdat-ruzgarinda-dokuz-kadin",
-   "gorsel": "veri/gorsel/dt-bagdat-ruzgarinda-dokuz-kadin.webp"
-  },
-  {
    "id": "64cf0e335085",
    "baslik": "Kurtlar Sofrası",
    "tarih": "2026-11-28",
@@ -1395,11 +1347,11 @@
    "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
   },
   {
-   "id": "000c8ed9c06c",
+   "id": "b589df4149b6",
    "baslik": "Bağdat Rüzgarında Dokuz Kadın",
    "tarih": "2026-11-28",
    "bitis": null,
-   "saat": "20:00",
+   "saat": "15:00",
    "ilce": "Bornova",
    "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
    "kategori": "Tiyatro",
@@ -1425,6 +1377,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
    "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+  },
+  {
+   "id": "000c8ed9c06c",
+   "baslik": "Bağdat Rüzgarında Dokuz Kadın",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bagdat-ruzgarinda-dokuz-kadin",
+   "gorsel": "veri/gorsel/dt-bagdat-ruzgarinda-dokuz-kadin.webp"
   },
   {
    "id": "9d152006314b",
@@ -1592,14 +1560,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 50,
+   "etkinlik_sayisi": 49,
    "durum": "çalışıyor"
   },
   {
    "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "tur": "belediye",
    "url": "https://kultursanat.izmir.bel.tr/",
-   "etkinlik_sayisi": 37,
+   "etkinlik_sayisi": 36,
    "durum": "çalışıyor"
   },
   {

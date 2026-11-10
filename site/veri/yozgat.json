@@ -1,6 +1,6 @@
 {
  "il": "yozgat",
- "guncelleme": "2026-11-09T14:17+03:00",
+ "guncelleme": "2026-11-10T14:08+03:00",
  "ilceler": [
   "Merkez",
   "Akdağmadeni",
@@ -18,6 +18,38 @@
   "Yerköy"
  ],
  "etkinlikler": [
+  {
+   "id": "bd15e580c565",
+   "baslik": "11 Kasım Milli Ağaçlandırma Günü",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4270",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/1ea5ca5f.jpeg"
+  },
+  {
+   "id": "47b94a666a8f",
+   "baslik": "Coffee Talks",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4268",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/c194a856.png"
+  },
   {
    "id": "506504537199",
    "baslik": "Yozgat Lisesi'nden Londra'ya Bir Mekan, Bir Ressam Cemal BİNGÖL",
@@ -88,7 +120,7 @@
    "ad": "Yozgat Bozok Üniversitesi",
    "tur": "universite",
    "url": "https://www.bozok.edu.tr/",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {

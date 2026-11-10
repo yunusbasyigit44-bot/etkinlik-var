@@ -1,5 +1,37 @@
 [
  {
+  "id": "78fdfad8d14f",
+  "baslik": "Balıkesirli Büyük Alim İmam Birgivi'nin İzinde",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Altıeylül",
+  "mekan": "Kuvayi Miliye Müzesi Bahçesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Basin",
+  "kaynak_ad": "Balıkesir Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+  "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_1_1794213339.jpg"
+ },
+ {
+  "id": "e0d35fb4cf73",
+  "baslik": "10 Kasım Atatürk'ü Anma Günü Özel Konseri",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": "14:30",
+  "ilce": "Altıeylül",
+  "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi Şehit Fethi Sekin Konferans Salonu",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": "Sağlik Kültür Ve Spor Daire Başkanliği",
+  "kaynak_ad": "Balıkesir Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+  "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-06_at_15.36.09_1793968800.jpeg"
+ },
+ {
   "id": "00077929927c",
   "baslik": "Konkordato Komiserliği Yenileme Eğitimi",
   "tarih": "2026-11-07",

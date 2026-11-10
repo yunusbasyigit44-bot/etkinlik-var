@@ -1,5 +1,37 @@
 [
  {
+  "id": "fe88db9cbd3f",
+  "baslik": "Deprem Tahliye Egitimi",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": "13:30",
+  "ilce": "Merkez",
+  "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4150",
+  "gorsel": null
+ },
+ {
+  "id": "602c72cebf86",
+  "baslik": "Dental Inovasyon & Run Karaman Etkinligi",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Merkez",
+  "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4149",
+  "gorsel": null
+ },
+ {
   "id": "6112fc2e71e5",
   "baslik": "Konferans ''Organ Nakli Haftasi''",
   "tarih": "2026-11-06",

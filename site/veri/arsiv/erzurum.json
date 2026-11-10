@@ -1,5 +1,37 @@
 [
  {
+  "id": "ec97e747da5d",
+  "baslik": "Delikburunlular Kabilesi",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Yakutiye",
+  "mekan": "Erzurum DT Sahnesi",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/delikburunlular-kabilesi",
+  "gorsel": null
+ },
+ {
+  "id": "896a72008662",
+  "baslik": "Aziziye Zaferi",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Yakutiye",
+  "mekan": "Erzurum Teknik Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Erzurum Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://erzurum.edu.tr/etkinlik/aziziye-zaferi1",
+  "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/9937b9a6-bd23-4f0b-b2ab-e7ff953050e6.webp?width=600&height=749&mode=carve"
+ },
+ {
   "id": "7ae6bc4c95eb",
   "baslik": "Helezon",
   "tarih": "2026-11-07",

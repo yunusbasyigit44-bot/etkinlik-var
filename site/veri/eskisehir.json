@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-09T14:01+03:00",
+ "guncelleme": "2026-11-10T13:54+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -419,6 +419,22 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71ef681702.jpg"
   },
   {
+   "id": "82ba44a39dc5",
+   "baslik": "Mezunumuz Mutfakta",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "12:15",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Yemek",
+   "ucretsiz": true,
+   "ozet": "Söyleşiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/mezunumuz-mutfakta-1794295379",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af2c6368d4ec.jpg"
+  },
+  {
    "id": "92a868ad31c2",
    "baslik": "Rüzgârda Savrulan Yapraklar",
    "tarih": "2026-11-17",
@@ -467,27 +483,11 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8f563fde6.jpg"
   },
   {
-   "id": "156e60a729d5",
-   "baslik": "Turuncu Kurdele Atölyesi Etkinliği",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": "Kampanyalar",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/turuncu-kurdele-atolyesi-etkinligi-1794210702",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17b624f4c5.jpg"
-  },
-  {
-   "id": "58f69b158413",
+   "id": "2ce71301a2af",
    "baslik": "LÖSEV Tanıtım ve Farkındalık Semineri",
    "tarih": "2026-11-18",
    "bitis": null,
-   "saat": "11:30",
+   "saat": "11:00",
    "ilce": "Tepebaşı",
    "mekan": "Anadolu Üniversitesi",
    "kategori": "Söyleşi",
@@ -497,6 +497,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/losev-tanitim-ve-farkindalik-semineri-1794210767",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17bbe4f246.jpg"
+  },
+  {
+   "id": "ea2788173ebf",
+   "baslik": "Turuncu Kurdele Atölyesi Etkinliği",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "11:30",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": "Kampanyalar",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/turuncu-kurdele-atolyesi-etkinligi-1794210702",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17b624f4c5.jpg"
   },
   {
    "id": "e2763711d1cd",
@@ -609,6 +625,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
    "gorsel": null
+  },
+  {
+   "id": "7bb12a3f17ff",
+   "baslik": "Bir İdik Bin Olduk Edebiyat Topluluğu Söyleşisi",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": "Konferanslar",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/bir-idik-bin-olduk-edebiyat-toplulugu-soylesisi-1794295319",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af2c5f3b669e.jpg"
   },
   {
    "id": "4aae59e3b525",
@@ -1171,22 +1203,6 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71bc6665b7.jpg"
   },
   {
-   "id": "a6c05890f564",
-   "baslik": "Tarık Çodri \"Gitar Resitali",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Konser ve Dinletiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/tarik-codri-gitar-resitali-1792482339",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71c059d263.jpg"
-  },
-  {
    "id": "3d2fc0b03178",
    "baslik": "Verimsizler",
    "tarih": "2026-11-27",
@@ -1201,22 +1217,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
    "gorsel": null
-  },
-  {
-   "id": "2cc193965f8f",
-   "baslik": "Kişisel Gelişim Zirvesi",
-   "tarih": "2026-11-28",
-   "bitis": "2026-11-29",
-   "saat": "08:30",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Seminerler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/kisisel-gelisim-zirvesi-1781681697",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a324ddbb8bdd.jpg"
   },
   {
    "id": "2a109ae99af2",

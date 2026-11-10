@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-09T13:52+03:00",
+ "guncelleme": "2026-11-10T13:44+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -53,38 +53,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261027141418_ekimgecidi_afis.jpeg"
-  },
-  {
-   "id": "0b1ca09348c3",
-   "baslik": "Mutfaklarda Atık Yönetimi",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Emirdağ Aile Destek Merkezi",
-   "kategori": "Yemek",
-   "ucretsiz": true,
-   "ozet": "Eğitim Programı · Emi̇rdağ Meslek Yüksekokulu",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261105131955_whatsapp_image_2026-11-05_at_13.07.05.jpeg"
-  },
-  {
-   "id": "a9e1ae51169c",
-   "baslik": "2026-2027 Akademik Yılı Açılış Töreni",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://afsu.edu.tr/2026-2027-akademik-yili-acilis-toreni-09-kasim-2026/",
-   "gorsel": null
   },
   {
    "id": "00c2ce645f9e",
@@ -348,15 +316,8 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
-  },
-  {
-   "ad": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
-   "tur": "universite",
-   "url": "https://afsu.edu.tr/category/etkinlikler/",
-   "etkinlik_sayisi": 1,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "17 ilçe kaymakamlığı",
@@ -371,6 +332,13 @@
    "url": "https://www.afyon.bel.tr/guncel/etkinlikler",
    "etkinlik_sayisi": 0,
    "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
+   "tur": "universite",
+   "url": "https://afsu.edu.tr/category/etkinlikler/",
+   "etkinlik_sayisi": 0,
+   "durum": "hata: SSL hatası (sertifika doğrulanamadı): https://afsu.edu.tr/category/etkinlikler/feed/"
   },
   {
    "ad": "Afyonkarahisar Valiliği",

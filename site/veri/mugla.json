@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-09T14:10+03:00",
+ "guncelleme": "2026-11-10T14:03+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -50,38 +50,6 @@
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
   },
   {
-   "id": "85efd8e19ed5",
-   "baslik": "Bir Ulusun Dönüşümünde Liderliğin Gücü: Atatürk ve Toplumsal Değişimin Sosyal Psikolojisi",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": "15:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/bir-ulusun-donusumunde-liderligin-gucu--ataturk-ve-toplumsal-degisimin-sosyal-psikolojisi-4692",
-   "gorsel": null
-  },
-  {
-   "id": "444bf8b70e5c",
-   "baslik": "Pınarlıbelen Pazar Yeri Açılışı",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Bodrum",
-   "mekan": "Pınarlıbelen",
-   "kategori": "Fuar & Kermes",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2835/Acilis-Pinarlibelen_Pazar_Yeri_Acilisi",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
-  },
-  {
    "id": "ce58f63e5b78",
    "baslik": "10 Kasım Atatürk’ü Anma Programı",
    "tarih": "2026-11-10",
@@ -96,22 +64,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2832/Anma_Programi-10_Kasim_Ataturk%E2%80%99u_Anma_Programi",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
-  },
-  {
-   "id": "438276d5ee21",
-   "baslik": "Motosiklet Güvenliği ve Trafik Bilinci",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/motosiklet-guvenligi-ve-trafik-bilinci-4710",
-   "gorsel": null
   },
   {
    "id": "778d22356e6a",
@@ -386,6 +338,22 @@
    "gorsel": null
   },
   {
+   "id": "97909f059db7",
+   "baslik": "Öğrencilerin Kariyer Seçenekleri ve KPSS-DGS Sınavları Hakkında Bilgi Paylaşımı",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/ogrencilerin-kariyer-secenekleri-ve-kpssdgs-sinavlari-hakkinda-bilgi-paylasimi-4717",
+   "gorsel": null
+  },
+  {
    "id": "9d08649fed92",
    "baslik": "TFF 1. Lig Futbol Karşılaşması Bodrumspor- Vanspor",
    "tarih": "2026-11-23",
@@ -400,6 +368,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2816/Mac-TFF_1_Lig_Futbol_Karsilasmasi_Bodrumspor-_Vanspor",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+  },
+  {
+   "id": "de21a909bc52",
+   "baslik": "Bölüm Başkanı & Öğrenci Buluşması",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/bolum-baskani--ogrenci-bulusmasi-4716",
+   "gorsel": null
   },
   {
    "id": "9628ffb961d7",
@@ -431,6 +415,22 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mezun--ogrenci-bulusmasi-4705",
+   "gorsel": null
+  },
+  {
+   "id": "512ba7509327",
+   "baslik": "Bağımlı mısın, Özgür müsün?",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/bagimli-misin-ozgur-musun-4718",
    "gorsel": null
   },
   {
@@ -519,14 +519,14 @@
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {
    "ad": "Bodrum Belediyesi",
    "tur": "belediye",
    "url": "https://www.bodrum.bel.tr/etkinlik_takvimi",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {

@@ -1,5 +1,37 @@
 [
  {
+  "id": "461ee08ba6ea",
+  "baslik": "Eğirdir Sağlık Hizmetleri MYO Masa Tenisi Turnuvası",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Eğirdir",
+  "mekan": "Eğirdir Sağlık Hizmetleri MYO Kantini",
+  "kategori": "Sağlık",
+  "ucretsiz": true,
+  "ozet": "Sportif Faaliyet",
+  "kaynak_ad": "Süleyman Demirel Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+  "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=FB02AA5B-4471-2494-B681-3A2456AE7EC0"
+ },
+ {
+  "id": "7f46d88e28b8",
+  "baslik": "Yangın Söndürme Eğitimi",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Prof. Dr. M. Lütfü ÇAKMAKÇI Kültür Merkezi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": "Hizmet İçi Eğitim",
+  "kaynak_ad": "Süleyman Demirel Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+  "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=A66E89FC-0C6B-4F63-8BF5-3A24B352882F"
+ },
+ {
   "id": "3f62655d5322",
   "baslik": "Lisans Akademi Açılış Dersi ve Kahvaltı Programı",
   "tarih": "2026-11-08",

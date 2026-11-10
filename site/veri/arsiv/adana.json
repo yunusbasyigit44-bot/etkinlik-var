@@ -1,5 +1,37 @@
 [
  {
+  "id": "327f31d86b19",
+  "baslik": "Stres Yönetimi ve Motivasyon",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Sarıçam",
+  "mekan": "ATÜ İİSBF Konferans Salonu",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Etkinlik",
+  "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.atu.edu.tr",
+  "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/021120261331_K_471_ae59bd8b-95e4-4181-bdf3-7e2a1c7aa8ec.jpg"
+ },
+ {
+  "id": "dd0e9e9ddc85",
+  "baslik": "Beni Bu Güzel Havalar Mahvetti",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Seyhan",
+  "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": "Gaziantep Büyükşehir Belediyesi Şehir Tiyatrosu",
+  "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
+  "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1788779342_d33629b77ab5f5dc08af.jpeg"
+ },
+ {
   "id": "af052efb7f2a",
   "baslik": "Umudunu Yitirmeyen Sığırcık",
   "tarih": "2026-11-08",

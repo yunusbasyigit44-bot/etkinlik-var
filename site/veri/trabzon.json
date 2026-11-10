@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-09T14:15+03:00",
+ "guncelleme": "2026-11-10T14:08+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -53,22 +53,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/3628",
    "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/5/0f2c2b47-d0b2-47ee-93b5-3794a7cd2174.png"
-  },
-  {
-   "id": "62ea605ebbe1",
-   "baslik": "Metalik Şerit ve Sürekli Elyaf Takviyeli, Yenilikçi Hibrit Kompozit Yapıların Üretimi",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Ortahisar",
-   "mekan": "Radyo/TV",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/metalik-serit-ve-surekli-elyaf-takviyeli-yenilikci-hibrit-kompozit-yapilarin-uretimi",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_7d35da6732e6.jpg"
   },
   {
    "id": "5114490adb57",
@@ -183,6 +167,22 @@
    "gorsel": "veri/gorsel/dt-julius-caesar.webp"
   },
   {
+   "id": "03df4abffe9c",
+   "baslik": "\"17 Hedef 1 Gelecek\" Serisi-2",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "09:30",
+   "ilce": "Ortahisar",
+   "mekan": "KTÜ TV",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/ark/etkinlik/17-hedef-1-gelecek-serisi-2",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/ark_a955281d5fe1.jpg"
+  },
+  {
    "id": "8069385518a0",
    "baslik": "Aile Sağlığı Merkezlerinde Ebelik ve Doğum Hizmetleri",
    "tarih": "2026-11-13",
@@ -197,6 +197,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/aile-sagligi-merkezlerinde-ebelik-ve-dogum-hizmetleri",
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_764b098cd8da.jpg"
+  },
+  {
+   "id": "8cfa0c0dce6b",
+   "baslik": "Özel Gün Etkinliği \"Dünya Diyabet Günü\"",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "13:45",
+   "ilce": "Ortahisar",
+   "mekan": "İLAFAR",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/ilafar/etkinlik/ozel-gun-etkinligi-dunya-diyabet-gunu",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/ilafar_6ed3ced87334.jpg"
   },
   {
    "id": "139caa34780a",
@@ -277,6 +293,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/kritik-stratejik-madenler-ve-madenciligin-gelecegi",
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/3Lhg3S.jpg"
+  },
+  {
+   "id": "e613c42cf932",
+   "baslik": "Diş Eti Kanaması Normal Mi? Diş Etlerimiz Bize Ne Anlatıyor?",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/dis-eti-kanamasi-normal-mi-dis-etlerimiz-bize-ne-anlatiyor",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_1f9ddfe7a684.jpg"
   },
   {
    "id": "d16c413728be",
@@ -727,22 +759,6 @@
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
   },
   {
-   "id": "a3741c855c8f",
-   "baslik": "ChatGPT",
-   "tarih": "2026-12-03",
-   "bitis": null,
-   "saat": "08:00",
-   "ilce": "Ortahisar",
-   "mekan": "BTK Akademi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/akademi/etkinlik/chatgpt",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/akademi_cc2edd67cefe.jpg"
-  },
-  {
    "id": "aba818b56f3f",
    "baslik": "Dijital Etik ve Veri Gizliliği",
    "tarih": "2026-12-10",
@@ -805,22 +821,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/2258",
    "gorsel": "https://www.trabzon.edu.tr/storage/2024/12/16/bf26102c-2855-478c-bd67-71e5d7febb80.jpg"
-  },
-  {
-   "id": "5d4f27db3ad5",
-   "baslik": "Kamuda Yapay Zekâ Dönüşümü",
-   "tarih": "2026-12-31",
-   "bitis": null,
-   "saat": "08:00",
-   "ilce": "Ortahisar",
-   "mekan": "BTK Akademi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/akademi/etkinlik/kamuda-yapay-zeka-donusumu",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/akademi_49c8d8fee811.jpg"
   }
  ],
  "kaynaklar": [

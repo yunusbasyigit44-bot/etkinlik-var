@@ -1,6 +1,6 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-11-09",
+ "guncelleme": "2026-11-10",
  "secilenler": [
   {
    "id": "d7762ec713f9",
@@ -21,8 +21,8 @@
    "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "e0d35fb4cf73",
-   "not": "Balıkesir'de canlı müzik keyfi."
+   "id": "3247b6441599",
+   "not": "Sinop'ta festival havası."
   },
   {
    "id": "f956d28fe684",
@@ -37,12 +37,20 @@
    "not": "Muğla'da canlı müzik keyfi."
   },
   {
+   "id": "975a64660302",
+   "not": "Bursa'da canlı müzik keyfi."
+  },
+  {
    "id": "2c455e2b4819",
    "not": "Konya'da geleneksel ezgiler."
   },
   {
    "id": "92e63f75c2ac",
    "not": "İzmir'de geleneksel ezgiler."
+  },
+  {
+   "id": "8354eb5658f5",
+   "not": "Samsun'da festival havası."
   },
   {
    "id": "cdb5c6524545",
@@ -59,14 +67,6 @@
   {
    "id": "6c165b4e08a9",
    "not": "Tokat'ta ritim ve dans dolu bir gösteri."
-  },
-  {
-   "id": "a00303c71871",
-   "not": "Gaziantep'te gezip görülecek bir sergi."
-  },
-  {
-   "id": "6dbaf62dc677",
-   "not": "Muğla'da gezip görülecek bir sergi."
   }
  ]
 }

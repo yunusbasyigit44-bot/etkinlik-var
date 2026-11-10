@@ -1,6 +1,6 @@
 {
  "il": "cankiri",
- "guncelleme": "2026-11-09T13:56+03:00",
+ "guncelleme": "2026-11-10T13:48+03:00",
  "ilceler": [
   "Merkez",
   "Atkaracalar",
@@ -113,6 +113,22 @@
    "gorsel": "https://medya.karatekin.edu.tr/users/rabiaarikan/etkinlik/20261104_233817_afa743142b494a5591d4cfb249cee125.png"
   },
   {
+   "id": "0e2c26227b58",
+   "baslik": "Taşınır Mal Yönetmeliği",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8723",
+   "gorsel": null
+  },
+  {
    "id": "579df63c32e5",
    "baslik": "Bilgi ve Belge Yönetiminin Dünü, Bugünü ve Yarını: Değişen Teknolojiler, Dönüşen Meslek",
    "tarih": "2026-11-25",
@@ -193,6 +209,22 @@
    "gorsel": "https://medya.karatekin.edu.tr/users/haticepolat/etkinlik/20261106_215522_7bfb995bbf4c4747b580cdcc90f86cf7.png"
   },
   {
+   "id": "8409db3c63bc",
+   "baslik": "Atıklarımızı Tanıyoruz, Doğru Kutuyla Buluşturuyoruz",
+   "tarih": "2026-12-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8716",
+   "gorsel": "https://medya.karatekin.edu.tr/users/gulsumconoglu/etkinlik/20261031_091748_bfa6e20e36224dd890117236ce98f1e9.jpeg"
+  },
+  {
    "id": "31f540a2ed01",
    "baslik": "Akran Nezaketi",
    "tarih": "2026-12-18",
@@ -207,6 +239,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8708",
    "gorsel": "https://medya.karatekin.edu.tr/users/gulsumconoglu/etkinlik/20261029_091430_791415cb00254df69d0fbc7afa5402e2.jpeg"
+  },
+  {
+   "id": "9baa5c454728",
+   "baslik": "Dijital Bağımlılık",
+   "tarih": "2026-12-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8709",
+   "gorsel": "https://medya.karatekin.edu.tr/users/gulsumconoglu/etkinlik/20261029_102258_18af8fd94a7241bf963d8ecc085902f0.jpeg"
   }
  ],
  "kaynaklar": [
@@ -214,7 +262,7 @@
    "ad": "Çankırı Karatekin Üniversitesi",
    "tur": "universite",
    "url": "https://www.karatekin.edu.tr/tum-etkinlikler",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 15,
    "durum": "çalışıyor"
   },
   {

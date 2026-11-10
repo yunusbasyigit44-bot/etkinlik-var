@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-09T14:07+03:00",
+ "guncelleme": "2026-11-10T14:00+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,22 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "216d278cfea8",
-   "baslik": "Konya Okulu - Prof. Dr. Ali Akpınar",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ali-akpinar/1209",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/yGQGIOJfI79AnIe5ZXoRLPI9Q5MHkGaB.jpeg"
-  },
   {
    "id": "f6238f7b53bd",
    "baslik": "Atatürk'ün Sevdiği Şarkılar Konseri",
@@ -321,6 +305,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-ahmet-ozkan/1214",
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/rDq9Q0TPY6VfiNgCpIQW7D8nJ2a-fvLC.jpeg"
+  },
+  {
+   "id": "cef3424ed086",
+   "baslik": "Konya Okulu - Prof. Dr. Ali Akpınar",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ali-akpinar/1209",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/yGQGIOJfI79AnIe5ZXoRLPI9Q5MHkGaB.jpeg"
   },
   {
    "id": "d3bd68f58706",
@@ -595,6 +595,22 @@
    "gorsel": "veri/gorsel/dt-yastik-adam.webp"
   },
   {
+   "id": "16c344a2a5d3",
+   "baslik": "Şehir Konferansları - Karapınar",
+   "tarih": "2026-11-29",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-karapinar/1340",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/uOtcOLuRYY084F64dMuCz5_saa7kEnu-.jpeg"
+  },
+  {
    "id": "58c48fd2ee0e",
    "baslik": "2. Ulusal Psikoloji Öğrenci Sempozyumu",
    "tarih": "2026-11-30",
@@ -623,7 +639,7 @@
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {

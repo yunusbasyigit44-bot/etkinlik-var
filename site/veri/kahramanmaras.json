@@ -1,6 +1,6 @@
 {
  "il": "kahramanmaras",
- "guncelleme": "2026-11-09T14:09+03:00",
+ "guncelleme": "2026-11-10T14:02+03:00",
  "ilceler": [
   "Afşin",
   "Andırın",
@@ -48,6 +48,22 @@
    "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2610261400297963.jpg"
   },
   {
+   "id": "95a6e5e952f1",
+   "baslik": "Güçlü Bağlar İçin Güçlü İletişim",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Onikişubat",
+   "mekan": "Yunus Emre Kongre ve Kültür Merkezi Sezai Karakoç Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Onikişubat Meslek Yüksekokulu",
+   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=137",
+   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611091534457200.jpg"
+  },
+  {
    "id": "4b27d8a1e404",
    "baslik": "4. Geleneksel Öğretmenler Günü Koşusu",
    "tarih": "2026-11-23",
@@ -69,7 +85,7 @@
    "ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
    "tur": "universite",
    "url": "https://www.ksu.edu.tr/",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

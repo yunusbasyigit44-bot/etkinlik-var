@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-09T13:55+03:00",
+ "guncelleme": "2026-11-10T13:47+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -25,38 +25,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "78fdfad8d14f",
-   "baslik": "Balıkesirli Büyük Alim İmam Birgivi'nin İzinde",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Altıeylül",
-   "mekan": "Kuvayi Miliye Müzesi Bahçesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Basin",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_1_1794213339.jpg"
-  },
-  {
-   "id": "e0d35fb4cf73",
-   "baslik": "10 Kasım Atatürk'ü Anma Günü Özel Konseri",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Altıeylül",
-   "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi Şehit Fethi Sekin Konferans Salonu",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Sağlik Kültür Ve Spor Daire Başkanliği",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-06_at_15.36.09_1793968800.jpeg"
-  },
-  {
    "id": "58edcbbb8dd7",
    "baslik": "Atatürk ve İnsan Sevgisi” Konulu Konferans",
    "tarih": "2026-11-10",
@@ -73,6 +41,22 @@
    "gorsel": null
   },
   {
+   "id": "865e25d4bcb3",
+   "baslik": "Gastronomi Kulübü ile Engelsiz Mutfak",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Altıeylül",
+   "mekan": "Balıkesir Gastronomi Eğitim Mutfağı",
+   "kategori": "Yemek",
+   "ucretsiz": true,
+   "ozet": "Burhaniye Uygulamali Bilimler Fakültesi",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_afi%C5%9F_1794226173.jpeg"
+  },
+  {
    "id": "4deb6cc7b611",
    "baslik": "Deney Hayvanları Kullanım Sertifikası Kursu",
    "tarih": "2026-11-13",
@@ -87,22 +71,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_13.DENEY_HAYVANLARI_KULLANIM_SERT%C4%B0F%C4%B0KASI_KURSU_1793709594.png"
-  },
-  {
-   "id": "172e75982bf5",
-   "baslik": "BANÜ 2026-2027 Akademik Yılı Açılış Töreni ve Dersi",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Bandırma",
-   "mekan": "Mehmet Akif Ersoy Konferans Salonu",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bandırma Onyedi Eylül Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste/BANU-2026-2027-Akademik-Yili-Acilis-Toreni-ve-Dersi-1938?k=-1",
-   "gorsel": null
   },
   {
    "id": "925136f0fd05",
@@ -206,14 +174,14 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {
    "ad": "Bandırma Onyedi Eylül Üniversitesi",
    "tur": "universite",
    "url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste?k=-1",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

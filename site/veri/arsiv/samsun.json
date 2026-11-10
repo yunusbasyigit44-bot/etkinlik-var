@@ -1,5 +1,37 @@
 [
  {
+  "id": "86747825b0e9",
+  "baslik": "Uygulamalı Girişimcilik Eğitimi",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": "10:00",
+  "ilce": "Atakum",
+  "mekan": "Ondokuz Mayıs Üniversitesi",
+  "kategori": "Bilim & Teknoloji",
+  "ucretsiz": true,
+  "ozet": "Eğitim",
+  "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/egitim/uygulamali-girisimcilik-egitimi-1",
+  "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/uygulamali_girsimcilik_egitimi_1_1.png"
+ },
+ {
+  "id": "93fcfdb9100b",
+  "baslik": "Şehit Özel Harekât Polis Memuru Emre ALBAYRAK Kütüphanesi Açılıyor",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": "13:30",
+  "ilce": "Atakum",
+  "mekan": "Ondokuz Mayıs Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Açılış",
+  "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/acilis/sehit-ozel-harekat-polis-memuru-emre-albayrak-kutuphanesi",
+  "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/chatgpt_gorseli_5_kas_2026_10_32_31.jpg"
+ },
+ {
   "id": "6997b282db3b",
   "baslik": "Pinokyo",
   "tarih": "2026-11-05",

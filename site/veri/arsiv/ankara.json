@@ -1,5 +1,21 @@
 [
  {
+  "id": "18d209e6279d",
+  "baslik": "Sihirli Ayna",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Çankaya",
+  "mekan": "Küçük Tiyatro",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sihirli-ayna",
+  "gorsel": null
+ },
+ {
   "id": "145a9b4a27d4",
   "baslik": "Yaşam Döngüsü",
   "tarih": "2026-11-08",

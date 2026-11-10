@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-09T13:55+03:00",
+ "guncelleme": "2026-11-10T13:47+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,22 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "e721a4192c82",
-   "baslik": "Zamanın içinde 65yaşında ben",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Merkez",
-   "mekan": "Yaşlılık Çalışmaları Uygulama Araştırma Merkezi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13569/1/zamanin-icinde-65yasinda-ben",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13569/4_13569_2026-11-02-13-46-25-37849_thumb.webp"
-  },
   {
    "id": "ecf7c6fe206c",
    "baslik": "Acil Tıpta Eğitim Günleri-2 Nöroloji ve Kardiyoloji Eğitimi",
@@ -62,6 +46,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13575/1/gulusten-beden-sagligina-diyabeti-birlikte-konusuyoruz",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13575/4_13575_2026-11-04-06-51-14-644412_thumb.webp"
+  },
+  {
+   "id": "d8eb6d500e57",
+   "baslik": "Caz Davul Kaydı ve Mikrofonlama Teknikleri",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Merkez",
+   "mekan": "Müzik Kültürü Uygulama ve Araştırma Merkezi Ses Kayıt Stüdyosu",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13600/1/caz-davul-kaydi-ve-mikrofonlama-teknikleri",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13600/4_13600_2026-11-10-06-42-59-30448_thumb.webp"
   },
   {
    "id": "1bd21bab454c",

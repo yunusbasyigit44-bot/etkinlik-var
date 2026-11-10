@@ -1,5 +1,37 @@
 [
  {
+  "id": "85efd8e19ed5",
+  "baslik": "Bir Ulusun Dönüşümünde Liderliğin Gücü: Atatürk ve Toplumsal Değişimin Sosyal Psikolojisi",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": "15:30",
+  "ilce": "Menteşe",
+  "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/bir-ulusun-donusumunde-liderligin-gucu--ataturk-ve-toplumsal-degisimin-sosyal-psikolojisi-4692",
+  "gorsel": null
+ },
+ {
+  "id": "444bf8b70e5c",
+  "baslik": "Pınarlıbelen Pazar Yeri Açılışı",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Bodrum",
+  "mekan": "Pınarlıbelen",
+  "kategori": "Fuar & Kermes",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bodrum Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2835/Acilis-Pinarlibelen_Pazar_Yeri_Acilisi",
+  "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+ },
+ {
   "id": "b5f234369b69",
   "baslik": "Bodrum Belediyesi Kültür ve Doğa Yürüyüşü-Kissebükü Antik Kenti",
   "tarih": "2026-11-08",

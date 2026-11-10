@@ -1,5 +1,21 @@
 [
  {
+  "id": "e721a4192c82",
+  "baslik": "Zamanın içinde 65yaşında ben",
+  "tarih": "2026-11-09",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Merkez",
+  "mekan": "Yaşlılık Çalışmaları Uygulama Araştırma Merkezi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mehmetakif.edu.tr/content/13569/1/zamanin-icinde-65yasinda-ben",
+  "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13569/4_13569_2026-11-02-13-46-25-37849_thumb.webp"
+ },
+ {
   "id": "186fb3c89e5e",
   "baslik": "Çocuklarla Kültür ve Bilim Buluşması",
   "tarih": "2026-11-06",

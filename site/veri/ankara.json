@@ -1,6 +1,6 @@
 {
  "il": "ankara",
- "guncelleme": "2026-11-09T13:53+03:00",
+ "guncelleme": "2026-11-10T13:45+03:00",
  "ilceler": [
   "Akyurt",
   "Altındağ",
@@ -29,54 +29,6 @@
   "Yenimahalle"
  ],
  "etkinlikler": [
-  {
-   "id": "18d209e6279d",
-   "baslik": "Sihirli Ayna",
-   "tarih": "2026-11-09",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sihirli-ayna",
-   "gorsel": "veri/gorsel/dt-sihirli-ayna.jpg"
-  },
-  {
-   "id": "8235304148fc",
-   "baslik": "10 Kasım Atatürk'ü Anma Töreni",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "09:05",
-   "ilce": "Çankaya",
-   "mekan": "Hacettepe Üniversitesi",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Hacettepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlikler.hacettepe.edu.tr/tr/10_kasim_ataturku_anma_toreni-3470",
-   "gorsel": "https://fs.hacettepe.edu.tr/etkinlik/2026/11-kasim/10kasim_vitrin.jpg"
-  },
-  {
-   "id": "9313202c082b",
-   "baslik": "İş Çok ama Ömür Kısa",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "09:30",
-   "ilce": "Çankaya",
-   "mekan": "Hacettepe Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Hacettepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlikler.hacettepe.edu.tr/tr/is_cok_ama_omur_kisa-3474",
-   "gorsel": "https://fs.hacettepe.edu.tr/etkinlik/2026/11-kasim/10kasim_konferans_vitrin.jpeg"
-  },
   {
    "id": "d523a3ad761e",
    "baslik": "Kontrabas",
@@ -110,22 +62,6 @@
    "gorsel": "veri/gorsel/dob-1-3382.webp"
   },
   {
-   "id": "38028e66927d",
-   "baslik": "Kadınlar, Filler ve Saireler",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kadinlar-filler-ve-saireler",
-   "gorsel": "veri/gorsel/dt-kadinlar-filler-ve-saireler.jpg"
-  },
-  {
    "id": "3f3b788832b4",
    "baslik": "Edmond",
    "tarih": "2026-11-10",
@@ -156,6 +92,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bu-da-gecer-ya-hu",
    "gorsel": "veri/gorsel/dt-bu-da-gecer-ya-hu.jpg"
+  },
+  {
+   "id": "38028e66927d",
+   "baslik": "Kadınlar, Filler ve Saireler",
+   "tarih": "2026-11-10",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kadinlar-filler-ve-saireler",
+   "gorsel": "veri/gorsel/dt-kadinlar-filler-ve-saireler.jpg"
   },
   {
    "id": "88b7106fcf3e",
@@ -238,22 +190,6 @@
    "gorsel": "veri/gorsel/dob-1-3373.webp"
   },
   {
-   "id": "7fe95fa52766",
-   "baslik": "Kadınlar, Filler ve Saireler",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kadinlar-filler-ve-saireler",
-   "gorsel": "veri/gorsel/dt-kadinlar-filler-ve-saireler.jpg"
-  },
-  {
    "id": "2d0d69198084",
    "baslik": "Edmond",
    "tarih": "2026-11-11",
@@ -284,6 +220,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bu-da-gecer-ya-hu",
    "gorsel": "veri/gorsel/dt-bu-da-gecer-ya-hu.jpg"
+  },
+  {
+   "id": "7fe95fa52766",
+   "baslik": "Kadınlar, Filler ve Saireler",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kadinlar-filler-ve-saireler",
+   "gorsel": "veri/gorsel/dt-kadinlar-filler-ve-saireler.jpg"
   },
   {
    "id": "e02b2931f005",
@@ -382,22 +334,6 @@
    "gorsel": "veri/gorsel/dob-1-1413.webp"
   },
   {
-   "id": "61ebdcda6384",
-   "baslik": "Kadınlar, Filler ve Saireler",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kadinlar-filler-ve-saireler",
-   "gorsel": "veri/gorsel/dt-kadinlar-filler-ve-saireler.jpg"
-  },
-  {
    "id": "fa1cbc24ad09",
    "baslik": "Edmond",
    "tarih": "2026-11-12",
@@ -428,6 +364,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bu-da-gecer-ya-hu",
    "gorsel": "veri/gorsel/dt-bu-da-gecer-ya-hu.jpg"
+  },
+  {
+   "id": "61ebdcda6384",
+   "baslik": "Kadınlar, Filler ve Saireler",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kadinlar-filler-ve-saireler",
+   "gorsel": "veri/gorsel/dt-kadinlar-filler-ve-saireler.jpg"
   },
   {
    "id": "4efefddb76aa",
@@ -510,22 +462,6 @@
    "gorsel": "veri/gorsel/dob-1-3397.webp"
   },
   {
-   "id": "abd7763c80b0",
-   "baslik": "Kadınlar, Filler ve Saireler",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kadinlar-filler-ve-saireler",
-   "gorsel": "veri/gorsel/dt-kadinlar-filler-ve-saireler.jpg"
-  },
-  {
    "id": "a14b89283af9",
    "baslik": "Edmond",
    "tarih": "2026-11-13",
@@ -556,6 +492,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bu-da-gecer-ya-hu",
    "gorsel": "veri/gorsel/dt-bu-da-gecer-ya-hu.jpg"
+  },
+  {
+   "id": "abd7763c80b0",
+   "baslik": "Kadınlar, Filler ve Saireler",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kadinlar-filler-ve-saireler",
+   "gorsel": "veri/gorsel/dt-kadinlar-filler-ve-saireler.jpg"
   },
   {
    "id": "a7a8038bfdb9",
@@ -622,22 +574,6 @@
    "gorsel": "veri/gorsel/dob-1-1413.webp"
   },
   {
-   "id": "f4b9cc3454e9",
-   "baslik": "Kadınlar, Filler ve Saireler",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kadinlar-filler-ve-saireler",
-   "gorsel": "veri/gorsel/dt-kadinlar-filler-ve-saireler.jpg"
-  },
-  {
    "id": "0c6ddba79147",
    "baslik": "Edmond",
    "tarih": "2026-11-14",
@@ -668,6 +604,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bu-da-gecer-ya-hu",
    "gorsel": "veri/gorsel/dt-bu-da-gecer-ya-hu.jpg"
+  },
+  {
+   "id": "f4b9cc3454e9",
+   "baslik": "Kadınlar, Filler ve Saireler",
+   "tarih": "2026-11-14",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kadinlar-filler-ve-saireler",
+   "gorsel": "veri/gorsel/dt-kadinlar-filler-ve-saireler.jpg"
   },
   {
    "id": "7ec5c0bdb2b6",
@@ -734,22 +686,6 @@
    "gorsel": "veri/gorsel/dob-1-3288.webp"
   },
   {
-   "id": "d97dd83a30c8",
-   "baslik": "Kadınlar, Filler ve Saireler",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kadinlar-filler-ve-saireler",
-   "gorsel": "veri/gorsel/dt-kadinlar-filler-ve-saireler.jpg"
-  },
-  {
    "id": "e46dacbb0f50",
    "baslik": "Edmond",
    "tarih": "2026-11-14",
@@ -780,6 +716,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bu-da-gecer-ya-hu",
    "gorsel": "veri/gorsel/dt-bu-da-gecer-ya-hu.jpg"
+  },
+  {
+   "id": "d97dd83a30c8",
+   "baslik": "Kadınlar, Filler ve Saireler",
+   "tarih": "2026-11-14",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kadinlar-filler-ve-saireler",
+   "gorsel": "veri/gorsel/dt-kadinlar-filler-ve-saireler.jpg"
   },
   {
    "id": "2618bd8c47e6",
@@ -830,6 +782,22 @@
    "gorsel": "veri/gorsel/dt-sefiller.jpg"
   },
   {
+   "id": "87be9e04a547",
+   "baslik": "El Ele 25 Yıl",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Çankaya",
+   "mekan": "Hacettepe Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Hacettepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlikler.hacettepe.edu.tr/tr/el_ele_25_yil-3478",
+   "gorsel": "https://fs.hacettepe.edu.tr/etkinlik/2026/11-kasim/el_ele_vitrin.png"
+  },
+  {
    "id": "41cfdd21a7e8",
    "baslik": "Le Nozze Dı Fıgaro ''Figaro’nun Düğünü''",
    "tarih": "2026-11-16",
@@ -878,22 +846,6 @@
    "gorsel": "veri/gorsel/dt-cephede-piknik.jpg"
   },
   {
-   "id": "e2acee10b82b",
-   "baslik": "İzafiyet",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/izafiyet",
-   "gorsel": "veri/gorsel/dt-izafiyet.jpg"
-  },
-  {
    "id": "3659489ad595",
    "baslik": "Sen de Gitme Triyandafilis",
    "tarih": "2026-11-17",
@@ -924,6 +876,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/eyvah-nadir",
    "gorsel": "veri/gorsel/dt-eyvah-nadir.jpg"
+  },
+  {
+   "id": "e2acee10b82b",
+   "baslik": "İzafiyet",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/izafiyet",
+   "gorsel": "veri/gorsel/dt-izafiyet.jpg"
   },
   {
    "id": "522384834968",
@@ -1006,22 +974,6 @@
    "gorsel": "veri/gorsel/dt-cephede-piknik.jpg"
   },
   {
-   "id": "59039916638a",
-   "baslik": "İzafiyet",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/izafiyet",
-   "gorsel": "veri/gorsel/dt-izafiyet.jpg"
-  },
-  {
    "id": "3c75813433aa",
    "baslik": "Sen de Gitme Triyandafilis",
    "tarih": "2026-11-18",
@@ -1052,6 +1004,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/eyvah-nadir",
    "gorsel": "veri/gorsel/dt-eyvah-nadir.jpg"
+  },
+  {
+   "id": "59039916638a",
+   "baslik": "İzafiyet",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/izafiyet",
+   "gorsel": "veri/gorsel/dt-izafiyet.jpg"
   },
   {
    "id": "35bfb6412dac",
@@ -1134,22 +1102,6 @@
    "gorsel": "veri/gorsel/dt-cephede-piknik.jpg"
   },
   {
-   "id": "c59dbe9c926d",
-   "baslik": "İzafiyet",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/izafiyet",
-   "gorsel": "veri/gorsel/dt-izafiyet.jpg"
-  },
-  {
    "id": "94e623a7a65f",
    "baslik": "Sen de Gitme Triyandafilis",
    "tarih": "2026-11-19",
@@ -1180,6 +1132,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/eyvah-nadir",
    "gorsel": "veri/gorsel/dt-eyvah-nadir.jpg"
+  },
+  {
+   "id": "c59dbe9c926d",
+   "baslik": "İzafiyet",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/izafiyet",
+   "gorsel": "veri/gorsel/dt-izafiyet.jpg"
   },
   {
    "id": "60c8551215af",
@@ -1262,22 +1230,6 @@
    "gorsel": "veri/gorsel/dt-cephede-piknik.jpg"
   },
   {
-   "id": "d17355f7360f",
-   "baslik": "İzafiyet",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/izafiyet",
-   "gorsel": "veri/gorsel/dt-izafiyet.jpg"
-  },
-  {
    "id": "f2b4d647eace",
    "baslik": "Sen de Gitme Triyandafilis",
    "tarih": "2026-11-20",
@@ -1292,6 +1244,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sen-de-gitme-triyandafilis",
    "gorsel": "veri/gorsel/dt-sen-de-gitme-triyandafilis.jpg"
+  },
+  {
+   "id": "d17355f7360f",
+   "baslik": "İzafiyet",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/izafiyet",
+   "gorsel": "veri/gorsel/dt-izafiyet.jpg"
   },
   {
    "id": "e2a4c2b8cdcc",
@@ -1342,22 +1310,6 @@
    "gorsel": "veri/gorsel/dt-esaretin-bedeli.jpg"
   },
   {
-   "id": "145c1ef00ab4",
-   "baslik": "İzafiyet",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/izafiyet",
-   "gorsel": "veri/gorsel/dt-izafiyet.jpg"
-  },
-  {
    "id": "315aac9f2f6c",
    "baslik": "Sen de Gitme Triyandafilis",
    "tarih": "2026-11-21",
@@ -1388,6 +1340,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/eyvah-nadir",
    "gorsel": "veri/gorsel/dt-eyvah-nadir.jpg"
+  },
+  {
+   "id": "145c1ef00ab4",
+   "baslik": "İzafiyet",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/izafiyet",
+   "gorsel": "veri/gorsel/dt-izafiyet.jpg"
   },
   {
    "id": "ccef68c48b2d",
@@ -1422,22 +1390,6 @@
    "gorsel": "veri/gorsel/dt-cephede-piknik.jpg"
   },
   {
-   "id": "489e8c05599c",
-   "baslik": "İzafiyet",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/izafiyet",
-   "gorsel": "veri/gorsel/dt-izafiyet.jpg"
-  },
-  {
    "id": "eaaaa194ef5a",
    "baslik": "Sen de Gitme Triyandafilis",
    "tarih": "2026-11-21",
@@ -1468,6 +1420,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/eyvah-nadir",
    "gorsel": "veri/gorsel/dt-eyvah-nadir.jpg"
+  },
+  {
+   "id": "489e8c05599c",
+   "baslik": "İzafiyet",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/izafiyet",
+   "gorsel": "veri/gorsel/dt-izafiyet.jpg"
   },
   {
    "id": "556dadf0dc4e",
@@ -1534,22 +1502,6 @@
    "gorsel": "veri/gorsel/dt-gise.jpg"
   },
   {
-   "id": "b14a9632cdbe",
-   "baslik": "Komşu Köyün Delisi",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/komsu-koyun-delisi",
-   "gorsel": "veri/gorsel/dt-komsu-koyun-delisi.jpg"
-  },
-  {
    "id": "e4d4403ba799",
    "baslik": "Kan Kardeşler",
    "tarih": "2026-11-24",
@@ -1580,6 +1532,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dosya-kelebek-2",
    "gorsel": "veri/gorsel/dt-dosya-kelebek-2.webp"
+  },
+  {
+   "id": "b14a9632cdbe",
+   "baslik": "Komşu Köyün Delisi",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/komsu-koyun-delisi",
+   "gorsel": "veri/gorsel/dt-komsu-koyun-delisi.jpg"
   },
   {
    "id": "74eefc071596",
@@ -1646,22 +1614,6 @@
    "gorsel": "veri/gorsel/dt-gise.jpg"
   },
   {
-   "id": "8befdf3fceb0",
-   "baslik": "Komşu Köyün Delisi",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/komsu-koyun-delisi",
-   "gorsel": "veri/gorsel/dt-komsu-koyun-delisi.jpg"
-  },
-  {
    "id": "5e39a728385a",
    "baslik": "Kan Kardeşler",
    "tarih": "2026-11-25",
@@ -1692,6 +1644,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dosya-kelebek-2",
    "gorsel": "veri/gorsel/dt-dosya-kelebek-2.webp"
+  },
+  {
+   "id": "8befdf3fceb0",
+   "baslik": "Komşu Köyün Delisi",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/komsu-koyun-delisi",
+   "gorsel": "veri/gorsel/dt-komsu-koyun-delisi.jpg"
   },
   {
    "id": "0fabbcc797b9",
@@ -1758,22 +1726,6 @@
    "gorsel": "veri/gorsel/dt-gise.jpg"
   },
   {
-   "id": "b1d4d72b1fc9",
-   "baslik": "Komşu Köyün Delisi",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/komsu-koyun-delisi",
-   "gorsel": "veri/gorsel/dt-komsu-koyun-delisi.jpg"
-  },
-  {
    "id": "82c90371c719",
    "baslik": "Kan Kardeşler",
    "tarih": "2026-11-26",
@@ -1804,6 +1756,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dosya-kelebek-2",
    "gorsel": "veri/gorsel/dt-dosya-kelebek-2.webp"
+  },
+  {
+   "id": "b1d4d72b1fc9",
+   "baslik": "Komşu Köyün Delisi",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/komsu-koyun-delisi",
+   "gorsel": "veri/gorsel/dt-komsu-koyun-delisi.jpg"
   },
   {
    "id": "b2a2b37f68f7",
@@ -1854,22 +1822,6 @@
    "gorsel": "veri/gorsel/dt-gise.jpg"
   },
   {
-   "id": "7e91d03cf15f",
-   "baslik": "Komşu Köyün Delisi",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/komsu-koyun-delisi",
-   "gorsel": "veri/gorsel/dt-komsu-koyun-delisi.jpg"
-  },
-  {
    "id": "36c872e990f7",
    "baslik": "Kan Kardeşler",
    "tarih": "2026-11-27",
@@ -1900,6 +1852,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dosya-kelebek-2",
    "gorsel": "veri/gorsel/dt-dosya-kelebek-2.webp"
+  },
+  {
+   "id": "7e91d03cf15f",
+   "baslik": "Komşu Köyün Delisi",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/komsu-koyun-delisi",
+   "gorsel": "veri/gorsel/dt-komsu-koyun-delisi.jpg"
   },
   {
    "id": "8dd0ed5c2d78",
@@ -1950,22 +1918,6 @@
    "gorsel": "veri/gorsel/dt-sefiller.jpg"
   },
   {
-   "id": "1957e2b2c5a5",
-   "baslik": "Komşu Köyün Delisi",
-   "tarih": "2026-11-28",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/komsu-koyun-delisi",
-   "gorsel": "veri/gorsel/dt-komsu-koyun-delisi.jpg"
-  },
-  {
    "id": "91008e517394",
    "baslik": "Kan Kardeşler",
    "tarih": "2026-11-28",
@@ -1996,6 +1948,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dosya-kelebek-2",
    "gorsel": "veri/gorsel/dt-dosya-kelebek-2.webp"
+  },
+  {
+   "id": "1957e2b2c5a5",
+   "baslik": "Komşu Köyün Delisi",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/komsu-koyun-delisi",
+   "gorsel": "veri/gorsel/dt-komsu-koyun-delisi.jpg"
   },
   {
    "id": "6482ac48b31e",
@@ -2046,22 +2014,6 @@
    "gorsel": "veri/gorsel/dt-gise.jpg"
   },
   {
-   "id": "3a2a279271b4",
-   "baslik": "Komşu Köyün Delisi",
-   "tarih": "2026-11-28",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/komsu-koyun-delisi",
-   "gorsel": "veri/gorsel/dt-komsu-koyun-delisi.jpg"
-  },
-  {
    "id": "4e6a9a8e8768",
    "baslik": "Kan Kardeşler",
    "tarih": "2026-11-28",
@@ -2092,6 +2044,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dosya-kelebek-2",
    "gorsel": "veri/gorsel/dt-dosya-kelebek-2.webp"
+  },
+  {
+   "id": "3a2a279271b4",
+   "baslik": "Komşu Köyün Delisi",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Küçük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/komsu-koyun-delisi",
+   "gorsel": "veri/gorsel/dt-komsu-koyun-delisi.jpg"
   },
   {
    "id": "8d5761e136f0",
@@ -2403,7 +2371,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 139,
+   "etkinlik_sayisi": 138,
    "durum": "çalışıyor"
   },
   {
@@ -2417,7 +2385,7 @@
    "ad": "Hacettepe Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlikler.hacettepe.edu.tr/",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {
