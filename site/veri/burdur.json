@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-10T13:47+03:00",
+ "guncelleme": "2026-11-11T13:19+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,22 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "ecf7c6fe206c",
-   "baslik": "Acil Tıpta Eğitim Günleri-2 Nöroloji ve Kardiyoloji Eğitimi",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Merkez",
-   "mekan": "Prof. Dr. İlhan Varank Kütüphanesi Konferans Salonları",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13593/1/acil-tipta-egitim-gunleri-2-noroloji-ve-kardiyoloji-egitimi",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13593/4_13593_2026-11-09-07-50-48-551196_thumb.webp"
-  },
   {
    "id": "a54d3bb79921",
    "baslik": "Gülüşten Beden Sağlığına: Diyabeti Birlikte Konuşuyoruz",
@@ -64,20 +48,20 @@
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13600/4_13600_2026-11-10-06-42-59-30448_thumb.webp"
   },
   {
-   "id": "1bd21bab454c",
-   "baslik": "Doğaya Vefa: Temiz Kampüs, Temiz Gelecek!",
+   "id": "b25cb9c9ca10",
+   "baslik": "Çevre Bilinci ve Sosyal Sorumluluk",
    "tarih": "2026-11-13",
    "bitis": null,
    "saat": "16:00",
    "ilce": "Merkez",
    "mekan": "Prof. Dr. İlhan Varank Kütüphanesi Bahçesi",
-   "kategori": "Doğa & Gezi",
+   "kategori": "Diğer",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13587/1/dogaya-vefa-temiz-kampus-temiz-gelecek",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13587/4_13587_2026-11-06-12-22-29-884130_thumb.webp"
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13587/1/cevre-bilinci-ve-sosyal-sorumluluk",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13587/4_13587_2026-11-11-06-30-57-453110_thumb.webp"
   },
   {
    "id": "e8a1e18b3039",
@@ -110,6 +94,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13543/1/cocuklar-icin-p4c",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13543/4_13543_2026-10-28-06-59-00-693617_thumb.webp"
+  },
+  {
+   "id": "0c8fde1968cf",
+   "baslik": "Yaratıcı Drama ve Masal Anlatıcılığı",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Merkez",
+   "mekan": "Eğitim Fakültesi Konferans Salonu",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13542/1/yaratici-drama-ve-masal-anlaticiligi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13542/4_13542_2026-10-28-07-00-34-52824_thumb.webp"
   }
  ],
  "kaynaklar": [

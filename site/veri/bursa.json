@@ -1,6 +1,6 @@
 {
  "il": "bursa",
- "guncelleme": "2026-11-10T13:48+03:00",
+ "guncelleme": "2026-11-11T13:20+03:00",
  "ilceler": [
   "Büyükorhan",
   "Gemlik",
@@ -166,70 +166,6 @@
    "gorsel": null
   },
   {
-   "id": "0f587019de0a",
-   "baslik": "Yabancı Diller Yüksekokulu Çeyrek Sonu Değerlendirme Toplantısı",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Yıldırım",
-   "mekan": "Yıldırım Bayezid Yerleşkesi Kırmızı Salon (A Blok Zemin Kat)",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12701/yabanc%C4%B1-diller-y%C3%BCksekokulu-%C3%A7eyrek-sonu-de%C4%9Ferlendirme-toplant%C4%B1s%C4%B1",
-   "gorsel": null
-  },
-  {
-   "id": "61fea1d956ab",
-   "baslik": "Barış Adası",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/baris-adasi",
-   "gorsel": "veri/gorsel/dt-baris-adasi.jpg"
-  },
-  {
-   "id": "1f47e3900534",
-   "baslik": "Dorıan Gray'in Portresi",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dorian-grayin-portresi",
-   "gorsel": "veri/gorsel/dt-dorian-grayin-portresi.webp"
-  },
-  {
-   "id": "975a64660302",
-   "baslik": "Selanik’ten Anıtkabir’e Atatürk’ün Sevdiği Şarkılar",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "20:30",
-   "ilce": "Nilüfer",
-   "mekan": "Nilüfer",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Nilüfer Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.nilufer.bel.tr/etkinlik/selanik-ten-anitkabir-e-ataturk-un-sevdigi-sarkilar",
-   "gorsel": "https://www.nilufer.bel.tr/i/etkinlik/5192.jpg"
-  },
-  {
    "id": "d369a7cbe230",
    "baslik": "İŞKUR Gençlik Programı Noter Kura Çekimi",
    "tarih": "2026-11-11",
@@ -358,22 +294,6 @@
    "gorsel": null
   },
   {
-   "id": "916b336fd362",
-   "baslik": "Lisansüstü Eğitim Enstitüsü Mezuniyet Töreni",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Turkuaz Salon (B Blok 1. Kat)",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12642/lisans%C3%BCst%C3%BC-e%C4%9Fitim-enstit%C3%BCs%C3%BC-mezuniyet-t%C3%B6reni",
-   "gorsel": null
-  },
-  {
    "id": "fbaff0dc4c3a",
    "baslik": "Şehircilik ve İmar Hukuku",
    "tarih": "2026-11-13",
@@ -390,19 +310,35 @@
    "gorsel": null
   },
   {
-   "id": "50afeccdfd5a",
-   "baslik": "Kudüs Semineri",
+   "id": "916b336fd362",
+   "baslik": "Lisansüstü Eğitim Enstitüsü Mezuniyet Töreni",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Yıldırım",
+   "mekan": "Mimar Sinan Yerleşkesi Turkuaz Salon (B Blok 1. Kat)",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12642/lisans%C3%BCst%C3%BC-e%C4%9Fitim-enstit%C3%BCs%C3%BC-mezuniyet-t%C3%B6reni",
+   "gorsel": null
+  },
+  {
+   "id": "438e0885deea",
+   "baslik": "Kudüs'ün Tarihi Hafızası ve Geleceği",
    "tarih": "2026-11-13",
    "bitis": null,
    "saat": "14:00",
    "ilce": "Yıldırım",
    "mekan": "Mimar Sinan Yerleşkesi Turkuaz Salon (B Blok 1. Kat)",
-   "kategori": "Söyleşi",
+   "kategori": "Diğer",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Bursa Teknik Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12151/kud%C3%BCs-semineri",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12151/kud%C3%BCs%C3%BCn-tarihi-haf%C4%B1zas%C4%B1-ve-gelece%C4%9Fi",
    "gorsel": null
   },
   {
@@ -518,6 +454,22 @@
    "gorsel": "veri/gorsel/dt-bencil-dev.jpg"
   },
   {
+   "id": "f01ca116caed",
+   "baslik": "EEM0307 Haberleşme Teorisi dersi “Türkiye’de Amatör Radyoculuk ve Afet Yönetimi Kapsamında Önemi”",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Yıldırım",
+   "mekan": "Mimar Sinan Yerleşkesi Ali Sürmen Salon (G Blok Zemin Kat)",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12719/eem0307-haberle%C5%9Fme-teorisi-dersi-t%C3%BCrkiyede-amat%C3%B6r-radyoculuk-ve-afet-y%C3%B6netimi-kapsam%C4%B1nda-%C3%B6nemi",
+   "gorsel": null
+  },
+  {
    "id": "1173150ae20a",
    "baslik": "Gemi İnş. ve Gemi Mak. Müh. Bölümü Staj Bilgilendirme Sunumu",
    "tarih": "2026-11-17",
@@ -548,6 +500,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/scapin-ve-yeni-dolaplari",
    "gorsel": "veri/gorsel/dt-scapin-ve-yeni-dolaplari.jpg"
+  },
+  {
+   "id": "c41a035d4369",
+   "baslik": "BTÜ Konuşmaları",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Yıldırım",
+   "mekan": "Mimar Sinan Yerleşkesi Turkuaz Salon (B Blok 1. Kat)",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/11932/bt%C3%BC-konu%C5%9Fmalar%C4%B1",
+   "gorsel": null
   },
   {
    "id": "708894a5310f",
@@ -843,7 +811,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 30,
+   "etkinlik_sayisi": 28,
    "durum": "çalışıyor"
   },
   {
@@ -857,15 +825,15 @@
    "ad": "Bursa Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://btu.edu.tr/tr/etkinlik",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {
    "ad": "Nilüfer Belediyesi",
    "tur": "belediye",
    "url": "https://www.nilufer.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 2,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 1,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Bursa Büyükşehir Şehir Tiyatrosu",

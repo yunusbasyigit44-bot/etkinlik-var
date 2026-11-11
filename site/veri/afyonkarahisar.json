@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-10T13:44+03:00",
+ "guncelleme": "2026-11-11T13:15+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -55,20 +55,20 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261027141418_ekimgecidi_afis.jpeg"
   },
   {
-   "id": "00c2ce645f9e",
-   "baslik": "Clarivate-Çevrimiçi (Online) Eğitim: Web of Science Core Collection Kullanarak Güvenle Araştırma Yapın",
-   "tarih": "2026-11-10",
+   "id": "04ac27506513",
+   "baslik": "Ağaç Dikme Bayramı",
+   "tarih": "2026-11-11",
    "bitis": null,
    "saat": "11:00",
-   "ilce": "Merkez",
-   "mekan": "Çevrimiçi (Online)",
-   "kategori": "Atölye",
+   "ilce": "Bayat",
+   "mekan": "Bayat İlçesi Bal Ormanı Mevki",
+   "kategori": "Doğa & Gezi",
    "ucretsiz": true,
-   "ozet": "Eğitim Programı · Kütüphane Ve Dokümantasyon Dai̇re Başkanliği",
+   "ozet": "Teknik Gezi · Bayat Meslek Yüksekokulu",
    "kaynak_ad": "Afyon Kocatepe Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261103150007_yiauq.jpg"
+   "gorsel": null
   },
   {
    "id": "32f74818a5c4",
@@ -84,7 +84,7 @@
    "kaynak_ad": "Afyon Kocatepe Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261104112428_fidan.jpeg"
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261111100139_1_2.jpeg"
   },
   {
    "id": "a966188fbb36",
@@ -101,6 +101,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261106144218_bx5hw.jpg"
+  },
+  {
+   "id": "8cc94fec63f3",
+   "baslik": "Sınav Akreditasyon İşlemleri ve Bologna Ders Bilgi Paketlerinin Güncellenmesi",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "12:00",
+   "ilce": "Merkez",
+   "mekan": "Spor Bilimleri Fakültesi Konferans Salonu",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim Programı · Spor Bi̇li̇mleri̇ Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261111120508_sinav_akreditasyon_islemlerii.jpg"
   },
   {
    "id": "f07bb413d422",
@@ -149,6 +165,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261105162102_kucuk_boyutlu.jpg"
+  },
+  {
+   "id": "e32fef1798f8",
+   "baslik": "Türkiyenin Uluslararası Konumu:Tarihi Miras, Kültürel Etki ve Gelecek Perspektifi",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Erdal Akar Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Konferans · Fen-Edebi̇yat Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261110173240_img-20261110-wa0024.jpg"
   },
   {
    "id": "3adefe21feda",
@@ -229,6 +261,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": null
+  },
+  {
+   "id": "0861511d7ad9",
+   "baslik": "Mendeley ile Kaynak Yönetimi ve Atıf Eğitimi",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Spor Bilimleri Fakültesi Konferans Salonu",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim Programı · Spor Bi̇li̇mleri̇ Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261111110804_mendeley_ile_kaynak_yonetimi_ve_atif_egitimi.jpeg"
   },
   {
    "id": "dd9d6a1b4efc",
@@ -316,7 +364,7 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 21,
    "durum": "çalışıyor"
   },
   {

@@ -1,5 +1,37 @@
 [
  {
+  "id": "c69f866f5919",
+  "baslik": "Bandırma Vapuru",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Seyhan",
+  "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": "Kepez Kent Tiyatrosu",
+  "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
+  "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1786723237_ddec5eed1ee80b70c490.jpeg"
+ },
+ {
+  "id": "d894fc6f3c44",
+  "baslik": "i-Rec 2027 Uluslararası Fotoğraf Yarışması ve Sergisi",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Sarıçam",
+  "mekan": "online",
+  "kategori": "Sergi",
+  "ucretsiz": true,
+  "ozet": "Etkinlik",
+  "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.atu.edu.tr",
+  "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/101120261144_K_226_5c5ca7eb-191a-4fed-b68b-152bae73094a.png"
+ },
+ {
   "id": "327f31d86b19",
   "baslik": "Stres Yönetimi ve Motivasyon",
   "tarih": "2026-11-09",

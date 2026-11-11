@@ -1,6 +1,6 @@
 {
  "il": "cankiri",
- "guncelleme": "2026-11-10T13:48+03:00",
+ "guncelleme": "2026-11-11T13:20+03:00",
  "ilceler": [
   "Merkez",
   "Atkaracalar",
@@ -161,6 +161,22 @@
    "gorsel": null
   },
   {
+   "id": "f8af72109cbb",
+   "baslik": "Doğanın Sesi: Yer Altından Yeryüzüne Çankırı'da İklim Farkındalığı",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8729",
+   "gorsel": null
+  },
+  {
    "id": "1d8a54ac4b82",
    "baslik": "\"Kariyer Günleri: Mezunlar ile Buluşuyoruz, Konuşmacı: Nurcan Karaman\"",
    "tarih": "2026-12-01",
@@ -262,7 +278,7 @@
    "ad": "Çankırı Karatekin Üniversitesi",
    "tur": "universite",
    "url": "https://www.karatekin.edu.tr/tum-etkinlikler",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {

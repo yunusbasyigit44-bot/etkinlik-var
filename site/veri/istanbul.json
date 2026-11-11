@@ -1,6 +1,6 @@
 {
  "il": "istanbul",
- "guncelleme": "2026-11-10T13:56+03:00",
+ "guncelleme": "2026-11-11T13:28+03:00",
  "ilceler": [
   "Adalar",
   "Arnavutköy",
@@ -90,70 +90,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/ayni-sehir-farkli-renkler-7-20-11-26",
    "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/ayni-sehir-farkli-renkler-1d1f7fe7-6a05-4b8e-aeab-4828a0bc81ef.jpg"
-  },
-  {
-   "id": "c1feba105800",
-   "baslik": "Bir Pıcasso",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Şişli",
-   "mekan": "Mecidiyeköy Stüdyo Sahne",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bir-picasso",
-   "gorsel": "veri/gorsel/dt-bir-picasso.jpg"
-  },
-  {
-   "id": "17d1345d4cf8",
-   "baslik": "Atatürk ve Sanat",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Kadıköy",
-   "mekan": "Kadıköy Belediyesi Süreyya Operası",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/ataturk-ve-sanat-istanbul-dob",
-   "gorsel": "veri/gorsel/dob-2-3369.webp"
-  },
-  {
-   "id": "500d1cd30559",
-   "baslik": "Vesikalı Yarim",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Kadıköy",
-   "mekan": "Sinematek/Sinema Evi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Lütfi Ö. Akad’ın başyapıtı Vesikalı Yarim, geleneksel bir hayat süren manav Halil ile pavyonda çalışan Sabiha’nın imkânsız aşkını anlatır. Türkân Şoray ile İzzet Günay’ın incelikli oyunculukları, Sabiha ve Halil’in kırıl…",
-   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/vesikali-yarim-10-11-26",
-   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/vesikali-yarim-fd47f995-45cd-4839-84aa-4236d7579980.jpg"
-  },
-  {
-   "id": "bdab68e62bef",
-   "baslik": "Sumud (Gazze)",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Şişli",
-   "mekan": "Mecidiyeköy Büyük Sahne",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sumud-gazze",
-   "gorsel": "veri/gorsel/dt-sumud-gazze.webp"
   },
   {
    "id": "50958b6acc45",
@@ -380,6 +316,22 @@
    "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/adk-istanbul-genclik-quartet-9e8f997d-4a5a-40d1-a651-79d918adff30.jpg"
   },
   {
+   "id": "0e37f984469a",
+   "baslik": "Annemin Odası",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Kadıköy",
+   "mekan": "Caddebostan Kültür Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Yıllardır mesafeli bir ilişki sürdüren iki kardeş, annelerinin hastaneden zorunlu olarak taburcu edilip son günlerini geçirmek üzere Zeynep’in evine geleceği haberiyle bir araya gelir ve anneleri için evde bir oda hazırl…",
+   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/annemin-odasi-11-11-26",
+   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/annemin-odasi-a19d1eeb-d990-42f4-8864-85703c6be970.jpg"
+  },
+  {
    "id": "0582212b98fe",
    "baslik": "Sumud (Gazze)",
    "tarih": "2026-11-11",
@@ -394,6 +346,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sumud-gazze",
    "gorsel": "veri/gorsel/dt-sumud-gazze.webp"
+  },
+  {
+   "id": "8a6fde4b66ab",
+   "baslik": "İçimizdeki Şeytan",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "20:30",
+   "ilce": "Kadıköy",
+   "mekan": "Caddebostan Kültür Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Sabahattin Ali’nin ölümsüz eseri İçimizdeki Şeytan, insanın kendi içindeki karanlıkla, zaaflarıyla ve seçimleriyle yüzleşmesini sahneye taşıyor.",
+   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/icimizdeki-seytan-11-11-26",
+   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/icimizdeki-seytan-f04ac33a-4e88-4d9d-957a-9f909ecc1133.jpg"
   },
   {
    "id": "211cd72609ef",
@@ -1228,6 +1196,22 @@
    "gorsel": "veri/gorsel/dt-rumuz-goncagul.jpg"
   },
   {
+   "id": "b6733f8e8e2e",
+   "baslik": "Küçük Prens",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Beyoğlu",
+   "mekan": "AKM Tiyatro Sahnesi",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/kucuk-prens-istanbul-dob",
+   "gorsel": "veri/gorsel/dob-2-3354.webp"
+  },
+  {
    "id": "541d7fb73074",
    "baslik": "Rumuz Goncagül",
    "tarih": "2026-11-19",
@@ -1633,7 +1617,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 41,
+   "etkinlik_sayisi": 39,
    "durum": "çalışıyor"
   },
   {

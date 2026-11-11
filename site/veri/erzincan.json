@@ -1,6 +1,6 @@
 {
  "il": "erzincan",
- "guncelleme": "2026-11-10T13:50+03:00",
+ "guncelleme": "2026-11-11T13:22+03:00",
  "ilceler": [
   "Merkez",
   "Çayırlı",
@@ -13,6 +13,22 @@
   "Üzümlü"
  ],
  "etkinlikler": [
+  {
+   "id": "3454029390aa",
+   "baslik": "11 Kasım Milli Ağaçlandırma Günü",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Merkez",
+   "mekan": "EBYÜ – Yalnızbağ Yerleşkesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Fiziksel Etkinlik",
+   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://ebyu.edu.tr/etkinlik/11-kasim-milli-agaclandirma-gunu/",
+   "gorsel": null
+  },
   {
    "id": "f13561030603",
    "baslik": "Bozkırın Kızlarından Küresel Liderlere Türk Dünyasının Kadın Liderleri Kongresi",
@@ -67,7 +83,7 @@
    "ad": "Erzincan Binali Yıldırım Üniversitesi",
    "tur": "universite",
    "url": "https://ebyu.edu.tr/etkinlik/?ical=1",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

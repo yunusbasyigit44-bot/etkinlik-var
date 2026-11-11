@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-10T14:03+03:00",
+ "guncelleme": "2026-11-11T13:35+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -48,38 +48,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2799/Sergi-Ibrahim_Coskun_Ben_Anadolu_Resim_Sergisi",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
-  },
-  {
-   "id": "ce58f63e5b78",
-   "baslik": "10 Kasım Atatürk’ü Anma Programı",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Bodrum",
-   "mekan": "Bodrum Belediye Meydanı",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2832/Anma_Programi-10_Kasim_Ataturk%E2%80%99u_Anma_Programi",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
-  },
-  {
-   "id": "778d22356e6a",
-   "baslik": "Saat Dokuzu Beş Geçe, Bir Milletin Sessizliği- 10 Kasım Atatürk’ü Anma Konseri",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Bodrum",
-   "mekan": "B.B Herodot Kültür Merkezi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2836/Konser-Saat_Dokuzu_Bes_Gece_Bir_Milletin_Sessizligi-_10_Kasim_Ataturk%E2%80%99u_Anma_Konseri",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
   },
   {
    "id": "8785817c38ff",
@@ -370,6 +338,22 @@
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
   },
   {
+   "id": "e89664a66fa8",
+   "baslik": "Müdür - Öğrenci Buluşması",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "11:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mudur--ogrenci-bulusmasi-4720",
+   "gorsel": null
+  },
+  {
    "id": "de21a909bc52",
    "baslik": "Bölüm Başkanı & Öğrenci Buluşması",
    "tarih": "2026-11-24",
@@ -434,6 +418,22 @@
    "gorsel": null
   },
   {
+   "id": "aab868639272",
+   "baslik": "2. Aydın Tarım ve Hayvancılık Fuarı Teknik Gezi",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/2_-aydin-tarim-ve-hayvancilik-fuari-teknik-gezi-4721",
+   "gorsel": null
+  },
+  {
    "id": "6886e9814707",
    "baslik": "TVF Arabica Coffee Kadınlar Voleybol 1. Ligi B.B.Bodrumspor – Ateş Wind Power Bergama Belediyespor",
    "tarih": "2026-11-28",
@@ -463,6 +463,22 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mulakat-teknikleri-4679",
+   "gorsel": null
+  },
+  {
+   "id": "825fd36df6ce",
+   "baslik": "Mezunlarımız Ne yapıyor?",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "16:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mezunlarimiz-ne-yapiyor-4719",
    "gorsel": null
   },
   {
@@ -519,14 +535,14 @@
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 21,
    "durum": "çalışıyor"
   },
   {
    "ad": "Bodrum Belediyesi",
    "tur": "belediye",
    "url": "https://www.bodrum.bel.tr/etkinlik_takvimi",
-   "etkinlik_sayisi": 13,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {

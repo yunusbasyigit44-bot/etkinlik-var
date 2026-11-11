@@ -1,6 +1,6 @@
 {
  "il": "yozgat",
- "guncelleme": "2026-11-10T14:08+03:00",
+ "guncelleme": "2026-11-11T13:41+03:00",
  "ilceler": [
   "Merkez",
   "Akdağmadeni",
@@ -33,6 +33,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4270",
    "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/1ea5ca5f.jpeg"
+  },
+  {
+   "id": "dbc3b61cb168",
+   "baslik": "Bilim İletişimi Ofisi - Üniversitemiz COP31 Projeleri Tanıtım Etkinliği",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4271",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/86748311.jpeg"
   },
   {
    "id": "47b94a666a8f",
@@ -120,7 +136,7 @@
    "ad": "Yozgat Bozok Üniversitesi",
    "tur": "universite",
    "url": "https://www.bozok.edu.tr/",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

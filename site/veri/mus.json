@@ -1,6 +1,6 @@
 {
  "il": "mus",
- "guncelleme": "2026-11-10T14:04+03:00",
+ "guncelleme": "2026-11-11T13:35+03:00",
  "ilceler": [
   "Merkez",
   "Bulanık",
@@ -10,22 +10,6 @@
   "Varto"
  ],
  "etkinlikler": [
-  {
-   "id": "d7da8b1613bb",
-   "baslik": "Kadın Sağlığı",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Muş Alparslan Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muş Alparslan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/kadin-sagligi-9667",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1794231652.jpg"
-  },
   {
    "id": "c205ac3b4a07",
    "baslik": "Çocukların Dünyasına Dokunmak",
@@ -57,6 +41,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.alparslan.edu.tr/page/event/farkliliklara-saygi-ve-birlikte-yasam-kulturu-9649",
    "gorsel": "https://www.alparslan.edu.tr/images/event/1793879380.jpg"
+  },
+  {
+   "id": "8fde3ffc1434",
+   "baslik": "İslam Tarihinde Selçuklular",
+   "tarih": "2026-11-15",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/islam-tarihinde-selcuklular-9674",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1794389240.jpg"
+  },
+  {
+   "id": "2f49f8677ec9",
+   "baslik": "Son Ders",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/son-ders-9671",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1794316978.jpg"
   }
  ],
  "kaynaklar": [
@@ -64,7 +80,7 @@
    "ad": "Muş Alparslan Üniversitesi",
    "tur": "universite",
    "url": "https://www.alparslan.edu.tr/tr/page/event",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

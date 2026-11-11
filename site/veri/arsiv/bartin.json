@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "34299dc82331",
+  "baslik": "10 Kasım Atatürk'ü Anma Programı",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": "08:50",
+  "ilce": "Merkez",
+  "mekan": "Rektörlük Binası Tören Alanı",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bartın Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bartin.edu.tr/etkinlikler/10-kasim-ataturku-anma-programi-11091815.html",
+  "gorsel": "https://cdn.bartin.edu.tr/w3/bb5eef6299ac81c285772d2acbfe99c1/10-kasim-anma-programi-hikaye_tifil.jpg"
+ }
+]

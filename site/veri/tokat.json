@@ -1,6 +1,6 @@
 {
  "il": "tokat",
- "guncelleme": "2026-11-10T14:07+03:00",
+ "guncelleme": "2026-11-11T13:39+03:00",
  "ilceler": [
   "Merkez",
   "Almus",
@@ -16,22 +16,6 @@
   "Zile"
  ],
  "etkinlikler": [
-  {
-   "id": "e0cf63ba3c42",
-   "baslik": "10 Kasım Atatürk'ü Anma Programları",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Tokat Belediyesi",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tokat Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.tokat.bel.tr/etkinlikler/10-kasim-ataturku-anma-programlari",
-   "gorsel": "https://assets.tokat.bel.tr/tokatbld/events/1793870533512-7fc5ac7acc764fb8.webp"
-  },
   {
    "id": "6c165b4e08a9",
    "baslik": "Halk Oyunları Kursları Başlıyor",
@@ -54,8 +38,8 @@
    "ad": "Tokat Belediyesi",
    "tur": "belediye",
    "url": "https://www.tokat.bel.tr/",
-   "etkinlik_sayisi": 2,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Tiyatroları",

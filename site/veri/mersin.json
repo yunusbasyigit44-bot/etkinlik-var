@@ -1,6 +1,6 @@
 {
  "il": "mersin",
- "guncelleme": "2026-11-10T13:55+03:00",
+ "guncelleme": "2026-11-11T13:27+03:00",
  "ilceler": [
   "Akdeniz",
   "Anamur",
@@ -18,38 +18,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "5139c67003d1",
-   "baslik": "10 Kasım Atatürk'ü Anma Töreni",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Yenişehir",
-   "mekan": "MEÜ Cumhuriyet Meydanı",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": "Etkinlik",
-   "kaynak_ad": "Mersin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/10-kasim-ataturku-anma-toreni-n-10001650",
-   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/73d838e0-e7c4-46f3-8456-74a6f3fe8b21/91af342e-ae92-4fc8-a574-9e11d43094d4/3de94914-9654-40f3-b03c-e7b47d17bc1c/1280-96103272a193d1f12d8d08885bbbdfe8d328442ea6224db363313791d92a17b4.webp"
-  },
-  {
-   "id": "25d8d27a237b",
-   "baslik": "Tosca",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yenişehir",
-   "mekan": "Mersin Opera Büyük Sahne",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/tosca-mersin-dob",
-   "gorsel": "veri/gorsel/dob-4-614.webp"
-  },
-  {
    "id": "1eca74d7bb5e",
    "baslik": "Yüksek İmpakt Faktörlü Dergilerde (Q1/Q2) Makale Yazım Teknikleri-2",
    "tarih": "2026-11-11",
@@ -64,22 +32,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/yuksek-impakt-faktorlu-dergilerde-q1-q2-makale-yazim-teknikleri-2-n-10001080",
    "gorsel": "https://cdn.mersin.edu.tr/public/renditions/b23e874a-45fc-480b-946b-019d2926fd62/11fb6634-0caa-42cf-bbf0-3a8700d78cc5/176e77cc-2691-4927-879b-59ed1d9caf9b/960-b56aee053f1687cf60d62f4e066ba0b5c698edf469dd65b1a06adbb45f81288f.webp"
-  },
-  {
-   "id": "eccec675393c",
-   "baslik": "Işık Kadraj ve Hikaye Fotoğrafçılık Atölyesi",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "18:30",
-   "ilce": "Yenişehir",
-   "mekan": "MEÜSEM Derslikleri",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": "Atölye",
-   "kaynak_ad": "Mersin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/isik-kadraj-ve-hikaye-fotografcilik-atolyesi-n-10000796",
-   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/26d10367-635a-490a-984a-8dd81e34a62b/cfc30180-800a-49c1-892c-60c000b4d417/49895407-59b3-4b6d-afd2-4d9f65081d62/1280-add12eafc7ea45397eaeae65134f457e347fb98c0e545d53a1065664429f0b03.webp"
   },
   {
    "id": "3c70d6c99df6",
@@ -128,6 +80,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/romeo-juliet-mersin-dob",
    "gorsel": "veri/gorsel/dob-4-3186.webp"
+  },
+  {
+   "id": "491982573b54",
+   "baslik": "Dünya Felsefe Günü Paneli: İkarus'un Düşüşü'nde Estetiğin Yitimi",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Akdeniz",
+   "mekan": "Prof. Dr. Uğur Oral Kültür Merkezi B Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Akademik",
+   "kaynak_ad": "Mersin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/dunya-felsefe-gunu-paneli-ikarusun-dususunde-estetigin-yitimi-n-10001806",
+   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/7e53c8a3-a548-4c05-be0b-38e6671e09c9/68722398-dec2-4303-867b-907c564abebf/1653ae2d-6e38-404a-9c88-fca8f56ee732/1280-432b8bfd72284b14a560b1cf69eda4cb18031ca7f9f05f4e97f1164006e61d26.webp"
   },
   {
    "id": "9338692f4d33",
@@ -192,6 +160,38 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://www.operabale.gov.tr/directorates/mersin-opera-ve-balesi-4",
    "gorsel": "veri/gorsel/dob-4-472.webp"
+  },
+  {
+   "id": "cf999ef75e0d",
+   "baslik": "Müze Sohbetleri - 15: Süveyş'ten Sürek Avına Balon Balığının Hikayesi",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "18:00",
+   "ilce": "Yenişehir",
+   "mekan": "Deniz Bilimleri Uygulama ve Araştırma Merkezi Deniz Canlıları Müzesi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": "Akademik",
+   "kaynak_ad": "Mersin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/muze-sohbetleri-15-suveysten-surek-avina-balon-baliginin-hikayesi-n-10001805",
+   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/f8b3b3fc-6e7e-40d5-aa13-2f3f8495d6c6/ad5c84ff-b4fa-487a-ba02-149eac63988c/58c46c82-3e53-4162-b7a0-e9eeb5e7c3b6/1280-a84b1b5f170b306240e69abdb02a6c52355445eb91d1bb3fe7829514d59f7002.webp"
+  },
+  {
+   "id": "2945db47ab3c",
+   "baslik": "Kıss Me Kate",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Yenişehir",
+   "mekan": "Mersin Opera Büyük Sahne",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/kiss-me-kate-mersin-dob",
+   "gorsel": "veri/gorsel/dob-4-139.webp"
   },
   {
    "id": "c5effdc57d56",

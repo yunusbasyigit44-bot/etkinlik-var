@@ -1,6 +1,6 @@
 {
  "il": "siirt",
- "guncelleme": "2026-11-10T14:05+03:00",
+ "guncelleme": "2026-11-11T13:37+03:00",
  "ilceler": [
   "Merkez",
   "Aydınlar",
@@ -11,32 +11,8 @@
   "Şirvan",
   "Tillo"
  ],
- "etkinlikler": [
-  {
-   "id": "5b546edee1e8",
-   "baslik": "Kalitenin Yesil Boyutu",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Siirt Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Genel",
-   "kaynak_ad": "Siirt Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.siirt.edu.tr/etkinliktakvimi.html",
-   "gorsel": "https://www.siirt.edu.tr/foto/etkinlik/kalitenin-yesil-boyutu2026111014125776.jpeg"
-  }
- ],
+ "etkinlikler": [],
  "kaynaklar": [
-  {
-   "ad": "Siirt Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.siirt.edu.tr/etkinliktakvimi.html",
-   "etkinlik_sayisi": 1,
-   "durum": "çalışıyor"
-  },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
@@ -71,6 +47,13 @@
    "url": "https://www.siirt.gov.tr",
    "etkinlik_sayisi": 0,
    "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Siirt Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.siirt.edu.tr/etkinliktakvimi.html",
+   "etkinlik_sayisi": 0,
+   "durum": "hata: <urlopen error timed out>"
   },
   {
    "ad": "Siirt İl Kültür ve Turizm Müdürlüğü",

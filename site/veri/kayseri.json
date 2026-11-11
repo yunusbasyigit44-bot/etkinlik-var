@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-11-10T13:59+03:00",
+ "guncelleme": "2026-11-11T13:30+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -20,38 +20,6 @@
   "Yeşilhisar"
  ],
  "etkinlikler": [
-  {
-   "id": "d7abd7a1064e",
-   "baslik": "10 Kasım Atatürk'ü Anma Programı",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "09:05",
-   "ilce": "Melikgazi",
-   "mekan": "Erciyes Üniversitesi",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Erciyes Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.erciyes.edu.tr/tr/etkinlik-detay/10-kasim-ataturku-anma-programi/10452",
-   "gorsel": "https://www.erciyes.edu.tr/images/Etkinlik/c15d0e8f-1d1b-4ed3-b6e6-fcc8881cb441.jpg"
-  },
-  {
-   "id": "8cf9116452d6",
-   "baslik": "Vefatının 88. Yılında Atatürk'ü Anmak ve Anlamak",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "09:30",
-   "ilce": "Melikgazi",
-   "mekan": "Erciyes Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Erciyes Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.erciyes.edu.tr/tr/etkinlik-detay/vefatinin-88-yilinda-ataturku-anmak-ve-anlamak/10453",
-   "gorsel": "https://www.erciyes.edu.tr/images/Etkinlik/125dbdfc-8fdc-40a3-a12c-e04a999f34f3.jpg"
-  },
   {
    "id": "899f7c85f1d0",
    "baslik": "Leenane'in Güzellik Kraliçesi",
@@ -334,18 +302,18 @@
    "durum": "çalışıyor"
   },
   {
-   "ad": "Erciyes Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.erciyes.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 2,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
-  },
-  {
    "ad": "Abdullah Gül Üniversitesi",
    "tur": "universite",
    "url": "https://www.agu.edu.tr",
    "etkinlik_sayisi": 0,
    "durum": "etkinlik takvimi bulunamadı"
+  },
+  {
+   "ad": "Erciyes Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.erciyes.edu.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Kayseri Büyükşehir Belediyesi",

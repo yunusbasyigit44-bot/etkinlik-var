@@ -1,6 +1,6 @@
 {
  "il": "ordu",
- "guncelleme": "2026-11-10T14:05+03:00",
+ "guncelleme": "2026-11-11T13:36+03:00",
  "ilceler": [
   "Altınordu",
   "Akkuş",
@@ -23,22 +23,6 @@
   "Ünye"
  ],
  "etkinlikler": [
-  {
-   "id": "144afa92215f",
-   "baslik": "Prof. Giorgio ALBİANİ Gitar Resitali ve Workshop",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Altınordu",
-   "mekan": "Müzik ve Sahne Sanatları Ceren Özdemir Konser ve Konferans Salonu",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Ordu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://odu.edu.tr/Etkinlikler/406/prof-giorgio-albiani-gitar-resitali-ve-workshop",
-   "gorsel": null
-  },
   {
    "id": "f06704431e1f",
    "baslik": "Anadolu Üniversiteleri Belgesel Atölyeleri",
@@ -93,7 +77,7 @@
    "ad": "Ordu Üniversitesi",
    "tur": "universite",
    "url": "https://odu.edu.tr/TumEtkinlikler",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

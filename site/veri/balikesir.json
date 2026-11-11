@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-10T13:47+03:00",
+ "guncelleme": "2026-11-11T13:19+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -24,22 +24,6 @@
   "Susurluk"
  ],
  "etkinlikler": [
-  {
-   "id": "58edcbbb8dd7",
-   "baslik": "Atatürk ve İnsan Sevgisi” Konulu Konferans",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Bandırma",
-   "mekan": "Prof. Dr. Aziz Sancar Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bandırma Onyedi Eylül Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste/Ataturk-ve-Insan-Sevgisi-Konulu-Konferans-1923?k=-1",
-   "gorsel": null
-  },
   {
    "id": "865e25d4bcb3",
    "baslik": "Gastronomi Kulübü ile Engelsiz Mutfak",
@@ -87,6 +71,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Afi%C5%9F_1793863414.jpeg"
+  },
+  {
+   "id": "7c19c0ca5e6e",
+   "baslik": "Bağımlılıkta Algı ve Tutum",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Altıeylül",
+   "mekan": "Şehit Savcı Mehmet Selim Kiraz Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Burhaniye Uygulamali Bilimler Fakültesi",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Son_Fak%C3%BClte_Ba%C4%9F%C4%B1ml%C4%B1l%C4%B1kta_Alg%C4%B1_ve_Tutum_Etkinli%C4%9Fi_1794389900.png"
   },
   {
    "id": "eada9e6a5ffe",
@@ -174,14 +174,7 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 8,
-   "durum": "çalışıyor"
-  },
-  {
-   "ad": "Bandırma Onyedi Eylül Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste?k=-1",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {
@@ -218,6 +211,13 @@
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "oyun takvimi yayımlanmıyor"
+  },
+  {
+   "ad": "Bandırma Onyedi Eylül Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste?k=-1",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Devlet Tiyatroları",

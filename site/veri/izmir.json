@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-11-10T13:58+03:00",
+ "guncelleme": "2026-11-11T13:30+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -177,70 +177,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.konak.bel.tr/tr/etkinlikler/etkinlik/zamanin-dokusu",
    "gorsel": "https://www.konak.bel.tr/upload/activity/9dccf9bd-fe3e-4949-9403-e18f613830e7_6adf35065a7b6.jpg"
-  },
-  {
-   "id": "92e63f75c2ac",
-   "baslik": "Aziz Vukolos'ta Akustik Türk Müziği Konserleri",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Konak",
-   "mekan": "Aziz Vukolos Kilisesi Kültür Merkezi (Ayavukla Kilisesi)",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": null,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-15/9fdca017-d5c1-4dc7-8ee9-d71c6a2a54bb-dqpjs2x1.jpg"
-  },
-  {
-   "id": "6a9caf0d3ef1",
-   "baslik": "Hayâl-i Temsil",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hayal-i-temsil",
-   "gorsel": "veri/gorsel/dt-hayal-i-temsil.jpg"
-  },
-  {
-   "id": "4edbbb09af34",
-   "baslik": "Fareler ve İnsanlar",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareler-ve-insanlar",
-   "gorsel": "veri/gorsel/dt-fareler-ve-insanlar.jpg"
-  },
-  {
-   "id": "25d8d27a237b",
-   "baslik": "Tosca",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Necdet Aydın Salonu",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/tosca-izmir-dob",
-   "gorsel": "veri/gorsel/dob-3-88.webp"
   },
   {
    "id": "3c678baa2088",
@@ -1363,6 +1299,38 @@
    "gorsel": "veri/gorsel/dt-bagdat-ruzgarinda-dokuz-kadin.webp"
   },
   {
+   "id": "ff0007bcfa3e",
+   "baslik": "Trıo Vecando Konseri",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "Ahmed Adnan Saygun Sanat Merkezi Küçük Salon",
+   "kategori": "Konser",
+   "ucretsiz": false,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-11/2b38f876-4596-4602-aee2-88a3e12350c5-1xujekum.jpg"
+  },
+  {
+   "id": "bfd6e9fc6bf1",
+   "baslik": "İzmir Oda Orkestrası Konseri",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "Ahmed Adnan Saygun Sanat Merkezi Büyük Salon",
+   "kategori": "Konser",
+   "ucretsiz": false,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-11/d03f7b6d-cf8f-4171-a237-16ab28fcc122-rcpflhdg.jpg"
+  },
+  {
    "id": "401207e5535d",
    "baslik": "Kurtlar Sofrası",
    "tarih": "2026-11-28",
@@ -1523,6 +1491,22 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-15/920fd09a-2485-4e3f-9fbb-0d360a3b8401-xntus1y2.jpg"
   },
   {
+   "id": "f4a3ccdac37a",
+   "baslik": "Gıselle",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Necdet Aydın Salonu",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/giselle-izmir-dob",
+   "gorsel": "veri/gorsel/dob-3-1140.webp"
+  },
+  {
    "id": "3ae2a1f5ec82",
    "baslik": "33.TBD-Halıcı Bilgisayarla Beste Yarışması",
    "tarih": "2026-12-10",
@@ -1553,6 +1537,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-15/1dab1e95-46c9-4d4a-8899-5b5f496ac464-mmhmsrnk.jpg"
+  },
+  {
+   "id": "1c25905d582b",
+   "baslik": "2027 İzmir Uluslararası Çoksesli Korolar Festivali",
+   "tarih": "2027-01-17",
+   "bitis": null,
+   "saat": "23:59",
+   "ilce": "Konak",
+   "mekan": "Ahmed Adnan Saygun Sanat Merkezi",
+   "kategori": "Konser",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-11/dd8155ff-e6a9-415d-9c94-e481698e6a97-50zkuy5j.jpg"
   }
  ],
  "kaynaklar": [
@@ -1560,14 +1560,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 49,
+   "etkinlik_sayisi": 47,
    "durum": "çalışıyor"
   },
   {
    "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "tur": "belediye",
    "url": "https://kultursanat.izmir.bel.tr/",
-   "etkinlik_sayisi": 36,
+   "etkinlik_sayisi": 38,
    "durum": "çalışıyor"
   },
   {

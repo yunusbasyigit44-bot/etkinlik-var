@@ -1,5 +1,21 @@
 [
  {
+  "id": "e0cf63ba3c42",
+  "baslik": "10 Kasım Atatürk'ü Anma Programları",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Tokat Belediyesi",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Tokat Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.tokat.bel.tr/etkinlikler/10-kasim-ataturku-anma-programlari",
+  "gorsel": "https://assets.tokat.bel.tr/tokatbld/events/1793870533512-7fc5ac7acc764fb8.webp"
+ },
+ {
   "id": "9258275a3979",
   "baslik": "Çark Dönerken Eserini Üret!",
   "tarih": "2026-11-08",

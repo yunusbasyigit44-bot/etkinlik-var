@@ -1,5 +1,37 @@
 [
  {
+  "id": "4c318b6ba12e",
+  "baslik": "10 Kasım Atatürk'ü Anma Etkinlikleri Geleneksel Atatürk Koşusu",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Isparta Uygulamalı Bilimler Üniversitesi",
+  "kategori": "Spor",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Isparta Uygulamalı Bilimler Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.iste.edu.tr/etkinlik-merkezi/2026/11/10/950",
+  "gorsel": "https://www.iste.edu.tr/gallery/_etkinlik_thumb/950_event_1793623668.jpeg"
+ },
+ {
+  "id": "8786163de07b",
+  "baslik": "Acil Dediler Geldik",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "SDÜ Araştırma ve Uygulama Hastanesi Acil Servisi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": "Eğitim Programı",
+  "kaynak_ad": "Süleyman Demirel Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+  "gorsel": null
+ },
+ {
   "id": "461ee08ba6ea",
   "baslik": "Eğirdir Sağlık Hizmetleri MYO Masa Tenisi Turnuvası",
   "tarih": "2026-11-09",

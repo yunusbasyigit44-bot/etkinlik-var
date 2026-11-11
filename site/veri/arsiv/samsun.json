@@ -1,5 +1,21 @@
 [
  {
+  "id": "c53a3267f5cf",
+  "baslik": "10 Kasım Atatürk'ü Anma Günü: Atatürk ve Kitap",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Atakum",
+  "mekan": "Ondokuz Mayıs Üniversitesi",
+  "kategori": "Edebiyat",
+  "ucretsiz": true,
+  "ozet": "Anma",
+  "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/anma-sergi-soylesi/10-kasim-ataturku-anma-gunu-ataturk-ve-kitap",
+  "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/omu_bilim_kafe_ataturk_ve_kitap_10_kasim_2026.jpeg"
+ },
+ {
   "id": "86747825b0e9",
   "baslik": "Uygulamalı Girişimcilik Eğitimi",
   "tarih": "2026-11-09",

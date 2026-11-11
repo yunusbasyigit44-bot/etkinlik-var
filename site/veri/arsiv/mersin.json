@@ -1,5 +1,37 @@
 [
  {
+  "id": "5139c67003d1",
+  "baslik": "10 Kasım Atatürk'ü Anma Töreni",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": "09:00",
+  "ilce": "Yenişehir",
+  "mekan": "MEÜ Cumhuriyet Meydanı",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": "Etkinlik",
+  "kaynak_ad": "Mersin Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/10-kasim-ataturku-anma-toreni-n-10001650",
+  "gorsel": "https://cdn.mersin.edu.tr/public/renditions/73d838e0-e7c4-46f3-8456-74a6f3fe8b21/91af342e-ae92-4fc8-a574-9e11d43094d4/3de94914-9654-40f3-b03c-e7b47d17bc1c/1280-96103272a193d1f12d8d08885bbbdfe8d328442ea6224db363313791d92a17b4.webp"
+ },
+ {
+  "id": "25d8d27a237b",
+  "baslik": "Tosca",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Yenişehir",
+  "mekan": "Mersin Opera Büyük Sahne",
+  "kategori": "Opera & Bale",
+  "ucretsiz": false,
+  "ozet": "Devlet Opera ve Balesi",
+  "kaynak_ad": "Devlet Opera ve Balesi",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://biletinial.com/opera-bale/tosca-mersin-dob",
+  "gorsel": null
+ },
+ {
   "id": "f7ad6ab66548",
   "baslik": "Romeo ve Julıet",
   "tarih": "2026-11-07",

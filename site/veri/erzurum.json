@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-10T13:51+03:00",
+ "guncelleme": "2026-11-11T13:23+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -24,38 +24,6 @@
   "Uzundere"
  ],
  "etkinlikler": [
-  {
-   "id": "9b3cdafd5aa1",
-   "baslik": "Delikburunlular Kabilesi",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/delikburunlular-kabilesi",
-   "gorsel": "veri/gorsel/dt-delikburunlular-kabilesi.webp"
-  },
-  {
-   "id": "1f1871d32f90",
-   "baslik": "Umudun Adı: Mustafa Kemal Atatürk",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum Teknik Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Erzurum Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://erzurum.edu.tr/etkinlik/umudun-ad-mustafa-kemal-ataturk1",
-   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/2ebf8216-627a-4d03-82fc-902675f77eca.webp?width=600&height=749&mode=carve"
-  },
   {
    "id": "92db699d24af",
    "baslik": "Bilimsel Makale Yazma ve Yayımlama Süreci Eğitimi",
@@ -503,6 +471,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://atauni.edu.tr/etkinlik/spss-ile-temel-istatistik-kursu-4/",
    "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/spss-temel-819x1024.jpeg"
+  },
+  {
+   "id": "4f84d605ddcd",
+   "baslik": "Temel İngilizce Konuşma Eğitimi",
+   "tarih": "2026-12-08",
+   "bitis": null,
+   "saat": "18:00",
+   "ilce": "Yakutiye",
+   "mekan": "Atatürk Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Atatürk Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://atauni.edu.tr/etkinlik/temel-ingilizce-konusma-egitimi/",
+   "gorsel": null
+  },
+  {
+   "id": "8b7b69feaa7b",
+   "baslik": "Sertifikalı Solidworks Eğitimi",
+   "tarih": "2026-12-28",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Yakutiye",
+   "mekan": "Atatürk Üniversitesi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Atatürk Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://atauni.edu.tr/etkinlik/sertifikali-solidworks-egitimi/",
+   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/Sertifikali-Solidworks-Egitimi-819x1024.jpeg"
   }
  ],
  "kaynaklar": [
@@ -510,21 +510,21 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 16,
+   "etkinlik_sayisi": 15,
    "durum": "çalışıyor"
   },
   {
    "ad": "Atatürk Üniversitesi",
    "tur": "universite",
    "url": "https://atauni.edu.tr/tum-etkinlikler/",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 12,
    "durum": "çalışıyor"
   },
   {
    "ad": "Erzurum Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://erzurum.edu.tr/",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

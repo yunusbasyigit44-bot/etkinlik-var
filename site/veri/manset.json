@@ -1,6 +1,6 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-11-10",
+ "guncelleme": "2026-11-11",
  "secilenler": [
   {
    "id": "d7762ec713f9",
@@ -9,48 +9,36 @@
    "elle": true
   },
   {
-   "id": "2324515fdeac",
+   "id": "07a3ece453b3",
    "not": "Ankara'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "25d8d27a237b",
-   "not": "Mersin'de opera ve bale sahnesinden bir akşam."
-  },
-  {
-   "id": "17d1345d4cf8",
+   "id": "ecac8268386d",
    "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "3247b6441599",
-   "not": "Sinop'ta festival havası."
+   "id": "cfa26a9836cc",
+   "not": "Ankara'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "f956d28fe684",
-   "not": "Eskişehir'de geleneksel ezgiler."
-  },
-  {
-   "id": "bd7c4713cbb9",
-   "not": "Iğdır'da canlı müzik keyfi."
-  },
-  {
-   "id": "778d22356e6a",
-   "not": "Muğla'da canlı müzik keyfi."
-  },
-  {
-   "id": "975a64660302",
-   "not": "Bursa'da canlı müzik keyfi."
-  },
-  {
-   "id": "2c455e2b4819",
-   "not": "Konya'da geleneksel ezgiler."
-  },
-  {
-   "id": "92e63f75c2ac",
-   "not": "İzmir'de geleneksel ezgiler."
+   "id": "336035cc46de",
+   "not": "İstanbul'da canlı müzik keyfi."
   },
   {
    "id": "8354eb5658f5",
    "not": "Samsun'da festival havası."
+  },
+  {
+   "id": "1eb9b8382376",
+   "not": "Konya'da geleneksel ezgiler."
+  },
+  {
+   "id": "ab8b39872956",
+   "not": "İzmir'de canlı müzik keyfi."
+  },
+  {
+   "id": "d8eb6d500e57",
+   "not": "Burdur'da canlı müzik keyfi."
   },
   {
    "id": "cdb5c6524545",
@@ -67,6 +55,18 @@
   {
    "id": "6c165b4e08a9",
    "not": "Tokat'ta ritim ve dans dolu bir gösteri."
+  },
+  {
+   "id": "a00303c71871",
+   "not": "Gaziantep'te gezip görülecek bir sergi."
+  },
+  {
+   "id": "6f85dac51929",
+   "not": "Eskişehir'de gezip görülecek bir sergi."
+  },
+  {
+   "id": "6dbaf62dc677",
+   "not": "Muğla'da gezip görülecek bir sergi."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "il": "diyarbakir",
- "guncelleme": "2026-11-10T13:50+03:00",
+ "guncelleme": "2026-11-11T13:21+03:00",
  "ilceler": [
   "Bağlar",
   "Bismil",
@@ -36,22 +36,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/ucretsiz-kort-tenisi-kursu-12977",
    "gorsel": "https://www.dicle.edu.tr/contents/events/photos/61730663-be34-4427-a527-63d900c094a2/ss_thumb_a31d6ad776c440ceb86a935cdae4519a_WhatsApp%20Image%202026-10-26%20at%2011.43.28.jpeg"
-  },
-  {
-   "id": "bc8e640031a3",
-   "baslik": "Gün Eksilmesin Penceremden",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yenişehir",
-   "mekan": "Oda Tiyatrosu Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gun-eksilmesin-penceremden",
-   "gorsel": "veri/gorsel/dt-gun-eksilmesin-penceremden.jpg"
   },
   {
    "id": "299f616353d4",
@@ -571,7 +555,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 24,
+   "etkinlik_sayisi": 23,
    "durum": "çalışıyor"
   },
   {

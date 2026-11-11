@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "5b546edee1e8",
+  "baslik": "Kalitenin Yesil Boyutu",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Siirt Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Genel",
+  "kaynak_ad": "Siirt Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.siirt.edu.tr/etkinliktakvimi.html",
+  "gorsel": "https://www.siirt.edu.tr/foto/etkinlik/kalitenin-yesil-boyutu2026111014125776.jpeg"
+ }
+]

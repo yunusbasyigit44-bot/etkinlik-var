@@ -1,5 +1,21 @@
 [
  {
+  "id": "bd7c4713cbb9",
+  "baslik": "''10 Kasım Atatürk'ü Anma Günü'' Panel & Anma Konseri",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Merkez",
+  "mekan": "Iğdır Üniversitesi",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Iğdır Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/10-kasm-ataturk-u-anma-gunu-panel-anma-konseri-38/register",
+  "gorsel": "https://www.igdir.edu.tr/web/image/56868-b0804e42/1.jfif"
+ },
+ {
   "id": "c1ec98d8104d",
   "baslik": "Azerbaycan Nağmeleri\" - Amina Tabaru Solo Konseri",
   "tarih": "2026-11-08",

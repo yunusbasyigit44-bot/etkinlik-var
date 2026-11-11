@@ -1,5 +1,21 @@
 [
  {
+  "id": "3791bd12846c",
+  "baslik": "Afad Gönüllülük Sistemi Egitimi",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": "13:30",
+  "ilce": "Merkez",
+  "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4151",
+  "gorsel": null
+ },
+ {
   "id": "fe88db9cbd3f",
   "baslik": "Deprem Tahliye Egitimi",
   "tarih": "2026-11-09",

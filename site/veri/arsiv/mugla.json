@@ -1,5 +1,37 @@
 [
  {
+  "id": "ce58f63e5b78",
+  "baslik": "10 Kasım Atatürk’ü Anma Programı",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": "10:30",
+  "ilce": "Bodrum",
+  "mekan": "Bodrum Belediye Meydanı",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bodrum Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2832/Anma_Programi-10_Kasim_Ataturk%E2%80%99u_Anma_Programi",
+  "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+ },
+ {
+  "id": "778d22356e6a",
+  "baslik": "Saat Dokuzu Beş Geçe, Bir Milletin Sessizliği- 10 Kasım Atatürk’ü Anma Konseri",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": "19:30",
+  "ilce": "Bodrum",
+  "mekan": "B.B Herodot Kültür Merkezi",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bodrum Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2836/Konser-Saat_Dokuzu_Bes_Gece_Bir_Milletin_Sessizligi-_10_Kasim_Ataturk%E2%80%99u_Anma_Konseri",
+  "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+ },
+ {
   "id": "85efd8e19ed5",
   "baslik": "Bir Ulusun Dönüşümünde Liderliğin Gücü: Atatürk ve Toplumsal Değişimin Sosyal Psikolojisi",
   "tarih": "2026-11-09",

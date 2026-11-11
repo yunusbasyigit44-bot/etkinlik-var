@@ -1,5 +1,21 @@
 [
  {
+  "id": "aae49c5bd50f",
+  "baslik": "Gazi Mustafa Kemal Atatürk'ü Anma Günü",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": "12:30",
+  "ilce": "Merkez",
+  "mekan": "Kırşehir Belediyesi",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Kırşehir Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/gazi-mustafa-kemal-atatuerk-ue-anma-guenue",
+  "gorsel": "https://www.kirsehir.bel.tr/storage/events/0iDFlaVDb9LYGnljK5emIYnTY2gpkQe7ZOojEbB7.jpg"
+ },
+ {
   "id": "eccd2a1d9678",
   "baslik": "Cumhuriyet Kampı",
   "tarih": "2026-10-30",

@@ -1,6 +1,6 @@
 {
  "il": "sinop",
- "guncelleme": "2026-11-10T14:06+03:00",
+ "guncelleme": "2026-11-11T13:37+03:00",
  "ilceler": [
   "Merkez",
   "Ayancık",
@@ -28,22 +28,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sinop.edu.tr/etkinlik/2026-yds-2-soru-cozme-kampi/",
    "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/09/YDS-SORU-COZME-KAMPI.webp"
-  },
-  {
-   "id": "3247b6441599",
-   "baslik": "U-FEST / Türkiye'nin En Kapsamlı Ulaşım Festivali",
-   "tarih": "2026-11-09",
-   "bitis": "2026-11-10",
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Sinop Üniversitesi",
-   "kategori": "Festival",
-   "ucretsiz": true,
-   "ozet": "Bilimsel Etkinlikler",
-   "kaynak_ad": "Sinop Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/u-fest-turkiyenin-en-kapsamli-ulasim-festivali/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/11/ufest.png"
   },
   {
    "id": "e810b76cfa95",
@@ -211,7 +195,7 @@
    "ad": "Sinop Üniversitesi",
    "tur": "universite",
    "url": "https://www.sinop.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {

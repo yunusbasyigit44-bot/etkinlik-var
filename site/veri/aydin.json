@@ -1,6 +1,6 @@
 {
  "il": "aydin",
- "guncelleme": "2026-11-10T13:47+03:00",
+ "guncelleme": "2026-11-11T13:18+03:00",
  "ilceler": [
   "Efeler",
   "Bozdoğan",
@@ -21,54 +21,6 @@
   "Yenipazar"
  ],
  "etkinlikler": [
-  {
-   "id": "89b84177fc46",
-   "baslik": "İş Sağlığı ve Güvenliği Eğitimi",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Efeler",
-   "mekan": "https://adusem.adu.edu.tr/?",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/is-sagligi-ve-guvenligi-egitimi-2000148613",
-   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261103154732-2CHO8IBO2N5JPF0TLKD1-000076162472458090703344.jpeg"
-  },
-  {
-   "id": "7b3be3008689",
-   "baslik": "10 Kasım Atatürk'ü Anma Programı",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Efeler",
-   "mekan": "Atatürk Kongre Merkezi Önü, 15 Temmuz Şehitler Meydanı",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": "Anma Programı",
-   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/10-kasim-ataturk-u-anma-programi-2000148788",
-   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261110105007-02J68N633EAZ6AG79T11-000055482298095753998751.jpeg"
-  },
-  {
-   "id": "445a88137702",
-   "baslik": "Atatürk'ün Fikir Dünyası",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "09:30",
-   "ilce": "Efeler",
-   "mekan": "Atatürk Kongre Merkezi Yörük İsa Bey Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Panel",
-   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/ataturk-un-fikir-dunyasi-2000148774",
-   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261109111513-FV1Q4FMD51635Q421VI1-000088651962531600883185.jpg"
-  },
   {
    "id": "3ac84cd44427",
    "baslik": "2026-2027 Akademik Yılı Açılış Töreni",
@@ -427,7 +379,7 @@
    "ad": "Aydın Adnan Menderes Üniversitesi",
    "tur": "universite",
    "url": "https://haber.adu.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 25,
+   "etkinlik_sayisi": 22,
    "durum": "çalışıyor"
   },
   {

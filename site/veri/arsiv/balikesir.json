@@ -1,5 +1,21 @@
 [
  {
+  "id": "58edcbbb8dd7",
+  "baslik": "Atatürk ve İnsan Sevgisi” Konulu Konferans",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": "10:30",
+  "ilce": "Bandırma",
+  "mekan": "Prof. Dr. Aziz Sancar Konferans Salonu",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bandırma Onyedi Eylül Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste/Ataturk-ve-Insan-Sevgisi-Konulu-Konferans-1923?k=-1",
+  "gorsel": null
+ },
+ {
   "id": "78fdfad8d14f",
   "baslik": "Balıkesirli Büyük Alim İmam Birgivi'nin İzinde",
   "tarih": "2026-11-09",

@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-10T14:08+03:00",
+ "guncelleme": "2026-11-11T13:39+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -23,84 +23,36 @@
  ],
  "etkinlikler": [
   {
-   "id": "d7abd7a1064e",
-   "baslik": "10 Kasım Atatürk'ü Anma Programı",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "09:05",
-   "ilce": "Ortahisar",
-   "mekan": "OKM",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/tr/etkinlik/10-kasim-ataturku-anma-programi-54",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/1TM3IN.jpg"
-  },
-  {
-   "id": "c9971efb9ab7",
-   "baslik": "10 Kasım Atatürk'ü Anma Günü",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "09:05",
-   "ilce": "Ortahisar",
-   "mekan": "Atatürk Anıtı Önü (Rektörlük Önü) 🗓 10 Kasım 2026 - Salı 🕥 10.00 (Anma Konseri)",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Trabzon Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/3628",
-   "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/5/0f2c2b47-d0b2-47ee-93b5-3794a7cd2174.png"
-  },
-  {
-   "id": "5114490adb57",
-   "baslik": "\"Atatürk ve Trabzon\" Konferansı",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Ortahisar",
-   "mekan": "Mahmut Goloğlu Kültür Merkezi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Trabzon Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/3636",
-   "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/6/5b04d538-b56e-4b6b-88fb-1e5c6ee1dbf6.jpeg"
-  },
-  {
-   "id": "af21e4f4ca98",
-   "baslik": "Eczacılık Alanında Bilimsel Literatür Tarama Teknikleri",
+   "id": "326cdc83103f",
+   "baslik": "EBSCO Veritabanları Eğitimi",
    "tarih": "2026-11-11",
    "bitis": null,
    "saat": "10:30",
    "ilce": "Ortahisar",
-   "mekan": "Eczacılık Fakültesi Büyük Amfi",
-   "kategori": "Sağlık",
+   "mekan": "KTÜ",
+   "kategori": "Atölye",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Karadeniz Teknik Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/eczacilik/etkinlik/eczacilik-alaninda-bilimsel-literatur-tarama-teknikleri",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/0ZAQ0J.jpg"
+   "kaynak_url": "https://www.ktu.edu.tr/library/etkinlik/ebsco-veritabanlari-egitimi",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/eMlfEJ.jpg"
   },
   {
-   "id": "ab5f7d347263",
-   "baslik": "Öğrencilerimiz Trabzon Valisi ile Buluşuyor",
+   "id": "9165f05cbdf1",
+   "baslik": "Scopus/Scival",
    "tarih": "2026-11-11",
    "bitis": null,
-   "saat": "11:00",
+   "saat": "13:00",
    "ilce": "Ortahisar",
-   "mekan": "KTÜ İİBF Amfi 3",
+   "mekan": "TTM Eğitim Salonu",
    "kategori": "Diğer",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Karadeniz Teknik Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/iibf/etkinlik/ogrencilerimiz-trabzon-valisi-ile-bulusuyor",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/gRQiGQ.jpg"
+   "kaynak_url": "https://www.ktu.edu.tr/library/etkinlik/scopus-scival",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/library_86e199f4c22a.jpg"
   },
   {
    "id": "bde202eb6940",
@@ -212,7 +164,7 @@
    "kaynak_ad": "Karadeniz Teknik Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ktu.edu.tr/ilafar/etkinlik/ozel-gun-etkinligi-dunya-diyabet-gunu",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/ilafar_6ed3ced87334.jpg"
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/tL6N4P.jpg"
   },
   {
    "id": "139caa34780a",
@@ -307,8 +259,8 @@
    "ozet": null,
    "kaynak_ad": "Karadeniz Teknik Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/dis-eti-kanamasi-normal-mi-dis-etlerimiz-bize-ne-anlatiyor",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_1f9ddfe7a684.jpg"
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/dis-eti-kanamasi-normal-mi-dis-etlerimiz-bize-ne-anlatiyor-P6",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_305b3f2996f1.jpg"
   },
   {
    "id": "d16c413728be",
@@ -759,6 +711,22 @@
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
   },
   {
+   "id": "45ea0dde486f",
+   "baslik": "Yer ve Yapı İncelemelerinde Jeofizik Bilimi ve Mühendisliği",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/yer-ve-yapi-incelemelerinde-jeofizik-bilimi-ve-muhendisligi",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_954d3ff97b67.jpg"
+  },
+  {
    "id": "aba818b56f3f",
    "baslik": "Dijital Etik ve Veri Gizliliği",
    "tarih": "2026-12-10",
@@ -773,22 +741,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ktu.edu.tr/akademi/etkinlik/dijital-etik-ve-veri-gizliligi",
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/akademi_8b89c7333c6e.jpg"
-  },
-  {
-   "id": "a7d7dfdcdecc",
-   "baslik": "Üretken Yapay Zekâ ile Sunum Hazırlama",
-   "tarih": "2026-12-17",
-   "bitis": null,
-   "saat": "08:00",
-   "ilce": "Ortahisar",
-   "mekan": "BTK Akademi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/akademi/etkinlik/uretken-yapay-zeka-ile-sunum-hazirlama",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/akademi_0f9e9a03c705.jpg"
   },
   {
    "id": "18daabd9b750",
@@ -842,7 +794,7 @@
    "ad": "Trabzon Üniversitesi",
    "tur": "universite",
    "url": "https://www.trabzon.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "kahramanmaras",
- "guncelleme": "2026-11-10T14:02+03:00",
+ "guncelleme": "2026-11-11T13:33+03:00",
  "ilceler": [
   "Afşin",
   "Andırın",
@@ -16,22 +16,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "20f831b0f8df",
-   "baslik": "Hz. Peygamber'i (S.a.v.) Anlamak",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Türkoğlu",
-   "mekan": "İlahiyat Fakültesi Türkoğlu Yerleşkesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "İlahiyat Fakültesi",
-   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=134",
-   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611041632302780.jpg"
-  },
-  {
    "id": "a49611c293d3",
    "baslik": "Gençliğin Üretim Çağı \"Bölgesel Kariyer Fuarı\"",
    "tarih": "2026-11-11",
@@ -46,6 +30,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=127",
    "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2610261400297963.jpg"
+  },
+  {
+   "id": "8eed6ac8833f",
+   "baslik": "Marallar Oymağında Bir Şairle Söyleşi",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Onikişubat",
+   "mekan": "KSÜ Gençlik Otağı",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Kahramanmaraş Edebiyat İncelemeleri Uygulama ve Araştırma Merkezi (EDEM). Genç KSÜ Öğrenci Topluluğu",
+   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=138",
+   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611110955036951.jpg"
   },
   {
    "id": "95a6e5e952f1",

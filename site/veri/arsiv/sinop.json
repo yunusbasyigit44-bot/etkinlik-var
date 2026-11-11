@@ -1,5 +1,21 @@
 [
  {
+  "id": "3247b6441599",
+  "baslik": "U-FEST / Türkiye'nin En Kapsamlı Ulaşım Festivali",
+  "tarih": "2026-11-09",
+  "bitis": "2026-11-10",
+  "saat": "10:00",
+  "ilce": "Merkez",
+  "mekan": "Sinop Üniversitesi",
+  "kategori": "Festival",
+  "ucretsiz": true,
+  "ozet": "Bilimsel Etkinlikler",
+  "kaynak_ad": "Sinop Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sinop.edu.tr/etkinlik/u-fest-turkiyenin-en-kapsamli-ulasim-festivali/",
+  "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/11/ufest.png"
+ },
+ {
   "id": "f612c79077a8",
   "baslik": "SSCI/SCIE Yayın Stratejileri Serisi -12 / PROCESS Macro ile Aracılık Düzenleyicilik ve Koşullu Süreç Analizleri Eğitimi (II.Oturum)",
   "tarih": "2026-11-06",

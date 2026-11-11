@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-10T13:54+03:00",
+ "guncelleme": "2026-11-11T13:25+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -65,54 +65,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/milli-mucadeleden-cumhuriyet-1792756243",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb497d74a82.jpg"
-  },
-  {
-   "id": "f956d28fe684",
-   "baslik": "''Türk Halk Müziği Solo Konseri''",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": true,
-   "ozet": "Konser ve Dinletiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/turk-halk-muzigi-solo-konseri-1774509637",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/sayfa/61dac07e28c14.jpeg"
-  },
-  {
-   "id": "2d97e2f058ea",
-   "baslik": "Atatürk Portreleri",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": "Sergiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ataturk-portreleri-1793355621",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae46f2612a07.jpg"
-  },
-  {
-   "id": "48f6bf34c73d",
-   "baslik": "Karanlıktan Bahsetmek Yok",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Odunpazarı",
-   "mekan": "Haldun Dormen Sahnesi ( Haller Gençlik Merkezi )",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
   },
   {
    "id": "15722feb2ce1",
@@ -384,7 +336,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-yunus-emre-sergisi-1792483401",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad7204209aec.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af41909d021f.jpg"
   },
   {
    "id": "cdb1a7eed51c",
@@ -1203,6 +1155,22 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71bc6665b7.jpg"
   },
   {
+   "id": "a6c05890f564",
+   "baslik": "Tarık Çodri \"Gitar Resitali",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser ve Dinletiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/tarik-codri-gitar-resitali-1792482339",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71c059d263.jpg"
+  },
+  {
    "id": "3d2fc0b03178",
    "baslik": "Verimsizler",
    "tarih": "2026-11-27",
@@ -1217,6 +1185,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
    "gorsel": null
+  },
+  {
+   "id": "2cc193965f8f",
+   "baslik": "Kişisel Gelişim Zirvesi",
+   "tarih": "2026-11-28",
+   "bitis": "2026-11-29",
+   "saat": "08:30",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminerler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/kisisel-gelisim-zirvesi-1781681697",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a324ddbb8bdd.jpg"
   },
   {
    "id": "2a109ae99af2",
@@ -1263,7 +1247,7 @@
    "ad": "Eskişehir Şehir Tiyatroları",
    "tur": "belediye",
    "url": "https://tiyatro.eskisehir.bel.tr/oyuntakvimi.php",
-   "etkinlik_sayisi": 31,
+   "etkinlik_sayisi": 30,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

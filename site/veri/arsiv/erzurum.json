@@ -1,5 +1,37 @@
 [
  {
+  "id": "9b3cdafd5aa1",
+  "baslik": "Delikburunlular Kabilesi",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Yakutiye",
+  "mekan": "Erzurum DT Sahnesi",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/delikburunlular-kabilesi",
+  "gorsel": null
+ },
+ {
+  "id": "1f1871d32f90",
+  "baslik": "Umudun Adı: Mustafa Kemal Atatürk",
+  "tarih": "2026-11-10",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Yakutiye",
+  "mekan": "Erzurum Teknik Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Erzurum Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://erzurum.edu.tr/etkinlik/umudun-ad-mustafa-kemal-ataturk1",
+  "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/2ebf8216-627a-4d03-82fc-902675f77eca.webp?width=600&height=749&mode=carve"
+ },
+ {
   "id": "ec97e747da5d",
   "baslik": "Delikburunlular Kabilesi",
   "tarih": "2026-11-09",

@@ -1,6 +1,6 @@
 {
  "il": "sivas",
- "guncelleme": "2026-11-10T14:07+03:00",
+ "guncelleme": "2026-11-11T13:38+03:00",
  "ilceler": [
   "Merkez",
   "Akıncılar",
@@ -21,22 +21,6 @@
   "Zara"
  ],
  "etkinlikler": [
-  {
-   "id": "5ab279690cb7",
-   "baslik": "Çayırın En Tuhaf Yuvası",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Merkez",
-   "mekan": "Sivas DT Fuaye",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/cayirin-en-tuhaf-yuvasi",
-   "gorsel": "veri/gorsel/dt-cayirin-en-tuhaf-yuvasi.jpg"
-  },
   {
    "id": "27495f0d862b",
    "baslik": "Çayırın En Tuhaf Yuvası",
@@ -379,7 +363,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {

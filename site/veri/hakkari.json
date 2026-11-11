@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-11-10T13:54+03:00",
+ "guncelleme": "2026-11-11T13:26+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -8,8 +8,64 @@
   "Şemdinli",
   "Yüksekova"
  ],
- "etkinlikler": [],
+ "etkinlikler": [
+  {
+   "id": "8045a83996da",
+   "baslik": "\"Fidan Dağıtımı ve Fidan Dikimi\" Etkinliği",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Merkez",
+   "mekan": "Hakkari Kent Ormanı",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": "Diğer",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/540/%22fidan-dagitimi-ve-fidan-dikimi%22-etkinligi",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/540/cover/thumb/19d702a12a3b48a9a08d3761bed8d1cf.webp"
+  },
+  {
+   "id": "7f4357d1513f",
+   "baslik": "\"Kitap Bağışı ve Kırtasiye Yardımı\" Etkinliği",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Çukurca",
+   "mekan": "Şehit Jandarma Üsteğmen Adnan Bahat Çok Programlı Anadolu Lisesi Şehit Bilal Soybilgiç Ortaokulu Üzümlü Köyü Kaymakam Avni Kula Ortaokulu Çukurca/HAKKARİ",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": "Diğer",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/542/%22kitap-bagisi-ve-kirtasiye-yardimi%22-etkinligi",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/542/cover/thumb/9f5ee9698e954f9faace0a74cf5b8d83.webp"
+  },
+  {
+   "id": "7f103f290973",
+   "baslik": "\"Resmi Yazışma Kuralları ve Resmi Yazışmalarda Türkçenin Doğru Kullanımı\" Semineri",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "Esma Bnt El-Hakkari Konferans Salonu (1. Kat)",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminer",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/541/%22resmi-yazisma-kurallari-ve-resmi-yazismalarda-turkcenin-dogru-kullanimi%22-semineri",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/541/cover/thumb/92d20bc0edf0474baad6e2bf844afb2d.webp"
+  }
+ ],
  "kaynaklar": [
+  {
+   "ad": "Hakkari Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.hakkari.edu.tr/etkinlikler",
+   "etkinlik_sayisi": 3,
+   "durum": "çalışıyor"
+  },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
@@ -37,13 +93,6 @@
    "url": "https://www.hakkari.gov.tr",
    "etkinlik_sayisi": 0,
    "durum": "duyurular idari; etkinlik yok"
-  },
-  {
-   "ad": "Hakkari Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.hakkari.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Hakkari İl Kültür ve Turizm Müdürlüğü",

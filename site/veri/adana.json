@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-10T13:44+03:00",
+ "guncelleme": "2026-11-11T13:15+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -52,38 +52,6 @@
    "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/081120261926_K_1_97266225-7182-4506-8a64-0d46cbcdd6d5.jpg"
   },
   {
-   "id": "c69f866f5919",
-   "baslik": "Bandırma Vapuru",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": "Kepez Kent Tiyatrosu",
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1786723237_ddec5eed1ee80b70c490.jpeg"
-  },
-  {
-   "id": "d894fc6f3c44",
-   "baslik": "i-Rec 2027 Uluslararası Fotoğraf Yarışması ve Sergisi",
-   "tarih": "2026-11-10",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Sarıçam",
-   "mekan": "online",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": "Etkinlik",
-   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/101120261144_K_226_5c5ca7eb-191a-4fed-b68b-152bae73094a.png"
-  },
-  {
    "id": "a1b86e0fcd31",
    "baslik": "Umudunu Yitirmeyen Sığırcık",
    "tarih": "2026-11-11",
@@ -132,22 +100,6 @@
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1785228188_52e9eb10863781690586.jpeg"
   },
   {
-   "id": "653dfe9709d5",
-   "baslik": "Geleceğe Nefes - 11 Kasım Milli Ağaçlandırma Günü",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Sarıçam",
-   "mekan": "Çukurova Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çukurova Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cu.edu.tr/haber-detay/agac/",
-   "gorsel": "https://www.cu.edu.tr/media/rb4lcwyp/gelecegenefes.jpeg"
-  },
-  {
    "id": "e945b2650a58",
    "baslik": "Atatürk'ü Anma Programı",
    "tarih": "2026-11-11",
@@ -194,6 +146,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.cu.edu.tr/haber-detay/yuzyillik-cumhuriyette-ataturk-un-ızinde-gelisen-hemsirelik/",
    "gorsel": "https://www.cu.edu.tr/media/5wlaopxe/cutam_kasim_2026_programi_sayfa_2.jpg"
+  },
+  {
+   "id": "653dfe9709d5",
+   "baslik": "Geleceğe Nefes - 11 Kasım Milli Ağaçlandırma Günü",
+   "tarih": "2026-11-11",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "Çukurova Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çukurova Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cu.edu.tr/haber-detay/agac/",
+   "gorsel": "https://www.cu.edu.tr/media/rb4lcwyp/gelecegenefes.jpeg"
   },
   {
    "id": "f4706d29bd81",
@@ -628,6 +596,22 @@
    "gorsel": "https://www.cu.edu.tr/media/neonphao/cutam_kasim_2026_programi_sayfa_4.jpg"
   },
   {
+   "id": "c44fa4476abb",
+   "baslik": "Türkiye'nin Yeni Ufukları",
+   "tarih": "2026-11-26",
+   "bitis": "2026-11-27",
+   "saat": "17:00",
+   "ilce": "Sarıçam",
+   "mekan": "İİSBF Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Panel",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/111120260904_K_1_a1acf936-7da1-4958-8d50-414ec2530660.jpg"
+  },
+  {
    "id": "8cbdf2a8d61d",
    "baslik": "Devlet Ana",
    "tarih": "2026-11-26",
@@ -706,6 +690,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
    "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
+  },
+  {
+   "id": "90fa325f8eed",
+   "baslik": "18. Mesleki ve Teknik Bilimler Kongresi",
+   "tarih": "2026-12-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "Çukurova Üniversitesi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çukurova Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cu.edu.tr/haber-detay/18-mesleki-ve-teknik-bilimler-kongresi/",
+   "gorsel": "https://www.cu.edu.tr/media/akpofdix/kongres.jpeg"
   }
  ],
  "kaynaklar": [
@@ -720,7 +720,7 @@
    "ad": "Çukurova Üniversitesi",
    "tur": "universite",
    "url": "https://www.cu.edu.tr",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {
@@ -734,7 +734,7 @@
    "ad": "Adana Büyükşehir Şehir Tiyatrosu",
    "tur": "belediye",
    "url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {
