@@ -1,5 +1,21 @@
 [
  {
+  "id": "8785817c38ff",
+  "baslik": "Kitap Saati",
+  "tarih": "2026-11-11",
+  "bitis": null,
+  "saat": "16:00",
+  "ilce": "Menteşe",
+  "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+  "kategori": "Edebiyat",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/kitap-saati-4657",
+  "gorsel": null
+ },
+ {
   "id": "ce58f63e5b78",
   "baslik": "10 Kasım Atatürk’ü Anma Programı",
   "tarih": "2026-11-10",

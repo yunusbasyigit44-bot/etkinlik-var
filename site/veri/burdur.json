@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-11T13:19+03:00",
+ "guncelleme": "2026-11-12T13:41+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,6 +15,22 @@
   "Yeşilova"
  ],
  "etkinlikler": [
+  {
+   "id": "7bec70fa3960",
+   "baslik": "Çocuklarla Şarkı Söyleme ve Temel Vokal Eğitim Teknikleri",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "MAKÜ Türk Müziği Devlet Konservatuvarı",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13611/1/cocuklarla-sarki-soyleme-ve-temel-vokal-egitim-teknikleri",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13611/4_13611_2026-11-11-16-40-51-940591_thumb.webp"
+  },
   {
    "id": "a54d3bb79921",
    "baslik": "Gülüşten Beden Sağlığına: Diyabeti Birlikte Konuşuyoruz",
@@ -94,22 +110,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13543/1/cocuklar-icin-p4c",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13543/4_13543_2026-10-28-06-59-00-693617_thumb.webp"
-  },
-  {
-   "id": "0c8fde1968cf",
-   "baslik": "Yaratıcı Drama ve Masal Anlatıcılığı",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Merkez",
-   "mekan": "Eğitim Fakültesi Konferans Salonu",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13542/1/yaratici-drama-ve-masal-anlaticiligi",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13542/4_13542_2026-10-28-07-00-34-52824_thumb.webp"
   }
  ],
  "kaynaklar": [

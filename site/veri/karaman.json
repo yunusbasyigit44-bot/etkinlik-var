@@ -1,6 +1,6 @@
 {
  "il": "karaman",
- "guncelleme": "2026-11-11T13:41+03:00",
+ "guncelleme": "2026-11-12T14:03+03:00",
  "ilceler": [
   "Merkez",
   "Ayrancı",
@@ -11,27 +11,27 @@
  ],
  "etkinlikler": [
   {
-   "id": "cfb0bbfa208d",
-   "baslik": "Taichi Çizme Etkinligi",
-   "tarih": "2026-11-11",
+   "id": "984b37c3fa7f",
+   "baslik": "Erasmus Bilgilendirme Konferansi",
+   "tarih": "2026-11-12",
    "bitis": null,
-   "saat": "09:00",
+   "saat": "11:45",
    "ilce": "Merkez",
    "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Diğer",
+   "kategori": "Söyleşi",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4152",
+   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4159",
    "gorsel": null
   },
   {
-   "id": "ae44cc5f18d4",
-   "baslik": "Egitim",
-   "tarih": "2026-11-11",
+   "id": "8bfa1d9646d2",
+   "baslik": "TAMP Bilgilendirme Söylesisi",
+   "tarih": "2026-11-12",
    "bitis": null,
-   "saat": "09:00",
+   "saat": "13:00",
    "ilce": "Merkez",
    "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
    "kategori": "Diğer",
@@ -39,7 +39,39 @@
    "ozet": null,
    "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4154",
+   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4161",
+   "gorsel": null
+  },
+  {
+   "id": "9c927c8b837d",
+   "baslik": "ÜNIDES Kapsaminda Çalistayin Gerçeklestirilmesi",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "15:30",
+   "ilce": "Merkez",
+   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4160",
+   "gorsel": null
+  },
+  {
+   "id": "b7278c385b31",
+   "baslik": "Vize Öncesi Ates Basinda Son Nota",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Merkez",
+   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4162",
    "gorsel": null
   },
   {
@@ -56,6 +88,22 @@
    "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4155",
+   "gorsel": null
+  },
+  {
+   "id": "a868a7f45ee4",
+   "baslik": "Arama Kurtarmada Ekip Organizasyonu ve Takim Çalismasi Söylesisi",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4163",
    "gorsel": null
   },
   {
@@ -96,7 +144,7 @@
    "ad": "Karamanoğlu Mehmetbey Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.kmu.edu.tr/index.aspx",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-11T13:15+03:00",
+ "guncelleme": "2026-11-12T13:37+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -55,54 +55,6 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261027141418_ekimgecidi_afis.jpeg"
   },
   {
-   "id": "04ac27506513",
-   "baslik": "Ağaç Dikme Bayramı",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Bayat",
-   "mekan": "Bayat İlçesi Bal Ormanı Mevki",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": "Teknik Gezi · Bayat Meslek Yüksekokulu",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": null
-  },
-  {
-   "id": "32f74818a5c4",
-   "baslik": "Fidan Dikim Etkinliği",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "11:11",
-   "ilce": "Merkez",
-   "mekan": "Eğitim Fakültesi Önü",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": "Afyon Kocatepe Üni̇versi̇tesi̇ Rektörlüğü",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261111100139_1_2.jpeg"
-  },
-  {
-   "id": "a966188fbb36",
-   "baslik": "AD Scientific Index - Çevrimiçi (Online) Eğitim: Stratejik Çözümler ve Akademik Görünürlük",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Merkez",
-   "mekan": "Çevrimiçi (Online)",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim Programı · Kütüphane Ve Dokümantasyon Dai̇re Başkanliği",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261106144218_bx5hw.jpg"
-  },
-  {
    "id": "8cc94fec63f3",
    "baslik": "Sınav Akreditasyon İşlemleri ve Bologna Ders Bilgi Paketlerinin Güncellenmesi",
    "tarih": "2026-11-12",
@@ -117,6 +69,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261111120508_sinav_akreditasyon_islemlerii.jpg"
+  },
+  {
+   "id": "08d0bd663b2c",
+   "baslik": "11 Kasım Milli Ağaçlandırma Günü",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Dazkırı",
+   "mekan": "Dazkırı Çamlık Mahallesi Toptepe Mevkii",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Dazkiri Meslek Yüksekokulu",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261111155315_agac_dikimi.jpg"
   },
   {
    "id": "f07bb413d422",
@@ -364,7 +332,7 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 21,
+   "etkinlik_sayisi": 19,
    "durum": "çalışıyor"
   },
   {

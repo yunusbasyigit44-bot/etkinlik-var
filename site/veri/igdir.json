@@ -1,6 +1,6 @@
 {
  "il": "igdir",
- "guncelleme": "2026-11-11T13:42+03:00",
+ "guncelleme": "2026-11-12T14:03+03:00",
  "ilceler": [
   "Merkez",
   "Aralık",
@@ -8,22 +8,6 @@
   "Tuzluca"
  ],
  "etkinlikler": [
-  {
-   "id": "857b6189d87e",
-   "baslik": "\"11 Kasım Milli Ağaçlandırma Günü\" Fidan Dikim Etkinliği",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Iğdır Üniversitesi",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Iğdır Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/11-kasm-milli-agaclandrma-gunu-fidan-dikim-etkinligi-40/register",
-   "gorsel": "https://www.igdir.edu.tr/web/image/56911-93005bb7/1.jfif"
-  },
   {
    "id": "114cf5df041e",
    "baslik": "\"Kadına Yönelik Şiddetle Mücadelede Toplumsal Cinsiyet Eşitliği: Önleme, Farkındalık ve Dönüştürücü Yaklaşımlar\" Online Semineri",
@@ -46,7 +30,7 @@
    "ad": "Iğdır Üniversitesi",
    "tur": "universite",
    "url": "https://www.igdir.edu.tr/events/",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

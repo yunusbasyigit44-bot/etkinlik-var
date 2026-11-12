@@ -1,5 +1,37 @@
 [
  {
+  "id": "cfb0bbfa208d",
+  "baslik": "Taichi Çizme Etkinligi",
+  "tarih": "2026-11-11",
+  "bitis": null,
+  "saat": "09:00",
+  "ilce": "Merkez",
+  "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4152",
+  "gorsel": null
+ },
+ {
+  "id": "ae44cc5f18d4",
+  "baslik": "Egitim",
+  "tarih": "2026-11-11",
+  "bitis": null,
+  "saat": "09:00",
+  "ilce": "Merkez",
+  "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4154",
+  "gorsel": null
+ },
+ {
   "id": "3791bd12846c",
   "baslik": "Afad Gönüllülük Sistemi Egitimi",
   "tarih": "2026-11-10",

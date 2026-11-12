@@ -1,6 +1,6 @@
 {
  "il": "sinop",
- "guncelleme": "2026-11-11T13:37+03:00",
+ "guncelleme": "2026-11-12T14:00+03:00",
  "ilceler": [
   "Merkez",
   "Ayancık",
@@ -28,38 +28,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sinop.edu.tr/etkinlik/2026-yds-2-soru-cozme-kampi/",
    "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/09/YDS-SORU-COZME-KAMPI.webp"
-  },
-  {
-   "id": "e810b76cfa95",
-   "baslik": "Iscsar 2026",
-   "tarih": "2026-11-09",
-   "bitis": "2026-11-11",
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sinop Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": "Sempozyum",
-   "kaynak_ad": "Sinop Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/iscsar-2026/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/06/iscar2026.webp"
-  },
-  {
-   "id": "d304bab49c7c",
-   "baslik": "SCI /SCIE Yayın Stratejileri Serisi -13 / PUBLICATION WORKSHOP",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Merkez",
-   "mekan": "Sinop Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Bilimsel Etkinlikler",
-   "kaynak_ad": "Sinop Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/sci-scie-yayin-stratejileri-serisi-13-publication-workshop/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/11/SCI-_SCIE-YAYIN-STRATEJILERI-SERIS13.webp"
   },
   {
    "id": "288a327177c8",
@@ -195,7 +163,7 @@
    "ad": "Sinop Üniversitesi",
    "tur": "universite",
    "url": "https://www.sinop.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {

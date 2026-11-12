@@ -1,5 +1,21 @@
 [
  {
+  "id": "c574c2bf3c22",
+  "baslik": "Geleceğe Nefes, Yarınlara Umut Oluyoruz!",
+  "tarih": "2026-11-11",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Merkez",
+  "mekan": "Yeni Göl Park Alanı",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Aksaray Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.aksaray.edu.tr/gelecege-nefes--yarinlara-umut-oluyoruz",
+  "gorsel": null
+ },
+ {
   "id": "2724cf1eceba",
   "baslik": "Cumhuriyet Koşusu",
   "tarih": "2026-10-29",

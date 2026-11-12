@@ -1,6 +1,6 @@
 {
  "il": "manisa",
- "guncelleme": "2026-11-11T13:33+03:00",
+ "guncelleme": "2026-11-12T13:55+03:00",
  "ilceler": [
   "Ahmetli",
   "Akhisar",
@@ -22,22 +22,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "cdb5c6524545",
-   "baslik": "Genetiği Değiştirilmiş Kadınlar Projesi",
-   "tarih": "2026-11-04",
-   "bitis": "2026-11-11",
-   "saat": "20:00",
-   "ilce": "Şehzadeler",
-   "mekan": "Şehir Tiyatrosu Uğur Mumcu Sahnesi - Şehzadeler / Manisa",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1292",
-   "gorsel": "https://kultur.manisa.bel.tr/uploads/events/03afb678-fd97-4d71-b7b7-d0c6b1f7e3c1_GDK-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
-  },
-  {
    "id": "4d1fa340e6fa",
    "baslik": "Çizmeli Kedi",
    "tarih": "2026-11-07",
@@ -52,22 +36,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1295",
    "gorsel": "https://kultur.manisa.bel.tr/uploads/events/61f67eb8-2961-4170-b9d7-1eaa95d68845_C%CC%A7I%CC%87ZMELI%CC%87-KEDI%CC%87-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
-  },
-  {
-   "id": "b423f03b6315",
-   "baslik": "Klinik Tanıda Multi-Omik Yaklaşımların Yeri",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Yunusemre",
-   "mekan": "MCBÜ Tıp Fakültesi 29 Ekim Seminer Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/klinik-tanida-multi-omik-yaklasimlarin-yeri#baslangic",
-   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261106160946645-FT7MR.jpg"
   },
   {
    "id": "62672e13a6e8",
@@ -219,14 +187,14 @@
    "ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
    "tur": "belediye",
    "url": "https://kultur.manisa.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 6,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Manisa Celal Bayar Üniversitesi",
    "tur": "universite",
    "url": "https://www.mcbu.edu.tr",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

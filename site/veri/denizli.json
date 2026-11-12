@@ -1,6 +1,6 @@
 {
  "il": "denizli",
- "guncelleme": "2026-11-11T13:21+03:00",
+ "guncelleme": "2026-11-12T13:43+03:00",
  "ilceler": [
   "Pamukkale",
   "Merkezefendi",
@@ -38,9 +38,80 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.pau.edu.tr/pau/tr/etkinlik/ii-uluslararasi-turk-dunyasinda-kulturel-miras-ve-aktarimi-sempozyumu",
    "gorsel": "https://bukalemun.pusula.pau.edu.tr/upload/BIYS/siteler/pau/editor/01112021/kultur-miras-afis-2026.jpg"
+  },
+  {
+   "id": "6551458e69a7",
+   "baslik": "Roni'nin Zamanı",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Merkezefendi",
+   "mekan": "Merkezefendi Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Merkezefendi Belediyesi Kültür-Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlik.aspx?etkinlik=ZM490-2026-11-11-roninin-zamani",
+   "gorsel": "https://www.merkezefendi.bel.tr/kultursanat/Content/yuklemeler/etkinlikler/MO86T11-11-2026-8-RON%C4%B0.jpg"
+  },
+  {
+   "id": "1c371f3f43df",
+   "baslik": "80 Günde Dünya Gezisi",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Merkezefendi",
+   "mekan": "Merkezefendi Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Merkezefendi Belediyesi Kültür-Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlik.aspx?etkinlik=KDUHC-2026-11-11-80-gunde-dunya-gezisi",
+   "gorsel": "https://www.merkezefendi.bel.tr/kultursanat/Content/yuklemeler/etkinlikler/JTVS%2A%2A%2A%2A%2A%2A%2A2026-50-8OAF%C4%B0%C5%9E.jpg"
+  },
+  {
+   "id": "4161bafdce95",
+   "baslik": "Koko'nun Maceraları",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Merkezefendi",
+   "mekan": "Merkezefendi Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Merkezefendi Belediyesi Kültür-Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlik.aspx?etkinlik=SE5SH-2026-11-11-kokonun-maceralari",
+   "gorsel": "https://www.merkezefendi.bel.tr/kultursanat/Content/yuklemeler/etkinlikler/QA4R%2A%2A%2A%2A%2A%2A%2A2026-27-KOKONUNMACERA.jpg"
+  },
+  {
+   "id": "f02b229ffd0e",
+   "baslik": "Bavulbaz",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Merkezefendi",
+   "mekan": "Merkezefendi Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Merkezefendi Belediyesi Kültür-Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlik.aspx?etkinlik=D48E9-2026-11-11-bavulbaz",
+   "gorsel": "https://www.merkezefendi.bel.tr/kultursanat/Content/yuklemeler/etkinlikler/IEQ9211-11-2026-18-BAVULBAZ.jpg"
   }
  ],
  "kaynaklar": [
+  {
+   "ad": "Merkezefendi Belediyesi Kültür-Sanat",
+   "tur": "belediye",
+   "url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlikler.aspx",
+   "etkinlik_sayisi": 4,
+   "durum": "çalışıyor"
+  },
   {
    "ad": "Pamukkale Üniversitesi",
    "tur": "universite",
@@ -96,13 +167,6 @@
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "etkinlik takvimi yok"
-  },
-  {
-   "ad": "Merkezefendi Belediyesi Kültür-Sanat",
-   "tur": "belediye",
-   "url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlikler.aspx",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Pamukkale Belediyesi",

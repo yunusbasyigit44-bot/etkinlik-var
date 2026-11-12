@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-11-11T13:30+03:00",
+ "guncelleme": "2026-11-12T13:52+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -193,54 +193,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-05/6fdd8156-439d-4268-91a9-dab9b9640c37-0e5jkozs.jpeg"
-  },
-  {
-   "id": "ab8b39872956",
-   "baslik": "Nesrine Konseri",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Konak",
-   "mekan": "Ahmed Adnan Saygun Sanat Merkezi Büyük Salon",
-   "kategori": "Konser",
-   "ucretsiz": false,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-21/b1c8cd5e-c389-42f3-ad43-7f9ee10f1588-gahcjuxs.jpg"
-  },
-  {
-   "id": "f23a6d3c0e17",
-   "baslik": "Hayâl-i Temsil",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hayal-i-temsil",
-   "gorsel": "veri/gorsel/dt-hayal-i-temsil.jpg"
-  },
-  {
-   "id": "76d6561107e7",
-   "baslik": "Fareler ve İnsanlar",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareler-ve-insanlar",
-   "gorsel": "veri/gorsel/dt-fareler-ve-insanlar.jpg"
   },
   {
    "id": "34111caf4588",
@@ -1139,6 +1091,22 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-22/b819f272-21f1-4522-9a31-9e3a4e04640d-lzzjhfld.jpeg"
   },
   {
+   "id": "85135b8d2d8a",
+   "baslik": "Yenilmez",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-12/6bf0a2f1-8da1-4e1a-b1d5-88be2b247149-g0hfgjd3.jpeg"
+  },
+  {
    "id": "ea6b8d198968",
    "baslik": "Kurtlar Sofrası",
    "tarih": "2026-11-26",
@@ -1217,6 +1185,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-22/ad99ebda-6d89-42aa-9852-9746a5633a77-fo5khebf.jpeg"
+  },
+  {
+   "id": "7c4fff33c4ef",
+   "baslik": "Yenilmez",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-12/6bf0a2f1-8da1-4e1a-b1d5-88be2b247149-g0hfgjd3.jpeg"
   },
   {
    "id": "1969c811d473",
@@ -1313,6 +1297,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-11/2b38f876-4596-4602-aee2-88a3e12350c5-1xujekum.jpg"
+  },
+  {
+   "id": "24428e8024c6",
+   "baslik": "Yenilmez",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-12/6bf0a2f1-8da1-4e1a-b1d5-88be2b247149-g0hfgjd3.jpeg"
   },
   {
    "id": "bfd6e9fc6bf1",
@@ -1443,6 +1443,22 @@
    "gorsel": "veri/gorsel/dt-bocek-oteli.jpg"
   },
   {
+   "id": "c8044c308226",
+   "baslik": "Don Kişot",
+   "tarih": "2026-11-29",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Konak",
+   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/25-12-05/804b89fc-c4c4-4bb9-9bdd-dc9887379b17-42dhrg32.jpg"
+  },
+  {
    "id": "0c5f6a3f8a96",
    "baslik": "Alternatif Park Konserleri",
    "tarih": "2026-11-29",
@@ -1560,14 +1576,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 47,
+   "etkinlik_sayisi": 45,
    "durum": "çalışıyor"
   },
   {
    "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "tur": "belediye",
    "url": "https://kultursanat.izmir.bel.tr/",
-   "etkinlik_sayisi": 38,
+   "etkinlik_sayisi": 41,
    "durum": "çalışıyor"
   },
   {

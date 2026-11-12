@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-11-11T13:26+03:00",
+ "guncelleme": "2026-11-12T13:48+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -9,22 +9,6 @@
   "Yüksekova"
  ],
  "etkinlikler": [
-  {
-   "id": "8045a83996da",
-   "baslik": "\"Fidan Dağıtımı ve Fidan Dikimi\" Etkinliği",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Merkez",
-   "mekan": "Hakkari Kent Ormanı",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": "Diğer",
-   "kaynak_ad": "Hakkari Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/540/%22fidan-dagitimi-ve-fidan-dikimi%22-etkinligi",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/540/cover/thumb/19d702a12a3b48a9a08d3761bed8d1cf.webp"
-  },
   {
    "id": "7f4357d1513f",
    "baslik": "\"Kitap Bağışı ve Kırtasiye Yardımı\" Etkinliği",
@@ -63,7 +47,7 @@
    "ad": "Hakkari Üniversitesi",
    "tur": "universite",
    "url": "https://www.hakkari.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

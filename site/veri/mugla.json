@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-11T13:35+03:00",
+ "guncelleme": "2026-11-12T13:57+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -48,38 +48,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2799/Sergi-Ibrahim_Coskun_Ben_Anadolu_Resim_Sergisi",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
-  },
-  {
-   "id": "8785817c38ff",
-   "baslik": "Kitap Saati",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Edebiyat",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/kitap-saati-4657",
-   "gorsel": null
-  },
-  {
-   "id": "209ac676f286",
-   "baslik": "Fikirden Yarışa Yarıştan Geleceğe",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/fikirden-yarisa-yaristan-gelecege-4708",
-   "gorsel": null
   },
   {
    "id": "4c91466921fd",
@@ -159,7 +127,7 @@
    "kaynak_ad": "Bodrum Belediyesi",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2833/Konser-Sanatci_Numan_Pekdemir_50_Sanat_Yili_Konseri",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2833_1794408552.4211.jpg"
   },
   {
    "id": "f2ca9170b738",
@@ -402,6 +370,38 @@
    "gorsel": null
   },
   {
+   "id": "d436d3735fb0",
+   "baslik": "Yapay Zeka Okuryazarlığı: Öğrenci Hakları ve Yapay Zeka Pratikleri",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/yapay-zeka-okuryazarligi--ogrenci-haklari-ve-yapay-zeka-pratikleri-4724",
+   "gorsel": null
+  },
+  {
+   "id": "688da60d2223",
+   "baslik": "Yapay Zeka Okuryazarlığı: Öğrenci Hakları ve Yapay Zeka Pratikleri",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/yapay-zeka-okuryazarligi--ogrenci-haklari-ve-yapay-zeka-pratikleri-4725",
+   "gorsel": null
+  },
+  {
    "id": "512ba7509327",
    "baslik": "Bağımlı mısın, Özgür müsün?",
    "tarih": "2026-11-26",
@@ -448,6 +448,38 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2752/Mac-TVF_Arabica_Coffee_Kadinlar_Voleybol_1_Ligi_BBBodrumspor_%E2%80%93_Ates_Wind_Power_Bergama_Belediyespor",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+  },
+  {
+   "id": "31ac2f0305ab",
+   "baslik": "Türkiye Ormancılığının Dünü, Bugünü, Yarını",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "12:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/turkiye-ormanciliginin--dunu-bugunu-yarini-4723",
+   "gorsel": null
+  },
+  {
+   "id": "32744ff77180",
+   "baslik": "İklim Değişikliği Altında Köyceğiz'de Orman Yangınlarının Ekolojik Bilançosu: Akköprü ve Çayhisar Yangınları Üzerine Değerlendirmeler",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/iklim-degisikligi-altinda-koycegizde-orman-yanginlarinin-ekolojik-bilancosu--akkopru-ve-cayhisar-yanginlari-uzerine-degerlendirmeler-4722",
+   "gorsel": null
   },
   {
    "id": "1591ad137eea",
@@ -535,7 +567,7 @@
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
-   "etkinlik_sayisi": 21,
+   "etkinlik_sayisi": 23,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-11T13:18+03:00",
+ "guncelleme": "2026-11-12T13:40+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -117,38 +117,6 @@
    "kaynak_ad": "Antalya Bilim Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/iklim-eyleminde-kulturel-miras-icomos",
-   "gorsel": null
-  },
-  {
-   "id": "9896c3775edc",
-   "baslik": "Kuşlar",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kuslar",
-   "gorsel": "veri/gorsel/dt-kuslar.jpg"
-  },
-  {
-   "id": "108308fd13ab",
-   "baslik": "Ziraat Fakültesi 'Fidan Dikme Etkinliği'",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Ziraat Fakültesi Ar-Ge (Venlo) Seraları Bölgesi",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/ziraat_fakultesi_fidan_dikme_etkinligi-5768",
    "gorsel": null
   },
   {
@@ -813,7 +781,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 26,
+   "etkinlik_sayisi": 25,
    "durum": "çalışıyor"
   },
   {
@@ -834,7 +802,7 @@
    "ad": "Akdeniz Üniversitesi",
    "tur": "universite",
    "url": "https://www.akdeniz.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

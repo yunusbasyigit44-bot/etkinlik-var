@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "04c0a0abfb0f",
+  "baslik": "Geleceğe Nefes Dünyaya Barış",
+  "tarih": "2026-11-11",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Yahşihan",
+  "mekan": "Kırıkkale Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Kırıkkale Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10078",
+  "gorsel": null
+ }
+]

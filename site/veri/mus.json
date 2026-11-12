@@ -1,6 +1,6 @@
 {
  "il": "mus",
- "guncelleme": "2026-11-11T13:35+03:00",
+ "guncelleme": "2026-11-12T13:58+03:00",
  "ilceler": [
   "Merkez",
   "Bulanık",
@@ -10,22 +10,6 @@
   "Varto"
  ],
  "etkinlikler": [
-  {
-   "id": "c205ac3b4a07",
-   "baslik": "Çocukların Dünyasına Dokunmak",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Muş Alparslan Üniversitesi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muş Alparslan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/cocuklarin-dunyasina-dokunmak-9662",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1794211375.jpg"
-  },
   {
    "id": "ab0d87e69c1f",
    "baslik": "Farklılıklara Saygı ve Birlikte Yaşama Kültürü",
@@ -43,6 +27,22 @@
    "gorsel": "https://www.alparslan.edu.tr/images/event/1793879380.jpg"
   },
   {
+   "id": "8598bab8887e",
+   "baslik": "COP31 Programı",
+   "tarih": "2026-11-14",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/cop31-programi-9675",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1794394500.jpg"
+  },
+  {
    "id": "8fde3ffc1434",
    "baslik": "İslam Tarihinde Selçuklular",
    "tarih": "2026-11-15",
@@ -56,7 +56,39 @@
    "kaynak_ad": "Muş Alparslan Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.alparslan.edu.tr/page/event/islam-tarihinde-selcuklular-9674",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1794389240.jpg"
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1794394365.jpg"
+  },
+  {
+   "id": "be0fe8549798",
+   "baslik": "Evrenin Yapı Taşları & Gökyüzü İzleme Etkinliği",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/evrenin-yapi-taslari-gokyuzu-izleme-etkinligi-9676",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1794401245.jpg"
+  },
+  {
+   "id": "9f448ae5f732",
+   "baslik": "İlişkinin Bilimi Ailenin Gücü",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/iliskinin-bilimi-ailenin-gucu-9684",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1794472471.jpg"
   },
   {
    "id": "2f49f8677ec9",
@@ -80,7 +112,7 @@
    "ad": "Muş Alparslan Üniversitesi",
    "tur": "universite",
    "url": "https://www.alparslan.edu.tr/tr/page/event",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {

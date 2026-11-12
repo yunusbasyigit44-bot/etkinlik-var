@@ -1,6 +1,6 @@
 {
  "il": "kastamonu",
- "guncelleme": "2026-11-11T13:30+03:00",
+ "guncelleme": "2026-11-12T13:52+03:00",
  "ilceler": [
   "Merkez",
   "Abana",
@@ -25,6 +25,38 @@
  ],
  "etkinlikler": [
   {
+   "id": "e765e9677be0",
+   "baslik": "Yükseköğretimde Mikro Yeterlilikler",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Hoca Ahmet Yesevi Kültür Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kastamonu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://kastamonu.edu.tr/tr/etkinlikler/yuksekogretimde-mikro-yeterlilikler-175",
+   "gorsel": "https://files.kastamonu.edu.tr/Ortam/2026/Kas%C4%B1m/Etkinlik/34c3dd90-f8b2-41eb-aab5-357101ae5418.jpg"
+  },
+  {
+   "id": "453890ced150",
+   "baslik": "V. Uluslararası Öğrenci Tanışma Günü",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Hoca Ahmet Yesevi Kültür Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kastamonu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://kastamonu.edu.tr/tr/etkinlikler/v-uluslararasi-ogrenci-tanisma-gunu-176",
+   "gorsel": "https://files.kastamonu.edu.tr/Ortam/2026/Kas%C4%B1m/Etkinlik/fda6a219-5a32-48b9-ac14-e193ed4783d6.jpg"
+  },
+  {
    "id": "6909f9783357",
    "baslik": "Kök Hücre ve Hücresel Tedaviler Derneği - Kastamonu Sempozyumu",
    "tarih": "2026-11-27",
@@ -46,7 +78,7 @@
    "ad": "Kastamonu Üniversitesi",
    "tur": "universite",
    "url": "https://kastamonu.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

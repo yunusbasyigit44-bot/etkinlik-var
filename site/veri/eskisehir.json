@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-11T13:25+03:00",
+ "guncelleme": "2026-11-12T13:48+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -65,86 +65,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/milli-mucadeleden-cumhuriyet-1792756243",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb497d74a82.jpg"
-  },
-  {
-   "id": "15722feb2ce1",
-   "baslik": "Rüzgârda Savrulan Yapraklar",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Müjdat Gezen Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
-  },
-  {
-   "id": "89a0b148b56c",
-   "baslik": "Rüzgârda Savrulan Yapraklar",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Tepebaşı",
-   "mekan": "Müjdat Gezen Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
-  },
-  {
-   "id": "f9e16439125e",
-   "baslik": "Afet Farkındalık Eğitimleri",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/afet-farkindalik-egitimleri-1790939078",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8f9300b08.jpg"
-  },
-  {
-   "id": "f95ae9ab2fac",
-   "baslik": "İlişkilerimizde İletişim (Yüz Yüze ve Sanal) ve Sınırlar",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Seminerler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/iliskilerimizde-iletisim-yuz-yuze-ve-sanal-ve-sinirlar-1789563836",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa93939aa9c.jpg"
-  },
-  {
-   "id": "f10916035710",
-   "baslik": "Karanlıktan Bahsetmek Yok",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Odunpazarı",
-   "mekan": "Haldun Dormen Sahnesi ( Haller Gençlik Merkezi )",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
   },
   {
    "id": "4d5fc58ecc76",
@@ -723,6 +643,22 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedacfadc8b1.jpg"
   },
   {
+   "id": "ea314156e6fb",
+   "baslik": "Tepebaşı Belediyesi Türk Halk Müziği Kadınlar Korosu Öğretmenler Günü Konseri",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Tepebaşı",
+   "mekan": "BÜYÜKŞEHİR BELEDİYESİ SANAT VE KÜLTÜR MERKEZİ (SENFONİ BİNASI)",
+   "kategori": "Geleneksel Müzik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tepebaşı Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.tepebasi.bel.tr/Etkinlikler/Detay/tepebasi-belediyesi-turk-halk-muzigi-kadinlar-korosu-ogretmenler-gunu-konseri",
+   "gorsel": null
+  },
+  {
    "id": "b0558c59cd20",
    "baslik": "Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi",
    "tarih": "2026-11-24",
@@ -1203,6 +1139,22 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a324ddbb8bdd.jpg"
   },
   {
+   "id": "53991260d2da",
+   "baslik": "Emel Asuman Önen Ezgi Nihan Uzunonat, \"Vİyolonsel Sınıf Konseri",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "16:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser ve Dinletiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/emel-asuman-onen-ezgi-nihan-uzunonat-viyolonsel-sinif-konseri-1792482563",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71c60af000.jpg"
+  },
+  {
    "id": "2a109ae99af2",
    "baslik": "Verimsizler",
    "tarih": "2026-11-28",
@@ -1233,6 +1185,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
    "gorsel": null
+  },
+  {
+   "id": "d6433eb7824e",
+   "baslik": "Marketing Anadolu Kulüp Tanıtım Standı",
+   "tarih": "2026-11-30",
+   "bitis": "2026-12-04",
+   "saat": "08:30",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Tanıtım Aktiviteleri",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/marketing-anadolu-kulup-tanitim-standi-1792755781",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb47e462976.jpg"
   }
  ],
  "kaynaklar": [
@@ -1247,14 +1215,14 @@
    "ad": "Eskişehir Şehir Tiyatroları",
    "tur": "belediye",
    "url": "https://tiyatro.eskisehir.bel.tr/oyuntakvimi.php",
-   "etkinlik_sayisi": 30,
+   "etkinlik_sayisi": 27,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Tepebaşı Belediyesi",
    "tur": "belediye",
    "url": "https://www.tepebasi.bel.tr/Etkinlikler",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

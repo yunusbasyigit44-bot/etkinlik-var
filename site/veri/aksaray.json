@@ -1,6 +1,6 @@
 {
  "il": "aksaray",
- "guncelleme": "2026-11-11T13:41+03:00",
+ "guncelleme": "2026-11-12T14:02+03:00",
  "ilceler": [
   "Merkez",
   "Ağaçören",
@@ -42,22 +42,6 @@
    "kaynak_ad": "Aksaray Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.aksaray.edu.tr/cnc-torna-operatorlugu-kursu",
-   "gorsel": null
-  },
-  {
-   "id": "c574c2bf3c22",
-   "baslik": "Geleceğe Nefes, Yarınlara Umut Oluyoruz!",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Merkez",
-   "mekan": "Yeni Göl Park Alanı",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Aksaray Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.aksaray.edu.tr/gelecege-nefes--yarinlara-umut-oluyoruz",
    "gorsel": null
   },
   {
@@ -122,6 +106,22 @@
    "kaynak_ad": "Aksaray Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.aksaray.edu.tr/terorsuz-turkiye-surecinde-yarinki-turkiyeyi-dusunmek",
+   "gorsel": null
+  },
+  {
+   "id": "47221a8cb438",
+   "baslik": "Aksaray Üniversitesi Erasmus+ KA220 İş Birliği Ortaklıkları Bilgilendirme Toplantısı",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "ASÜ Spor Bilimleri Fakültesi Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/aksaray-universitesi-erasmus--ka220-is-birligi-ortakliklari-bilgilendirme-toplantisi",
    "gorsel": null
   }
  ],

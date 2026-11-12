@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-11T13:41+03:00",
+ "guncelleme": "2026-11-12T14:03+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -14,9 +14,25 @@
  ],
  "etkinlikler": [
   {
-   "id": "04c0a0abfb0f",
-   "baslik": "Geleceğe Nefes Dünyaya Barış",
-   "tarih": "2026-11-11",
+   "id": "295a2485d3bb",
+   "baslik": "Fotoğraf Topluluğunda Aynı Kadrajda Buluşalım",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10084",
+   "gorsel": null
+  },
+  {
+   "id": "de119995252e",
+   "baslik": "ABD Yükseköğretim Sistemi ve Uluslararası Öğrenci Olmak",
+   "tarih": "2026-11-12",
    "bitis": null,
    "saat": null,
    "ilce": "Yahşihan",
@@ -26,7 +42,7 @@
    "ozet": null,
    "kaynak_ad": "Kırıkkale Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10078",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10082",
    "gorsel": null
   },
   {
@@ -67,7 +83,7 @@
    "ad": "Kırıkkale Üniversitesi",
    "tur": "universite",
    "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

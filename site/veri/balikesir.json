@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-11T13:19+03:00",
+ "guncelleme": "2026-11-12T13:41+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -25,6 +25,22 @@
  ],
  "etkinlikler": [
   {
+   "id": "5ac5d4cfc22b",
+   "baslik": "Baün Yapay Zeka Çalıştayı",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Altıeylül",
+   "mekan": "Atatürk Kongre Kültür Merkezi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": "Basin",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Yapay_Zeka_1794394448.jpg"
+  },
+  {
    "id": "865e25d4bcb3",
    "baslik": "Gastronomi Kulübü ile Engelsiz Mutfak",
    "tarih": "2026-11-12",
@@ -39,6 +55,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_afi%C5%9F_1794226173.jpeg"
+  },
+  {
+   "id": "3d13c1a34efe",
+   "baslik": "Aile Hukuku Zirvesi",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Altıeylül",
+   "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi Dumlupınar Salonu",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": "Hukuk Fakültesi̇",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Aile_Hukuku_Zirvesi_1794460067.jpg"
   },
   {
    "id": "4deb6cc7b611",
@@ -105,6 +137,22 @@
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-10-21_at_13.35.55_1792581891.jpeg"
   },
   {
+   "id": "f1de65fbd634",
+   "baslik": "Ayvalık Taş Yapıları ve Ayvalık Sokakları",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "10:20",
+   "ilce": "Ayvalık",
+   "mekan": "Ayvalık",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Ayvalik Meslek Yüksekokulu",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Etkinlik-Resto._1794314227.jpeg"
+  },
+  {
    "id": "e2924b2a0a5b",
    "baslik": "Organ Bağışı Bilgilendirme",
    "tarih": "2026-11-17",
@@ -135,6 +183,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_bump_VI__1791466040.jpeg"
+  },
+  {
+   "id": "6824185180e6",
+   "baslik": "Cambridge Linguaskill ile Yabancı Dil ve Kariyer Fırsatları",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Altıeylül",
+   "mekan": "Turizm Fakültesi Prof. Dr. Necdet Hacıoğlu Konferans Salonu",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "Turizm Fakültesi",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_1794390254412_1794403015.png"
+  },
+  {
+   "id": "3f19c60803c8",
+   "baslik": "Green Coast Hotel – MGallery ile Uluslararası Kariyer Günü",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Altıeylül",
+   "mekan": "Balıkesir Üniversitesi Turizm Fakültesi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "Turizm Fakültesi",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_1794388822810_1794403156.png"
   },
   {
    "id": "28a708ab98da",
@@ -174,7 +254,7 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {

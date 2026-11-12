@@ -1,5 +1,21 @@
 [
  {
+  "id": "f06704431e1f",
+  "baslik": "Anadolu Üniversiteleri Belgesel Atölyeleri",
+  "tarih": "2026-11-11",
+  "bitis": null,
+  "saat": "10:30",
+  "ilce": "Altınordu",
+  "mekan": "Müzik ve Sahne Sanatları Ceren Özdemir Konser ve Konferans Salonu",
+  "kategori": "Sinema",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Ordu Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://odu.edu.tr/Etkinlikler/407/anadolu-universiteleri-belgesel-atolyeleri",
+  "gorsel": null
+ },
+ {
   "id": "144afa92215f",
   "baslik": "Prof. Giorgio ALBİANİ Gitar Resitali ve Workshop",
   "tarih": "2026-11-10",

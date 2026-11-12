@@ -1,6 +1,6 @@
 {
  "il": "samsun",
- "guncelleme": "2026-11-11T13:36+03:00",
+ "guncelleme": "2026-11-12T13:59+03:00",
  "ilceler": [
   "Atakum",
   "Canik",
@@ -84,6 +84,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/don-kisot-samsun-dob",
    "gorsel": "veri/gorsel/dob-samsun-3401.webp"
+  },
+  {
+   "id": "1e8081c5c886",
+   "baslik": "Veteriner Fakültesi 2026- 2027 Eğitim Öğretim Yılı Açılış Dersi ve Beyaz Önlük Takdim Töreni",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Tören",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/toren/veteriner-fakultesi-2026-2027-egitim-ogretim-yili-acilis-dersi-ve",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/beyaz_onluk_takdim_toreni_0.jpeg"
   },
   {
    "id": "f270ffc83464",
@@ -198,6 +214,38 @@
    "gorsel": "veri/gorsel/dob-samsun-2835.webp"
   },
   {
+   "id": "08b67d9f1972",
+   "baslik": "Bağımlılıkla Mücadelede İlk Kale: Gençlik",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/egitim/bagimlilikla-mucadelede-ilk-kale-genclik",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/afis_10.png"
+  },
+  {
+   "id": "0f0632b3d14e",
+   "baslik": "Mezun-Öğrenci Buluşması",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Söyleşi",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/soylesi/mezun-ogrenci-bulusmasi-1",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/afis_8.png"
+  },
+  {
    "id": "c625e05b384f",
    "baslik": "La Boheme (2026)",
    "tarih": "2026-12-05",
@@ -232,17 +280,17 @@
  ],
  "kaynaklar": [
   {
-   "ad": "Samsun Devlet Opera ve Balesi",
-   "tur": "kultur",
-   "url": "https://apimain.operabale.gov.tr/v1/web/temsil/mudurluk/listele/6",
+   "ad": "Ondokuz Mayıs Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.omu.edu.tr/tr/etkinlikler",
    "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {
-   "ad": "Ondokuz Mayıs Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.omu.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 5,
+   "ad": "Samsun Devlet Opera ve Balesi",
+   "tur": "kultur",
+   "url": "https://apimain.operabale.gov.tr/v1/web/temsil/mudurluk/listele/6",
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "cankiri",
- "guncelleme": "2026-11-11T13:20+03:00",
+ "guncelleme": "2026-11-12T13:42+03:00",
  "ilceler": [
   "Merkez",
   "Atkaracalar",
@@ -16,22 +16,6 @@
   "Yapraklı"
  ],
  "etkinlikler": [
-  {
-   "id": "7bf4f6dafc94",
-   "baslik": "Yükseköğretimde Ölçme ve Değerlendirme",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8720",
-   "gorsel": null
-  },
   {
    "id": "e43b99c2e8c6",
    "baslik": "Yapay Zekâ Destekli Ofis: Word, Excel ve PowerPoint'te Copilot",
@@ -177,6 +161,22 @@
    "gorsel": null
   },
   {
+   "id": "59603d34c729",
+   "baslik": "Film Analizi ve Altyazı Çevirisi Atölyesi",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Sinema",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8733",
+   "gorsel": "https://medya.karatekin.edu.tr/users/rabiaarikan/etkinlik/20261104_232858_dd23d37d913441148911be1ed7117992.png"
+  },
+  {
    "id": "1d8a54ac4b82",
    "baslik": "\"Kariyer Günleri: Mezunlar ile Buluşuyoruz, Konuşmacı: Nurcan Karaman\"",
    "tarih": "2026-12-01",
@@ -209,6 +209,22 @@
    "gorsel": "https://medya.karatekin.edu.tr/users/telat/etkinlik/20261026_100338_968cf875525e4bad93d1374627cf9c92.png"
   },
   {
+   "id": "aa004315d54d",
+   "baslik": "Kariyer Etkinlikleri: Mesleğimiz, Geleceğimiz",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8752",
+   "gorsel": null
+  },
+  {
    "id": "92c95d7a1460",
    "baslik": "Kadına Yönelik Şiddetle Mücadele Eğitimi",
    "tarih": "2026-12-09",
@@ -223,6 +239,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8743",
    "gorsel": "https://medya.karatekin.edu.tr/users/haticepolat/etkinlik/20261106_215522_7bfb995bbf4c4747b580cdcc90f86cf7.png"
+  },
+  {
+   "id": "e225233bab16",
+   "baslik": "Söyleşi: Türkiye'de Bütüncül Yangın Yönetimine Geçiş Süreci",
+   "tarih": "2026-12-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8711",
+   "gorsel": "https://medya.karatekin.edu.tr/users/okanurker/etkinlik/20261029_152731_a37003522ae54c71ac72dd3d5b73f35d.png"
   },
   {
    "id": "8409db3c63bc",
@@ -278,7 +310,7 @@
    "ad": "Çankırı Karatekin Üniversitesi",
    "tur": "universite",
    "url": "https://www.karatekin.edu.tr/tum-etkinlikler",
-   "etkinlik_sayisi": 16,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {

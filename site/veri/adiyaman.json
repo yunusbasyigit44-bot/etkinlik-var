@@ -1,6 +1,6 @@
 {
  "il": "adiyaman",
- "guncelleme": "2026-11-11T13:15+03:00",
+ "guncelleme": "2026-11-12T13:36+03:00",
  "ilceler": [
   "Merkez",
   "Besni",
@@ -13,22 +13,6 @@
   "Tut"
  ],
  "etkinlikler": [
-  {
-   "id": "b1feede52139",
-   "baslik": "Kampüsümü Seviyorum Kampüsümü Ağaçlandırıyorum",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Kahta",
-   "mekan": "KAHTA MYO Kampüsü",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adıyaman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/11/kampusumu-seviyorum-kampusumu-agaclandiriyorum",
-   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/11/kampusumu-seviyorum-kampusumu-agaclandiriyorum/thumb/a%C4%9Fa%C3%A7land%C4%B1rma.jpg"
-  },
   {
    "id": "360a03c5226c",
    "baslik": "Etkili İletişim Becerileri",
@@ -99,7 +83,7 @@
    "ad": "Adıyaman Üniversitesi",
    "tur": "universite",
    "url": "https://adiyaman.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

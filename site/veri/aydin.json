@@ -1,6 +1,6 @@
 {
  "il": "aydin",
- "guncelleme": "2026-11-11T13:18+03:00",
+ "guncelleme": "2026-11-12T13:41+03:00",
  "ilceler": [
   "Efeler",
   "Bozdoğan",
@@ -36,6 +36,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://haber.adu.edu.tr/etkinlik/2026-2027-akademik-yili-acilis-toreni-2000148781",
    "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261109151801-PSY6CBD2CQ5VRVMZ1NT2-000075455808210465102158.jpeg"
+  },
+  {
+   "id": "58ca48628e85",
+   "baslik": "Aydın'dan Anadolu'ya, Nepal'e, Dünyaya !",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Efeler",
+   "mekan": "Atatürk Kongre Merkezi Aydın Bey Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Söyleşi",
+   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/aydin-dan-anadolu-ya-nepal-e-dunyaya--2000148795",
+   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261112120724-MAGE20261112AT114803-000049732365972650058610.jpeg"
   },
   {
    "id": "5fcafaa1df30",
@@ -379,7 +395,7 @@
    "ad": "Aydın Adnan Menderes Üniversitesi",
    "tur": "universite",
    "url": "https://haber.adu.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 22,
+   "etkinlik_sayisi": 23,
    "durum": "çalışıyor"
   },
   {

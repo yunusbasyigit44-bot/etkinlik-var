@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-11T13:23+03:00",
+ "guncelleme": "2026-11-12T13:45+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -24,70 +24,6 @@
   "Uzundere"
  ],
  "etkinlikler": [
-  {
-   "id": "92db699d24af",
-   "baslik": "Bilimsel Makale Yazma ve Yayımlama Süreci Eğitimi",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Yakutiye",
-   "mekan": "Atatürk Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Atatürk Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://atauni.edu.tr/etkinlik/bilimsel-makale-yazma-ve-yayimlama-sureci-egitimi/",
-   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/10/Bilimsel-Makale-Yazma-ve-Yayimlama-Sureci-Egitimi-819x1024.jpg"
-  },
-  {
-   "id": "5d532f47c283",
-   "baslik": "Delikburunlular Kabilesi",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/delikburunlular-kabilesi",
-   "gorsel": "veri/gorsel/dt-delikburunlular-kabilesi.webp"
-  },
-  {
-   "id": "d821484c1ae7",
-   "baslik": "Yükseköğretimde Yeni Eğilimler, Etkili Uygulamalar ve Zorluklar",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Yakutiye",
-   "mekan": "Atatürk Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Atatürk Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://atauni.edu.tr/etkinlik/yuksekogretimde-yeni-egilimler-etkili-uygulamalar-ve-zorluklar/",
-   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/yuksek-762x1024.jpeg"
-  },
-  {
-   "id": "dff13af09cb5",
-   "baslik": "11 Kasım Milli Ağaçlandırma Günü Fidan Dikim Etkinliği",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum Teknik Üniversitesi",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Erzurum Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://erzurum.edu.tr/etkinlik/11-kasm-milli-agaclandrma-gunu-fidan-dikim-etkinligi1",
-   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/e75a2bae-9ab9-47d0-8cab-3edbd8605fce.webp?width=600&height=749&mode=carve"
-  },
   {
    "id": "9df51a4ff4bf",
    "baslik": "Savaş ve Barış",
@@ -510,21 +446,21 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {
    "ad": "Atatürk Üniversitesi",
    "tur": "universite",
    "url": "https://atauni.edu.tr/tum-etkinlikler/",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {
    "ad": "Erzurum Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://erzurum.edu.tr/",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

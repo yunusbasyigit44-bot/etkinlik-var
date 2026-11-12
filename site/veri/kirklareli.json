@@ -1,6 +1,6 @@
 {
  "il": "kirklareli",
- "guncelleme": "2026-11-11T13:30+03:00",
+ "guncelleme": "2026-11-12T13:53+03:00",
  "ilceler": [
   "Merkez",
   "Babaeski",
@@ -11,8 +11,32 @@
   "Pınarhisar",
   "Vize"
  ],
- "etkinlikler": [],
+ "etkinlikler": [
+  {
+   "id": "f78ce8a56cdc",
+   "baslik": "Trockyablues Seyirci Koroları Sezonun İlk Konseri",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Lüleburgaz",
+   "mekan": "lysa",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Lüleburgaz Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://etkinlik.luleburgaz.bel.tr/etkinlik/450",
+   "gorsel": null
+  }
+ ],
  "kaynaklar": [
+  {
+   "ad": "Lüleburgaz Belediyesi",
+   "tur": "belediye",
+   "url": "https://etkinlik.luleburgaz.bel.tr/",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
   {
    "ad": "Babaeski, Vize, Pınarhisar, Demirköy belediyeleri",
    "tur": "belediye",
@@ -59,13 +83,6 @@
    "ad": "Kırklareli İl Kültür ve Turizm Müdürlüğü",
    "tur": "kultur",
    "url": "https://kirklareli.ktb.gov.tr",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
-  },
-  {
-   "ad": "Lüleburgaz Belediyesi",
-   "tur": "belediye",
-   "url": "https://etkinlik.luleburgaz.bel.tr/",
    "etkinlik_sayisi": 0,
    "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },

@@ -1,6 +1,6 @@
 {
  "il": "sivas",
- "guncelleme": "2026-11-11T13:38+03:00",
+ "guncelleme": "2026-11-12T14:00+03:00",
  "ilceler": [
   "Merkez",
   "Akıncılar",
@@ -22,22 +22,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "27495f0d862b",
-   "baslik": "Çayırın En Tuhaf Yuvası",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Merkez",
-   "mekan": "Sivas DT Fuaye",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/cayirin-en-tuhaf-yuvasi",
-   "gorsel": "veri/gorsel/dt-cayirin-en-tuhaf-yuvasi.jpg"
-  },
-  {
    "id": "3c214cb45b30",
    "baslik": "Sivas'ta 108 Gün",
    "tarih": "2026-11-12",
@@ -52,6 +36,70 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sivasta-108-gun",
    "gorsel": "veri/gorsel/dt-sivasta-108-gun.webp"
+  },
+  {
+   "id": "5ae546728a25",
+   "baslik": "Tenefüs Arası",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Tenefüs Arası",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19339-tenefus-arasi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/193/Tenefus-Arasi-76656.jpeg"
+  },
+  {
+   "id": "9a7fba4ae20c",
+   "baslik": "Diyabetten Korunmada Sağlıklı Beslenme",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": "Diyabetten Korunmada Sağlıklı Beslenme",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19312-diyabetten-korunmada-saglikli-beslenme",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/193/Diyabetten-Korunmada-Saglikli-Beslenme-93527.jpg"
+  },
+  {
+   "id": "54ec990fb504",
+   "baslik": "Erasmus+ Bilgilendirme Toplantısı- Eczacılık Fakültesi",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Erasmus+ Bilgilendirme Toplantısı- Eczacılık Fakültesi",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19263-erasmus-bilgilendirme-toplantisi-eczacilik-fakultesi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/192/Erasmus-Bilgilendirme-Toplantisi--Eczacilik-Fakultesi-76071.png"
+  },
+  {
+   "id": "d56720d44d3b",
+   "baslik": "Erasmus+ Bilgilendirme Toplantısı- Diş Hekimliği Fakültesi",
+   "tarih": "2026-11-12",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Erasmus+ Bilgilendirme Toplantısı- Diş Hekimliği Fakültesi",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19262-erasmus-bilgilendirme-toplantisi-dis-hekimligi-fakultesi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/192/Erasmus-Bilgilendirme-Toplantisi--Dis-Hekimligi-Fakultesi-74664.png"
   },
   {
    "id": "b1767fec216c",
@@ -70,22 +118,6 @@
    "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/191/Erasmus-Yuksekogretim-Programi-ogrenci-ogrenim-ve-Staj-Hareketliligi-Bilgilendirme-Toplantisi-67699.png"
   },
   {
-   "id": "7b6c5f1a0042",
-   "baslik": "Depreme Hazır Olmak \"Bireysel Bilinçten Toplumsal Sorumluluğa\"",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sivas Cumhuriyet Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Depreme Hazır Olmak \"Bireysel Bilinçten Toplumsal Sorumluluğa\"",
-   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19107-depreme-hazir-olmak-bireysel-bilincten-toplumsal-sorumluluga",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/191/Depreme-Hazir-Olmak-Bireysel-Bilincten-Toplumsal-Sorumluluga--60513.jpeg"
-  },
-  {
    "id": "9dd82d30fb57",
    "baslik": "Sivas'ta 108 Gün",
    "tarih": "2026-11-13",
@@ -100,6 +132,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sivasta-108-gun",
    "gorsel": "veri/gorsel/dt-sivasta-108-gun.webp"
+  },
+  {
+   "id": "244a4da9d9cf",
+   "baslik": "Travmatik Yaşantılar Ruhsal Entegrasyon ve Duyguları Vurduğunda!",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Travmatik Yaşantılar Ruhsal Entegrasyon ve Duyguları Vurduğunda!",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19205-travmatik-yasantilar-ruhsal-entegrasyon-ve-duygulari-vurdugunda",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/192/Travmatik-Yasantilar-Ruhsal-Entegrasyon-ve-Duygulari-Vurdugunda-25059.jpg"
   },
   {
    "id": "35609df0d36e",
@@ -150,6 +198,22 @@
    "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/186/18642_1.jpg"
   },
   {
+   "id": "e93cc6012fc5",
+   "baslik": "Dünya Felsefe Günü Etkinliği",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Dünya Felsefe Günü Etkinliği",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19300-dunya-felsefe-gunu-etkinligi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/193/Dunya-Felsefe-Gunu-Etkinligi-62176.png"
+  },
+  {
    "id": "d6f60bf0be50",
    "baslik": "Çayırın En Tuhaf Yuvası",
    "tarih": "2026-11-17",
@@ -182,6 +246,22 @@
    "gorsel": "veri/gorsel/dt-cayirin-en-tuhaf-yuvasi.jpg"
   },
   {
+   "id": "fee9955626b6",
+   "baslik": "Söyleşi (Türkiye'de Podcast Yayıncılığının Ekonomi Politiği: Küresel ve Kurumsal Yayıncılar Karşısında Yerel ve Bağımsız İçerik Üreticilerinin Durumu) - (Karşılıklı Evcilleştirme Bağlamında Spotify Kullanıcılarının Platform Deneyimleri)",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Türkiye'de Podcast Yayıncılığının Ekonomi Politiği: Küresel ve Kurumsal Yayıncılar Karşısında Yerel ve Bağımsız İçerik Üreticilerinin Durumu Karşılıklı Evcilleştirme Bağlamında Spotify Kullanıcılarını",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19338-soylesi-turkiyede-podcast-yayinciliginin-ekonomi-politigi-kuresel-ve-kurumsal-yayincilar-karsisinda-yerel-ve-bagimsiz-icerik-ureticilerinin-durumu-karsilikli-evcillestirme-baglaminda-spotify-kullanicilarinin-platform-deneyimleri",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/193/Soylesi-21363.jpeg"
+  },
+  {
    "id": "8eb56fa25f0a",
    "baslik": "Sivas'ta 108 Gün",
    "tarih": "2026-11-19",
@@ -198,6 +278,22 @@
    "gorsel": "veri/gorsel/dt-sivasta-108-gun.webp"
   },
   {
+   "id": "88c2938f0c65",
+   "baslik": "Erasmus+ Bilgilendirme Toplantısı- Sağlık Bilimleri Fakültesi",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": "Erasmus+ Bilgilendirme Toplantısı- Sağlık Bilimleri Fakültesi",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19264-erasmus-bilgilendirme-toplantisi-saglik-bilimleri-fakultesi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/192/Erasmus-Bilgilendirme-Toplantisi--Saglik-Bilimleri-Fakultesi-15337.png"
+  },
+  {
    "id": "e5d7439b325d",
    "baslik": "Sivas'ta 108 Gün",
    "tarih": "2026-11-20",
@@ -212,6 +308,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sivasta-108-gun",
    "gorsel": "veri/gorsel/dt-sivasta-108-gun.webp"
+  },
+  {
+   "id": "7c2e5becc81d",
+   "baslik": "Seminer Günleri- Sağlık Bilimleri Fakültesi",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": "Seminer Günleri- Sağlık Bilimleri Fakültesi",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19296-seminer-gunleri-saglik-bilimleri-fakultesi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/192/Seminer-Gunleri--Saglik-Bilimleri-Fakultesi-46894.jpg"
   },
   {
    "id": "2bd51ca311b8",
@@ -262,6 +374,38 @@
    "gorsel": "veri/gorsel/dt-cayirin-en-tuhaf-yuvasi.jpg"
   },
   {
+   "id": "07bd8b481693",
+   "baslik": "Öğretmenler Günü Resim Sergisi",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": "Öğretmenler Günü Resim Sergisi",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19314-ogretmenler-gunu-resim-sergisi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/193/ogretmenler-Gunu-Resim-Sergisi-59636.jpg"
+  },
+  {
+   "id": "04e83c7a2921",
+   "baslik": "Asırlık Nefes Değişler 2 Konseri",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Asırlık Nefes Değişler 2 Konseri",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19275-asirlik-nefes-degisler-2-konseri",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/192/Asirlik-Nefes-Degisler-2-Konseri-44881.jpeg"
+  },
+  {
    "id": "5fab15867dd0",
    "baslik": "Karacaoğlan",
    "tarih": "2026-11-24",
@@ -292,6 +436,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/tebesir-agaci",
    "gorsel": "veri/gorsel/dt-tebesir-agaci.jpg"
+  },
+  {
+   "id": "4742a0b00590",
+   "baslik": "Erasmus+ Bilgilendirme Toplantısı- Turizm Fakültesi",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Erasmus+ Bilgilendirme Toplantısı- Turizm Fakültesi",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19265-erasmus-bilgilendirme-toplantisi-turizm-fakultesi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/192/Erasmus-Bilgilendirme-Toplantisi--Turizm-Fakultesi-35279.png"
   },
   {
    "id": "25ab776ceabb",
@@ -356,6 +516,38 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/karacaoglan",
    "gorsel": "veri/gorsel/dt-karacaoglan.jpg"
+  },
+  {
+   "id": "38306df67bb6",
+   "baslik": "Bağlama Resitali",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Bağlama Resitali",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19266-baglama-resitali",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/192/Baglama-Resitali-56805.png"
+  },
+  {
+   "id": "cbb97b55d68b",
+   "baslik": "Belleğin Görsel Anlatısı: Sözlü Tarih ve Sinema",
+   "tarih": "2027-01-29",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Sinema",
+   "ucretsiz": true,
+   "ozet": "Belleğin Görsel Anlatısı: Sözlü Tarih ve Sinema Yer: İletişim Fakültesi Toplantı Salonu",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19233-bellegin-gorsel-anlatisi-sozlu-tarih-ve-sinema",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/192/Bellegin-Gorsel-Anlatisi--Sozlu-Tarih-ve-Sinema-93592.jpeg"
   }
  ],
  "kaynaklar": [
@@ -363,15 +555,15 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {
    "ad": "Sivas Cumhuriyet Üniversitesi",
    "tur": "universite",
    "url": "https://www.cumhuriyet.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 3,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 16,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

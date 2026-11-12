@@ -1,6 +1,6 @@
 {
  "il": "erzincan",
- "guncelleme": "2026-11-11T13:22+03:00",
+ "guncelleme": "2026-11-12T13:44+03:00",
  "ilceler": [
   "Merkez",
   "Çayırlı",
@@ -13,22 +13,6 @@
   "Üzümlü"
  ],
  "etkinlikler": [
-  {
-   "id": "3454029390aa",
-   "baslik": "11 Kasım Milli Ağaçlandırma Günü",
-   "tarih": "2026-11-11",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Merkez",
-   "mekan": "EBYÜ – Yalnızbağ Yerleşkesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Fiziksel Etkinlik",
-   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://ebyu.edu.tr/etkinlik/11-kasim-milli-agaclandirma-gunu/",
-   "gorsel": null
-  },
   {
    "id": "f13561030603",
    "baslik": "Bozkırın Kızlarından Küresel Liderlere Türk Dünyasının Kadın Liderleri Kongresi",
@@ -43,6 +27,22 @@
    "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://ebyu.edu.tr/etkinlik/bozkirin-kizlarindan-kuresel-liderlere-turk-dunyasinin-kadin-liderleri-kongresi/",
+   "gorsel": null
+  },
+  {
+   "id": "2c2ede6d23ef",
+   "baslik": "Bozkırın Kızlarından Küresel Liderlere Türk Dünyası Kadın Liderleri Kongresi Resim Sergisi",
+   "tarih": "2026-11-12",
+   "bitis": "2026-11-13",
+   "saat": "08:00",
+   "ilce": "Merkez",
+   "mekan": "Erzincan Binali Yıldırım Üniversitesi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": "Fiziksel Etkinlik",
+   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://ebyu.edu.tr/etkinlik/bozkirin-kizlarindan-kuresel-liderlere-turk-dunyasi-kadin-liderleri-kongresi-resim-sergisi/",
    "gorsel": null
   },
   {

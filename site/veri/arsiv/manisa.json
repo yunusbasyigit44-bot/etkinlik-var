@@ -1,5 +1,21 @@
 [
  {
+  "id": "b423f03b6315",
+  "baslik": "Klinik Tanıda Multi-Omik Yaklaşımların Yeri",
+  "tarih": "2026-11-11",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Yunusemre",
+  "mekan": "MCBÜ Tıp Fakültesi 29 Ekim Seminer Salonu",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/klinik-tanida-multi-omik-yaklasimlarin-yeri#baslangic",
+  "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261106160946645-FT7MR.jpg"
+ },
+ {
   "id": "97e058a9b18b",
   "baslik": "10 Kasım Atatürk'ü Anma Programları",
   "tarih": "2026-11-10",
@@ -94,6 +110,22 @@
   "kaynak_tur": "universite",
   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/dijital-dunyada-guvenli-gelecek-yeni-nesil-tehditler-suclar-ve-mucadele-yontemleri#baslangic",
   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261102175317530-CZQBE.jpg"
+ },
+ {
+  "id": "cdb5c6524545",
+  "baslik": "Genetiği Değiştirilmiş Kadınlar Projesi",
+  "tarih": "2026-11-04",
+  "bitis": "2026-11-11",
+  "saat": "20:00",
+  "ilce": "Şehzadeler",
+  "mekan": "Şehir Tiyatrosu Uğur Mumcu Sahnesi - Şehzadeler / Manisa",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1292",
+  "gorsel": "https://kultur.manisa.bel.tr/uploads/events/03afb678-fd97-4d71-b7b7-d0c6b1f7e3c1_GDK-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
  },
  {
   "id": "e342fd6b0c69",
