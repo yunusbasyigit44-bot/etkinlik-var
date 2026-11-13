@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-12T13:36+03:00",
+ "guncelleme": "2026-11-13T13:28+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -20,38 +20,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "f4706d29bd81",
-   "baslik": "Umudunu Yitirmeyen Sığırcık",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Fuaye Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/umudunu-yitirmeyen-sigircik",
-   "gorsel": "veri/gorsel/dt-umudunu-yitirmeyen-sigircik.webp"
-  },
-  {
-   "id": "4fcf9a6e22a0",
-   "baslik": "Umudunu Yitirmeyen Sığırcık",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Fuaye Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/umudunu-yitirmeyen-sigircik",
-   "gorsel": "veri/gorsel/dt-umudunu-yitirmeyen-sigircik.webp"
-  },
-  {
    "id": "36d99d506db1",
    "baslik": "Kariyer Sohbetleri",
    "tarih": "2026-11-12",
@@ -66,38 +34,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.atu.edu.tr",
    "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/041120260927_K_1_10bbe3ab-fc44-4133-b51b-5bd004fd0e39.jpg"
-  },
-  {
-   "id": "0d0ebabe55db",
-   "baslik": "AIAS (Kahramanların Çöküşü)",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/aias-kahramanlarin-cokusu",
-   "gorsel": "veri/gorsel/dt-aias-kahramanlarin-cokusu.webp"
-  },
-  {
-   "id": "ccae2e6e79c5",
-   "baslik": "Üç Jokerli Konken",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": "ANKARA BÜYÜKŞEHİR BELEDİYESİ ŞEHİR TİYATROSU",
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1790941036_e439c3861bf4b8b30fba.jpeg"
   },
   {
    "id": "e45dcbde80e6",
@@ -569,7 +505,7 @@
    "ad": "Devlet Tiyatroları Adana",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 23,
+   "etkinlik_sayisi": 20,
    "durum": "çalışıyor"
   },
   {
@@ -590,7 +526,7 @@
    "ad": "Adana Büyükşehir Şehir Tiyatrosu",
    "tur": "belediye",
    "url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-12T13:45+03:00",
+ "guncelleme": "2026-11-13T13:37+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -24,22 +24,6 @@
   "Uzundere"
  ],
  "etkinlikler": [
-  {
-   "id": "9df51a4ff4bf",
-   "baslik": "Savaş ve Barış",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/savas-ve-baris",
-   "gorsel": "veri/gorsel/dt-savas-ve-baris.webp"
-  },
   {
    "id": "53170c8f065d",
    "baslik": "Doktora Tez Ödülü ve Mezuniyet Töreni",
@@ -231,6 +215,38 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/timur-ve-yildirim",
    "gorsel": "veri/gorsel/dt-timur-ve-yildirim.jpg"
+  },
+  {
+   "id": "ebebd49b42aa",
+   "baslik": "Akademik Hayatta TÜBİTAK Projeleri: Hazırlamak, Yürütmek, Sonuçlandırma",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum Teknik Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erzurum Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erzurum.edu.tr/etkinlik/akademik-hayatta-tubitak-projeleri-hazrlamak-yurutmek-sonuclandrma1",
+   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/4ec9b11c-3f84-4f78-9ecc-3674c25cc855.webp?width=600&height=749&mode=carve"
+  },
+  {
+   "id": "debf6aafc837",
+   "baslik": "Avrupa Birliği Projelerine Giden Yol: Avrupa İle Araştırma, İş Birliği ve Fonlama",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum Teknik Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erzurum Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erzurum.edu.tr/etkinlik/avrupa-birligi-projelerine-giden-yol-avrupa-ile-arastrma-is-birligi-ve-fonlama1",
+   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/fbba7289-50f0-4b67-81ae-8e229e5c30c4.webp?width=600&height=749&mode=carve"
   },
   {
    "id": "1c29abd32dcc",
@@ -446,7 +462,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {
@@ -460,7 +476,7 @@
    "ad": "Erzurum Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://erzurum.edu.tr/",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

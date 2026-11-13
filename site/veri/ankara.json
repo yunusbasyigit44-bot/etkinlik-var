@@ -1,6 +1,6 @@
 {
  "il": "ankara",
- "guncelleme": "2026-11-12T13:39+03:00",
+ "guncelleme": "2026-11-13T13:31+03:00",
  "ilceler": [
   "Akyurt",
   "Altındağ",
@@ -29,134 +29,6 @@
   "Yenimahalle"
  ],
  "etkinlikler": [
-  {
-   "id": "84554c0eebd2",
-   "baslik": "Kontrabas",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "18:30",
-   "ilce": "Çankaya",
-   "mekan": "Oda Tiyatrosu",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kontrabas",
-   "gorsel": "veri/gorsel/dt-kontrabas.jpg"
-  },
-  {
-   "id": "cfa26a9836cc",
-   "baslik": "Coppelia",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Opera Sahnesi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/coppelia-ankara-dob",
-   "gorsel": "veri/gorsel/dob-1-1413.webp"
-  },
-  {
-   "id": "979094e77fb9",
-   "baslik": "\"Şair, Şiir, Şuur\" Mehmet Akif Ersoy",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "CSO Ada Ankara Mavi Salon",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sair-siir-suur-mehmet-akif-ersoy",
-   "gorsel": "veri/gorsel/dt-sair-siir-suur-mehmet-akif-ersoy.jpg"
-  },
-  {
-   "id": "fa1cbc24ad09",
-   "baslik": "Edmond",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Cüneyt Gökçer Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/edmond",
-   "gorsel": "veri/gorsel/dt-edmond.jpg"
-  },
-  {
-   "id": "36f5ebea414c",
-   "baslik": "Bu da Geçer ya Hu",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Şinasi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bu-da-gecer-ya-hu",
-   "gorsel": "veri/gorsel/dt-bu-da-gecer-ya-hu.jpg"
-  },
-  {
-   "id": "61ebdcda6384",
-   "baslik": "Kadınlar, Filler ve Saireler",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kadinlar-filler-ve-saireler",
-   "gorsel": "veri/gorsel/dt-kadinlar-filler-ve-saireler.jpg"
-  },
-  {
-   "id": "4efefddb76aa",
-   "baslik": "Öteki Ankara Müzikali",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Akün Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/oteki-ankara-muzikali",
-   "gorsel": "veri/gorsel/dt-oteki-ankara-muzikali.jpg"
-  },
-  {
-   "id": "05249c15ee83",
-   "baslik": "Göğe Yazılmış Bir Alp",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Çankaya Atatürk Sanat Merkezi Mavi Salon",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/goge-yazilmis-bir-alp",
-   "gorsel": "veri/gorsel/dt-goge-yazilmis-bir-alp.webp"
-  },
   {
    "id": "5260a397a5b0",
    "baslik": "Kontrabas",
@@ -268,6 +140,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nizamulmulk",
    "gorsel": "veri/gorsel/dt-nizamulmulk.webp"
+  },
+  {
+   "id": "517d38898ff1",
+   "baslik": "Rosa Luxemburg",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Çankaya",
+   "mekan": "Çankaya Belediyesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankaya Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.cankaya.bel.tr/kultur-sanat/rosa-luxemburg",
+   "gorsel": "https://www.cankaya.bel.tr/uploads/images/rosa-luxemburg-paz_1794400686_Drx5EqSc.webp"
   },
   {
    "id": "f59a8bb6e449",
@@ -638,22 +526,6 @@
    "gorsel": "veri/gorsel/dt-woyzeck.webp"
   },
   {
-   "id": "bb1508904c2f",
-   "baslik": "Dosya: Kelebek",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Çankaya Atatürk Sanat Merkezi Mavi Salon",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dosya-kelebek-2",
-   "gorsel": "veri/gorsel/dt-dosya-kelebek-2.webp"
-  },
-  {
    "id": "f78f95e84394",
    "baslik": "Kılıçarslan",
    "tarih": "2026-11-17",
@@ -684,6 +556,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/adel-seni-secti",
    "gorsel": "veri/gorsel/dt-adel-seni-secti.webp"
+  },
+  {
+   "id": "bb1508904c2f",
+   "baslik": "Dosya: Kelebek",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Çankaya Atatürk Sanat Merkezi Mavi Salon",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dosya-kelebek-2",
+   "gorsel": "veri/gorsel/dt-dosya-kelebek-2.webp"
   },
   {
    "id": "0c080e5acd7d",
@@ -766,22 +654,6 @@
    "gorsel": "veri/gorsel/dt-woyzeck.webp"
   },
   {
-   "id": "75c83f619397",
-   "baslik": "Dosya: Kelebek",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Çankaya Atatürk Sanat Merkezi Mavi Salon",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dosya-kelebek-2",
-   "gorsel": "veri/gorsel/dt-dosya-kelebek-2.webp"
-  },
-  {
    "id": "3b9adb87230a",
    "baslik": "Adel Seni Seçti",
    "tarih": "2026-11-18",
@@ -796,6 +668,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/adel-seni-secti",
    "gorsel": "veri/gorsel/dt-adel-seni-secti.webp"
+  },
+  {
+   "id": "75c83f619397",
+   "baslik": "Dosya: Kelebek",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Çankaya Atatürk Sanat Merkezi Mavi Salon",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dosya-kelebek-2",
+   "gorsel": "veri/gorsel/dt-dosya-kelebek-2.webp"
   },
   {
    "id": "d92df2ae8427",
@@ -828,22 +716,6 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/cephede-piknik",
    "gorsel": "veri/gorsel/dt-cephede-piknik.jpg"
-  },
-  {
-   "id": "96c90fc799bd",
-   "baslik": "Mükemmel Partner",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "CSO Ada Ankara Mavi Salon",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/mukemmel-partner",
-   "gorsel": "veri/gorsel/dt-mukemmel-partner.jpg"
   },
   {
    "id": "94e623a7a65f",
@@ -940,6 +812,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/esaretin-bedeli",
    "gorsel": "veri/gorsel/dt-esaretin-bedeli.jpg"
+  },
+  {
+   "id": "96c90fc799bd",
+   "baslik": "Mükemmel Partner",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "CSO Ada Ankara Mavi Salon",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/mukemmel-partner",
+   "gorsel": "veri/gorsel/dt-mukemmel-partner.jpg"
   },
   {
    "id": "071550305b6a",
@@ -1502,20 +1390,20 @@
    "gorsel": "veri/gorsel/dt-gise.jpg"
   },
   {
-   "id": "eed228c8886f",
-   "baslik": "Diktat",
+   "id": "c4e28eb1b53b",
+   "baslik": "Coppelia",
    "tarih": "2026-11-26",
    "bitis": null,
    "saat": "20:00",
    "ilce": "Çankaya",
-   "mekan": "CSO Ada Ankara Mavi Salon",
-   "kategori": "Tiyatro",
+   "mekan": "Opera Sahnesi",
+   "kategori": "Opera & Bale",
    "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/diktat",
-   "gorsel": "veri/gorsel/dt-diktat.jpg"
+   "kaynak_url": "https://biletinial.com/opera-bale/coppelia-ankara-dob",
+   "gorsel": "veri/gorsel/dob-1-1413.webp"
   },
   {
    "id": "82c90371c719",
@@ -1580,6 +1468,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/12-ofkeli",
    "gorsel": "veri/gorsel/dt-12-ofkeli.jpg"
+  },
+  {
+   "id": "eed228c8886f",
+   "baslik": "Diktat",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "CSO Ada Ankara Mavi Salon",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/diktat",
+   "gorsel": "veri/gorsel/dt-diktat.jpg"
   },
   {
    "id": "41d1dcded6d4",
@@ -2147,7 +2051,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 122,
+   "etkinlik_sayisi": 114,
    "durum": "çalışıyor"
   },
   {
@@ -2162,6 +2066,13 @@
    "tur": "universite",
    "url": "https://etkinlikler.hacettepe.edu.tr/",
    "etkinlik_sayisi": 6,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Çankaya Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.cankaya.bel.tr",
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {
@@ -2247,13 +2158,6 @@
    "url": "https://etkinlik.io/ankara",
    "etkinlik_sayisi": 0,
    "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
-  },
-  {
-   "ad": "Çankaya Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.cankaya.bel.tr",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   }
  ]
 }

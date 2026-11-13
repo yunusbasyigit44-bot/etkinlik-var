@@ -1,5 +1,37 @@
 [
  {
+  "id": "d4d2aee6cf26",
+  "baslik": "Bakara Suresi'nde Din Kavramı",
+  "tarih": "2026-11-12",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Ortahisar",
+  "mekan": "Radyo/TV",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/bakara-suresinde-din-kavrami",
+  "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_f37692ae2da4.jpeg"
+ },
+ {
+  "id": "31334e00d3cc",
+  "baslik": "Julıus Caesar",
+  "tarih": "2026-11-12",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Ortahisar",
+  "mekan": "Haluk Ongan Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/julius-caesar",
+  "gorsel": null
+ },
+ {
   "id": "326cdc83103f",
   "baslik": "EBSCO Veritabanları Eğitimi",
   "tarih": "2026-11-11",

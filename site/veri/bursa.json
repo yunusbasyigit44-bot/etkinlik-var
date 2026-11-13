@@ -1,6 +1,6 @@
 {
  "il": "bursa",
- "guncelleme": "2026-11-12T13:42+03:00",
+ "guncelleme": "2026-11-13T13:34+03:00",
  "ilceler": [
   "Büyükorhan",
   "Gemlik",
@@ -163,86 +163,6 @@
    "kaynak_ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bursa.bel.tr/etkinlik/kasim-ayi-etkinlik-takvimi-2",
-   "gorsel": null
-  },
-  {
-   "id": "c689d8c1903c",
-   "baslik": "Üniversite Tanıtım Programı",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Erguvan Salon (A Blok Zemin Kat)",
-   "kategori": "Gençlik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/11951/%C3%BCniversite-tan%C4%B1t%C4%B1m-program%C4%B1",
-   "gorsel": null
-  },
-  {
-   "id": "63a164f8afe2",
-   "baslik": "Elektrikli Taşıtlar Uygulama ve Araştırma Merkezi-Hidrojen Teknolojileri",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Ali Sürmen Salon (G Blok Zemin Kat)",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12644/elektrikli-ta%C5%9F%C4%B1tlar-uygulama-ve-ara%C5%9Ft%C4%B1rma-merkezi-hidrojen-teknolojileri",
-   "gorsel": null
-  },
-  {
-   "id": "2f314bb9c5ef",
-   "baslik": "Bir Yaşdönümü Rüyası",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Osmangazi",
-   "mekan": "Feraizcizade Oda Tiyatrosu",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bir-yasdonumu-ruyasi",
-   "gorsel": "veri/gorsel/dt-bir-yasdonumu-ruyasi.jpg"
-  },
-  {
-   "id": "6dc8f0c0672f",
-   "baslik": "Dorıan Gray'in Portresi",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dorian-grayin-portresi",
-   "gorsel": "veri/gorsel/dt-dorian-grayin-portresi.webp"
-  },
-  {
-   "id": "4a4d3439ff84",
-   "baslik": "Türk Müziği Çocuk Korosu Çalışmalarına Başlıyor",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Osmangazi",
-   "mekan": "Orkestra Şube Müdürlüğü",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bursa.bel.tr/etkinlik/turk-muzigi-cocuk-korosu-calismalarina-basliyor",
    "gorsel": null
   },
   {
@@ -518,6 +438,22 @@
    "gorsel": "veri/gorsel/dt-scapin-ve-yeni-dolaplari.jpg"
   },
   {
+   "id": "7aca3af024ee",
+   "baslik": "Üniversite Tanıtım Programı",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Yıldırım",
+   "mekan": "Mimar Sinan Yerleşkesi Erguvan Salon (A Blok Zemin Kat)",
+   "kategori": "Gençlik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/11952/%C3%BCniversite-tan%C4%B1t%C4%B1m-program%C4%B1",
+   "gorsel": null
+  },
+  {
    "id": "b40a3aeb9029",
    "baslik": "\"Şair, Şiir, Şuur\" Mehmet Akif Ersoy",
    "tarih": "2026-11-19",
@@ -548,6 +484,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/scapin-ve-yeni-dolaplari",
    "gorsel": "veri/gorsel/dt-scapin-ve-yeni-dolaplari.jpg"
+  },
+  {
+   "id": "f29e92331224",
+   "baslik": "Şehircilik ve İmar Hukuku",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Yıldırım",
+   "mekan": "Yıldırım Bayezid Yerleşkesi Kırmızı Salon (A Blok Zemin Kat)",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12145/%C5%9Fehircilik-ve-i%CC%87mar-hukuku",
+   "gorsel": null
   },
   {
    "id": "a9e2e4eca99c",
@@ -843,15 +795,8 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 30,
+   "etkinlik_sayisi": 28,
    "durum": "çalışıyor"
-  },
-  {
-   "ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
-   "tur": "belediye",
-   "url": "https://www.bursa.bel.tr",
-   "etkinlik_sayisi": 10,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Bursa Teknik Üniversitesi",
@@ -859,6 +804,13 @@
    "url": "https://btu.edu.tr/tr/etkinlik",
    "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
+  },
+  {
+   "ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
+   "tur": "belediye",
+   "url": "https://www.bursa.bel.tr",
+   "etkinlik_sayisi": 9,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Nilüfer Belediyesi",

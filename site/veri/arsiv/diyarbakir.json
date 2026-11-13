@@ -1,5 +1,37 @@
 [
  {
+  "id": "225758ea7bc0",
+  "baslik": "Nalınlar",
+  "tarih": "2026-11-12",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Yenişehir",
+  "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nalinlar",
+  "gorsel": null
+ },
+ {
+  "id": "ffcd3ee30ebe",
+  "baslik": "EŞİKTEKİ COĞRAFYA: BALKANLAR, TÜRKİYE ve KÜRESEL SİYASET",
+  "tarih": "2026-11-12",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Sur",
+  "mekan": "Dicle Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Dicle Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/esikteki-cografya-balkanlar-turkiye-ve-kuresel-siyaset-12906",
+  "gorsel": "https://www.dicle.edu.tr/contents/events/photos/f22ce49a-24d2-42c2-a112-e0170b6ba156/ss_thumb_18325ea075a749899a8ac469251b0f52_WhatsApp%20Image%202026-10-06%20at%2014.57.46.jpeg"
+ },
+ {
   "id": "299f616353d4",
   "baslik": "Gizli Bahçe'nin Bezelyesi",
   "tarih": "2026-11-11",

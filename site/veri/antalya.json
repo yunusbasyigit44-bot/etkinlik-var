@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-12T13:40+03:00",
+ "guncelleme": "2026-11-13T13:32+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -120,54 +120,6 @@
    "gorsel": null
   },
   {
-   "id": "b4740b6d88f1",
-   "baslik": "Future-Ready Youth: Bridging Education, Digital Innovation and Green Careers",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Döşemealtı",
-   "mekan": "Antalya Bilim Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Antalya Bilim Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/future-ready-youth-bridging-education-digital-innovation-and-green-careers",
-   "gorsel": null
-  },
-  {
-   "id": "b0f784e151a7",
-   "baslik": "Carmına Burana",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/carmina-burana-antalya-dob",
-   "gorsel": "veri/gorsel/dob-5-3389.webp"
-  },
-  {
-   "id": "c69e636c0d91",
-   "baslik": "Kuşlar",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kuslar",
-   "gorsel": "veri/gorsel/dt-kuslar.jpg"
-  },
-  {
    "id": "261da6494aeb",
    "baslik": "İklim Hukuku ve Yönetişim Günü 13 Kasım’da ABÜ’de",
    "tarih": "2026-11-13",
@@ -198,6 +150,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kuslar",
    "gorsel": "veri/gorsel/dt-kuslar.jpg"
+  },
+  {
+   "id": "4238a687c8be",
+   "baslik": "COPArt Projesi Kapsamında 'İyileştirici Sanatlar ve Esenlik Konseri'",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Akdeniz Üniversitesi Devlet Konservatuvarı",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/copart_projesi_kapsaminda_iyilestirici_sanatlar_ve_esenlik_konseri-5769",
+   "gorsel": null
   },
   {
    "id": "b5744ca2fd98",
@@ -246,6 +214,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kuslar",
    "gorsel": "veri/gorsel/dt-kuslar.jpg"
+  },
+  {
+   "id": "b3a2a2691ae2",
+   "baslik": "Panel ve Film Gösterimi “Kömür Tozundan Işığa: Yukarı Silezya – Enerji Dönüşümü ve Ötesi için Bir Avrupa Laboratuvarı”",
+   "tarih": "2026-11-14",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, COP31 Yeşil Bölge, Kongre Merkezi D3, Antalya",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/panel_ve_film_gosterimi_%E2%80%9Ckomur_tozundan_isiga%3A_yukari_silezya_%E2%80%93_enerji_donusumu_ve_otesi_icin_bir_avrupa_laboratuvari%E2%80%9D-5775",
+   "gorsel": null
   },
   {
    "id": "28420e11eaab",
@@ -309,6 +293,22 @@
    "kaynak_ad": "Akdeniz Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/antalya_teknokent_techgreen_demoday_basvurulari_basladi-5753",
+   "gorsel": null
+  },
+  {
+   "id": "f839becc76dc",
+   "baslik": "Panel 'Anlatıyı Dönüştürmek: İklim Değişikliği Karşısında Hikâyeler ve Hikâye Anlatıcılığı'",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Turizm Fakültesi Nuri Özaltın Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/panel_anlatiyi_donusturmek%3A_iklim_degisikligi_karsisinda_hik%C3%A2yeler_ve_hik%C3%A2ye_anlaticiligi_-5770",
    "gorsel": null
   },
   {
@@ -648,6 +648,22 @@
    "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
   },
   {
+   "id": "97679efb6436",
+   "baslik": "Fındıkkıran",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/findikkiran-antdob",
+   "gorsel": "veri/gorsel/dob-5-280.jpg"
+  },
+  {
    "id": "825ba76446bd",
    "baslik": "Therese Raquin (Bir Cinayetin Anatomisi)",
    "tarih": "2026-11-26",
@@ -781,14 +797,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 25,
+   "etkinlik_sayisi": 24,
    "durum": "çalışıyor"
   },
   {
    "ad": "Antalya Bilim Üniversitesi",
    "tur": "universite",
    "url": "https://www.antalya.edu.tr/tr/etkinlik-takvimi",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {
@@ -802,7 +818,7 @@
    "ad": "Akdeniz Üniversitesi",
    "tur": "universite",
    "url": "https://www.akdeniz.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "mersin",
- "guncelleme": "2026-11-12T13:49+03:00",
+ "guncelleme": "2026-11-13T13:42+03:00",
  "ilceler": [
   "Akdeniz",
   "Anamur",
@@ -17,22 +17,6 @@
   "Yenişehir"
  ],
  "etkinlikler": [
-  {
-   "id": "3c70d6c99df6",
-   "baslik": "Tango Del Mar",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yenişehir",
-   "mekan": "Mersin Opera Büyük Sahne",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/tango-del-mar-mersin-dob",
-   "gorsel": "veri/gorsel/dob-4-3268.webp"
-  },
   {
    "id": "1133f30641c5",
    "baslik": "Romeo ve Julıet",
@@ -192,6 +176,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/bati-akdeniz-bolgesel-kariyer-fuari-n-10001658",
    "gorsel": "https://cdn.mersin.edu.tr/public/renditions/9bb7ed23-c24b-422b-bf08-62812bd01e9d/cf19ccbf-1748-4a05-a554-986db4922342/35aba79d-eec0-48ac-ac3a-9e5ba10427e5/1280-39764eae0e1e6b93313cd7dfe0bc21b967bfaca6f131f497fd854b900e9e28ee.webp"
+  },
+  {
+   "id": "b24162c3c420",
+   "baslik": "Kıss Me Kate",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Yenişehir",
+   "mekan": "Mersin Opera Büyük Sahne",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/kiss-me-kate-mersin-dob",
+   "gorsel": "veri/gorsel/dob-4-139.webp"
   }
  ],
  "kaynaklar": [

@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-12T13:48+03:00",
+ "guncelleme": "2026-11-13T13:40+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -67,54 +67,6 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb497d74a82.jpg"
   },
   {
-   "id": "4d5fc58ecc76",
-   "baslik": "Pompenya",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Sanat Sokağı Genco Erkal Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
-  },
-  {
-   "id": "b173018a8ee1",
-   "baslik": "Tepebaşı Belediyesi Pop & Caz Korosu Koristlerini Arıyor",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Tepebaşı",
-   "mekan": "FERDİ ZEYREK YAŞAM MERKEZİ",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tepebaşı Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.tepebasi.bel.tr/Etkinlikler/Detay/tepebasi-belediyesi-pop-caz-korosu-koristlerini-ariyor-1",
-   "gorsel": null
-  },
-  {
-   "id": "a7bacd3e6c8c",
-   "baslik": "Karanlıktan Bahsetmek Yok",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Odunpazarı",
-   "mekan": "Haldun Dormen Sahnesi ( Haller Gençlik Merkezi )",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
-  },
-  {
    "id": "943f717453fa",
    "baslik": "Cadı Kazanı",
    "tarih": "2026-11-13",
@@ -161,22 +113,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
    "gorsel": null
-  },
-  {
-   "id": "9188c01d4415",
-   "baslik": "Yaşayan Tiyatro/Midas'ın Kulakları - Güngör Dilmen",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": "Tiyatro Gösterileri",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/yasayan-tiyatromidasin-kulaklari-gungor-dilmen-1792762700",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb632d1ed9e.jpg"
   },
   {
    "id": "fbc84f30c300",
@@ -273,6 +209,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/hale-basmacioglu-barok-sinif-konseri-1792481561",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad718fac5bc0.jpg"
+  },
+  {
+   "id": "4231a81dbfdb",
+   "baslik": "23. Eskişehir Uluslararası Film Festivali",
+   "tarih": "2026-11-17",
+   "bitis": "2026-11-29",
+   "saat": "09:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Sinema",
+   "ucretsiz": true,
+   "ozet": "Festival vb. Etkinlikler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/23-eskisehir-uluslararasi-film-festivali-1794565836",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e60983bb2.jpg"
   },
   {
    "id": "6f2ca54f0927",
@@ -499,6 +451,22 @@
    "gorsel": null
   },
   {
+   "id": "78e042864bfa",
+   "baslik": "Türkçe Alternatif Destekleyici İletişim Sistemi (TADİS) Eğitimi",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Konferanslar",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/turkce-alternatif-destekleyici-iletisim-sistemi-tadis-egitimi-1794565292",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e487e3c8b.jpg"
+  },
+  {
    "id": "7bb12a3f17ff",
    "baslik": "Bir İdik Bin Olduk Edebiyat Topluluğu Söyleşisi",
    "tarih": "2026-11-20",
@@ -513,6 +481,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/bir-idik-bin-olduk-edebiyat-toplulugu-soylesisi-1794295319",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af2c5f3b669e.jpg"
+  },
+  {
+   "id": "8393ac062641",
+   "baslik": "Anadolu Üniversitesi Yemek Üretim Merkezi Teknik Gezi",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": "Geziler ve Turlar",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/anadolu-universitesi-yemek-uretim-merkezi-teknik-gezi-1794564899",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e2fcea782.jpg"
   },
   {
    "id": "4aae59e3b525",
@@ -627,6 +611,22 @@
    "gorsel": null
   },
   {
+   "id": "c9835aff397b",
+   "baslik": "Deniz Mahsullü Risotto Workshop",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/deniz-mahsullu-risotto-workshop-1794565052",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e39b201a3.jpg"
+  },
+  {
    "id": "9e83807c6f46",
    "baslik": "Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi",
    "tarih": "2026-11-23",
@@ -641,6 +641,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961231",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedacfadc8b1.jpg"
+  },
+  {
+   "id": "44a935e414ed",
+   "baslik": "Kolaj Etkinliği",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/kolaj-etkinligi-1794565353",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e4c6f17bd.jpg"
   },
   {
    "id": "ea314156e6fb",
@@ -899,6 +915,22 @@
    "gorsel": null
   },
   {
+   "id": "c2afa50ea276",
+   "baslik": "Ses Bozukluklarında Değerlendirme ve Terapide Klinik Uygulamalar",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminerler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ses-bozukluklarinda-degerlendirme-ve-terapide-klinik-uygulamalar-1794565202",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e43022a91.jpg"
+  },
+  {
    "id": "aa68e569685c",
    "baslik": "Bir Çocuk Kitabı Çocuğa Ne Söyler?",
    "tarih": "2026-11-26",
@@ -1059,52 +1091,20 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35bde7bf6a.jpg"
   },
   {
-   "id": "fe4fae977120",
-   "baslik": "Es Es Tayfa Gitar Üçlüsü",
+   "id": "1a6651d574f6",
+   "baslik": "Dijitalde Var Olmak: Veri Riskleri ve Güvenliği",
    "tarih": "2026-11-27",
    "bitis": null,
-   "saat": "15:00",
+   "saat": "14:00",
    "ilce": "Tepebaşı",
    "mekan": "Anadolu Üniversitesi",
-   "kategori": "Konser",
+   "kategori": "Atölye",
    "ucretsiz": true,
-   "ozet": "Konser ve Dinletiler",
+   "ozet": "Eğitim",
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/es-es-tayfa-gitar-uclusu-1792482199",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71b71bd420.jpg"
-  },
-  {
-   "id": "0f2c0469c5a2",
-   "baslik": "Ozan Akçay \"Gitar Resitali",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Konser ve Dinletiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ozan-akcay-gitar-resitali-1792482267",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71bc6665b7.jpg"
-  },
-  {
-   "id": "a6c05890f564",
-   "baslik": "Tarık Çodri \"Gitar Resitali",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Konser ve Dinletiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/tarik-codri-gitar-resitali-1792482339",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71c059d263.jpg"
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/dijitalde-var-olmak-veri-riskleri-ve-guvenligi-1794565427",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e511e40e8.jpg"
   },
   {
    "id": "3d2fc0b03178",
@@ -1121,38 +1121,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
    "gorsel": null
-  },
-  {
-   "id": "2cc193965f8f",
-   "baslik": "Kişisel Gelişim Zirvesi",
-   "tarih": "2026-11-28",
-   "bitis": "2026-11-29",
-   "saat": "08:30",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Seminerler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/kisisel-gelisim-zirvesi-1781681697",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a324ddbb8bdd.jpg"
-  },
-  {
-   "id": "53991260d2da",
-   "baslik": "Emel Asuman Önen Ezgi Nihan Uzunonat, \"Vİyolonsel Sınıf Konseri",
-   "tarih": "2026-11-28",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Konser ve Dinletiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/emel-asuman-onen-ezgi-nihan-uzunonat-viyolonsel-sinif-konseri-1792482563",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71c60af000.jpg"
   },
   {
    "id": "2a109ae99af2",
@@ -1185,22 +1153,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
    "gorsel": null
-  },
-  {
-   "id": "d6433eb7824e",
-   "baslik": "Marketing Anadolu Kulüp Tanıtım Standı",
-   "tarih": "2026-11-30",
-   "bitis": "2026-12-04",
-   "saat": "08:30",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Tanıtım Aktiviteleri",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/marketing-anadolu-kulup-tanitim-standi-1792755781",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb47e462976.jpg"
   }
  ],
  "kaynaklar": [
@@ -1215,14 +1167,14 @@
    "ad": "Eskişehir Şehir Tiyatroları",
    "tur": "belediye",
    "url": "https://tiyatro.eskisehir.bel.tr/oyuntakvimi.php",
-   "etkinlik_sayisi": 27,
+   "etkinlik_sayisi": 25,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Tepebaşı Belediyesi",
    "tur": "belediye",
    "url": "https://www.tepebasi.bel.tr/Etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

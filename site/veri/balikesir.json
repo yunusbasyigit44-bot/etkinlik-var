@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-12T13:41+03:00",
+ "guncelleme": "2026-11-13T13:33+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -24,54 +24,6 @@
   "Susurluk"
  ],
  "etkinlikler": [
-  {
-   "id": "5ac5d4cfc22b",
-   "baslik": "Baün Yapay Zeka Çalıştayı",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Altıeylül",
-   "mekan": "Atatürk Kongre Kültür Merkezi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": "Basin",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Yapay_Zeka_1794394448.jpg"
-  },
-  {
-   "id": "865e25d4bcb3",
-   "baslik": "Gastronomi Kulübü ile Engelsiz Mutfak",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Altıeylül",
-   "mekan": "Balıkesir Gastronomi Eğitim Mutfağı",
-   "kategori": "Yemek",
-   "ucretsiz": true,
-   "ozet": "Burhaniye Uygulamali Bilimler Fakültesi",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_afi%C5%9F_1794226173.jpeg"
-  },
-  {
-   "id": "3d13c1a34efe",
-   "baslik": "Aile Hukuku Zirvesi",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Altıeylül",
-   "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi Dumlupınar Salonu",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": "Hukuk Fakültesi̇",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Aile_Hukuku_Zirvesi_1794460067.jpg"
-  },
   {
    "id": "4deb6cc7b611",
    "baslik": "Deney Hayvanları Kullanım Sertifikası Kursu",
@@ -103,6 +55,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Afi%C5%9F_1793863414.jpeg"
+  },
+  {
+   "id": "6da3925cbfb9",
+   "baslik": "Global Perspectives on Nursing and Midwifery: What Can We Learn from Each Other?",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Altıeylül",
+   "mekan": "Atatürk Kongre ve Kültür Merkezi - Gelibolu Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Sağlik Bilimleri Fakültesi",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-11_at_23.50.02_1794490731.jpeg"
+  },
+  {
+   "id": "688bb8b0116f",
+   "baslik": "Mezun Öğrenci Buluşması",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "12:00",
+   "ilce": "Edremit",
+   "mekan": "ALTINOLUK MESLEK YÜKSEKOKULU",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Altinoluk Meslek Yüksekokulu",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-12_at_15.48.02_1794557444.jpeg"
   },
   {
    "id": "7c19c0ca5e6e",
@@ -169,6 +153,22 @@
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-10-25_at_23.21.37_1792995673.jpeg"
   },
   {
+   "id": "30b160bae79e",
+   "baslik": "Teoride ve Pratikte Spor Hukuku Paneli",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Altıeylül",
+   "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi Dumlupınar Salonu",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": "Hukuk Fakültesi̇",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Teoride_ve_Pratikte_Spor_Hukuku_Paneli_1794553410.jpg"
+  },
+  {
    "id": "06333a265d82",
    "baslik": "Bump VI",
    "tarih": "2026-11-20",
@@ -183,6 +183,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_bump_VI__1791466040.jpeg"
+  },
+  {
+   "id": "3da7fbdf1d43",
+   "baslik": "Hijyen Eğitimi",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Edremit",
+   "mekan": "ALTINOLUK MESLEK YÜKSEKOKULU",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Altinoluk Meslek Yüksekokulu",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-12_at_15.48.02_%281%29_1794557688.jpeg"
   },
   {
    "id": "6824185180e6",
@@ -254,7 +270,7 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 15,
    "durum": "çalışıyor"
   },
   {

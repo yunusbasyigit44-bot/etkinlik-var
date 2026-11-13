@@ -1,6 +1,6 @@
 {
  "il": "van",
- "guncelleme": "2026-11-12T14:02+03:00",
+ "guncelleme": "2026-11-13T13:55+03:00",
  "ilceler": [
   "İpekyolu",
   "Tuşba",
@@ -17,22 +17,6 @@
   "Saray"
  ],
  "etkinlikler": [
-  {
-   "id": "42e4c4f4675a",
-   "baslik": "Grönholm Metodu",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "İpekyolu",
-   "mekan": "Van Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gronholm-metodu",
-   "gorsel": "veri/gorsel/dt-gronholm-metodu.webp"
-  },
   {
    "id": "11f4d4f3b3d0",
    "baslik": "Grönholm Metodu",
@@ -327,7 +311,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {

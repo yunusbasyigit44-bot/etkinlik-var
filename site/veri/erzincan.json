@@ -1,6 +1,6 @@
 {
  "il": "erzincan",
- "guncelleme": "2026-11-12T13:44+03:00",
+ "guncelleme": "2026-11-13T13:36+03:00",
  "ilceler": [
   "Merkez",
   "Çayırlı",
@@ -46,22 +46,6 @@
    "gorsel": null
   },
   {
-   "id": "e7d3cb62b2f4",
-   "baslik": "Kırık Kalp Sendromu Söyleşisi",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Erzincan Binali Yıldırım Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "söyleşi",
-   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://ebyu.edu.tr/etkinlik/kirik-kalp-sendromu-soylesisi/",
-   "gorsel": null
-  },
-  {
    "id": "d8615217fbde",
    "baslik": "Ahıska Türkleri: İki Asırlık Oratoryo",
    "tarih": "2026-11-13",
@@ -83,7 +67,7 @@
    "ad": "Erzincan Binali Yıldırım Üniversitesi",
    "tur": "universite",
    "url": "https://ebyu.edu.tr/etkinlik/?ical=1",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

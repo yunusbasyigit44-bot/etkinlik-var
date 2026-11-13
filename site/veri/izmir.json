@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-11-12T13:52+03:00",
+ "guncelleme": "2026-11-13T13:45+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -163,22 +163,6 @@
    "gorsel": "https://www.konak.bel.tr/upload/activity/0394d568-758a-4c40-aaa2-bd101bd207af_6ad9a7afccf74.jpg"
   },
   {
-   "id": "39851c665da5",
-   "baslik": "Zamanın Dokusu",
-   "tarih": "2026-10-27",
-   "bitis": "2026-11-12",
-   "saat": null,
-   "ilce": "Konak",
-   "mekan": "Konak Belediyesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konak Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.konak.bel.tr/tr/etkinlikler/etkinlik/zamanin-dokusu",
-   "gorsel": "https://www.konak.bel.tr/upload/activity/9dccf9bd-fe3e-4949-9403-e18f613830e7_6adf35065a7b6.jpg"
-  },
-  {
    "id": "3c678baa2088",
    "baslik": "Bargilya Grubu Resim Sergisi",
    "tarih": "2026-11-10",
@@ -193,118 +177,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-05/6fdd8156-439d-4268-91a9-dab9b9640c37-0e5jkozs.jpeg"
-  },
-  {
-   "id": "34111caf4588",
-   "baslik": "''Nazım Aramızda'' Belgesel Gösterimi ve Yönetmen ile Söyleşi",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Konak",
-   "mekan": "Kültürpark Atlas Pavyonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": null,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-09/c8e348f8-cdf5-40de-ab63-1d83448efd95-g5qnfeja.jpeg"
-  },
-  {
-   "id": "5dc77dd9abff",
-   "baslik": "Club 221 Spor Etkinliği",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": null,
-   "mekan": "Tarihi Bıçakçı Han",
-   "kategori": "Diğer",
-   "ucretsiz": false,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-05/6f4f329b-7eb3-490c-bdcb-d790133b119f-e5dffd01.jpeg"
-  },
-  {
-   "id": "87d95217ee46",
-   "baslik": "Yeniden Sinematek / Kökler ve Kırılmalar - Turist",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Konak",
-   "mekan": "Elhamra Sahnesi",
-   "kategori": "Sinema",
-   "ucretsiz": null,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-22/e06cb1a8-7b0c-4c2b-99ed-bb32f4492809-4zacnjvg.jpeg"
-  },
-  {
-   "id": "6ecd0e755f6f",
-   "baslik": "Halktan Biri",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Konak",
-   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-04-07/8ec8a040-119b-4ce6-ae8f-9c7e00484cc7-brtod2zv.jpeg"
-  },
-  {
-   "id": "c27f0741b169",
-   "baslik": "Hayâl-i Temsil",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hayal-i-temsil",
-   "gorsel": "veri/gorsel/dt-hayal-i-temsil.jpg"
-  },
-  {
-   "id": "bdaa9f0a553c",
-   "baslik": "Fareler ve İnsanlar",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareler-ve-insanlar",
-   "gorsel": "veri/gorsel/dt-fareler-ve-insanlar.jpg"
-  },
-  {
-   "id": "790d79d203ef",
-   "baslik": "Tosca",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Necdet Aydın Salonu",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/tosca-izmir-dob",
-   "gorsel": "veri/gorsel/dob-3-88.webp"
   },
   {
    "id": "ac4c4ef18c39",
@@ -611,6 +483,22 @@
    "gorsel": "veri/gorsel/dob-3-606.webp"
   },
   {
+   "id": "e925537c78df",
+   "baslik": "Bir Rüyanın Ardından Nazım'la Konuşma: SEMİHA BERKSOY",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Konak",
+   "mekan": "Kültürpark Atlas Pavyonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-13/0a9fd840-2f49-4d66-b677-b86a9444183d-5tqlbtpp.jpeg"
+  },
+  {
    "id": "c95cdb52738d",
    "baslik": "Bir Şiir Bir Türkü Türkülerle Şiir Dinletisi",
    "tarih": "2026-11-17",
@@ -643,8 +531,8 @@
    "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
   },
   {
-   "id": "8c250e688f4d",
-   "baslik": "İki Yeşil Susamuru",
+   "id": "44aa733121eb",
+   "baslik": "Medea",
    "tarih": "2026-11-17",
    "bitis": null,
    "saat": "20:00",
@@ -655,8 +543,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-yesil-susamuru",
-   "gorsel": "veri/gorsel/dt-iki-yesil-susamuru.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/medea",
+   "gorsel": "veri/gorsel/dt-medea.jpg"
   },
   {
    "id": "fbeb864462fe",
@@ -723,8 +611,8 @@
    "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
   },
   {
-   "id": "eb125d514e6a",
-   "baslik": "İki Yeşil Susamuru",
+   "id": "f597e9230f38",
+   "baslik": "Medea",
    "tarih": "2026-11-18",
    "bitis": null,
    "saat": "20:00",
@@ -735,8 +623,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-yesil-susamuru",
-   "gorsel": "veri/gorsel/dt-iki-yesil-susamuru.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/medea",
+   "gorsel": "veri/gorsel/dt-medea.jpg"
   },
   {
    "id": "9faba185b8f5",
@@ -771,8 +659,8 @@
    "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
   },
   {
-   "id": "7fe998632ccf",
-   "baslik": "İki Yeşil Susamuru",
+   "id": "4d6efa68eb58",
+   "baslik": "Medea",
    "tarih": "2026-11-19",
    "bitis": null,
    "saat": "20:00",
@@ -783,8 +671,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-yesil-susamuru",
-   "gorsel": "veri/gorsel/dt-iki-yesil-susamuru.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/medea",
+   "gorsel": "veri/gorsel/dt-medea.jpg"
   },
   {
    "id": "d80901905c4a",
@@ -803,8 +691,8 @@
    "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
   },
   {
-   "id": "5dc53290013b",
-   "baslik": "İki Yeşil Susamuru",
+   "id": "37343bc8d7ed",
+   "baslik": "Medea",
    "tarih": "2026-11-20",
    "bitis": null,
    "saat": "20:00",
@@ -815,8 +703,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-yesil-susamuru",
-   "gorsel": "veri/gorsel/dt-iki-yesil-susamuru.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/medea",
+   "gorsel": "veri/gorsel/dt-medea.jpg"
   },
   {
    "id": "af58619fbd69",
@@ -833,6 +721,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/tr-tr/opera-bale/ionia-chamber-izmir-dob",
    "gorsel": "veri/gorsel/dob-3-3412.webp"
+  },
+  {
+   "id": "93b3863129de",
+   "baslik": "Artmeet 2026 Görünmez Bağlar Sergisi",
+   "tarih": "2026-11-20",
+   "bitis": "2026-12-25",
+   "saat": null,
+   "ilce": null,
+   "mekan": "Tarihi Bıçakçı Han",
+   "kategori": "Sergi",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-13/d0803914-9b55-408c-b495-c9d56a159cfa-pdvp4305.jpg"
   },
   {
    "id": "ac4978b4515e",
@@ -883,8 +787,8 @@
    "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
   },
   {
-   "id": "167d75f807a3",
-   "baslik": "İki Yeşil Susamuru",
+   "id": "5b30a1aa3ca5",
+   "baslik": "Medea",
    "tarih": "2026-11-21",
    "bitis": null,
    "saat": "20:00",
@@ -895,8 +799,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-yesil-susamuru",
-   "gorsel": "veri/gorsel/dt-iki-yesil-susamuru.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/medea",
+   "gorsel": "veri/gorsel/dt-medea.jpg"
   },
   {
    "id": "af9290cc4870",
@@ -995,8 +899,8 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-15/6e95ac9c-cd29-4e93-986c-90e0b00329b8-hzqjlj3i.jpg"
   },
   {
-   "id": "c43939ecd4d0",
-   "baslik": "Kurtlar Sofrası",
+   "id": "43d857100b2e",
+   "baslik": "Bir Düş Gibi (Cahide Sonku)",
    "tarih": "2026-11-24",
    "bitis": null,
    "saat": "20:00",
@@ -1007,8 +911,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bir-dus-gibi-cahide-sonku",
+   "gorsel": "veri/gorsel/dt-bir-dus-gibi-cahide-sonku.jpg"
   },
   {
    "id": "c202ed7f94bb",
@@ -1043,8 +947,8 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-05/589789e2-aca8-402f-ad0c-f012eec7f095-i1rghpwn.jpeg"
   },
   {
-   "id": "cddf7134ce05",
-   "baslik": "Kurtlar Sofrası",
+   "id": "6f5d3db3b595",
+   "baslik": "Bir Düş Gibi (Cahide Sonku)",
    "tarih": "2026-11-25",
    "bitis": null,
    "saat": "20:00",
@@ -1055,8 +959,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bir-dus-gibi-cahide-sonku",
+   "gorsel": "veri/gorsel/dt-bir-dus-gibi-cahide-sonku.jpg"
   },
   {
    "id": "5250d29b7f5e",
@@ -1107,8 +1011,8 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-12/6bf0a2f1-8da1-4e1a-b1d5-88be2b247149-g0hfgjd3.jpeg"
   },
   {
-   "id": "ea6b8d198968",
-   "baslik": "Kurtlar Sofrası",
+   "id": "234b82bc3890",
+   "baslik": "Bir Düş Gibi (Cahide Sonku)",
    "tarih": "2026-11-26",
    "bitis": null,
    "saat": "20:00",
@@ -1119,8 +1023,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bir-dus-gibi-cahide-sonku",
+   "gorsel": "veri/gorsel/dt-bir-dus-gibi-cahide-sonku.jpg"
   },
   {
    "id": "b17de5621b39",
@@ -1203,8 +1107,8 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-12/6bf0a2f1-8da1-4e1a-b1d5-88be2b247149-g0hfgjd3.jpeg"
   },
   {
-   "id": "1969c811d473",
-   "baslik": "Kurtlar Sofrası",
+   "id": "a94e04048e3e",
+   "baslik": "Bir Düş Gibi (Cahide Sonku)",
    "tarih": "2026-11-27",
    "bitis": null,
    "saat": "20:00",
@@ -1215,8 +1119,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bir-dus-gibi-cahide-sonku",
+   "gorsel": "veri/gorsel/dt-bir-dus-gibi-cahide-sonku.jpg"
   },
   {
    "id": "2dfd79d3ccad",
@@ -1251,8 +1155,8 @@
    "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
   },
   {
-   "id": "64cf0e335085",
-   "baslik": "Kurtlar Sofrası",
+   "id": "7fe05b32f19f",
+   "baslik": "Bir Düş Gibi (Cahide Sonku)",
    "tarih": "2026-11-28",
    "bitis": null,
    "saat": "15:00",
@@ -1263,8 +1167,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bir-dus-gibi-cahide-sonku",
+   "gorsel": "veri/gorsel/dt-bir-dus-gibi-cahide-sonku.jpg"
   },
   {
    "id": "b589df4149b6",
@@ -1331,8 +1235,8 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-11/d03f7b6d-cf8f-4171-a237-16ab28fcc122-rcpflhdg.jpg"
   },
   {
-   "id": "401207e5535d",
-   "baslik": "Kurtlar Sofrası",
+   "id": "9254925291ab",
+   "baslik": "Bir Düş Gibi (Cahide Sonku)",
    "tarih": "2026-11-28",
    "bitis": null,
    "saat": "20:00",
@@ -1343,8 +1247,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bir-dus-gibi-cahide-sonku",
+   "gorsel": "veri/gorsel/dt-bir-dus-gibi-cahide-sonku.jpg"
   },
   {
    "id": "000c8ed9c06c",
@@ -1523,6 +1427,22 @@
    "gorsel": "veri/gorsel/dob-3-1140.webp"
   },
   {
+   "id": "2727348852a4",
+   "baslik": "Gıselle",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Necdet Aydın Salonu",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/giselle-izmir-dob",
+   "gorsel": "veri/gorsel/dob-3-1140.webp"
+  },
+  {
    "id": "3ae2a1f5ec82",
    "baslik": "33.TBD-Halıcı Bilgisayarla Beste Yarışması",
    "tarih": "2026-12-10",
@@ -1568,7 +1488,7 @@
    "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-11/dd8155ff-e6a9-415d-9c94-e481698e6a97-50zkuy5j.jpg"
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-13/857c8126-a73f-45ba-a1ac-be8ff0258021-ypux0fl3.jpg"
   }
  ],
  "kaynaklar": [
@@ -1576,14 +1496,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 45,
+   "etkinlik_sayisi": 43,
    "durum": "çalışıyor"
   },
   {
    "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "tur": "belediye",
    "url": "https://kultursanat.izmir.bel.tr/",
-   "etkinlik_sayisi": 41,
+   "etkinlik_sayisi": 39,
    "durum": "çalışıyor"
   },
   {
@@ -1597,7 +1517,7 @@
    "ad": "Konak Belediyesi",
    "tur": "belediye",
    "url": "https://www.konak.bel.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

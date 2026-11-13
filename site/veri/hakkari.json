@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-11-12T13:48+03:00",
+ "guncelleme": "2026-11-13T13:41+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -9,22 +9,6 @@
   "Yüksekova"
  ],
  "etkinlikler": [
-  {
-   "id": "7f4357d1513f",
-   "baslik": "\"Kitap Bağışı ve Kırtasiye Yardımı\" Etkinliği",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Çukurca",
-   "mekan": "Şehit Jandarma Üsteğmen Adnan Bahat Çok Programlı Anadolu Lisesi Şehit Bilal Soybilgiç Ortaokulu Üzümlü Köyü Kaymakam Avni Kula Ortaokulu Çukurca/HAKKARİ",
-   "kategori": "Edebiyat",
-   "ucretsiz": true,
-   "ozet": "Diğer",
-   "kaynak_ad": "Hakkari Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/542/%22kitap-bagisi-ve-kirtasiye-yardimi%22-etkinligi",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/542/cover/thumb/9f5ee9698e954f9faace0a74cf5b8d83.webp"
-  },
   {
    "id": "7f103f290973",
    "baslik": "\"Resmi Yazışma Kuralları ve Resmi Yazışmalarda Türkçenin Doğru Kullanımı\" Semineri",
@@ -47,7 +31,7 @@
    "ad": "Hakkari Üniversitesi",
    "tur": "universite",
    "url": "https://www.hakkari.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

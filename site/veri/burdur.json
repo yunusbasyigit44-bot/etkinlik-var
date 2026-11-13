@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-12T13:41+03:00",
+ "guncelleme": "2026-11-13T13:33+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,38 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "7bec70fa3960",
-   "baslik": "Çocuklarla Şarkı Söyleme ve Temel Vokal Eğitim Teknikleri",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Merkez",
-   "mekan": "MAKÜ Türk Müziği Devlet Konservatuvarı",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13611/1/cocuklarla-sarki-soyleme-ve-temel-vokal-egitim-teknikleri",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13611/4_13611_2026-11-11-16-40-51-940591_thumb.webp"
-  },
-  {
-   "id": "a54d3bb79921",
-   "baslik": "Gülüşten Beden Sağlığına: Diyabeti Birlikte Konuşuyoruz",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Merkez",
-   "mekan": "Bilim Kafe (Taş Oda)",
-   "kategori": "Sağlık",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13575/1/gulusten-beden-sagligina-diyabeti-birlikte-konusuyoruz",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13575/4_13575_2026-11-04-06-51-14-644412_thumb.webp"
-  },
   {
    "id": "d8eb6d500e57",
    "baslik": "Caz Davul Kaydı ve Mikrofonlama Teknikleri",
@@ -78,6 +46,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13587/1/cevre-bilinci-ve-sosyal-sorumluluk",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13587/4_13587_2026-11-11-06-30-57-453110_thumb.webp"
+  },
+  {
+   "id": "108bdaf4f7d8",
+   "baslik": "Tütün Bağımlılığı Farkındalık Eğitimi",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "00:00",
+   "ilce": "Merkez",
+   "mekan": "Tıp Fakültesi Fakülte Giriş Kapısı",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13615/1/tutun-bagimliligi-farkindalik-egitimi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13615/4_13615_2026-11-13-08-09-58-996481_thumb.webp"
+  },
+  {
+   "id": "90f095060205",
+   "baslik": "Kampüs Buluşması: Ağız ve Diş Sağlığı Taraması ve Bilgilendirmesi",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Merkez",
+   "mekan": "Avşar Han (Zemin ve 1. Kat Koridorları)",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13613/1/kampus-bulusmasi-agiz-ve-dis-sagligi-taramasi-ve-bilgilendirmesi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13613/4_13613_2026-11-12-13-22-42-444855_thumb.webp"
   },
   {
    "id": "e8a1e18b3039",

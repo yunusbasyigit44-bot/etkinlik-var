@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-12T14:01+03:00",
+ "guncelleme": "2026-11-13T13:54+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -37,54 +37,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/3653",
    "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/11/f7ce0e3d-bde4-4b7b-a69d-4d9ac79c11f4.jpeg"
-  },
-  {
-   "id": "d4d2aee6cf26",
-   "baslik": "Bakara Suresi'nde Din Kavramı",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Ortahisar",
-   "mekan": "Radyo/TV",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/bakara-suresinde-din-kavrami",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_f37692ae2da4.jpeg"
-  },
-  {
-   "id": "31334e00d3cc",
-   "baslik": "Julıus Caesar",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/julius-caesar",
-   "gorsel": "veri/gorsel/dt-julius-caesar.webp"
-  },
-  {
-   "id": "03df4abffe9c",
-   "baslik": "\"17 Hedef 1 Gelecek\" Serisi-2",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "09:30",
-   "ilce": "Ortahisar",
-   "mekan": "KTÜ TV",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/ark/etkinlik/17-hedef-1-gelecek-serisi-2",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/ark_a955281d5fe1.jpg"
   },
   {
    "id": "8069385518a0",
@@ -213,6 +165,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/dis-eti-kanamasi-normal-mi-dis-etlerimiz-bize-ne-anlatiyor-P6",
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_305b3f2996f1.jpg"
+  },
+  {
+   "id": "e1332c0920fb",
+   "baslik": "Network to Projects: Next Steps for Black Sea Cooperation",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Ortahisar",
+   "mekan": "Antalya",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/tr/etkinlik/network-to-projects-next-steps-for-black-sea-cooperation",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/tr_d3f4571ed72e.jpg"
   },
   {
    "id": "d16c413728be",
@@ -679,6 +647,22 @@
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_954d3ff97b67.jpg"
   },
   {
+   "id": "91c1102bbe98",
+   "baslik": "Yapay Zekânın Üniversite Eğitimindeki Yansıması",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/yapay-zekanin-universite-egitimindeki-yansimasi",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_9d9c5c08d362.jpg"
+  },
+  {
    "id": "a3741c855c8f",
    "baslik": "ChatGPT",
    "tarih": "2026-12-03",
@@ -757,6 +741,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/2258",
    "gorsel": "https://www.trabzon.edu.tr/storage/2024/12/16/bf26102c-2855-478c-bd67-71e5d7febb80.jpg"
+  },
+  {
+   "id": "5d4f27db3ad5",
+   "baslik": "Kamuda Yapay Zekâ Dönüşümü",
+   "tarih": "2026-12-31",
+   "bitis": null,
+   "saat": "08:00",
+   "ilce": "Ortahisar",
+   "mekan": "BTK Akademi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/akademi/etkinlik/kamuda-yapay-zeka-donusumu",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/akademi_49c8d8fee811.jpg"
   }
  ],
  "kaynaklar": [
@@ -764,7 +764,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 24,
+   "etkinlik_sayisi": 23,
    "durum": "çalışıyor"
   },
   {

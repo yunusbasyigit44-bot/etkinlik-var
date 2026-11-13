@@ -1,6 +1,6 @@
 {
  "il": "tokat",
- "guncelleme": "2026-11-12T14:01+03:00",
+ "guncelleme": "2026-11-13T13:54+03:00",
  "ilceler": [
   "Merkez",
   "Almus",
@@ -31,6 +31,38 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.tokat.bel.tr/etkinlikler/halk-oyunlari-kurslari-basliyor",
    "gorsel": "https://assets.tokat.bel.tr/tokatbld/events/1793706640009-a3497126caea39f2.webp"
+  },
+  {
+   "id": "778899b71432",
+   "baslik": "Oryantiring Heyecanı Tokat’ta!",
+   "tarih": "2026-11-14",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Tokat Belediyesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tokat Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.tokat.bel.tr/etkinlikler/oryantiring-heyecani-tokatta",
+   "gorsel": "https://assets.tokat.bel.tr/tokatbld/events/1794490068461-85e0e1bf37ac7394.webp"
+  },
+  {
+   "id": "4bdf1ba8bc0a",
+   "baslik": "Kasım Ayı Doğum Günü Etkinliği",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Tokat Belediyesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tokat Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.tokat.bel.tr/etkinlikler/kasim-ayi-dogum-gunu-etkinligi",
+   "gorsel": "https://assets.tokat.bel.tr/tokatbld/events/1794394956065-a5efbbb82ff80fd3.webp"
   }
  ],
  "kaynaklar": [
@@ -38,8 +70,8 @@
    "ad": "Tokat Belediyesi",
    "tur": "belediye",
    "url": "https://www.tokat.bel.tr/",
-   "etkinlik_sayisi": 1,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 3,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Tiyatroları",

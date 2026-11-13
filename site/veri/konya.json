@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-12T13:54+03:00",
+ "guncelleme": "2026-11-13T13:47+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -35,70 +35,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "90310371a52d",
-   "baslik": "Ölümüne Cinayet",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/olumune-cinayet",
-   "gorsel": "veri/gorsel/dt-olumune-cinayet.jpg"
-  },
-  {
-   "id": "1eb9b8382376",
-   "baslik": "Bando ve Mehteran Takımı",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/bando-ve-mehteran-takimi/1023",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAyBilmjccQ296naROtXR3SHNgU-hwjQ.jpeg"
-  },
-  {
-   "id": "b62090dcdb1c",
-   "baslik": "Yoldan Çıkan Oyun",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/yoldan-cikan-oyun/502",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/F9BYx8pQToOxTklsNf2L3tRjoZr38Zwd.jpeg"
-  },
-  {
-   "id": "6d2af777bfd1",
-   "baslik": "Konya Okulu - Prof. Dr. Ömer Özpınar",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-omer-ozpinar/1212",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/D0JfVX30v_QV6zHMCiLrLbEeJJUhCC60.jpeg"
-  },
-  {
    "id": "50168087f4bd",
    "baslik": "Ölümüne Cinayet",
    "tarih": "2026-11-13",
@@ -113,6 +49,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/olumune-cinayet",
    "gorsel": "veri/gorsel/dt-olumune-cinayet.jpg"
+  },
+  {
+   "id": "0887b41948d9",
+   "baslik": "Yoldan Çıkan Oyun",
+   "tarih": "2026-11-13",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/yoldan-cikan-oyun/502",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/F9BYx8pQToOxTklsNf2L3tRjoZr38Zwd.jpeg"
   },
   {
    "id": "0213e4f68f72",
@@ -259,6 +211,38 @@
    "gorsel": "veri/gorsel/dt-yastik-adam.webp"
   },
   {
+   "id": "1645d76a0b2d",
+   "baslik": "Bando ve Mehteran Takımı",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Geleneksel Müzik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/bando-ve-mehteran-takimi/1023",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAyBilmjccQ296naROtXR3SHNgU-hwjQ.jpeg"
+  },
+  {
+   "id": "c34330389de6",
+   "baslik": "Konya Okulu - Prof. Dr. Ömer Özpınar",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-omer-ozpinar/1212",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/D0JfVX30v_QV6zHMCiLrLbEeJJUhCC60.jpeg"
+  },
+  {
    "id": "6569647a16cd",
    "baslik": "Yastık Adam",
    "tarih": "2026-11-20",
@@ -321,6 +305,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanatkonya.com/etkinlikler/klasik-kemence-atolyesi/1331",
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/wwtzROqP7-1X4yALvA1glRGbSjHxb1Cz.jpeg"
+  },
+  {
+   "id": "fe9548a96d38",
+   "baslik": "Kuraklık ve İklim Zirvesi",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Meram",
+   "mekan": "Necmettin Erbakan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Sosyal Fayda",
+   "kaynak_ad": "Necmettin Erbakan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/kuraklik-ve-iklim-zirvesi-2550",
+   "gorsel": null
   },
   {
    "id": "8725eda69fde",
@@ -568,7 +568,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {
@@ -582,7 +582,7 @@
    "ad": "Necmettin Erbakan Üniversitesi",
    "tur": "universite",
    "url": "https://erbakan.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {

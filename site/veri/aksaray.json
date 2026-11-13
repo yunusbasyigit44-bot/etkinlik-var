@@ -1,6 +1,6 @@
 {
  "il": "aksaray",
- "guncelleme": "2026-11-12T14:02+03:00",
+ "guncelleme": "2026-11-13T13:56+03:00",
  "ilceler": [
   "Merkez",
   "Ağaçören",
@@ -58,6 +58,22 @@
    "kaynak_ad": "Aksaray Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.aksaray.edu.tr/asu-sahnede-muzik-yetenek-yarismasi-2",
+   "gorsel": null
+  },
+  {
+   "id": "b6ffa14f3e55",
+   "baslik": "XIII. Genç Tarihçiler Öğrenci Sempozyumu",
+   "tarih": "2026-11-16",
+   "bitis": "2026-11-17",
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Fen Edebiyat Fakültesi Mine Nur Uysal Konferans Salonu",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/xiii--genc-tarihciler-ogrenci-sempozyumu",
    "gorsel": null
   },
   {
@@ -130,7 +146,7 @@
    "ad": "Aksaray Üniversitesi",
    "tur": "universite",
    "url": "https://www.aksaray.edu.tr/Etkinlik-takvimi",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {

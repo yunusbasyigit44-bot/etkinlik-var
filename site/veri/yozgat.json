@@ -1,6 +1,6 @@
 {
  "il": "yozgat",
- "guncelleme": "2026-11-12T14:02+03:00",
+ "guncelleme": "2026-11-13T13:55+03:00",
  "ilceler": [
   "Merkez",
   "Akdağmadeni",
@@ -19,9 +19,25 @@
  ],
  "etkinlikler": [
   {
-   "id": "47b94a666a8f",
-   "baslik": "Coffee Talks",
-   "tarih": "2026-11-12",
+   "id": "34e6cfeffbed",
+   "baslik": "10 Kasım Gazi Mustafa Kemal Atatürk'ü Anma Programı",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4275",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/81a22eae.png"
+  },
+  {
+   "id": "b21a26f81f57",
+   "baslik": "Matematik Bölümü Genel Seminerleri - 122",
+   "tarih": "2026-11-18",
    "bitis": null,
    "saat": null,
    "ilce": "Merkez",
@@ -31,8 +47,8 @@
    "ozet": null,
    "kaynak_ad": "Yozgat Bozok Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4268",
-   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/c194a856.png"
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4274",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/04f3a19a.jpeg"
   },
   {
    "id": "506504537199",
@@ -104,7 +120,7 @@
    "ad": "Yozgat Bozok Üniversitesi",
    "tur": "universite",
    "url": "https://www.bozok.edu.tr/",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {

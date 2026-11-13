@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-12T13:57+03:00",
+ "guncelleme": "2026-11-13T13:50+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -48,38 +48,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2799/Sergi-Ibrahim_Coskun_Ben_Anadolu_Resim_Sergisi",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
-  },
-  {
-   "id": "4c91466921fd",
-   "baslik": "Proje Temelli Akademik Çalışma Kültürü Üzerine",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/proje-temelli-akademik-calisma-kulturu-uzerine-4694",
-   "gorsel": null
-  },
-  {
-   "id": "249dfbfbd1d7",
-   "baslik": "Dünya Diyabet Günü Farkındalık Eğitimi",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Sağlık",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/dunya-diyabet-gunu-farkindalik-egitimi-4709",
-   "gorsel": null
   },
   {
    "id": "b990c213fb83",
@@ -144,6 +112,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2828/Mac-Kadinlar_EHP_Euro_Cup_Hentbol_Ilk_Mac_Yalikavakspor_-_HC_Byala",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+  },
+  {
+   "id": "cae1eef9d80a",
+   "baslik": "Birbirimize Candan Cana Bağlıyız",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/birbirimize-candan-cana-bagliyiz-4726",
+   "gorsel": null
   },
   {
    "id": "43cf8865b1c1",
@@ -271,6 +255,22 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mezun--ogrenci-bulusmalari-4712",
+   "gorsel": null
+  },
+  {
+   "id": "a357bbe59033",
+   "baslik": "Eurasia Tourism Summit 2026",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/eurasia-tourism-summit-2026-4727",
    "gorsel": null
   },
   {

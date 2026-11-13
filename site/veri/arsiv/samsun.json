@@ -1,5 +1,21 @@
 [
  {
+  "id": "8354eb5658f5",
+  "baslik": "UFEST, Ondokuz Mayıs Üniversitesinde!",
+  "tarih": "2026-11-12",
+  "bitis": null,
+  "saat": "10:00",
+  "ilce": "Atakum",
+  "mekan": "Ondokuz Mayıs Üniversitesi",
+  "kategori": "Festival",
+  "ucretsiz": true,
+  "ozet": "Şenlik (Festival)",
+  "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/senlik-festival/ufest-ondokuz-mayis-universitesinde",
+  "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/chatgpt_gorseli_10_kas_2026_12_01_35.jpg"
+ },
+ {
   "id": "c53a3267f5cf",
   "baslik": "10 Kasım Atatürk'ü Anma Günü: Atatürk ve Kitap",
   "tarih": "2026-11-10",

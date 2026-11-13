@@ -1,5 +1,21 @@
 [
  {
+  "id": "3c70d6c99df6",
+  "baslik": "Tango Del Mar",
+  "tarih": "2026-11-12",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Yenişehir",
+  "mekan": "Mersin Opera Büyük Sahne",
+  "kategori": "Opera & Bale",
+  "ucretsiz": false,
+  "ozet": "Devlet Opera ve Balesi",
+  "kaynak_ad": "Devlet Opera ve Balesi",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://biletinial.com/opera-bale/tango-del-mar-mersin-dob",
+  "gorsel": null
+ },
+ {
   "id": "1eca74d7bb5e",
   "baslik": "Yüksek İmpakt Faktörlü Dergilerde (Q1/Q2) Makale Yazım Teknikleri-2",
   "tarih": "2026-11-11",

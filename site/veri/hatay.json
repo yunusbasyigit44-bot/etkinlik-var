@@ -1,6 +1,6 @@
 {
  "il": "hatay",
- "guncelleme": "2026-11-12T13:48+03:00",
+ "guncelleme": "2026-11-13T13:41+03:00",
  "ilceler": [
   "Antakya",
   "Altınözü",
@@ -20,11 +20,11 @@
  ],
  "etkinlikler": [
   {
-   "id": "8d811d8666fd",
+   "id": "0e215ebda96a",
    "baslik": "Kendi Gök Kubbemiz (Yahya Kemal)",
    "tarih": "2026-11-19",
    "bitis": null,
-   "saat": "20:00",
+   "saat": "19:00",
    "ilce": "Antakya",
    "mekan": "Hatay DT Sahnesi",
    "kategori": "Tiyatro",
@@ -36,11 +36,11 @@
    "gorsel": "veri/gorsel/dt-kendi-gok-kubbemiz-yahya-kemal.jpg"
   },
   {
-   "id": "b9d969d495ec",
+   "id": "287cbbab6dfe",
    "baslik": "Kendi Gök Kubbemiz (Yahya Kemal)",
    "tarih": "2026-11-20",
    "bitis": null,
-   "saat": "20:00",
+   "saat": "19:00",
    "ilce": "Antakya",
    "mekan": "Hatay DT Sahnesi",
    "kategori": "Tiyatro",
@@ -52,11 +52,11 @@
    "gorsel": "veri/gorsel/dt-kendi-gok-kubbemiz-yahya-kemal.jpg"
   },
   {
-   "id": "0cb2f9aa7a0f",
+   "id": "2aaf22594bb3",
    "baslik": "Kendi Gök Kubbemiz (Yahya Kemal)",
    "tarih": "2026-11-21",
    "bitis": null,
-   "saat": "20:00",
+   "saat": "19:00",
    "ilce": "Antakya",
    "mekan": "Hatay DT Sahnesi",
    "kategori": "Tiyatro",

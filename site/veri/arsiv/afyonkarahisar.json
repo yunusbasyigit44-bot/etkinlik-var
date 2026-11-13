@@ -1,5 +1,37 @@
 [
  {
+  "id": "8cc94fec63f3",
+  "baslik": "Sınav Akreditasyon İşlemleri ve Bologna Ders Bilgi Paketlerinin Güncellenmesi",
+  "tarih": "2026-11-12",
+  "bitis": null,
+  "saat": "12:00",
+  "ilce": "Merkez",
+  "mekan": "Spor Bilimleri Fakültesi Konferans Salonu",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": "Eğitim Programı · Spor Bi̇li̇mleri̇ Fakültesi̇",
+  "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://aku.edu.tr/etkinlikler",
+  "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261111120508_sinav_akreditasyon_islemlerii.jpg"
+ },
+ {
+  "id": "08d0bd663b2c",
+  "baslik": "11 Kasım Milli Ağaçlandırma Günü",
+  "tarih": "2026-11-12",
+  "bitis": null,
+  "saat": "15:00",
+  "ilce": "Dazkırı",
+  "mekan": "Dazkırı Çamlık Mahallesi Toptepe Mevkii",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Dazkiri Meslek Yüksekokulu",
+  "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://aku.edu.tr/etkinlikler",
+  "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261111155315_agac_dikimi.jpg"
+ },
+ {
   "id": "04ac27506513",
   "baslik": "Ağaç Dikme Bayramı",
   "tarih": "2026-11-11",

@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-12T13:37+03:00",
+ "guncelleme": "2026-11-13T13:29+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -53,38 +53,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261027141418_ekimgecidi_afis.jpeg"
-  },
-  {
-   "id": "8cc94fec63f3",
-   "baslik": "Sınav Akreditasyon İşlemleri ve Bologna Ders Bilgi Paketlerinin Güncellenmesi",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "12:00",
-   "ilce": "Merkez",
-   "mekan": "Spor Bilimleri Fakültesi Konferans Salonu",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim Programı · Spor Bi̇li̇mleri̇ Fakültesi̇",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261111120508_sinav_akreditasyon_islemlerii.jpg"
-  },
-  {
-   "id": "08d0bd663b2c",
-   "baslik": "11 Kasım Milli Ağaçlandırma Günü",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Dazkırı",
-   "mekan": "Dazkırı Çamlık Mahallesi Toptepe Mevkii",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Dazkiri Meslek Yüksekokulu",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261111155315_agac_dikimi.jpg"
   },
   {
    "id": "f07bb413d422",
@@ -332,7 +300,7 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {

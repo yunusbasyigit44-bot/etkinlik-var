@@ -1,5 +1,21 @@
 [
  {
+  "id": "9df51a4ff4bf",
+  "baslik": "Savaş ve Barış",
+  "tarih": "2026-11-12",
+  "bitis": null,
+  "saat": "19:30",
+  "ilce": "Yakutiye",
+  "mekan": "Erzurum DT Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/savas-ve-baris",
+  "gorsel": null
+ },
+ {
   "id": "92db699d24af",
   "baslik": "Bilimsel Makale Yazma ve Yayımlama Süreci Eğitimi",
   "tarih": "2026-11-11",

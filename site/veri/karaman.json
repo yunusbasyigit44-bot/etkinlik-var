@@ -1,6 +1,6 @@
 {
  "il": "karaman",
- "guncelleme": "2026-11-12T14:03+03:00",
+ "guncelleme": "2026-11-13T13:56+03:00",
  "ilceler": [
   "Merkez",
   "Ayrancı",
@@ -10,70 +10,6 @@
   "Sarıveliler"
  ],
  "etkinlikler": [
-  {
-   "id": "984b37c3fa7f",
-   "baslik": "Erasmus Bilgilendirme Konferansi",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "11:45",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4159",
-   "gorsel": null
-  },
-  {
-   "id": "8bfa1d9646d2",
-   "baslik": "TAMP Bilgilendirme Söylesisi",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4161",
-   "gorsel": null
-  },
-  {
-   "id": "9c927c8b837d",
-   "baslik": "ÜNIDES Kapsaminda Çalistayin Gerçeklestirilmesi",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "15:30",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4160",
-   "gorsel": null
-  },
-  {
-   "id": "b7278c385b31",
-   "baslik": "Vize Öncesi Ates Basinda Son Nota",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4162",
-   "gorsel": null
-  },
   {
    "id": "38b3a1e901d1",
    "baslik": "Halk Sagligi Hemsireligi Dersi",
@@ -144,7 +80,7 @@
    "ad": "Karamanoğlu Mehmetbey Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.kmu.edu.tr/index.aspx",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

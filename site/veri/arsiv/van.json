@@ -1,5 +1,21 @@
 [
  {
+  "id": "42e4c4f4675a",
+  "baslik": "Grönholm Metodu",
+  "tarih": "2026-11-12",
+  "bitis": null,
+  "saat": "19:30",
+  "ilce": "İpekyolu",
+  "mekan": "Van Kültür Merkezi Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gronholm-metodu",
+  "gorsel": null
+ },
+ {
   "id": "589af71ad8af",
   "baslik": "Toti ile Poti",
   "tarih": "2026-11-08",

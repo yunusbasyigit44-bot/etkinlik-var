@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-12T14:03+03:00",
+ "guncelleme": "2026-11-13T13:56+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -14,51 +14,19 @@
  ],
  "etkinlikler": [
   {
-   "id": "295a2485d3bb",
-   "baslik": "Fotoğraf Topluluğunda Aynı Kadrajda Buluşalım",
-   "tarih": "2026-11-12",
+   "id": "0ba3a7069192",
+   "baslik": "Hukuk Zirvesi",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": null,
    "ilce": "Yahşihan",
    "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Sergi",
+   "kategori": "Akademik",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Kırıkkale Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10084",
-   "gorsel": null
-  },
-  {
-   "id": "de119995252e",
-   "baslik": "ABD Yükseköğretim Sistemi ve Uluslararası Öğrenci Olmak",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yahşihan",
-   "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırıkkale Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10082",
-   "gorsel": null
-  },
-  {
-   "id": "a8a8e7783918",
-   "baslik": "14 Kasım Dünya Diyabet Günü Paneli",
-   "tarih": "2026-11-12",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yahşihan",
-   "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Sağlık",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırıkkale Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10074",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10085",
    "gorsel": null
   },
   {
@@ -76,6 +44,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10077",
    "gorsel": null
+  },
+  {
+   "id": "f0d7f7911fea",
+   "baslik": "Şiddetin Anatomisi ve Çözüm Yolları",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10086",
+   "gorsel": null
   }
  ],
  "kaynaklar": [
@@ -83,7 +67,7 @@
    "ad": "Kırıkkale Üniversitesi",
    "tur": "universite",
    "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {
