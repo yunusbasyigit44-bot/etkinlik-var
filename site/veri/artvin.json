@@ -1,6 +1,6 @@
 {
  "il": "artvin",
- "guncelleme": "2026-11-13T13:32+03:00",
+ "guncelleme": "2026-11-14T12:50+03:00",
  "ilceler": [
   "Merkez",
   "Ardanuç",
@@ -11,32 +11,8 @@
   "Şavşat",
   "Yusufeli"
  ],
- "etkinlikler": [
-  {
-   "id": "b78a2112e55f",
-   "baslik": "Türkiye'de Felsefe",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Nihat Gökyiğit Kongre ve Kültür Merkezi 15 Temmuz Milli İrade Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Artvin Çoruh Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.artvin.edu.tr/tr/etkinlik/turkiye-de-felsefe",
-   "gorsel": "https://www.artvin.edu.tr/uploads/fef.artvin.edu.tr/etkinlikler/102_whatsapp-image-2026-09-29-at-140937r0sl4.jpeg"
-  }
- ],
+ "etkinlikler": [],
  "kaynaklar": [
-  {
-   "ad": "Artvin Çoruh Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.artvin.edu.tr/tr/etkinlik/tumu",
-   "etkinlik_sayisi": 1,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
-  },
   {
    "ad": "8 ilçe kaymakamlığı",
    "tur": "kaymakamlik",
@@ -57,6 +33,13 @@
    "url": "https://www.artvin.gov.tr",
    "etkinlik_sayisi": 0,
    "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Artvin Çoruh Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.artvin.edu.tr/tr/etkinlik/tumu",
+   "etkinlik_sayisi": 0,
+   "durum": "hata: HTTP Error 403: Forbidden"
   },
   {
    "ad": "Artvin İl Kültür ve Turizm Müdürlüğü",

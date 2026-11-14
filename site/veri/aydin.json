@@ -1,6 +1,6 @@
 {
  "il": "aydin",
- "guncelleme": "2026-11-13T13:32+03:00",
+ "guncelleme": "2026-11-14T12:50+03:00",
  "ilceler": [
   "Efeler",
   "Bozdoğan",
@@ -29,9 +29,9 @@
    "saat": "19:00",
    "ilce": "Efeler",
    "mekan": "Atatürk Kongre Merkezi Aydın Bey Salonu",
-   "kategori": "Söyleşi",
+   "kategori": "Tiyatro",
    "ucretsiz": true,
-   "ozet": "Söyleşi",
+   "ozet": "Söyleşi/Tiyatro",
    "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://haber.adu.edu.tr/etkinlik/aydin-dan-anadolu-ya-nepal-e-dunyaya--2000148795",
@@ -116,22 +116,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://haber.adu.edu.tr/etkinlik/iso-9001-2006-kalite-yonetim-sistemi-standardi-yeni-gereklilikler-iso-9001-2015-ile-karsilastirma-ve-gecis-sureci-2000148676",
    "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261103160915-X24PYZRZYR0H2QDMZ444-000050468067669223619366.jpeg"
-  },
-  {
-   "id": "b94ceec1f872",
-   "baslik": "Kamulaştırma Amaçlı Taşınmaz Değerlemesi ve Bilirkişi Raporu Hazırlama Eğitimi",
-   "tarih": "2026-12-05",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Efeler",
-   "mekan": "ADÜ Çarşı 101 Nolu Derslik",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/kamulastirma-amacli-tasinmaz-degerlemesi-ve-bilirkisi-raporu-hazirlama-egitimi-2000148655",
-   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261103160337-N7MF5HUOXRGUR86R4333-000045802113244026220549.jpeg"
   },
   {
    "id": "7a227b0158ce",
@@ -379,7 +363,7 @@
    "ad": "Aydın Adnan Menderes Üniversitesi",
    "tur": "universite",
    "url": "https://haber.adu.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 22,
+   "etkinlik_sayisi": 21,
    "durum": "çalışıyor"
   },
   {

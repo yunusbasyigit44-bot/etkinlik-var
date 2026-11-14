@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-13T13:40+03:00",
+ "guncelleme": "2026-11-14T12:58+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -35,22 +35,6 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg"
   },
   {
-   "id": "298f9c82f8be",
-   "baslik": "Tiyatro Kulübü Tanıtım Standı",
-   "tarih": "2026-11-09",
-   "bitis": "2026-11-13",
-   "saat": "10:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": "Tanıtım Aktiviteleri",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/tiyatro-kulubu-tanitim-standi-1794210839",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17be4d6aac.jpg"
-  },
-  {
    "id": "0b353c5509b8",
    "baslik": "Milli Mücadeleden Cumhuriyet",
    "tarih": "2026-11-09",
@@ -65,38 +49,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/milli-mucadeleden-cumhuriyet-1792756243",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb497d74a82.jpg"
-  },
-  {
-   "id": "943f717453fa",
-   "baslik": "Cadı Kazanı",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Tepebaşı",
-   "mekan": "B.B.Sanat ve Kültür Merkezi Tiyatro Sahnesi ( Opera )",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
-  },
-  {
-   "id": "f466f41c34cb",
-   "baslik": "Aşk Listesi",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Sanat Sokağı Genco Erkal Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
   },
   {
    "id": "4eceaa4009a4",
@@ -1107,6 +1059,22 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e511e40e8.jpg"
   },
   {
+   "id": "fe4fae977120",
+   "baslik": "Es Es Tayfa Gitar Üçlüsü",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser ve Dinletiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/es-es-tayfa-gitar-uclusu-1792482199",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71b71bd420.jpg"
+  },
+  {
    "id": "3d2fc0b03178",
    "baslik": "Verimsizler",
    "tarih": "2026-11-27",
@@ -1167,7 +1135,7 @@
    "ad": "Eskişehir Şehir Tiyatroları",
    "tur": "belediye",
    "url": "https://tiyatro.eskisehir.bel.tr/oyuntakvimi.php",
-   "etkinlik_sayisi": 25,
+   "etkinlik_sayisi": 23,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

@@ -1,5 +1,21 @@
 [
  {
+  "id": "b78a2112e55f",
+  "baslik": "Türkiye'de Felsefe",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Merkez",
+  "mekan": "Nihat Gökyiğit Kongre ve Kültür Merkezi 15 Temmuz Milli İrade Salonu",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Artvin Çoruh Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.artvin.edu.tr/tr/etkinlik/turkiye-de-felsefe",
+  "gorsel": "https://www.artvin.edu.tr/uploads/fef.artvin.edu.tr/etkinlikler/102_whatsapp-image-2026-09-29-at-140937r0sl4.jpeg"
+ },
+ {
   "id": "5ed7253961a2",
   "baslik": "Dekan Öğrenci Buluşması",
   "tarih": "2026-11-04",

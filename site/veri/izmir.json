@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-11-13T13:45+03:00",
+ "guncelleme": "2026-11-14T13:02+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -177,70 +177,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-05/6fdd8156-439d-4268-91a9-dab9b9640c37-0e5jkozs.jpeg"
-  },
-  {
-   "id": "ac4c4ef18c39",
-   "baslik": "Halktan Biri",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Konak",
-   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-04-07/8ec8a040-119b-4ce6-ae8f-9c7e00484cc7-brtod2zv.jpeg"
-  },
-  {
-   "id": "82a268b15183",
-   "baslik": "Hayâl-i Temsil",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hayal-i-temsil",
-   "gorsel": "veri/gorsel/dt-hayal-i-temsil.jpg"
-  },
-  {
-   "id": "2e3bc2c2995c",
-   "baslik": "Fareler ve İnsanlar",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareler-ve-insanlar",
-   "gorsel": "veri/gorsel/dt-fareler-ve-insanlar.jpg"
-  },
-  {
-   "id": "72fe7729487e",
-   "baslik": "Nihayet Makamı",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Konak",
-   "mekan": "Devlet Tiyatroları Urla AKM Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nihayet-makami",
-   "gorsel": "veri/gorsel/dt-nihayet-makami.jpg"
   },
   {
    "id": "bbed42678ead",
@@ -865,6 +801,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kirmizi-kanatli-baykus",
    "gorsel": "veri/gorsel/dt-kirmizi-kanatli-baykus.jpg"
+  },
+  {
+   "id": "a15ba4591fec",
+   "baslik": "Ayrımcılığa Karşı Sinema Günleri",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Konak",
+   "mekan": "Elhamra Sahnesi",
+   "kategori": "Sinema",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-13/0c87f2f6-47eb-4a43-9d66-eafd84b970bf-m51o1dr5.jpeg"
   },
   {
    "id": "7f42e57777b8",
@@ -1496,7 +1448,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 43,
+   "etkinlik_sayisi": 40,
    "durum": "çalışıyor"
   },
   {

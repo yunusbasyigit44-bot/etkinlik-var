@@ -1,6 +1,6 @@
 {
  "il": "erzincan",
- "guncelleme": "2026-11-13T13:36+03:00",
+ "guncelleme": "2026-11-14T12:54+03:00",
  "ilceler": [
   "Merkez",
   "Çayırlı",
@@ -12,64 +12,8 @@
   "Tercan",
   "Üzümlü"
  ],
- "etkinlikler": [
-  {
-   "id": "f13561030603",
-   "baslik": "Bozkırın Kızlarından Küresel Liderlere Türk Dünyasının Kadın Liderleri Kongresi",
-   "tarih": "2026-11-12",
-   "bitis": "2026-11-13",
-   "saat": "08:00",
-   "ilce": "Merkez",
-   "mekan": "Erzincan Binali Yıldırım Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": "Fiziksel Etkinlik,Kongre",
-   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://ebyu.edu.tr/etkinlik/bozkirin-kizlarindan-kuresel-liderlere-turk-dunyasinin-kadin-liderleri-kongresi/",
-   "gorsel": null
-  },
-  {
-   "id": "2c2ede6d23ef",
-   "baslik": "Bozkırın Kızlarından Küresel Liderlere Türk Dünyası Kadın Liderleri Kongresi Resim Sergisi",
-   "tarih": "2026-11-12",
-   "bitis": "2026-11-13",
-   "saat": "08:00",
-   "ilce": "Merkez",
-   "mekan": "Erzincan Binali Yıldırım Üniversitesi",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": "Fiziksel Etkinlik",
-   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://ebyu.edu.tr/etkinlik/bozkirin-kizlarindan-kuresel-liderlere-turk-dunyasi-kadin-liderleri-kongresi-resim-sergisi/",
-   "gorsel": null
-  },
-  {
-   "id": "d8615217fbde",
-   "baslik": "Ahıska Türkleri: İki Asırlık Oratoryo",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Prof. Dr. Erdoğan Büyükkasap Kongre ve Kültür Merkezi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Fiziksel Etkinlik",
-   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://ebyu.edu.tr/etkinlik/ahiska-turkleri-iki-asirlik-oratoryo/",
-   "gorsel": null
-  }
- ],
+ "etkinlikler": [],
  "kaynaklar": [
-  {
-   "ad": "Erzincan Binali Yıldırım Üniversitesi",
-   "tur": "universite",
-   "url": "https://ebyu.edu.tr/etkinlik/?ical=1",
-   "etkinlik_sayisi": 3,
-   "durum": "çalışıyor"
-  },
   {
    "ad": "8 ilçe kaymakamlığı",
    "tur": "kaymakamlik",
@@ -88,6 +32,13 @@
    "ad": "Erzincan Belediyesi",
    "tur": "belediye",
    "url": "https://erzincan.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
+   "ad": "Erzincan Binali Yıldırım Üniversitesi",
+   "tur": "universite",
+   "url": "https://ebyu.edu.tr/etkinlik/?ical=1",
    "etkinlik_sayisi": 0,
    "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },

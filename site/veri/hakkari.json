@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-11-13T13:41+03:00",
+ "guncelleme": "2026-11-14T12:58+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -24,6 +24,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/541/%22resmi-yazisma-kurallari-ve-resmi-yazismalarda-turkcenin-dogru-kullanimi%22-semineri",
    "gorsel": "https://hubis.hakkari.edu.tr/media/event/541/cover/thumb/92d20bc0edf0474baad6e2bf844afb2d.webp"
+  },
+  {
+   "id": "8bd6c352c17e",
+   "baslik": "Dünya Çocuk Hakları Günü Farkındalık Etkinliği",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Merkez",
+   "mekan": "Öğrenci Toplulukları Merkezi",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": "Diğer",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/547/dunya-cocuk-haklari-gunu-farkindalik-etkinligi",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/547/cover/thumb/d03762036a95470f8b8e2416cddea6a8.webp"
   }
  ],
  "kaynaklar": [
@@ -31,7 +47,7 @@
    "ad": "Hakkari Üniversitesi",
    "tur": "universite",
    "url": "https://www.hakkari.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

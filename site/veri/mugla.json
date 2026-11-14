@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-13T13:50+03:00",
+ "guncelleme": "2026-11-14T13:07+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -48,22 +48,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2799/Sergi-Ibrahim_Coskun_Ben_Anadolu_Resim_Sergisi",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
-  },
-  {
-   "id": "b990c213fb83",
-   "baslik": "Kadınlar EHP Euro Cup Hentbol İlk Maç HC Byala - Yalıkavakspor",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Bodrum",
-   "mekan": "B.B Binnaz Karakaya Spor Salonu",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2827/Mac-Kadinlar_EHP_Euro_Cup_Hentbol_Ilk_Mac_HC_Byala_-_Yalikavakspor",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
   },
   {
    "id": "f24d655dd26c",
@@ -386,6 +370,22 @@
    "gorsel": null
   },
   {
+   "id": "26a5b451421a",
+   "baslik": "Müdür & Öğrenci Buluşması",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mudur--ogrenci-bulusmasi-4728",
+   "gorsel": null
+  },
+  {
    "id": "688da60d2223",
    "baslik": "Yapay Zeka Okuryazarlığı: Öğrenci Hakları ve Yapay Zeka Pratikleri",
    "tarih": "2026-11-26",
@@ -567,14 +567,14 @@
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
-   "etkinlik_sayisi": 23,
+   "etkinlik_sayisi": 24,
    "durum": "çalışıyor"
   },
   {
    "ad": "Bodrum Belediyesi",
    "tur": "belediye",
    "url": "https://www.bodrum.bel.tr/etkinlik_takvimi",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {

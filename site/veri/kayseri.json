@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-11-13T13:46+03:00",
+ "guncelleme": "2026-11-14T13:03+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -21,22 +21,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "1db6c27d8ca4",
-   "baslik": "Leenane'in Güzellik Kraliçesi",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Melikgazi",
-   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanein-guzellik-kralicesi.webp"
-  },
-  {
    "id": "eac15cf0c3df",
    "baslik": "Leenane'in Güzellik Kraliçesi",
    "tarih": "2026-11-14",
@@ -50,7 +34,7 @@
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanein-guzellik-kralicesi.webp"
+   "gorsel": null
   },
   {
    "id": "51c972a40625",
@@ -66,7 +50,7 @@
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
-   "gorsel": "veri/gorsel/dt-leenanein-guzellik-kralicesi.webp"
+   "gorsel": null
   },
   {
    "id": "252604f0debc",
@@ -275,6 +259,86 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/masal-gulleri",
    "gorsel": "veri/gorsel/dt-masal-gulleri.webp"
+  },
+  {
+   "id": "434d12b77977",
+   "baslik": "Diktat",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/diktat",
+   "gorsel": "veri/gorsel/dt-diktat.jpg"
+  },
+  {
+   "id": "928db15c0b03",
+   "baslik": "Diktat",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/diktat",
+   "gorsel": "veri/gorsel/dt-diktat.jpg"
+  },
+  {
+   "id": "b886a7c70df7",
+   "baslik": "Diktat",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/diktat",
+   "gorsel": "veri/gorsel/dt-diktat.jpg"
+  },
+  {
+   "id": "672755eb09ea",
+   "baslik": "Diktat",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/diktat",
+   "gorsel": "veri/gorsel/dt-diktat.jpg"
+  },
+  {
+   "id": "155ac3b9736d",
+   "baslik": "Sirk Ateşi",
+   "tarih": "2026-12-06",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sirk-atesi",
+   "gorsel": "veri/gorsel/dt-sirk-atesi.jpg"
   }
  ],
  "kaynaklar": [
@@ -282,7 +346,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 16,
+   "etkinlik_sayisi": 20,
    "durum": "çalışıyor"
   },
   {

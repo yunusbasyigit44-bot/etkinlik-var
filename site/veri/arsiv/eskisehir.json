@@ -1,5 +1,37 @@
 [
  {
+  "id": "943f717453fa",
+  "baslik": "Cadı Kazanı",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Tepebaşı",
+  "mekan": "B.B.Sanat ve Kültür Merkezi Tiyatro Sahnesi ( Opera )",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
+  "kaynak_ad": "Eskişehir Şehir Tiyatroları",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
+  "gorsel": null
+ },
+ {
+  "id": "f466f41c34cb",
+  "baslik": "Aşk Listesi",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Tepebaşı",
+  "mekan": "Sanat Sokağı Genco Erkal Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
+  "kaynak_ad": "Eskişehir Şehir Tiyatroları",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
+  "gorsel": null
+ },
+ {
   "id": "4d5fc58ecc76",
   "baslik": "Pompenya",
   "tarih": "2026-11-12",
@@ -174,6 +206,22 @@
   "kaynak_tur": "belediye",
   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
   "gorsel": null
+ },
+ {
+  "id": "298f9c82f8be",
+  "baslik": "Tiyatro Kulübü Tanıtım Standı",
+  "tarih": "2026-11-09",
+  "bitis": "2026-11-13",
+  "saat": "10:00",
+  "ilce": "Tepebaşı",
+  "mekan": "Anadolu Üniversitesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": "Tanıtım Aktiviteleri",
+  "kaynak_ad": "Anadolu Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/tiyatro-kulubu-tanitim-standi-1794210839",
+  "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17be4d6aac.jpg"
  },
  {
   "id": "4a1019952623",

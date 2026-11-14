@@ -1,6 +1,6 @@
 {
  "il": "batman",
- "guncelleme": "2026-11-13T13:56+03:00",
+ "guncelleme": "2026-11-14T13:13+03:00",
  "ilceler": [
   "Merkez",
   "Beşiri",
@@ -41,6 +41,38 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/biz-size-hayraniz",
    "gorsel": "veri/gorsel/dt-biz-size-hayraniz.jpg"
+  },
+  {
+   "id": "ea206e4e341b",
+   "baslik": "Nalınlar",
+   "tarih": "2026-12-07",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Merkez",
+   "mekan": "Batman DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nalinlar",
+   "gorsel": "veri/gorsel/dt-nalinlar.webp"
+  },
+  {
+   "id": "6e07ee8245fa",
+   "baslik": "Nalınlar",
+   "tarih": "2026-12-08",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Merkez",
+   "mekan": "Batman DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nalinlar",
+   "gorsel": "veri/gorsel/dt-nalinlar.webp"
   }
  ],
  "kaynaklar": [
@@ -48,7 +80,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

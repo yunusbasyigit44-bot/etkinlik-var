@@ -1,6 +1,6 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-11-13",
+ "guncelleme": "2026-11-14",
  "secilenler": [
   {
    "id": "d7762ec713f9",
@@ -21,36 +21,32 @@
    "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "d8eb6d500e57",
-   "not": "Burdur'da canlı müzik keyfi."
-  },
-  {
-   "id": "938781845967",
-   "not": "İstanbul'da canlı müzik keyfi."
-  },
-  {
    "id": "d0c0f4fe6418",
    "not": "Muğla'da canlı müzik keyfi."
+  },
+  {
+   "id": "ee7b32f173f2",
+   "not": "İzmir'de canlı müzik keyfi."
+  },
+  {
+   "id": "cdb1a7eed51c",
+   "not": "Eskişehir'de canlı müzik keyfi."
+  },
+  {
+   "id": "3b0896fba8a6",
+   "not": "Çankırı'da geleneksel ezgiler."
   },
   {
    "id": "4d1fa340e6fa",
    "not": "Manisa'da perde açılıyor."
   },
   {
-   "id": "298f9c82f8be",
-   "not": "Eskişehir'de perde açılıyor."
-  },
-  {
    "id": "62672e13a6e8",
    "not": "Manisa'da perde açılıyor."
   },
   {
-   "id": "6c165b4e08a9",
-   "not": "Tokat'ta ritim ve dans dolu bir gösteri."
-  },
-  {
-   "id": "c95cdb52738d",
-   "not": "İzmir'de geleneksel ezgiler."
+   "id": "616f651efafa",
+   "not": "Adana'da perde açılıyor."
   },
   {
    "id": "1645d76a0b2d",
@@ -67,6 +63,10 @@
   {
    "id": "6dbaf62dc677",
    "not": "Muğla'da gezip görülecek bir sergi."
+  },
+  {
+   "id": "4836452cabc1",
+   "not": "Kocaeli'de çocuklarla gidilecek bir etkinlik."
   }
  ]
 }

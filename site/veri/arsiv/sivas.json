@@ -1,5 +1,37 @@
 [
  {
+  "id": "9dd82d30fb57",
+  "baslik": "Sivas'ta 108 Gün",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": "19:30",
+  "ilce": "Merkez",
+  "mekan": "Atatürk Kültür Merkezi Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sivasta-108-gun",
+  "gorsel": null
+ },
+ {
+  "id": "244a4da9d9cf",
+  "baslik": "Travmatik Yaşantılar Ruhsal Entegrasyon ve Duyguları Vurduğunda!",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Sivas Cumhuriyet Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Travmatik Yaşantılar Ruhsal Entegrasyon ve Duyguları Vurduğunda!",
+  "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19205-travmatik-yasantilar-ruhsal-entegrasyon-ve-duygulari-vurdugunda",
+  "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/192/Travmatik-Yasantilar-Ruhsal-Entegrasyon-ve-Duygulari-Vurdugunda-25059.jpg"
+ },
+ {
   "id": "3c214cb45b30",
   "baslik": "Sivas'ta 108 Gün",
   "tarih": "2026-11-12",

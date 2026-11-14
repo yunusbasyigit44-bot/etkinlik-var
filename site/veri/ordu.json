@@ -1,6 +1,6 @@
 {
  "il": "ordu",
- "guncelleme": "2026-11-13T13:52+03:00",
+ "guncelleme": "2026-11-14T13:09+03:00",
  "ilceler": [
   "Altınordu",
   "Akkuş",
@@ -24,11 +24,11 @@
  ],
  "etkinlikler": [
   {
-   "id": "50797f3e74ef",
+   "id": "65fa793a1c63",
    "baslik": "Azerbaycan Halk Ezgileri Konseri",
-   "tarih": "2026-11-13",
+   "tarih": "2026-11-15",
    "bitis": null,
-   "saat": "20:00",
+   "saat": "18:00",
    "ilce": "Altınordu",
    "mekan": "Tıp Fakültesi Morfoloji Binası Konferans Salonu",
    "kategori": "Konser",
@@ -36,7 +36,7 @@
    "ozet": null,
    "kaynak_ad": "Ordu Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://odu.edu.tr/Etkinlikler/405/azerbaycan-halk-ezgileri-konseri",
+   "kaynak_url": "https://odu.edu.tr/Etkinlikler/409/azerbaycan-halk-ezgileri-konseri",
    "gorsel": null
   },
   {

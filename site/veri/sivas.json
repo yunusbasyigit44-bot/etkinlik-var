@@ -1,6 +1,6 @@
 {
  "il": "sivas",
- "guncelleme": "2026-11-13T13:53+03:00",
+ "guncelleme": "2026-11-14T13:10+03:00",
  "ilceler": [
   "Merkez",
   "Akıncılar",
@@ -21,38 +21,6 @@
   "Zara"
  ],
  "etkinlikler": [
-  {
-   "id": "9dd82d30fb57",
-   "baslik": "Sivas'ta 108 Gün",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Merkez",
-   "mekan": "Atatürk Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sivasta-108-gun",
-   "gorsel": "veri/gorsel/dt-sivasta-108-gun.webp"
-  },
-  {
-   "id": "244a4da9d9cf",
-   "baslik": "Travmatik Yaşantılar Ruhsal Entegrasyon ve Duyguları Vurduğunda!",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sivas Cumhuriyet Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Travmatik Yaşantılar Ruhsal Entegrasyon ve Duyguları Vurduğunda!",
-   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19205-travmatik-yasantilar-ruhsal-entegrasyon-ve-duygulari-vurdugunda",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/192/Travmatik-Yasantilar-Ruhsal-Entegrasyon-ve-Duygulari-Vurdugunda-25059.jpg"
-  },
   {
    "id": "35609df0d36e",
    "baslik": "Sivas'ta 108 Gün",
@@ -454,6 +422,86 @@
    "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/192/Baglama-Resitali-56805.png"
   },
   {
+   "id": "c0ac9178e8af",
+   "baslik": "Kral Olmak İstemeyen Aslan",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kültür Merkezi Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kral-olmak-istemeyen-aslan",
+   "gorsel": "veri/gorsel/dt-kral-olmak-istemeyen-aslan.jpg"
+  },
+  {
+   "id": "0457f2e16288",
+   "baslik": "Kral Olmak İstemeyen Aslan",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kültür Merkezi Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kral-olmak-istemeyen-aslan",
+   "gorsel": "veri/gorsel/dt-kral-olmak-istemeyen-aslan.jpg"
+  },
+  {
+   "id": "1939c75ee3e5",
+   "baslik": "Resimli Osmanlı Tarihi",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/resimli-osmanli-tarihi",
+   "gorsel": "veri/gorsel/dt-resimli-osmanli-tarihi.webp"
+  },
+  {
+   "id": "6350741b5e21",
+   "baslik": "Resimli Osmanlı Tarihi",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": "19:20",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/resimli-osmanli-tarihi",
+   "gorsel": "veri/gorsel/dt-resimli-osmanli-tarihi.webp"
+  },
+  {
+   "id": "d6d96bee508c",
+   "baslik": "Resimli Osmanlı Tarihi",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/resimli-osmanli-tarihi",
+   "gorsel": "veri/gorsel/dt-resimli-osmanli-tarihi.webp"
+  },
+  {
    "id": "cbb97b55d68b",
    "baslik": "Belleğin Görsel Anlatısı: Sözlü Tarih ve Sinema",
    "tarih": "2027-01-29",
@@ -468,6 +516,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19233-bellegin-gorsel-anlatisi-sozlu-tarih-ve-sinema",
    "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/192/Bellegin-Gorsel-Anlatisi--Sozlu-Tarih-ve-Sinema-93592.jpeg"
+  },
+  {
+   "id": "29c659f69832",
+   "baslik": "Yapay Zeka ve Medyanın Dönüşümü",
+   "tarih": "2027-02-12",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": "Yapay Zeka ve Medyanın Dönüşümü Yer: İletişim Fakültesi Toplantı Salonu",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19316-yapay-zeka-ve-medyanin-donusumu",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/193/Yapay-Zeka-ve-Medyanin-Donusumu-76217.jpeg"
   }
  ],
  "kaynaklar": [
@@ -475,7 +539,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 16,
+   "etkinlik_sayisi": 20,
    "durum": "çalışıyor"
   },
   {

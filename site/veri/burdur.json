@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-13T13:33+03:00",
+ "guncelleme": "2026-11-14T12:51+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,38 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "d8eb6d500e57",
-   "baslik": "Caz Davul Kaydı ve Mikrofonlama Teknikleri",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Merkez",
-   "mekan": "Müzik Kültürü Uygulama ve Araştırma Merkezi Ses Kayıt Stüdyosu",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13600/1/caz-davul-kaydi-ve-mikrofonlama-teknikleri",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13600/4_13600_2026-11-10-06-42-59-30448_thumb.webp"
-  },
-  {
-   "id": "b25cb9c9ca10",
-   "baslik": "Çevre Bilinci ve Sosyal Sorumluluk",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Merkez",
-   "mekan": "Prof. Dr. İlhan Varank Kütüphanesi Bahçesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13587/1/cevre-bilinci-ve-sosyal-sorumluluk",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13587/4_13587_2026-11-11-06-30-57-453110_thumb.webp"
-  },
   {
    "id": "108bdaf4f7d8",
    "baslik": "Tütün Bağımlılığı Farkındalık Eğitimi",
@@ -110,6 +78,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13543/1/cocuklar-icin-p4c",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13543/4_13543_2026-10-28-06-59-00-693617_thumb.webp"
+  },
+  {
+   "id": "f5094618c575",
+   "baslik": "Gurur ve Önyargı Film Gösterimi",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Avşar Han Sinema Salonu",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13612/1/gurur-ve-onyargi-film-gosterimi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13612/4_13612_2026-11-12-10-12-58-345580_thumb.webp"
+  },
+  {
+   "id": "0c8fde1968cf",
+   "baslik": "Yaratıcı Drama ve Masal Anlatıcılığı",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Merkez",
+   "mekan": "Eğitim Fakültesi Konferans Salonu",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13542/1/yaratici-drama-ve-masal-anlaticiligi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13542/4_13542_2026-10-28-07-00-34-52824_thumb.webp"
   }
  ],
  "kaynaklar": [

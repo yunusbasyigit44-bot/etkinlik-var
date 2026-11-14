@@ -1,6 +1,6 @@
 {
  "il": "karaman",
- "guncelleme": "2026-11-13T13:56+03:00",
+ "guncelleme": "2026-11-14T13:13+03:00",
  "ilceler": [
   "Merkez",
   "Ayrancı",
@@ -10,54 +10,6 @@
   "Sarıveliler"
  ],
  "etkinlikler": [
-  {
-   "id": "38b3a1e901d1",
-   "baslik": "Halk Sagligi Hemsireligi Dersi",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "08:30",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Sağlık",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4155",
-   "gorsel": null
-  },
-  {
-   "id": "a868a7f45ee4",
-   "baslik": "Arama Kurtarmada Ekip Organizasyonu ve Takim Çalismasi Söylesisi",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4163",
-   "gorsel": null
-  },
-  {
-   "id": "8681496bcc37",
-   "baslik": "Tiyatro",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4156",
-   "gorsel": null
-  },
   {
    "id": "9846190a3883",
    "baslik": "Önlük giyme töreni",
@@ -80,7 +32,7 @@
    "ad": "Karamanoğlu Mehmetbey Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.kmu.edu.tr/index.aspx",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

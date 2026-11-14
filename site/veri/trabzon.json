@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-13T13:54+03:00",
+ "guncelleme": "2026-11-14T13:11+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -37,54 +37,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/3653",
    "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/11/f7ce0e3d-bde4-4b7b-a69d-4d9ac79c11f4.jpeg"
-  },
-  {
-   "id": "8069385518a0",
-   "baslik": "Aile Sağlığı Merkezlerinde Ebelik ve Doğum Hizmetleri",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Ortahisar",
-   "mekan": "Radyo/TV",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/aile-sagligi-merkezlerinde-ebelik-ve-dogum-hizmetleri",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_764b098cd8da.jpg"
-  },
-  {
-   "id": "8cfa0c0dce6b",
-   "baslik": "Özel Gün Etkinliği \"Dünya Diyabet Günü\"",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "13:45",
-   "ilce": "Ortahisar",
-   "mekan": "İLAFAR",
-   "kategori": "Sağlık",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/ilafar/etkinlik/ozel-gun-etkinligi-dunya-diyabet-gunu",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/tL6N4P.jpg"
-  },
-  {
-   "id": "139caa34780a",
-   "baslik": "Julıus Caesar",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/julius-caesar",
-   "gorsel": "veri/gorsel/dt-julius-caesar.webp"
   },
   {
    "id": "d62e95054736",
@@ -231,6 +183,22 @@
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_781ebfcd7b00.jpg"
   },
   {
+   "id": "50f2fe3f68c8",
+   "baslik": "Modern Turizmin Doğuşu ve Osmanlı İmparatorluğu",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/modern-turizmin-dogusu-ve-osmanli-imparatorlugu",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_30a3afb6769b.jpg"
+  },
+  {
    "id": "1ba869028a1b",
    "baslik": "Sıradan Kasabası",
    "tarih": "2026-11-18",
@@ -245,6 +213,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siradan-kasabasi",
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
+  },
+  {
+   "id": "5438a2bc7334",
+   "baslik": "Akademisyene Danış Etkinliği",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "09:30",
+   "ilce": "Ortahisar",
+   "mekan": "Arsin Organize Sanayi Bölgesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/tto/etkinlik/akademisyene-danis-etkinligi",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/tto_411e634c2ce1.jpg"
   },
   {
    "id": "8d59561c9c3f",
@@ -764,7 +748,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 23,
+   "etkinlik_sayisi": 22,
    "durum": "çalışıyor"
   },
   {

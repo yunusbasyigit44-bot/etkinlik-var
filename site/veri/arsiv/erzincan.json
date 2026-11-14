@@ -1,5 +1,21 @@
 [
  {
+  "id": "d8615217fbde",
+  "baslik": "Ahıska Türkleri: İki Asırlık Oratoryo",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Merkez",
+  "mekan": "Prof. Dr. Erdoğan Büyükkasap Kongre ve Kültür Merkezi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Fiziksel Etkinlik",
+  "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://ebyu.edu.tr/etkinlik/ahiska-turkleri-iki-asirlik-oratoryo/",
+  "gorsel": null
+ },
+ {
   "id": "e7d3cb62b2f4",
   "baslik": "Kırık Kalp Sendromu Söyleşisi",
   "tarih": "2026-11-12",
@@ -13,6 +29,38 @@
   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
   "kaynak_tur": "universite",
   "kaynak_url": "https://ebyu.edu.tr/etkinlik/kirik-kalp-sendromu-soylesisi/",
+  "gorsel": null
+ },
+ {
+  "id": "f13561030603",
+  "baslik": "Bozkırın Kızlarından Küresel Liderlere Türk Dünyasının Kadın Liderleri Kongresi",
+  "tarih": "2026-11-12",
+  "bitis": "2026-11-13",
+  "saat": "08:00",
+  "ilce": "Merkez",
+  "mekan": "Erzincan Binali Yıldırım Üniversitesi",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": "Fiziksel Etkinlik,Kongre",
+  "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://ebyu.edu.tr/etkinlik/bozkirin-kizlarindan-kuresel-liderlere-turk-dunyasinin-kadin-liderleri-kongresi/",
+  "gorsel": null
+ },
+ {
+  "id": "2c2ede6d23ef",
+  "baslik": "Bozkırın Kızlarından Küresel Liderlere Türk Dünyası Kadın Liderleri Kongresi Resim Sergisi",
+  "tarih": "2026-11-12",
+  "bitis": "2026-11-13",
+  "saat": "08:00",
+  "ilce": "Merkez",
+  "mekan": "Erzincan Binali Yıldırım Üniversitesi",
+  "kategori": "Sergi",
+  "ucretsiz": true,
+  "ozet": "Fiziksel Etkinlik",
+  "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://ebyu.edu.tr/etkinlik/bozkirin-kizlarindan-kuresel-liderlere-turk-dunyasi-kadin-liderleri-kongresi-resim-sergisi/",
   "gorsel": null
  },
  {

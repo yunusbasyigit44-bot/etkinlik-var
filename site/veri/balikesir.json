@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-13T13:33+03:00",
+ "guncelleme": "2026-11-14T12:50+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -25,22 +25,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "4deb6cc7b611",
-   "baslik": "Deney Hayvanları Kullanım Sertifikası Kursu",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "02:00",
-   "ilce": "Altıeylül",
-   "mekan": "DENEY HAYVANLARI ÜRETİM, BAKIM UYGULAMA VE ARAŞTIRMA MERKEZİ",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": "Sürekli̇ Eği̇ti̇m Uygulama Ve Araştirma Merkezi̇ Müdürlüğü",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_13.DENEY_HAYVANLARI_KULLANIM_SERT%C4%B0F%C4%B0KASI_KURSU_1793709594.png"
-  },
-  {
    "id": "925136f0fd05",
    "baslik": "BAUNAI Tech Talks “Yapay Zekâ ile Geleceği Yeniden Düşün”",
    "tarih": "2026-11-16",
@@ -55,6 +39,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Afi%C5%9F_1793863414.jpeg"
+  },
+  {
+   "id": "39b1b0f40f57",
+   "baslik": "Ekolojiden Sofraya Tek Sağlık Hayvancılıkta Sürdürülebilirlik ve Güvenli Gıda",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Savaştepe",
+   "mekan": "Savaştepe MYO 206 Numaralı Derslik",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": "Savaştepe Meslek Yüksekokulu",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Ads%C4%B1z_Tasar%C4%B1m_%2830%29_1794641994.png"
   },
   {
    "id": "6da3925cbfb9",
@@ -102,7 +102,7 @@
    "kaynak_ad": "Balıkesir Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Son_Fak%C3%BClte_Ba%C4%9F%C4%B1ml%C4%B1l%C4%B1kta_Alg%C4%B1_ve_Tutum_Etkinli%C4%9Fi_1794389900.png"
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_ba%C4%9F%C4%B1ml%C4%B1l%C4%B1kta_alg%C4%B1_ve_tutum_1794583983.png"
   },
   {
    "id": "eada9e6a5ffe",
@@ -233,6 +233,22 @@
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_1794388822810_1794403156.png"
   },
   {
+   "id": "9a2c2fea63b2",
+   "baslik": "Kültürel ve Teknik Bursa Gezisi",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Burhaniye",
+   "mekan": "Burhaniye Uygulamalı Bilimler Fakültesi",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": "Burhaniye Uygulamali Bilimler Fakültesi",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_bursa_k%C3%BClt%C3%BCrel_ve_teknik_gezisi_1794588491.jpeg"
+  },
+  {
    "id": "28a708ab98da",
    "baslik": "Multidisipliner Behçet Sempozyumu",
    "tarih": "2026-12-18",
@@ -270,7 +286,7 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {

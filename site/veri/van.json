@@ -1,6 +1,6 @@
 {
  "il": "van",
- "guncelleme": "2026-11-13T13:55+03:00",
+ "guncelleme": "2026-11-14T13:12+03:00",
  "ilceler": [
   "İpekyolu",
   "Tuşba",
@@ -17,22 +17,6 @@
   "Saray"
  ],
  "etkinlikler": [
-  {
-   "id": "11f4d4f3b3d0",
-   "baslik": "Grönholm Metodu",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "İpekyolu",
-   "mekan": "Van Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gronholm-metodu",
-   "gorsel": "veri/gorsel/dt-gronholm-metodu.webp"
-  },
   {
    "id": "d1ee1494373e",
    "baslik": "Grönholm Metodu",
@@ -304,6 +288,102 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/toti-ile-poti",
    "gorsel": "veri/gorsel/dt-toti-ile-poti.jpg"
+  },
+  {
+   "id": "104b4f02e201",
+   "baslik": "Papağan Kaçtı",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/papagan-kacti",
+   "gorsel": "veri/gorsel/dt-papagan-kacti.webp"
+  },
+  {
+   "id": "6222b576ff9b",
+   "baslik": "Grönholm Metodu",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gronholm-metodu",
+   "gorsel": "veri/gorsel/dt-gronholm-metodu.webp"
+  },
+  {
+   "id": "aeed8daf6a3d",
+   "baslik": "Grönholm Metodu",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gronholm-metodu",
+   "gorsel": "veri/gorsel/dt-gronholm-metodu.webp"
+  },
+  {
+   "id": "23e62173613b",
+   "baslik": "Grönholm Metodu",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gronholm-metodu",
+   "gorsel": "veri/gorsel/dt-gronholm-metodu.webp"
+  },
+  {
+   "id": "9b8b97f0d2ca",
+   "baslik": "Grönholm Metodu",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gronholm-metodu",
+   "gorsel": "veri/gorsel/dt-gronholm-metodu.webp"
+  },
+  {
+   "id": "caa61ab38cd0",
+   "baslik": "Çorap Gonzo",
+   "tarih": "2026-12-06",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "İpekyolu",
+   "mekan": "Erhan Gökgücü DT Genç Sahne",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/corap-gonzo",
+   "gorsel": "veri/gorsel/dt-corap-gonzo.jpg"
   }
  ],
  "kaynaklar": [
@@ -311,7 +391,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 23,
    "durum": "çalışıyor"
   },
   {

@@ -1,5 +1,21 @@
 [
  {
+  "id": "d29cab941335",
+  "baslik": "SSCI/SCIE Yayın Stratejileri -14 Fikirden Yayına; Üst Seviyeli Dergilerin Kapısını Aralamak",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Merkez",
+  "mekan": "Sinop Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Bilimsel Etkinlikler",
+  "kaynak_ad": "Sinop Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sinop.edu.tr/etkinlik/ssci-scie-yayin-stratejileri-14-fikirden-yayinaust-seviyeli-dergilerin-kapisini-aralamak/",
+  "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/11/sciescieyayinstratejileri14.png"
+ },
+ {
   "id": "d304bab49c7c",
   "baslik": "SCI /SCIE Yayın Stratejileri Serisi -13 / PUBLICATION WORKSHOP",
   "tarih": "2026-11-11",
@@ -206,5 +222,21 @@
   "kaynak_tur": "universite",
   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/yapay-zeka-destekli-no-code-yazilim-gelistirme-ve-yayinlama-egitimi-giris-seviye/",
   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/10/Yapay-Zeka.jpg.jpeg"
+ },
+ {
+  "id": "33c5ce981591",
+  "baslik": "2026 YDS/2 Soru Çözme Kampı",
+  "tarih": "2026-09-28",
+  "bitis": "2026-11-13",
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Sinop Üniversitesi",
+  "kategori": "Kariyer",
+  "ucretsiz": true,
+  "ozet": "Susem",
+  "kaynak_ad": "Sinop Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sinop.edu.tr/etkinlik/2026-yds-2-soru-cozme-kampi/",
+  "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/09/YDS-SORU-COZME-KAMPI.webp"
  }
 ]

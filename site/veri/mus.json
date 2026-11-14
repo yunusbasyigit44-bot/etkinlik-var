@@ -1,6 +1,6 @@
 {
  "il": "mus",
- "guncelleme": "2026-11-13T13:51+03:00",
+ "guncelleme": "2026-11-14T13:08+03:00",
  "ilceler": [
   "Merkez",
   "Bulanık",
@@ -10,22 +10,6 @@
   "Varto"
  ],
  "etkinlikler": [
-  {
-   "id": "ab0d87e69c1f",
-   "baslik": "Farklılıklara Saygı ve Birlikte Yaşama Kültürü",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Muş Alparslan Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muş Alparslan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/farkliliklara-saygi-ve-birlikte-yasam-kulturu-9649",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1793879380.jpg"
-  },
   {
    "id": "8598bab8887e",
    "baslik": "COP31 Programı",
@@ -112,7 +96,7 @@
    "ad": "Muş Alparslan Üniversitesi",
    "tur": "universite",
    "url": "https://www.alparslan.edu.tr/tr/page/event",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "aksaray",
- "guncelleme": "2026-11-13T13:56+03:00",
+ "guncelleme": "2026-11-14T13:12+03:00",
  "ilceler": [
   "Merkez",
   "Ağaçören",
@@ -12,22 +12,6 @@
   "Sultanhanı"
  ],
  "etkinlikler": [
-  {
-   "id": "e8a4633f542b",
-   "baslik": "Öğrenci Koçluğu ve Eğitim Danışmanlığı Sertifika Programı",
-   "tarih": "2026-09-30",
-   "bitis": "2026-11-13",
-   "saat": "08:00",
-   "ilce": "Merkez",
-   "mekan": "ASÜ Sürekli Eğitim Merkezi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Aksaray Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.aksaray.edu.tr/ogrenci-koclugu-ve-egitim-danismanligi-sertifika-programi",
-   "gorsel": null
-  },
   {
    "id": "16a19246e1b1",
    "baslik": "CNC Torna Operatörlüğü Kursu",
@@ -74,6 +58,38 @@
    "kaynak_ad": "Aksaray Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.aksaray.edu.tr/xiii--genc-tarihciler-ogrenci-sempozyumu",
+   "gorsel": null
+  },
+  {
+   "id": "5383b93dd634",
+   "baslik": "Bağımlılıklarla Mücadelede Eğitimi",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "Mühendislik Fakültesi Konferans Salonu",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/bagimliliklarla-mucadelede-egitimi",
+   "gorsel": null
+  },
+  {
+   "id": "27cc68b1ffbd",
+   "baslik": "Diksiyon ve Etkili İletişim",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Merkez",
+   "mekan": "Mühendislik Fakültesi Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/diksiyon-ve-etkili-iletisim",
    "gorsel": null
   },
   {
@@ -146,7 +162,7 @@
    "ad": "Aksaray Üniversitesi",
    "tur": "universite",
    "url": "https://www.aksaray.edu.tr/Etkinlik-takvimi",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {

@@ -1,5 +1,37 @@
 [
  {
+  "id": "129a7d4dd9f9",
+  "baslik": "Kuşlar",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Muratpaşa",
+  "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kuslar",
+  "gorsel": null
+ },
+ {
+  "id": "4238a687c8be",
+  "baslik": "COPArt Projesi Kapsamında 'İyileştirici Sanatlar ve Esenlik Konseri'",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Konyaaltı",
+  "mekan": "Akdeniz Üniversitesi, Akdeniz Üniversitesi Devlet Konservatuvarı",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Akdeniz Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/copart_projesi_kapsaminda_iyilestirici_sanatlar_ve_esenlik_konseri-5769",
+  "gorsel": null
+ },
+ {
   "id": "b4740b6d88f1",
   "baslik": "Future-Ready Youth: Bridging Education, Digital Innovation and Green Careers",
   "tarih": "2026-11-12",

@@ -1,5 +1,37 @@
 [
  {
+  "id": "d8eb6d500e57",
+  "baslik": "Caz Davul Kaydı ve Mikrofonlama Teknikleri",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": "13:30",
+  "ilce": "Merkez",
+  "mekan": "Müzik Kültürü Uygulama ve Araştırma Merkezi Ses Kayıt Stüdyosu",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mehmetakif.edu.tr/content/13600/1/caz-davul-kaydi-ve-mikrofonlama-teknikleri",
+  "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13600/4_13600_2026-11-10-06-42-59-30448_thumb.webp"
+ },
+ {
+  "id": "b25cb9c9ca10",
+  "baslik": "Çevre Bilinci ve Sosyal Sorumluluk",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": "16:00",
+  "ilce": "Merkez",
+  "mekan": "Prof. Dr. İlhan Varank Kütüphanesi Bahçesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mehmetakif.edu.tr/content/13587/1/cevre-bilinci-ve-sosyal-sorumluluk",
+  "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13587/4_13587_2026-11-11-06-30-57-453110_thumb.webp"
+ },
+ {
   "id": "7bec70fa3960",
   "baslik": "Çocuklarla Şarkı Söyleme ve Temel Vokal Eğitim Teknikleri",
   "tarih": "2026-11-12",

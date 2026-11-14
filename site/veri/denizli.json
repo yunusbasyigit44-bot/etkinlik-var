@@ -1,6 +1,6 @@
 {
  "il": "denizli",
- "guncelleme": "2026-11-13T13:35+03:00",
+ "guncelleme": "2026-11-14T12:53+03:00",
  "ilceler": [
   "Pamukkale",
   "Merkezefendi",
@@ -164,7 +164,7 @@
    "tur": "universite",
    "url": "https://www.pau.edu.tr/pau/tr/etkinlikler",
    "etkinlik_sayisi": 0,
-   "durum": "hata: HTTP Error 403: Forbidden"
+   "durum": "hata: HTTP Error 503: Service Unavailable"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

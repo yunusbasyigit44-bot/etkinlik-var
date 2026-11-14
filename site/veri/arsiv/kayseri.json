@@ -1,5 +1,21 @@
 [
  {
+  "id": "1db6c27d8ca4",
+  "baslik": "Leenane'in Güzellik Kraliçesi",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Melikgazi",
+  "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
+  "gorsel": null
+ },
+ {
   "id": "899f7c85f1d0",
   "baslik": "Leenane'in Güzellik Kraliçesi",
   "tarih": "2026-11-12",

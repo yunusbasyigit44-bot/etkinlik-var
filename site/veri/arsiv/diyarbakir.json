@@ -1,5 +1,37 @@
 [
  {
+  "id": "76176b5ae24c",
+  "baslik": "Medea",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": "19:30",
+  "ilce": "Yenişehir",
+  "mekan": "Çandamed/Sezai̇ Karakoç Kültür Ve Kongre Merkezi̇",
+  "kategori": "Tiyatro",
+  "ucretsiz": null,
+  "ozet": null,
+  "kaynak_ad": "Diyarbakır Büyükşehir Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.diyarbakir.bel.tr/etkinlikler/medea",
+  "gorsel": "https://www.diyarbakir.bel.tr/uploads/medium_IMG_1030_de9cd83363.jpeg"
+ },
+ {
+  "id": "a28b10c62458",
+  "baslik": "Nalınlar",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Yenişehir",
+  "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nalinlar",
+  "gorsel": null
+ },
+ {
   "id": "225758ea7bc0",
   "baslik": "Nalınlar",
   "tarih": "2026-11-12",

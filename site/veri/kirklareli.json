@@ -1,6 +1,6 @@
 {
  "il": "kirklareli",
- "guncelleme": "2026-11-13T13:46+03:00",
+ "guncelleme": "2026-11-14T13:03+03:00",
  "ilceler": [
   "Merkez",
   "Babaeski",
@@ -84,7 +84,7 @@
    "tur": "kultur",
    "url": "https://kirklareli.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

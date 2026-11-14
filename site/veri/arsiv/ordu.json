@@ -1,5 +1,21 @@
 [
  {
+  "id": "50797f3e74ef",
+  "baslik": "Azerbaycan Halk Ezgileri Konseri",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Altınordu",
+  "mekan": "Tıp Fakültesi Morfoloji Binası Konferans Salonu",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Ordu Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://odu.edu.tr/Etkinlikler/405/azerbaycan-halk-ezgileri-konseri",
+  "gorsel": null
+ },
+ {
   "id": "f06704431e1f",
   "baslik": "Anadolu Üniversiteleri Belgesel Atölyeleri",
   "tarih": "2026-11-11",

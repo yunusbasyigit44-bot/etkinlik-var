@@ -1,6 +1,6 @@
 {
  "il": "tokat",
- "guncelleme": "2026-11-13T13:54+03:00",
+ "guncelleme": "2026-11-14T13:11+03:00",
  "ilceler": [
   "Merkez",
   "Almus",
@@ -16,22 +16,6 @@
   "Zile"
  ],
  "etkinlikler": [
-  {
-   "id": "6c165b4e08a9",
-   "baslik": "Halk Oyunları Kursları Başlıyor",
-   "tarih": "2026-11-13",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Tokat Belediyesi",
-   "kategori": "Dans",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tokat Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.tokat.bel.tr/etkinlikler/halk-oyunlari-kurslari-basliyor",
-   "gorsel": "https://assets.tokat.bel.tr/tokatbld/events/1793706640009-a3497126caea39f2.webp"
-  },
   {
    "id": "778899b71432",
    "baslik": "Oryantiring Heyecanı Tokat’ta!",
@@ -70,7 +54,7 @@
    "ad": "Tokat Belediyesi",
    "tur": "belediye",
    "url": "https://www.tokat.bel.tr/",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

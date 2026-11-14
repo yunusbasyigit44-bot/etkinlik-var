@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-13T13:56+03:00",
+ "guncelleme": "2026-11-14T13:13+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -13,6 +13,22 @@
   "Yahşihan"
  ],
  "etkinlikler": [
+  {
+   "id": "4608787dc356",
+   "baslik": "Hareketin Yaşı Yok: Yaş Almış Bireylerde Fiziksel Aktivite ve Yaşam Kalitesi (Bilim Kafe Etkinlikleri)",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10087",
+   "gorsel": null
+  },
   {
    "id": "0ba3a7069192",
    "baslik": "Hukuk Zirvesi",
@@ -67,7 +83,7 @@
    "ad": "Kırıkkale Üniversitesi",
    "tur": "universite",
    "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

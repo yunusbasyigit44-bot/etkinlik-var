@@ -1,5 +1,37 @@
 [
  {
+  "id": "20dade8e88d9",
+  "baslik": "“Türkiye Yüzyılı’nda Ulaştırma Vizyonu” Konferansı",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Atakum",
+  "mekan": "Ondokuz Mayıs Üniversitesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Konferans",
+  "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/konferans/turkiye-yuzyilinda-ulastirma-vizyonu-konferansi",
+  "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/bakan_samsun.jpg"
+ },
+ {
+  "id": "09e286759580",
+  "baslik": "Camın Yeni Hikayesi: Sanatla Yeniden Hayat",
+  "tarih": "2026-11-13",
+  "bitis": null,
+  "saat": "14:30",
+  "ilce": "Atakum",
+  "mekan": "Ondokuz Mayıs Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Diğer Etkinlik Türü",
+  "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/diger-etkinlik-turu/camin-yeni-hikayesi-sanatla-yeniden-hayat",
+  "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/camin-yeni-hikayesi-sanatla-yeniden-hayat-afis2026-rev.jpg"
+ },
+ {
   "id": "8354eb5658f5",
   "baslik": "UFEST, Ondokuz Mayıs Üniversitesinde!",
   "tarih": "2026-11-12",
