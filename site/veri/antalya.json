@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-14T12:50+03:00",
+ "guncelleme": "2026-11-15T13:23+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -133,70 +133,6 @@
    "kaynak_ad": "Antalya Bilim Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/iklim-hukuku-ve-yonetisim-gunu",
-   "gorsel": null
-  },
-  {
-   "id": "b5744ca2fd98",
-   "baslik": "Kuşlar",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kuslar",
-   "gorsel": "veri/gorsel/dt-kuslar.jpg"
-  },
-  {
-   "id": "1f231815beaf",
-   "baslik": "Attila",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/attila-antalya-dob",
-   "gorsel": "veri/gorsel/dob-5-3298.webp"
-  },
-  {
-   "id": "23fa3d3fd29f",
-   "baslik": "Kuşlar",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kuslar",
-   "gorsel": "veri/gorsel/dt-kuslar.jpg"
-  },
-  {
-   "id": "b3a2a2691ae2",
-   "baslik": "Panel ve Film Gösterimi “Kömür Tozundan Işığa: Yukarı Silezya – Enerji Dönüşümü ve Ötesi için Bir Avrupa Laboratuvarı”",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, COP31 Yeşil Bölge, Kongre Merkezi D3, Antalya",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/panel_ve_film_gosterimi_%E2%80%9Ckomur_tozundan_isiga%3A_yukari_silezya_%E2%80%93_enerji_donusumu_ve_otesi_icin_bir_avrupa_laboratuvari%E2%80%9D-5775",
    "gorsel": null
   },
   {
@@ -680,6 +616,22 @@
    "gorsel": null
   },
   {
+   "id": "5f65122b950e",
+   "baslik": "Fındıkkıran",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/findikkiran-antdob",
+   "gorsel": "veri/gorsel/dob-5-280.jpg"
+  },
+  {
    "id": "0718ce88c16e",
    "baslik": "Therese Raquin (Bir Cinayetin Anatomisi)",
    "tarih": "2026-11-28",
@@ -909,7 +861,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 32,
+   "etkinlik_sayisi": 30,
    "durum": "çalışıyor"
   },
   {
@@ -930,7 +882,7 @@
    "ad": "Akdeniz Üniversitesi",
    "tur": "universite",
    "url": "https://www.akdeniz.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

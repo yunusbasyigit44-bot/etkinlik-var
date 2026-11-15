@@ -1,5 +1,37 @@
 [
  {
+  "id": "2b7384c02aa6",
+  "baslik": "Savaş ve Barış",
+  "tarih": "2026-11-14",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Yakutiye",
+  "mekan": "Erzurum DT Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/savas-ve-baris",
+  "gorsel": null
+ },
+ {
+  "id": "d4361a85577a",
+  "baslik": "Savaş ve Barış",
+  "tarih": "2026-11-14",
+  "bitis": null,
+  "saat": "19:30",
+  "ilce": "Yakutiye",
+  "mekan": "Erzurum DT Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/savas-ve-baris",
+  "gorsel": null
+ },
+ {
   "id": "53170c8f065d",
   "baslik": "Doktora Tez Ödülü ve Mezuniyet Töreni",
   "tarih": "2026-11-13",

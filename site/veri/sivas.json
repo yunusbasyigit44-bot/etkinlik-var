@@ -1,6 +1,6 @@
 {
  "il": "sivas",
- "guncelleme": "2026-11-14T13:10+03:00",
+ "guncelleme": "2026-11-15T13:42+03:00",
  "ilceler": [
   "Merkez",
   "Akıncılar",
@@ -21,38 +21,6 @@
   "Zara"
  ],
  "etkinlikler": [
-  {
-   "id": "35609df0d36e",
-   "baslik": "Sivas'ta 108 Gün",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Atatürk Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sivasta-108-gun",
-   "gorsel": "veri/gorsel/dt-sivasta-108-gun.webp"
-  },
-  {
-   "id": "99fd08f399af",
-   "baslik": "Sivas'ta 108 Gün",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Merkez",
-   "mekan": "Atatürk Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sivasta-108-gun",
-   "gorsel": "veri/gorsel/dt-sivasta-108-gun.webp"
-  },
   {
    "id": "ea70245b2216",
    "baslik": "15. Uluslararası Dünyada Geleneksel Sporlar ve Oyunlar Konferansı (Çevrim İçi)",
@@ -539,7 +507,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 20,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {

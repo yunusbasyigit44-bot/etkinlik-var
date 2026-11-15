@@ -1,6 +1,6 @@
 {
  "il": "mersin",
- "guncelleme": "2026-11-14T12:59+03:00",
+ "guncelleme": "2026-11-15T13:31+03:00",
  "ilceler": [
   "Akdeniz",
   "Anamur",
@@ -17,22 +17,6 @@
   "Yenişehir"
  ],
  "etkinlikler": [
-  {
-   "id": "1133f30641c5",
-   "baslik": "Romeo ve Julıet",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Yenişehir",
-   "mekan": "Mersin Opera Büyük Sahne",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/romeo-juliet-mersin-dob",
-   "gorsel": "veri/gorsel/dob-4-3186.webp"
-  },
   {
    "id": "fecb61aad33b",
    "baslik": "Romeo ve Julıet",
@@ -192,6 +176,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/kiss-me-kate-mersin-dob",
    "gorsel": "veri/gorsel/dob-4-139.webp"
+  },
+  {
+   "id": "72618153e277",
+   "baslik": "Çöplük Kralı ve İcatçı",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Yenişehir",
+   "mekan": "Mersin Opera Büyük Sahne",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/copluk-krali-ve-icatci-mersin-dob",
+   "gorsel": "veri/gorsel/dob-4-3269.webp"
   }
  ],
  "kaynaklar": [

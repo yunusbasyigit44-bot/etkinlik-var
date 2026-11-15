@@ -1,6 +1,6 @@
 {
  "il": "bursa",
- "guncelleme": "2026-11-14T12:52+03:00",
+ "guncelleme": "2026-11-15T13:25+03:00",
  "ilceler": [
   "Büyükorhan",
   "Gemlik",
@@ -164,54 +164,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bursa.bel.tr/etkinlik/kasim-ayi-etkinlik-takvimi-2",
    "gorsel": null
-  },
-  {
-   "id": "26a87d2c6efb",
-   "baslik": "Dorıan Gray'in Portresi",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dorian-grayin-portresi",
-   "gorsel": "veri/gorsel/dt-dorian-grayin-portresi.webp"
-  },
-  {
-   "id": "2b67662c57bf",
-   "baslik": "Bir Yaşdönümü Rüyası",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Osmangazi",
-   "mekan": "Feraizcizade Oda Tiyatrosu",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bir-yasdonumu-ruyasi",
-   "gorsel": "veri/gorsel/dt-bir-yasdonumu-ruyasi.jpg"
-  },
-  {
-   "id": "240adef45627",
-   "baslik": "Dorıan Gray'in Portresi",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dorian-grayin-portresi",
-   "gorsel": "veri/gorsel/dt-dorian-grayin-portresi.webp"
   },
   {
    "id": "49cb95dee89c",
@@ -763,7 +715,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 26,
+   "etkinlik_sayisi": 23,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-14T13:11+03:00",
+ "guncelleme": "2026-11-15T13:43+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -37,38 +37,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/3653",
    "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/11/f7ce0e3d-bde4-4b7b-a69d-4d9ac79c11f4.jpeg"
-  },
-  {
-   "id": "d62e95054736",
-   "baslik": "Julıus Caesar",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/julius-caesar",
-   "gorsel": "veri/gorsel/dt-julius-caesar.webp"
-  },
-  {
-   "id": "0046bf07f547",
-   "baslik": "Julıus Caesar",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/julius-caesar",
-   "gorsel": "veri/gorsel/dt-julius-caesar.webp"
   },
   {
    "id": "1212ee7558a5",
@@ -748,7 +716,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 22,
+   "etkinlik_sayisi": 20,
    "durum": "çalışıyor"
   },
   {

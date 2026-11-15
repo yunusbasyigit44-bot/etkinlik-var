@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-14T12:46+03:00",
+ "guncelleme": "2026-11-15T13:20+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -19,54 +19,6 @@
   "Yüreğir"
  ],
  "etkinlikler": [
-  {
-   "id": "c3967bac1b6e",
-   "baslik": "AIAS (Kahramanların Çöküşü)",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/aias-kahramanlarin-cokusu",
-   "gorsel": "veri/gorsel/dt-aias-kahramanlarin-cokusu.webp"
-  },
-  {
-   "id": "6cc2e0804c1e",
-   "baslik": "AIAS (Kahramanların Çöküşü)",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/aias-kahramanlarin-cokusu",
-   "gorsel": "veri/gorsel/dt-aias-kahramanlarin-cokusu.webp"
-  },
-  {
-   "id": "616f651efafa",
-   "baslik": "Terör",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": "Antalya Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/festival/1788433034_5bb64e47e42d5afb008e.jpeg"
-  },
   {
    "id": "ca57c112f5b7",
    "baslik": "Umudunu Yitirmeyen Sığırcık",
@@ -628,22 +580,6 @@
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
   },
   {
-   "id": "40718bb40f1d",
-   "baslik": "Geçmem Gerek",
-   "tarih": "2026-12-26",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/gecmem_gerek.jpg"
-  },
-  {
    "id": "7b8661f3edda",
    "baslik": "Karanlıkta Komedi",
    "tarih": "2026-12-26",
@@ -658,6 +594,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
+  },
+  {
+   "id": "40718bb40f1d",
+   "baslik": "Geçmem Gerek",
+   "tarih": "2026-12-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Seyhan",
+   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
+   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/gecmem_gerek.jpg"
   },
   {
    "id": "d76879f68fb7",
@@ -697,14 +649,14 @@
    "ad": "Adana Büyükşehir Şehir Tiyatrosu",
    "tur": "belediye",
    "url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Tiyatroları Adana",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {

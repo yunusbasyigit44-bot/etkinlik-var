@@ -1,5 +1,37 @@
 [
  {
+  "id": "d1ee1494373e",
+  "baslik": "Grönholm Metodu",
+  "tarih": "2026-11-14",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "İpekyolu",
+  "mekan": "Van Kültür Merkezi Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gronholm-metodu",
+  "gorsel": null
+ },
+ {
+  "id": "a1cf8e548059",
+  "baslik": "Grönholm Metodu",
+  "tarih": "2026-11-14",
+  "bitis": null,
+  "saat": "19:30",
+  "ilce": "İpekyolu",
+  "mekan": "Van Kültür Merkezi Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gronholm-metodu",
+  "gorsel": null
+ },
+ {
   "id": "11f4d4f3b3d0",
   "baslik": "Grönholm Metodu",
   "tarih": "2026-11-13",

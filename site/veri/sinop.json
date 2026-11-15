@@ -1,6 +1,6 @@
 {
  "il": "sinop",
- "guncelleme": "2026-11-14T13:10+03:00",
+ "guncelleme": "2026-11-15T13:41+03:00",
  "ilceler": [
   "Merkez",
   "Ayancık",
@@ -13,22 +13,6 @@
   "Türkeli"
  ],
  "etkinlikler": [
-  {
-   "id": "288a327177c8",
-   "baslik": "III Uluslararası Karadeniz Eğitim Araştırmaları Kongresi",
-   "tarih": "2026-11-12",
-   "bitis": "2026-11-14",
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sinop Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": "Sempozyum",
-   "kaynak_ad": "Sinop Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/iii-uluslararasi-karadeniz-egitim-arastirmalari-kongresi/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/10/III.UluslararasiKEAK.webp"
-  },
   {
    "id": "7beeea5e00c3",
    "baslik": "COP31 Yeşil Bölge Katılım Programı",
@@ -131,7 +115,7 @@
    "ad": "Sinop Üniversitesi",
    "tur": "universite",
    "url": "https://www.sinop.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {

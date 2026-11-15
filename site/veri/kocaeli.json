@@ -1,6 +1,6 @@
 {
  "il": "kocaeli",
- "guncelleme": "2026-11-14T13:04+03:00",
+ "guncelleme": "2026-11-15T13:36+03:00",
  "ilceler": [
   "Başiskele",
   "Çayırova",
@@ -16,70 +16,6 @@
   "Körfez"
  ],
  "etkinlikler": [
-  {
-   "id": "4836452cabc1",
-   "baslik": "Süper Yetenek 2",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Gebze",
-   "mekan": "Arapçeşme Bilim Sanat Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Çocuk Sineması",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/super-yetenek-2_1056.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030110653.jpg"
-  },
-  {
-   "id": "f31bda83e866",
-   "baslik": "Of-Pof Balık",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Gebze",
-   "mekan": "İstasyon Bilim Sanat Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Çocuk Sineması",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/of-pof-balik_1060.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030111038.jpg"
-  },
-  {
-   "id": "0c9ef56c08f0",
-   "baslik": "Meraklı Kedinin 10 Yaşamı",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Gebze",
-   "mekan": "Gebze Kültür Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Çocuk Sineması",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/merakli-kedinin-10-yasami_1041.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030104240.jpg"
-  },
-  {
-   "id": "78d044af57e2",
-   "baslik": "Kare Takımı Gizemli Ada",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Gebze",
-   "mekan": "Beylikbağı Bilim Sanat Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Çocuk Sineması",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/kare-takimi-gizemli-ada_1058.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030110850.jpg"
-  },
   {
    "id": "15b00398aa0d",
    "baslik": "Ağustos Böceği ve Karınca",
@@ -358,7 +294,7 @@
    "ad": "Gebze Belediyesi",
    "tur": "belediye",
    "url": "https://www.gebze.bel.tr/json/etkinlik.json",
-   "etkinlik_sayisi": 21,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {

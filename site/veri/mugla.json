@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-14T13:07+03:00",
+ "guncelleme": "2026-11-15T13:39+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -18,22 +18,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "e008aa029058",
-   "baslik": "Bodrum Belediyesi Kitap Kulübü Buluşması-Onca Yoksulluk Varken – Emile Ajar",
-   "tarih": "2026-10-13",
-   "bitis": "2026-11-14",
-   "saat": "14:00",
-   "ilce": "Bodrum",
-   "mekan": "B.B Şevket Sabancı Kültür ve Sanat Merkezi",
-   "kategori": "Edebiyat",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2801/Kitap_Klubu-Bodrum_Belediyesi_Kitap_Kulubu_Bulusmasi-Onca_Yoksulluk_Varken_%E2%80%93_Emile_Ajar",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2801_1791873275.4793.jpeg"
-  },
-  {
    "id": "6dbaf62dc677",
    "baslik": "İbrahim Coşkun Ben Anadolu Resim Sergisi",
    "tarih": "2026-10-15",
@@ -48,38 +32,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2799/Sergi-Ibrahim_Coskun_Ben_Anadolu_Resim_Sergisi",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
-  },
-  {
-   "id": "f24d655dd26c",
-   "baslik": "TVF Arabica Coffee Kadınlar Voleybol 1. Ligi B.B.Bodrumspor – Vakıfbank",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Bodrum",
-   "mekan": "B.B Binnaz Karakaya Spor Salonu",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2751/Mac-TVF_Arabica_Coffee_Kadinlar_Voleybol_1_Ligi_BBBodrumspor_%E2%80%93_Vakifbank",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
-  },
-  {
-   "id": "d0c0f4fe6418",
-   "baslik": "Sanatçı Numan Pekdemir 50. Sanat Yılı Konseri",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bodrum",
-   "mekan": "B.B Herodot Kültür Merkezi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2833/Konser-Sanatci_Numan_Pekdemir_50_Sanat_Yili_Konseri",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2833_1794408552.4211.jpg"
   },
   {
    "id": "f2ca9170b738",
@@ -574,7 +526,7 @@
    "ad": "Bodrum Belediyesi",
    "tur": "belediye",
    "url": "https://www.bodrum.bel.tr/etkinlik_takvimi",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

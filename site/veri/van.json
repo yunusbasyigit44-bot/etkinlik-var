@@ -1,6 +1,6 @@
 {
  "il": "van",
- "guncelleme": "2026-11-14T13:12+03:00",
+ "guncelleme": "2026-11-15T13:43+03:00",
  "ilceler": [
   "İpekyolu",
   "Tuşba",
@@ -17,38 +17,6 @@
   "Saray"
  ],
  "etkinlikler": [
-  {
-   "id": "d1ee1494373e",
-   "baslik": "Grönholm Metodu",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "İpekyolu",
-   "mekan": "Van Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gronholm-metodu",
-   "gorsel": "veri/gorsel/dt-gronholm-metodu.webp"
-  },
-  {
-   "id": "a1cf8e548059",
-   "baslik": "Grönholm Metodu",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "İpekyolu",
-   "mekan": "Van Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gronholm-metodu",
-   "gorsel": "veri/gorsel/dt-gronholm-metodu.webp"
-  },
   {
    "id": "5c05652de79c",
    "baslik": "Toti ile Poti",
@@ -391,7 +359,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 23,
+   "etkinlik_sayisi": 21,
    "durum": "çalışıyor"
   },
   {

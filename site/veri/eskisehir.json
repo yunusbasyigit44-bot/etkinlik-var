@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-14T12:58+03:00",
+ "guncelleme": "2026-11-15T13:30+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -49,38 +49,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/milli-mucadeleden-cumhuriyet-1792756243",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb497d74a82.jpg"
-  },
-  {
-   "id": "4eceaa4009a4",
-   "baslik": "Aşk Listesi",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Sanat Sokağı Genco Erkal Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
-  },
-  {
-   "id": "fbc84f30c300",
-   "baslik": "Cadı Kazanı",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Tepebaşı",
-   "mekan": "B.B.Sanat ve Kültür Merkezi Tiyatro Sahnesi ( Opera )",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
   },
   {
    "id": "1ab41eb2943d",
@@ -1135,7 +1103,7 @@
    "ad": "Eskişehir Şehir Tiyatroları",
    "tur": "belediye",
    "url": "https://tiyatro.eskisehir.bel.tr/oyuntakvimi.php",
-   "etkinlik_sayisi": 23,
+   "etkinlik_sayisi": 21,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

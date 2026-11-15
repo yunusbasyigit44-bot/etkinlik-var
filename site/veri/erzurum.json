@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-14T12:55+03:00",
+ "guncelleme": "2026-11-15T13:27+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -24,38 +24,6 @@
   "Uzundere"
  ],
  "etkinlikler": [
-  {
-   "id": "2b7384c02aa6",
-   "baslik": "Savaş ve Barış",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/savas-ve-baris",
-   "gorsel": "veri/gorsel/dt-savas-ve-baris.webp"
-  },
-  {
-   "id": "d4361a85577a",
-   "baslik": "Savaş ve Barış",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/savas-ve-baris",
-   "gorsel": "veri/gorsel/dt-savas-ve-baris.webp"
-  },
   {
    "id": "39ea7c49738d",
    "baslik": "Delikburunlular Kabilesi",
@@ -526,7 +494,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {

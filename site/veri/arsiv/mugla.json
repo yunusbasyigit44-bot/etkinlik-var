@@ -1,5 +1,37 @@
 [
  {
+  "id": "f24d655dd26c",
+  "baslik": "TVF Arabica Coffee Kadınlar Voleybol 1. Ligi B.B.Bodrumspor – Vakıfbank",
+  "tarih": "2026-11-14",
+  "bitis": null,
+  "saat": "16:00",
+  "ilce": "Bodrum",
+  "mekan": "B.B Binnaz Karakaya Spor Salonu",
+  "kategori": "Spor",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bodrum Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2751/Mac-TVF_Arabica_Coffee_Kadinlar_Voleybol_1_Ligi_BBBodrumspor_%E2%80%93_Vakifbank",
+  "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+ },
+ {
+  "id": "d0c0f4fe6418",
+  "baslik": "Sanatçı Numan Pekdemir 50. Sanat Yılı Konseri",
+  "tarih": "2026-11-14",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Bodrum",
+  "mekan": "B.B Herodot Kültür Merkezi",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bodrum Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2833/Konser-Sanatci_Numan_Pekdemir_50_Sanat_Yili_Konseri",
+  "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2833_1794408552.4211.jpg"
+ },
+ {
   "id": "b990c213fb83",
   "baslik": "Kadınlar EHP Euro Cup Hentbol İlk Maç HC Byala - Yalıkavakspor",
   "tarih": "2026-11-13",
@@ -430,5 +462,21 @@
   "kaynak_tur": "universite",
   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/konaklama-isletmelerinde-turk-kultur-gecelerinin-onemi-ve-rolu-4665",
   "gorsel": null
+ },
+ {
+  "id": "e008aa029058",
+  "baslik": "Bodrum Belediyesi Kitap Kulübü Buluşması-Onca Yoksulluk Varken – Emile Ajar",
+  "tarih": "2026-10-13",
+  "bitis": "2026-11-14",
+  "saat": "14:00",
+  "ilce": "Bodrum",
+  "mekan": "B.B Şevket Sabancı Kültür ve Sanat Merkezi",
+  "kategori": "Edebiyat",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bodrum Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2801/Kitap_Klubu-Bodrum_Belediyesi_Kitap_Kulubu_Bulusmasi-Onca_Yoksulluk_Varken_%E2%80%93_Emile_Ajar",
+  "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2801_1791873275.4793.jpeg"
  }
 ]

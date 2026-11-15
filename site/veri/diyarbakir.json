@@ -1,6 +1,6 @@
 {
  "il": "diyarbakir",
- "guncelleme": "2026-11-14T12:53+03:00",
+ "guncelleme": "2026-11-15T13:26+03:00",
  "ilceler": [
   "Bağlar",
   "Bismil",
@@ -36,54 +36,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/ucretsiz-kort-tenisi-kursu-12977",
    "gorsel": "https://www.dicle.edu.tr/contents/events/photos/61730663-be34-4427-a527-63d900c094a2/ss_thumb_a31d6ad776c440ceb86a935cdae4519a_WhatsApp%20Image%202026-10-26%20at%2011.43.28.jpeg"
-  },
-  {
-   "id": "2a87e5d7dfe2",
-   "baslik": "Nalınlar",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Yenişehir",
-   "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nalinlar",
-   "gorsel": "veri/gorsel/dt-nalinlar.webp"
-  },
-  {
-   "id": "c6ab6c907953",
-   "baslik": "Zembîlfıroş",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Yenişehir",
-   "mekan": "Çandamed/Sezai̇ Karakoç Kültür Ve Kongre Merkezi̇",
-   "kategori": "Tiyatro",
-   "ucretsiz": null,
-   "ozet": null,
-   "kaynak_ad": "Diyarbakır Büyükşehir Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.diyarbakir.bel.tr/etkinlikler/zembilfiros",
-   "gorsel": "https://www.diyarbakir.bel.tr/uploads/medium_aef12aa6_65d8_4622_a53a_44b3e4918fea_a79ad8a121.jpeg"
-  },
-  {
-   "id": "749ac7d4e508",
-   "baslik": "Nalınlar",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yenişehir",
-   "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/nalinlar",
-   "gorsel": "veri/gorsel/dt-nalinlar.webp"
   },
   {
    "id": "d4488efd6b6a",
@@ -459,7 +411,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {
@@ -473,7 +425,7 @@
    "ad": "Diyarbakır Büyükşehir Belediyesi",
    "tur": "belediye",
    "url": "https://www.diyarbakir.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

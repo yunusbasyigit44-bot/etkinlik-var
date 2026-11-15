@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-14T13:04+03:00",
+ "guncelleme": "2026-11-15T13:36+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,86 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "24fd89738799",
-   "baslik": "Ölümüne Cinayet",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/olumune-cinayet",
-   "gorsel": "veri/gorsel/dt-olumune-cinayet.jpg"
-  },
-  {
-   "id": "b7ae44adaf56",
-   "baslik": "Ölümüne Cinayet",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/olumune-cinayet",
-   "gorsel": "veri/gorsel/dt-olumune-cinayet.jpg"
-  },
-  {
-   "id": "08878669b078",
-   "baslik": "Kültür Sanat Söyleşileri",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/kultur-sanat-soylesileri/1334",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/s2nxpC4lPzVjRDVwyEPjuoKy8F5IJTAl.jpeg"
-  },
-  {
-   "id": "20c262173f4d",
-   "baslik": "Yoldan Çıkan Oyun",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/yoldan-cikan-oyun/502",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/F9BYx8pQToOxTklsNf2L3tRjoZr38Zwd.jpeg"
-  },
-  {
-   "id": "ea5161b8a0ec",
-   "baslik": "Konya Okulu - Ahmet Özkan",
-   "tarih": "2026-11-14",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-ahmet-ozkan/1214",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/rDq9Q0TPY6VfiNgCpIQW7D8nJ2a-fvLC.jpeg"
-  },
   {
    "id": "cef3424ed086",
    "baslik": "Konya Okulu - Prof. Dr. Ali Akpınar",
@@ -273,6 +193,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
    "gorsel": "veri/gorsel/dt-yastik-adam.webp"
+  },
+  {
+   "id": "3faf85378ff9",
+   "baslik": "Konya Okulu - Ahmet Özkan",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-ahmet-ozkan/1214",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/rDq9Q0TPY6VfiNgCpIQW7D8nJ2a-fvLC.jpeg"
   },
   {
    "id": "a4e7c94bf44a",
@@ -680,14 +616,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 20,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
-   "etkinlik_sayisi": 13,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {
