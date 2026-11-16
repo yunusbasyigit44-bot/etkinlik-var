@@ -1,6 +1,6 @@
 {
  "il": "aksaray",
- "guncelleme": "2026-11-15T13:44+03:00",
+ "guncelleme": "2026-11-16T14:01+03:00",
  "ilceler": [
   "Merkez",
   "Ağaçören",
@@ -26,22 +26,6 @@
    "kaynak_ad": "Aksaray Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.aksaray.edu.tr/cnc-torna-operatorlugu-kursu",
-   "gorsel": null
-  },
-  {
-   "id": "f8d6eef83a39",
-   "baslik": "ASÜ Sahnede Müzik Yetenek Yarışması",
-   "tarih": "2026-11-15",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Merkez",
-   "mekan": "Aksaray Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Aksaray Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.aksaray.edu.tr/asu-sahnede-muzik-yetenek-yarismasi-2",
    "gorsel": null
   },
   {
@@ -162,7 +146,7 @@
    "ad": "Aksaray Üniversitesi",
    "tur": "universite",
    "url": "https://www.aksaray.edu.tr/Etkinlik-takvimi",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {

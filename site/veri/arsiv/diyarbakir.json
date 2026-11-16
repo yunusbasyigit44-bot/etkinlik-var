@@ -1,5 +1,21 @@
 [
  {
+  "id": "d4488efd6b6a",
+  "baslik": "Alacalı Şemsiye",
+  "tarih": "2026-11-15",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Kayapınar",
+  "mekan": "Kayapınar Kültür Merkezi Fuaye",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/alacali-semsiye",
+  "gorsel": null
+ },
+ {
   "id": "2a87e5d7dfe2",
   "baslik": "Nalınlar",
   "tarih": "2026-11-14",

@@ -1,5 +1,21 @@
 [
  {
+  "id": "49cb95dee89c",
+  "baslik": "Bencil Dev",
+  "tarih": "2026-11-15",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Osmangazi",
+  "mekan": "Ahmet Vefik Paşa Sahnesi",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bencil-dev",
+  "gorsel": null
+ },
+ {
   "id": "26a87d2c6efb",
   "baslik": "Dorıan Gray'in Portresi",
   "tarih": "2026-11-14",
@@ -797,6 +813,22 @@
   "kaynak_ad": "Devlet Tiyatroları",
   "kaynak_tur": "kultur",
   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kahvalti-dahil",
+  "gorsel": null
+ },
+ {
+  "id": "02e19f88d3ee",
+  "baslik": "YEKPARE Hendesî Desen ve Ebru Sergisi",
+  "tarih": "2026-10-27",
+  "bitis": "2026-11-15",
+  "saat": null,
+  "ilce": "Osmangazi",
+  "mekan": "Muradiye El Yazmaları Müzesi",
+  "kategori": "Sergi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.bursa.bel.tr/etkinlik/yekpare-hendesi-desen-ve-ebru-sergisi",
   "gorsel": null
  },
  {

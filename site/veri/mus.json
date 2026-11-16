@@ -1,6 +1,6 @@
 {
  "il": "mus",
- "guncelleme": "2026-11-15T13:40+03:00",
+ "guncelleme": "2026-11-16T13:57+03:00",
  "ilceler": [
   "Merkez",
   "Bulanık",
@@ -11,9 +11,9 @@
  ],
  "etkinlikler": [
   {
-   "id": "8fde3ffc1434",
-   "baslik": "İslam Tarihinde Selçuklular",
-   "tarih": "2026-11-15",
+   "id": "439ba7d453ea",
+   "baslik": "Türkiye-Çin Ticari İlişkilerinin Yapısı",
+   "tarih": "2026-11-16",
    "bitis": null,
    "saat": null,
    "ilce": "Merkez",
@@ -23,8 +23,8 @@
    "ozet": null,
    "kaynak_ad": "Muş Alparslan Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/islam-tarihinde-selcuklular-9674",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1794394365.jpg"
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/turkiye-cin-ticari-iliskilerinin-yapisi-9697",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1794823573.jpg"
   },
   {
    "id": "be0fe8549798",

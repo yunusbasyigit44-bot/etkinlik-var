@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-15T13:39+03:00",
+ "guncelleme": "2026-11-16T13:56+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -32,38 +32,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2799/Sergi-Ibrahim_Coskun_Ben_Anadolu_Resim_Sergisi",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
-  },
-  {
-   "id": "f2ca9170b738",
-   "baslik": "Kadınlar EHP Euro Cup Hentbol İlk Maç Yalıkavakspor - HC Byala",
-   "tarih": "2026-11-15",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Bodrum",
-   "mekan": "B.B Binnaz Karakaya Spor Salonu",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2828/Mac-Kadinlar_EHP_Euro_Cup_Hentbol_Ilk_Mac_Yalikavakspor_-_HC_Byala",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
-  },
-  {
-   "id": "cae1eef9d80a",
-   "baslik": "Birbirimize Candan Cana Bağlıyız",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/birbirimize-candan-cana-bagliyiz-4726",
-   "gorsel": null
   },
   {
    "id": "43cf8865b1c1",
@@ -519,14 +487,14 @@
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
-   "etkinlik_sayisi": 24,
+   "etkinlik_sayisi": 23,
    "durum": "çalışıyor"
   },
   {
    "ad": "Bodrum Belediyesi",
    "tur": "belediye",
    "url": "https://www.bodrum.bel.tr/etkinlik_takvimi",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {

@@ -1,5 +1,21 @@
 [
  {
+  "id": "ad0796786443",
+  "baslik": "Sefiller",
+  "tarih": "2026-11-15",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Çankaya",
+  "mekan": "Büyük Tiyatro",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sefiller",
+  "gorsel": null
+ },
+ {
   "id": "acebee44e94e",
   "baslik": "Coppelia",
   "tarih": "2026-11-14",

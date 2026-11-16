@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-11-15T13:31+03:00",
+ "guncelleme": "2026-11-16T13:47+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -40,6 +40,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/547/dunya-cocuk-haklari-gunu-farkindalik-etkinligi",
    "gorsel": "https://hubis.hakkari.edu.tr/media/event/547/cover/thumb/d03762036a95470f8b8e2416cddea6a8.webp"
+  },
+  {
+   "id": "0c20baa2fea7",
+   "baslik": "\"Denetimli Serbestlik ve Üniversite İş Birliğinde Toplumsal Sorumluluk\" Atölye Etkinliği",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "12:30",
+   "ilce": "Yüksekova",
+   "mekan": "Yüksekova MYO Konferans Salonu",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Diğer",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/548/%22denetimli-serbestlik-ve-universite-is-birliginde-toplumsal-sorumluluk%22-atolye-etkinligi",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/548/cover/thumb/9221a7ebbc6a4a7fb16ef6ae3da7a074.webp"
   }
  ],
  "kaynaklar": [
@@ -47,7 +63,7 @@
    "ad": "Hakkari Üniversitesi",
    "tur": "universite",
    "url": "https://www.hakkari.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

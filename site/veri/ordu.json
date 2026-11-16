@@ -1,6 +1,6 @@
 {
  "il": "ordu",
- "guncelleme": "2026-11-15T13:41+03:00",
+ "guncelleme": "2026-11-16T13:58+03:00",
  "ilceler": [
   "Altınordu",
   "Akkuş",
@@ -23,22 +23,6 @@
   "Ünye"
  ],
  "etkinlikler": [
-  {
-   "id": "65fa793a1c63",
-   "baslik": "Azerbaycan Halk Ezgileri Konseri",
-   "tarih": "2026-11-15",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Altınordu",
-   "mekan": "Tıp Fakültesi Morfoloji Binası Konferans Salonu",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Ordu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://odu.edu.tr/Etkinlikler/409/azerbaycan-halk-ezgileri-konseri",
-   "gorsel": null
-  },
   {
    "id": "36cafd41781f",
    "baslik": "UFEST - Ulaşım Festivali Ordu'da",
@@ -77,7 +61,7 @@
    "ad": "Ordu Üniversitesi",
    "tur": "universite",
    "url": "https://odu.edu.tr/TumEtkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

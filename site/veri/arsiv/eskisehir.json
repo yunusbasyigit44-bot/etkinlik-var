@@ -1,5 +1,21 @@
 [
  {
+  "id": "1ab41eb2943d",
+  "baslik": "Cadı Kazanı",
+  "tarih": "2026-11-15",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Tepebaşı",
+  "mekan": "B.B.Sanat ve Kültür Merkezi Tiyatro Sahnesi ( Opera )",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
+  "kaynak_ad": "Eskişehir Şehir Tiyatroları",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
+  "gorsel": null
+ },
+ {
   "id": "4eceaa4009a4",
   "baslik": "Aşk Listesi",
   "tarih": "2026-11-14",

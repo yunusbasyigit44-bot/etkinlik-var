@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-15T13:30+03:00",
+ "guncelleme": "2026-11-16T13:46+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -51,22 +51,6 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb497d74a82.jpg"
   },
   {
-   "id": "1ab41eb2943d",
-   "baslik": "Cadı Kazanı",
-   "tarih": "2026-11-15",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Tepebaşı",
-   "mekan": "B.B.Sanat ve Kültür Merkezi Tiyatro Sahnesi ( Opera )",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
-  },
-  {
    "id": "bccf5b8e7d51",
    "baslik": "İletişim Kulübü Tanıtım Standı",
    "tarih": "2026-11-16",
@@ -81,22 +65,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/iletisim-kulubu-tanitim-standi-1792755855",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb486d675ab.jpg"
-  },
-  {
-   "id": "def09b2f2c7c",
-   "baslik": "18. Uluslararası Anadolu Kaligrafi, Tipografi Festivali Konferansı",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Konferanslar",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-konferansi-1792483321",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71fd9d7418.jpg"
   },
   {
    "id": "5c71b066c51c",
@@ -128,23 +96,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/hale-basmacioglu-barok-sinif-konseri-1792481561",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad718fac5bc0.jpg"
-  },
-  {
-   "id": "4231a81dbfdb",
-   "baslik": "23. Eskişehir Uluslararası Film Festivali",
-   "tarih": "2026-11-17",
-   "bitis": "2026-11-29",
-   "saat": "09:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Sinema",
-   "ucretsiz": true,
-   "ozet": "Festival vb. Etkinlikler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/23-eskisehir-uluslararasi-film-festivali-1794565836",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e60983bb2.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afad8ddacda1.jpeg"
   },
   {
    "id": "6f2ca54f0927",
@@ -289,6 +241,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
    "gorsel": null
+  },
+  {
+   "id": "7ec6edd3c43a",
+   "baslik": "23. Eskişehir Uluslararası Film Festivali",
+   "tarih": "2026-11-19",
+   "bitis": "2026-11-27",
+   "saat": "09:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Sinema",
+   "ucretsiz": true,
+   "ozet": "Festival vb. Etkinlikler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/23-eskisehir-uluslararasi-film-festivali-1794565836",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afaafe6bd237.jpg"
   },
   {
    "id": "666cf26e14e1",
@@ -1043,6 +1011,22 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71b71bd420.jpg"
   },
   {
+   "id": "0f2c0469c5a2",
+   "baslik": "Ozan Akçay \"Gitar Resitali",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "17:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser ve Dinletiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ozan-akcay-gitar-resitali-1792482267",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71bc6665b7.jpg"
+  },
+  {
    "id": "3d2fc0b03178",
    "baslik": "Verimsizler",
    "tarih": "2026-11-27",
@@ -1103,7 +1087,7 @@
    "ad": "Eskişehir Şehir Tiyatroları",
    "tur": "belediye",
    "url": "https://tiyatro.eskisehir.bel.tr/oyuntakvimi.php",
-   "etkinlik_sayisi": 21,
+   "etkinlik_sayisi": 20,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

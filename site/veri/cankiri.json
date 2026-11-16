@@ -1,6 +1,6 @@
 {
  "il": "cankiri",
- "guncelleme": "2026-11-15T13:25+03:00",
+ "guncelleme": "2026-11-16T13:41+03:00",
  "ilceler": [
   "Merkez",
   "Atkaracalar",
@@ -449,6 +449,22 @@
    "gorsel": "https://medya.karatekin.edu.tr/users/aligumulcine/etkinlik/20261027_135739_980cd0bf3373415bafef3182dfe91de0.png"
   },
   {
+   "id": "ab05f076643b",
+   "baslik": "Kadına Yönelik Şiddetle Mücadele Eğitimi",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8742",
+   "gorsel": "https://medya.karatekin.edu.tr/users/haticepolat/etkinlik/20261106_214825_5260c71016b746c28e6fd807bcb97126.png"
+  },
+  {
    "id": "b699faeebaf3",
    "baslik": "Tıbbi Laboratuvar Teknikleri Programı Mezunları ile Kariyer Buluşması",
    "tarih": "2026-12-02",
@@ -511,6 +527,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8628",
    "gorsel": "https://medya.karatekin.edu.tr/users/okanurker/etkinlik/20261015_181754_fee583459bab410dade4e7012c79e030.pdf"
+  },
+  {
+   "id": "478d447f5e92",
+   "baslik": "Çankırı'nın Değerleri: Vefatının 51. Yıl Dönümünde ILGAZLI HACI AHMET EFENDİ Paneli",
+   "tarih": "2026-12-08",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8782",
+   "gorsel": "https://medya.karatekin.edu.tr/users/burhanconkor/etkinlik/20261115_190421_9ed63d1526f94d038313dff711febd62.jpeg"
   },
   {
    "id": "79a2da69cdd4",
@@ -694,7 +726,7 @@
    "ad": "Çankırı Karatekin Üniversitesi",
    "tur": "universite",
    "url": "https://www.karatekin.edu.tr/tum-etkinlikler",
-   "etkinlik_sayisi": 42,
+   "etkinlik_sayisi": 44,
    "durum": "çalışıyor"
   },
   {

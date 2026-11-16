@@ -1,6 +1,6 @@
 {
  "il": "yozgat",
- "guncelleme": "2026-11-15T13:44+03:00",
+ "guncelleme": "2026-11-16T14:01+03:00",
  "ilceler": [
   "Merkez",
   "Akdağmadeni",
@@ -35,6 +35,22 @@
    "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/81a22eae.png"
   },
   {
+   "id": "ec2c96385a2c",
+   "baslik": "Sosyoloji Bölümü Mezun Buluşması Fidan Dikim Etkinliği",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4278",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/c4fdb1bf.png"
+  },
+  {
    "id": "b21a26f81f57",
    "baslik": "Matematik Bölümü Genel Seminerleri - 122",
    "tarih": "2026-11-18",
@@ -49,38 +65,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4274",
    "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/04f3a19a.jpeg"
-  },
-  {
-   "id": "506504537199",
-   "baslik": "Yozgat Lisesi'nden Londra'ya Bir Mekan, Bir Ressam Cemal BİNGÖL",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Yozgat Bozok Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Yozgat Bozok Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4256",
-   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/4059eeb9.png"
-  },
-  {
-   "id": "0c5dc8215cd1",
-   "baslik": "Yozgat Lisesi'nden Londra'ya Bir Mekan, Bir Ressam Cemal BİNGÖL ve Öğrencileri Belge ve Resim Sergisi",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Yozgat Bozok Üniversitesi",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Yozgat Bozok Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4257",
-   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/0461699c.png"
   },
   {
    "id": "86e3abc63eeb",
@@ -120,7 +104,7 @@
    "ad": "Yozgat Bozok Üniversitesi",
    "tur": "universite",
    "url": "https://www.bozok.edu.tr/",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

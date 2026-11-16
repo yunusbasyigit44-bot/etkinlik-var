@@ -1,5 +1,21 @@
 [
  {
+  "id": "15b00398aa0d",
+  "baslik": "Ağustos Böceği ve Karınca",
+  "tarih": "2026-11-15",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Gebze",
+  "mekan": "Gebze Kültür Merkezi",
+  "kategori": "Çocuk",
+  "ucretsiz": true,
+  "ozet": "Çocuk Tiyatrosu",
+  "kaynak_ad": "Gebze Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.gebze.bel.tr/etkinlik/agustos-bocegi-ve-karinca_1042.html",
+  "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030104449.jpg"
+ },
+ {
   "id": "4836452cabc1",
   "baslik": "Süper Yetenek 2",
   "tarih": "2026-11-14",

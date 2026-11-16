@@ -1,6 +1,6 @@
 {
  "il": "kocaeli",
- "guncelleme": "2026-11-15T13:36+03:00",
+ "guncelleme": "2026-11-16T13:53+03:00",
  "ilceler": [
   "Başiskele",
   "Çayırova",
@@ -16,22 +16,6 @@
   "Körfez"
  ],
  "etkinlikler": [
-  {
-   "id": "15b00398aa0d",
-   "baslik": "Ağustos Böceği ve Karınca",
-   "tarih": "2026-11-15",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Gebze",
-   "mekan": "Gebze Kültür Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Çocuk Tiyatrosu",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/agustos-bocegi-ve-karinca_1042.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030104449.jpg"
-  },
   {
    "id": "c7c2aad6c140",
    "baslik": "Yakari Muhteşem Bir Macera",
@@ -294,7 +278,7 @@
    "ad": "Gebze Belediyesi",
    "tur": "belediye",
    "url": "https://www.gebze.bel.tr/json/etkinlik.json",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {

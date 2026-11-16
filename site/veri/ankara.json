@@ -1,6 +1,6 @@
 {
  "il": "ankara",
- "guncelleme": "2026-11-15T13:22+03:00",
+ "guncelleme": "2026-11-16T13:38+03:00",
  "ilceler": [
   "Akyurt",
   "Altındağ",
@@ -30,38 +30,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "ad0796786443",
-   "baslik": "Sefiller",
-   "tarih": "2026-11-15",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Büyük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sefiller",
-   "gorsel": "veri/gorsel/dt-sefiller.jpg"
-  },
-  {
-   "id": "87be9e04a547",
-   "baslik": "El Ele 25 Yıl",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Çankaya",
-   "mekan": "Hacettepe Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Hacettepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlikler.hacettepe.edu.tr/tr/el_ele_25_yil-3478",
-   "gorsel": "https://fs.hacettepe.edu.tr/etkinlik/2026/11-kasim/el_ele_vitrin.png"
-  },
-  {
    "id": "41cfdd21a7e8",
    "baslik": "Le Nozze Dı Fıgaro ''Figaro’nun Düğünü''",
    "tarih": "2026-11-16",
@@ -76,6 +44,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://www.operabale.gov.tr/directorates/ankara-opera-ve-balesi-1",
    "gorsel": "veri/gorsel/dob-1-3373.webp"
+  },
+  {
+   "id": "3277ae712dac",
+   "baslik": "Metin Uca Ödül Yazarlığı Ödülü",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Çankaya",
+   "mekan": "Çankaya Belediyesi",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankaya Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.cankaya.bel.tr/kultur-sanat/metin-uca-odul-yazarligi-odulu",
+   "gorsel": "https://www.cankaya.bel.tr/uploads/images/metinuca_1793104148_RpqBtqKu.webp"
   },
   {
    "id": "56badbb21ccd",
@@ -2371,7 +2355,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 137,
+   "etkinlik_sayisi": 136,
    "durum": "çalışıyor"
   },
   {
@@ -2385,7 +2369,14 @@
    "ad": "Hacettepe Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlikler.hacettepe.edu.tr/",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 5,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Çankaya Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.cankaya.bel.tr",
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {
@@ -2471,13 +2462,6 @@
    "url": "https://etkinlik.io/ankara",
    "etkinlik_sayisi": 0,
    "durum": "bekliyor: API anahtarı yok (etkinlik.io yayıncı başvurusu bekleniyor)"
-  },
-  {
-   "ad": "Çankaya Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.cankaya.bel.tr",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   }
  ]
 }

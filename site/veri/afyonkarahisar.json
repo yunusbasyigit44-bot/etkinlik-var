@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-15T13:21+03:00",
+ "guncelleme": "2026-11-16T13:36+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -71,6 +71,70 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261012171006_volkan_1.jpeg"
   },
   {
+   "id": "8f90d74402c2",
+   "baslik": "Hizmet İçi Eğitim (Ön Mali Kontrol İşlemleri)",
+   "tarih": "2026-11-16",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Zoom",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim Programı · Personel Dai̇re Başkanliği",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": null
+  },
+  {
+   "id": "430ea86ad1f5",
+   "baslik": "Sultan Sökmenin Zincir Adlı Kişisel Dokuma Sergisi",
+   "tarih": "2026-11-17",
+   "bitis": "2026-12-06",
+   "saat": "16:00",
+   "ilce": "Merkez",
+   "mekan": "Arkadaş Kafe (Afyonkarahisar Ulu Cami Karşısı))",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": "Kişisel Sergi · Güzel Sanatlar Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261115123933_sultan_sokmen_afis.jpeg"
+  },
+  {
+   "id": "be15b62f3bf1",
+   "baslik": "Hülya Vurnal İkizgülün Görü Adlı Kişisel Sergisi",
+   "tarih": "2026-11-17",
+   "bitis": "2026-12-04",
+   "saat": "17:00",
+   "ilce": "Merkez",
+   "mekan": "M. Rıza Çerçel Kültür ve Sanat Merkezi Sergi Salonu",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": "Kişisel Sergi · Güzel Sanatlar Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261115123613_17kasimafis.jpeg"
+  },
+  {
+   "id": "0b3c02fd9847",
+   "baslik": "Geleneksel Pilav Günü ve Ağaç Dikme Etkinliği",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "11:30",
+   "ilce": "Merkez",
+   "mekan": "Mühendislik Fakültesi",
+   "kategori": "Festival",
+   "ucretsiz": true,
+   "ozet": "Şenlik/Festival · Mühendi̇sli̇k Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261116095338_2026_agac_dikme_.jpg"
+  },
+  {
    "id": "1a095af37005",
    "baslik": "İş Dünyası İçin Kriz Yönetimi & Risk Analizi",
    "tarih": "2026-11-19",
@@ -85,22 +149,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261103093752_whatsapp_image_2026-11-02_at_10..jpg"
-  },
-  {
-   "id": "ae496244e5bb",
-   "baslik": "İş Dünyası İçin Kriz Yönetimi ve Risk Analizi",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Mühendislik Fakültesi Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Seminer · Teknoloji̇ Transfer Ofi̇si̇ Koordi̇natörlüğü",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261105162102_kucuk_boyutlu.jpg"
   },
   {
    "id": "e32fef1798f8",
@@ -119,6 +167,22 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261110173240_img-20261110-wa0024.jpg"
   },
   {
+   "id": "9fd480a2d24f",
+   "baslik": "Şiddetin Yeni Formu: Dijital Şiddet",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "Hukuk Fakültesi Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Panel · Kadin Ve Ai̇le Araştirmalari Uyg. Ve Arş. Merkezi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261113115819_13.11.2026.jpeg"
+  },
+  {
    "id": "3adefe21feda",
    "baslik": "Girişimcilikte Bir Tecrübe Paylaşımı",
    "tarih": "2026-11-25",
@@ -133,6 +197,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": null
+  },
+  {
+   "id": "d78057303b93",
+   "baslik": "İş Dünyası İçin Kriz Yönetimi ve Risk Analizi",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Mühendislik Fakültesi Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminer · Teknoloji̇ Transfer Ofi̇si̇ Koordi̇natörlüğü",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261116122614_kucuk_boyutlu_olan.jpg"
   },
   {
    "id": "920596a30d5c",
@@ -231,6 +311,22 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20260428172105_whatsapp_image_2026-04-28_at_15..jpg"
   },
   {
+   "id": "860c25209773",
+   "baslik": "Şirket Yönetimi & Tecrübe Paylaşımı",
+   "tarih": "2026-12-09",
+   "bitis": null,
+   "saat": "15:30",
+   "ilce": "Merkez",
+   "mekan": "Prof. Dr. Sabri Bektöre Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Söyleşi · İkti̇sadi̇ Ve İdari̇ Bi̇li̇mler Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261113161620_whatsapp_image_2026-11-13_at_12..jpg"
+  },
+  {
    "id": "33326651cc88",
    "baslik": "Şirket Yönetiminde Bir Tecrübe Paylaşımı",
    "tarih": "2026-12-09",
@@ -300,7 +396,7 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 23,
    "durum": "çalışıyor"
   },
   {

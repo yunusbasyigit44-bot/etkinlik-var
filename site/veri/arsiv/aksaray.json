@@ -1,5 +1,21 @@
 [
  {
+  "id": "f8d6eef83a39",
+  "baslik": "ASÜ Sahnede Müzik Yetenek Yarışması",
+  "tarih": "2026-11-15",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Merkez",
+  "mekan": "Aksaray Üniversitesi",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Aksaray Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.aksaray.edu.tr/asu-sahnede-muzik-yetenek-yarismasi-2",
+  "gorsel": null
+ },
+ {
   "id": "c574c2bf3c22",
   "baslik": "Geleceğe Nefes, Yarınlara Umut Oluyoruz!",
   "tarih": "2026-11-11",

@@ -1,6 +1,6 @@
 {
  "il": "sivas",
- "guncelleme": "2026-11-15T13:42+03:00",
+ "guncelleme": "2026-11-16T13:59+03:00",
  "ilceler": [
   "Merkez",
   "Akıncılar",
@@ -21,22 +21,6 @@
   "Zara"
  ],
  "etkinlikler": [
-  {
-   "id": "ea70245b2216",
-   "baslik": "15. Uluslararası Dünyada Geleneksel Sporlar ve Oyunlar Konferansı (Çevrim İçi)",
-   "tarih": "2026-11-15",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sivas Cumhuriyet Üniversitesi",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": "Geleneksel sporlar ve oyunların tarihsel, kültürel ve çağdaş boyutlarının ele alınacağı 15. Uluslararası Dünyada Geleneksel Sporlar ve Oyunlar Konferansı, 15 Kasım 2026 tarihinde çevrim içi olarak ger",
-   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/18642-15-uluslararasi-dunyada-geleneksel-sporlar-ve-oyunlar-konferansi-cevrim-ici",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/186/18642_1.jpg"
-  },
   {
    "id": "e93cc6012fc5",
    "baslik": "Dünya Felsefe Günü Etkinliği",
@@ -68,6 +52,54 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/cayirin-en-tuhaf-yuvasi",
    "gorsel": "veri/gorsel/dt-cayirin-en-tuhaf-yuvasi.jpg"
+  },
+  {
+   "id": "3f5983fa3b00",
+   "baslik": "Gençleri Suça ve Bağımlılığa İten Nedenler",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Gençleri Suça ve Bağımlılığa İten Nedenler",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19365-gencleri-suca-ve-bagimliliga-iten-nedenler",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/193/Gencleri-Suca-ve-Bagimliliga-iten-Nedenler-96200.jpg"
+  },
+  {
+   "id": "730a2cdd8ca5",
+   "baslik": "Türk Kanunu Medenisi ve Cumhuriyet Paneli",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Türk Kanunu Medenisi ve Cumhuriyet Paneli",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19364-turk-kanunu-medenisi-ve-cumhuriyet-paneli",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/193/Turk-Kanunu-Medenisi-ve-Cumhuriyet-Paneli-98927.jpeg"
+  },
+  {
+   "id": "d99776a6b90c",
+   "baslik": "Türk Kanunu Medenisi ve Cumhuriyet Sergisi",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": "Türk Kanunu Medenisi ve Cumhuriyet Sergisi",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19363-turk-kanunu-medenisi-ve-cumhuriyet-sergisi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/193/Turk-Kanunu-Medenisi-ve-Cumhuriyet-Sergisi-45528.jpeg"
   },
   {
    "id": "e7df2cb12fc7",
@@ -164,6 +196,38 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sivasta-108-gun",
    "gorsel": "veri/gorsel/dt-sivasta-108-gun.webp"
+  },
+  {
+   "id": "5169d367dd4b",
+   "baslik": "Beyaz Önlük Giyme Töreni- Diş Hekimliği Fakültesi",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": "Beyaz Önlük Giyme Töreni- Diş Hekimliği Fakültesi",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19376-beyaz-onluk-giyme-toreni-dis-hekimligi-fakultesi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/193/Beyaz-onluk-Giyme-Toreni--Dis-Hekimligi-Fakultesi-79297.jpg"
+  },
+  {
+   "id": "2f83fb0aa60a",
+   "baslik": "CÜTAM Bilim Söyleşileri- Bilim Yolunda Yürümek",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "CÜTAM Bilim Söyleşileri- Bilim Yolunda Yürümek",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19373-cutam-bilim-soylesileri-bilim-yolunda-yurumek",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/193/CuTAM-Bilim-Soylesileri--Bilim-Yolunda-Yurumek-36172.jpg"
   },
   {
    "id": "7c2e5becc81d",
@@ -514,7 +578,7 @@
    "ad": "Sivas Cumhuriyet Üniversitesi",
    "tur": "universite",
    "url": "https://www.cumhuriyet.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {

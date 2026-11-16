@@ -1,6 +1,6 @@
 {
  "il": "adiyaman",
- "guncelleme": "2026-11-15T13:21+03:00",
+ "guncelleme": "2026-11-16T13:35+03:00",
  "ilceler": [
   "Merkez",
   "Besni",
@@ -13,6 +13,22 @@
   "Tut"
  ],
  "etkinlikler": [
+  {
+   "id": "bd5a5adcac1f",
+   "baslik": "Uygulamalı TÜBİTAK 1002 Proje Yazım ve Değerlendirme Atölyesi",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "09:30",
+   "ilce": "Merkez",
+   "mekan": "Lisansüstü Eğitim Enstitüsü Tolantı Salonu ve Çevrimiçi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/19/uygulamali-tubitak-1002-proje-yazim-ve-degerlendirme-atolyesi",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/19/uygulamali-tubitak-1002-proje-yazim-ve-degerlendirme-atolyesi/thumb/t%C3%BCbitakyaz%C4%B1l%C4%B1m.jpg"
+  },
   {
    "id": "360a03c5226c",
    "baslik": "Etkili İletişim Becerileri",
@@ -30,13 +46,45 @@
    "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/20/etkili-iletisim-becerileri/thumb/etkili%20ileti%C5%9Fim.jpg"
   },
   {
+   "id": "eee0739aeb62",
+   "baslik": "Renk Renk Cupcake Atölyesi",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Gastronomi ve Mutfak Sanatları Atölyesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/23/renk-renk-cupcake-atolyesi",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/23/renk-renk-cupcake-atolyesi/thumb/anaokulu.jpg"
+  },
+  {
+   "id": "834bb68664fe",
+   "baslik": "Saygılı Yaşam ve Güvenli İlişkiler",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Merkez",
+   "mekan": "Mustafa V. Koç Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/23/saygili-yasam-ve-guvenli-iliskiler",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/23/saygili-yasam-ve-guvenli-iliskiler/thumb/sa%C4%9Fl%C4%B1kl%C4%B1%20ya%C5%9Fam.jpg"
+  },
+  {
    "id": "5f6367db058c",
    "baslik": "Deprem Sonrası Psikolojik Dayanıklılık ve Zaman Yönetimi Farkındalığı",
    "tarih": "2026-11-23",
    "bitis": null,
    "saat": "13:30",
    "ilce": "Merkez",
-   "mekan": "Mustafa V. Koç Konferans Salonu",
+   "mekan": "Mediko Sosyal Konferans Salonu",
    "kategori": "Diğer",
    "ucretsiz": true,
    "ozet": null,
@@ -62,6 +110,22 @@
    "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/25/profesyonelotel-yoneticileri-gelecegin-seflerinden-neler-bekliyo/thumb/gastronomi%C5%9Fef.jpg"
   },
   {
+   "id": "3ecbda7fb3ee",
+   "baslik": "Duyulmayanı Duy",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Merkez",
+   "mekan": "Mustafa V. Koç Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/25/duyulmayani-duy",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/25/duyulmayani-duy/thumb/kad%C4%B1na%20y%C3%B6nelik%20%C5%9Fiddet.jpg"
+  },
+  {
    "id": "830e10055fd2",
    "baslik": "3. Sınıflar Önlük Giyme Töreni",
    "tarih": "2026-11-27",
@@ -76,6 +140,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/27/3-siniflar-onluk-giyme-toreni",
    "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/27/3-siniflar-onluk-giyme-toreni/thumb/%C3%B6nl%C3%BCk%20giyme.jpg"
+  },
+  {
+   "id": "ca1594de5476",
+   "baslik": "Bir Gün Değil Her Gün Farkındalık",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Merkez",
+   "mekan": "Mustafa V. Koç Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/12/03/bir-gun-degil-her-gun-farkindalik",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/12/03/bir-gun-degil-her-gun-farkindalik/thumb/engellikonf..jpg"
   }
  ],
  "kaynaklar": [
@@ -83,7 +163,7 @@
    "ad": "Adıyaman Üniversitesi",
    "tur": "universite",
    "url": "https://adiyaman.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {
