@@ -1,5 +1,21 @@
 [
  {
+  "id": "36cafd41781f",
+  "baslik": "UFEST - Ulaşım Festivali Ordu'da",
+  "tarih": "2026-11-16",
+  "bitis": null,
+  "saat": "10:00",
+  "ilce": "Altınordu",
+  "mekan": "Tıp Fakültesi Morfoloji Binası Konferans Salonu",
+  "kategori": "Festival",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Ordu Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://odu.edu.tr/Etkinlikler/408/ufest-ulasim-festivali-ordu-da",
+  "gorsel": null
+ },
+ {
   "id": "65fa793a1c63",
   "baslik": "Azerbaycan Halk Ezgileri Konseri",
   "tarih": "2026-11-15",

@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-16T14:02+03:00",
+ "guncelleme": "2026-11-17T14:54+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -13,6 +13,22 @@
   "Yahşihan"
  ],
  "etkinlikler": [
+  {
+   "id": "d946e771dd5c",
+   "baslik": "Kariyer Buluşması (Konya Çeltik Kaymakamı Hilal Buse Ünal)",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10090",
+   "gorsel": null
+  },
   {
    "id": "4608787dc356",
    "baslik": "Hareketin Yaşı Yok: Yaş Almış Bireylerde Fiziksel Aktivite ve Yaşam Kalitesi (Bilim Kafe Etkinlikleri)",
@@ -62,6 +78,22 @@
    "gorsel": null
   },
   {
+   "id": "a2f0edfa3bc2",
+   "baslik": "Medeniyetimizin İnşa ve İhyasını Biyografi Geleneği Üzerinden Okumak",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10089",
+   "gorsel": null
+  },
+  {
    "id": "f0d7f7911fea",
    "baslik": "Şiddetin Anatomisi ve Çözüm Yolları",
    "tarih": "2026-11-26",
@@ -83,7 +115,7 @@
    "ad": "Kırıkkale Üniversitesi",
    "tur": "universite",
    "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {

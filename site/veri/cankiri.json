@@ -1,6 +1,6 @@
 {
  "il": "cankiri",
- "guncelleme": "2026-11-16T13:41+03:00",
+ "guncelleme": "2026-11-17T14:33+03:00",
  "ilceler": [
   "Merkez",
   "Atkaracalar",
@@ -16,22 +16,6 @@
   "Yapraklı"
  ],
  "etkinlikler": [
-  {
-   "id": "21ce6da042d0",
-   "baslik": "ÇAKÜ Teknokent Girişimcilik Eğitimi",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8762",
-   "gorsel": null
-  },
   {
    "id": "94726c139e0c",
    "baslik": "Kadına Yönelik Şiddetle Mücadele Eğitimi",
@@ -257,6 +241,22 @@
    "gorsel": "https://medya.karatekin.edu.tr/users/yusufziyaakbas/etkinlik/20261105_090027_8e8e72c774e34465a52386ca0d3ca3d1.jpg"
   },
   {
+   "id": "005d2c469247",
+   "baslik": "Çocuklar İçin Felsefe Eğitimi",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8777",
+   "gorsel": null
+  },
+  {
    "id": "b99b41b8fdf4",
    "baslik": "“Eğitimden Sektöre, Fikirden Markaya” Başlıklı Konferans",
    "tarih": "2026-11-25",
@@ -319,6 +319,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8704",
    "gorsel": "https://medya.karatekin.edu.tr/users/zarifeyildirim/etkinlik/20261028_090227_b0dc34e9207b4751b740d7c562ee35cb.png"
+  },
+  {
+   "id": "f622fb75ac8b",
+   "baslik": "Felsefenin Bireysel ve Toplumsal Yaşamdaki Önemi",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8776",
+   "gorsel": null
   },
   {
    "id": "0c90d2d12347",
@@ -625,6 +641,22 @@
    "gorsel": "https://medya.karatekin.edu.tr/users/elifpacal/etkinlik/20261020_075357_2a2d86fd581b4fa8a2fdff066f71e701.png"
   },
   {
+   "id": "390709ff696a",
+   "baslik": "Veriden Kariyere: TÜİK’te Çalışma Hayatı",
+   "tarih": "2026-12-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8765",
+   "gorsel": "https://medya.karatekin.edu.tr/users/pelinakin/etkinlik/20261112_105111_d86a88d306eb4fe7869709434054f045.png"
+  },
+  {
    "id": "88325a0ff4a6",
    "baslik": "Dünya Bizim Evimiz",
    "tarih": "2026-12-18",
@@ -689,6 +721,22 @@
    "gorsel": "https://medya.karatekin.edu.tr/users/gulsumconoglu/etkinlik/20261029_091430_791415cb00254df69d0fbc7afa5402e2.jpeg"
   },
   {
+   "id": "96221691f839",
+   "baslik": "Yapay Zekâ Çağında İstatistikçilerin İstihdam Olanakları",
+   "tarih": "2026-12-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8784",
+   "gorsel": "https://medya.karatekin.edu.tr/users/pelinakin/etkinlik/20261116_110753_45144e82404b4fa593db4d08878d26e5.png"
+  },
+  {
    "id": "d42f9971d05c",
    "baslik": "Sağlıklı ve Kaliteli Yaşam",
    "tarih": "2026-12-25",
@@ -703,22 +751,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8746",
    "gorsel": "https://medya.karatekin.edu.tr/users/gulsumconoglu/etkinlik/20261108_142849_df6b2a079417433abe32d0d73c53ee80.png"
-  },
-  {
-   "id": "9baa5c454728",
-   "baslik": "Dijital Bağımlılık",
-   "tarih": "2026-12-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8709",
-   "gorsel": "https://medya.karatekin.edu.tr/users/gulsumconoglu/etkinlik/20261029_102258_18af8fd94a7241bf963d8ecc085902f0.jpeg"
   }
  ],
  "kaynaklar": [
@@ -726,7 +758,7 @@
    "ad": "Çankırı Karatekin Üniversitesi",
    "tur": "universite",
    "url": "https://www.karatekin.edu.tr/tum-etkinlikler",
-   "etkinlik_sayisi": 44,
+   "etkinlik_sayisi": 46,
    "durum": "çalışıyor"
   },
   {

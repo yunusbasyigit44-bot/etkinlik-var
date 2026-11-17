@@ -1,6 +1,6 @@
 {
  "il": "yozgat",
- "guncelleme": "2026-11-16T14:01+03:00",
+ "guncelleme": "2026-11-17T14:54+03:00",
  "ilceler": [
   "Merkez",
   "Akdağmadeni",
@@ -19,20 +19,36 @@
  ],
  "etkinlikler": [
   {
-   "id": "34e6cfeffbed",
-   "baslik": "10 Kasım Gazi Mustafa Kemal Atatürk'ü Anma Programı",
-   "tarih": "2026-11-16",
+   "id": "4abad36c5cb6",
+   "baslik": "Kendini Tanı Sağlığını Koru",
+   "tarih": "2026-11-17",
    "bitis": null,
    "saat": null,
    "ilce": "Merkez",
    "mekan": "Yozgat Bozok Üniversitesi",
-   "kategori": "Anma / Tören",
+   "kategori": "Diğer",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Yozgat Bozok Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4275",
-   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/81a22eae.png"
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4281",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/8313eaeb.jpg"
+  },
+  {
+   "id": "b21a26f81f57",
+   "baslik": "Matematik Bölümü Genel Seminerleri - 122",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4274",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/04f3a19a.jpeg"
   },
   {
    "id": "ec2c96385a2c",
@@ -51,20 +67,36 @@
    "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/c4fdb1bf.png"
   },
   {
-   "id": "b21a26f81f57",
-   "baslik": "Matematik Bölümü Genel Seminerleri - 122",
-   "tarih": "2026-11-18",
+   "id": "8e63cb9b0e9b",
+   "baslik": "Kitap Günü Etkinliği",
+   "tarih": "2026-11-19",
    "bitis": null,
    "saat": null,
    "ilce": "Merkez",
    "mekan": "Yozgat Bozok Üniversitesi",
-   "kategori": "Söyleşi",
+   "kategori": "Edebiyat",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Yozgat Bozok Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4274",
-   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/04f3a19a.jpeg"
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4280",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/65f095ef.jpeg"
+  },
+  {
+   "id": "280d59073a11",
+   "baslik": "ALGAECircle Projesi Açılış Töreni",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4279",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/afd4680b.jpeg"
   },
   {
    "id": "86e3abc63eeb",
@@ -104,7 +136,7 @@
    "ad": "Yozgat Bozok Üniversitesi",
    "tur": "universite",
    "url": "https://www.bozok.edu.tr/",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

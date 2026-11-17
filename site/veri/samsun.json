@@ -1,6 +1,6 @@
 {
  "il": "samsun",
- "guncelleme": "2026-11-16T13:58+03:00",
+ "guncelleme": "2026-11-17T14:50+03:00",
  "ilceler": [
   "Atakum",
   "Canik",
@@ -22,22 +22,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "f270ffc83464",
-   "baslik": "Don Kişot (2026)",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "İlkadım",
-   "mekan": "Samsun Devlet Opera ve Balesi · Aydın Gün Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Samsun Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/don-kisot-samsun-dob",
-   "gorsel": "veri/gorsel/dob-samsun-3401.webp"
-  },
-  {
    "id": "395318846dec",
    "baslik": "Don Kişot (2026)",
    "tarih": "2026-11-18",
@@ -54,11 +38,11 @@
    "gorsel": "veri/gorsel/dob-samsun-3401.webp"
   },
   {
-   "id": "13f127e57dcd",
+   "id": "339bc354e16c",
    "baslik": "Pinokyo",
    "tarih": "2026-11-21",
    "bitis": null,
-   "saat": "20:00",
+   "saat": "16:30",
    "ilce": "İlkadım",
    "mekan": "Samsun Devlet Opera ve Balesi · Aydın Gün Salonu",
    "kategori": "Çocuk",
@@ -228,6 +212,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/hanim-olan-hizmetci-samsun-dob",
    "gorsel": "veri/gorsel/dob-samsun-3306.webp"
+  },
+  {
+   "id": "f96733351c4e",
+   "baslik": "La Boheme (2026)",
+   "tarih": "2026-12-12",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "İlkadım",
+   "mekan": "Samsun Devlet Opera ve Balesi · Aydın Gün Salonu",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Samsun Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/la-boheme-samsun-dob",
+   "gorsel": null
   }
  ],
  "kaynaklar": [

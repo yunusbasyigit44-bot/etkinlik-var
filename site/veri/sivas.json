@@ -1,6 +1,6 @@
 {
  "il": "sivas",
- "guncelleme": "2026-11-16T13:59+03:00",
+ "guncelleme": "2026-11-17T14:51+03:00",
  "ilceler": [
   "Merkez",
   "Akıncılar",
@@ -21,22 +21,6 @@
   "Zara"
  ],
  "etkinlikler": [
-  {
-   "id": "e93cc6012fc5",
-   "baslik": "Dünya Felsefe Günü Etkinliği",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sivas Cumhuriyet Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Dünya Felsefe Günü Etkinliği",
-   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19300-dunya-felsefe-gunu-etkinligi",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/193/Dunya-Felsefe-Gunu-Etkinligi-62176.png"
-  },
   {
    "id": "d6f60bf0be50",
    "baslik": "Çayırın En Tuhaf Yuvası",
@@ -164,6 +148,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sivasta-108-gun",
    "gorsel": "veri/gorsel/dt-sivasta-108-gun.webp"
+  },
+  {
+   "id": "d4d6295a11ea",
+   "baslik": "Depreme Hazır Olmak \"Bireysel Bilinçten Toplumsal Sorumluluğa\"",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Depreme Hazır Olmak \"Bireysel Bilinçten Toplumsal Sorumluluğa\"",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19377-depreme-hazir-olmak-bireysel-bilincten-toplumsal-sorumluluga",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/193/Depreme-Hazir-Olmak-Bireysel-Bilincten-Toplumsal-Sorumluluga--17783.jpg"
   },
   {
    "id": "88c2938f0c65",

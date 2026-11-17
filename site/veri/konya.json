@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-16T13:53+03:00",
+ "guncelleme": "2026-11-17T14:45+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,22 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "cef3424ed086",
-   "baslik": "Konya Okulu - Prof. Dr. Ali Akpınar",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ali-akpinar/1209",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/yGQGIOJfI79AnIe5ZXoRLPI9Q5MHkGaB.jpeg"
-  },
   {
    "id": "169436e57eb2",
    "baslik": "Konya Okulu - Rıfat Oral",
@@ -225,6 +209,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanatkonya.com/etkinlikler/klasik-kemence-atolyesi/1331",
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/wwtzROqP7-1X4yALvA1glRGbSjHxb1Cz.jpeg"
+  },
+  {
+   "id": "59eb064388a0",
+   "baslik": "Konya Okulu - Prof. Dr. Ali Akpınar",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ali-akpinar/1209",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/yGQGIOJfI79AnIe5ZXoRLPI9Q5MHkGaB.jpeg"
   },
   {
    "id": "fe9548a96d38",

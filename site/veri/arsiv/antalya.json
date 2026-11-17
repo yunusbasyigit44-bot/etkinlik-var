@@ -1,5 +1,37 @@
 [
  {
+  "id": "b8fa3ad20954",
+  "baslik": "COP31 Etkinliği",
+  "tarih": "2026-11-16",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Konyaaltı",
+  "mekan": "Akdeniz Üniversitesi, Fen Fakültesi B Blok Konferans Salonu",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Akdeniz Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/cop31_etkinligi-5787",
+  "gorsel": null
+ },
+ {
+  "id": "f839becc76dc",
+  "baslik": "Panel 'Anlatıyı Dönüştürmek: İklim Değişikliği Karşısında Hikâyeler ve Hikâye Anlatıcılığı'",
+  "tarih": "2026-11-16",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Konyaaltı",
+  "mekan": "Akdeniz Üniversitesi, Turizm Fakültesi Nuri Özaltın Konferans Salonu",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Akdeniz Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/panel_anlatiyi_donusturmek%3A_iklim_degisikligi_karsisinda_hik%C3%A2yeler_ve_hik%C3%A2ye_anlaticiligi_-5770",
+  "gorsel": null
+ },
+ {
   "id": "625cdaf55660",
   "baslik": "Kırmızı Cüce",
   "tarih": "2026-11-15",

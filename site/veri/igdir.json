@@ -1,6 +1,6 @@
 {
  "il": "igdir",
- "guncelleme": "2026-11-16T14:03+03:00",
+ "guncelleme": "2026-11-17T14:55+03:00",
  "ilceler": [
   "Merkez",
   "Aralık",
@@ -8,22 +8,6 @@
   "Tuzluca"
  ],
  "etkinlikler": [
-  {
-   "id": "90883c339f1b",
-   "baslik": "İlham Veren Bir Başarı Hikâyesi: Yusuf Akgün Öğrencilerle Buluşuyor!",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Iğdır Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Iğdır Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/ilham-veren-bir-basar-hikayesi-yusuf-akgun-ogrencilerle-bulusuyor-41/register",
-   "gorsel": "https://www.igdir.edu.tr/web/image/56992-267d4519/11.jfif"
-  },
   {
    "id": "32c872388ac0",
    "baslik": "\"Futbolda Kariyer Gelişimi ve Sporcu Sağlığı\" Paneli",
@@ -62,7 +46,7 @@
    "ad": "Iğdır Üniversitesi",
    "tur": "universite",
    "url": "https://www.igdir.edu.tr/events/",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

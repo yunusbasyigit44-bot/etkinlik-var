@@ -1,5 +1,37 @@
 [
  {
+  "id": "41cfdd21a7e8",
+  "baslik": "Le Nozze Dı Fıgaro ''Figaro’nun Düğünü''",
+  "tarih": "2026-11-16",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Çankaya",
+  "mekan": "Opera Sahnesi",
+  "kategori": "Opera & Bale",
+  "ucretsiz": false,
+  "ozet": "Devlet Opera ve Balesi",
+  "kaynak_ad": "Devlet Opera ve Balesi",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://www.operabale.gov.tr/directorates/ankara-opera-ve-balesi-1",
+  "gorsel": null
+ },
+ {
+  "id": "3277ae712dac",
+  "baslik": "Metin Uca Ödül Yazarlığı Ödülü",
+  "tarih": "2026-11-16",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Çankaya",
+  "mekan": "Çankaya Belediyesi",
+  "kategori": "Edebiyat",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Çankaya Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.cankaya.bel.tr/kultur-sanat/metin-uca-odul-yazarligi-odulu",
+  "gorsel": "https://www.cankaya.bel.tr/uploads/images/metinuca_1793104148_RpqBtqKu.webp"
+ },
+ {
   "id": "ad0796786443",
   "baslik": "Sefiller",
   "tarih": "2026-11-15",

@@ -1,6 +1,6 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-11-16",
+ "guncelleme": "2026-11-17",
  "secilenler": [
   {
    "id": "d7762ec713f9",
@@ -9,27 +9,19 @@
    "elle": true
   },
   {
-   "id": "41cfdd21a7e8",
-   "not": "Ankara'da opera ve bale sahnesinden bir akşam."
-  },
-  {
-   "id": "0f9f8c29916d",
-   "not": "İzmir'de opera ve bale sahnesinden bir akşam."
-  },
-  {
    "id": "70b3db8a1120",
    "not": "Antalya'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "cdb1a7eed51c",
-   "not": "Eskişehir'de canlı müzik keyfi."
+   "id": "fecb61aad33b",
+   "not": "Mersin'de opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "bda68477a119",
-   "not": "İstanbul'da canlı müzik keyfi."
+   "id": "a9bb3dfb3f94",
+   "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "9b4a47debd10",
+   "id": "3e43bd5b8b6d",
    "not": "İstanbul'da canlı müzik keyfi."
   },
   {
@@ -39,6 +31,18 @@
   {
    "id": "0b3c02fd9847",
    "not": "Afyonkarahisar'da festival havası."
+  },
+  {
+   "id": "e2763711d1cd",
+   "not": "Eskişehir'de canlı müzik keyfi."
+  },
+  {
+   "id": "c95cdb52738d",
+   "not": "İzmir'de geleneksel ezgiler."
+  },
+  {
+   "id": "a9e844d406e9",
+   "not": "Eskişehir'de canlı müzik keyfi."
   },
   {
    "id": "1645d76a0b2d",
@@ -53,20 +57,16 @@
    "not": "Manisa'da perde açılıyor."
   },
   {
-   "id": "7acc5faa9776",
-   "not": "Erzurum'da perde açılıyor."
-  },
-  {
-   "id": "74b205c1679f",
-   "not": "Kocaeli'de geleneksel ezgiler."
+   "id": "6551458e69a7",
+   "not": "Denizli'de perde açılıyor."
   },
   {
    "id": "a00303c71871",
    "not": "Gaziantep'te gezip görülecek bir sergi."
   },
   {
-   "id": "6f85dac51929",
-   "not": "Eskişehir'de gezip görülecek bir sergi."
+   "id": "6dbaf62dc677",
+   "not": "Muğla'da gezip görülecek bir sergi."
   }
  ]
 }

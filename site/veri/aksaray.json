@@ -1,6 +1,6 @@
 {
  "il": "aksaray",
- "guncelleme": "2026-11-16T14:01+03:00",
+ "guncelleme": "2026-11-17T14:54+03:00",
  "ilceler": [
   "Merkez",
   "Ağaçören",
@@ -45,19 +45,19 @@
    "gorsel": null
   },
   {
-   "id": "5383b93dd634",
-   "baslik": "Bağımlılıklarla Mücadelede Eğitimi",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "13:00",
+   "id": "7809a1fff8c8",
+   "baslik": "Özel Yetenekli Öğrencilerimizin Dikkatine",
+   "tarih": "2026-11-17",
+   "bitis": "2026-12-31",
+   "saat": "10:25",
    "ilce": "Merkez",
-   "mekan": "Mühendislik Fakültesi Konferans Salonu",
-   "kategori": "Atölye",
+   "mekan": "Başvuru ve İletişim: Aksaray Üniversitesi Dezavantajlı ve Engelli Öğrenci Birimi Koordinatörlüğü",
+   "kategori": "Diğer",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Aksaray Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.aksaray.edu.tr/bagimliliklarla-mucadelede-egitimi",
+   "kaynak_url": "https://www.aksaray.edu.tr/ozel-yetenekli-ogrencilerimizin-dikkatine",
    "gorsel": null
   },
   {
@@ -74,6 +74,22 @@
    "kaynak_ad": "Aksaray Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.aksaray.edu.tr/diksiyon-ve-etkili-iletisim",
+   "gorsel": null
+  },
+  {
+   "id": "ee787a2277db",
+   "baslik": "Bağımlılıklarla Mücadelede Eğitimi",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Fen Edebiyat Fakültesi Mine Nur Uysal Konferans Salonu",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/bagimliliklarla-mucadelede-egitimi-2",
    "gorsel": null
   },
   {
@@ -106,6 +122,22 @@
    "kaynak_ad": "Aksaray Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.aksaray.edu.tr/turk-halk-muzigi-koro-calismalari-basliyor",
+   "gorsel": null
+  },
+  {
+   "id": "fc771b596a0e",
+   "baslik": "Sahadan Masaya Tuz Gölü Ulusal Genç İklim Çözümleri Kampı",
+   "tarih": "2026-11-21",
+   "bitis": "2026-11-23",
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Aksaray Üniversitesi ve Tuz Gölü Havzası",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/sahadan-masaya-tuz-golu-ulusal-genc-iklim-cozumleri-kampi",
    "gorsel": null
   },
   {
@@ -146,7 +178,7 @@
    "ad": "Aksaray Üniversitesi",
    "tur": "universite",
    "url": "https://www.aksaray.edu.tr/Etkinlik-takvimi",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "ordu",
- "guncelleme": "2026-11-16T13:58+03:00",
+ "guncelleme": "2026-11-17T14:50+03:00",
  "ilceler": [
   "Altınordu",
   "Akkuş",
@@ -24,22 +24,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "36cafd41781f",
-   "baslik": "UFEST - Ulaşım Festivali Ordu'da",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Altınordu",
-   "mekan": "Tıp Fakültesi Morfoloji Binası Konferans Salonu",
-   "kategori": "Festival",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Ordu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://odu.edu.tr/Etkinlikler/408/ufest-ulasim-festivali-ordu-da",
-   "gorsel": null
-  },
-  {
    "id": "de4248017408",
    "baslik": "Climate Change And Human Health\" (İklim Değişikliği ve İnsan Sağlığı)",
    "tarih": "2026-11-18",
@@ -61,7 +45,7 @@
    "ad": "Ordu Üniversitesi",
    "tur": "universite",
    "url": "https://odu.edu.tr/TumEtkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "batman",
- "guncelleme": "2026-11-16T14:02+03:00",
+ "guncelleme": "2026-11-17T14:55+03:00",
  "ilceler": [
   "Merkez",
   "Beşiri",
@@ -10,22 +10,6 @@
   "Sason"
  ],
  "etkinlikler": [
-  {
-   "id": "a667d058f23d",
-   "baslik": "Biz Size Hayranız",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Merkez",
-   "mekan": "Batman DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/biz-size-hayraniz",
-   "gorsel": "veri/gorsel/dt-biz-size-hayraniz.jpg"
-  },
   {
    "id": "16fe57d118b7",
    "baslik": "Biz Size Hayranız",
@@ -80,7 +64,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

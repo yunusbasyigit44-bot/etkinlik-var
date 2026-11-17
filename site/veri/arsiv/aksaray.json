@@ -1,5 +1,21 @@
 [
  {
+  "id": "5383b93dd634",
+  "baslik": "Bağımlılıklarla Mücadelede Eğitimi",
+  "tarih": "2026-11-16",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Merkez",
+  "mekan": "Mühendislik Fakültesi Konferans Salonu",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Aksaray Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.aksaray.edu.tr/bagimliliklarla-mucadelede-egitimi",
+  "gorsel": null
+ },
+ {
   "id": "f8d6eef83a39",
   "baslik": "ASÜ Sahnede Müzik Yetenek Yarışması",
   "tarih": "2026-11-15",

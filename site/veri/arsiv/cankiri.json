@@ -1,5 +1,21 @@
 [
  {
+  "id": "21ce6da042d0",
+  "baslik": "ÇAKÜ Teknokent Girişimcilik Eğitimi",
+  "tarih": "2026-11-16",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Çankırı Karatekin Üniversitesi",
+  "kategori": "Bilim & Teknoloji",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8762",
+  "gorsel": null
+ },
+ {
   "id": "e43b99c2e8c6",
   "baslik": "Yapay Zekâ Destekli Ofis: Word, Excel ve PowerPoint'te Copilot",
   "tarih": "2026-11-13",

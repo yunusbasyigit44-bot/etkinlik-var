@@ -1,6 +1,6 @@
 {
  "il": "ankara",
- "guncelleme": "2026-11-16T13:38+03:00",
+ "guncelleme": "2026-11-17T14:29+03:00",
  "ilceler": [
   "Akyurt",
   "Altındağ",
@@ -29,38 +29,6 @@
   "Yenimahalle"
  ],
  "etkinlikler": [
-  {
-   "id": "41cfdd21a7e8",
-   "baslik": "Le Nozze Dı Fıgaro ''Figaro’nun Düğünü''",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Opera Sahnesi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://www.operabale.gov.tr/directorates/ankara-opera-ve-balesi-1",
-   "gorsel": "veri/gorsel/dob-1-3373.webp"
-  },
-  {
-   "id": "3277ae712dac",
-   "baslik": "Metin Uca Ödül Yazarlığı Ödülü",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Çankaya",
-   "mekan": "Çankaya Belediyesi",
-   "kategori": "Edebiyat",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankaya Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.cankaya.bel.tr/kultur-sanat/metin-uca-odul-yazarligi-odulu",
-   "gorsel": "https://www.cankaya.bel.tr/uploads/images/metinuca_1793104148_RpqBtqKu.webp"
-  },
   {
    "id": "56badbb21ccd",
    "baslik": "Öğrencilerin Motivasyonunu Desteklemeye Yönelik Öğretim Stratejileri",
@@ -204,6 +172,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/woyzeck",
    "gorsel": "veri/gorsel/dt-woyzeck.webp"
+  },
+  {
+   "id": "06acd9d32b75",
+   "baslik": "Küçük Prens ve Arkadaşları",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Çankaya",
+   "mekan": "Çankaya Belediyesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankaya Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.cankaya.bel.tr/kultur-sanat/kucuk-prens-ve-arkadaslari",
+   "gorsel": "https://www.cankaya.bel.tr/uploads/images/kucuk-prens-ve-arkadaslari_1794400511_f8jmRgTu.webp"
   },
   {
    "id": "0c080e5acd7d",
@@ -460,6 +444,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/mukemmel-partner",
    "gorsel": "veri/gorsel/dt-mukemmel-partner.jpg"
+  },
+  {
+   "id": "503167c8d5fb",
+   "baslik": "Sıhhiye Sağlık Bilimleri Kütüphanesi Açılış Töreni",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Çankaya",
+   "mekan": "Hacettepe Üniversitesi",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Hacettepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlikler.hacettepe.edu.tr/tr/sihhiye_saglik_bilimleri_kutup-3486",
+   "gorsel": "https://fs.hacettepe.edu.tr/etkinlik/2026/11-kasim/kutuphane_vitrin.jpg"
   },
   {
    "id": "071550305b6a",
@@ -1534,6 +1534,22 @@
    "gorsel": "veri/gorsel/dob-1-3373.webp"
   },
   {
+   "id": "120a0b1663bf",
+   "baslik": "Çocuklar için Müzik ve Opera",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Çankaya",
+   "mekan": "Cumhuriyet Müzesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/cocuklar-icin-muzik-ve-opera",
+   "gorsel": "veri/gorsel/dob-1-2865.webp"
+  },
+  {
    "id": "3e3b38f9a1d9",
    "baslik": "Cephede Piknik",
    "tarih": "2026-12-01",
@@ -2369,7 +2385,7 @@
    "ad": "Hacettepe Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlikler.hacettepe.edu.tr/",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {

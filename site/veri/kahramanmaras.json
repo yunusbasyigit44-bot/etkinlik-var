@@ -1,6 +1,6 @@
 {
  "il": "kahramanmaras",
- "guncelleme": "2026-11-16T13:55+03:00",
+ "guncelleme": "2026-11-17T14:46+03:00",
  "ilceler": [
   "Afşin",
   "Andırın",
@@ -16,20 +16,36 @@
  ],
  "etkinlikler": [
   {
-   "id": "95a6e5e952f1",
-   "baslik": "Güçlü Bağlar İçin Güçlü İletişim",
-   "tarih": "2026-11-16",
+   "id": "4097352b3ca4",
+   "baslik": "Gençlik Güvenlik ve Farkındalık Eğitim Programı \"Bilinçli Gençlik Güvenli Gelecek\"",
+   "tarih": "2026-11-17",
    "bitis": null,
-   "saat": "10:30",
+   "saat": "09:00",
    "ilce": "Onikişubat",
    "mekan": "Yunus Emre Kongre ve Kültür Merkezi Sezai Karakoç Konferans Salonu",
-   "kategori": "Diğer",
+   "kategori": "Atölye",
    "ucretsiz": true,
-   "ozet": "Onikişubat Meslek Yüksekokulu",
+   "ozet": "KSÜ Sağlık Bilimleri Fakültesi Hemşirelik Bölümü",
    "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=137",
-   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611091534457200.jpg"
+   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=141",
+   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611161414581576.jpg"
+  },
+  {
+   "id": "ad95e0d31d56",
+   "baslik": "2026-2027 Akademik Yılı Açılış Töreni",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Onikişubat",
+   "mekan": "Yunus Emre Kongre ve Kültür Merkezi Sezai Karakoç Konferans Salonu",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": "Kahramanmaraş Sütçü İmam Üniversitesi",
+   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=142",
+   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611161418251888.jpg"
   },
   {
    "id": "4b27d8a1e404",
@@ -69,7 +85,7 @@
    "ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
    "tur": "universite",
    "url": "https://www.ksu.edu.tr/",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

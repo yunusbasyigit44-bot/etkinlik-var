@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-16T13:56+03:00",
+ "guncelleme": "2026-11-17T14:48+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -32,70 +32,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2799/Sergi-Ibrahim_Coskun_Ben_Anadolu_Resim_Sergisi",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
-  },
-  {
-   "id": "43cf8865b1c1",
-   "baslik": "Yapay Zekayı Doğru Kullanmak: Okuldan İş Hayatına Pratik Ve Güvenli Rehber",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/-yapay-zekayi-dogru-kullanmak--okuldan-is-hayatina-pratik-ve-guvenli-rehber-4704",
-   "gorsel": null
-  },
-  {
-   "id": "9eee8267a7cf",
-   "baslik": "Akademik Araştırmalarda Yapay Zekâ Araçlarının Kullanımı ve Etiği",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "15:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/akademik-arastirmalarda-yapay-zek%C3%A2-araclarinin-kullanimi-ve-etigi-4693",
-   "gorsel": null
-  },
-  {
-   "id": "d42d00bdf45a",
-   "baslik": "Kariyer Yönetiminde İletişimin Önemi",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Kariyer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/kariyer-yonetiminde-iletisimin-onemi-4680",
-   "gorsel": null
-  },
-  {
-   "id": "246f6bb53467",
-   "baslik": "Köyceğiz Gölünün Oluşumu",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/koycegiz-golunun-olusumu-4714",
-   "gorsel": null
   },
   {
    "id": "44756ce780fd",
@@ -146,6 +82,22 @@
    "gorsel": null
   },
   {
+   "id": "2dd5493802ec",
+   "baslik": "Her Şey Çocuklar ve Gençlerle Birlikte",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/her-sey-cocuklar-ve-genclerle-birlikte-4732",
+   "gorsel": null
+  },
+  {
    "id": "57af02bce36b",
    "baslik": "Mezun & Öğrenci Buluşmaları",
    "tarih": "2026-11-18",
@@ -159,6 +111,38 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mezun--ogrenci-bulusmalari-4712",
+   "gorsel": null
+  },
+  {
+   "id": "dc6d212907fe",
+   "baslik": "Öğrenci Toplulukları Buluşuyor",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "12:00",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/ogrenci-topluluklari-bulusuyor-4730",
+   "gorsel": null
+  },
+  {
+   "id": "c733726aba9a",
+   "baslik": "Analizden Sahaya: Modern Antrenörlük Stratejileri",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/analizden-sahaya--modern-antrenorluk-stratejileri-4731",
    "gorsel": null
   },
   {
@@ -255,6 +239,22 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/24-kasim-ogretmenler-gunu-kutlama-toreni-4699",
+   "gorsel": null
+  },
+  {
+   "id": "70798a30bd16",
+   "baslik": "Bölüm Başkanı & Öğrenci Buluşması",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "15:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/bolum-baskani--ogrenci-bulusmasi-4729",
    "gorsel": null
   },
   {
@@ -402,6 +402,22 @@
    "gorsel": null
   },
   {
+   "id": "0da98399567b",
+   "baslik": "Saygılı Yaşam ve Güvenli İlişkiler",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/saygili-yasam-ve-guvenli-iliskiler-4734",
+   "gorsel": null
+  },
+  {
    "id": "1591ad137eea",
    "baslik": "Mülakat Teknikleri",
    "tarih": "2026-12-01",
@@ -415,6 +431,22 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mulakat-teknikleri-4679",
+   "gorsel": null
+  },
+  {
+   "id": "6c7468d976e4",
+   "baslik": "Kariye'yi Okumak Din, Sanat ve İkonografi",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/kariyeyi-okumak-din-sanat-ve-ikonografi-4733",
    "gorsel": null
   },
   {
@@ -487,7 +519,7 @@
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
-   "etkinlik_sayisi": 23,
+   "etkinlik_sayisi": 25,
    "durum": "çalışıyor"
   },
   {

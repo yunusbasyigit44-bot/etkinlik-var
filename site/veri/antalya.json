@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-16T13:38+03:00",
+ "guncelleme": "2026-11-17T14:30+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -152,38 +152,6 @@
    "gorsel": null
   },
   {
-   "id": "b8fa3ad20954",
-   "baslik": "COP31 Etkinliği",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Fen Fakültesi B Blok Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/cop31_etkinligi-5787",
-   "gorsel": null
-  },
-  {
-   "id": "f839becc76dc",
-   "baslik": "Panel 'Anlatıyı Dönüştürmek: İklim Değişikliği Karşısında Hikâyeler ve Hikâye Anlatıcılığı'",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Turizm Fakültesi Nuri Özaltın Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/panel_anlatiyi_donusturmek%3A_iklim_degisikligi_karsisinda_hik%C3%A2yeler_ve_hik%C3%A2ye_anlaticiligi_-5770",
-   "gorsel": null
-  },
-  {
    "id": "82df28edead4",
    "baslik": "Üç Kedi Bir Dilek",
    "tarih": "2026-11-17",
@@ -230,6 +198,38 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/cello-yildizlari-antalya-dob",
    "gorsel": "veri/gorsel/dob-5-3302.webp"
+  },
+  {
+   "id": "bb9c6a3c04d6",
+   "baslik": "“İklim Hedeflerinden Enerji Gerçeğine” konulu Öğrenci Buluşması",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, B Blok Yavuz Tekelioğlu Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/%E2%80%9Ciklim_hedeflerinden_enerji_gercegine%E2%80%9D_konulu_ogrenci_bulusmasi-5792",
+   "gorsel": null
+  },
+  {
+   "id": "2fe29b80f26d",
+   "baslik": "Sağlık Bilimleri Fakültesi 'Etkinlik Duyurusu'",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Merkezi Derslikler A Blok Derslik 10",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/saglik_bilimleri_fakultesi_etkinlik_duyurusu-5791",
+   "gorsel": null
   },
   {
    "id": "7b4ed9aa1a4d",
@@ -280,6 +280,22 @@
    "gorsel": "veri/gorsel/dt-taziye.webp"
   },
   {
+   "id": "de22b6102d30",
+   "baslik": "COP 31 Etkinlikleri Kapsamında Bilimsel Toplantı “Hızla Değişen Dünyada Bileşik Kıyı Tehlikelerine Karşı Dirençlilik Oluşturmaya Yönelik Çözümler”",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Fen Bilimleri Enstitüsü Konferans Salonu",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/cop_31_etkinlikleri_kapsaminda_bilimsel_toplanti_%E2%80%9Chizla_degisen_dunyada_bilesik_kiyi_tehlikelerine_karsi_direnclilik_olusturmaya_yonelik_cozumler%E2%80%9D-5793",
+   "gorsel": null
+  },
+  {
    "id": "5f9ef2b85366",
    "baslik": "Dünya Felsefe Günü : Prof. Dr. Ioanna KUÇURADİ anısına felsefeyle bakmak",
    "tarih": "2026-11-19",
@@ -326,6 +342,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/taziye",
    "gorsel": "veri/gorsel/dt-taziye.webp"
+  },
+  {
+   "id": "5bb0644978fe",
+   "baslik": "Akdeniz İlahiyat Seminerleri-25",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, İlahiyat Fakültesi Toplantı Salonu",
+   "kategori": "Geleneksel Müzik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/akdeniz_ilahiyat_seminerleri25-5794",
+   "gorsel": null
   },
   {
    "id": "6ccd45982ac4",
@@ -914,7 +946,7 @@
    "ad": "Akdeniz Üniversitesi",
    "tur": "universite",
    "url": "https://www.akdeniz.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

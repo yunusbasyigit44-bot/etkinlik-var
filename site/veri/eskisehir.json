@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-16T13:46+03:00",
+ "guncelleme": "2026-11-17T14:38+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -83,22 +83,6 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af41909d021f.jpg"
   },
   {
-   "id": "cdb1a7eed51c",
-   "baslik": "Hale Basmacıoğlu \"Barok Sınıf Konseri",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Konser ve Dinletiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/hale-basmacioglu-barok-sinif-konseri-1792481561",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afad8ddacda1.jpeg"
-  },
-  {
    "id": "6f2ca54f0927",
    "baslik": "18. Uluslararası Anadolu Kaligrafi, Tipografi Festivali Çalıştayı",
    "tarih": "2026-11-17",
@@ -128,7 +112,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/mezunumuz-mutfakta-1794295379",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af2c6368d4ec.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afaf1669bfe7.jpg"
   },
   {
    "id": "92a868ad31c2",
@@ -176,7 +160,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/temel-is-sagligi-ve-guvenligi-egitimi-1790938995",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8f563fde6.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afafa5257cdf.jpg"
   },
   {
    "id": "2ce71301a2af",
@@ -192,7 +176,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/losev-tanitim-ve-farkindalik-semineri-1794210767",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17bbe4f246.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afafa78413c1.jpg"
   },
   {
    "id": "ea2788173ebf",
@@ -208,7 +192,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/turuncu-kurdele-atolyesi-etkinligi-1794210702",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17b624f4c5.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afafacb2bde3.jpg"
   },
   {
    "id": "e2763711d1cd",
@@ -224,7 +208,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/prof-hideki-kozakura-beyond-silence-bbyond-mozart-and-ambient-works-konseri-1792481667",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad7196b03ca1.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afafaad58ce7.jpg"
   },
   {
    "id": "bec96baa9b8f",
@@ -353,6 +337,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/turkce-alternatif-destekleyici-iletisim-sistemi-tadis-egitimi-1794565292",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e487e3c8b.jpg"
+  },
+  {
+   "id": "ec246b68721f",
+   "baslik": "Bir İdik Bin Olduk Edebiyat Çalışmaları 2\" İmza Töreni",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": "İmza Günleri",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/bir-idik-bin-olduk-edebiyat-calismalari-2-imza-toreni-1794834809",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afb01749e827.jpg"
   },
   {
    "id": "7bb12a3f17ff",

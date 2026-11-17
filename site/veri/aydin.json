@@ -1,6 +1,6 @@
 {
  "il": "aydin",
- "guncelleme": "2026-11-16T13:39+03:00",
+ "guncelleme": "2026-11-17T14:31+03:00",
  "ilceler": [
   "Efeler",
   "Bozdoğan",
@@ -132,6 +132,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://haber.adu.edu.tr/etkinlik/surec-yonetimi-ve-iyilestirme-sureclerin-tanimlanmasi-performans-olcumu-ve-yonetimi-2000148662",
    "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261103160458-MDE67AY1H2XGE22T3RO1-000022029664360813882154.jpeg"
+  },
+  {
+   "id": "26f0b6818662",
+   "baslik": "Ulusal Staj Programı 2027",
+   "tarih": "2026-12-08",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Efeler",
+   "mekan": "Atatürk Kongre Merkezi Yörük Ali Efe Salonu",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "Bilgilendirme Semineri",
+   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/ulusal-staj-programi-2027-2000148802",
+   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261116161858-I95O959CN2B29HNAT292-000002452318824945251846.jpeg"
   },
   {
    "id": "7bf0af490bde",
@@ -363,7 +379,7 @@
    "ad": "Aydın Adnan Menderes Üniversitesi",
    "tur": "universite",
    "url": "https://haber.adu.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 21,
+   "etkinlik_sayisi": 22,
    "durum": "çalışıyor"
   },
   {

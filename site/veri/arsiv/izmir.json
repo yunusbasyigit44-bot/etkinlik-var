@@ -1,5 +1,37 @@
 [
  {
+  "id": "2ee63b067979",
+  "baslik": "Aziz Vukolos'ta Akustik Günler",
+  "tarih": "2026-11-16",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Konak",
+  "mekan": "Aziz Vukolos Kilisesi Kültür Merkezi (Ayavukla Kilisesi)",
+  "kategori": "Konser",
+  "ucretsiz": null,
+  "ozet": null,
+  "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+  "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-19/3c4fadb6-3c09-4d60-a6cc-8c2820ce0515-4pjtsjw1.jpg"
+ },
+ {
+  "id": "0f9f8c29916d",
+  "baslik": "Bir Tenor Aranıyor",
+  "tarih": "2026-11-16",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Bornova",
+  "mekan": "Bornova Kültür ve Sanat Merkezi Necdet Aydın Salonu",
+  "kategori": "Opera & Bale",
+  "ucretsiz": false,
+  "ozet": "Devlet Opera ve Balesi",
+  "kaynak_ad": "Devlet Opera ve Balesi",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://biletinial.com/opera-bale/bir-tenor-araniyor-izmir-dob",
+  "gorsel": null
+ },
+ {
   "id": "305e920254ee",
   "baslik": "Kırmızı Kanatlı Baykuş",
   "tarih": "2026-11-15",

@@ -1,6 +1,6 @@
 {
  "il": "istanbul",
- "guncelleme": "2026-11-16T13:49+03:00",
+ "guncelleme": "2026-11-17T14:41+03:00",
  "ilceler": [
   "Adalar",
   "Arnavutköy",
@@ -108,102 +108,6 @@
    "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/yillarin-icinden-a7585294-5747-4961-a2bf-b2dc1ee2eff6.jpg"
   },
   {
-   "id": "f4ca8ca9acf4",
-   "baslik": "Sermet Erkin - Çocuklar İçin İnteraktif İllüzyon",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Kadıköy",
-   "mekan": "Barış Manço Kültür Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Efsane illüzyonist Sermet Erkin, Türkiye'de bugüne kadar 4500'den fazla kez sahnelenen interaktif illüzyonu sergilemeye devam ediyor.",
-   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/sermet-erkin-cocuklar-icin-interaktif-illuzyon-16-11-26-13-00",
-   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/sermet-erkin-4d98719e-2dcb-4e20-9585-b477994aab9c.jpg"
-  },
-  {
-   "id": "41d92e10ac41",
-   "baslik": "Sermet Erkin - Çocuklar İçin İnteraktif İllüzyon",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Kadıköy",
-   "mekan": "Barış Manço Kültür Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Efsane illüzyonist Sermet Erkin, Türkiye'de bugüne kadar 4500'den fazla kez sahnelenen interaktif illüzyonu sergilemeye devam ediyor.",
-   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/sermet-erkin-cocuklar-icin-interaktif-illuzyon-16-11-26-15-00",
-   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/sermet-erkin-1113f582-b77c-4082-aec9-2dd4eabc05dc.jpg"
-  },
-  {
-   "id": "bda68477a119",
-   "baslik": "ADK İstanbul Gençlik Orkestrası",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Kadıköy",
-   "mekan": "Süreyya Operası",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "ADK İstanbul Gençlik Orkestrası, Kasım konserinde Wolfgang Amadeus Mozart’ın farklı dönemlerinden üç eseri aynı programda buluşturuyor. Solist: Michaela Špačková (fagot)",
-   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/adk-istanbul-genclik-orkestrasi-16-11-26",
-   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/adk-istanbul-genclik-orkestrasi-16-11-26-3c08a20e-149e-48b7-91fb-46437582bde6.jpg"
-  },
-  {
-   "id": "9b4a47debd10",
-   "baslik": "Kara Kız",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "20:30",
-   "ilce": "Kadıköy",
-   "mekan": "Caddebostan Kültür Merkezi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Ecem Erkek’in yazıp oynadığı tek kişilik şarkılı oyun Kara Kız, 90’lı yıllarda geleneksel bir ailede büyüyen bir kızın hikayesi.",
-   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/kara-kiz-16-11-26",
-   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/kara-kiz-41eb5c23-0c23-4be1-9b03-f9f24b6a1353.jpg"
-  },
-  {
-   "id": "ebb7ac7c57ad",
-   "baslik": "Miss Turkey",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "20:30",
-   "ilce": "Kadıköy",
-   "mekan": "Caddebostan Kültür Merkezi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Miss Turkey bizi Miss Turkey olan kadınların hikayesine davet ediyor, hem oyunculuk, hem de seyir zevki anlamında farklı bir deneyim yaşama vaadi taşıyor. Bu vaat son yılların etkili oyuncularından Ece Özdikici’nin samim…",
-   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/miss-turkey-16-11-26",
-   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/miss-turkey-f4436fba-ab01-42db-87e5-a0cacba7fb0e.jpg"
-  },
-  {
-   "id": "64f28a2fa68a",
-   "baslik": "Sevgi Bahçesi",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Kadıköy",
-   "mekan": "Barış Manço Kültür Merkezi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Oyunumuz pedagog onaylıdır.",
-   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/sevgi-bahcesi-17-11-26-13-00",
-   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/sevgi-bahcesi-c5d708dc-41eb-436e-bbd1-c53eb2df14dc.jpg"
-  },
-  {
    "id": "2bac771567f9",
    "baslik": "Sevgi Bahçesi",
    "tarih": "2026-11-17",
@@ -234,6 +138,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/khalkedondan-olymposa-mitlerin-izinde-5-11-26",
    "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/khalkedondan-olymposa-mitlerin-izinde-bd3ad7ec-1a9e-44af-95fc-1b6ede7f6fdb.jpg"
+  },
+  {
+   "id": "97e1c327bb6a",
+   "baslik": "Tarih Bilinci Ve Toplumsal Hafıza",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Kadıköy",
+   "mekan": "Kozyatağı Kültür Merkezi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Anadolu Aydınlanma Vakfı, 2026-2027 sezonuna her hafta farklı konukların yer alacağı “Tarih Bilinci Ve Toplumsal Hafıza\" seminerleri ile devam ediyor.",
+   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/tarih-bilinci-ve-toplumsal-hafiza-17-11-26",
+   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/tarih-bilinci-ve-toplumsal-hafiza-96184eb4-2d90-4787-90e5-8ab0efc2f7c5.jpg"
   },
   {
    "id": "a9bb3dfb3f94",
@@ -268,6 +188,38 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/1daad6a2520e4fbda1ee0e2cf344e9f0.jpg"
   },
   {
+   "id": "e55445df4f13",
+   "baslik": "Devrimden Önce",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Kadıköy",
+   "mekan": "Sinematek/Sinema Evi",
+   "kategori": "Sinema",
+   "ucretsiz": true,
+   "ozet": "İtalya sinemasının en önemli yönetmenlerinden Bernardo Bertolucci’nin henüz 22 yaşındayken çektiği erken dönem başyapıtı Devrimden Önce, genç bir Marksistin, politik kimlik arayışı ile kopamadığı burjuva yaşamı arasındak…",
+   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/devrimden-once-17-11-26",
+   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/devrimden-once-d095e697-67b6-47c7-b75e-b5c13fdd8c21.jpg"
+  },
+  {
+   "id": "3e43bd5b8b6d",
+   "baslik": "Musica Poetica - Puşkin Akşamı",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Kadıköy",
+   "mekan": "Süreyya Operası",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Puşkin yalnızca Rus şiirinin en büyük isimlerinden biri değil, kendisinden sonra gelen kuşakların hayal dünyasına sızmayı başarmış büyük bir anlatıcıdır. Rus romantizminin büyük bestecileri onun kelimelerinde kendi müzik…",
+   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/musica-poetica-puskin-aksami-17-11-26",
+   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/musica-poetica-puskin-aksami-751a55d7-c997-4ef4-a2c9-5aaf9cee4969.jpg"
+  },
+  {
    "id": "b0f35cf17000",
    "baslik": "Rumuz Goncagül",
    "tarih": "2026-11-17",
@@ -282,6 +234,38 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/rumuz-goncagul",
    "gorsel": "veri/gorsel/dt-rumuz-goncagul.jpg"
+  },
+  {
+   "id": "7976cb98c96c",
+   "baslik": "10 Kişiydiler",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "20:30",
+   "ilce": "Kadıköy",
+   "mekan": "Barış Manço Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": "Agatha Christie’nin eserinden uyarlanan 10 Kişiydiler, birbirini tanımayan on kişinin ıssız bir adaya davet edilmesiyle başlayan gizemli olayları konu alan bir polisiye tiyatro oyunudur. Ücretsiz",
+   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/10-kisiydiler-17-11-26",
+   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/10-kisiydiler-120bcb7c-5323-45cf-b6ac-29404a3e41e6.jpg"
+  },
+  {
+   "id": "2a47a50957eb",
+   "baslik": "Kel Diva",
+   "tarih": "2026-11-17",
+   "bitis": null,
+   "saat": "20:30",
+   "ilce": "Kadıköy",
+   "mekan": "Caddebostan Kültür Merkezi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eugène Ionesco’nun, eşsiz kaleminden çıkan soyutlama ve absürdizmin kusursuz bir şekilde harmanlandığı bu oyun; Kel Diva adıyla bu sezon Oyun Atölyesi’nde, isn't it?",
+   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/kel-diva-17-11-26",
+   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/kel-diva-ef30a7ac-546c-40d7-bc0b-04b2402f81fa.jpg"
   },
   {
    "id": "e79a3bbe716b",
@@ -474,6 +458,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/savas-ve-baris",
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/7869e7fb92e94504921a25407e7421bb.jpg"
+  },
+  {
+   "id": "083e2c8d3448",
+   "baslik": "Gülistan, Gül Bahçesi Yani",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Kadıköy",
+   "mekan": "Caddebostan Kültür Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Kendim benden habersiz bir yerlere gitmiş olamaz dedim! Haber verir en azından… Sonra aklıma düştü bu şak diye, ya dedim kendim benden habersiz, yani kendiliğinden gidip de bi işlere kalkışıyorsa? O zaman bu bi kalkışma …",
+   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/gulistan-gul-bahcesi-yani-18-11-26",
+   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/gulistan-gul-bahcesi-yani-a49fc6b0-08b5-4a15-88c0-a127b1db4252.jpg"
   },
   {
    "id": "50ec0d63c527",
@@ -1164,6 +1164,22 @@
    "gorsel": "veri/gorsel/dt-oh-ne-ala-memleket.webp"
   },
   {
+   "id": "e84d5b3dde0f",
+   "baslik": "IEEE Türkiye AP/MTT/EMC/ED Joint Chapter ve IEEE Türkiye AP-S Chapter kapsamında düzenlenen çevrimiçi seminer",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Sarıyer",
+   "mekan": "İstanbul Teknik Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Safran Electrical & Power bünyesinde kıdemli elektromanyetik uyumluluk uzmanı ve IEEE EMC Society Distinguished Lecturer olarak görev yapan Dr. Charles Jullien, “Transfer Impedance Measurement: From Simple to Complex Set…",
+   "kaynak_ad": "İstanbul Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.itu.edu.tr/EtkinlikDetay.aspx?etkinlik=2672",
+   "gorsel": "https://etkinlik.itu.edu.tr/uploads/etkinlik/aa7ecd56-d1c3-4ea9-aaa1-8801ea84cdb4.png"
+  },
+  {
    "id": "b6154652b9ca",
    "baslik": "Tehlikeli Saplantı",
    "tarih": "2026-11-24",
@@ -1228,6 +1244,22 @@
    "gorsel": "veri/gorsel/dt-insandan-kacan.jpg"
   },
   {
+   "id": "e05ddf3a4f9d",
+   "baslik": "Cadı Kazanı",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/cadi-kazani",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/1daad6a2520e4fbda1ee0e2cf344e9f0.jpg"
+  },
+  {
    "id": "c04a3875f3f2",
    "baslik": "Tehlikeli Saplantı",
    "tarih": "2026-11-25",
@@ -1242,6 +1274,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/tehlikeli-saplanti",
    "gorsel": "veri/gorsel/dt-tehlikeli-saplanti.webp"
+  },
+  {
+   "id": "8d5d28d84374",
+   "baslik": "Cadı Kazanı",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/cadi-kazani",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/1daad6a2520e4fbda1ee0e2cf344e9f0.jpg"
   },
   {
    "id": "ab46a405ec04",
@@ -1276,6 +1324,22 @@
    "gorsel": "https://etkinlik.itu.edu.tr/uploads/etkinlik/498f320f-4ad7-4017-81c2-2aba5087a549.png"
   },
   {
+   "id": "652533963b35",
+   "baslik": "Prof. Dr. Erdem Topsakal – IEEE Semineri | 26 Kasım 2026",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Sarıyer",
+   "mekan": "İstanbul Teknik Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "IEEE Türkiye AP/MTT/EMC/ED Joint Chapter ve IEEE Türkiye AP-S Chapter kapsamında düzenlenen seminerimize davetlisiniz. Virginia Commonwealth University öğretim üyesi ve İTÜ mezunu Prof. Dr. Erdem Topsakal, “Intelligence …",
+   "kaynak_ad": "İstanbul Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.itu.edu.tr/EtkinlikDetay.aspx?etkinlik=2673",
+   "gorsel": "https://etkinlik.itu.edu.tr/uploads/etkinlik/f3a941d4-48c4-48af-b2a6-5a120063d847.png"
+  },
+  {
    "id": "988762a0781c",
    "baslik": "Tehlikeli Saplantı",
    "tarih": "2026-11-26",
@@ -1306,6 +1370,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/edusa-idob-akm",
    "gorsel": "veri/gorsel/dob-2-3263.webp"
+  },
+  {
+   "id": "bf0c3b12ab93",
+   "baslik": "Cadı Kazanı",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/cadi-kazani",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/1daad6a2520e4fbda1ee0e2cf344e9f0.jpg"
   },
   {
    "id": "a81433d2689d",
@@ -1340,6 +1420,22 @@
    "gorsel": "veri/gorsel/dt-tehlikeli-saplanti.webp"
   },
   {
+   "id": "b852604545ec",
+   "baslik": "Cadı Kazanı",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/cadi-kazani",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/1daad6a2520e4fbda1ee0e2cf344e9f0.jpg"
+  },
+  {
    "id": "9ead81bf7b85",
    "baslik": "İnsandan Kaçan",
    "tarih": "2026-11-27",
@@ -1372,6 +1468,22 @@
    "gorsel": "veri/gorsel/dt-masal-yolu.jpg"
   },
   {
+   "id": "6b1ec0fbe006",
+   "baslik": "Cadı Kazanı",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/cadi-kazani",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/1daad6a2520e4fbda1ee0e2cf344e9f0.jpg"
+  },
+  {
    "id": "12570651a12a",
    "baslik": "İnsandan Kaçan",
    "tarih": "2026-11-28",
@@ -1402,6 +1514,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/tehlikeli-saplanti",
    "gorsel": "veri/gorsel/dt-tehlikeli-saplanti.webp"
+  },
+  {
+   "id": "fd06d84cd40f",
+   "baslik": "Cadı Kazanı",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Musahipzade Celal Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/cadi-kazani",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/1daad6a2520e4fbda1ee0e2cf344e9f0.jpg"
   },
   {
    "id": "631507bd9ec2",
@@ -1452,8 +1580,8 @@
    "gorsel": "veri/gorsel/dt-masal-yolu.jpg"
   },
   {
-   "id": "f93b2d66e2ee",
-   "baslik": "Şerefe!",
+   "id": "63694de7e255",
+   "baslik": "Hepyek",
    "tarih": "2026-12-01",
    "bitis": null,
    "saat": "18:00",
@@ -1464,8 +1592,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/serefe",
-   "gorsel": "veri/gorsel/dt-serefe.webp"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hepyek",
+   "gorsel": "veri/gorsel/dt-hepyek.jpg"
   },
   {
    "id": "4250b14b5f2f",
@@ -1532,8 +1660,8 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/117d2b469cd54f0abf731fb32b73959f.jpeg"
   },
   {
-   "id": "15bcc64bc5e6",
-   "baslik": "Şerefe!",
+   "id": "cc51712ba463",
+   "baslik": "Hepyek",
    "tarih": "2026-12-02",
    "bitis": null,
    "saat": "18:00",
@@ -1544,8 +1672,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/serefe",
-   "gorsel": "veri/gorsel/dt-serefe.webp"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hepyek",
+   "gorsel": "veri/gorsel/dt-hepyek.jpg"
   },
   {
    "id": "7714eaffe1f4",
@@ -1628,8 +1756,8 @@
    "gorsel": "veri/gorsel/dt-carpisma.jpg"
   },
   {
-   "id": "8cdbc676cdc0",
-   "baslik": "Şerefe!",
+   "id": "a3772009d54e",
+   "baslik": "Hepyek",
    "tarih": "2026-12-03",
    "bitis": null,
    "saat": "18:00",
@@ -1640,8 +1768,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/serefe",
-   "gorsel": "veri/gorsel/dt-serefe.webp"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hepyek",
+   "gorsel": "veri/gorsel/dt-hepyek.jpg"
   },
   {
    "id": "18c8fc0c0064",
@@ -1740,8 +1868,8 @@
    "gorsel": "veri/gorsel/dt-sumud-gazze.webp"
   },
   {
-   "id": "05c8a2ffc064",
-   "baslik": "Şerefe!",
+   "id": "af27c6e52675",
+   "baslik": "Hepyek",
    "tarih": "2026-12-04",
    "bitis": null,
    "saat": "18:00",
@@ -1752,8 +1880,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/serefe",
-   "gorsel": "veri/gorsel/dt-serefe.webp"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hepyek",
+   "gorsel": "veri/gorsel/dt-hepyek.jpg"
   },
   {
    "id": "b51c3443ad17",
@@ -1980,8 +2108,8 @@
    "gorsel": "veri/gorsel/dt-gergedanlar.jpg"
   },
   {
-   "id": "3db22af8afe8",
-   "baslik": "Şerefe!",
+   "id": "91b10e642750",
+   "baslik": "Hepyek",
    "tarih": "2026-12-05",
    "bitis": null,
    "saat": "18:00",
@@ -1992,8 +2120,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/serefe",
-   "gorsel": "veri/gorsel/dt-serefe.webp"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/hepyek",
+   "gorsel": "veri/gorsel/dt-hepyek.jpg"
   },
   {
    "id": "192f85f9e20b",
@@ -2122,6 +2250,86 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/oh-ne-ala-memleket",
    "gorsel": "veri/gorsel/dt-oh-ne-ala-memleket.webp"
+  },
+  {
+   "id": "9ba168f8f850",
+   "baslik": "Cadı Kazanı",
+   "tarih": "2026-12-09",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Kağıthane",
+   "mekan": "Kağıthane Sadabad Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/cadi-kazani",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/1daad6a2520e4fbda1ee0e2cf344e9f0.jpg"
+  },
+  {
+   "id": "81a0d911ab6b",
+   "baslik": "Cadı Kazanı",
+   "tarih": "2026-12-10",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Kağıthane",
+   "mekan": "Kağıthane Sadabad Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/cadi-kazani",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/1daad6a2520e4fbda1ee0e2cf344e9f0.jpg"
+  },
+  {
+   "id": "b9cb810b3447",
+   "baslik": "Cadı Kazanı",
+   "tarih": "2026-12-11",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Kağıthane",
+   "mekan": "Kağıthane Sadabad Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/cadi-kazani",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/1daad6a2520e4fbda1ee0e2cf344e9f0.jpg"
+  },
+  {
+   "id": "ff655af5b6c3",
+   "baslik": "Cadı Kazanı",
+   "tarih": "2026-12-12",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Kağıthane",
+   "mekan": "Kağıthane Sadabad Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/cadi-kazani",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/1daad6a2520e4fbda1ee0e2cf344e9f0.jpg"
+  },
+  {
+   "id": "4cea02190cb1",
+   "baslik": "Cadı Kazanı",
+   "tarih": "2026-12-12",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Kağıthane",
+   "mekan": "Kağıthane Sadabad Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/cadi-kazani",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/1daad6a2520e4fbda1ee0e2cf344e9f0.jpg"
   },
   {
    "id": "60c3fe97d20f",
@@ -2561,7 +2769,7 @@
    "ad": "İBB Şehir Tiyatroları",
    "tur": "belediye",
    "url": "https://sehirtiyatrolari.ibb.istanbul",
-   "etkinlik_sayisi": 86,
+   "etkinlik_sayisi": 97,
    "durum": "çalışıyor"
   },
   {
@@ -2589,7 +2797,7 @@
    "ad": "İstanbul Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.itu.edu.tr",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

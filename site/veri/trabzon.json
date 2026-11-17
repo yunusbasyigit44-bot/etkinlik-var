@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-16T14:00+03:00",
+ "guncelleme": "2026-11-17T14:52+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -39,38 +39,6 @@
    "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/11/f7ce0e3d-bde4-4b7b-a69d-4d9ac79c11f4.jpeg"
   },
   {
-   "id": "e1332c0920fb",
-   "baslik": "Network to Projects: Next Steps for Black Sea Cooperation",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Ortahisar",
-   "mekan": "Antalya",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/tr/etkinlik/network-to-projects-next-steps-for-black-sea-cooperation",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/tr_d3f4571ed72e.jpg"
-  },
-  {
-   "id": "d16c413728be",
-   "baslik": "Afet ve Acil Durum Eczacılığı",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Ortahisar",
-   "mekan": "Radyo/TV",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/afet-ve-acil-durum-eczaciligi",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_f0219adfd71d.jpg"
-  },
-  {
    "id": "f6194d320883",
    "baslik": "Sıradan Kasabası",
    "tarih": "2026-11-17",
@@ -85,6 +53,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siradan-kasabasi",
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
+  },
+  {
+   "id": "3afaa3a2e3f6",
+   "baslik": "3. Doğu Karadeniz Fizyoterapi Günleri",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Ortahisar",
+   "mekan": "Prof. Dr. Osman Turan Kültür ve Kongre Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/sbffizyoterapi/etkinlik/3-dogu-karadeniz-fizyoterapi-gunleri",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/qdZW4T.jpg"
   },
   {
    "id": "f615125bb8f6",
@@ -183,11 +167,11 @@
    "gorsel": "veri/gorsel/dt-julius-caesar.webp"
   },
   {
-   "id": "4e5956afbfef",
+   "id": "20be8267cfd7",
    "baslik": "Mezunlar Derneği Lansmanı ve Mezunlar Paneli",
    "tarih": "2026-11-20",
    "bitis": null,
-   "saat": "13:00",
+   "saat": "14:00",
    "ilce": "Ortahisar",
    "mekan": "AKM (Reşit Tarakçıoğlu)",
    "kategori": "Söyleşi",
@@ -196,7 +180,7 @@
    "kaynak_ad": "Karadeniz Teknik Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ktu.edu.tr/dents/etkinlik/mezunlar-dernegi-lansmani-ve-mezunlar-paneli",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/QcPGHO.jpg"
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/KAhpbQ.jpg"
   },
   {
    "id": "1df98e2d263f",
@@ -293,6 +277,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siradan-kasabasi",
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
+  },
+  {
+   "id": "96ab0254b4ca",
+   "baslik": "Yapay Zekâ Çağında Öğretmen Olmak: Değişen Roller, Değişmeyen Değerler",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/yapay-zeka-caginda-ogretmen-olmak-degisen-roller-degismeyen-degerler",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_010de99fe607.jpeg"
   },
   {
    "id": "dc9bf9a46137",

@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-16T13:36+03:00",
+ "guncelleme": "2026-11-17T14:27+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -53,38 +53,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261027141418_ekimgecidi_afis.jpeg"
-  },
-  {
-   "id": "f07bb413d422",
-   "baslik": "NVivo ile Araştırma/Yayın Odaklı Pratik İçerik Analizi ve R’da Veri Görselleştirme",
-   "tarih": "2026-11-15",
-   "bitis": "2026-11-16",
-   "saat": "09:05",
-   "ilce": "Merkez",
-   "mekan": "Enformatik",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim Programı · Sürekli̇ Eği̇ti̇m Uygulama Ve Araştirma Merkezi̇",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261012171006_volkan_1.jpeg"
-  },
-  {
-   "id": "8f90d74402c2",
-   "baslik": "Hizmet İçi Eğitim (Ön Mali Kontrol İşlemleri)",
-   "tarih": "2026-11-16",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Zoom",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim Programı · Personel Dai̇re Başkanliği",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": null
   },
   {
    "id": "430ea86ad1f5",
@@ -396,7 +364,7 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 23,
+   "etkinlik_sayisi": 21,
    "durum": "çalışıyor"
   },
   {

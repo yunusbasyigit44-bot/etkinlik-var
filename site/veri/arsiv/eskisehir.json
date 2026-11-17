@@ -1,5 +1,21 @@
 [
  {
+  "id": "cdb1a7eed51c",
+  "baslik": "Hale Basmacıoğlu \"Barok Sınıf Konseri",
+  "tarih": "2026-11-16",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Tepebaşı",
+  "mekan": "Anadolu Üniversitesi",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": "Konser ve Dinletiler",
+  "kaynak_ad": "Anadolu Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/hale-basmacioglu-barok-sinif-konseri-1792481561",
+  "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afad8ddacda1.jpeg"
+ },
+ {
   "id": "1ab41eb2943d",
   "baslik": "Cadı Kazanı",
   "tarih": "2026-11-15",

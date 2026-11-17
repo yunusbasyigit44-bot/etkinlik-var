@@ -1,5 +1,21 @@
 [
  {
+  "id": "34e6cfeffbed",
+  "baslik": "10 Kasım Gazi Mustafa Kemal Atatürk'ü Anma Programı",
+  "tarih": "2026-11-16",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Yozgat Bozok Üniversitesi",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Yozgat Bozok Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4275",
+  "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/81a22eae.png"
+ },
+ {
   "id": "47b94a666a8f",
   "baslik": "Coffee Talks",
   "tarih": "2026-11-12",

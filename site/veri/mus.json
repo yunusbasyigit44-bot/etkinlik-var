@@ -1,6 +1,6 @@
 {
  "il": "mus",
- "guncelleme": "2026-11-16T13:57+03:00",
+ "guncelleme": "2026-11-17T14:49+03:00",
  "ilceler": [
   "Merkez",
   "Bulanık",
@@ -11,9 +11,9 @@
  ],
  "etkinlikler": [
   {
-   "id": "439ba7d453ea",
-   "baslik": "Türkiye-Çin Ticari İlişkilerinin Yapısı",
-   "tarih": "2026-11-16",
+   "id": "71ef8442b9f8",
+   "baslik": "5'te 5",
+   "tarih": "2026-11-17",
    "bitis": null,
    "saat": null,
    "ilce": "Merkez",
@@ -23,8 +23,8 @@
    "ozet": null,
    "kaynak_ad": "Muş Alparslan Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/turkiye-cin-ticari-iliskilerinin-yapisi-9697",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1794823573.jpg"
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/5te-5-9703",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1794835524.jpg"
   },
   {
    "id": "be0fe8549798",
@@ -43,6 +43,38 @@
    "gorsel": "https://www.alparslan.edu.tr/images/event/1794401245.jpg"
   },
   {
+   "id": "4596ebe40b9a",
+   "baslik": "Nizâmiye Sohbetleri-39",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/nizamiye-sohbetleri-39-9706",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1794910620.jpg"
+  },
+  {
+   "id": "27651d4d7ea6",
+   "baslik": "Malazgirt'i Yeniden Keşfetmek",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/malazgirti-yeniden-kesfetmek-9699",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1794829613.jpg"
+  },
+  {
    "id": "9f448ae5f732",
    "baslik": "İlişkinin Bilimi Ailenin Gücü",
    "tarih": "2026-11-23",
@@ -57,6 +89,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.alparslan.edu.tr/page/event/iliskinin-bilimi-ailenin-gucu-9684",
    "gorsel": "https://www.alparslan.edu.tr/images/event/1794472471.jpg"
+  },
+  {
+   "id": "5ce0ebbebbe5",
+   "baslik": "Yöresel Kültür Tanıtımı",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/yoresel-kultur-tanitimi-9701",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1794830737.jpg"
   },
   {
    "id": "2f49f8677ec9",
@@ -80,7 +128,7 @@
    "ad": "Muş Alparslan Üniversitesi",
    "tur": "universite",
    "url": "https://www.alparslan.edu.tr/tr/page/event",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {
