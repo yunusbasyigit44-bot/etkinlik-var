@@ -1,6 +1,6 @@
 {
  "il": "mersin",
- "guncelleme": "2026-11-17T14:39+03:00",
+ "guncelleme": "2026-11-18T14:42+03:00",
  "ilceler": [
   "Akdeniz",
   "Anamur",
@@ -32,22 +32,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/mersin-universitesi-uluslararasi-ogrenciler-futbol-turnuvasi-n-10001823",
    "gorsel": "https://cdn.mersin.edu.tr/public/renditions/e530e502-b90d-4f92-9bbf-87211c3e9e48/e7fa07a0-786e-4e43-ab7c-2a2fd624fe58/c878e522-6f0b-418a-8c4d-88218c47f9f4/1280-31e38789056333928040a33f95cdd1195a50af91ecc072807e457170f8ca5075.webp"
-  },
-  {
-   "id": "fecb61aad33b",
-   "baslik": "Romeo ve Julıet",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yenişehir",
-   "mekan": "Mersin Opera Büyük Sahne",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/romeo-juliet-mersin-dob",
-   "gorsel": "veri/gorsel/dob-4-3186.webp"
   },
   {
    "id": "491982573b54",
@@ -128,6 +112,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/dunya-dis-hekimligi-gunu-ve-beyaz-onluk-giyme-toreni-n-10001914",
    "gorsel": "https://cdn.mersin.edu.tr/public/renditions/83f0eb7c-7727-4cb2-beda-133c722f020c/378674f9-2d48-4803-a36b-19d6fcf45c79/202037df-6746-4a7f-8158-d8a97f5b0bf8/1280-c523df7a6eb0c5c1bada06ad622118c7db5c42ba03de694c6490397d04b25d5f.webp"
+  },
+  {
+   "id": "2de637e357bc",
+   "baslik": "Girişimci Liderlik Atölyesi",
+   "tarih": "2026-11-24",
+   "bitis": "2026-11-25",
+   "saat": "00:00",
+   "ilce": "Yenişehir",
+   "mekan": "Mersin Üniversitesi Prof. Dr. Uğur Oral Kültür Merkezi - C Salonu",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Öğrenci",
+   "kaynak_ad": "Mersin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/girisimci-liderlik-atolyesi-n-10001933",
+   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/cb56b1cb-21a3-418f-9284-3a523159b20a/31e32a31-4f64-470c-8dc1-ede014dfad17/354e63bd-01e5-45be-8d8f-09fd05ed57be/960-89780832a0192c0e637d522e0a5fa31d90c34a593007ea3a16e6673438696da7.webp"
   },
   {
    "id": "e3d9bb1c4c83",
@@ -231,14 +231,14 @@
    "ad": "Devlet Opera ve Balesi",
    "tur": "kultur",
    "url": "https://www.operabale.gov.tr",
-   "etkinlik_sayisi": 8,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 7,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Mersin Üniversitesi",
    "tur": "universite",
    "url": "https://www.mersin.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {
@@ -288,7 +288,7 @@
    "tur": "kultur",
    "url": "https://mersin.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

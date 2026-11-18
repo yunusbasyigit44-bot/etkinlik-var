@@ -1,6 +1,6 @@
 {
  "il": "sinop",
- "guncelleme": "2026-11-17T14:51+03:00",
+ "guncelleme": "2026-11-18T15:12+03:00",
  "ilceler": [
   "Merkez",
   "Ayancık",
@@ -13,22 +13,6 @@
   "Türkeli"
  ],
  "etkinlikler": [
-  {
-   "id": "7beeea5e00c3",
-   "baslik": "COP31 Yeşil Bölge Katılım Programı",
-   "tarih": "2026-11-16",
-   "bitis": "2026-11-17",
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sinop Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Bilimsel Etkinlikler",
-   "kaynak_ad": "Sinop Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/cop31-yesil-bolge-katilim-programi/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/06/cop31.webp"
-  },
   {
    "id": "8678d3cbc1c8",
    "baslik": "SSCI/SCI Yayın Stratejileri Serisi-16 \"Dergiler İçin Araştırma Konusu Nasıl Bulunur\"",
@@ -131,7 +115,7 @@
    "ad": "Sinop Üniversitesi",
    "tur": "universite",
    "url": "https://www.sinop.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {
@@ -139,7 +123,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -181,7 +165,7 @@
    "tur": "kultur",
    "url": "https://sinop.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Yıllık festivaller (Sinop Uluslararası Kültür ve Sanat Festivali, Gerze Hamsi Festivali…)",

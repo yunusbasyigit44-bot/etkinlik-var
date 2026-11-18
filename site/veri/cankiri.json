@@ -1,6 +1,6 @@
 {
  "il": "cankiri",
- "guncelleme": "2026-11-17T14:33+03:00",
+ "guncelleme": "2026-11-18T14:23+03:00",
  "ilceler": [
   "Merkez",
   "Atkaracalar",
@@ -16,54 +16,6 @@
   "Yapraklı"
  ],
  "etkinlikler": [
-  {
-   "id": "94726c139e0c",
-   "baslik": "Kadına Yönelik Şiddetle Mücadele Eğitimi",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8740",
-   "gorsel": "https://medya.karatekin.edu.tr/users/haticepolat/etkinlik/20261106_213252_53bff388c5384045af57fd8210dc953a.png"
-  },
-  {
-   "id": "3b0896fba8a6",
-   "baslik": "\"Kariyer Günleri: Mezunlar ile Buluşuyoruz, Konuşmacı: Sema Şen\"",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8719",
-   "gorsel": "https://medya.karatekin.edu.tr/users/nurayakkol/etkinlik/20261103_122510_af0cd68885a34bf5a6361ef391941da9.jpeg"
-  },
-  {
-   "id": "2b5c3f53b05a",
-   "baslik": "Proje Hazırlama (Uluslararası Araştırma Ağlarından Ortak Projelere: Cost Aksiyonları ve TÜBİTAK 2515 Programı)",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8721",
-   "gorsel": null
-  },
   {
    "id": "547771f9e488",
    "baslik": "İş Sağlığı ve Güvenliği",
@@ -177,6 +129,22 @@
    "gorsel": null
   },
   {
+   "id": "a4e127f99f01",
+   "baslik": "Kompleks Dekonjestif Terapi: Lenfödem Rehabilitasyonunda Değerlendirme ve Uygulama Yaklaşımları",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8778",
+   "gorsel": "https://medya.karatekin.edu.tr/users/muzeyyenoz/etkinlik/20261113_175202_2264f51a8f164817b923229a64493457.png"
+  },
+  {
    "id": "b07e7268b875",
    "baslik": "Kadına Yönelik Şiddetle Mücadele Eğitimi",
    "tarih": "2026-11-23",
@@ -239,6 +207,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8735",
    "gorsel": "https://medya.karatekin.edu.tr/users/yusufziyaakbas/etkinlik/20261105_090027_8e8e72c774e34465a52386ca0d3ca3d1.jpg"
+  },
+  {
+   "id": "0f7a3d653f93",
+   "baslik": "Yükseköğretimde Mikro Yeterlilikler",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8786",
+   "gorsel": "https://medya.karatekin.edu.tr/users/yilmazayca/etkinlik/20261117_115543_6d743c533fa34c86a8790ca3a1a0b9d3.pdf"
   },
   {
    "id": "005d2c469247",
@@ -497,6 +481,22 @@
    "gorsel": "https://medya.karatekin.edu.tr/users/telat/etkinlik/20261026_100338_968cf875525e4bad93d1374627cf9c92.png"
   },
   {
+   "id": "87f064b2d114",
+   "baslik": "Tatlı Eller Güzel Kalpler Etkinliği",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8717",
+   "gorsel": "https://medya.karatekin.edu.tr/users/mustafatecimen/etkinlik/20261103_091226_681dc2a7a0d144198d7d6adaab949589.jpeg"
+  },
+  {
    "id": "efd827dedd00",
    "baslik": "Kariyer Günleri: Mesleki Paylaşımlar; Mesleğimiz, Geleceğimiz",
    "tarih": "2026-12-03",
@@ -751,6 +751,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8746",
    "gorsel": "https://medya.karatekin.edu.tr/users/gulsumconoglu/etkinlik/20261108_142849_df6b2a079417433abe32d0d73c53ee80.png"
+  },
+  {
+   "id": "9baa5c454728",
+   "baslik": "Dijital Bağımlılık",
+   "tarih": "2026-12-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8709",
+   "gorsel": "https://medya.karatekin.edu.tr/users/gulsumconoglu/etkinlik/20261029_102258_18af8fd94a7241bf963d8ecc085902f0.jpeg"
   }
  ],
  "kaynaklar": [
@@ -758,7 +774,7 @@
    "ad": "Çankırı Karatekin Üniversitesi",
    "tur": "universite",
    "url": "https://www.karatekin.edu.tr/tum-etkinlikler",
-   "etkinlik_sayisi": 46,
+   "etkinlik_sayisi": 47,
    "durum": "çalışıyor"
   },
   {
@@ -766,7 +782,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",
@@ -822,7 +838,7 @@
    "tur": "kultur",
    "url": "https://cankiri.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   }
  ]
 }

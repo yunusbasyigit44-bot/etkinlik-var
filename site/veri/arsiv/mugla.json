@@ -1,5 +1,21 @@
 [
  {
+  "id": "44756ce780fd",
+  "baslik": "Topraktan Hasada",
+  "tarih": "2026-11-17",
+  "bitis": null,
+  "saat": "16:30",
+  "ilce": "Menteşe",
+  "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/topraktan-hasada-4715",
+  "gorsel": null
+ },
+ {
   "id": "43cf8865b1c1",
   "baslik": "Yapay Zekayı Doğru Kullanmak: Okuldan İş Hayatına Pratik Ve Güvenli Rehber",
   "tarih": "2026-11-16",

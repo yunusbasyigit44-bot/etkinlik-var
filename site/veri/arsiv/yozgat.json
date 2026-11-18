@@ -1,5 +1,21 @@
 [
  {
+  "id": "4abad36c5cb6",
+  "baslik": "Kendini Tanı Sağlığını Koru",
+  "tarih": "2026-11-17",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Yozgat Bozok Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Yozgat Bozok Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4281",
+  "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/8313eaeb.jpg"
+ },
+ {
   "id": "34e6cfeffbed",
   "baslik": "10 Kasım Gazi Mustafa Kemal Atatürk'ü Anma Programı",
   "tarih": "2026-11-16",

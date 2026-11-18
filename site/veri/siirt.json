@@ -1,6 +1,6 @@
 {
  "il": "siirt",
- "guncelleme": "2026-11-17T14:50+03:00",
+ "guncelleme": "2026-11-18T15:11+03:00",
  "ilceler": [
   "Merkez",
   "Aydınlar",
@@ -18,7 +18,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -53,14 +53,14 @@
    "tur": "universite",
    "url": "https://www.siirt.edu.tr/etkinliktakvimi.html",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error timed out>"
   },
   {
    "ad": "Siirt İl Kültür ve Turizm Müdürlüğü",
    "tur": "kultur",
    "url": "https://siirt.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Yıllık festivaller (Siirt Fıstık Festivali, Siirt Kültür ve Turizm günleri…)",

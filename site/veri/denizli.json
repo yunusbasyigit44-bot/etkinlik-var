@@ -1,6 +1,6 @@
 {
  "il": "denizli",
- "guncelleme": "2026-11-17T14:33+03:00",
+ "guncelleme": "2026-11-18T14:25+03:00",
  "ilceler": [
   "Pamukkale",
   "Merkezefendi",
@@ -23,22 +23,6 @@
   "Tavas"
  ],
  "etkinlikler": [
-  {
-   "id": "6551458e69a7",
-   "baslik": "Roni'nin Zamanı",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Merkezefendi",
-   "mekan": "Merkezefendi Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Merkezefendi Belediyesi Kültür-Sanat",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlik.aspx?etkinlik=ZM490-2026-11-11-roninin-zamani",
-   "gorsel": "https://www.merkezefendi.bel.tr/kultursanat/Content/yuklemeler/etkinlikler/MO86T11-11-2026-8-RON%C4%B0.jpg"
-  },
   {
    "id": "1c371f3f43df",
    "baslik": "80 Günde Dünya Gezisi",
@@ -93,7 +77,7 @@
    "ad": "Merkezefendi Belediyesi Kültür-Sanat",
    "tur": "belediye",
    "url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlikler.aspx",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {
@@ -129,14 +113,14 @@
    "tur": "kultur",
    "url": "https://denizli.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

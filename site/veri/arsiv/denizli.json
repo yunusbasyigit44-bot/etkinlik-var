@@ -1,5 +1,21 @@
 [
  {
+  "id": "6551458e69a7",
+  "baslik": "Roni'nin Zamanı",
+  "tarih": "2026-11-17",
+  "bitis": null,
+  "saat": "14:30",
+  "ilce": "Merkezefendi",
+  "mekan": "Merkezefendi Kültür Merkezi",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Merkezefendi Belediyesi Kültür-Sanat",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlik.aspx?etkinlik=ZM490-2026-11-11-roninin-zamani",
+  "gorsel": "https://www.merkezefendi.bel.tr/kultursanat/Content/yuklemeler/etkinlikler/MO86T11-11-2026-8-RON%C4%B0.jpg"
+ },
+ {
   "id": "cadfa2a15364",
   "baslik": "II. Uluslararası Türk Dünyasında Kültürel Miras ve Aktarımı Sempozyumu",
   "tarih": "2026-11-12",

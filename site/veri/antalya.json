@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-17T14:30+03:00",
+ "guncelleme": "2026-11-18T14:12+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -152,86 +152,6 @@
    "gorsel": null
   },
   {
-   "id": "82df28edead4",
-   "baslik": "Üç Kedi Bir Dilek",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Muratpaşa",
-   "mekan": "H.i.k.m. Sanat Galerisi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/uc-kedi-bir-dilek",
-   "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
-  },
-  {
-   "id": "6851ddc2eaa1",
-   "baslik": "Kırmızı Cüce",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kirmizi-cuce",
-   "gorsel": "veri/gorsel/dt-kirmizi-cuce.jpg"
-  },
-  {
-   "id": "70b3db8a1120",
-   "baslik": "Çello Yıldızları ve Opera-bale Solistleri",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/cello-yildizlari-antalya-dob",
-   "gorsel": "veri/gorsel/dob-5-3302.webp"
-  },
-  {
-   "id": "bb9c6a3c04d6",
-   "baslik": "“İklim Hedeflerinden Enerji Gerçeğine” konulu Öğrenci Buluşması",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, B Blok Yavuz Tekelioğlu Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/%E2%80%9Ciklim_hedeflerinden_enerji_gercegine%E2%80%9D_konulu_ogrenci_bulusmasi-5792",
-   "gorsel": null
-  },
-  {
-   "id": "2fe29b80f26d",
-   "baslik": "Sağlık Bilimleri Fakültesi 'Etkinlik Duyurusu'",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Merkezi Derslikler A Blok Derslik 10",
-   "kategori": "Sağlık",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/saglik_bilimleri_fakultesi_etkinlik_duyurusu-5791",
-   "gorsel": null
-  },
-  {
    "id": "7b4ed9aa1a4d",
    "baslik": "Organ Nakli ve Organ Bağışı Konferansı",
    "tarih": "2026-11-18",
@@ -296,6 +216,38 @@
    "gorsel": null
   },
   {
+   "id": "1ec0b49719d5",
+   "baslik": "Yapay Arı Kolonisi (ABC) ve Çoklu-Ajan Yönetim Mimarisi Konferansı",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, B Blok Konferans Salonu’nda",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/yapay_ari_kolonisi_abc_ve_cokluajan_yonetim_mimarisi_konferansi_-5796",
+   "gorsel": null
+  },
+  {
+   "id": "18439209a745",
+   "baslik": "Güzel Sanatlar Fakültesi 'COP31 Kapsamında Farkındalık Sergisi'",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Olbia Sergi Salonu",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/guzel_sanatlar_fakultesi_cop31_kapsaminda_farkindalik_sergisi_-5795",
+   "gorsel": null
+  },
+  {
    "id": "5f9ef2b85366",
    "baslik": "Dünya Felsefe Günü : Prof. Dr. Ioanna KUÇURADİ anısına felsefeyle bakmak",
    "tarih": "2026-11-19",
@@ -357,6 +309,38 @@
    "kaynak_ad": "Akdeniz Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/akdeniz_ilahiyat_seminerleri25-5794",
+   "gorsel": null
+  },
+  {
+   "id": "1281cdeeb7e7",
+   "baslik": "4. Bilimsel Diş Hekimliği Sempozyumu",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Döşemealtı",
+   "mekan": "Antalya Bilim Üniversitesi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/4-bilimsel-dis-hekimligi-sempozyumu",
+   "gorsel": null
+  },
+  {
+   "id": "97a8a5e3ca56",
+   "baslik": "Diş Hekimliği Fakültesi Beyaz Önlük Giyme Töreni",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Döşemealtı",
+   "mekan": "Antalya Bilim Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/dis-hekimligi-fakultesi-beyaz-onluk-giyme-toreni-2",
    "gorsel": null
   },
   {
@@ -925,22 +909,22 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 28,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 26,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Antalya Bilim Üniversitesi",
    "tur": "universite",
    "url": "https://www.antalya.edu.tr/tr/etkinlik-takvimi",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Opera ve Balesi",
    "tur": "kultur",
    "url": "https://www.operabale.gov.tr",
-   "etkinlik_sayisi": 8,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 7,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Akdeniz Üniversitesi",
@@ -996,7 +980,7 @@
    "tur": "kultur",
    "url": "https://antalya.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

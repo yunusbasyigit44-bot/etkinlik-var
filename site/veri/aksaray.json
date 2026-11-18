@@ -1,6 +1,6 @@
 {
  "il": "aksaray",
- "guncelleme": "2026-11-17T14:54+03:00",
+ "guncelleme": "2026-11-18T15:25+03:00",
  "ilceler": [
   "Merkez",
   "Ağaçören",
@@ -29,22 +29,6 @@
    "gorsel": null
   },
   {
-   "id": "b6ffa14f3e55",
-   "baslik": "XIII. Genç Tarihçiler Öğrenci Sempozyumu",
-   "tarih": "2026-11-16",
-   "bitis": "2026-11-17",
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Fen Edebiyat Fakültesi Mine Nur Uysal Konferans Salonu",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Aksaray Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.aksaray.edu.tr/xiii--genc-tarihciler-ogrenci-sempozyumu",
-   "gorsel": null
-  },
-  {
    "id": "7809a1fff8c8",
    "baslik": "Özel Yetenekli Öğrencilerimizin Dikkatine",
    "tarih": "2026-11-17",
@@ -58,22 +42,6 @@
    "kaynak_ad": "Aksaray Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.aksaray.edu.tr/ozel-yetenekli-ogrencilerimizin-dikkatine",
-   "gorsel": null
-  },
-  {
-   "id": "27cc68b1ffbd",
-   "baslik": "Diksiyon ve Etkili İletişim",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Merkez",
-   "mekan": "Mühendislik Fakültesi Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Aksaray Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.aksaray.edu.tr/diksiyon-ve-etkili-iletisim",
    "gorsel": null
   },
   {
@@ -178,7 +146,7 @@
    "ad": "Aksaray Üniversitesi",
    "tur": "universite",
    "url": "https://www.aksaray.edu.tr/Etkinlik-takvimi",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {
@@ -200,14 +168,14 @@
    "tur": "kultur",
    "url": "https://aksaray.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

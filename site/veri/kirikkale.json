@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-17T14:54+03:00",
+ "guncelleme": "2026-11-18T15:28+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -13,6 +13,22 @@
   "Yahşihan"
  ],
  "etkinlikler": [
+  {
+   "id": "6f86c3777301",
+   "baslik": "Katil Kim",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10091",
+   "gorsel": null
+  },
   {
    "id": "d946e771dd5c",
    "baslik": "Kariyer Buluşması (Konya Çeltik Kaymakamı Hilal Buse Ünal)",
@@ -94,6 +110,22 @@
    "gorsel": null
   },
   {
+   "id": "da048e71827c",
+   "baslik": "VI. Geleneksel Tarih Bilgi Yarışması",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10093",
+   "gorsel": null
+  },
+  {
    "id": "f0d7f7911fea",
    "baslik": "Şiddetin Anatomisi ve Çözüm Yolları",
    "tarih": "2026-11-26",
@@ -115,7 +147,7 @@
    "ad": "Kırıkkale Üniversitesi",
    "tur": "universite",
    "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {
@@ -130,7 +162,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -144,7 +176,7 @@
    "tur": "belediye",
    "url": "https://www.kirikkale.bel.tr/?sayfa=etkinlikler",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error timed out>"
   },
   {
    "ad": "Kırıkkale Valiliği ve ilçe kaymakamlıkları",
@@ -158,7 +190,7 @@
    "tur": "kultur",
    "url": "https://kirikkale.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

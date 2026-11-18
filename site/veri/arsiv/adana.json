@@ -1,5 +1,37 @@
 [
  {
+  "id": "b16dac94fa4c",
+  "baslik": "Umudunu Yitirmeyen Sığırcık",
+  "tarih": "2026-11-17",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Seyhan",
+  "mekan": "Ramazanoğlu Fuaye Sahnesi",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları Adana",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/umudunu-yitirmeyen-sigircik",
+  "gorsel": null
+ },
+ {
+  "id": "075f083f9f7b",
+  "baslik": "39 Basamak",
+  "tarih": "2026-11-17",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Seyhan",
+  "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
+  "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791805830_47d3f205c8da2f0947a7.jpeg"
+ },
+ {
   "id": "e99fd7fa099d",
   "baslik": "SOIL QUALITY ASSESSMENT: PHYSICO-CHEMICAL, MICROBIOLOGICAL AND GENOTOXICITY PERSPECTIVES",
   "tarih": "2026-11-16",

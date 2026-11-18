@@ -1,6 +1,6 @@
 {
  "il": "mus",
- "guncelleme": "2026-11-17T14:49+03:00",
+ "guncelleme": "2026-11-18T15:03+03:00",
  "ilceler": [
   "Merkez",
   "Bulanık",
@@ -11,9 +11,9 @@
  ],
  "etkinlikler": [
   {
-   "id": "71ef8442b9f8",
-   "baslik": "5'te 5",
-   "tarih": "2026-11-17",
+   "id": "6cb357506dc3",
+   "baslik": "İletişimle Hayata Dokunmak",
+   "tarih": "2026-11-18",
    "bitis": null,
    "saat": null,
    "ilce": "Merkez",
@@ -23,8 +23,8 @@
    "ozet": null,
    "kaynak_ad": "Muş Alparslan Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/5te-5-9703",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1794835524.jpg"
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/iletisimle-hayata-dokunmak-9709",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1794918639.jpg"
   },
   {
    "id": "be0fe8549798",
@@ -59,6 +59,22 @@
    "gorsel": "https://www.alparslan.edu.tr/images/event/1794910620.jpg"
   },
   {
+   "id": "0f71a04ec955",
+   "baslik": "Dünya Çocuk Hakları Günü",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/dunya-cocuk-haklari-gunu-9707",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1794918494.jpg"
+  },
+  {
    "id": "27651d4d7ea6",
    "baslik": "Malazgirt'i Yeniden Keşfetmek",
    "tarih": "2026-11-18",
@@ -73,6 +89,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.alparslan.edu.tr/page/event/malazgirti-yeniden-kesfetmek-9699",
    "gorsel": "https://www.alparslan.edu.tr/images/event/1794829613.jpg"
+  },
+  {
+   "id": "43fa699a2795",
+   "baslik": "Doğumunun 500. Yılında Bâki Paneli",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/dogumunun-500-yilinda-baki-paneli-9708",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1794918566.jpg"
   },
   {
    "id": "9f448ae5f732",
@@ -128,7 +160,7 @@
    "ad": "Muş Alparslan Üniversitesi",
    "tur": "universite",
    "url": "https://www.alparslan.edu.tr/tr/page/event",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {
@@ -136,7 +168,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",
@@ -185,7 +217,7 @@
    "tur": "kultur",
    "url": "https://mus.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

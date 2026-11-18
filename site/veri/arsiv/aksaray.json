@@ -1,5 +1,21 @@
 [
  {
+  "id": "27cc68b1ffbd",
+  "baslik": "Diksiyon ve Etkili İletişim",
+  "tarih": "2026-11-17",
+  "bitis": null,
+  "saat": "14:30",
+  "ilce": "Merkez",
+  "mekan": "Mühendislik Fakültesi Konferans Salonu",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Aksaray Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.aksaray.edu.tr/diksiyon-ve-etkili-iletisim",
+  "gorsel": null
+ },
+ {
   "id": "5383b93dd634",
   "baslik": "Bağımlılıklarla Mücadelede Eğitimi",
   "tarih": "2026-11-16",
@@ -13,6 +29,22 @@
   "kaynak_ad": "Aksaray Üniversitesi",
   "kaynak_tur": "universite",
   "kaynak_url": "https://www.aksaray.edu.tr/bagimliliklarla-mucadelede-egitimi",
+  "gorsel": null
+ },
+ {
+  "id": "b6ffa14f3e55",
+  "baslik": "XIII. Genç Tarihçiler Öğrenci Sempozyumu",
+  "tarih": "2026-11-16",
+  "bitis": "2026-11-17",
+  "saat": "10:00",
+  "ilce": "Merkez",
+  "mekan": "Fen Edebiyat Fakültesi Mine Nur Uysal Konferans Salonu",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Aksaray Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.aksaray.edu.tr/xiii--genc-tarihciler-ogrenci-sempozyumu",
   "gorsel": null
  },
  {

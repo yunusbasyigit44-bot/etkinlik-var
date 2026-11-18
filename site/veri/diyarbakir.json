@@ -1,6 +1,6 @@
 {
  "il": "diyarbakir",
- "guncelleme": "2026-11-17T14:34+03:00",
+ "guncelleme": "2026-11-18T14:26+03:00",
  "ilceler": [
   "Bağlar",
   "Bismil",
@@ -36,38 +36,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/ucretsiz-kort-tenisi-kursu-12977",
    "gorsel": "https://www.dicle.edu.tr/contents/events/photos/61730663-be34-4427-a527-63d900c094a2/ss_thumb_a31d6ad776c440ceb86a935cdae4519a_WhatsApp%20Image%202026-10-26%20at%2011.43.28.jpeg"
-  },
-  {
-   "id": "21d1c90fb8a9",
-   "baslik": "Borderline",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yenişehir",
-   "mekan": "Oda Tiyatrosu Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/borderline",
-   "gorsel": "veri/gorsel/dt-borderline.webp"
-  },
-  {
-   "id": "13d481026fe3",
-   "baslik": "Geçmişten Günümüze Diyarbakır'da Eğitim",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Sur",
-   "mekan": "Dicle Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Dicle Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/gecmisten-gunumuze-diyarbakirda-egitim-12985",
-   "gorsel": "https://www.dicle.edu.tr/contents/events/photos/621f0250-5f57-406a-8833-b0c2156b5aee/ss_thumb_95ff5a1f9e4241ceb29b7b7bf6de6b83_IMG-20261030-WA0000.jpg"
   },
   {
    "id": "6137cf6e2a47",
@@ -523,14 +491,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 24,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 23,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Dicle Üniversitesi",
    "tur": "universite",
    "url": "https://www.dicle.edu.tr/etkinlikler/tumu",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
@@ -566,7 +534,7 @@
    "tur": "kultur",
    "url": "https://diyarbakir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

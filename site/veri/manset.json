@@ -1,6 +1,6 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-11-17",
+ "guncelleme": "2026-11-18",
  "secilenler": [
   {
    "id": "d7762ec713f9",
@@ -9,24 +9,16 @@
    "elle": true
   },
   {
-   "id": "70b3db8a1120",
-   "not": "Antalya'da opera ve bale sahnesinden bir akşam."
-  },
-  {
-   "id": "fecb61aad33b",
-   "not": "Mersin'de opera ve bale sahnesinden bir akşam."
-  },
-  {
-   "id": "a9bb3dfb3f94",
+   "id": "96470244ca99",
    "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "3e43bd5b8b6d",
-   "not": "İstanbul'da canlı müzik keyfi."
+   "id": "b6733f8e8e2e",
+   "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "3b0896fba8a6",
-   "not": "Çankırı'da geleneksel ezgiler."
+   "id": "4f9fbf31175f",
+   "not": "Antalya'da opera ve bale sahnesinden bir akşam."
   },
   {
    "id": "0b3c02fd9847",
@@ -37,16 +29,16 @@
    "not": "Eskişehir'de canlı müzik keyfi."
   },
   {
-   "id": "c95cdb52738d",
-   "not": "İzmir'de geleneksel ezgiler."
-  },
-  {
    "id": "a9e844d406e9",
    "not": "Eskişehir'de canlı müzik keyfi."
   },
   {
    "id": "1645d76a0b2d",
    "not": "Konya'da geleneksel ezgiler."
+  },
+  {
+   "id": "f25f0de5bcef",
+   "not": "Antalya'da canlı müzik keyfi."
   },
   {
    "id": "4d1fa340e6fa",
@@ -57,8 +49,16 @@
    "not": "Manisa'da perde açılıyor."
   },
   {
-   "id": "6551458e69a7",
+   "id": "1c371f3f43df",
    "not": "Denizli'de perde açılıyor."
+  },
+  {
+   "id": "74b205c1679f",
+   "not": "Kocaeli'de geleneksel ezgiler."
+  },
+  {
+   "id": "3ece3a01880f",
+   "not": "İzmir'de geleneksel ezgiler."
   },
   {
    "id": "a00303c71871",

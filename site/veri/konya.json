@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-17T14:45+03:00",
+ "guncelleme": "2026-11-18T14:55+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,22 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "169436e57eb2",
-   "baslik": "Konya Okulu - Rıfat Oral",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-rifat-oral/1210",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/SApHSIWb-TuZ-BJe80RLqrN0XUkZix2x.jpeg"
-  },
   {
    "id": "358103ee78ee",
    "baslik": "Konya Okulu - Prof. Dr. Orhan Çeker",
@@ -259,6 +243,22 @@
    "gorsel": null
   },
   {
+   "id": "55c92b98e604",
+   "baslik": "Mustafa Sönmez ve Öğrencileri Suluboya Sergisi",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Meram",
+   "mekan": "Necmettin Erbakan Üniversitesi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": "Sosyo-Kültürel",
+   "kaynak_ad": "Necmettin Erbakan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/mustafa-sonmez-ve-ogrencileri-suluboya-sergisi-2555",
+   "gorsel": null
+  },
+  {
    "id": "171e94a596c4",
    "baslik": "Yastık Adam",
    "tarih": "2026-11-24",
@@ -273,6 +273,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
    "gorsel": "veri/gorsel/dt-yastik-adam.webp"
+  },
+  {
+   "id": "8c1a210e4b30",
+   "baslik": "Konya Okulu - Rıfat Oral",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-rifat-oral/1210",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/SApHSIWb-TuZ-BJe80RLqrN0XUkZix2x.jpeg"
   },
   {
    "id": "032ebfde01f1",
@@ -617,7 +633,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 18,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
@@ -630,7 +646,7 @@
    "ad": "Necmettin Erbakan Üniversitesi",
    "tur": "universite",
    "url": "https://erbakan.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {
@@ -652,7 +668,7 @@
    "tur": "kultur",
    "url": "https://konya.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

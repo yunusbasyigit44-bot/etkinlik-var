@@ -1,5 +1,37 @@
 [
  {
+  "id": "21d1c90fb8a9",
+  "baslik": "Borderline",
+  "tarih": "2026-11-17",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Yenişehir",
+  "mekan": "Oda Tiyatrosu Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/borderline",
+  "gorsel": null
+ },
+ {
+  "id": "13d481026fe3",
+  "baslik": "Geçmişten Günümüze Diyarbakır'da Eğitim",
+  "tarih": "2026-11-17",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Sur",
+  "mekan": "Dicle Üniversitesi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Dicle Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/gecmisten-gunumuze-diyarbakirda-egitim-12985",
+  "gorsel": "https://www.dicle.edu.tr/contents/events/photos/621f0250-5f57-406a-8833-b0c2156b5aee/ss_thumb_95ff5a1f9e4241ceb29b7b7bf6de6b83_IMG-20261030-WA0000.jpg"
+ },
+ {
   "id": "d4488efd6b6a",
   "baslik": "Alacalı Şemsiye",
   "tarih": "2026-11-15",

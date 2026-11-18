@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-17T14:27+03:00",
+ "guncelleme": "2026-11-18T14:05+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -87,6 +87,22 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261115123613_17kasimafis.jpeg"
   },
   {
+   "id": "b3bfc894bb6b",
+   "baslik": "Bağımsız Gelecek, Sağlıklı Nesiller",
+   "tarih": "2026-11-18",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Prof. Dr. Sabri Bektöre Konferans Salonu",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": "Konferans · Sağlik Kültür Spor Dai̇re Başkanliği",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261117152929_b9155382-41c5-4f0d-86ae-a4a40797d367.jpeg"
+  },
+  {
    "id": "0b3c02fd9847",
    "baslik": "Geleneksel Pilav Günü ve Ağaç Dikme Etkinliği",
    "tarih": "2026-11-18",
@@ -103,20 +119,52 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261116095338_2026_agac_dikme_.jpg"
   },
   {
-   "id": "1a095af37005",
-   "baslik": "İş Dünyası İçin Kriz Yönetimi & Risk Analizi",
-   "tarih": "2026-11-19",
+   "id": "905f368b866f",
+   "baslik": "Minik Şefler İş Başına",
+   "tarih": "2026-11-20",
    "bitis": null,
-   "saat": "14:00",
+   "saat": "10:00",
    "ilce": "Merkez",
-   "mekan": "Mühendislik Fakültesi Konferans Salonu",
-   "kategori": "Söyleşi",
+   "mekan": "AKÜ Turizm Fakültesi",
+   "kategori": "Çocuk",
    "ucretsiz": true,
-   "ozet": "Seminer · İkti̇sadi̇ Ve İdari̇ Bi̇li̇mler Fakültesi̇",
+   "ozet": "WORKSHOP · Gastronomi̇ Topluluğu",
    "kaynak_ad": "Afyon Kocatepe Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261103093752_whatsapp_image_2026-11-02_at_10..jpg"
+   "gorsel": "https://topluluklar.aku.edu.tr/admn/afisler/20261108115330_6cc92f77-3de3-45dc-8f12-b738cb9ccb52.jpg"
+  },
+  {
+   "id": "2236696ac53d",
+   "baslik": "Afete Hazır Ol, Hayat Kurtar",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Merkez",
+   "mekan": "Afyonkarahisar AFAD İl Müdürlüğü ve Operasyon Merkezi",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": "Teknik Gezi · Bi̇yomedi̇kal Mühendi̇sli̇ği̇ Kulübü",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": null
+  },
+  {
+   "id": "538c13cf9be1",
+   "baslik": "24 kasım öğretmenler günü etkinliği",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kongre Merkezi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Konferans · Eği̇ti̇m Bi̇li̇mleri̇ Topluluğu",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": null
   },
   {
    "id": "e32fef1798f8",
@@ -165,6 +213,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": null
+  },
+  {
+   "id": "9a0cd1ca5c64",
+   "baslik": "İş Dünyası İçin Kriz Yönetimi & Risk Analizi",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Mühendislik Fakültesi Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminer · İkti̇sadi̇ Ve İdari̇ Bi̇li̇mler Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261117153000_kriz_yonetimi_ve_risk_analizi_2.jpg"
   },
   {
    "id": "d78057303b93",
@@ -245,6 +309,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": null
+  },
+  {
+   "id": "0637dcce41e6",
+   "baslik": "Uluslararası Ticaret ve Finansman Bölümü Teknik Gezisi",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Afyonkarahisar Şehirlerarası Otobüs İstasyonu A.Ş.-AFTAŞ",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": "Teknik Gezi · İkti̇sadi̇ Ve İdari̇ Bi̇li̇mler Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261117170924_whatsapp_image_2026-11-17_at_15..jpg"
   },
   {
    "id": "0861511d7ad9",
@@ -364,7 +444,7 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 21,
+   "etkinlik_sayisi": 27,
    "durum": "çalışıyor"
   },
   {
@@ -400,7 +480,7 @@
    "tur": "kultur",
    "url": "https://afyon.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Belediye Şehir Tiyatrosu",
@@ -421,7 +501,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Dinar Belediyesi",

@@ -1,6 +1,6 @@
 {
  "il": "kahramanmaras",
- "guncelleme": "2026-11-17T14:46+03:00",
+ "guncelleme": "2026-11-18T14:59+03:00",
  "ilceler": [
   "Afşin",
   "Andırın",
@@ -15,22 +15,6 @@
   "Türkoğlu"
  ],
  "etkinlikler": [
-  {
-   "id": "4097352b3ca4",
-   "baslik": "Gençlik Güvenlik ve Farkındalık Eğitim Programı \"Bilinçli Gençlik Güvenli Gelecek\"",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Onikişubat",
-   "mekan": "Yunus Emre Kongre ve Kültür Merkezi Sezai Karakoç Konferans Salonu",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "KSÜ Sağlık Bilimleri Fakültesi Hemşirelik Bölümü",
-   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=141",
-   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611161414581576.jpg"
-  },
   {
    "id": "ad95e0d31d56",
    "baslik": "2026-2027 Akademik Yılı Açılış Töreni",
@@ -85,7 +69,7 @@
    "ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
    "tur": "universite",
    "url": "https://www.ksu.edu.tr/",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {
@@ -93,7 +77,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Dulkadiroğlu Belediyesi",
@@ -135,7 +119,7 @@
    "tur": "kultur",
    "url": "https://kahramanmaras.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Kahramanmaraş İstiklal Üniversitesi",

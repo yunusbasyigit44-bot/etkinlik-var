@@ -1,5 +1,21 @@
 [
  {
+  "id": "8b8fefec47eb",
+  "baslik": "Hayal Satıcısı",
+  "tarih": "2026-11-16",
+  "bitis": "2026-11-17",
+  "saat": "20:00",
+  "ilce": "Şehzadeler",
+  "mekan": "Şehir Tiyatrosu Uğur Mumcu Sahnesi - Şehzadeler / Manisa",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1296",
+  "gorsel": "https://kultur.manisa.bel.tr/uploads/events/356d43db-b999-4798-ac11-725945cba06a_HAYAL-SATICISI-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
+ },
+ {
   "id": "b423f03b6315",
   "baslik": "Klinik Tanıda Multi-Omik Yaklaşımların Yeri",
   "tarih": "2026-11-11",

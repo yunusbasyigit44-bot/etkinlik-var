@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-17T14:35+03:00",
+ "guncelleme": "2026-11-18T14:31+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -329,6 +329,22 @@
    "gorsel": "veri/gorsel/dt-seferi-ramazan-beyin-nafile-dunyasi.webp"
   },
   {
+   "id": "640557bfafda",
+   "baslik": "ÖSYM Eşdeğerlik Tablosunda Yer Alan İngilizce Sınavlar",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Yakutiye",
+   "mekan": "Atatürk Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Atatürk Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://atauni.edu.tr/etkinlik/osym-esdegerlik-tablosunda-yer-alan-ingilizce-sinavlar/",
+   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/afis-esdegerlik-777x1024.jpeg"
+  },
+  {
    "id": "d425f47ed32f",
    "baslik": "Seferi Ramazan Bey'in Nafile Dünyası",
    "tarih": "2026-12-04",
@@ -409,6 +425,22 @@
    "gorsel": null
   },
   {
+   "id": "ed136a02092b",
+   "baslik": "TÜBİTAK 1001 Proje Yazma Eğitimi",
+   "tarih": "2026-12-13",
+   "bitis": null,
+   "saat": "16:00",
+   "ilce": "Yakutiye",
+   "mekan": "Atatürk Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Atatürk Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://atauni.edu.tr/etkinlik/tubitak-1001-proje-yazma-egitimi/",
+   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/TUBITAK-1001-Proje-Yazma-Egitimi-819x1024.jpeg"
+  },
+  {
    "id": "8b7b69feaa7b",
    "baslik": "Sertifikalı Solidworks Eğitimi",
    "tarih": "2026-12-28",
@@ -431,13 +463,13 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 16,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Atatürk Üniversitesi",
    "tur": "universite",
    "url": "https://atauni.edu.tr/tum-etkinlikler/",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {
@@ -466,7 +498,7 @@
    "tur": "kultur",
    "url": "https://erzurum.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

@@ -1,6 +1,6 @@
 {
  "il": "bursa",
- "guncelleme": "2026-11-17T14:32+03:00",
+ "guncelleme": "2026-11-18T14:21+03:00",
  "ilceler": [
   "Büyükorhan",
   "Gemlik",
@@ -86,22 +86,6 @@
    "gorsel": null
   },
   {
-   "id": "b50d9be57140",
-   "baslik": "Bursa Oda Orkestrası Sanatçılarını Arıyor",
-   "tarih": "2026-10-15",
-   "bitis": "2026-11-17",
-   "saat": null,
-   "ilce": "Osmangazi",
-   "mekan": "İlk Teleferik 20.YY",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bursa.bel.tr/etkinlik/bursa-oda-orkestrasi-sanatcilarini-ariyor",
-   "gorsel": null
-  },
-  {
    "id": "df66d6934e63",
    "baslik": "Bursa’nın Cumhuriyet Albümü: Bir Kentin Ortak Hafızası” fotoğraf sergisi",
    "tarih": "2026-10-28",
@@ -148,70 +132,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bursa.bel.tr/etkinlik/kasim-ayi-etkinlik-takvimi-2",
    "gorsel": null
-  },
-  {
-   "id": "f01ca116caed",
-   "baslik": "EEM0307 Haberleşme Teorisi dersi “Türkiye’de Amatör Radyoculuk ve Afet Yönetimi Kapsamında Önemi”",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Ali Sürmen Salon (G Blok Zemin Kat)",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12719/eem0307-haberle%C5%9Fme-teorisi-dersi-t%C3%BCrkiyede-amat%C3%B6r-radyoculuk-ve-afet-y%C3%B6netimi-kapsam%C4%B1nda-%C3%B6nemi",
-   "gorsel": null
-  },
-  {
-   "id": "1173150ae20a",
-   "baslik": "Gemi İnş. ve Gemi Mak. Müh. Bölümü Staj Bilgilendirme Sunumu",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Yeşil Salon (A Blok 2. Kat)",
-   "kategori": "Kariyer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12238/gemi-i%CC%87n%C5%9F-ve-gemi-mak-m%C3%BCh-b%C3%B6l%C3%BCm%C3%BC-staj-bilgilendirme-sunumu",
-   "gorsel": null
-  },
-  {
-   "id": "8aafcf904eb8",
-   "baslik": "Yapay Zeka Çağında Girişimcilik",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Ali Sürmen Salon (G Blok Zemin Kat)",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12768/yapay-zeka-%C3%A7a%C4%9F%C4%B1nda-giri%C5%9Fimcilik",
-   "gorsel": null
-  },
-  {
-   "id": "3b6c226f5925",
-   "baslik": "Scapin ve Yeni Dolapları",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/scapin-ve-yeni-dolaplari",
-   "gorsel": "veri/gorsel/dt-scapin-ve-yeni-dolaplari.jpg"
   },
   {
    "id": "d36461f1d416",
@@ -502,6 +422,22 @@
    "gorsel": "veri/gorsel/dt-kan-ve-sultan.webp"
   },
   {
+   "id": "5ac343b411c0",
+   "baslik": "Btu sıam öğrenci topluluğu tanıtım etkinliği",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Yıldırım",
+   "mekan": "Mimar Sinan Yerleşkesi Erguvan Salon (A Blok Zemin Kat)",
+   "kategori": "Gençlik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12773/btu-s%C4%B1am-%C3%B6%C4%9Frenci-toplulu%C4%9Fu-tan%C4%B1t%C4%B1m-etkinli%C4%9Fi",
+   "gorsel": null
+  },
+  {
    "id": "ec3e8a5743f2",
    "baslik": "Kanser Farkındalık ve Bilinçlendirme Sempozyumu",
    "tarih": "2026-11-25",
@@ -515,6 +451,22 @@
    "kaynak_ad": "Bursa Teknik Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12623/kanser-fark%C4%B1ndal%C4%B1k-ve-bilin%C3%A7lendirme-sempozyumu",
+   "gorsel": null
+  },
+  {
+   "id": "076f96d264d4",
+   "baslik": "BTÜ Konuşmaları",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Yıldırım",
+   "mekan": "Mimar Sinan Yerleşkesi Turkuaz Salon (B Blok 1. Kat)",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/11933/bt%C3%BC-konu%C5%9Fmalar%C4%B1",
    "gorsel": null
   },
   {
@@ -532,6 +484,38 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kan-ve-sultan",
    "gorsel": "veri/gorsel/dt-kan-ve-sultan.webp"
+  },
+  {
+   "id": "5d45e4ca9faa",
+   "baslik": "Üniversite Tanıtım Programı",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Yıldırım",
+   "mekan": "Mimar Sinan Yerleşkesi Erguvan Salon (A Blok Zemin Kat)",
+   "kategori": "Gençlik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/11953/%C3%BCniversite-tan%C4%B1t%C4%B1m-program%C4%B1",
+   "gorsel": null
+  },
+  {
+   "id": "0be09dc7dde5",
+   "baslik": "Bursateknopark Technomatch 2026 (Ticarileşme Günleri Etkinliği)",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Yıldırım",
+   "mekan": "Mimar Sinan Yerleşkesi Turkuaz Salon (B Blok 1. Kat)",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12595/bursateknopark-technomatch-2026-ticarile%C5%9Fme-g%C3%BCnleri-etkinli%C4%9Fi",
+   "gorsel": null
   },
   {
    "id": "4f62166c9e65",
@@ -827,21 +811,21 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 31,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 30,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Bursa Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://btu.edu.tr/tr/etkinlik",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {
    "ad": "Bursa Büyükşehir Belediyesi (kültür-sanat, sergiler)",
    "tur": "belediye",
    "url": "https://www.bursa.bel.tr",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 7,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
@@ -884,7 +868,7 @@
    "tur": "kultur",
    "url": "https://bursa.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gemlik, Mudanya, İnegöl, İznik belediyeleri",

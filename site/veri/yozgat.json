@@ -1,6 +1,6 @@
 {
  "il": "yozgat",
- "guncelleme": "2026-11-17T14:54+03:00",
+ "guncelleme": "2026-11-18T15:23+03:00",
  "ilceler": [
   "Merkez",
   "Akdağmadeni",
@@ -18,22 +18,6 @@
   "Yerköy"
  ],
  "etkinlikler": [
-  {
-   "id": "4abad36c5cb6",
-   "baslik": "Kendini Tanı Sağlığını Koru",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Yozgat Bozok Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Yozgat Bozok Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4281",
-   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/8313eaeb.jpg"
-  },
   {
    "id": "b21a26f81f57",
    "baslik": "Matematik Bölümü Genel Seminerleri - 122",
@@ -99,6 +83,38 @@
    "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/afd4680b.jpeg"
   },
   {
+   "id": "29128ffb64df",
+   "baslik": "Diş Hekimliği Fakültesi Beyaz Önlük Giyme Töreni",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4283",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/5a7e565e.jpg"
+  },
+  {
+   "id": "ea708a366483",
+   "baslik": "Aristoteles ve Trajik Karakter",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4284",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/e52b6dde.png"
+  },
+  {
    "id": "86e3abc63eeb",
    "baslik": "İİBF - VI. Bozok Öğrenci Paneli",
    "tarih": "2026-12-01",
@@ -136,7 +152,7 @@
    "ad": "Yozgat Bozok Üniversitesi",
    "tur": "universite",
    "url": "https://www.bozok.edu.tr/",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {
@@ -144,7 +160,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -186,7 +202,7 @@
    "tur": "kultur",
    "url": "https://yozgat.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Yıllık festivaller (Sürmeli Şenlikleri, Çamlık Şenlikleri…)",

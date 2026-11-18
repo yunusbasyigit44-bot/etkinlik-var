@@ -1,5 +1,21 @@
 [
  {
+  "id": "71ef8442b9f8",
+  "baslik": "5'te 5",
+  "tarih": "2026-11-17",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Muş Alparslan Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Muş Alparslan Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.alparslan.edu.tr/page/event/5te-5-9703",
+  "gorsel": "https://www.alparslan.edu.tr/images/event/1794835524.jpg"
+ },
+ {
   "id": "439ba7d453ea",
   "baslik": "Türkiye-Çin Ticari İlişkilerinin Yapısı",
   "tarih": "2026-11-16",

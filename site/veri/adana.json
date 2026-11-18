@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-17T14:27+03:00",
+ "guncelleme": "2026-11-18T14:03+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -19,38 +19,6 @@
   "Yüreğir"
  ],
  "etkinlikler": [
-  {
-   "id": "b16dac94fa4c",
-   "baslik": "Umudunu Yitirmeyen Sığırcık",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Fuaye Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/umudunu-yitirmeyen-sigircik",
-   "gorsel": "veri/gorsel/dt-umudunu-yitirmeyen-sigircik.webp"
-  },
-  {
-   "id": "075f083f9f7b",
-   "baslik": "39 Basamak",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791805830_47d3f205c8da2f0947a7.jpeg"
-  },
   {
    "id": "f608d684a621",
    "baslik": "Umudunu Yitirmeyen Sığırcık",
@@ -338,6 +306,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
    "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
+  },
+  {
+   "id": "2a9a0dec042e",
+   "baslik": "Parola Yönetimi, Veri Yedekleme ve Cihaz Güvenliği",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Sarıçam",
+   "mekan": "Yusuf Has Hacib Kütüphanesi Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminer",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/181120260849_K_379_98d928d4-6e2a-4dbc-a47f-d4642a8deade.jpg"
   },
   {
    "id": "f4b836d54926",
@@ -681,15 +665,15 @@
    "ad": "Adana Büyükşehir Şehir Tiyatrosu",
    "tur": "belediye",
    "url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Tiyatroları Adana",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 16,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 15,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Çukurova Üniversitesi",
@@ -702,7 +686,7 @@
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {
@@ -731,7 +715,7 @@
    "tur": "kultur",
    "url": "https://adana.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Altın Koza Film Festivali",

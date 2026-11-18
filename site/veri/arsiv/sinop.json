@@ -1,5 +1,21 @@
 [
  {
+  "id": "7beeea5e00c3",
+  "baslik": "COP31 Yeşil Bölge Katılım Programı",
+  "tarih": "2026-11-16",
+  "bitis": "2026-11-17",
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Sinop Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Bilimsel Etkinlikler",
+  "kaynak_ad": "Sinop Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sinop.edu.tr/etkinlik/cop31-yesil-bolge-katilim-programi/",
+  "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/06/cop31.webp"
+ },
+ {
   "id": "d29cab941335",
   "baslik": "SSCI/SCIE Yayın Stratejileri -14 Fikirden Yayına; Üst Seviyeli Dergilerin Kapısını Aralamak",
   "tarih": "2026-11-13",

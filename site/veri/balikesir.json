@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-17T14:31+03:00",
+ "guncelleme": "2026-11-18T14:15+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -25,68 +25,20 @@
  ],
  "etkinlikler": [
   {
-   "id": "eada9e6a5ffe",
-   "baslik": "Organ Bağışı Bilgilendirme Semineri",
-   "tarih": "2026-11-17",
+   "id": "490cd10a1bf9",
+   "baslik": "Üniversitemizde \"Gençlerin Kur'an Algısı: Bandırma Onyedi Eylül Üniversitesi Özelinde Analitik Bir İnceleme\" Seminer Serisi Devam Ediyor",
+   "tarih": "2026-11-18",
    "bitis": null,
-   "saat": "10:00",
-   "ilce": "Edremit",
-   "mekan": "Edremit Meslek Yüksekokulu Konferans Salonu",
+   "saat": "13:30",
+   "ilce": "Bandırma",
+   "mekan": "Necip Fazıl Kısakürek Konferans Salonu",
    "kategori": "Söyleşi",
    "ucretsiz": true,
-   "ozet": "Edremit Meslek Yüksekokulu",
-   "kaynak_ad": "Balıkesir Üniversitesi",
+   "ozet": null,
+   "kaynak_ad": "Bandırma Onyedi Eylül Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-10-21_at_13.35.55_1792581891.jpeg"
-  },
-  {
-   "id": "f1de65fbd634",
-   "baslik": "Ayvalık Taş Yapıları ve Ayvalık Sokakları",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "10:20",
-   "ilce": "Ayvalık",
-   "mekan": "Ayvalık",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Ayvalik Meslek Yüksekokulu",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Etkinlik-Resto._1794314227.jpeg"
-  },
-  {
-   "id": "5bcd5147f7c5",
-   "baslik": "BAUN Voleybol Takımı Seçmeleri",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "12:00",
-   "ilce": "Altıeylül",
-   "mekan": "Burhan Erdayı Spor Salonu",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": "Sağlik Kültür Ve Spor Daire Başkanliği",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-11_at_11.39.22_%281%29_1794807343.jpeg"
-  },
-  {
-   "id": "e2924b2a0a5b",
-   "baslik": "Organ Bağışı Bilgilendirme",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Edremit",
-   "mekan": "Altınoluk Meslek Yüksekokulu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Altinoluk Meslek Yüksekokulu",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-10-25_at_23.21.37_1792995673.jpeg"
+   "kaynak_url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste/Universitemizde-Genclerin-Kuran-Algisi-Bandirma-Onyedi-Eylul-Universitesi-Ozelinde-Analitik-Bir-Inceleme-Seminer-Serisi-Devam-Ediyor-1943?k=-1",
+   "gorsel": null
   },
   {
    "id": "d572102a5342",
@@ -151,6 +103,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-12_at_15.48.02_%281%29_1794557688.jpeg"
+  },
+  {
+   "id": "07251aac4fe2",
+   "baslik": "Belene Toplama Kampının Son Tutsakları Belgesel Film Gösterimi ve Söyleşi",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Altıeylül",
+   "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi Malazgirt Konferans Salonu",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": "Sağlik Kültür Ve Spor Daire Başkanliği",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-18_at_13.38.17_1794998664.jpeg"
+  },
+  {
+   "id": "f74cb0441035",
+   "baslik": "Öğretmenler Günü Etkinliği",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "08:00",
+   "ilce": "Altıeylül",
+   "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi Dumlupınar Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Hukuk Fakültesi̇",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_%C3%96%C4%9Fretmenler_G%C3%BCn%C3%BC_Etkinli%C4%9Fi_1794993266.jpeg"
   },
   {
    "id": "6824185180e6",
@@ -254,7 +238,14 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 12,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Bandırma Onyedi Eylül Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste?k=-1",
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {
@@ -283,7 +274,7 @@
    "tur": "kultur",
    "url": "https://balikesir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Balıkesir Şehir Tiyatrosu, kültür merkezleri",
@@ -293,18 +284,11 @@
    "durum": "oyun takvimi yayımlanmıyor"
   },
   {
-   "ad": "Bandırma Onyedi Eylül Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste?k=-1",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
-  },
-  {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

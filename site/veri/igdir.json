@@ -1,6 +1,6 @@
 {
  "il": "igdir",
- "guncelleme": "2026-11-17T14:55+03:00",
+ "guncelleme": "2026-11-18T15:33+03:00",
  "ilceler": [
   "Merkez",
   "Aralık",
@@ -8,22 +8,6 @@
   "Tuzluca"
  ],
  "etkinlikler": [
-  {
-   "id": "32c872388ac0",
-   "baslik": "\"Futbolda Kariyer Gelişimi ve Sporcu Sağlığı\" Paneli",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Merkez",
-   "mekan": "Iğdır Üniversitesi",
-   "kategori": "Kariyer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Iğdır Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/futbolda-kariyer-gelisimi-ve-sporcu-saglg-paneli-42/register",
-   "gorsel": null
-  },
   {
    "id": "114cf5df041e",
    "baslik": "\"Kadına Yönelik Şiddetle Mücadelede Toplumsal Cinsiyet Eşitliği: Önleme, Farkındalık ve Dönüştürücü Yaklaşımlar\" Online Semineri",
@@ -46,7 +30,7 @@
    "ad": "Iğdır Üniversitesi",
    "tur": "universite",
    "url": "https://www.igdir.edu.tr/events/",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {
@@ -61,7 +45,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -89,7 +73,7 @@
    "tur": "kultur",
    "url": "https://igdir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

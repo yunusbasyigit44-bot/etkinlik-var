@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-17T14:48+03:00",
+ "guncelleme": "2026-11-18T15:02+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -32,86 +32,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2799/Sergi-Ibrahim_Coskun_Ben_Anadolu_Resim_Sergisi",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
-  },
-  {
-   "id": "44756ce780fd",
-   "baslik": "Topraktan Hasada",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "16:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/topraktan-hasada-4715",
-   "gorsel": null
-  },
-  {
-   "id": "470034f0a661",
-   "baslik": "Müdür & Öğrenci Buluşması",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "11:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mudur--ogrenci-bulusmasi-4713",
-   "gorsel": null
-  },
-  {
-   "id": "8509f2f3cea7",
-   "baslik": "Mezun Buluşmaları",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mezun-bulusmalari-4711",
-   "gorsel": null
-  },
-  {
-   "id": "2dd5493802ec",
-   "baslik": "Her Şey Çocuklar ve Gençlerle Birlikte",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/her-sey-cocuklar-ve-genclerle-birlikte-4732",
-   "gorsel": null
-  },
-  {
-   "id": "57af02bce36b",
-   "baslik": "Mezun & Öğrenci Buluşmaları",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mezun--ogrenci-bulusmalari-4712",
-   "gorsel": null
   },
   {
    "id": "dc6d212907fe",
@@ -175,6 +95,54 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/ogrencilerin-kariyer-secenekleri-ve-kpssdgs-sinavlari-hakkinda-bilgi-paylasimi-4717",
+   "gorsel": null
+  },
+  {
+   "id": "ae11a7f25c9a",
+   "baslik": "Birlikte Gelişim Programı",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/birlikte-gelisim-programi-4735",
+   "gorsel": null
+  },
+  {
+   "id": "e7914a541320",
+   "baslik": "Datça Çakal Koyu Doğa Yürüyüşü",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/datca-cakal-koyu-doga-yuruyusu-4738",
+   "gorsel": null
+  },
+  {
+   "id": "d6568248799e",
+   "baslik": "Yapay Zekanın Sektörel Uygulamaları",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/yapay-zekanin-sektorel-uygulamalari-4736",
    "gorsel": null
   },
   {
@@ -450,6 +418,22 @@
    "gorsel": null
   },
   {
+   "id": "2ee0e438991c",
+   "baslik": "S?ğlıklı Yarınlar, Güvenli Adımlar: Üreme Sağlığı ve Bulaşıcı Hastalıklardan Korunma",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/sglikli-yarinlar-guvenli-adimlar--ureme-sagligi-ve-bulasici-hastaliklardan-korunma-4737",
+   "gorsel": null
+  },
+  {
    "id": "825fd36df6ce",
    "baslik": "Mezunlarımız Ne yapıyor?",
    "tarih": "2026-12-03",
@@ -519,7 +503,7 @@
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
-   "etkinlik_sayisi": 25,
+   "etkinlik_sayisi": 24,
    "durum": "çalışıyor"
   },
   {
@@ -541,7 +525,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Fethiye Belediyesi",
@@ -597,7 +581,7 @@
    "tur": "kultur",
    "url": "https://mugla.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

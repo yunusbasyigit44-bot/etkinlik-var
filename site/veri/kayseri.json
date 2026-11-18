@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-11-17T14:43+03:00",
+ "guncelleme": "2026-11-18T14:51+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -315,7 +315,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 18,
-   "durum": "çalışıyor"
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Abdullah Gül Üniversitesi",
@@ -371,7 +371,7 @@
    "tur": "kultur",
    "url": "https://kayseri.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Kocasinan ve Talas belediyeleri",

@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-17T14:38+03:00",
+ "guncelleme": "2026-11-18T14:35+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -99,54 +99,6 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71ef681702.jpg"
   },
   {
-   "id": "82ba44a39dc5",
-   "baslik": "Mezunumuz Mutfakta",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "12:15",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Yemek",
-   "ucretsiz": true,
-   "ozet": "Söyleşiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/mezunumuz-mutfakta-1794295379",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afaf1669bfe7.jpg"
-  },
-  {
-   "id": "92a868ad31c2",
-   "baslik": "Rüzgârda Savrulan Yapraklar",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Sanat Sokağı Kukla Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
-  },
-  {
-   "id": "af9e2adbfddb",
-   "baslik": "Unutmak",
-   "tarih": "2026-11-17",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Odunpazarı",
-   "mekan": "Haldun Dormen Sahnesi ( Haller Gençlik Merkezi )",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
-  },
-  {
    "id": "fadb82f94d5f",
    "baslik": "Temel İş Sağlığı ve Güvenliği Eğitimi",
    "tarih": "2026-11-18",
@@ -161,38 +113,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/temel-is-sagligi-ve-guvenligi-egitimi-1790938995",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afafa5257cdf.jpg"
-  },
-  {
-   "id": "2ce71301a2af",
-   "baslik": "LÖSEV Tanıtım ve Farkındalık Semineri",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Seminerler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/losev-tanitim-ve-farkindalik-semineri-1794210767",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afafa78413c1.jpg"
-  },
-  {
-   "id": "ea2788173ebf",
-   "baslik": "Turuncu Kurdele Atölyesi Etkinliği",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "11:30",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": "Kampanyalar",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/turuncu-kurdele-atolyesi-etkinligi-1794210702",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afafacb2bde3.jpg"
   },
   {
    "id": "e2763711d1cd",
@@ -256,7 +176,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/dil-ve-konusma-terapisinde-kariyer-dernek-temsilciligi-ve-klinik-yonetimi-1793609167",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae84dbbe1529.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd4644a13c5.jpeg"
   },
   {
    "id": "5cf01d8fc57c",
@@ -272,7 +192,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/gestasyonel-diyabet-ve-beslenme-1793355708",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae46f93ea876.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd4411da1a5.jpg"
   },
   {
    "id": "0885a9172ea0",
@@ -288,7 +208,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/siirde-mekan-klasik-turk-siirinde-mekanlar-arasi-yolculuk-1791187807",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35b4983be0.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd445781b8d.jpg"
   },
   {
    "id": "a9e844d406e9",
@@ -304,7 +224,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ozan-tunca-konser-1792481781",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad719deb8ebf.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd443564787.jpg"
   },
   {
    "id": "8feb1be80462",
@@ -336,7 +256,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/turkce-alternatif-destekleyici-iletisim-sistemi-tadis-egitimi-1794565292",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e487e3c8b.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd44f4ac733.jpg"
   },
   {
    "id": "ec246b68721f",
@@ -368,7 +288,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/bir-idik-bin-olduk-edebiyat-toplulugu-soylesisi-1794295319",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af2c5f3b669e.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd44abcd190.jpg"
   },
   {
    "id": "8393ac062641",
@@ -384,7 +304,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/anadolu-universitesi-yemek-uretim-merkezi-teknik-gezi-1794564899",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e2fcea782.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd4482da10e.jpg"
   },
   {
    "id": "4aae59e3b525",
@@ -400,7 +320,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/burak-basmacioglu-barok-sinifi-konseri-1792481882",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71a3d8df81.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd44d8bffd8.jpg"
   },
   {
    "id": "295e8780dd2b",
@@ -432,7 +352,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/cmyk-medya-gunleri19-1790258723",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab52de21f203.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd45128196f.jpg"
   },
   {
    "id": "cec524680654",
@@ -448,7 +368,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/guvenli-binalar-ve-hazirlikli-mahalleler-sirintepede-afet-hazirligi-gonulluluk-1792501241",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad765c5391ac.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd455d0e163.jpg"
   },
   {
    "id": "8fbf37ef4dd1",
@@ -512,7 +432,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/deniz-mahsullu-risotto-workshop-1794565052",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e39b201a3.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd495726c98.jpg"
   },
   {
    "id": "9e83807c6f46",
@@ -819,6 +739,22 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e43022a91.jpg"
   },
   {
+   "id": "1b66676190fc",
+   "baslik": "İçimdeki Çocuk Anlatıyor",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": "Seminerler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/icimdeki-cocuk-anlatiyor-1794999122",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd830c90ca9.jpg"
+  },
+  {
    "id": "aa68e569685c",
    "baslik": "Bir Çocuk Kitabı Çocuğa Ne Söyler?",
    "tarih": "2026-11-26",
@@ -1027,6 +963,22 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71bc6665b7.jpg"
   },
   {
+   "id": "a6c05890f564",
+   "baslik": "Tarık Çodri \"Gitar Resitali",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser ve Dinletiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/tarik-codri-gitar-resitali-1792482339",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71c059d263.jpg"
+  },
+  {
    "id": "3d2fc0b03178",
    "baslik": "Verimsizler",
    "tarih": "2026-11-27",
@@ -1041,6 +993,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
    "gorsel": null
+  },
+  {
+   "id": "2cc193965f8f",
+   "baslik": "Kişisel Gelişim Zirvesi",
+   "tarih": "2026-11-28",
+   "bitis": "2026-11-29",
+   "saat": "08:30",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminerler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/kisisel-gelisim-zirvesi-1781681697",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a324ddbb8bdd.jpg"
   },
   {
    "id": "2a109ae99af2",
@@ -1087,7 +1055,7 @@
    "ad": "Eskişehir Şehir Tiyatroları",
    "tur": "belediye",
    "url": "https://tiyatro.eskisehir.bel.tr/oyuntakvimi.php",
-   "etkinlik_sayisi": 20,
+   "etkinlik_sayisi": 18,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
@@ -1102,7 +1070,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Eskişehir Büyükşehir Belediyesi",
@@ -1137,7 +1105,7 @@
    "tur": "kultur",
    "url": "https://eskisehir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

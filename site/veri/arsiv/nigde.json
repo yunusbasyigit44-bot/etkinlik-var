@@ -1,5 +1,21 @@
 [
  {
+  "id": "ac44cb0e2236",
+  "baslik": "Plates Eğitimi",
+  "tarih": "2026-11-17",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Niğde Ömer Halisdemir Üniversitesi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Niğde Ömer Halisdemir Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.ohu.edu.tr/etkinlik/plates-egitimi/11270",
+  "gorsel": null
+ },
+ {
   "id": "17826dde5363",
   "baslik": "Gülmek Serbest",
   "tarih": "2026-11-08",
