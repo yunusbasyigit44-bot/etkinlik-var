@@ -1,6 +1,6 @@
 {
  "il": "mus",
- "guncelleme": "2026-11-18T15:03+03:00",
+ "guncelleme": "2026-11-19T14:24+03:00",
  "ilceler": [
   "Merkez",
   "Bulanık",
@@ -10,86 +10,6 @@
   "Varto"
  ],
  "etkinlikler": [
-  {
-   "id": "6cb357506dc3",
-   "baslik": "İletişimle Hayata Dokunmak",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Muş Alparslan Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muş Alparslan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/iletisimle-hayata-dokunmak-9709",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1794918639.jpg"
-  },
-  {
-   "id": "be0fe8549798",
-   "baslik": "Evrenin Yapı Taşları & Gökyüzü İzleme Etkinliği",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Muş Alparslan Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muş Alparslan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/evrenin-yapi-taslari-gokyuzu-izleme-etkinligi-9676",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1794401245.jpg"
-  },
-  {
-   "id": "4596ebe40b9a",
-   "baslik": "Nizâmiye Sohbetleri-39",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Muş Alparslan Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muş Alparslan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/nizamiye-sohbetleri-39-9706",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1794910620.jpg"
-  },
-  {
-   "id": "0f71a04ec955",
-   "baslik": "Dünya Çocuk Hakları Günü",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Muş Alparslan Üniversitesi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muş Alparslan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/dunya-cocuk-haklari-gunu-9707",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1794918494.jpg"
-  },
-  {
-   "id": "27651d4d7ea6",
-   "baslik": "Malazgirt'i Yeniden Keşfetmek",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Muş Alparslan Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muş Alparslan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/malazgirti-yeniden-kesfetmek-9699",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1794829613.jpg"
-  },
   {
    "id": "43fa699a2795",
    "baslik": "Doğumunun 500. Yılında Bâki Paneli",
@@ -123,6 +43,22 @@
    "gorsel": "https://www.alparslan.edu.tr/images/event/1794472471.jpg"
   },
   {
+   "id": "01a8ad045b9d",
+   "baslik": "Nova: Dünya Müzikleri Konseri",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/nova-dunya-muzikleri-konseri-9715",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1795014959.jpg"
+  },
+  {
    "id": "5ce0ebbebbe5",
    "baslik": "Yöresel Kültür Tanıtımı",
    "tarih": "2026-11-24",
@@ -137,6 +73,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.alparslan.edu.tr/page/event/yoresel-kultur-tanitimi-9701",
    "gorsel": "https://www.alparslan.edu.tr/images/event/1794830737.jpg"
+  },
+  {
+   "id": "953059d8bb60",
+   "baslik": "Akademik Açılış Töreni Açılış Dersi: İhsan Fazlıoğlu",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/akademik-acilis-toreni-acilis-dersi-ihsan-fazlioglu-9716",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1795015974.jpg"
   },
   {
    "id": "2f49f8677ec9",
@@ -160,7 +112,7 @@
    "ad": "Muş Alparslan Üniversitesi",
    "tur": "universite",
    "url": "https://www.alparslan.edu.tr/tr/page/event",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {
@@ -168,7 +120,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",
@@ -217,7 +169,7 @@
    "tur": "kultur",
    "url": "https://mus.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

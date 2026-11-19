@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-18T15:18+03:00",
+ "guncelleme": "2026-11-19T14:27+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -39,68 +39,20 @@
    "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/11/f7ce0e3d-bde4-4b7b-a69d-4d9ac79c11f4.jpeg"
   },
   {
-   "id": "3afaa3a2e3f6",
-   "baslik": "3. Doğu Karadeniz Fizyoterapi Günleri",
-   "tarih": "2026-11-18",
+   "id": "55c3c98e7f64",
+   "baslik": "Kıyamete Yakın Kaybettiğimiz Kıymetlerimiz",
+   "tarih": "2026-11-19",
    "bitis": null,
-   "saat": "09:00",
+   "saat": "14:00",
    "ilce": "Ortahisar",
-   "mekan": "Prof. Dr. Osman Turan Kültür ve Kongre Merkezi",
+   "mekan": "Radyo/TV",
    "kategori": "Diğer",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Karadeniz Teknik Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/sbffizyoterapi/etkinlik/3-dogu-karadeniz-fizyoterapi-gunleri",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/qdZW4T.jpg"
-  },
-  {
-   "id": "1ba869028a1b",
-   "baslik": "Sıradan Kasabası",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siradan-kasabasi",
-   "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
-  },
-  {
-   "id": "8d59561c9c3f",
-   "baslik": "Yapay Zekaya Giriş",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Ortahisar",
-   "mekan": "KTÜ Uzaktan Eğitim Sistemi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/akademi/etkinlik/yapay-zekaya-giris",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/akademi_a23ac6385d8d.jpg"
-  },
-  {
-   "id": "cf72145fa7c1",
-   "baslik": "Aile Sohbetleri",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Ortahisar",
-   "mekan": "Radyo/TV",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/aile-sohbetleri-Bc",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_3818171e51a0.jpeg"
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/kiyamete-yakin-kaybettigimiz-kiymetlerimiz-zF",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_ca490cfdfbc0.jpg"
   },
   {
    "id": "fe191adb17b9",
@@ -405,6 +357,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siradan-kasabasi",
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
+  },
+  {
+   "id": "c5e1b3c3f663",
+   "baslik": "Seminer",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "15:30",
+   "ilce": "Ortahisar",
+   "mekan": "İLAFAR + Çevrimiçi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/ilafar/etkinlik/seminer",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/ilafar_54d3c5360fcd.jpg"
   },
   {
    "id": "cc6ee2f6d8b1",
@@ -796,14 +764,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 25,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 24,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Karadeniz Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://www.ktu.edu.tr",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {
@@ -860,7 +828,7 @@
    "tur": "kultur",
    "url": "https://trabzon.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yıllık festivaller (Uluslararası Trabzon Film Festivali, Kadırga Yaylası Şenlikleri, Sera Gölü…)",

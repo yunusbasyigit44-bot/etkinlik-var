@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-11-18T14:38+03:00",
+ "guncelleme": "2026-11-19T14:15+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -10,36 +10,20 @@
  ],
  "etkinlikler": [
   {
-   "id": "7f103f290973",
-   "baslik": "\"Resmi Yazışma Kuralları ve Resmi Yazışmalarda Türkçenin Doğru Kullanımı\" Semineri",
-   "tarih": "2026-11-18",
+   "id": "8a44404f0533",
+   "baslik": "\"Yeraltından Ekonomiye\" Etkinliği",
+   "tarih": "2026-11-26",
    "bitis": null,
-   "saat": "13:00",
+   "saat": "10:00",
    "ilce": "Merkez",
-   "mekan": "Esma Bnt El-Hakkari Konferans Salonu (1. Kat)",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Seminer",
-   "kaynak_ad": "Hakkari Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/541/%22resmi-yazisma-kurallari-ve-resmi-yazismalarda-turkcenin-dogru-kullanimi%22-semineri",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/541/cover/thumb/92d20bc0edf0474baad6e2bf844afb2d.webp"
-  },
-  {
-   "id": "8bd6c352c17e",
-   "baslik": "Dünya Çocuk Hakları Günü Farkındalık Etkinliği",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Merkez",
-   "mekan": "Öğrenci Toplulukları Merkezi",
-   "kategori": "Çocuk",
+   "mekan": "Ölmez Madncilik A.Ş. Merkez/Hakkari",
+   "kategori": "Diğer",
    "ucretsiz": true,
    "ozet": "Diğer",
    "kaynak_ad": "Hakkari Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/547/dunya-cocuk-haklari-gunu-farkindalik-etkinligi",
-   "gorsel": "https://hubis.hakkari.edu.tr/media/event/547/cover/thumb/d03762036a95470f8b8e2416cddea6a8.webp"
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/550/%22yeraltindan-ekonomiye%22-etkinligi",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/550/cover/thumb/08459209e5d945b4b2eb9429979b04bd.webp"
   },
   {
    "id": "0c20baa2fea7",
@@ -63,7 +47,7 @@
    "ad": "Hakkari Üniversitesi",
    "tur": "universite",
    "url": "https://www.hakkari.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {
@@ -99,7 +83,7 @@
    "tur": "kultur",
    "url": "https://hakkari.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

@@ -1,6 +1,6 @@
 {
  "il": "cankiri",
- "guncelleme": "2026-11-18T14:23+03:00",
+ "guncelleme": "2026-11-19T14:09+03:00",
  "ilceler": [
   "Merkez",
   "Atkaracalar",
@@ -209,6 +209,54 @@
    "gorsel": "https://medya.karatekin.edu.tr/users/yusufziyaakbas/etkinlik/20261105_090027_8e8e72c774e34465a52386ca0d3ca3d1.jpg"
   },
   {
+   "id": "c9eda7914890",
+   "baslik": "Bilgisayar Destekli Teknik Çizim ve Sunum Paftaları",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8795",
+   "gorsel": "https://medya.karatekin.edu.tr/users/ozgekilic/etkinlik/20261118_123441_4630c9795f89428795d4c4f66d090e9d.jpg"
+  },
+  {
+   "id": "7e4036c5ff71",
+   "baslik": "\"Kırk Kadın Kırk Yama Sergisi \"",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8771",
+   "gorsel": "https://medya.karatekin.edu.tr/users/eminekocak/etkinlik/20261113_085802_20947573b32241328c13fa59785af04a.pdf"
+  },
+  {
+   "id": "7fd157233510",
+   "baslik": "Kariyer Günleri Mezunlar ile Buluşuyoruz",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8797",
+   "gorsel": "https://medya.karatekin.edu.tr/users/feridesezer/etkinlik/20261119_055140_07da104bdb8f46a799e4fddb74834a4e.jpg"
+  },
+  {
    "id": "0f7a3d653f93",
    "baslik": "Yükseköğretimde Mikro Yeterlilikler",
    "tarih": "2026-11-25",
@@ -367,6 +415,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8728",
    "gorsel": null
+  },
+  {
+   "id": "1348ab1a3f4b",
+   "baslik": "Ergoterapi Öğrencileri İçin Erasmus+ Fırsatları ve Belçika`da Erasmus Deneyimi",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8788",
+   "gorsel": "https://medya.karatekin.edu.tr/users/feyzasengul/etkinlik/20261117_130322_45717534d93c4929bbf4a8b3f32fb771.png"
   },
   {
    "id": "e94301999a29",
@@ -703,70 +767,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8716",
    "gorsel": "https://medya.karatekin.edu.tr/users/gulsumconoglu/etkinlik/20261031_091748_bfa6e20e36224dd890117236ce98f1e9.jpeg"
-  },
-  {
-   "id": "31f540a2ed01",
-   "baslik": "Akran Nezaketi",
-   "tarih": "2026-12-18",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8708",
-   "gorsel": "https://medya.karatekin.edu.tr/users/gulsumconoglu/etkinlik/20261029_091430_791415cb00254df69d0fbc7afa5402e2.jpeg"
-  },
-  {
-   "id": "96221691f839",
-   "baslik": "Yapay Zekâ Çağında İstatistikçilerin İstihdam Olanakları",
-   "tarih": "2026-12-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8784",
-   "gorsel": "https://medya.karatekin.edu.tr/users/pelinakin/etkinlik/20261116_110753_45144e82404b4fa593db4d08878d26e5.png"
-  },
-  {
-   "id": "d42f9971d05c",
-   "baslik": "Sağlıklı ve Kaliteli Yaşam",
-   "tarih": "2026-12-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Sağlık",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8746",
-   "gorsel": "https://medya.karatekin.edu.tr/users/gulsumconoglu/etkinlik/20261108_142849_df6b2a079417433abe32d0d73c53ee80.png"
-  },
-  {
-   "id": "9baa5c454728",
-   "baslik": "Dijital Bağımlılık",
-   "tarih": "2026-12-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8709",
-   "gorsel": "https://medya.karatekin.edu.tr/users/gulsumconoglu/etkinlik/20261029_102258_18af8fd94a7241bf963d8ecc085902f0.jpeg"
   }
  ],
  "kaynaklar": [
@@ -782,7 +782,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",
@@ -838,7 +838,7 @@
    "tur": "kultur",
    "url": "https://cankiri.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   }
  ]
 }

@@ -1,5 +1,37 @@
 [
  {
+  "id": "3afaa3a2e3f6",
+  "baslik": "3. Doğu Karadeniz Fizyoterapi Günleri",
+  "tarih": "2026-11-18",
+  "bitis": null,
+  "saat": "09:00",
+  "ilce": "Ortahisar",
+  "mekan": "Prof. Dr. Osman Turan Kültür ve Kongre Merkezi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.ktu.edu.tr/sbffizyoterapi/etkinlik/3-dogu-karadeniz-fizyoterapi-gunleri",
+  "gorsel": "https://www.ktu.edu.tr/slayt/etk/qdZW4T.jpg"
+ },
+ {
+  "id": "1ba869028a1b",
+  "baslik": "Sıradan Kasabası",
+  "tarih": "2026-11-18",
+  "bitis": null,
+  "saat": "19:00",
+  "ilce": "Ortahisar",
+  "mekan": "Haluk Ongan Sahnesi",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siradan-kasabasi",
+  "gorsel": null
+ },
+ {
   "id": "f6194d320883",
   "baslik": "Sıradan Kasabası",
   "tarih": "2026-11-17",

@@ -1,6 +1,6 @@
 {
  "il": "samsun",
- "guncelleme": "2026-11-18T15:10+03:00",
+ "guncelleme": "2026-11-19T14:25+03:00",
  "ilceler": [
   "Atakum",
   "Canik",
@@ -21,22 +21,6 @@
   "Yakakent"
  ],
  "etkinlikler": [
-  {
-   "id": "395318846dec",
-   "baslik": "Don Kişot (2026)",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "İlkadım",
-   "mekan": "Samsun Devlet Opera ve Balesi · Aydın Gün Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Samsun Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/don-kisot-samsun-dob",
-   "gorsel": "veri/gorsel/dob-samsun-3401.webp"
-  },
   {
    "id": "339bc354e16c",
    "baslik": "Pinokyo",
@@ -70,6 +54,22 @@
    "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/dh_afis.jpg"
   },
   {
+   "id": "c6a0cf671627",
+   "baslik": "İktisadi ve İdari Bilimler Fakültesi Mezun-Öğrenci Buluşması",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Söyleşi",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/soylesi/iktisadi-ve-idari-bilimler-fakultesi-mezun-ogrenci-bulusmasi",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/soylesi_afis.png"
+  },
+  {
    "id": "ddfad87d0842",
    "baslik": "Okulumuz Orman",
    "tarih": "2026-11-25",
@@ -86,6 +86,22 @@
    "gorsel": "veri/gorsel/dob-samsun-2835.webp"
   },
   {
+   "id": "40a28358fe08",
+   "baslik": "Bilimsel Bilgiye Erişim ve Akademik İletişimde Kütüphanenin Rolü",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/egitim/bilimsel-bilgiye-erisim-ve-akademik-iletisimde-kutuphanenin-rolu",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/egitim_afis.png"
+  },
+  {
    "id": "a1a113a6be11",
    "baslik": "“Hemşirelik Eğitiminde Program Değerlendirme” Eğitimi",
    "tarih": "2026-11-25",
@@ -100,6 +116,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/egitim/hemsirelik-egitiminde-program-degerlendirme-egitimi",
    "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/hemsirelik-egitiminde-program-degerlendirme-afis2026.jpg"
+  },
+  {
+   "id": "ba7a5b480cfe",
+   "baslik": "Lee Bilim Söyleşileri: Samsun'da Turizm",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Söyleşi",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/soylesi/lee-bilim-soylesileri-samsunda-turizm",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/afis_11.png"
+  },
+  {
+   "id": "4077cec22e6b",
+   "baslik": "Lee Bilim Söyleşileri: Tarihsel ve Kültürel Boyutlarıyla Alevilik-Bektaşilik",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Söyleşi",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/soylesi/lee-bilim-soylesileri-tarihsel-ve-kulturel-boyutlariyla-alevilik",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/afis_12.png"
   },
   {
    "id": "25fcba7e0381",
@@ -182,6 +230,22 @@
    "gorsel": null
   },
   {
+   "id": "afd509d337b2",
+   "baslik": "Origo Beyaz Önlük Giyme Töreni",
+   "tarih": "2026-12-07",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": "Tören",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/toren/origo-beyaz-onluk-giyme-toreni-0",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/toren_afis.png"
+  },
+  {
    "id": "6ce3fd2f222c",
    "baslik": "La Boheme (2026)",
    "tarih": "2026-12-07",
@@ -228,21 +292,53 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/la-boheme-samsun-dob",
    "gorsel": null
+  },
+  {
+   "id": "2d60916e4566",
+   "baslik": "La Boheme (2026)",
+   "tarih": "2026-12-14",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "İlkadım",
+   "mekan": "Samsun Devlet Opera ve Balesi · Aydın Gün Salonu",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Samsun Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/la-boheme-samsun-dob",
+   "gorsel": null
+  },
+  {
+   "id": "3a50c6d21d8e",
+   "baslik": "Erken Çocuklukta Adım Adım Tuvalet Eğitimi",
+   "tarih": "2026-12-16",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": "Web Semineri (Webinar)",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/web-semineri-webinar/erken-cocuklukta-adim-adim-tuvalet-egitimi",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/webinar_afis.png"
   }
  ],
  "kaynaklar": [
+  {
+   "ad": "Ondokuz Mayıs Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.omu.edu.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 11,
+   "durum": "çalışıyor"
+  },
   {
    "ad": "Samsun Devlet Opera ve Balesi",
    "tur": "kultur",
    "url": "https://apimain.operabale.gov.tr/v1/web/temsil/mudurluk/listele/6",
    "etkinlik_sayisi": 8,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
-  },
-  {
-   "ad": "Ondokuz Mayıs Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.omu.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {
@@ -257,7 +353,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -306,7 +402,7 @@
    "tur": "kultur",
    "url": "https://samsun.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yıllık festivaller (Samsun Kültür Yolu, Uluslararası Samsun Tiyatro, Bafra Balık…)",

@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-18T14:15+03:00",
+ "guncelleme": "2026-11-19T14:08+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -25,22 +25,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "490cd10a1bf9",
-   "baslik": "Üniversitemizde \"Gençlerin Kur'an Algısı: Bandırma Onyedi Eylül Üniversitesi Özelinde Analitik Bir İnceleme\" Seminer Serisi Devam Ediyor",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Bandırma",
-   "mekan": "Necip Fazıl Kısakürek Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bandırma Onyedi Eylül Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste/Universitemizde-Genclerin-Kuran-Algisi-Bandirma-Onyedi-Eylul-Universitesi-Ozelinde-Analitik-Bir-Inceleme-Seminer-Serisi-Devam-Ediyor-1943?k=-1",
-   "gorsel": null
-  },
-  {
    "id": "d572102a5342",
    "baslik": "Mesleki Paylaşım Günleri-ıı",
    "tarih": "2026-11-19",
@@ -57,11 +41,11 @@
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-16_at_20.01.21_1794858298.jpeg"
   },
   {
-   "id": "dcf86c16ef55",
-   "baslik": "Eğiticilerin Eğitimi Program Çıktıları ve Öğrenim Kazanımları Konulu Eğitim",
-   "tarih": "2026-11-19",
+   "id": "8469ff57319f",
+   "baslik": "Narkorehber Gençlik Modülü Eğitimi",
+   "tarih": "2026-11-20",
    "bitis": null,
-   "saat": "12:00",
+   "saat": "10:00",
    "ilce": "Edremit",
    "mekan": "Edremit Meslek Yüksekokulu Konferans Salonu",
    "kategori": "Atölye",
@@ -70,7 +54,7 @@
    "kaynak_ad": "Balıkesir Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-16_at_11.50.04_1794821116.jpeg"
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-18_at_22.23.30_1795030848.jpeg"
   },
   {
    "id": "06333a265d82",
@@ -121,11 +105,11 @@
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-18_at_13.38.17_1794998664.jpeg"
   },
   {
-   "id": "f74cb0441035",
+   "id": "d1976c1009b8",
    "baslik": "Öğretmenler Günü Etkinliği",
    "tarih": "2026-11-24",
    "bitis": null,
-   "saat": "08:00",
+   "saat": "11:00",
    "ilce": "Altıeylül",
    "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi Dumlupınar Konferans Salonu",
    "kategori": "Diğer",
@@ -134,7 +118,23 @@
    "kaynak_ad": "Balıkesir Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_%C3%96%C4%9Fretmenler_G%C3%BCn%C3%BC_Etkinli%C4%9Fi_1794993266.jpeg"
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_%C3%96%C4%9Fretmenler_G%C3%BCn%C3%BC_Etkinli%C4%9Fi_1795067396.jpeg"
+  },
+  {
+   "id": "513be0c09e09",
+   "baslik": "İmam Birgivi’nin İzinde: İlim, İrfan ve Ahlak",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "10:50",
+   "ilce": "Altıeylül",
+   "mekan": "İlahiyat Fakültesi Hasan Basri Çantay Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "İlahiyat Fakültesi",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_S%C3%B6yle%C5%9Fi_1795074728.jpeg"
   },
   {
    "id": "6824185180e6",
@@ -238,14 +238,7 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 12,
-   "durum": "çalışıyor"
-  },
-  {
-   "ad": "Bandırma Onyedi Eylül Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste?k=-1",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {
@@ -274,7 +267,7 @@
    "tur": "kultur",
    "url": "https://balikesir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Balıkesir Şehir Tiyatrosu, kültür merkezleri",
@@ -284,11 +277,18 @@
    "durum": "oyun takvimi yayımlanmıyor"
   },
   {
+   "ad": "Bandırma Onyedi Eylül Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste?k=-1",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

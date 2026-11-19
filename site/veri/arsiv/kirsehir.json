@@ -1,5 +1,21 @@
 [
  {
+  "id": "dc14db3b493c",
+  "baslik": "Okuyorum Kitap Topluluğu",
+  "tarih": "2026-11-18",
+  "bitis": null,
+  "saat": "18:30",
+  "ilce": "Merkez",
+  "mekan": "Kırşehir Belediyesi",
+  "kategori": "Edebiyat",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Kırşehir Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/okuyorum-kitap-toplulugu-10",
+  "gorsel": "https://www.kirsehir.bel.tr/storage/events/zrFOLgEpJDEhGCuCCaYJH9s1GWewcPwAqeqWWDEo.png"
+ },
+ {
   "id": "aae49c5bd50f",
   "baslik": "Gazi Mustafa Kemal Atatürk'ü Anma Günü",
   "tarih": "2026-11-10",

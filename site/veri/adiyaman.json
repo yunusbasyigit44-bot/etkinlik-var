@@ -1,6 +1,6 @@
 {
  "il": "adiyaman",
- "guncelleme": "2026-11-18T14:04+03:00",
+ "guncelleme": "2026-11-19T14:04+03:00",
  "ilceler": [
   "Merkez",
   "Besni",
@@ -155,7 +155,7 @@
    "kaynak_ad": "Adıyaman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/24/mezun-bulusmasi-",
-   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/24/mezun-bulusmasi-/thumb/%C4%B1mg-20261117-wa0030.jpg"
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/24/mezun-bulusmasi-/thumb/24%20kas%C4%B1m.jpg"
   },
   {
    "id": "65d9f6bc8340",
@@ -256,14 +256,14 @@
    "tur": "kultur",
    "url": "https://adiyaman.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

@@ -1,5 +1,21 @@
 [
  {
+  "id": "252604f0debc",
+  "baslik": "Masal Gülleri",
+  "tarih": "2026-11-18",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Melikgazi",
+  "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/masal-gulleri",
+  "gorsel": null
+ },
+ {
   "id": "eac15cf0c3df",
   "baslik": "Leenane'in Güzellik Kraliçesi",
   "tarih": "2026-11-14",

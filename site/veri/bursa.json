@@ -1,6 +1,6 @@
 {
  "il": "bursa",
- "guncelleme": "2026-11-18T14:21+03:00",
+ "guncelleme": "2026-11-19T14:09+03:00",
  "ilceler": [
   "Büyükorhan",
   "Gemlik",
@@ -132,54 +132,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bursa.bel.tr/etkinlik/kasim-ayi-etkinlik-takvimi-2",
    "gorsel": null
-  },
-  {
-   "id": "d36461f1d416",
-   "baslik": "HORIZON MSCA Staff Exchange projesi",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Erguvan Salon (A Blok Zemin Kat)",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12722/horizon-msca-staff-exchange-projesi",
-   "gorsel": null
-  },
-  {
-   "id": "c41a035d4369",
-   "baslik": "BTÜ Konuşmaları",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Turkuaz Salon (B Blok 1. Kat)",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/11932/bt%C3%BC-konu%C5%9Fmalar%C4%B1",
-   "gorsel": null
-  },
-  {
-   "id": "708894a5310f",
-   "baslik": "Scapin ve Yeni Dolapları",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/scapin-ve-yeni-dolaplari",
-   "gorsel": "veri/gorsel/dt-scapin-ve-yeni-dolaplari.jpg"
   },
   {
    "id": "7aca3af024ee",
@@ -374,6 +326,22 @@
    "gorsel": "veri/gorsel/dt-bencil-dev.jpg"
   },
   {
+   "id": "e0de707c2748",
+   "baslik": "Proje Destek Ofisi Ödül Töreni",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Yıldırım",
+   "mekan": "Mimar Sinan Yerleşkesi Turkuaz Salon (B Blok 1. Kat)",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12786/proje-destek-ofisi-%C3%B6d%C3%BCl-t%C3%B6reni",
+   "gorsel": null
+  },
+  {
    "id": "362c6c9095aa",
    "baslik": "Bencil Dev",
    "tarih": "2026-11-23",
@@ -422,6 +390,22 @@
    "gorsel": "veri/gorsel/dt-kan-ve-sultan.webp"
   },
   {
+   "id": "ec3e8a5743f2",
+   "baslik": "Kanser Farkındalık ve Bilinçlendirme Sempozyumu",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Yıldırım",
+   "mekan": "Mimar Sinan Yerleşkesi Ali Sürmen Salon (G Blok Zemin Kat)",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12623/kanser-fark%C4%B1ndal%C4%B1k-ve-bilin%C3%A7lendirme-sempozyumu",
+   "gorsel": null
+  },
+  {
    "id": "5ac343b411c0",
    "baslik": "Btu sıam öğrenci topluluğu tanıtım etkinliği",
    "tarih": "2026-11-25",
@@ -438,19 +422,19 @@
    "gorsel": null
   },
   {
-   "id": "ec3e8a5743f2",
-   "baslik": "Kanser Farkındalık ve Bilinçlendirme Sempozyumu",
+   "id": "90aed30bbb6f",
+   "baslik": "TÜBİTAK 4004, 4005 ve 4008 Destek Programları Bilgilendirme Semineri",
    "tarih": "2026-11-25",
    "bitis": null,
-   "saat": "10:00",
+   "saat": "14:00",
    "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Ali Sürmen Salon (G Blok Zemin Kat)",
-   "kategori": "Sağlık",
+   "mekan": "Mimar Sinan Yerleşkesi Yeşil Salon (A Blok 2. Kat)",
+   "kategori": "Söyleşi",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Bursa Teknik Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12623/kanser-fark%C4%B1ndal%C4%B1k-ve-bilin%C3%A7lendirme-sempozyumu",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12789/t%C3%BCbi%CC%87tak-4004-4005-ve-4008-destek-programlar%C4%B1-bilgilendirme-semineri",
    "gorsel": null
   },
   {
@@ -811,8 +795,8 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 30,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 29,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Bursa Teknik Üniversitesi",
@@ -868,7 +852,7 @@
    "tur": "kultur",
    "url": "https://bursa.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gemlik, Mudanya, İnegöl, İznik belediyeleri",

@@ -1,5 +1,37 @@
 [
  {
+  "id": "738c2441e872",
+  "baslik": "Çayırın En Tuhaf Yuvası",
+  "tarih": "2026-11-18",
+  "bitis": null,
+  "saat": "10:30",
+  "ilce": "Merkez",
+  "mekan": "Sivas DT Fuaye",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/cayirin-en-tuhaf-yuvasi",
+  "gorsel": null
+ },
+ {
+  "id": "fee9955626b6",
+  "baslik": "Söyleşi (Türkiye'de Podcast Yayıncılığının Ekonomi Politiği: Küresel ve Kurumsal Yayıncılar Karşısında Yerel ve Bağımsız İçerik Üreticilerinin Durumu) - (Karşılıklı Evcilleştirme Bağlamında Spotify Kullanıcılarının Platform Deneyimleri)",
+  "tarih": "2026-11-18",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Sivas Cumhuriyet Üniversitesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Türkiye'de Podcast Yayıncılığının Ekonomi Politiği: Küresel ve Kurumsal Yayıncılar Karşısında Yerel ve Bağımsız İçerik Üreticilerinin Durumu Karşılıklı Evcilleştirme Bağlamında Spotify Kullanıcılarını",
+  "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19338-soylesi-turkiyede-podcast-yayinciliginin-ekonomi-politigi-kuresel-ve-kurumsal-yayincilar-karsisinda-yerel-ve-bagimsiz-icerik-ureticilerinin-durumu-karsilikli-evcillestirme-baglaminda-spotify-kullanicilarinin-platform-deneyimleri",
+  "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/193/Soylesi-21363.jpeg"
+ },
+ {
   "id": "d6f60bf0be50",
   "baslik": "Çayırın En Tuhaf Yuvası",
   "tarih": "2026-11-17",

@@ -1,6 +1,6 @@
 {
  "il": "kirsehir",
- "guncelleme": "2026-11-18T14:53+03:00",
+ "guncelleme": "2026-11-19T14:19+03:00",
  "ilceler": [
   "Merkez",
   "Akçakent",
@@ -12,20 +12,20 @@
  ],
  "etkinlikler": [
   {
-   "id": "dc14db3b493c",
-   "baslik": "Okuyorum Kitap Topluluğu",
-   "tarih": "2026-11-18",
+   "id": "9a83a92566db",
+   "baslik": "Tiyatro (Ankara Ekin Tiyatrosu)",
+   "tarih": "2026-11-23",
    "bitis": null,
-   "saat": "18:30",
+   "saat": "19:00",
    "ilce": "Merkez",
    "mekan": "Kırşehir Belediyesi",
-   "kategori": "Edebiyat",
+   "kategori": "Tiyatro",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Kırşehir Belediyesi",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/okuyorum-kitap-toplulugu-10",
-   "gorsel": "https://www.kirsehir.bel.tr/storage/events/zrFOLgEpJDEhGCuCCaYJH9s1GWewcPwAqeqWWDEo.png"
+   "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/tiyatro-ankara-ekin-tiyatrosu",
+   "gorsel": "https://www.kirsehir.bel.tr/storage/events/2toAtgJhjWv6fN4WGUaj51kEdEJjtY6FYv1h2zN2.jpg"
   },
   {
    "id": "47ababafb111",
@@ -57,7 +57,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Kaman, Mucur, Çiçekdağı belediyeleri",
@@ -85,7 +85,7 @@
    "tur": "kultur",
    "url": "https://kirsehir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Neşet Ertaş Anma Programı, Ahilik Haftası, Kaman Ceviz Festivali…",

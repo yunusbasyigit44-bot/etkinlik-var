@@ -1,5 +1,21 @@
 [
  {
+  "id": "1c371f3f43df",
+  "baslik": "80 Günde Dünya Gezisi",
+  "tarih": "2026-11-18",
+  "bitis": null,
+  "saat": "14:30",
+  "ilce": "Merkezefendi",
+  "mekan": "Merkezefendi Kültür Merkezi",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Merkezefendi Belediyesi Kültür-Sanat",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlik.aspx?etkinlik=KDUHC-2026-11-11-80-gunde-dunya-gezisi",
+  "gorsel": "https://www.merkezefendi.bel.tr/kultursanat/Content/yuklemeler/etkinlikler/JTVS%2A%2A%2A%2A%2A%2A%2A2026-50-8OAF%C4%B0%C5%9E.jpg"
+ },
+ {
   "id": "6551458e69a7",
   "baslik": "Roni'nin Zamanı",
   "tarih": "2026-11-17",

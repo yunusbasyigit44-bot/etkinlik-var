@@ -1,6 +1,6 @@
 {
  "il": "mersin",
- "guncelleme": "2026-11-18T14:42+03:00",
+ "guncelleme": "2026-11-19T14:16+03:00",
  "ilceler": [
   "Akdeniz",
   "Anamur",
@@ -18,22 +18,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "e765dc60d011",
-   "baslik": "Mersin Üniversitesi Uluslararası Öğrenciler Futbol Turnuvası",
-   "tarih": "2026-11-16",
-   "bitis": "2026-12-04",
-   "saat": "16:00",
-   "ilce": "Yenişehir",
-   "mekan": "MEÜ Vadi Halı Saha",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": "Spor",
-   "kaynak_ad": "Mersin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/mersin-universitesi-uluslararasi-ogrenciler-futbol-turnuvasi-n-10001823",
-   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/e530e502-b90d-4f92-9bbf-87211c3e9e48/e7fa07a0-786e-4e43-ab7c-2a2fd624fe58/c878e522-6f0b-418a-8c4d-88218c47f9f4/1280-31e38789056333928040a33f95cdd1195a50af91ecc072807e457170f8ca5075.webp"
-  },
-  {
    "id": "491982573b54",
    "baslik": "Dünya Felsefe Günü Paneli: İkarus'un Düşüşü'nde Estetiğin Yitimi",
    "tarih": "2026-11-19",
@@ -47,7 +31,7 @@
    "kaynak_ad": "Mersin Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/dunya-felsefe-gunu-paneli-ikarusun-dususunde-estetigin-yitimi-n-10001806",
-   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/7e53c8a3-a548-4c05-be0b-38e6671e09c9/68722398-dec2-4303-867b-907c564abebf/1653ae2d-6e38-404a-9c88-fca8f56ee732/1280-432b8bfd72284b14a560b1cf69eda4cb18031ca7f9f05f4e97f1164006e61d26.webp"
+   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/5788013e-db2d-4d0d-9276-6d5d9376f9cb/18e0766f-2b90-43d4-b7a5-47811b2ac697/20df6493-b7e9-425e-ab2f-390a3c746b3e/1280-526b4533d4b25cd0c98450139c5b53e013742eb8361c360882e09c9a910070f0.webp"
   },
   {
    "id": "9338692f4d33",
@@ -128,6 +112,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/girisimci-liderlik-atolyesi-n-10001933",
    "gorsel": "https://cdn.mersin.edu.tr/public/renditions/cb56b1cb-21a3-418f-9284-3a523159b20a/31e32a31-4f64-470c-8dc1-ede014dfad17/354e63bd-01e5-45be-8d8f-09fd05ed57be/960-89780832a0192c0e637d522e0a5fa31d90c34a593007ea3a16e6673438696da7.webp"
+  },
+  {
+   "id": "bd586b892c1c",
+   "baslik": "Panel \"Beden Eğitimi ve Spor Öğretmenliği Mesleği: Sahadan Akademiye, Sorunlardan Çözüm Önerilerine\"",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Yenişehir",
+   "mekan": "İktisadi ve İdari Bilimler Fakültesi Prof. Dr. Tayfur Özşen Konferans Salonu",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": "Akademik",
+   "kaynak_ad": "Mersin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/panel-beden-egitimi-ve-spor-ogretmenligi-meslegi-sahadan-akademiye-sorunlardan-cozum-onerilerine-n-10001950",
+   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/62751652-1f0d-4752-9a1c-0666768589c4/78dbcc96-5bc1-4e35-8663-1c72fd9b3454/cfe11c25-19cc-4f6b-b774-a744951b33ba/1280-c25226d7322d75ee09b12f2b7428101c47d7958700b65982ddb52ae958728c85.webp"
   },
   {
    "id": "e3d9bb1c4c83",
@@ -224,6 +224,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/copluk-krali-ve-icatci-mersin-dob",
    "gorsel": "veri/gorsel/dob-4-3269.webp"
+  },
+  {
+   "id": "913ca10718ae",
+   "baslik": "Çöplük Kralı ve İcatçı",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Yenişehir",
+   "mekan": "Mersin Opera Büyük Sahne",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/copluk-krali-ve-icatci-mersin-dob",
+   "gorsel": "veri/gorsel/dob-4-3269.webp"
   }
  ],
  "kaynaklar": [
@@ -231,8 +247,8 @@
    "ad": "Devlet Opera ve Balesi",
    "tur": "kultur",
    "url": "https://www.operabale.gov.tr",
-   "etkinlik_sayisi": 7,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 8,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Mersin Üniversitesi",
@@ -288,7 +304,7 @@
    "tur": "kultur",
    "url": "https://mersin.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

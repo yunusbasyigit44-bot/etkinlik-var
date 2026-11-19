@@ -1,6 +1,6 @@
 {
  "il": "kocaeli",
- "guncelleme": "2026-11-18T14:54+03:00",
+ "guncelleme": "2026-11-19T14:20+03:00",
  "ilceler": [
   "Başiskele",
   "Çayırova",
@@ -16,22 +16,6 @@
   "Körfez"
  ],
  "etkinlikler": [
-  {
-   "id": "fa8e7824c479",
-   "baslik": "Marakuda Taş Devri Efsanesi",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Gebze",
-   "mekan": "Gebze Kültür Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Çocuk Sineması",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/marakuda-tas-devri-efsanesi_1045.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030104904.jpg"
-  },
   {
    "id": "82f50afdaf2b",
    "baslik": "Bir Masal Bir Şarkı",
@@ -246,7 +230,7 @@
    "ad": "Gebze Belediyesi",
    "tur": "belediye",
    "url": "https://www.gebze.bel.tr/json/etkinlik.json",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {
@@ -303,7 +287,7 @@
    "tur": "kultur",
    "url": "https://kocaeli.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

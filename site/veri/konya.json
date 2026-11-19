@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-18T14:55+03:00",
+ "guncelleme": "2026-11-19T14:20+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -35,22 +35,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "358103ee78ee",
-   "baslik": "Konya Okulu - Prof. Dr. Orhan Çeker",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-orhan-ceker/1211",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/K8nMMKXeFONI784oSgYVXphYL02Olrrl.jpeg"
-  },
-  {
    "id": "d3bd68f58706",
    "baslik": "Yastık Adam",
    "tarih": "2026-11-19",
@@ -81,6 +65,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanatkonya.com/etkinlikler/bando-ve-mehteran-takimi/1023",
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAyBilmjccQ296naROtXR3SHNgU-hwjQ.jpeg"
+  },
+  {
+   "id": "3efdff21c072",
+   "baslik": "Şehir Konferasnları - Mustafa Karataş",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferasnlari-mustafa-karatas/1341",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/EUnkpGW61rW7MVtSvTHRjnIJk4LBevEC.jpeg"
   },
   {
    "id": "c34330389de6",
@@ -129,6 +129,38 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ibrahim-isitan/1213",
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/oET8lUtuoOMCDVGMfJLHfOT2Bg4F3FHY.jpeg"
+  },
+  {
+   "id": "e7f90b45986b",
+   "baslik": "Şehir Konferansları - Mustafa Karataş",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-mustafa-karatas/1339",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/svdeg5RsOTG2AQTtsJi_KkY9msoRCK8K.jpeg"
+  },
+  {
+   "id": "49d57347ad29",
+   "baslik": "Mevlid-i Şerif Sohbetleri ve Musiki Dinletisi",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/mevlid-i-serif-sohbetleri-ve-musiki-dinletisi/1260",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/5OrQICE4fnnwGHV_oucalNtjQpjdbUgZ.jpeg"
   },
   {
    "id": "c726fd234afc",
@@ -321,6 +353,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/eglence-dunyasi",
    "gorsel": "veri/gorsel/dt-eglence-dunyasi.webp"
+  },
+  {
+   "id": "9f702f3b0853",
+   "baslik": "Konya Okulu - Prof. Dr. Orhan Çeker",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-orhan-ceker/1211",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/K8nMMKXeFONI784oSgYVXphYL02Olrrl.jpeg"
   },
   {
    "id": "884beb443d3f",
@@ -633,13 +681,13 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 18,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "durum": "çalışıyor"
   },
   {
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {
@@ -668,7 +716,7 @@
    "tur": "kultur",
    "url": "https://konya.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-18T15:28+03:00",
+ "guncelleme": "2026-11-19T14:28+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -13,38 +13,6 @@
   "Yahşihan"
  ],
  "etkinlikler": [
-  {
-   "id": "6f86c3777301",
-   "baslik": "Katil Kim",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yahşihan",
-   "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırıkkale Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10091",
-   "gorsel": null
-  },
-  {
-   "id": "d946e771dd5c",
-   "baslik": "Kariyer Buluşması (Konya Çeltik Kaymakamı Hilal Buse Ünal)",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yahşihan",
-   "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Kariyer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırıkkale Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10090",
-   "gorsel": null
-  },
   {
    "id": "4608787dc356",
    "baslik": "Hareketin Yaşı Yok: Yaş Almış Bireylerde Fiziksel Aktivite ve Yaşam Kalitesi (Bilim Kafe Etkinlikleri)",
@@ -94,6 +62,38 @@
    "gorsel": null
   },
   {
+   "id": "42e266ea96e8",
+   "baslik": "Beyaz Önlük Giyme Töreni",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10096",
+   "gorsel": null
+  },
+  {
+   "id": "0bfaed10c653",
+   "baslik": "Makro İktisadi Modellemeler Üzerine Güncel Bir Söyleşi",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10094",
+   "gorsel": null
+  },
+  {
    "id": "a2f0edfa3bc2",
    "baslik": "Medeniyetimizin İnşa ve İhyasını Biyografi Geleneği Üzerinden Okumak",
    "tarih": "2026-11-24",
@@ -107,6 +107,22 @@
    "kaynak_ad": "Kırıkkale Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10089",
+   "gorsel": null
+  },
+  {
+   "id": "ed865732dbeb",
+   "baslik": "Geleceğin Ekonomistleri Yarışıyor",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10095",
    "gorsel": null
   },
   {
@@ -147,7 +163,7 @@
    "ad": "Kırıkkale Üniversitesi",
    "tur": "universite",
    "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {
@@ -162,7 +178,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -176,7 +192,7 @@
    "tur": "belediye",
    "url": "https://www.kirikkale.bel.tr/?sayfa=etkinlikler",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Kırıkkale Valiliği ve ilçe kaymakamlıkları",
@@ -190,7 +206,7 @@
    "tur": "kultur",
    "url": "https://kirikkale.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

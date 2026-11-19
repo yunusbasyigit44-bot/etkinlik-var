@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-11-18T14:48+03:00",
+ "guncelleme": "2026-11-19T14:18+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -177,54 +177,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-05/22e73358-9733-4d82-872c-f7041a1c314f-tne1yvyq.jpeg"
-  },
-  {
-   "id": "380724c90129",
-   "baslik": "İzBB Seferihisar TSM Korosu",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seferihisar",
-   "mekan": "Seferihisar Kültür Merkezi Çağan Irmak Salonu",
-   "kategori": "Konser",
-   "ucretsiz": null,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-15/01cf102d-9871-4079-9ffb-616358858c0c-2fy1mhvf.jpg"
-  },
-  {
-   "id": "b124d2983740",
-   "baslik": "Rüstemoğlu Cemal'in Tuhaf Hikâyesi",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/rustemoglu-cemalin-tuhaf-hikayesi",
-   "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
-  },
-  {
-   "id": "f597e9230f38",
-   "baslik": "Medea",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/medea",
-   "gorsel": "veri/gorsel/dt-medea.jpg"
   },
   {
    "id": "9faba185b8f5",
@@ -480,7 +432,7 @@
    "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-18/11c5c15d-d7d4-4b41-82e9-83517f63ca92-kfhd44mq.png"
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-19/f6faedef-a236-4628-9ac7-8bf2db95a10d-haziidgo.jpeg"
   },
   {
    "id": "7f42e57777b8",
@@ -1347,6 +1299,22 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-09-29/b3c885e9-fb06-4015-8a26-0a6d3be0854b-mfpv1px0.jpg"
   },
   {
+   "id": "184851767b8d",
+   "baslik": "Tosca",
+   "tarih": "2026-12-10",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Bornova",
+   "mekan": "Bornova Kültür ve Sanat Merkezi Necdet Aydın Salonu",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/tosca-izmir-dob",
+   "gorsel": "veri/gorsel/dob-3-88.webp"
+  },
+  {
    "id": "9593cab36ee1",
    "baslik": "Aziz Vukolos'ta Akustik Türk Müziği Konserleri",
    "tarih": "2026-12-22",
@@ -1384,22 +1352,22 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 45,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 43,
+   "durum": "çalışıyor"
   },
   {
    "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "tur": "belediye",
    "url": "https://kultursanat.izmir.bel.tr/",
-   "etkinlik_sayisi": 32,
+   "etkinlik_sayisi": 31,
    "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Opera ve Balesi",
    "tur": "kultur",
    "url": "https://www.operabale.gov.tr",
-   "etkinlik_sayisi": 7,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 8,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Bornova Belediyesi",
@@ -1476,7 +1444,7 @@
    "tur": "kultur",
    "url": "https://izmir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   }
  ]
 }

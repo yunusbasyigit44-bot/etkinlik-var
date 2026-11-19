@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-18T14:12+03:00",
+ "guncelleme": "2026-11-19T14:07+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -149,102 +149,6 @@
    "kaynak_ad": "Antalya Bilim Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/iklim-hukuku-ve-yonetisimi-uzmanlik-kursu",
-   "gorsel": null
-  },
-  {
-   "id": "7b4ed9aa1a4d",
-   "baslik": "Organ Nakli ve Organ Bağışı Konferansı",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Döşemealtı",
-   "mekan": "Antalya Bilim Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Antalya Bilim Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/organ-nakli-ve-organ-bagisi-konferansi-2",
-   "gorsel": null
-  },
-  {
-   "id": "f25f0de5bcef",
-   "baslik": "Müze Konseri",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Nekropol Müzesi",
-   "kategori": "Konser",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/muze-konseri-ant-dob",
-   "gorsel": "veri/gorsel/dob-5-1164.jpg"
-  },
-  {
-   "id": "8ab8647c45af",
-   "baslik": "Taziye",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/taziye",
-   "gorsel": "veri/gorsel/dt-taziye.webp"
-  },
-  {
-   "id": "de22b6102d30",
-   "baslik": "COP 31 Etkinlikleri Kapsamında Bilimsel Toplantı “Hızla Değişen Dünyada Bileşik Kıyı Tehlikelerine Karşı Dirençlilik Oluşturmaya Yönelik Çözümler”",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Fen Bilimleri Enstitüsü Konferans Salonu",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/cop_31_etkinlikleri_kapsaminda_bilimsel_toplanti_%E2%80%9Chizla_degisen_dunyada_bilesik_kiyi_tehlikelerine_karsi_direnclilik_olusturmaya_yonelik_cozumler%E2%80%9D-5793",
-   "gorsel": null
-  },
-  {
-   "id": "1ec0b49719d5",
-   "baslik": "Yapay Arı Kolonisi (ABC) ve Çoklu-Ajan Yönetim Mimarisi Konferansı",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, B Blok Konferans Salonu’nda",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/yapay_ari_kolonisi_abc_ve_cokluajan_yonetim_mimarisi_konferansi_-5796",
-   "gorsel": null
-  },
-  {
-   "id": "18439209a745",
-   "baslik": "Güzel Sanatlar Fakültesi 'COP31 Kapsamında Farkındalık Sergisi'",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Olbia Sergi Salonu",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/guzel_sanatlar_fakultesi_cop31_kapsaminda_farkindalik_sergisi_-5795",
    "gorsel": null
   },
   {
@@ -504,6 +408,22 @@
    "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
   },
   {
+   "id": "b80f803496f9",
+   "baslik": "Kadın Çalışmaları ve Toplumsal Cinsiyet Araştırma ve Uygulama Merkezi 'Saygılı Yaşam ve Güvenli İlişkiler Eğitimi'",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Edebiyat Fakültesi, Bumin Kağan Konferans Salonu",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/kadin_calismalari_ve_toplumsal_cinsiyet_arastirma_ve_uygulama_merkezi_saygili_yasam_ve_guvenli_iliskiler_egitimi-5799",
+   "gorsel": null
+  },
+  {
    "id": "23f256a2cb31",
    "baslik": "Dino Ormanı",
    "tarih": "2026-11-24",
@@ -760,6 +680,22 @@
    "gorsel": "veri/gorsel/dt-kirmizi-cuce.jpg"
   },
   {
+   "id": "09177a81b965",
+   "baslik": "Müze Konseri",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Suna & İnan Kıraç Kaleiçi Müzesi",
+   "kategori": "Konser",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/muze-konseri-ant-dob",
+   "gorsel": "veri/gorsel/dob-5-1164.jpg"
+  },
+  {
    "id": "b76f9e379b50",
    "baslik": "Üç Kedi Bir Dilek",
    "tarih": "2026-12-01",
@@ -774,6 +710,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/uc-kedi-bir-dilek",
    "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
+  },
+  {
+   "id": "79b9201de352",
+   "baslik": "Dino Ormanı",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/dino-ormani-antalya-dob",
+   "gorsel": null
   },
   {
    "id": "d780ef24189f",
@@ -909,28 +861,28 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 26,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 25,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Antalya Bilim Üniversitesi",
    "tur": "universite",
    "url": "https://www.antalya.edu.tr/tr/etkinlik-takvimi",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Opera ve Balesi",
    "tur": "kultur",
    "url": "https://www.operabale.gov.tr",
-   "etkinlik_sayisi": 7,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 8,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Akdeniz Üniversitesi",
    "tur": "universite",
    "url": "https://www.akdeniz.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {
@@ -980,7 +932,7 @@
    "tur": "kultur",
    "url": "https://antalya.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

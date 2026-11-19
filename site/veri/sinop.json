@@ -1,6 +1,6 @@
 {
  "il": "sinop",
- "guncelleme": "2026-11-18T15:12+03:00",
+ "guncelleme": "2026-11-19T14:25+03:00",
  "ilceler": [
   "Merkez",
   "Ayancık",
@@ -13,22 +13,6 @@
   "Türkeli"
  ],
  "etkinlikler": [
-  {
-   "id": "8678d3cbc1c8",
-   "baslik": "SSCI/SCI Yayın Stratejileri Serisi-16 \"Dergiler İçin Araştırma Konusu Nasıl Bulunur\"",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Merkez",
-   "mekan": "Sinop Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Bilimsel Etkinlikler",
-   "kaynak_ad": "Sinop Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/ssci-sci-yayin-stratejileri-serisi-16-dergiler-icin-arastirma-konusu-nasil-bulunur/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/06/SSCI-SCIYayinStratejileriSerisi16.webp"
-  },
   {
    "id": "21e5c4f8ae61",
    "baslik": "2. Uluslararası Turizmde Alternatif Eğilimler ve Yenilikçi Yaklaşımlar Kongresi",
@@ -115,7 +99,7 @@
    "ad": "Sinop Üniversitesi",
    "tur": "universite",
    "url": "https://www.sinop.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {
@@ -123,7 +107,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -165,7 +149,7 @@
    "tur": "kultur",
    "url": "https://sinop.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yıllık festivaller (Sinop Uluslararası Kültür ve Sanat Festivali, Gerze Hamsi Festivali…)",

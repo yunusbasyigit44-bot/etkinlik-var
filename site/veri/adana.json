@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-18T14:03+03:00",
+ "guncelleme": "2026-11-19T14:04+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -19,54 +19,6 @@
   "Yüreğir"
  ],
  "etkinlikler": [
-  {
-   "id": "f608d684a621",
-   "baslik": "Umudunu Yitirmeyen Sığırcık",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Fuaye Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/umudunu-yitirmeyen-sigircik",
-   "gorsel": "veri/gorsel/dt-umudunu-yitirmeyen-sigircik.webp"
-  },
-  {
-   "id": "8c323b11df97",
-   "baslik": "39 Basamak",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791805830_47d3f205c8da2f0947a7.jpeg"
-  },
-  {
-   "id": "9c158781fd2b",
-   "baslik": "Erken Cumhuriyet Dönemi Mimarisinde 'Aydınlanma' Mekanları: Halkevleri Binaların Tipolojisi ve Biçimlenişi",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Sarıçam",
-   "mekan": "Çukurova Üniversitesi",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çukurova Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cu.edu.tr/haber-detay/erken-cumhuriyet-donemi-mimarisinde-aydinlanma-mekanlari-halkevleri-binalarin-tipolojisi-ve-bicimlenisi/",
-   "gorsel": "https://www.cu.edu.tr/media/uktje5eo/cutam_kasim_2026_programi_sayfa_3.jpg"
-  },
   {
    "id": "ee63ae48ebcf",
    "baslik": "Ağır Roman",
@@ -322,6 +274,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.atu.edu.tr",
    "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/181120260849_K_379_98d928d4-6e2a-4dbc-a47f-d4642a8deade.jpg"
+  },
+  {
+   "id": "5e4aec7568fb",
+   "baslik": "Rektör Öğrenci Buluşması",
+   "tarih": "2026-12-01",
+   "bitis": "2026-12-02",
+   "saat": "14:00",
+   "ilce": "Sarıçam",
+   "mekan": "Prof. Dr. Aziz Sancar Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Etkinlik",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/191120261059_K_1_22165a48-5e85-4da8-a28f-7ffa48243a35.jpg"
   },
   {
    "id": "f4b836d54926",
@@ -665,28 +633,28 @@
    "ad": "Adana Büyükşehir Şehir Tiyatrosu",
    "tur": "belediye",
    "url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Tiyatroları Adana",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 15,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 14,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Çukurova Üniversitesi",
    "tur": "universite",
    "url": "https://www.cu.edu.tr",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {
@@ -715,7 +683,7 @@
    "tur": "kultur",
    "url": "https://adana.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Altın Koza Film Festivali",

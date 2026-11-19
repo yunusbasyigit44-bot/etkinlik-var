@@ -1,5 +1,37 @@
 [
  {
+  "id": "b21a26f81f57",
+  "baslik": "Matematik Bölümü Genel Seminerleri - 122",
+  "tarih": "2026-11-18",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Yozgat Bozok Üniversitesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Yozgat Bozok Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4274",
+  "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/04f3a19a.jpeg"
+ },
+ {
+  "id": "ec2c96385a2c",
+  "baslik": "Sosyoloji Bölümü Mezun Buluşması Fidan Dikim Etkinliği",
+  "tarih": "2026-11-18",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Yozgat Bozok Üniversitesi",
+  "kategori": "Doğa & Gezi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Yozgat Bozok Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4278",
+  "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/c4fdb1bf.png"
+ },
+ {
   "id": "4abad36c5cb6",
   "baslik": "Kendini Tanı Sağlığını Koru",
   "tarih": "2026-11-17",

@@ -1,6 +1,6 @@
 {
  "il": "siirt",
- "guncelleme": "2026-11-18T15:11+03:00",
+ "guncelleme": "2026-11-19T14:25+03:00",
  "ilceler": [
   "Merkez",
   "Aydınlar",
@@ -11,14 +11,54 @@
   "Şirvan",
   "Tillo"
  ],
- "etkinlikler": [],
+ "etkinlikler": [
+  {
+   "id": "97ee217b6653",
+   "baslik": "Ogretmen Egitiminde Yeni Gelismeler",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Siirt Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Genel",
+   "kaynak_ad": "Siirt Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.siirt.edu.tr/etkinliktakvimi.html",
+   "gorsel": "https://www.siirt.edu.tr/foto/etkinlik/ogretmen-egitiminde-yeni-gelismeler2026111913308452.jpg"
+  },
+  {
+   "id": "2daa420d6c13",
+   "baslik": "Maliye Toplulugu Meslek Soylesileri Ii",
+   "tarih": "2026-11-19",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Siirt Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Söyleşi",
+   "kaynak_ad": "Siirt Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.siirt.edu.tr/etkinliktakvimi.html",
+   "gorsel": "https://www.siirt.edu.tr/foto/etkinlik/maliye-toplulugu-meslek-soylesileri-ii2026111913324842.jpg"
+  }
+ ],
  "kaynaklar": [
+  {
+   "ad": "Siirt Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.siirt.edu.tr/etkinliktakvimi.html",
+   "etkinlik_sayisi": 2,
+   "durum": "çalışıyor"
+  },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -49,18 +89,11 @@
    "durum": "duyurular idari; etkinlik yok"
   },
   {
-   "ad": "Siirt Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.siirt.edu.tr/etkinliktakvimi.html",
-   "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error timed out>"
-  },
-  {
    "ad": "Siirt İl Kültür ve Turizm Müdürlüğü",
    "tur": "kultur",
    "url": "https://siirt.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yıllık festivaller (Siirt Fıstık Festivali, Siirt Kültür ve Turizm günleri…)",

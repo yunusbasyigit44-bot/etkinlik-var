@@ -1,6 +1,6 @@
 {
  "il": "igdir",
- "guncelleme": "2026-11-18T15:33+03:00",
+ "guncelleme": "2026-11-19T14:29+03:00",
  "ilceler": [
   "Merkez",
   "Aralık",
@@ -8,6 +8,38 @@
   "Tuzluca"
  ],
  "etkinlikler": [
+  {
+   "id": "fdbf9f3e4716",
+   "baslik": "Beyaz Önlük Giyme Töreni",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Merkez",
+   "mekan": "Iğdır Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Iğdır Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/beyaz-onluk-giyme-toreni-43/register",
+   "gorsel": "https://www.igdir.edu.tr/web/image/57196-6f9f874d/1.jpg"
+  },
+  {
+   "id": "eedbba2eb90a",
+   "baslik": "Öğretmenler Günü Özel Söyleşisi",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "Iğdır Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Iğdır Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/ogretmenler-gunu-ozel-soylesisi-44/register",
+   "gorsel": "https://www.igdir.edu.tr/web/image/57221-9d268f54/1.jfif"
+  },
   {
    "id": "114cf5df041e",
    "baslik": "\"Kadına Yönelik Şiddetle Mücadelede Toplumsal Cinsiyet Eşitliği: Önleme, Farkındalık ve Dönüştürücü Yaklaşımlar\" Online Semineri",
@@ -30,7 +62,7 @@
    "ad": "Iğdır Üniversitesi",
    "tur": "universite",
    "url": "https://www.igdir.edu.tr/events/",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {
@@ -45,7 +77,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",
@@ -73,7 +105,7 @@
    "tur": "kultur",
    "url": "https://igdir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

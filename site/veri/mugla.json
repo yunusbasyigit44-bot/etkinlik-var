@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-18T15:02+03:00",
+ "guncelleme": "2026-11-19T14:23+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -32,22 +32,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2799/Sergi-Ibrahim_Coskun_Ben_Anadolu_Resim_Sergisi",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
-  },
-  {
-   "id": "dc6d212907fe",
-   "baslik": "Öğrenci Toplulukları Buluşuyor",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "12:00",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/ogrenci-topluluklari-bulusuyor-4730",
-   "gorsel": null
   },
   {
    "id": "c733726aba9a",
@@ -450,6 +434,22 @@
    "gorsel": null
   },
   {
+   "id": "30992d34f59b",
+   "baslik": "Özel Okullarda Beden Eğitimi ve Spor Öğretmenliği",
+   "tarih": "2026-12-09",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/ozel-okullarda-beden-egitimi-ve-spor-ogretmenligi-4739",
+   "gorsel": null
+  },
+  {
    "id": "a601ee27fdad",
    "baslik": "TVF Arabica Coffee Kadınlar Voleybol 1. Ligi B.B.Bodrumspor – İBB Spor Kulübü",
    "tarih": "2026-12-12",
@@ -525,7 +525,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Fethiye Belediyesi",
@@ -581,7 +581,7 @@
    "tur": "kultur",
    "url": "https://mugla.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

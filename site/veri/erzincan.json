@@ -1,6 +1,6 @@
 {
  "il": "erzincan",
- "guncelleme": "2026-11-18T14:29+03:00",
+ "guncelleme": "2026-11-19T14:11+03:00",
  "ilceler": [
   "Merkez",
   "Çayırlı",
@@ -26,7 +26,7 @@
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Erzincan Belediyesi",
@@ -54,7 +54,7 @@
    "tur": "kultur",
    "url": "https://erzincan.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",

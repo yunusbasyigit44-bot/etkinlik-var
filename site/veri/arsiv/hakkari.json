@@ -1,5 +1,37 @@
 [
  {
+  "id": "7f103f290973",
+  "baslik": "\"Resmi Yazışma Kuralları ve Resmi Yazışmalarda Türkçenin Doğru Kullanımı\" Semineri",
+  "tarih": "2026-11-18",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Merkez",
+  "mekan": "Esma Bnt El-Hakkari Konferans Salonu (1. Kat)",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Seminer",
+  "kaynak_ad": "Hakkari Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/541/%22resmi-yazisma-kurallari-ve-resmi-yazismalarda-turkcenin-dogru-kullanimi%22-semineri",
+  "gorsel": "https://hubis.hakkari.edu.tr/media/event/541/cover/thumb/92d20bc0edf0474baad6e2bf844afb2d.webp"
+ },
+ {
+  "id": "8bd6c352c17e",
+  "baslik": "Dünya Çocuk Hakları Günü Farkındalık Etkinliği",
+  "tarih": "2026-11-18",
+  "bitis": null,
+  "saat": "13:30",
+  "ilce": "Merkez",
+  "mekan": "Öğrenci Toplulukları Merkezi",
+  "kategori": "Çocuk",
+  "ucretsiz": true,
+  "ozet": "Diğer",
+  "kaynak_ad": "Hakkari Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/547/dunya-cocuk-haklari-gunu-farkindalik-etkinligi",
+  "gorsel": "https://hubis.hakkari.edu.tr/media/event/547/cover/thumb/d03762036a95470f8b8e2416cddea6a8.webp"
+ },
+ {
   "id": "7f4357d1513f",
   "baslik": "\"Kitap Bağışı ve Kırtasiye Yardımı\" Etkinliği",
   "tarih": "2026-11-12",

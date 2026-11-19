@@ -1,6 +1,6 @@
 {
  "il": "sivas",
- "guncelleme": "2026-11-18T15:14+03:00",
+ "guncelleme": "2026-11-19T14:26+03:00",
  "ilceler": [
   "Merkez",
   "Akıncılar",
@@ -21,38 +21,6 @@
   "Zara"
  ],
  "etkinlikler": [
-  {
-   "id": "738c2441e872",
-   "baslik": "Çayırın En Tuhaf Yuvası",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Merkez",
-   "mekan": "Sivas DT Fuaye",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/cayirin-en-tuhaf-yuvasi",
-   "gorsel": "veri/gorsel/dt-cayirin-en-tuhaf-yuvasi.jpg"
-  },
-  {
-   "id": "fee9955626b6",
-   "baslik": "Söyleşi (Türkiye'de Podcast Yayıncılığının Ekonomi Politiği: Küresel ve Kurumsal Yayıncılar Karşısında Yerel ve Bağımsız İçerik Üreticilerinin Durumu) - (Karşılıklı Evcilleştirme Bağlamında Spotify Kullanıcılarının Platform Deneyimleri)",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sivas Cumhuriyet Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Türkiye'de Podcast Yayıncılığının Ekonomi Politiği: Küresel ve Kurumsal Yayıncılar Karşısında Yerel ve Bağımsız İçerik Üreticilerinin Durumu Karşılıklı Evcilleştirme Bağlamında Spotify Kullanıcılarını",
-   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19338-soylesi-turkiyede-podcast-yayinciliginin-ekonomi-politigi-kuresel-ve-kurumsal-yayincilar-karsisinda-yerel-ve-bagimsiz-icerik-ureticilerinin-durumu-karsilikli-evcillestirme-baglaminda-spotify-kullanicilarinin-platform-deneyimleri",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/193/Soylesi-21363.jpeg"
-  },
   {
    "id": "8eb56fa25f0a",
    "baslik": "Sivas'ta 108 Gün",
@@ -230,6 +198,22 @@
    "gorsel": "veri/gorsel/dt-cayirin-en-tuhaf-yuvasi.jpg"
   },
   {
+   "id": "853d71bfe7d9",
+   "baslik": "Kadına Yönelik Şiddetle Mücadelede Kurumsal İş Birliği ve Destek Mekanizmaları",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Kadına Yönelik Şiddetle Mücadelede Kurumsal İş Birliği ve Destek Mekanizmaları",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19414-kadina-yonelik-siddetle-mucadelede-kurumsal-is-birligi-ve-destek-mekanizmalari",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Kadina-Yonelik-siddetle-Mucadelede-Kurumsal-is-Birligi-ve-Destek-Mekanizmalari-84791.jpg"
+  },
+  {
    "id": "07bd8b481693",
    "baslik": "Öğretmenler Günü Resim Sergisi",
    "tarih": "2026-11-23",
@@ -294,8 +278,8 @@
    "gorsel": "veri/gorsel/dt-tebesir-agaci.jpg"
   },
   {
-   "id": "4742a0b00590",
-   "baslik": "Erasmus+ Bilgilendirme Toplantısı- Turizm Fakültesi",
+   "id": "559774b49871",
+   "baslik": "Kadına Yönelik Şiddetle Mücadele-Farkındalık, Koruma ve Toplumsal Sorumluluk- Radyo Programı",
    "tarih": "2026-11-25",
    "bitis": null,
    "saat": null,
@@ -303,11 +287,11 @@
    "mekan": "Sivas Cumhuriyet Üniversitesi",
    "kategori": "Diğer",
    "ucretsiz": true,
-   "ozet": "Erasmus+ Bilgilendirme Toplantısı- Turizm Fakültesi",
+   "ozet": "Kadına Yönelik Şiddetle Mücadele-Farkındalık, Koruma ve Toplumsal Sorumluluk- Radyo Programı",
    "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19265-erasmus-bilgilendirme-toplantisi-turizm-fakultesi",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/192/Erasmus-Bilgilendirme-Toplantisi--Turizm-Fakultesi-35279.png"
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19415-kadina-yonelik-siddetle-mucadele-farkindalik-koruma-ve-toplumsal-sorumluluk-radyo-programi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Kadina-Yonelik-siddetle-Mucadele-Farkindalik-Koruma-ve-Toplumsal-Sorumluluk--Radyo-Programi-13018.png"
   },
   {
    "id": "25ab776ceabb",
@@ -356,6 +340,38 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/karacaoglan",
    "gorsel": "veri/gorsel/dt-karacaoglan.jpg"
+  },
+  {
+   "id": "3c14db46b488",
+   "baslik": "Bir Ders Değerlendirme Uygulaması: Kahoot",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Bir Ders Değerlendirme Uygulaması: Kahoot",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19413-bir-ders-degerlendirme-uygulamasi-kahoot",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Bir-Ders-Degerlendirme-Uygulamasi--Kahoot-53325.jpg"
+  },
+  {
+   "id": "622c6ef19357",
+   "baslik": "YLSY Bilgilendirme Toplantısı",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "YLSY Bilgilendirme Toplantısı",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19409-ylsy-bilgilendirme-toplantisi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/YLSY-Bilgilendirme-Toplantisi-75157.jpeg"
   },
   {
    "id": "b8ef3918ab7c",
@@ -523,14 +539,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 17,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 16,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Sivas Cumhuriyet Üniversitesi",
    "tur": "universite",
    "url": "https://www.cumhuriyet.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {
@@ -573,7 +589,7 @@
    "tur": "kultur",
    "url": "https://sivas.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yıllık festivaller (Sivas Kültür Yolu, Divriği Ulu Camii anma günleri, Kangal Balıklı Kaplıca…)",

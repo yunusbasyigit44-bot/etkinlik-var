@@ -1,5 +1,37 @@
 [
  {
+  "id": "6f86c3777301",
+  "baslik": "Katil Kim",
+  "tarih": "2026-11-18",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Yahşihan",
+  "mekan": "Kırıkkale Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Kırıkkale Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10091",
+  "gorsel": null
+ },
+ {
+  "id": "d946e771dd5c",
+  "baslik": "Kariyer Buluşması (Konya Çeltik Kaymakamı Hilal Buse Ünal)",
+  "tarih": "2026-11-18",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Yahşihan",
+  "mekan": "Kırıkkale Üniversitesi",
+  "kategori": "Kariyer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Kırıkkale Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10090",
+  "gorsel": null
+ },
+ {
   "id": "295a2485d3bb",
   "baslik": "Fotoğraf Topluluğunda Aynı Kadrajda Buluşalım",
   "tarih": "2026-11-12",

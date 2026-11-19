@@ -1,5 +1,37 @@
 [
  {
+  "id": "b3bfc894bb6b",
+  "baslik": "Bağımsız Gelecek, Sağlıklı Nesiller",
+  "tarih": "2026-11-18",
+  "bitis": null,
+  "saat": "10:00",
+  "ilce": "Merkez",
+  "mekan": "Prof. Dr. Sabri Bektöre Konferans Salonu",
+  "kategori": "Sağlık",
+  "ucretsiz": true,
+  "ozet": "Konferans · Sağlik Kültür Spor Dai̇re Başkanliği",
+  "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://aku.edu.tr/etkinlikler",
+  "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261117152929_b9155382-41c5-4f0d-86ae-a4a40797d367.jpeg"
+ },
+ {
+  "id": "0b3c02fd9847",
+  "baslik": "Geleneksel Pilav Günü ve Ağaç Dikme Etkinliği",
+  "tarih": "2026-11-18",
+  "bitis": null,
+  "saat": "11:30",
+  "ilce": "Merkez",
+  "mekan": "Mühendislik Fakültesi",
+  "kategori": "Festival",
+  "ucretsiz": true,
+  "ozet": "Şenlik/Festival · Mühendi̇sli̇k Fakültesi̇",
+  "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://aku.edu.tr/etkinlikler",
+  "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261116095338_2026_agac_dikme_.jpg"
+ },
+ {
   "id": "8f90d74402c2",
   "baslik": "Hizmet İçi Eğitim (Ön Mali Kontrol İşlemleri)",
   "tarih": "2026-11-16",
@@ -414,5 +446,21 @@
   "kaynak_tur": "belediye",
   "kaynak_url": "https://www.afyon.bel.tr/guncel/etkinlikler/ayna-konseri",
   "gorsel": "https://www.afyon.bel.tr/uploads/etkinlik/0add3562-76b5-4a7f-81ba-7321e8839acf/gorsel/2026/10/a24374d4-f6d2-4e4c-bfd6-584bd6e1348d-a.jpg-medium.webp"
+ },
+ {
+  "id": "3a1f137aef41",
+  "baslik": "6. Afyonkarahisar Ekim Geçidi Sergisi",
+  "tarih": "2026-10-27",
+  "bitis": "2026-11-18",
+  "saat": "17:30",
+  "ilce": "Merkez",
+  "mekan": "M. Rıza Çerçel Kültür ve Sanat Merkezi Sergi Salonu",
+  "kategori": "Sergi",
+  "ucretsiz": true,
+  "ozet": "Karma Sergi · Güzel Sanatlar Fakültesi̇",
+  "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://aku.edu.tr/etkinlikler",
+  "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261027141418_ekimgecidi_afis.jpeg"
  }
 ]

@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-11-18T14:51+03:00",
+ "guncelleme": "2026-11-19T14:19+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -20,22 +20,6 @@
   "Yeşilhisar"
  ],
  "etkinlikler": [
-  {
-   "id": "252604f0debc",
-   "baslik": "Masal Gülleri",
-   "tarih": "2026-11-18",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Melikgazi",
-   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/masal-gulleri",
-   "gorsel": "veri/gorsel/dt-masal-gulleri.webp"
-  },
   {
    "id": "c3866bcdce51",
    "baslik": "Düğün ya da Davul",
@@ -314,8 +298,8 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 18,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 17,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Abdullah Gül Üniversitesi",
@@ -371,7 +355,7 @@
    "tur": "kultur",
    "url": "https://kayseri.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Kocasinan ve Talas belediyeleri",

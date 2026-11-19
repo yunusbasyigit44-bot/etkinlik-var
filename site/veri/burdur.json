@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-18T14:19+03:00",
+ "guncelleme": "2026-11-19T14:08+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,22 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "ff5f77d32da7",
-   "baslik": "Geleneksel Japon Çay Seremonisi",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Diş Hekimliği Fakültesi Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13623/1/geleneksel-japon-cay-seremonisi",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13623/4_13623_2026-11-16-06-06-35-749424_thumb.webp"
-  },
   {
    "id": "95e507298278",
    "baslik": "Çocuklar İçin P4C",
@@ -110,6 +94,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13463/1/xxii-deney-hayvanlari-kullanim-sertifikasi-kursu",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13463/4_13463_2026-10-02-10-16-02-961148_thumb.webp"
+  },
+  {
+   "id": "3945c083a068",
+   "baslik": "Geleneksel Japon Strateji Oyunu Shogi",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "Nago Kafe, Ünipark AVM",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13647/1/geleneksel-japon-strateji-oyunu-shogi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13647/4_13647_2026-11-18-07-21-27-363538_thumb.webp"
   }
  ],
  "kaynaklar": [
@@ -153,14 +153,14 @@
    "tur": "kultur",
    "url": "https://burdur.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü",
