@@ -1,5 +1,21 @@
 [
  {
+  "id": "d572102a5342",
+  "baslik": "Mesleki Paylaşım Günleri-ıı",
+  "tarih": "2026-11-19",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Altıeylül",
+  "mekan": "BALIKESİR MYO SALON : B101",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Balikesi̇r Myo",
+  "kaynak_ad": "Balıkesir Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+  "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-16_at_20.01.21_1794858298.jpeg"
+ },
+ {
   "id": "490cd10a1bf9",
   "baslik": "Üniversitemizde \"Gençlerin Kur'an Algısı: Bandırma Onyedi Eylül Üniversitesi Özelinde Analitik Bir İnceleme\" Seminer Serisi Devam Ediyor",
   "tarih": "2026-11-18",

@@ -1,5 +1,37 @@
 [
  {
+  "id": "491982573b54",
+  "baslik": "Dünya Felsefe Günü Paneli: İkarus'un Düşüşü'nde Estetiğin Yitimi",
+  "tarih": "2026-11-19",
+  "bitis": null,
+  "saat": "13:30",
+  "ilce": "Akdeniz",
+  "mekan": "Prof. Dr. Uğur Oral Kültür Merkezi B Salonu",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Akademik",
+  "kaynak_ad": "Mersin Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/dunya-felsefe-gunu-paneli-ikarusun-dususunde-estetigin-yitimi-n-10001806",
+  "gorsel": "https://cdn.mersin.edu.tr/public/renditions/5788013e-db2d-4d0d-9276-6d5d9376f9cb/18e0766f-2b90-43d4-b7a5-47811b2ac697/20df6493-b7e9-425e-ab2f-390a3c746b3e/1280-526b4533d4b25cd0c98450139c5b53e013742eb8361c360882e09c9a910070f0.webp"
+ },
+ {
+  "id": "9338692f4d33",
+  "baslik": "İtalyan Ezgileriyle Bir Akşam",
+  "tarih": "2026-11-19",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Akdeniz",
+  "mekan": "Mersin Kültür Merkezi Şeref Salonu",
+  "kategori": "Opera & Bale",
+  "ucretsiz": false,
+  "ozet": "Devlet Opera ve Balesi",
+  "kaynak_ad": "Devlet Opera ve Balesi",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://biletinial.com/opera-bale/alman-ezgileriyle-bir-aksam-mersin-dob",
+  "gorsel": null
+ },
+ {
   "id": "fecb61aad33b",
   "baslik": "Romeo ve Julıet",
   "tarih": "2026-11-17",

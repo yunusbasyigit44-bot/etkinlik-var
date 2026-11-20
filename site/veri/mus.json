@@ -1,6 +1,6 @@
 {
  "il": "mus",
- "guncelleme": "2026-11-19T14:24+03:00",
+ "guncelleme": "2026-11-20T14:13+03:00",
  "ilceler": [
   "Merkez",
   "Bulanık",
@@ -25,6 +25,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.alparslan.edu.tr/page/event/dogumunun-500-yilinda-baki-paneli-9708",
    "gorsel": "https://www.alparslan.edu.tr/images/event/1794918566.jpg"
+  },
+  {
+   "id": "0d31e3624642",
+   "baslik": "Rahve Konuşmaları-71",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/rahve-konusmalari-71-9720",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1795160233.jpg"
   },
   {
    "id": "9f448ae5f732",
@@ -91,6 +107,22 @@
    "gorsel": "https://www.alparslan.edu.tr/images/event/1795015974.jpg"
   },
   {
+   "id": "adf053c85cd6",
+   "baslik": "Öğretmenlik Mesleği ve Özellikleri",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/ogretmenlik-meslegi-ve-ozellikleri-9721",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1795162088.jpg"
+  },
+  {
    "id": "2f49f8677ec9",
    "baslik": "Son Ders",
    "tarih": "2026-11-25",
@@ -105,6 +137,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.alparslan.edu.tr/page/event/son-ders-9671",
    "gorsel": "https://www.alparslan.edu.tr/images/event/1794316978.jpg"
+  },
+  {
+   "id": "4307379ddd8c",
+   "baslik": "Antik Yunandan Önce Felsefe",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/antik-yunandan-once-felsefe-9719",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1795159988.jpg"
   }
  ],
  "kaynaklar": [
@@ -112,7 +160,7 @@
    "ad": "Muş Alparslan Üniversitesi",
    "tur": "universite",
    "url": "https://www.alparslan.edu.tr/tr/page/event",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {

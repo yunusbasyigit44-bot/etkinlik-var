@@ -1,6 +1,6 @@
 {
  "il": "denizli",
- "guncelleme": "2026-11-19T14:09+03:00",
+ "guncelleme": "2026-11-20T13:59+03:00",
  "ilceler": [
   "Pamukkale",
   "Merkezefendi",
@@ -24,22 +24,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "4161bafdce95",
-   "baslik": "Koko'nun Maceraları",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Merkezefendi",
-   "mekan": "Merkezefendi Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Merkezefendi Belediyesi Kültür-Sanat",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlik.aspx?etkinlik=SE5SH-2026-11-11-kokonun-maceralari",
-   "gorsel": "https://www.merkezefendi.bel.tr/kultursanat/Content/yuklemeler/etkinlikler/QA4R%2A%2A%2A%2A%2A%2A%2A2026-27-KOKONUNMACERA.jpg"
-  },
-  {
    "id": "f02b229ffd0e",
    "baslik": "Bavulbaz",
    "tarih": "2026-11-20",
@@ -61,7 +45,7 @@
    "ad": "Merkezefendi Belediyesi Kültür-Sanat",
    "tur": "belediye",
    "url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlikler.aspx",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

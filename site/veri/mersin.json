@@ -1,6 +1,6 @@
 {
  "il": "mersin",
- "guncelleme": "2026-11-19T14:16+03:00",
+ "guncelleme": "2026-11-20T14:05+03:00",
  "ilceler": [
   "Akdeniz",
   "Anamur",
@@ -17,38 +17,6 @@
   "Yenişehir"
  ],
  "etkinlikler": [
-  {
-   "id": "491982573b54",
-   "baslik": "Dünya Felsefe Günü Paneli: İkarus'un Düşüşü'nde Estetiğin Yitimi",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Akdeniz",
-   "mekan": "Prof. Dr. Uğur Oral Kültür Merkezi B Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Akademik",
-   "kaynak_ad": "Mersin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/dunya-felsefe-gunu-paneli-ikarusun-dususunde-estetigin-yitimi-n-10001806",
-   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/5788013e-db2d-4d0d-9276-6d5d9376f9cb/18e0766f-2b90-43d4-b7a5-47811b2ac697/20df6493-b7e9-425e-ab2f-390a3c746b3e/1280-526b4533d4b25cd0c98450139c5b53e013742eb8361c360882e09c9a910070f0.webp"
-  },
-  {
-   "id": "9338692f4d33",
-   "baslik": "İtalyan Ezgileriyle Bir Akşam",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Akdeniz",
-   "mekan": "Mersin Kültür Merkezi Şeref Salonu",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/alman-ezgileriyle-bir-aksam-mersin-dob",
-   "gorsel": "veri/gorsel/dob-4-3386.webp"
-  },
   {
    "id": "a1a4be377e47",
    "baslik": "Tosca",
@@ -96,6 +64,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/dunya-dis-hekimligi-gunu-ve-beyaz-onluk-giyme-toreni-n-10001914",
    "gorsel": "https://cdn.mersin.edu.tr/public/renditions/83f0eb7c-7727-4cb2-beda-133c722f020c/378674f9-2d48-4803-a36b-19d6fcf45c79/202037df-6746-4a7f-8158-d8a97f5b0bf8/1280-c523df7a6eb0c5c1bada06ad622118c7db5c42ba03de694c6490397d04b25d5f.webp"
+  },
+  {
+   "id": "65b5c3af0d27",
+   "baslik": "Mersin Üniversitesi Akademik Oda Orkestrası Öğretmenler Günü Konseri",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Yenişehir",
+   "mekan": "Nevit Kodallı Konser Salonu",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser",
+   "kaynak_ad": "Mersin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/mersin-universitesi-akademik-oda-orkestrasi-ogretmenler-gunu-konseri-n-10001980",
+   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/e331ace2-22b1-40ca-889d-e140b6cc0ae2/881c8da6-62e7-424c-8e7d-912ab3c7bd80/4bf6af5d-e7d4-43b5-af30-54ef90e2c122/960-366c0df713285c019a19b9c67b6cde73d8313170bf919145b7b9dd7d4dd380b8.webp"
   },
   {
    "id": "2de637e357bc",
@@ -240,6 +224,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/copluk-krali-ve-icatci-mersin-dob",
    "gorsel": "veri/gorsel/dob-4-3269.webp"
+  },
+  {
+   "id": "3bb81a28ce29",
+   "baslik": "Pan’ın Son Dansı",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Akdeniz",
+   "mekan": "Mersin Kültür Merkezi Şeref Salonu",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/panin-son-dansi-mersin-dob",
+   "gorsel": "veri/gorsel/dob-4-3246.webp"
   }
  ],
  "kaynaklar": [

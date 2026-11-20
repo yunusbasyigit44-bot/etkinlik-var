@@ -1,6 +1,6 @@
 {
  "il": "aksaray",
- "guncelleme": "2026-11-19T14:28+03:00",
+ "guncelleme": "2026-11-20T14:18+03:00",
  "ilceler": [
   "Merkez",
   "Ağaçören",
@@ -109,6 +109,38 @@
    "gorsel": null
   },
   {
+   "id": "3191730f3f91",
+   "baslik": "Bağımlılıklarla Mücadelede Eğitimi",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "ASÜ Diş Hekimliği Fakültesi Derslik - 2",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/bagimliliklarla-mucadelede-egitimi-4",
+   "gorsel": null
+  },
+  {
+   "id": "e1544b5e9501",
+   "baslik": "Bağımlılıklarla Mücadelede Eğitimi",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "ASÜ Turizm Fakültesi Konferans Salonu",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/bagimliliklarla-mucadelede-egitimi-7",
+   "gorsel": null
+  },
+  {
    "id": "44d67b41f6e6",
    "baslik": "Terörsüz Türkiye Sürecinde Yarınki Türkiye’yi Düşünmek",
    "tarih": "2026-11-23",
@@ -122,6 +154,22 @@
    "kaynak_ad": "Aksaray Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.aksaray.edu.tr/terorsuz-turkiye-surecinde-yarinki-turkiyeyi-dusunmek",
+   "gorsel": null
+  },
+  {
+   "id": "eb3f8aa615ac",
+   "baslik": "Bağımlılıklarla Mücadelede Eğitimi",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "ASÜ Tıp Fakültesi Dönem I Amfisi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/bagimliliklarla-mucadelede-egitimi-6",
    "gorsel": null
   },
   {
@@ -139,6 +187,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.aksaray.edu.tr/aksaray-universitesi-erasmus--ka220-is-birligi-ortakliklari-bilgilendirme-toplantisi",
    "gorsel": null
+  },
+  {
+   "id": "97cc6c846faf",
+   "baslik": "Bağımlılıklarla Mücadelede Eğitimi",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "ASÜ Veteriner Fakültesi Mehmet Akif Ersoy Konferans Salonu",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/bagimliliklarla-mucadelede-egitimi-5",
+   "gorsel": null
   }
  ],
  "kaynaklar": [
@@ -146,7 +210,7 @@
    "ad": "Aksaray Üniversitesi",
    "tur": "universite",
    "url": "https://www.aksaray.edu.tr/Etkinlik-takvimi",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {

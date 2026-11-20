@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-11-19T14:19+03:00",
+ "guncelleme": "2026-11-20T14:08+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -20,22 +20,6 @@
   "Yeşilhisar"
  ],
  "etkinlikler": [
-  {
-   "id": "c3866bcdce51",
-   "baslik": "Düğün ya da Davul",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Melikgazi",
-   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dugun-ya-da-davul",
-   "gorsel": "veri/gorsel/dt-dugun-ya-da-davul.webp"
-  },
   {
    "id": "0630afee35bf",
    "baslik": "Düğün ya da Davul",
@@ -291,6 +275,86 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sirk-atesi",
    "gorsel": "veri/gorsel/dt-sirk-atesi.jpg"
+  },
+  {
+   "id": "a3c75be38d48",
+   "baslik": "Masal Gülleri",
+   "tarih": "2026-12-09",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/masal-gulleri",
+   "gorsel": "veri/gorsel/dt-masal-gulleri.webp"
+  },
+  {
+   "id": "d469906cb0f9",
+   "baslik": "Leenane'in Güzellik Kraliçesi",
+   "tarih": "2026-12-10",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
+   "gorsel": "veri/gorsel/dt-leenanein-guzellik-kralicesi.webp"
+  },
+  {
+   "id": "b2909d204367",
+   "baslik": "Leenane'in Güzellik Kraliçesi",
+   "tarih": "2026-12-11",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
+   "gorsel": "veri/gorsel/dt-leenanein-guzellik-kralicesi.webp"
+  },
+  {
+   "id": "d1f4df5d3b56",
+   "baslik": "Leenane'in Güzellik Kraliçesi",
+   "tarih": "2026-12-12",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
+   "gorsel": "veri/gorsel/dt-leenanein-guzellik-kralicesi.webp"
+  },
+  {
+   "id": "da8d8ed41f2b",
+   "baslik": "Leenane'in Güzellik Kraliçesi",
+   "tarih": "2026-12-12",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Melikgazi",
+   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/leenanein-guzellik-kralicesi",
+   "gorsel": "veri/gorsel/dt-leenanein-guzellik-kralicesi.webp"
   }
  ],
  "kaynaklar": [
@@ -298,7 +362,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 21,
    "durum": "çalışıyor"
   },
   {

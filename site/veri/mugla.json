@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-19T14:23+03:00",
+ "guncelleme": "2026-11-20T14:13+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -34,22 +34,6 @@
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
   },
   {
-   "id": "c733726aba9a",
-   "baslik": "Analizden Sahaya: Modern Antrenörlük Stratejileri",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/analizden-sahaya--modern-antrenorluk-stratejileri-4731",
-   "gorsel": null
-  },
-  {
    "id": "a357bbe59033",
    "baslik": "Eurasia Tourism Summit 2026",
    "tarih": "2026-11-20",
@@ -63,22 +47,6 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/eurasia-tourism-summit-2026-4727",
-   "gorsel": null
-  },
-  {
-   "id": "97909f059db7",
-   "baslik": "Öğrencilerin Kariyer Seçenekleri ve KPSS-DGS Sınavları Hakkında Bilgi Paylaşımı",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Kariyer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/ogrencilerin-kariyer-secenekleri-ve-kpssdgs-sinavlari-hakkinda-bilgi-paylasimi-4717",
    "gorsel": null
   },
   {
@@ -175,6 +143,22 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/bolum-baskani--ogrenci-bulusmasi-4716",
+   "gorsel": null
+  },
+  {
+   "id": "28fe9620c88c",
+   "baslik": "1. Bölüm & Öğrenci Buluşması",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "15:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/1_-bolum--ogrenci-bulusmasi-4740",
    "gorsel": null
   },
   {
@@ -338,22 +322,6 @@
    "gorsel": null
   },
   {
-   "id": "32744ff77180",
-   "baslik": "İklim Değişikliği Altında Köyceğiz'de Orman Yangınlarının Ekolojik Bilançosu: Akköprü ve Çayhisar Yangınları Üzerine Değerlendirmeler",
-   "tarih": "2026-11-30",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/iklim-degisikligi-altinda-koycegizde-orman-yanginlarinin-ekolojik-bilancosu--akkopru-ve-cayhisar-yanginlari-uzerine-degerlendirmeler-4722",
-   "gorsel": null
-  },
-  {
    "id": "0da98399567b",
    "baslik": "Saygılı Yaşam ve Güvenli İlişkiler",
    "tarih": "2026-11-30",
@@ -367,6 +335,22 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/saygili-yasam-ve-guvenli-iliskiler-4734",
+   "gorsel": null
+  },
+  {
+   "id": "32744ff77180",
+   "baslik": "İklim Değişikliği Altında Köyceğiz'de Orman Yangınlarının Ekolojik Bilançosu: Akköprü ve Çayhisar Yangınları Üzerine Değerlendirmeler",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/iklim-degisikligi-altinda-koycegizde-orman-yanginlarinin-ekolojik-bilancosu--akkopru-ve-cayhisar-yanginlari-uzerine-degerlendirmeler-4722",
    "gorsel": null
   },
   {
@@ -402,19 +386,19 @@
    "gorsel": null
   },
   {
-   "id": "2ee0e438991c",
-   "baslik": "S?ğlıklı Yarınlar, Güvenli Adımlar: Üreme Sağlığı ve Bulaşıcı Hastalıklardan Korunma",
+   "id": "4ba58c414d75",
+   "baslik": "Sağlıklı Yarınlar, Güvenli Adımlar: Üreme Sağlığı ve Bulaşıcı Hastalıklardan Korunma",
    "tarih": "2026-12-03",
    "bitis": null,
    "saat": "14:00",
    "ilce": "Menteşe",
    "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Diğer",
+   "kategori": "Sağlık",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/sglikli-yarinlar-guvenli-adimlar--ureme-sagligi-ve-bulasici-hastaliklardan-korunma-4737",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/saglikli-yarinlar-guvenli-adimlar--ureme-sagligi-ve-bulasici-hastaliklardan-korunma-4737",
    "gorsel": null
   },
   {
@@ -503,7 +487,7 @@
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
-   "etkinlik_sayisi": 24,
+   "etkinlik_sayisi": 23,
    "durum": "çalışıyor"
   },
   {

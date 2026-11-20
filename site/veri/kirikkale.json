@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-19T14:28+03:00",
+ "guncelleme": "2026-11-20T14:18+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -14,9 +14,9 @@
  ],
  "etkinlikler": [
   {
-   "id": "4608787dc356",
-   "baslik": "Hareketin Yaşı Yok: Yaş Almış Bireylerde Fiziksel Aktivite ve Yaşam Kalitesi (Bilim Kafe Etkinlikleri)",
-   "tarih": "2026-11-19",
+   "id": "15d133ce67e9",
+   "baslik": "Öğretmenler Günü Etkinliği \"Öğretmen Olmak\"",
+   "tarih": "2026-11-24",
    "bitis": null,
    "saat": null,
    "ilce": "Yahşihan",
@@ -26,39 +26,7 @@
    "ozet": null,
    "kaynak_ad": "Kırıkkale Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10087",
-   "gorsel": null
-  },
-  {
-   "id": "0ba3a7069192",
-   "baslik": "Hukuk Zirvesi",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yahşihan",
-   "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırıkkale Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10085",
-   "gorsel": null
-  },
-  {
-   "id": "dea877788557",
-   "baslik": "Kum Tepsisi Terapisi",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yahşihan",
-   "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırıkkale Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10077",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10098",
    "gorsel": null
   },
   {
@@ -163,7 +131,7 @@
    "ad": "Kırıkkale Üniversitesi",
    "tur": "universite",
    "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

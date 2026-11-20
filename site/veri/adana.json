@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-19T14:04+03:00",
+ "guncelleme": "2026-11-20T13:52+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -19,22 +19,6 @@
   "Yüreğir"
  ],
  "etkinlikler": [
-  {
-   "id": "ee63ae48ebcf",
-   "baslik": "Ağır Roman",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/agir-roman",
-   "gorsel": "veri/gorsel/dt-agir-roman.jpg"
-  },
   {
    "id": "af90cbff461b",
    "baslik": "Ağır Roman",
@@ -146,6 +130,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
    "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
+  },
+  {
+   "id": "207ace843f54",
+   "baslik": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "Çukurova Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çukurova Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cu.edu.tr/haber-detay/25-kasim-kadina-yonelik-siddete-karsi-uluslararasi-mucadele-gunu-1/",
+   "gorsel": "https://www.cu.edu.tr/media/3etf5mfb/whatsapp-image-2026-11-18-at-17-42-19.jpeg"
   },
   {
    "id": "e0a320228382",
@@ -289,7 +289,7 @@
    "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/191120261059_K_1_22165a48-5e85-4da8-a28f-7ffa48243a35.jpg"
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/201120260755_K_g_1_22165a48-5e85-4da8-a28f-7ffa48243a35.jpg"
   },
   {
    "id": "f4b836d54926",
@@ -420,6 +420,22 @@
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
   },
   {
+   "id": "7cd3e6a8b4a9",
+   "baslik": "Ağır Roman",
+   "tarih": "2026-12-08",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Seyhan",
+   "mekan": "Ramazanoğlu Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları Adana",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/agir-roman",
+   "gorsel": "veri/gorsel/dt-agir-roman.jpg"
+  },
+  {
    "id": "6757ee98c06a",
    "baslik": "39 Basamak",
    "tarih": "2026-12-08",
@@ -434,6 +450,38 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791805830_47d3f205c8da2f0947a7.jpeg"
+  },
+  {
+   "id": "360747c522f5",
+   "baslik": "Umudunu Yitirmeyen Sığırcık",
+   "tarih": "2026-12-09",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Seyhan",
+   "mekan": "Ramazanoğlu Fuaye Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları Adana",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/umudunu-yitirmeyen-sigircik",
+   "gorsel": "veri/gorsel/dt-umudunu-yitirmeyen-sigircik.webp"
+  },
+  {
+   "id": "61f428273c05",
+   "baslik": "Ağır Roman",
+   "tarih": "2026-12-09",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Seyhan",
+   "mekan": "Ramazanoğlu Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları Adana",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/agir-roman",
+   "gorsel": "veri/gorsel/dt-agir-roman.jpg"
   },
   {
    "id": "783aacb265e7",
@@ -452,6 +500,38 @@
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791805830_47d3f205c8da2f0947a7.jpeg"
   },
   {
+   "id": "1e1bd0e48485",
+   "baslik": "Umudunu Yitirmeyen Sığırcık",
+   "tarih": "2026-12-10",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Seyhan",
+   "mekan": "Ramazanoğlu Fuaye Sahnesi",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları Adana",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/umudunu-yitirmeyen-sigircik",
+   "gorsel": "veri/gorsel/dt-umudunu-yitirmeyen-sigircik.webp"
+  },
+  {
+   "id": "f96463902ed8",
+   "baslik": "Ağır Roman",
+   "tarih": "2026-12-10",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Seyhan",
+   "mekan": "Ramazanoğlu Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları Adana",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/agir-roman",
+   "gorsel": "veri/gorsel/dt-agir-roman.jpg"
+  },
+  {
    "id": "8a59cc374859",
    "baslik": "39 Basamak",
    "tarih": "2026-12-12",
@@ -466,6 +546,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791805830_47d3f205c8da2f0947a7.jpeg"
+  },
+  {
+   "id": "cde2ce37b327",
+   "baslik": "Fareli Köyün Kavalcısı Peynir Kasabasında",
+   "tarih": "2026-12-13",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Seyhan",
+   "mekan": "Ramazanoğlu Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları Adana",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/fareli-koyun-kavalcisi-peynir-kasabasinda",
+   "gorsel": "veri/gorsel/dt-fareli-koyun-kavalcisi-peynir-kasabasinda.webp"
   },
   {
    "id": "1b2678479ffa",
@@ -564,22 +660,6 @@
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
   },
   {
-   "id": "7b8661f3edda",
-   "baslik": "Karanlıkta Komedi",
-   "tarih": "2026-12-26",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
-  },
-  {
    "id": "40718bb40f1d",
    "baslik": "Geçmem Gerek",
    "tarih": "2026-12-26",
@@ -594,6 +674,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/gecmem_gerek.jpg"
+  },
+  {
+   "id": "7b8661f3edda",
+   "baslik": "Karanlıkta Komedi",
+   "tarih": "2026-12-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Seyhan",
+   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
+   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
   },
   {
    "id": "d76879f68fb7",
@@ -630,6 +726,13 @@
  ],
  "kaynaklar": [
   {
+   "ad": "Devlet Tiyatroları Adana",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 19,
+   "durum": "çalışıyor"
+  },
+  {
    "ad": "Adana Büyükşehir Şehir Tiyatrosu",
    "tur": "belediye",
    "url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
@@ -637,17 +740,10 @@
    "durum": "çalışıyor"
   },
   {
-   "ad": "Devlet Tiyatroları Adana",
-   "tur": "kultur",
-   "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 14,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Çukurova Üniversitesi",
    "tur": "universite",
    "url": "https://www.cu.edu.tr",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "aydin",
- "guncelleme": "2026-11-19T14:07+03:00",
+ "guncelleme": "2026-11-20T13:56+03:00",
  "ilceler": [
   "Efeler",
   "Bozdoğan",
@@ -21,38 +21,6 @@
   "Yenipazar"
  ],
  "etkinlikler": [
-  {
-   "id": "03aa33229b6a",
-   "baslik": "Dünya Felsefe Günü'nün Mimarı Bilge Bir Filozofun Anısına",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Efeler",
-   "mekan": "Atatürk Kongre Merkezi İsa Bey Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Konferans",
-   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/dunya-felsefe-gunu-nun-mimari-bilge-bir-filozofun-anisina-2000148809",
-   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261117155926-YAYIMLANMASIPAGE0003-000042794764794120432531.jpg"
-  },
-  {
-   "id": "58ca48628e85",
-   "baslik": "Aydın'dan Anadolu'ya, Nepal'e, Dünyaya !",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Efeler",
-   "mekan": "Atatürk Kongre Merkezi Aydın Bey Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": "Söyleşi/Tiyatro",
-   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/aydin-dan-anadolu-ya-nepal-e-dunyaya--2000148795",
-   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261112120724-MAGE20261112AT114803-000049732365972650058610.jpeg"
-  },
   {
    "id": "5fcafaa1df30",
    "baslik": "Ticari Pilot Eğitimleri Başlıyor",
@@ -395,7 +363,7 @@
    "ad": "Aydın Adnan Menderes Üniversitesi",
    "tur": "universite",
    "url": "https://haber.adu.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 23,
+   "etkinlik_sayisi": 21,
    "durum": "çalışıyor"
   },
   {

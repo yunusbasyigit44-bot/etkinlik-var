@@ -1,5 +1,37 @@
 [
  {
+  "id": "3103d4e90a81",
+  "baslik": "Doğumunun 150. Yılında Ziya Gökalp ve Türk Felsefesinin İnşası Sempozyumu",
+  "tarih": "2026-11-19",
+  "bitis": null,
+  "saat": "09:00",
+  "ilce": "Yakutiye",
+  "mekan": "Atatürk Üniversitesi",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Atatürk Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://atauni.edu.tr/etkinlik/ziya-gokalp-ve-turk-felsefesinin-insasi/",
+  "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/10/zy-731x1024.jpeg"
+ },
+ {
+  "id": "de457a65daeb",
+  "baslik": "Timur ve Yıldırım",
+  "tarih": "2026-11-19",
+  "bitis": null,
+  "saat": "19:30",
+  "ilce": "Yakutiye",
+  "mekan": "Erzurum DT Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/timur-ve-yildirim",
+  "gorsel": null
+ },
+ {
   "id": "7acc5faa9776",
   "baslik": "”Direniş Kültürü: Filistin’in Sesi” Film Gösterimi",
   "tarih": "2026-11-16",

@@ -1,6 +1,6 @@
 {
  "il": "edirne",
- "guncelleme": "2026-11-19T14:10+03:00",
+ "guncelleme": "2026-11-20T13:59+03:00",
  "ilceler": [
   "Merkez",
   "Enez",
@@ -12,21 +12,70 @@
   "Süloğlu",
   "Uzunköprü"
  ],
- "etkinlikler": [],
+ "etkinlikler": [
+  {
+   "id": "a79b3d123c0a",
+   "baslik": "Kendi Gök Kubbemiz (Yahya Kemal)",
+   "tarih": "2026-12-08",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Merkez",
+   "mekan": "Edirne DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kendi-gok-kubbemiz-yahya-kemal",
+   "gorsel": "veri/gorsel/dt-kendi-gok-kubbemiz-yahya-kemal.jpg"
+  },
+  {
+   "id": "f8619a42c6fe",
+   "baslik": "Kendi Gök Kubbemiz (Yahya Kemal)",
+   "tarih": "2026-12-09",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Merkez",
+   "mekan": "Edirne DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kendi-gok-kubbemiz-yahya-kemal",
+   "gorsel": "veri/gorsel/dt-kendi-gok-kubbemiz-yahya-kemal.jpg"
+  },
+  {
+   "id": "45678a292e34",
+   "baslik": "Kendi Gök Kubbemiz (Yahya Kemal)",
+   "tarih": "2026-12-10",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Merkez",
+   "mekan": "Edirne DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kendi-gok-kubbemiz-yahya-kemal",
+   "gorsel": "veri/gorsel/dt-kendi-gok-kubbemiz-yahya-kemal.jpg"
+  }
+ ],
  "kaynaklar": [
+  {
+   "ad": "Devlet Tiyatroları",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 3,
+   "durum": "çalışıyor"
+  },
   {
    "ad": "8 ilçe kaymakamlığı ve belediyeleri (Keşan, Uzunköprü…)",
    "tur": "kaymakamlik",
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "etkinlik takvimi yok"
-  },
-  {
-   "ad": "Devlet Tiyatroları",
-   "tur": "kultur",
-   "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Edirne Belediyesi",

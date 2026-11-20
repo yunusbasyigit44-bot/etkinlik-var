@@ -16,6 +16,22 @@
   "gorsel": "https://kultur.manisa.bel.tr/uploads/events/356d43db-b999-4798-ac11-725945cba06a_HAYAL-SATICISI-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
  },
  {
+  "id": "80f6e477dd92",
+  "baslik": "Hansel ve Gretel",
+  "tarih": "2026-11-16",
+  "bitis": "2026-11-19",
+  "saat": "14:00",
+  "ilce": "Şehzadeler",
+  "mekan": "Şehir Tiyatrosu Uğur Mumcu Sahnesi - Şehzadeler / Manisa",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1293",
+  "gorsel": "https://kultur.manisa.bel.tr/uploads/events/629bec17-fed8-4401-a508-fe8ca4d4b6e2_HANSEL-GRETEL-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
+ },
+ {
   "id": "b423f03b6315",
   "baslik": "Klinik Tanıda Multi-Omik Yaklaşımların Yeri",
   "tarih": "2026-11-11",

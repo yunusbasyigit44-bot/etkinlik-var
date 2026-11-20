@@ -1,6 +1,6 @@
 {
  "il": "van",
- "guncelleme": "2026-11-19T14:28+03:00",
+ "guncelleme": "2026-11-20T14:18+03:00",
  "ilceler": [
   "İpekyolu",
   "Tuşba",
@@ -17,22 +17,6 @@
   "Saray"
  ],
  "etkinlikler": [
-  {
-   "id": "2fedfde879d9",
-   "baslik": "Büyük İskender'in Atı",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "İpekyolu",
-   "mekan": "Van Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buyuk-iskenderin-ati",
-   "gorsel": "veri/gorsel/dt-buyuk-iskenderin-ati.jpg"
-  },
   {
    "id": "5773ce760d15",
    "baslik": "Büyük İskender'in Atı",
@@ -304,6 +288,102 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/corap-gonzo",
    "gorsel": "veri/gorsel/dt-corap-gonzo.jpg"
+  },
+  {
+   "id": "8900b211dc34",
+   "baslik": "Papağan Kaçtı",
+   "tarih": "2026-12-08",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/papagan-kacti",
+   "gorsel": "veri/gorsel/dt-papagan-kacti.webp"
+  },
+  {
+   "id": "66dc31ada7e9",
+   "baslik": "Büyük İskender'in Atı",
+   "tarih": "2026-12-10",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buyuk-iskenderin-ati",
+   "gorsel": "veri/gorsel/dt-buyuk-iskenderin-ati.jpg"
+  },
+  {
+   "id": "216b6279f874",
+   "baslik": "Büyük İskender'in Atı",
+   "tarih": "2026-12-11",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buyuk-iskenderin-ati",
+   "gorsel": "veri/gorsel/dt-buyuk-iskenderin-ati.jpg"
+  },
+  {
+   "id": "577fea9a1d07",
+   "baslik": "Büyük İskender'in Atı",
+   "tarih": "2026-12-12",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buyuk-iskenderin-ati",
+   "gorsel": "veri/gorsel/dt-buyuk-iskenderin-ati.jpg"
+  },
+  {
+   "id": "f0d12f467ddc",
+   "baslik": "Büyük İskender'in Atı",
+   "tarih": "2026-12-12",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "İpekyolu",
+   "mekan": "Van Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buyuk-iskenderin-ati",
+   "gorsel": "veri/gorsel/dt-buyuk-iskenderin-ati.jpg"
+  },
+  {
+   "id": "d7c78acc7ade",
+   "baslik": "Çorap Gonzo",
+   "tarih": "2026-12-13",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "İpekyolu",
+   "mekan": "Erhan Gökgücü DT Genç Sahne",
+   "kategori": "Çocuk",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/corap-gonzo",
+   "gorsel": "veri/gorsel/dt-corap-gonzo.jpg"
   }
  ],
  "kaynaklar": [
@@ -311,7 +391,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 23,
    "durum": "çalışıyor"
   },
   {

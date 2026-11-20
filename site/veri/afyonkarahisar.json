@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-19T14:04+03:00",
+ "guncelleme": "2026-11-20T13:52+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -135,6 +135,38 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261110173240_img-20261110-wa0024.jpg"
   },
   {
+   "id": "abcecbd9290d",
+   "baslik": "Katılım Finansında Dijital Dönüşüm: FinTech, Yapay Zekâ ve Geleceğin Bankacılığı",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Merkez",
+   "mekan": "Z16",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": "Eğitim Programı · İslam İkti̇sadi Ve Fi̇nansi Uygulama Ve Araştirma Me",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261120002113_kariyer_okulu.jpg"
+  },
+  {
+   "id": "d6e375502f6c",
+   "baslik": "4. Ticaret Zirvesi",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kongre Merkezi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Konferans · Gi̇ri̇şi̇mci̇li̇k Ve Kari̇yer Geli̇şti̇rme Ve Uyg.Ve Arş.M",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261119172928_24_kasim_sureyya_ciliv.jpeg"
+  },
+  {
    "id": "9fd480a2d24f",
    "baslik": "Şiddetin Yeni Formu: Dijital Şiddet",
    "tarih": "2026-11-24",
@@ -199,6 +231,22 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261116122614_kucuk_boyutlu_olan.jpg"
   },
   {
+   "id": "0a0914b6b3c6",
+   "baslik": "Hilal METE’yi Anma Programı",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Merkez",
+   "mekan": "İlahiyat Fakültesi Konferans Salonu",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": "İlahi̇yat Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261119174446_whatsapp_image_2026-11-19_at_15.51.45.jpeg"
+  },
+  {
    "id": "920596a30d5c",
    "baslik": "Kökler ve Ateş",
    "tarih": "2026-11-25",
@@ -245,6 +293,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261104153646_kariyer_gunleri_soylesileri.jpeg"
+  },
+  {
+   "id": "b7881e9f11c7",
+   "baslik": "İlahiyatçı Neyi Bilir",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Merkez",
+   "mekan": "İlahiyat Fakültesi Konferans Salonu",
+   "kategori": "Geleneksel Müzik",
+   "ucretsiz": true,
+   "ozet": "Konferans · İlahi̇yat Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261119175417_whatsapp-image-2026-11-19-at-15.51.45-3.jpeg"
   },
   {
    "id": "09ad3a09fef5",
@@ -396,7 +460,7 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 24,
+   "etkinlik_sayisi": 28,
    "durum": "çalışıyor"
   },
   {

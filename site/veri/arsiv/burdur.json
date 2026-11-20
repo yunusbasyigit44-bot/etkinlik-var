@@ -1,5 +1,37 @@
 [
  {
+  "id": "95e507298278",
+  "baslik": "Çocuklar İçin P4C",
+  "tarih": "2026-11-19",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Merkez",
+  "mekan": "Eğitim Fakültesi Konferans Salonu",
+  "kategori": "Çocuk",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mehmetakif.edu.tr/content/13543/1/cocuklar-icin-p4c",
+  "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13543/4_13543_2026-10-28-06-59-00-693617_thumb.webp"
+ },
+ {
+  "id": "f5094618c575",
+  "baslik": "Gurur ve Önyargı Film Gösterimi",
+  "tarih": "2026-11-19",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Merkez",
+  "mekan": "Avşar Han Sinema Salonu",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mehmetakif.edu.tr/content/13612/1/gurur-ve-onyargi-film-gosterimi",
+  "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13612/4_13612_2026-11-12-10-12-58-345580_thumb.webp"
+ },
+ {
   "id": "90f095060205",
   "baslik": "Kampüs Buluşması: Ağız ve Diş Sağlığı Taraması ve Bilgilendirmesi",
   "tarih": "2026-11-16",

@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-19T14:08+03:00",
+ "guncelleme": "2026-11-20T13:56+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -24,22 +24,6 @@
   "Susurluk"
  ],
  "etkinlikler": [
-  {
-   "id": "d572102a5342",
-   "baslik": "Mesleki Paylaşım Günleri-ıı",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Altıeylül",
-   "mekan": "BALIKESİR MYO SALON : B101",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Balikesi̇r Myo",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-16_at_20.01.21_1794858298.jpeg"
-  },
   {
    "id": "8469ff57319f",
    "baslik": "Narkorehber Gençlik Modülü Eğitimi",
@@ -119,6 +103,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_%C3%96%C4%9Fretmenler_G%C3%BCn%C3%BC_Etkinli%C4%9Fi_1795067396.jpeg"
+  },
+  {
+   "id": "7252dcccf210",
+   "baslik": "Müdür Öğrenci Buluşması",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Edremit",
+   "mekan": "Altınoluk Meslek Yüksekokulu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Altinoluk Meslek Yüksekokulu",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-19_at_13.52.34_1795086404.jpeg"
   },
   {
    "id": "513be0c09e09",

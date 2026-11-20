@@ -1,6 +1,6 @@
 {
  "il": "nevsehir",
- "guncelleme": "2026-11-19T14:24+03:00",
+ "guncelleme": "2026-11-20T14:14+03:00",
  "ilceler": [
   "Merkez",
   "Acıgöl",
@@ -12,22 +12,6 @@
   "Ürgüp"
  ],
  "etkinlikler": [
-  {
-   "id": "10d5429b1cd6",
-   "baslik": "Felsefe Kulübünden “Güncel Sorunlar, Felsefi Sorular” Konulu Panel",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Nevşehir Hacı Bektaş Veli Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Kültürel Etkinlik",
-   "kaynak_ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://nevsehir.edu.tr/tr/59523",
-   "gorsel": null
-  },
   {
    "id": "798c8d115fb2",
    "baslik": "12. Kadın ve Bilim Etkinliği NEVÜ'de Başlıyor!",
@@ -54,10 +38,26 @@
    "mekan": "Nevşehir Hacı Bektaş Veli Üniversitesi",
    "kategori": "Kariyer",
    "ucretsiz": true,
-   "ozet": null,
+   "ozet": "Kültürel Etkinlik",
    "kaynak_ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.nevsehir.edu.tr/tr/59592",
+   "gorsel": null
+  },
+  {
+   "id": "25beafd5367b",
+   "baslik": "Şehit Tarık KESEKÇİ Şehadet Yıl Dönümünde Anılıyor",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Kültürel Etkinlik",
+   "kaynak_ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.nevsehir.edu.tr/tr/59636",
    "gorsel": null
   },
   {

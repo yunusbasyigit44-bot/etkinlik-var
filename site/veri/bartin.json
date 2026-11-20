@@ -1,54 +1,14 @@
 {
  "il": "bartin",
- "guncelleme": "2026-11-19T14:29+03:00",
+ "guncelleme": "2026-11-20T14:19+03:00",
  "ilceler": [
   "Merkez",
   "Amasra",
   "Kurucaşile",
   "Ulus"
  ],
- "etkinlikler": [
-  {
-   "id": "c28dd65d4bfe",
-   "baslik": "Itec Conference 2026",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Merkez",
-   "mekan": "None",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bartın Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bartin.edu.tr/etkinlikler/itec-conference-2026.html",
-   "gorsel": "https://cdn.bartin.edu.tr/w3/1cd2b98daf5d5306d70ea7aa1eb84d42/whatsappimage20260609at09.38.54_tifil.jpeg"
-  },
-  {
-   "id": "28c0998e9f07",
-   "baslik": "1. Sürdürülebilir Bölgesel Kalkınma Sempozyumu",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Kutlubey Yerleşkesi Fatih Sultan Mehmet Konferans Salonu",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bartın Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bartin.edu.tr/etkinlikler/1.-surdurulebilir-bolgesel-kalkinma-sempozyumu.html",
-   "gorsel": "https://cdn.bartin.edu.tr/w3/e29da0ba6dbb8251e06347489d7bf10a/whatsappimage20261112at12.08.59_tifil.jpeg"
-  }
- ],
+ "etkinlikler": [],
  "kaynaklar": [
-  {
-   "ad": "Bartın Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.bartin.edu.tr/",
-   "etkinlik_sayisi": 2,
-   "durum": "çalışıyor"
-  },
   {
    "ad": "Amasra Belediyesi",
    "tur": "belediye",
@@ -69,6 +29,13 @@
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "duyurular idari; etkinlik yok"
+  },
+  {
+   "ad": "Bartın Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.bartin.edu.tr/",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Bartın İl Kültür ve Turizm Müdürlüğü",

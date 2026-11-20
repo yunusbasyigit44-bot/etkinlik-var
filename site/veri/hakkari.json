@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-11-19T14:15+03:00",
+ "guncelleme": "2026-11-20T14:04+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -9,6 +9,22 @@
   "Yüksekova"
  ],
  "etkinlikler": [
+  {
+   "id": "0e27ead46c57",
+   "baslik": "24 Kasım Öğretmenler Günü Programı",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Merkez",
+   "mekan": "Abdürrahim Zapsu Konferans Salonu (2. Kat)",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Diğer",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/551/24-kasim-ogretmenler-gunu-programi",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/551/cover/thumb/c674ac30f77b4556b104daf602dca5cb.webp"
+  },
   {
    "id": "8a44404f0533",
    "baslik": "\"Yeraltından Ekonomiye\" Etkinliği",
@@ -47,7 +63,7 @@
    "ad": "Hakkari Üniversitesi",
    "tur": "universite",
    "url": "https://www.hakkari.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

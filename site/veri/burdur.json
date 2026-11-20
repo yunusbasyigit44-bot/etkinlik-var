@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-19T14:08+03:00",
+ "guncelleme": "2026-11-20T13:57+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,54 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "95e507298278",
-   "baslik": "Çocuklar İçin P4C",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Merkez",
-   "mekan": "Eğitim Fakültesi Konferans Salonu",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13543/1/cocuklar-icin-p4c",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13543/4_13543_2026-10-28-06-59-00-693617_thumb.webp"
-  },
-  {
-   "id": "f5094618c575",
-   "baslik": "Gurur ve Önyargı Film Gösterimi",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Avşar Han Sinema Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13612/1/gurur-ve-onyargi-film-gosterimi",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13612/4_13612_2026-11-12-10-12-58-345580_thumb.webp"
-  },
-  {
-   "id": "0c8fde1968cf",
-   "baslik": "Yaratıcı Drama ve Masal Anlatıcılığı",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Merkez",
-   "mekan": "Eğitim Fakültesi Konferans Salonu",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13542/1/yaratici-drama-ve-masal-anlaticiligi",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13542/4_13542_2026-10-28-07-00-34-52824_thumb.webp"
-  },
   {
    "id": "2ca6ecbf44c4",
    "baslik": "Öğretmenime Bir Çiçek Geleceğe Bir Umut",
@@ -110,6 +62,54 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13647/1/geleneksel-japon-strateji-oyunu-shogi",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13647/4_13647_2026-11-18-07-21-27-363538_thumb.webp"
+  },
+  {
+   "id": "75be268f9433",
+   "baslik": "Frp 101",
+   "tarih": "2026-11-21",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Fast System Coffee Üst Katı",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13652/1/frp-101",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13652/4_13652_2026-11-18-07-33-08-609900_thumb.webp"
+  },
+  {
+   "id": "5612f36d5903",
+   "baslik": "Güvenli Okul İkliminde Öğretmenin Rolü",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Merkez",
+   "mekan": "Burdur İl Milli Eğitim Müdürlüğü Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13656/1/guvenli-okul-ikliminde-ogretmenin-rolu",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13656/4_13656_2026-11-19-11-03-02-986478_thumb.webp"
+  },
+  {
+   "id": "8d2804541ac7",
+   "baslik": "Kağıttan Hayallere Uzanan Yolculuk: Origami ve Yaratıcılık Atölyesi",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "Yaşlılık Çalışmaları Uygulama Araştırma Merkezi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13608/1/kagittan-hayallere-uzanan-yolculuk-origami-ve-yaraticilik-atolyesi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13608/4_13608_2026-11-11-10-09-04-894876_thumb.webp"
   }
  ],
  "kaynaklar": [

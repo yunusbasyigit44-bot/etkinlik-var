@@ -1,6 +1,6 @@
 {
  "il": "kocaeli",
- "guncelleme": "2026-11-19T14:20+03:00",
+ "guncelleme": "2026-11-20T14:09+03:00",
  "ilceler": [
   "Başiskele",
   "Çayırova",
@@ -16,38 +16,6 @@
   "Körfez"
  ],
  "etkinlikler": [
-  {
-   "id": "82f50afdaf2b",
-   "baslik": "Bir Masal Bir Şarkı",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Gebze",
-   "mekan": "Gebze Kültür Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Çocuk Etkinliği",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/bir-masal-bir-sarki_1046.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030105007.jpg"
-  },
-  {
-   "id": "e102c3c7e0b3",
-   "baslik": "Annem Derdi ki - Prof. Dr. Dursun Ali Tökel",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Gebze",
-   "mekan": "Gebze Kültür Merkezi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Söyleşi",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/annem-derdi-ki-prof-dr-dursun-ali-tokel_1047.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030105141.jpg"
-  },
   {
    "id": "9aa3ad59fae5",
    "baslik": "Harika Kanatlar Okyanusun Merkezine Yolculuk",
@@ -230,7 +198,7 @@
    "ad": "Gebze Belediyesi",
    "tur": "belediye",
    "url": "https://www.gebze.bel.tr/json/etkinlik.json",
-   "etkinlik_sayisi": 13,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {

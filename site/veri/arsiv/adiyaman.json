@@ -1,5 +1,37 @@
 [
  {
+  "id": "bd5a5adcac1f",
+  "baslik": "Uygulamalı TÜBİTAK 1002 Proje Yazım ve Değerlendirme Atölyesi",
+  "tarih": "2026-11-19",
+  "bitis": null,
+  "saat": "09:30",
+  "ilce": "Merkez",
+  "mekan": "Lisansüstü Eğitim Enstitüsü Tolantı Salonu ve Çevrimiçi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Adıyaman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/19/uygulamali-tubitak-1002-proje-yazim-ve-degerlendirme-atolyesi",
+  "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/19/uygulamali-tubitak-1002-proje-yazim-ve-degerlendirme-atolyesi/thumb/t%C3%BCbitakyaz%C4%B1l%C4%B1m.jpg"
+ },
+ {
+  "id": "385c105d155b",
+  "baslik": "Seramik Boyama Atölyesi",
+  "tarih": "2026-11-19",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Merkez",
+  "mekan": "Safvan Çocuk Evleri Sitesi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Adıyaman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/19/seramik-boyama-atolyesi-",
+  "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/19/seramik-boyama-atolyesi-/thumb/seramik%20boyama%20ve%20a%C4%9Fa%C3%A7%20dikimi.jpg"
+ },
+ {
   "id": "b1feede52139",
   "baslik": "Kampüsümü Seviyorum Kampüsümü Ağaçlandırıyorum",
   "tarih": "2026-11-11",

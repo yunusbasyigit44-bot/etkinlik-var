@@ -1,6 +1,6 @@
 {
  "il": "manisa",
- "guncelleme": "2026-11-19T14:22+03:00",
+ "guncelleme": "2026-11-20T14:11+03:00",
  "ilceler": [
   "Ahmetli",
   "Akhisar",
@@ -52,22 +52,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1294",
    "gorsel": "https://kultur.manisa.bel.tr/uploads/events/144fb3dd-4274-49f5-8c3e-97bf5f230971_MI%CC%87ZOJI%CC%87NI%CC%87-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
-  },
-  {
-   "id": "80f6e477dd92",
-   "baslik": "Hansel ve Gretel",
-   "tarih": "2026-11-16",
-   "bitis": "2026-11-19",
-   "saat": "14:00",
-   "ilce": "Şehzadeler",
-   "mekan": "Şehir Tiyatrosu Uğur Mumcu Sahnesi - Şehzadeler / Manisa",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1293",
-   "gorsel": "https://kultur.manisa.bel.tr/uploads/events/629bec17-fed8-4401-a508-fe8ca4d4b6e2_HANSEL-GRETEL-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
   },
   {
    "id": "06b06427b8e3",
@@ -134,6 +118,22 @@
    "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261119123810754-NRYJM.jpg"
   },
   {
+   "id": "c3be8835128b",
+   "baslik": "Aile Akademisi",
+   "tarih": "2026-11-30",
+   "bitis": "2026-12-04",
+   "saat": "09:00",
+   "ilce": "Yunusemre",
+   "mekan": "MCBÜ Süleyman Demirel Kültür Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/aile-akademisi#baslangic",
+   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261120103026906-C8JGT.jpg"
+  },
+  {
    "id": "fe2ecc988218",
    "baslik": "Bireysel Yurtdışı Gönderilerde Lojistik",
    "tarih": "2026-11-30",
@@ -184,18 +184,18 @@
  ],
  "kaynaklar": [
   {
-   "ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
-   "tur": "belediye",
-   "url": "https://kultur.manisa.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 5,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
-  },
-  {
    "ad": "Manisa Celal Bayar Üniversitesi",
    "tur": "universite",
    "url": "https://www.mcbu.edu.tr",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
+  },
+  {
+   "ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
+   "tur": "belediye",
+   "url": "https://kultur.manisa.bel.tr/etkinlikler",
+   "etkinlik_sayisi": 4,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Akhisar, Turgutlu, Salihli, Soma belediyeleri",

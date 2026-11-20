@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-19T14:20+03:00",
+ "guncelleme": "2026-11-20T14:09+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -35,70 +35,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "d3bd68f58706",
-   "baslik": "Yastık Adam",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
-   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
-  },
-  {
-   "id": "1645d76a0b2d",
-   "baslik": "Bando ve Mehteran Takımı",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/bando-ve-mehteran-takimi/1023",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAyBilmjccQ296naROtXR3SHNgU-hwjQ.jpeg"
-  },
-  {
-   "id": "3efdff21c072",
-   "baslik": "Şehir Konferasnları - Mustafa Karataş",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferasnlari-mustafa-karatas/1341",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/EUnkpGW61rW7MVtSvTHRjnIJk4LBevEC.jpeg"
-  },
-  {
-   "id": "c34330389de6",
-   "baslik": "Konya Okulu - Prof. Dr. Ömer Özpınar",
-   "tarih": "2026-11-19",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-omer-ozpinar/1212",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/D0JfVX30v_QV6zHMCiLrLbEeJJUhCC60.jpeg"
-  },
-  {
    "id": "6569647a16cd",
    "baslik": "Yastık Adam",
    "tarih": "2026-11-20",
@@ -115,22 +51,6 @@
    "gorsel": "veri/gorsel/dt-yastik-adam.webp"
   },
   {
-   "id": "61481137ce50",
-   "baslik": "Konya Okulu - Prof. Dr. İbrahim Işıtan",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ibrahim-isitan/1213",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/oET8lUtuoOMCDVGMfJLHfOT2Bg4F3FHY.jpeg"
-  },
-  {
    "id": "e7f90b45986b",
    "baslik": "Şehir Konferansları - Mustafa Karataş",
    "tarih": "2026-11-20",
@@ -145,6 +65,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-mustafa-karatas/1339",
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/svdeg5RsOTG2AQTtsJi_KkY9msoRCK8K.jpeg"
+  },
+  {
+   "id": "61481137ce50",
+   "baslik": "Konya Okulu - Prof. Dr. İbrahim Işıtan",
+   "tarih": "2026-11-20",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ibrahim-isitan/1213",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/oET8lUtuoOMCDVGMfJLHfOT2Bg4F3FHY.jpeg"
   },
   {
    "id": "49d57347ad29",
@@ -307,6 +243,22 @@
    "gorsel": "veri/gorsel/dt-yastik-adam.webp"
   },
   {
+   "id": "47dd45c4862f",
+   "baslik": "Bando ve Mehteran Takımı",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Geleneksel Müzik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/bando-ve-mehteran-takimi/1023",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAyBilmjccQ296naROtXR3SHNgU-hwjQ.jpeg"
+  },
+  {
    "id": "8c1a210e4b30",
    "baslik": "Konya Okulu - Rıfat Oral",
    "tarih": "2026-11-24",
@@ -385,6 +337,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
    "gorsel": "veri/gorsel/dt-yastik-adam.webp"
+  },
+  {
+   "id": "02310a1a0a87",
+   "baslik": "Konya Okulu - Prof. Dr. Ömer Özpınar",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-omer-ozpinar/1212",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/D0JfVX30v_QV6zHMCiLrLbEeJJUhCC60.jpeg"
   },
   {
    "id": "214f83ade8e5",
@@ -673,6 +641,54 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/woyzeck",
    "gorsel": "veri/gorsel/dt-woyzeck.webp"
+  },
+  {
+   "id": "04857aca6cf9",
+   "baslik": "Yunus Benem (Kumdan Şehir)",
+   "tarih": "2026-12-10",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Selçuklu",
+   "mekan": "Konya DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yunus-benem-kumdan-sehir",
+   "gorsel": "veri/gorsel/dt-yunus-benem-kumdan-sehir.webp"
+  },
+  {
+   "id": "ad5862779371",
+   "baslik": "Yunus Benem (Kumdan Şehir)",
+   "tarih": "2026-12-11",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Selçuklu",
+   "mekan": "Konya DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yunus-benem-kumdan-sehir",
+   "gorsel": "veri/gorsel/dt-yunus-benem-kumdan-sehir.webp"
+  },
+  {
+   "id": "d5995ac93b26",
+   "baslik": "Yunus Benem (Kumdan Şehir)",
+   "tarih": "2026-12-12",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Selçuklu",
+   "mekan": "Konya DT Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yunus-benem-kumdan-sehir",
+   "gorsel": "veri/gorsel/dt-yunus-benem-kumdan-sehir.webp"
   }
  ],
  "kaynaklar": [
@@ -680,14 +696,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 20,
    "durum": "çalışıyor"
   },
   {
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {

@@ -1,5 +1,37 @@
 [
  {
+  "id": "55c3c98e7f64",
+  "baslik": "Kıyamete Yakın Kaybettiğimiz Kıymetlerimiz",
+  "tarih": "2026-11-19",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Ortahisar",
+  "mekan": "Radyo/TV",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/kiyamete-yakin-kaybettigimiz-kiymetlerimiz-zF",
+  "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_ca490cfdfbc0.jpg"
+ },
+ {
+  "id": "fe191adb17b9",
+  "baslik": "Julıus Caesar",
+  "tarih": "2026-11-19",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Ortahisar",
+  "mekan": "Haluk Ongan Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/julius-caesar",
+  "gorsel": null
+ },
+ {
   "id": "3afaa3a2e3f6",
   "baslik": "3. Doğu Karadeniz Fizyoterapi Günleri",
   "tarih": "2026-11-18",
