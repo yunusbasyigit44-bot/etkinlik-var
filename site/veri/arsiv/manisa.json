@@ -1,5 +1,21 @@
 [
  {
+  "id": "06b06427b8e3",
+  "baslik": "Aşk Listesi",
+  "tarih": "2026-11-19",
+  "bitis": "2026-11-20",
+  "saat": "20:00",
+  "ilce": "Şehzadeler",
+  "mekan": "Şehir Tiyatrosu Uğur Mumcu Sahnesi - Şehzadeler / Manisa",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1297",
+  "gorsel": "https://kultur.manisa.bel.tr/uploads/events/0fb47f94-88ff-435a-8321-ea56ec280d4c_AS%CC%A7K-LI%CC%87STESI%CC%87-LAMBASI-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
+ },
+ {
   "id": "8b8fefec47eb",
   "baslik": "Hayal Satıcısı",
   "tarih": "2026-11-16",

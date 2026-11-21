@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "cf5895dd7c11",
+  "baslik": "Bilim İletişimi Ofisi Bilim Kafe Söyleşileri (Tunceli İlinde Su Yönetimi ve İklim Değişikliği)",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Munzur Üniversitesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Munzur Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.munzur.edu.tr/etkinlikler/bilim-i-letisimi-ofisi-bilim-kafe-soylesileri-tunceli-i-linde-su-yonetimi-ve-i-klim-degisikligi",
+  "gorsel": "https://cdn.munzur.edu.tr/www/media/su.jpeg"
+ }
+]

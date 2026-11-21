@@ -1,5 +1,21 @@
 [
  {
+  "id": "2ca6ecbf44c4",
+  "baslik": "Öğretmenime Bir Çiçek Geleceğe Bir Umut",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": "19:00",
+  "ilce": "Merkez",
+  "mekan": "Medusa Vadi Kafe",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mehmetakif.edu.tr/content/13648/1/ogretmenime-bir-cicek-gelecege-bir-umut",
+  "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13648/4_13648_2026-11-18-07-23-22-241769_thumb.webp"
+ },
+ {
   "id": "95e507298278",
   "baslik": "Çocuklar İçin P4C",
   "tarih": "2026-11-19",

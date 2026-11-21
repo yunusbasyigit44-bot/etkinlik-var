@@ -1,5 +1,37 @@
 [
  {
+  "id": "8469ff57319f",
+  "baslik": "Narkorehber Gençlik Modülü Eğitimi",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": "10:00",
+  "ilce": "Edremit",
+  "mekan": "Edremit Meslek Yüksekokulu Konferans Salonu",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": "Edremit Meslek Yüksekokulu",
+  "kaynak_ad": "Balıkesir Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+  "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-18_at_22.23.30_1795030848.jpeg"
+ },
+ {
+  "id": "06333a265d82",
+  "baslik": "Bump VI",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": "17:00",
+  "ilce": "Altıeylül",
+  "mekan": "Balıkesir Üniversitesi Güzel Sanatlar Fakültesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Baski Sanatlari Bölümü",
+  "kaynak_ad": "Balıkesir Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+  "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_bump_VI__1791466040.jpeg"
+ },
+ {
   "id": "d572102a5342",
   "baslik": "Mesleki Paylaşım Günleri-ıı",
   "tarih": "2026-11-19",

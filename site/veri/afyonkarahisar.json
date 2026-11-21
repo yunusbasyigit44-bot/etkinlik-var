@@ -1,6 +1,6 @@
 {
  "il": "afyonkarahisar",
- "guncelleme": "2026-11-20T13:52+03:00",
+ "guncelleme": "2026-11-21T13:37+03:00",
  "ilceler": [
   "Merkez",
   "Başmakçı",
@@ -71,38 +71,6 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261115123613_17kasimafis.jpeg"
   },
   {
-   "id": "905f368b866f",
-   "baslik": "Minik Şefler İş Başına",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "AKÜ Turizm Fakültesi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "WORKSHOP · Gastronomi̇ Topluluğu",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": "https://topluluklar.aku.edu.tr/admn/afisler/20261108115330_6cc92f77-3de3-45dc-8f12-b738cb9ccb52.jpg"
-  },
-  {
-   "id": "2236696ac53d",
-   "baslik": "Afete Hazır Ol, Hayat Kurtar",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Merkez",
-   "mekan": "Afyonkarahisar AFAD İl Müdürlüğü ve Operasyon Merkezi",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": "Teknik Gezi · Bi̇yomedi̇kal Mühendi̇sli̇ği̇ Kulübü",
-   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://aku.edu.tr/etkinlikler",
-   "gorsel": null
-  },
-  {
    "id": "538c13cf9be1",
    "baslik": "24 kasım öğretmenler günü etkinliği",
    "tarih": "2026-11-23",
@@ -117,6 +85,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": null
+  },
+  {
+   "id": "f8c3427a9553",
+   "baslik": "Bağımlılıkla Mücadele",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Prof. Dr. Sabri Bektöre Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Konferans · Sağlik Kültür Spor Dai̇re Başkanliği",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261120163231_whatsapp_image_2026-11-20_at_16.06.44.jpeg"
   },
   {
    "id": "e32fef1798f8",
@@ -151,6 +135,22 @@
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261120002113_kariyer_okulu.jpg"
   },
   {
+   "id": "3656d94485a3",
+   "baslik": "Katılım Finans: Dönüşüm İnovasyon ve Kariyer Eğitim Programı-Katılım Finansında Dijital Dönüşüm Fintech, Yapay Zeka ve Geleceğin Bankacılığı",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Merkez",
+   "mekan": "İİBF Z16 NOLU DERSLİK",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": "Seminer · İkti̇sadi̇ Ve İdari̇ Bi̇li̇mler Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261120150252_whatsapp_image_2026-11-20_at_14..jpg"
+  },
+  {
    "id": "d6e375502f6c",
    "baslik": "4. Ticaret Zirvesi",
    "tarih": "2026-11-24",
@@ -165,6 +165,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://aku.edu.tr/etkinlikler",
    "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261119172928_24_kasim_sureyya_ciliv.jpeg"
+  },
+  {
+   "id": "c1665342f2b9",
+   "baslik": "4. Ticaret Zirvesi: Yeni Dünyada Global Rekabette Kazanmak",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kongre Merkezi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminer · İkti̇sadi̇ Ve İdari̇ Bi̇li̇mler Fakültesi̇",
+   "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://aku.edu.tr/etkinlikler",
+   "gorsel": "https://etkinlik.aku.edu.tr/afisler/20261120152406_whatsapp_image_2026-11-20_at_15..jpg"
   },
   {
    "id": "9fd480a2d24f",
@@ -460,7 +476,7 @@
    "ad": "Afyon Kocatepe Üniversitesi",
    "tur": "universite",
    "url": "https://aku.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 28,
+   "etkinlik_sayisi": 29,
    "durum": "çalışıyor"
   },
   {

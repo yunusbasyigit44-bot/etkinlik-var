@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-20T13:56+03:00",
+ "guncelleme": "2026-11-21T13:40+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -24,38 +24,6 @@
   "Susurluk"
  ],
  "etkinlikler": [
-  {
-   "id": "8469ff57319f",
-   "baslik": "Narkorehber Gençlik Modülü Eğitimi",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Edremit",
-   "mekan": "Edremit Meslek Yüksekokulu Konferans Salonu",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Edremit Meslek Yüksekokulu",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-18_at_22.23.30_1795030848.jpeg"
-  },
-  {
-   "id": "06333a265d82",
-   "baslik": "Bump VI",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Altıeylül",
-   "mekan": "Balıkesir Üniversitesi Güzel Sanatlar Fakültesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Baski Sanatlari Bölümü",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_bump_VI__1791466040.jpeg"
-  },
   {
    "id": "3da7fbdf1d43",
    "baslik": "Hijyen Eğitimi",
@@ -87,6 +55,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-18_at_13.38.17_1794998664.jpeg"
+  },
+  {
+   "id": "d5576db5c4ca",
+   "baslik": "Organ Bağışında Farkındalık” Konferansı",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Bandırma",
+   "mekan": "Nazım Hikmet Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bandırma Onyedi Eylül Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste/Organ-Bagisinda-Farkindalik-Konferansi--1949?k=-1",
+   "gorsel": null
   },
   {
    "id": "d1976c1009b8",
@@ -121,6 +105,22 @@
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-19_at_13.52.34_1795086404.jpeg"
   },
   {
+   "id": "2ec7f1a54cb7",
+   "baslik": "Kendi Hikâyenin Mimarı Ol: Sağlıklı Sınırlar, Güvenli İlişkiler ve İlişkilerde Farkındalık” Etkinliği",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Bandırma",
+   "mekan": "Prof. Dr. Aziz Sancar Konferans Salonu",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bandırma Onyedi Eylül Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste/Kendi-Hikayenin-Mimari-Ol-Saglikli-Sinirlar-Guvenli-Iliskiler-ve-Iliskilerde-Farkindalik-Etkinligi--1950?k=-1",
+   "gorsel": null
+  },
+  {
    "id": "513be0c09e09",
    "baslik": "İmam Birgivi’nin İzinde: İlim, İrfan ve Ahlak",
    "tarih": "2026-11-26",
@@ -151,6 +151,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_1794390254412_1794403015.png"
+  },
+  {
+   "id": "d1262f8d7c79",
+   "baslik": "BUBFA ESPORTS 1v1 ARAM Turnuvası",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "12:00",
+   "ilce": "Altıeylül",
+   "mekan": "Online",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": "Burhaniye Uygulamali Bilimler Fakültesi",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_espor_etkinli%C4%9Fi_1795175846.jpeg"
   },
   {
    "id": "3f19c60803c8",
@@ -238,7 +254,14 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 13,
+   "etkinlik_sayisi": 12,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Bandırma Onyedi Eylül Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste?k=-1",
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {
@@ -275,13 +298,6 @@
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "oyun takvimi yayımlanmıyor"
-  },
-  {
-   "ad": "Bandırma Onyedi Eylül Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste?k=-1",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Devlet Tiyatroları",

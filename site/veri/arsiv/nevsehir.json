@@ -1,5 +1,37 @@
 [
  {
+  "id": "798c8d115fb2",
+  "baslik": "12. Kadın ve Bilim Etkinliği NEVÜ'de Başlıyor!",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Kültürel Etkinlik",
+  "kaynak_ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://sks.nevsehir.edu.tr/tr/59528?onizleme",
+  "gorsel": null
+ },
+ {
+  "id": "35ac6416fa5c",
+  "baslik": "Kamuda Kariyer Sınavlarına Hazırlık Semineri” 20 Kasım’da İİBF'de",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+  "kategori": "Kariyer",
+  "ucretsiz": true,
+  "ozet": "Kültürel Etkinlik",
+  "kaynak_ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.nevsehir.edu.tr/tr/59592",
+  "gorsel": null
+ },
+ {
   "id": "10d5429b1cd6",
   "baslik": "Felsefe Kulübünden “Güncel Sorunlar, Felsefi Sorular” Konulu Panel",
   "tarih": "2026-11-19",

@@ -1,5 +1,21 @@
 [
  {
+  "id": "280d59073a11",
+  "baslik": "ALGAECircle Projesi Açılış Töreni",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Yozgat Bozok Üniversitesi",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Yozgat Bozok Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4279",
+  "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/afd4680b.jpeg"
+ },
+ {
   "id": "8e63cb9b0e9b",
   "baslik": "Kitap Günü Etkinliği",
   "tarih": "2026-11-19",

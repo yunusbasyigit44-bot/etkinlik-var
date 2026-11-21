@@ -1,5 +1,37 @@
 [
  {
+  "id": "a357bbe59033",
+  "baslik": "Eurasia Tourism Summit 2026",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": "09:00",
+  "ilce": "Menteşe",
+  "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/eurasia-tourism-summit-2026-4727",
+  "gorsel": null
+ },
+ {
+  "id": "ae11a7f25c9a",
+  "baslik": "Birlikte Gelişim Programı",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": "13:30",
+  "ilce": "Menteşe",
+  "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/birlikte-gelisim-programi-4735",
+  "gorsel": null
+ },
+ {
   "id": "c733726aba9a",
   "baslik": "Analizden Sahaya: Modern Antrenörlük Stratejileri",
   "tarih": "2026-11-19",

@@ -1,16 +1,12 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-11-20",
+ "guncelleme": "2026-11-21",
  "secilenler": [
   {
    "id": "d7762ec713f9",
    "baslik": "Romantika / Bir Ömrün Seyrüseferi — Nazım Hikmet Sergisi",
    "not": "Kültürpark'ta ocak ortasına kadar açık.",
    "elle": true
-  },
-  {
-   "id": "af58619fbd69",
-   "not": "İzmir'de opera ve bale sahnesinden bir akşam."
   },
   {
    "id": "3f31f782913b",
@@ -21,16 +17,24 @@
    "not": "Antalya'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "4aae59e3b525",
-   "not": "Eskişehir'de canlı müzik keyfi."
-  },
-  {
-   "id": "49d57347ad29",
-   "not": "Konya'da canlı müzik keyfi."
+   "id": "a1a4be377e47",
+   "not": "Mersin'de opera ve bale sahnesinden bir akşam."
   },
   {
    "id": "21fe9d268548",
    "not": "Kocaeli'de canlı müzik keyfi."
+  },
+  {
+   "id": "071c67a77627",
+   "not": "Adıyaman'da canlı müzik keyfi."
+  },
+  {
+   "id": "65b5c3af0d27",
+   "not": "Mersin'de canlı müzik keyfi."
+  },
+  {
+   "id": "9b8d89e266c2",
+   "not": "Sivas'ta festival havası."
   },
   {
    "id": "74b205c1679f",
@@ -41,6 +45,10 @@
    "not": "Konya'da geleneksel ezgiler."
   },
   {
+   "id": "3ece3a01880f",
+   "not": "İzmir'de geleneksel ezgiler."
+  },
+  {
    "id": "4d1fa340e6fa",
    "not": "Manisa'da perde açılıyor."
   },
@@ -49,12 +57,8 @@
    "not": "Manisa'da perde açılıyor."
   },
   {
-   "id": "f02b229ffd0e",
-   "not": "Denizli'de perde açılıyor."
-  },
-  {
-   "id": "b7881e9f11c7",
-   "not": "Afyonkarahisar'da geleneksel ezgiler."
+   "id": "1c29abd32dcc",
+   "not": "Erzurum'da perde açılıyor."
   },
   {
    "id": "a00303c71871",
@@ -63,10 +67,6 @@
   {
    "id": "6f85dac51929",
    "not": "Eskişehir'de gezip görülecek bir sergi."
-  },
-  {
-   "id": "6dbaf62dc677",
-   "not": "Muğla'da gezip görülecek bir sergi."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-20T13:56+03:00",
+ "guncelleme": "2026-11-21T13:40+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -152,38 +152,6 @@
    "gorsel": null
   },
   {
-   "id": "1281cdeeb7e7",
-   "baslik": "4. Bilimsel Diş Hekimliği Sempozyumu",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Döşemealtı",
-   "mekan": "Antalya Bilim Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Antalya Bilim Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/4-bilimsel-dis-hekimligi-sempozyumu",
-   "gorsel": null
-  },
-  {
-   "id": "97a8a5e3ca56",
-   "baslik": "Diş Hekimliği Fakültesi Beyaz Önlük Giyme Töreni",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Döşemealtı",
-   "mekan": "Antalya Bilim Üniversitesi",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Antalya Bilim Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/dis-hekimligi-fakultesi-beyaz-onluk-giyme-toreni-2",
-   "gorsel": null
-  },
-  {
    "id": "6ccd45982ac4",
    "baslik": "ABÜ, 20 Kasım’da COP31 Yeşil Bölge’deki YÖK Alanında Hukuk Paneli Düzenleyecek",
    "tarih": "2026-11-20",
@@ -246,22 +214,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/halk-sagligi-gezegen-sagligi-ve-insan-guvenligi-konferansi",
    "gorsel": null
-  },
-  {
-   "id": "f49eb63c2c44",
-   "baslik": "Taziye",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/taziye",
-   "gorsel": "veri/gorsel/dt-taziye.webp"
   },
   {
    "id": "e5ec1692909f",
@@ -344,6 +296,22 @@
    "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
   },
   {
+   "id": "dde0c51c8263",
+   "baslik": "Afet Hazırlık Eğitimi : Depreme Hazır Mısınız?",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Döşemealtı",
+   "mekan": "Antalya Bilim Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/afet-hazirlik-egitimi-depreme-hazir-misiniz",
+   "gorsel": null
+  },
+  {
    "id": "b80f803496f9",
    "baslik": "Kadın Çalışmaları ve Toplumsal Cinsiyet Araştırma ve Uygulama Merkezi 'Saygılı Yaşam ve Güvenli İlişkiler Eğitimi'",
    "tarih": "2026-11-23",
@@ -422,6 +390,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/therese-raquin-bir-cinayetin-anatomisi",
    "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
+  },
+  {
+   "id": "45fcad39cc47",
+   "baslik": "Eğitim Fakültesi '24 Kasım Öğretmenler Günü Kutlama Etkinliği'",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Eğitim Fakültesi Konferans Salonu",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/egitim_fakultesi_24_kasim_ogretmenler_gunu_kutlama_etkinligi_-5801",
+   "gorsel": null
   },
   {
    "id": "c12b2c062c8d",
@@ -973,14 +957,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 34,
+   "etkinlik_sayisi": 33,
    "durum": "çalışıyor"
   },
   {
    "ad": "Antalya Bilim Üniversitesi",
    "tur": "universite",
    "url": "https://www.antalya.edu.tr/tr/etkinlik-takvimi",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {
@@ -994,7 +978,7 @@
    "ad": "Akdeniz Üniversitesi",
    "tur": "universite",
    "url": "https://www.akdeniz.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

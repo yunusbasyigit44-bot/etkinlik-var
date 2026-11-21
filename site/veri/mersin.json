@@ -1,6 +1,6 @@
 {
  "il": "mersin",
- "guncelleme": "2026-11-20T14:05+03:00",
+ "guncelleme": "2026-11-21T13:48+03:00",
  "ilceler": [
   "Akdeniz",
   "Anamur",
@@ -96,6 +96,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/girisimci-liderlik-atolyesi-n-10001933",
    "gorsel": "https://cdn.mersin.edu.tr/public/renditions/cb56b1cb-21a3-418f-9284-3a523159b20a/31e32a31-4f64-470c-8dc1-ede014dfad17/354e63bd-01e5-45be-8d8f-09fd05ed57be/960-89780832a0192c0e637d522e0a5fa31d90c34a593007ea3a16e6673438696da7.webp"
+  },
+  {
+   "id": "0c1181dc9b62",
+   "baslik": "Eğitim Fakültesi 24 Kasım Öğretmenler Günü Kutlama Programı",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Yenişehir",
+   "mekan": "Eğitim Fakültesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Etkinlik",
+   "kaynak_ad": "Mersin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/egitim-fakultesi-24-kasim-ogretmenler-gunu-kutlama-programi-n-10001998",
+   "gorsel": "https://cdn.mersin.edu.tr/public/renditions/d460b6c4-f752-4eab-a51d-e7f0301bcfca/1c4a30d9-3b44-450e-b526-62ebba28b89e/56ed616d-a8b2-4ae1-b773-3c1a1fb43a51/1280-205f8ef793b6eac2e2ba70cd122f4d6a2f6576359881aead978daa48261ae31f.webp"
   },
   {
    "id": "bd586b892c1c",
@@ -254,7 +270,7 @@
    "ad": "Mersin Üniversitesi",
    "tur": "universite",
    "url": "https://www.mersin.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

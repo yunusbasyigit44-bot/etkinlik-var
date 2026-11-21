@@ -1,5 +1,37 @@
 [
  {
+  "id": "905f368b866f",
+  "baslik": "Minik Şefler İş Başına",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": "10:00",
+  "ilce": "Merkez",
+  "mekan": "AKÜ Turizm Fakültesi",
+  "kategori": "Çocuk",
+  "ucretsiz": true,
+  "ozet": "WORKSHOP · Gastronomi̇ Topluluğu",
+  "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://aku.edu.tr/etkinlikler",
+  "gorsel": "https://topluluklar.aku.edu.tr/admn/afisler/20261108115330_6cc92f77-3de3-45dc-8f12-b738cb9ccb52.jpg"
+ },
+ {
+  "id": "2236696ac53d",
+  "baslik": "Afete Hazır Ol, Hayat Kurtar",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": "13:30",
+  "ilce": "Merkez",
+  "mekan": "Afyonkarahisar AFAD İl Müdürlüğü ve Operasyon Merkezi",
+  "kategori": "Doğa & Gezi",
+  "ucretsiz": true,
+  "ozet": "Teknik Gezi · Bi̇yomedi̇kal Mühendi̇sli̇ği̇ Kulübü",
+  "kaynak_ad": "Afyon Kocatepe Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://aku.edu.tr/etkinlikler",
+  "gorsel": null
+ },
+ {
   "id": "b3bfc894bb6b",
   "baslik": "Bağımsız Gelecek, Sağlıklı Nesiller",
   "tarih": "2026-11-18",

@@ -1,6 +1,6 @@
 {
  "il": "karaman",
- "guncelleme": "2026-11-20T14:18+03:00",
+ "guncelleme": "2026-11-21T14:00+03:00",
  "ilceler": [
   "Merkez",
   "Ayrancı",
@@ -10,22 +10,6 @@
   "Sarıveliler"
  ],
  "etkinlikler": [
-  {
-   "id": "9846190a3883",
-   "baslik": "Önlük giyme töreni",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4157",
-   "gorsel": null
-  },
   {
    "id": "3df92aafc8f6",
    "baslik": "Canli Müzik Etkinligi",
@@ -240,7 +224,7 @@
    "ad": "Karamanoğlu Mehmetbey Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.kmu.edu.tr/index.aspx",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {

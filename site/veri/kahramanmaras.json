@@ -1,6 +1,6 @@
 {
  "il": "kahramanmaras",
- "guncelleme": "2026-11-20T14:11+03:00",
+ "guncelleme": "2026-11-21T13:54+03:00",
  "ilceler": [
   "Afşin",
   "Andırın",
@@ -15,22 +15,6 @@
   "Türkoğlu"
  ],
  "etkinlikler": [
-  {
-   "id": "ad95e0d31d56",
-   "baslik": "2026-2027 Akademik Yılı Açılış Töreni",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Onikişubat",
-   "mekan": "Yunus Emre Kongre ve Kültür Merkezi Sezai Karakoç Konferans Salonu",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": "Kahramanmaraş Sütçü İmam Üniversitesi",
-   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=142",
-   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611161418251888.jpg"
-  },
   {
    "id": "4b27d8a1e404",
    "baslik": "4. Geleneksel Öğretmenler Günü Koşusu",
@@ -101,7 +85,7 @@
    "ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
    "tur": "universite",
    "url": "https://www.ksu.edu.tr/",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

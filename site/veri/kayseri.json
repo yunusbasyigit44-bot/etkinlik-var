@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-11-20T14:08+03:00",
+ "guncelleme": "2026-11-21T13:51+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -20,22 +20,6 @@
   "Yeşilhisar"
  ],
  "etkinlikler": [
-  {
-   "id": "0630afee35bf",
-   "baslik": "Düğün ya da Davul",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Melikgazi",
-   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dugun-ya-da-davul",
-   "gorsel": "veri/gorsel/dt-dugun-ya-da-davul.webp"
-  },
   {
    "id": "19c4aa222084",
    "baslik": "Düğün ya da Davul",
@@ -362,7 +346,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 21,
+   "etkinlik_sayisi": 20,
    "durum": "çalışıyor"
   },
   {

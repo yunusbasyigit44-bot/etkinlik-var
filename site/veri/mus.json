@@ -1,6 +1,6 @@
 {
  "il": "mus",
- "guncelleme": "2026-11-20T14:13+03:00",
+ "guncelleme": "2026-11-21T13:56+03:00",
  "ilceler": [
   "Merkez",
   "Bulanık",
@@ -139,6 +139,22 @@
    "gorsel": "https://www.alparslan.edu.tr/images/event/1794316978.jpg"
   },
   {
+   "id": "2531819c3c8d",
+   "baslik": "Öğrenci ve Personel Masa Tenisi Turnuvası",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/ogrenci-ve-personel-masa-tenisi-turnuvasi-9722",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1795180086.jpg"
+  },
+  {
    "id": "4307379ddd8c",
    "baslik": "Antik Yunandan Önce Felsefe",
    "tarih": "2026-11-25",
@@ -153,6 +169,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.alparslan.edu.tr/page/event/antik-yunandan-once-felsefe-9719",
    "gorsel": "https://www.alparslan.edu.tr/images/event/1795159988.jpg"
+  },
+  {
+   "id": "4ff987528dcd",
+   "baslik": "Kadına Yönelik Şiddetle Mücadele Günü",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/kadina-yonelik-siddetle-mucadele-gunu-9723",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1795182825.jpg"
   }
  ],
  "kaynaklar": [
@@ -160,7 +192,7 @@
    "ad": "Muş Alparslan Üniversitesi",
    "tur": "universite",
    "url": "https://www.alparslan.edu.tr/tr/page/event",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {

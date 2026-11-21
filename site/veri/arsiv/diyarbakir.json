@@ -1,5 +1,21 @@
 [
  {
+  "id": "e584c3524d47",
+  "baslik": "Palyaço Bar",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Yenişehir",
+  "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/palyaco-bar",
+  "gorsel": null
+ },
+ {
   "id": "44c028c7cf7d",
   "baslik": "Palyaço Bar",
   "tarih": "2026-11-19",

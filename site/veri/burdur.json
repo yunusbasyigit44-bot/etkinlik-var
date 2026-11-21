@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-20T13:57+03:00",
+ "guncelleme": "2026-11-21T13:41+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,38 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "2ca6ecbf44c4",
-   "baslik": "Öğretmenime Bir Çiçek Geleceğe Bir Umut",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Merkez",
-   "mekan": "Medusa Vadi Kafe",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13648/1/ogretmenime-bir-cicek-gelecege-bir-umut",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13648/4_13648_2026-11-18-07-23-22-241769_thumb.webp"
-  },
-  {
-   "id": "c1d9b1c52215",
-   "baslik": "XXII. Deney Hayvanları Kullanım Sertifikası Kursu",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "00:00",
-   "ilce": "Merkez",
-   "mekan": "Teorik Dersler Online - Uygulamalı Dersler Veterinerlik Fakültesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13463/1/xxii-deney-hayvanlari-kullanim-sertifikasi-kursu",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13463/4_13463_2026-10-02-10-16-02-961148_thumb.webp"
-  },
   {
    "id": "3945c083a068",
    "baslik": "Geleneksel Japon Strateji Oyunu Shogi",
@@ -110,6 +78,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13608/1/kagittan-hayallere-uzanan-yolculuk-origami-ve-yaraticilik-atolyesi",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13608/4_13608_2026-11-11-10-09-04-894876_thumb.webp"
+  },
+  {
+   "id": "fd72ef4d3282",
+   "baslik": "Mezun Buluşmaları: Sahadan Notlar Öğretmen Akademisi ve RAM Deneyimleri",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "14:15",
+   "ilce": "Merkez",
+   "mekan": "Eğitim Fakültesi A Blok Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13649/1/mezun-bulusmalari-sahadan-notlar-ogretmen-akademisi-ve-ram-deneyimleri",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13649/4_13649_2026-11-18-07-26-26-397039_thumb.webp"
+  },
+  {
+   "id": "25590febfcf1",
+   "baslik": "Güç (Gençliğin Üretim Çağı)",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13633/1/guc-gencligin-uretim-cagi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13633/4_13633_2026-11-16-11-00-21-66256_thumb.webp"
   }
  ],
  "kaynaklar": [

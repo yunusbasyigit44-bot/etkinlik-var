@@ -1,5 +1,21 @@
 [
  {
+  "id": "f02b229ffd0e",
+  "baslik": "Bavulbaz",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": "14:30",
+  "ilce": "Merkezefendi",
+  "mekan": "Merkezefendi Kültür Merkezi",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Merkezefendi Belediyesi Kültür-Sanat",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlik.aspx?etkinlik=D48E9-2026-11-11-bavulbaz",
+  "gorsel": "https://www.merkezefendi.bel.tr/kultursanat/Content/yuklemeler/etkinlikler/IEQ9211-11-2026-18-BAVULBAZ.jpg"
+ },
+ {
   "id": "4161bafdce95",
   "baslik": "Koko'nun Maceraları",
   "tarih": "2026-11-19",

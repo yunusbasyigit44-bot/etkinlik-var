@@ -1,6 +1,6 @@
 {
  "il": "kocaeli",
- "guncelleme": "2026-11-20T14:09+03:00",
+ "guncelleme": "2026-11-21T13:52+03:00",
  "ilceler": [
   "Başiskele",
   "Çayırova",
@@ -16,22 +16,6 @@
   "Körfez"
  ],
  "etkinlikler": [
-  {
-   "id": "9aa3ad59fae5",
-   "baslik": "Harika Kanatlar Okyanusun Merkezine Yolculuk",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Gebze",
-   "mekan": "Gebze Kültür Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Çocuk Sineması",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/harika-kanatlar-okyanusun-merkezine-yolculuk_1048.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030105700.jpg"
-  },
   {
    "id": "e34961748423",
    "baslik": "Meraklı Civciv",
@@ -198,7 +182,7 @@
    "ad": "Gebze Belediyesi",
    "tur": "belediye",
    "url": "https://www.gebze.bel.tr/json/etkinlik.json",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {

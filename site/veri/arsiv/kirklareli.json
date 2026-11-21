@@ -1,5 +1,21 @@
 [
  {
+  "id": "f78ce8a56cdc",
+  "baslik": "Trockyablues Seyirci Koroları Sezonun İlk Konseri",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Lüleburgaz",
+  "mekan": "lysa",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Lüleburgaz Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://etkinlik.luleburgaz.bel.tr/etkinlik/450",
+  "gorsel": null
+ },
+ {
   "id": "b71b2bd1c558",
   "baslik": "8 Kasım Özel Konseri",
   "tarih": "2026-11-08",

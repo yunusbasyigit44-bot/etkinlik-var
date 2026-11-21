@@ -1,6 +1,6 @@
 {
  "il": "mardin",
- "guncelleme": "2026-11-20T14:12+03:00",
+ "guncelleme": "2026-11-21T13:55+03:00",
  "ilceler": [
   "Artuklu",
   "Dargeçit",
@@ -13,32 +13,8 @@
   "Savur",
   "Yeşilli"
  ],
- "etkinlikler": [
-  {
-   "id": "072ed01e2579",
-   "baslik": "I.Uluslararası Artuklu İktisadi İdari Ve Siyasi Bilimler Kongresi",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Artuklu",
-   "mekan": "MAÜ Organize Sanayi Bölgesi MY0",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Mardin Artuklu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.artuklu.edu.tr/tr/etkinlikler/iuluslararasi-artuklu-iktisadi-idari-ve-siyasi-bilimler-kongresi",
-   "gorsel": "https://www.artuklu.edu.tr/upload/Events/EventsImage/00010/00010200_5smh35xpi5kn6_t307x430.jpg"
-  }
- ],
+ "etkinlikler": [],
  "kaynaklar": [
-  {
-   "ad": "Mardin Artuklu Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.artuklu.edu.tr",
-   "etkinlik_sayisi": 1,
-   "durum": "çalışıyor"
-  },
   {
    "ad": "Artuklu Belediyesi",
    "tur": "belediye",
@@ -66,6 +42,13 @@
    "url": "https://www.kiziltepe.bel.tr",
    "etkinlik_sayisi": 0,
    "durum": "etkinlik takvimi yok; duyurular idari"
+  },
+  {
+   "ad": "Mardin Artuklu Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.artuklu.edu.tr",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Mardin Büyükşehir Belediyesi",

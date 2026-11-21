@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-11-20T14:08+03:00",
+ "guncelleme": "2026-11-21T13:51+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -147,22 +147,6 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-05/6fdd8156-439d-4268-91a9-dab9b9640c37-0e5jkozs.jpeg"
   },
   {
-   "id": "bbed42678ead",
-   "baslik": "''Bunca Zaman'' Dokuma Resim Sergisi",
-   "tarih": "2026-11-13",
-   "bitis": "2026-11-20",
-   "saat": null,
-   "ilce": null,
-   "mekan": "Tarihi Bıçakçı Han",
-   "kategori": "Sergi",
-   "ucretsiz": null,
-   "ozet": null,
-   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-05/19568c31-f692-4cdc-aa39-56c56e1e0c84-ejxdbi33.jpeg"
-  },
-  {
    "id": "0ed6bbac9068",
    "baslik": "SHIFT+VCD’26 İzmir Ekonomi Üniversitesi Öğrenci Projeleri Sergisi",
    "tarih": "2026-11-17",
@@ -177,54 +161,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-05/22e73358-9733-4d82-872c-f7041a1c314f-tne1yvyq.jpeg"
-  },
-  {
-   "id": "d80901905c4a",
-   "baslik": "Rüstemoğlu Cemal'in Tuhaf Hikâyesi",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/rustemoglu-cemalin-tuhaf-hikayesi",
-   "gorsel": "veri/gorsel/dt-rustemoglu-cemalin-tuhaf-hikayesi.jpg"
-  },
-  {
-   "id": "37343bc8d7ed",
-   "baslik": "Medea",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/medea",
-   "gorsel": "veri/gorsel/dt-medea.jpg"
-  },
-  {
-   "id": "af58619fbd69",
-   "baslik": "Ionıa Chamber",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Konak",
-   "mekan": "Elhamra Sahnesi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/tr-tr/opera-bale/ionia-chamber-izmir-dob",
-   "gorsel": "veri/gorsel/dob-3-3412.webp"
   },
   {
    "id": "93b3863129de",
@@ -1315,6 +1251,22 @@
    "gorsel": "veri/gorsel/dt-radyo-yu-humayun.jpg"
   },
   {
+   "id": "255c0c0df14c",
+   "baslik": "İtalyan Gecesi & Genç Yetenekler",
+   "tarih": "2026-12-09",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "Elhamra Sahnesi",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/italyan-gecesi-genc-yetenekler-izmir-dob",
+   "gorsel": "veri/gorsel/dob-3-3424.webp"
+  },
+  {
    "id": "3ae2a1f5ec82",
    "baslik": "33.TBD-Halıcı Bilgisayarla Beste Yarışması",
    "tarih": "2026-12-10",
@@ -1592,14 +1544,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 59,
+   "etkinlik_sayisi": 57,
    "durum": "çalışıyor"
   },
   {
    "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "tur": "belediye",
    "url": "https://kultursanat.izmir.bel.tr/",
-   "etkinlik_sayisi": 30,
+   "etkinlik_sayisi": 29,
    "durum": "çalışıyor"
   },
   {
@@ -1684,7 +1636,7 @@
    "tur": "kultur",
    "url": "https://izmir.ktb.gov.tr",
    "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+   "durum": "hata: The read operation timed out"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-20T14:09+03:00",
+ "guncelleme": "2026-11-21T13:53+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,70 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "6569647a16cd",
-   "baslik": "Yastık Adam",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
-   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
-  },
-  {
-   "id": "e7f90b45986b",
-   "baslik": "Şehir Konferansları - Mustafa Karataş",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-mustafa-karatas/1339",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/svdeg5RsOTG2AQTtsJi_KkY9msoRCK8K.jpeg"
-  },
-  {
-   "id": "61481137ce50",
-   "baslik": "Konya Okulu - Prof. Dr. İbrahim Işıtan",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ibrahim-isitan/1213",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/oET8lUtuoOMCDVGMfJLHfOT2Bg4F3FHY.jpeg"
-  },
-  {
-   "id": "49d57347ad29",
-   "baslik": "Mevlid-i Şerif Sohbetleri ve Musiki Dinletisi",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/mevlid-i-serif-sohbetleri-ve-musiki-dinletisi/1260",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/5OrQICE4fnnwGHV_oucalNtjQpjdbUgZ.jpeg"
-  },
   {
    "id": "c726fd234afc",
    "baslik": "Yastık Adam",
@@ -419,6 +355,22 @@
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/wcbyD2JrgJZ0D3-Xu8jC3m3JcLLf7HSU.jpeg"
   },
   {
+   "id": "3ddd027ad158",
+   "baslik": "Konya Okulu - Prof. Dr. İbrahim Işıtan",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ibrahim-isitan/1213",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/oET8lUtuoOMCDVGMfJLHfOT2Bg4F3FHY.jpeg"
+  },
+  {
    "id": "bc161b641ebe",
    "baslik": "Müzikli Maarif Takvimi",
    "tarih": "2026-11-27",
@@ -611,6 +563,22 @@
    "gorsel": "veri/gorsel/dt-woyzeck.webp"
   },
   {
+   "id": "264a87a51ec3",
+   "baslik": "Mevlid-i Şerif Sohbetleri ve Musiki Dinletisi",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/mevlid-i-serif-sohbetleri-ve-musiki-dinletisi/1260",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/5OrQICE4fnnwGHV_oucalNtjQpjdbUgZ.jpeg"
+  },
+  {
    "id": "dae74126ae0d",
    "baslik": "Woyzeck",
    "tarih": "2026-12-05",
@@ -696,14 +664,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 20,
+   "etkinlik_sayisi": 19,
    "durum": "çalışıyor"
   },
   {
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
-   "etkinlik_sayisi": 13,
+   "etkinlik_sayisi": 12,
    "durum": "çalışıyor"
   },
   {

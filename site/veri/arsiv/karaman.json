@@ -1,5 +1,21 @@
 [
  {
+  "id": "9846190a3883",
+  "baslik": "Önlük giyme töreni",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": "10:00",
+  "ilce": "Merkez",
+  "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4157",
+  "gorsel": null
+ },
+ {
   "id": "38b3a1e901d1",
   "baslik": "Halk Sagligi Hemsireligi Dersi",
   "tarih": "2026-11-13",

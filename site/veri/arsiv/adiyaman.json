@@ -1,5 +1,37 @@
 [
  {
+  "id": "2b98748f5c7d",
+  "baslik": "Kızılin Gezisi ve Fidan Dikimi",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": "10:30",
+  "ilce": "Merkez",
+  "mekan": "Kızılin İskele",
+  "kategori": "Doğa & Gezi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Adıyaman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/20/kizilin-gezisi-ve-fidan-dikimi",
+  "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/20/kizilin-gezisi-ve-fidan-dikimi/thumb/%C4%B1mg-20261117-wa0029.jpg"
+ },
+ {
+  "id": "360a03c5226c",
+  "baslik": "Etkili İletişim Becerileri",
+  "tarih": "2026-11-20",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Merkez",
+  "mekan": "(ÇEVRİMİÇİ) ONLINE",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Adıyaman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/20/etkili-iletisim-becerileri",
+  "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/20/etkili-iletisim-becerileri/thumb/etkili%20ileti%C5%9Fim.jpg"
+ },
+ {
   "id": "bd5a5adcac1f",
   "baslik": "Uygulamalı TÜBİTAK 1002 Proje Yazım ve Değerlendirme Atölyesi",
   "tarih": "2026-11-19",

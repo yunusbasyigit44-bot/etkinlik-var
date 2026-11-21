@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-20T13:52+03:00",
+ "guncelleme": "2026-11-21T13:36+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -19,22 +19,6 @@
   "Yüreğir"
  ],
  "etkinlikler": [
-  {
-   "id": "af90cbff461b",
-   "baslik": "Ağır Roman",
-   "tarih": "2026-11-20",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/agir-roman",
-   "gorsel": "veri/gorsel/dt-agir-roman.jpg"
-  },
   {
    "id": "e0578505776b",
    "baslik": "Ağır Roman",
@@ -98,6 +82,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.cu.edu.tr/haber-detay/sabıdam-deney-hayvanlari-kullanim-sertifikasi-egitim-kursu/",
    "gorsel": "https://www.cu.edu.tr/media/zc0p30xg/sabidam.jpeg"
+  },
+  {
+   "id": "9e42a6bf9584",
+   "baslik": "Geleceğin Girişimlerini Bugünden Tasarlamak – Eğitim Duyurusu",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "17:00",
+   "ilce": "Sarıçam",
+   "mekan": "M1 Blok Konferans Salonu",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/201120261421_K_262_57b07e59-9ff6-401b-a52f-f0731387f008.jpg"
   },
   {
    "id": "46cacdcd0dd8",
@@ -660,22 +660,6 @@
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
   },
   {
-   "id": "40718bb40f1d",
-   "baslik": "Geçmem Gerek",
-   "tarih": "2026-12-26",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/gecmem_gerek.jpg"
-  },
-  {
    "id": "7b8661f3edda",
    "baslik": "Karanlıkta Komedi",
    "tarih": "2026-12-26",
@@ -690,6 +674,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
+  },
+  {
+   "id": "40718bb40f1d",
+   "baslik": "Geçmem Gerek",
+   "tarih": "2026-12-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Seyhan",
+   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
+   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/gecmem_gerek.jpg"
   },
   {
    "id": "d76879f68fb7",
@@ -729,7 +729,7 @@
    "ad": "Devlet Tiyatroları Adana",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {
@@ -750,7 +750,7 @@
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {
