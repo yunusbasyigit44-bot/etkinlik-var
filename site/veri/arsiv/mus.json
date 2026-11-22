@@ -1,5 +1,21 @@
 [
  {
+  "id": "43fa699a2795",
+  "baslik": "Doğumunun 500. Yılında Bâki Paneli",
+  "tarih": "2026-11-21",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Muş Alparslan Üniversitesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Muş Alparslan Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.alparslan.edu.tr/page/event/dogumunun-500-yilinda-baki-paneli-9708",
+  "gorsel": "https://www.alparslan.edu.tr/images/event/1794918566.jpg"
+ },
+ {
   "id": "6cb357506dc3",
   "baslik": "İletişimle Hayata Dokunmak",
   "tarih": "2026-11-18",

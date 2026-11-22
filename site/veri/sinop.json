@@ -1,6 +1,6 @@
 {
  "il": "sinop",
- "guncelleme": "2026-11-21T13:58+03:00",
+ "guncelleme": "2026-11-22T14:01+03:00",
  "ilceler": [
   "Merkez",
   "Ayancık",
@@ -13,22 +13,6 @@
   "Türkeli"
  ],
  "etkinlikler": [
-  {
-   "id": "21e5c4f8ae61",
-   "baslik": "2. Uluslararası Turizmde Alternatif Eğilimler ve Yenilikçi Yaklaşımlar Kongresi",
-   "tarih": "2026-11-18",
-   "bitis": "2026-11-21",
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sinop Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": "Sempozyum",
-   "kaynak_ad": "Sinop Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/turizmde-alternatif-egilimler-ve-yenilikci-yaklasimlar-kongresi/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/08/kongreturizm.png"
-  },
   {
    "id": "1535d2924366",
    "baslik": "ASES III. Uluslararası Balkan Bilimsel Araştırmalar Kongresi",
@@ -99,7 +83,7 @@
    "ad": "Sinop Üniversitesi",
    "tur": "universite",
    "url": "https://www.sinop.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-21T13:59+03:00",
+ "guncelleme": "2026-11-22T14:02+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -22,38 +22,6 @@
   "Yomra"
  ],
  "etkinlikler": [
-  {
-   "id": "87822a856f43",
-   "baslik": "Julıus Caesar",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/julius-caesar",
-   "gorsel": "veri/gorsel/dt-julius-caesar.webp"
-  },
-  {
-   "id": "2a2752888322",
-   "baslik": "Julıus Caesar",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/julius-caesar",
-   "gorsel": "veri/gorsel/dt-julius-caesar.webp"
-  },
   {
    "id": "78ae648dd2b1",
    "baslik": "Sıradan Kasabası",
@@ -844,7 +812,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 29,
+   "etkinlik_sayisi": 27,
    "durum": "çalışıyor"
   },
   {

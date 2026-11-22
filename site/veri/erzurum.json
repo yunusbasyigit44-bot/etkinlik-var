@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-21T13:44+03:00",
+ "guncelleme": "2026-11-22T13:47+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -24,38 +24,6 @@
   "Uzundere"
  ],
  "etkinlikler": [
-  {
-   "id": "1c29abd32dcc",
-   "baslik": "Timur ve Yıldırım",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/timur-ve-yildirim",
-   "gorsel": "veri/gorsel/dt-timur-ve-yildirim.jpg"
-  },
-  {
-   "id": "5e298b1c7d1b",
-   "baslik": "Timur ve Yıldırım",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/timur-ve-yildirim",
-   "gorsel": "veri/gorsel/dt-timur-ve-yildirim.jpg"
-  },
   {
    "id": "f8956b2c2871",
    "baslik": "Delikburunlular Kabilesi",
@@ -87,6 +55,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://atauni.edu.tr/etkinlik/akademik-kariyer-planlama-bilimsel-yazim-ve-arastirma-etigi-programi/",
    "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/akademik-kariyer-819x1024.jpeg"
+  },
+  {
+   "id": "58b12c4499bb",
+   "baslik": "Hukuk Söyleşisi: Aktif Vatandaşlık ve Gençlik",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Yakutiye",
+   "mekan": "Hukuk Fakültesi Konferans Salonu",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Atatürk Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://atauni.edu.tr/etkinlik/hukuk-soylesisi-aktif-vatandaslik-ve-genclik/",
+   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/hukuk-söyleşisi-01.jpg-731x1024.jpeg"
   },
   {
    "id": "5b33a337e053",
@@ -494,14 +478,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 21,
+   "etkinlik_sayisi": 19,
    "durum": "çalışıyor"
   },
   {
    "ad": "Atatürk Üniversitesi",
    "tur": "universite",
    "url": "https://atauni.edu.tr/tum-etkinlikler/",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {

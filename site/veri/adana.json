@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-21T13:36+03:00",
+ "guncelleme": "2026-11-22T13:40+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -19,54 +19,6 @@
   "Yüreğir"
  ],
  "etkinlikler": [
-  {
-   "id": "e0578505776b",
-   "baslik": "Ağır Roman",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/agir-roman",
-   "gorsel": "veri/gorsel/dt-agir-roman.jpg"
-  },
-  {
-   "id": "26bbc0b75404",
-   "baslik": "Ağır Roman",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/agir-roman",
-   "gorsel": "veri/gorsel/dt-agir-roman.jpg"
-  },
-  {
-   "id": "b7857304b64f",
-   "baslik": "10. Güney ve Güneydoğu İlleri Pediatrik Kardiyoloji ve Kalp Cerrahisi Bölge Toplantısı ve Konseyi",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Sarıçam",
-   "mekan": "Çukurova Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çukurova Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cu.edu.tr/haber-detay/10-guney-ve-guneydogu-ılleri-pediatrik-kardiyoloji-ve-kalp-cerrahisi-bolge-toplantisi-ve-konseyi/",
-   "gorsel": "https://www.cu.edu.tr/media/kl3mfvll/kardi.jpeg"
-  },
   {
    "id": "7e6d443946d6",
    "baslik": "SABİDAM Deney Hayvanları Kullanım Sertifikası Eğitim Kursu",
@@ -726,13 +678,6 @@
  ],
  "kaynaklar": [
   {
-   "ad": "Devlet Tiyatroları Adana",
-   "tur": "kultur",
-   "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 18,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Adana Büyükşehir Şehir Tiyatrosu",
    "tur": "belediye",
    "url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
@@ -740,16 +685,23 @@
    "durum": "çalışıyor"
   },
   {
-   "ad": "Çukurova Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.cu.edu.tr",
-   "etkinlik_sayisi": 6,
+   "ad": "Devlet Tiyatroları Adana",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
+   "etkinlik_sayisi": 5,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Çukurova Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.cu.edu.tr",
    "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },

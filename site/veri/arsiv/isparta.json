@@ -1,5 +1,37 @@
 [
  {
+  "id": "0ca703a3b32d",
+  "baslik": "Birlikte Daha Güçlüyüz",
+  "tarih": "2026-11-21",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "SDÜ Tıp Fakültesi Hastanesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Sosyal Sorumluluk",
+  "kaynak_ad": "Süleyman Demirel Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+  "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=65981E5F-0261-C650-34FC-3A25053F6DFA"
+ },
+ {
+  "id": "22e0717e5646",
+  "baslik": "İklim Dostu Trail ve Sürdürülebilir Spor Modeliİklim Dostu Trail ve Sürdürülebilir Spor Modeli",
+  "tarih": "2026-11-21",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Sdü Hukuk Fakültesi Konfrenas Salonu / Gölcük Tabiat Parkı",
+  "kategori": "Spor",
+  "ucretsiz": true,
+  "ozet": "Workshop",
+  "kaynak_ad": "Süleyman Demirel Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+  "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=B1B4E948-E1D5-8776-8BF0-3A25053F208C"
+ },
+ {
   "id": "054f361bdfe3",
   "baslik": "Mesleğimizi Tanıyoruz: Gıda Mühendisleri Odası ve Kariyer Yolculuğu",
   "tarih": "2026-11-20",

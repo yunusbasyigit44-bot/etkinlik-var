@@ -1,5 +1,37 @@
 [
  {
+  "id": "cec524680654",
+  "baslik": "Güvenli Binalar ve Hazırlıklı Mahalleler: Şirintepe'de Afet Hazırlığı, Gönüllülük ve Sivil Katılım Projesi",
+  "tarih": "2026-11-21",
+  "bitis": null,
+  "saat": "13:30",
+  "ilce": "Tepebaşı",
+  "mekan": "Anadolu Üniversitesi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": "Eğitim",
+  "kaynak_ad": "Anadolu Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/guvenli-binalar-ve-hazirlikli-mahalleler-sirintepede-afet-hazirligi-gonulluluk-1792501241",
+  "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd455d0e163.jpg"
+ },
+ {
+  "id": "8fbf37ef4dd1",
+  "baslik": "Macbeth",
+  "tarih": "2026-11-21",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Tepebaşı",
+  "mekan": "B.B.Sanat ve Kültür Merkezi Tiyatro Sahnesi ( Opera )",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
+  "kaynak_ad": "Eskişehir Şehir Tiyatroları",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
+  "gorsel": null
+ },
+ {
   "id": "78e042864bfa",
   "baslik": "Türkçe Alternatif Destekleyici İletişim Sistemi (TADİS) Eğitimi",
   "tarih": "2026-11-20",

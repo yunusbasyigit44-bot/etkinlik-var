@@ -1,6 +1,6 @@
 {
  "il": "isparta",
- "guncelleme": "2026-11-21T13:48+03:00",
+ "guncelleme": "2026-11-22T13:51+03:00",
  "ilceler": [
   "Merkez",
   "Aksu",
@@ -18,36 +18,52 @@
  ],
  "etkinlikler": [
   {
-   "id": "0ca703a3b32d",
-   "baslik": "Birlikte Daha Güçlüyüz",
-   "tarih": "2026-11-21",
+   "id": "8d1d058876a9",
+   "baslik": "RİT TEKNOFEST: Mevcut Takımların Proje Durum Değerlendirme Toplantısı",
+   "tarih": "2026-11-22",
    "bitis": null,
    "saat": null,
    "ilce": "Merkez",
-   "mekan": "SDÜ Tıp Fakültesi Hastanesi",
+   "mekan": "Isparta Uygulamalı Bilimler Üniversitesi Milli Teknoloji Atölyesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": "Workshop",
+   "kaynak_ad": "Süleyman Demirel Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=405E6A3C-A05C-380E-5DA3-3A25053E43EA"
+  },
+  {
+   "id": "dc4787ae5ff0",
+   "baslik": "NOKTA: Kampüs Saha Araştırmaları-2",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çevrim İçi",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": "Workshop",
+   "kaynak_ad": "Süleyman Demirel Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=D35DBC05-6EC8-1D33-5BBA-3A25053E914C"
+  },
+  {
+   "id": "05e3b07fa154",
+   "baslik": "19 kasım dünya erkekler günü",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "sağlık bilimleri fakültesi",
    "kategori": "Diğer",
    "ucretsiz": true,
    "ozet": "Sosyal Sorumluluk",
    "kaynak_ad": "Süleyman Demirel Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=65981E5F-0261-C650-34FC-3A25053F6DFA"
-  },
-  {
-   "id": "22e0717e5646",
-   "baslik": "İklim Dostu Trail ve Sürdürülebilir Spor Modeliİklim Dostu Trail ve Sürdürülebilir Spor Modeli",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sdü Hukuk Fakültesi Konfrenas Salonu / Gölcük Tabiat Parkı",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": "Workshop",
-   "kaynak_ad": "Süleyman Demirel Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=B1B4E948-E1D5-8776-8BF0-3A25053F208C"
+   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=1CEDBA5A-7FB1-C195-DDB9-3A250517C8D4"
   },
   {
    "id": "46427af48fc3",
@@ -71,7 +87,7 @@
    "ad": "Süleyman Demirel Üniversitesi",
    "tur": "universite",
    "url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

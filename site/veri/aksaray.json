@@ -1,6 +1,6 @@
 {
  "il": "aksaray",
- "guncelleme": "2026-11-21T14:00+03:00",
+ "guncelleme": "2026-11-22T14:03+03:00",
  "ilceler": [
   "Merkez",
   "Ağaçören",
@@ -141,6 +141,22 @@
    "gorsel": null
   },
   {
+   "id": "f1edfce48666",
+   "baslik": "24 Kasım Öğretmenler Günü Programı",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "12:40",
+   "ilce": "Merkez",
+   "mekan": "Eğitim Fakültesi Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Aksaray Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.aksaray.edu.tr/24-kasim-ogretmenler-gunu-programi-2",
+   "gorsel": null
+  },
+  {
    "id": "97cc6c846faf",
    "baslik": "Bağımlılıklarla Mücadelede Eğitimi",
    "tarih": "2026-11-24",
@@ -178,7 +194,7 @@
    "ad": "Aksaray Üniversitesi",
    "tur": "universite",
    "url": "https://www.aksaray.edu.tr/Etkinlik-takvimi",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {

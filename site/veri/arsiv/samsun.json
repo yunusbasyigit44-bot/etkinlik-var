@@ -1,5 +1,21 @@
 [
  {
+  "id": "339bc354e16c",
+  "baslik": "Pinokyo",
+  "tarih": "2026-11-21",
+  "bitis": null,
+  "saat": "16:30",
+  "ilce": "İlkadım",
+  "mekan": "Samsun Devlet Opera ve Balesi · Aydın Gün Salonu",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Opera ve Balesi",
+  "kaynak_ad": "Samsun Devlet Opera ve Balesi",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://biletinial.com/opera-bale/pinokyo-samsun-dob",
+  "gorsel": null
+ },
+ {
   "id": "395318846dec",
   "baslik": "Don Kişot (2026)",
   "tarih": "2026-11-18",

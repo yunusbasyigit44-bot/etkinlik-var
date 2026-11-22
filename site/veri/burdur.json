@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-21T13:41+03:00",
+ "guncelleme": "2026-11-22T13:44+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,38 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "3945c083a068",
-   "baslik": "Geleneksel Japon Strateji Oyunu Shogi",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Merkez",
-   "mekan": "Nago Kafe, Ünipark AVM",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13647/1/geleneksel-japon-strateji-oyunu-shogi",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13647/4_13647_2026-11-18-07-21-27-363538_thumb.webp"
-  },
-  {
-   "id": "75be268f9433",
-   "baslik": "Frp 101",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Fast System Coffee Üst Katı",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13652/1/frp-101",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13652/4_13652_2026-11-18-07-33-08-609900_thumb.webp"
-  },
   {
    "id": "5612f36d5903",
    "baslik": "Güvenli Okul İkliminde Öğretmenin Rolü",
@@ -110,6 +78,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13633/1/guc-gencligin-uretim-cagi",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13633/4_13633_2026-11-16-11-00-21-66256_thumb.webp"
+  },
+  {
+   "id": "06ff6295229c",
+   "baslik": "Sağlık Bilimleri Fakültesi, Hemşirelik Bölümü Forma Giyme Töreni",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Merkez",
+   "mekan": "İktisadi ve İdari Bilimler Fakültesi Konferans Salonu",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13628/1/saglik-bilimleri-fakultesi-hemsirelik-bolumu-forma-giyme-toreni",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13628/4_13628_2026-11-16-10-33-48-453741_thumb.webp"
+  },
+  {
+   "id": "dc9db64696f9",
+   "baslik": "Öğretmenlik Mesleğine İlk Adım Töreni",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Lavanta Tepesi Otel Konferans Salonu",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13601/1/ogretmenlik-meslegine-ilk-adim-toreni",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13601/4_13601_2026-11-10-08-06-16-925626_thumb.webp"
   }
  ],
  "kaynaklar": [

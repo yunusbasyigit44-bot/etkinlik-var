@@ -1,6 +1,6 @@
 {
  "il": "bursa",
- "guncelleme": "2026-11-21T13:42+03:00",
+ "guncelleme": "2026-11-22T13:45+03:00",
  "ilceler": [
   "Büyükorhan",
   "Gemlik",
@@ -132,70 +132,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bursa.bel.tr/etkinlik/kasim-ayi-etkinlik-takvimi-2",
    "gorsel": null
-  },
-  {
-   "id": "6cecda7127bc",
-   "baslik": "Çocuk Hakları Şenliği",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Nilüfer",
-   "mekan": "Nilüfer",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Nilüfer Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.nilufer.bel.tr/etkinlik/cocuk-haklari-senligi",
-   "gorsel": "https://www.nilufer.bel.tr/i/etkinlik/5195.jpg"
-  },
-  {
-   "id": "1e4f72d2a78d",
-   "baslik": "Scapin ve Yeni Dolapları",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/scapin-ve-yeni-dolaplari",
-   "gorsel": "veri/gorsel/dt-scapin-ve-yeni-dolaplari.jpg"
-  },
-  {
-   "id": "797f2246cd76",
-   "baslik": "\"Şair, Şiir, Şuur\" Mehmet Akif Ersoy",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Osmangazi",
-   "mekan": "Feraizcizade Oda Tiyatrosu",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sair-siir-suur-mehmet-akif-ersoy",
-   "gorsel": "veri/gorsel/dt-sair-siir-suur-mehmet-akif-ersoy.jpg"
-  },
-  {
-   "id": "71ee35522589",
-   "baslik": "Scapin ve Yeni Dolapları",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/scapin-ve-yeni-dolaplari",
-   "gorsel": "veri/gorsel/dt-scapin-ve-yeni-dolaplari.jpg"
   },
   {
    "id": "5b77955ba784",
@@ -955,7 +891,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 37,
+   "etkinlik_sayisi": 34,
    "durum": "çalışıyor"
   },
   {
@@ -976,7 +912,7 @@
    "ad": "Nilüfer Belediyesi",
    "tur": "belediye",
    "url": "https://www.nilufer.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

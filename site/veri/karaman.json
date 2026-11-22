@@ -1,6 +1,6 @@
 {
  "il": "karaman",
- "guncelleme": "2026-11-21T14:00+03:00",
+ "guncelleme": "2026-11-22T14:04+03:00",
  "ilceler": [
   "Merkez",
   "Ayrancı",
@@ -10,22 +10,6 @@
   "Sarıveliler"
  ],
  "etkinlikler": [
-  {
-   "id": "3df92aafc8f6",
-   "baslik": "Canli Müzik Etkinligi",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4164",
-   "gorsel": null
-  },
   {
    "id": "40c20e18ddc0",
    "baslik": "20 Kasim Çocuk Haklari Günü Kapsaminda Stant",
@@ -224,7 +208,7 @@
    "ad": "Karamanoğlu Mehmetbey Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.kmu.edu.tr/index.aspx",
-   "etkinlik_sayisi": 13,
+   "etkinlik_sayisi": 12,
    "durum": "çalışıyor"
   },
   {

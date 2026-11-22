@@ -1,6 +1,6 @@
 {
  "il": "van",
- "guncelleme": "2026-11-21T14:00+03:00",
+ "guncelleme": "2026-11-22T14:03+03:00",
  "ilceler": [
   "İpekyolu",
   "Tuşba",
@@ -17,38 +17,6 @@
   "Saray"
  ],
  "etkinlikler": [
-  {
-   "id": "5621e8aff382",
-   "baslik": "Büyük İskender'in Atı",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "İpekyolu",
-   "mekan": "Van Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buyuk-iskenderin-ati",
-   "gorsel": "veri/gorsel/dt-buyuk-iskenderin-ati.jpg"
-  },
-  {
-   "id": "82ef31603e37",
-   "baslik": "Büyük İskender'in Atı",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "İpekyolu",
-   "mekan": "Van Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buyuk-iskenderin-ati",
-   "gorsel": "veri/gorsel/dt-buyuk-iskenderin-ati.jpg"
-  },
   {
    "id": "b4ebcf7f6e13",
    "baslik": "Toti ile Poti",
@@ -375,7 +343,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 22,
+   "etkinlik_sayisi": 20,
    "durum": "çalışıyor"
   },
   {

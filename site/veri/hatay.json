@@ -1,6 +1,6 @@
 {
  "il": "hatay",
- "guncelleme": "2026-11-21T13:48+03:00",
+ "guncelleme": "2026-11-22T13:51+03:00",
  "ilceler": [
   "Antakya",
   "Altınözü",
@@ -19,22 +19,6 @@
   "Yayladağı"
  ],
  "etkinlikler": [
-  {
-   "id": "2aaf22594bb3",
-   "baslik": "Kendi Gök Kubbemiz (Yahya Kemal)",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Antakya",
-   "mekan": "Hatay DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kendi-gok-kubbemiz-yahya-kemal",
-   "gorsel": "veri/gorsel/dt-kendi-gok-kubbemiz-yahya-kemal.jpg"
-  },
   {
    "id": "490f7033f852",
    "baslik": "Hepyek",
@@ -89,7 +73,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

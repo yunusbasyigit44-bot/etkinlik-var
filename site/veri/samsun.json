@@ -1,6 +1,6 @@
 {
  "il": "samsun",
- "guncelleme": "2026-11-21T13:57+03:00",
+ "guncelleme": "2026-11-22T14:00+03:00",
  "ilceler": [
   "Atakum",
   "Canik",
@@ -21,22 +21,6 @@
   "Yakakent"
  ],
  "etkinlikler": [
-  {
-   "id": "339bc354e16c",
-   "baslik": "Pinokyo",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "16:30",
-   "ilce": "İlkadım",
-   "mekan": "Samsun Devlet Opera ve Balesi · Aydın Gün Salonu",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Samsun Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/pinokyo-samsun-dob",
-   "gorsel": null
-  },
   {
    "id": "af4adb9a3a9e",
    "baslik": "XX. Deney Hayvanları Kullanım Sertifikası Eğitim Programı",
@@ -324,6 +308,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/web-semineri-webinar/erken-cocuklukta-adim-adim-tuvalet-egitimi",
    "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/webinar_afis.png"
+  },
+  {
+   "id": "ee0abf0f9783",
+   "baslik": "Hanım Olan Hizmetçi",
+   "tarih": "2026-12-17",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "İlkadım",
+   "mekan": "Samsun Devlet Opera ve Balesi · Zehra Yıldız Salonu",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Samsun Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/hanim-olan-hizmetci-samsun-dob",
+   "gorsel": "veri/gorsel/dob-samsun-3306.webp"
   }
  ],
  "kaynaklar": [

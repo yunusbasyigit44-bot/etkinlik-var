@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-21T13:47+03:00",
+ "guncelleme": "2026-11-22T13:50+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -97,38 +97,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/cmyk-medya-gunleri19-1790258723",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd45128196f.jpg"
-  },
-  {
-   "id": "cec524680654",
-   "baslik": "Güvenli Binalar ve Hazırlıklı Mahalleler: Şirintepe'de Afet Hazırlığı, Gönüllülük ve Sivil Katılım Projesi",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/guvenli-binalar-ve-hazirlikli-mahalleler-sirintepede-afet-hazirligi-gonulluluk-1792501241",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd455d0e163.jpg"
-  },
-  {
-   "id": "8fbf37ef4dd1",
-   "baslik": "Macbeth",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Tepebaşı",
-   "mekan": "B.B.Sanat ve Kültür Merkezi Tiyatro Sahnesi ( Opera )",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
   },
   {
    "id": "d3a7e249301f",
@@ -1000,14 +968,14 @@
    "ad": "Anadolu Üniversitesi",
    "tur": "universite",
    "url": "https://www.anadolu.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 45,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 44,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Eskişehir Şehir Tiyatroları",
    "tur": "belediye",
    "url": "https://tiyatro.eskisehir.bel.tr/oyuntakvimi.php",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 14,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

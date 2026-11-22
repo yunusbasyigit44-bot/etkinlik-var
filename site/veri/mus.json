@@ -1,6 +1,6 @@
 {
  "il": "mus",
- "guncelleme": "2026-11-21T13:56+03:00",
+ "guncelleme": "2026-11-22T13:59+03:00",
  "ilceler": [
   "Merkez",
   "Bulanık",
@@ -10,22 +10,6 @@
   "Varto"
  ],
  "etkinlikler": [
-  {
-   "id": "43fa699a2795",
-   "baslik": "Doğumunun 500. Yılında Bâki Paneli",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Muş Alparslan Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muş Alparslan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/dogumunun-500-yilinda-baki-paneli-9708",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1794918566.jpg"
-  },
   {
    "id": "0d31e3624642",
    "baslik": "Rahve Konuşmaları-71",
@@ -192,7 +176,7 @@
    "ad": "Muş Alparslan Üniversitesi",
    "tur": "universite",
    "url": "https://www.alparslan.edu.tr/tr/page/event",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {

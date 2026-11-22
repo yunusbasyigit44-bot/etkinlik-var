@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-21T13:53+03:00",
+ "guncelleme": "2026-11-22T13:55+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,54 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "c726fd234afc",
-   "baslik": "Yastık Adam",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
-   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
-  },
-  {
-   "id": "eda9e45156b9",
-   "baslik": "Yastık Adam",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
-   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
-  },
-  {
-   "id": "3faf85378ff9",
-   "baslik": "Konya Okulu - Ahmet Özkan",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-ahmet-ozkan/1214",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/rDq9Q0TPY6VfiNgCpIQW7D8nJ2a-fvLC.jpeg"
-  },
   {
    "id": "a4e7c94bf44a",
    "baslik": "Klasik Kemençe Atölyesi",
@@ -435,6 +387,22 @@
    "gorsel": "veri/gorsel/dt-yastik-adam.webp"
   },
   {
+   "id": "5f2d92315213",
+   "baslik": "Konya Okulu - Ahmet Özkan",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-ahmet-ozkan/1214",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/rDq9Q0TPY6VfiNgCpIQW7D8nJ2a-fvLC.jpeg"
+  },
+  {
    "id": "16c344a2a5d3",
    "baslik": "Şehir Konferansları - Karapınar",
    "tarih": "2026-11-29",
@@ -664,7 +632,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {

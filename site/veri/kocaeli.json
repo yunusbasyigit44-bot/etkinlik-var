@@ -1,6 +1,6 @@
 {
  "il": "kocaeli",
- "guncelleme": "2026-11-21T13:52+03:00",
+ "guncelleme": "2026-11-22T13:55+03:00",
  "ilceler": [
   "Başiskele",
   "Çayırova",
@@ -16,54 +16,6 @@
   "Körfez"
  ],
  "etkinlikler": [
-  {
-   "id": "e34961748423",
-   "baslik": "Meraklı Civciv",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Gebze",
-   "mekan": "Beylikbağı Bilim Sanat Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Çocuk Tiyatrosu",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/merakli-civciv_1059.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030110944.jpg"
-  },
-  {
-   "id": "cf3584170779",
-   "baslik": "Bilim Show",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Gebze",
-   "mekan": "Gebze Kültür Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Çocuk Etkinliği",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/bilim-show_1049.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030105754.jpg"
-  },
-  {
-   "id": "21fe9d268548",
-   "baslik": "Gekbuze Şiir Akşamları",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Gebze",
-   "mekan": "Gebze Kültür Merkezi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Şiir Dinletisi",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/gekbuze-siir-aksamlari_1050.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030105908.jpg"
-  },
   {
    "id": "4c171ba7a5b1",
    "baslik": "Neşeli Sincap",
@@ -182,7 +134,7 @@
    "ad": "Gebze Belediyesi",
    "tur": "belediye",
    "url": "https://www.gebze.bel.tr/json/etkinlik.json",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

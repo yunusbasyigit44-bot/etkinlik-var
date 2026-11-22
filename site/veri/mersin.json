@@ -1,6 +1,6 @@
 {
  "il": "mersin",
- "guncelleme": "2026-11-21T13:48+03:00",
+ "guncelleme": "2026-11-22T13:51+03:00",
  "ilceler": [
   "Akdeniz",
   "Anamur",
@@ -17,22 +17,6 @@
   "Yenişehir"
  ],
  "etkinlikler": [
-  {
-   "id": "a1a4be377e47",
-   "baslik": "Tosca",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Yenişehir",
-   "mekan": "Mersin Opera Büyük Sahne",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/tosca-mersin-dob",
-   "gorsel": "veri/gorsel/dob-4-614.webp"
-  },
   {
    "id": "ee2378b0645c",
    "baslik": "Konser",
@@ -256,6 +240,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/panin-son-dansi-mersin-dob",
    "gorsel": "veri/gorsel/dob-4-3246.webp"
+  },
+  {
+   "id": "b344457e9e72",
+   "baslik": "Cyrano de Bergerac",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Yenişehir",
+   "mekan": "Mersin Opera Büyük Sahne",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/cyrano-de-bergerac-mersin-dob",
+   "gorsel": "veri/gorsel/dob-4-3192.jpg"
   }
  ],
  "kaynaklar": [

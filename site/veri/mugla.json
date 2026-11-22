@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-21T13:55+03:00",
+ "guncelleme": "2026-11-22T13:59+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -274,22 +274,6 @@
    "gorsel": null
   },
   {
-   "id": "0da98399567b",
-   "baslik": "Saygılı Yaşam ve Güvenli İlişkiler",
-   "tarih": "2026-11-30",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/saygili-yasam-ve-guvenli-iliskiler-4734",
-   "gorsel": null
-  },
-  {
    "id": "32744ff77180",
    "baslik": "İklim Değişikliği Altında Köyceğiz'de Orman Yangınlarının Ekolojik Bilançosu: Akköprü ve Çayhisar Yangınları Üzerine Değerlendirmeler",
    "tarih": "2026-11-30",
@@ -303,6 +287,22 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/iklim-degisikligi-altinda-koycegizde-orman-yanginlarinin-ekolojik-bilancosu--akkopru-ve-cayhisar-yanginlari-uzerine-degerlendirmeler-4722",
+   "gorsel": null
+  },
+  {
+   "id": "0da98399567b",
+   "baslik": "Saygılı Yaşam ve Güvenli İlişkiler",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/saygili-yasam-ve-guvenli-iliskiler-4734",
    "gorsel": null
   },
   {

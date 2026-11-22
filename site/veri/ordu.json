@@ -1,6 +1,6 @@
 {
  "il": "ordu",
- "guncelleme": "2026-11-21T13:57+03:00",
+ "guncelleme": "2026-11-22T14:00+03:00",
  "ilceler": [
   "Altınordu",
   "Akkuş",
@@ -24,22 +24,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "6a37fba30153",
-   "baslik": "İslam İktisadı ve Faizsiz Finans Araçlarında Güncel Zekat Problemleri Sempozyumu",
-   "tarih": "2026-11-21",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Altınordu",
-   "mekan": "Ceren Özdemir Konser ve Konferans Salonu",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Ordu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://odu.edu.tr/Etkinlikler/410/islam-iktisadi-ve-faizsiz-finans-araclarinda-guncel-zekat-problemleri-sempozyumu",
-   "gorsel": null
-  },
-  {
    "id": "cfb89445bbe2",
    "baslik": "Kampüs Konserleri - I",
    "tarih": "2026-11-23",
@@ -61,7 +45,7 @@
    "ad": "Ordu Üniversitesi",
    "tur": "universite",
    "url": "https://odu.edu.tr/TumEtkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

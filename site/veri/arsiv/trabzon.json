@@ -1,5 +1,37 @@
 [
  {
+  "id": "87822a856f43",
+  "baslik": "Julıus Caesar",
+  "tarih": "2026-11-21",
+  "bitis": null,
+  "saat": "15:00",
+  "ilce": "Ortahisar",
+  "mekan": "Haluk Ongan Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/julius-caesar",
+  "gorsel": null
+ },
+ {
+  "id": "2a2752888322",
+  "baslik": "Julıus Caesar",
+  "tarih": "2026-11-21",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Ortahisar",
+  "mekan": "Haluk Ongan Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/julius-caesar",
+  "gorsel": null
+ },
+ {
   "id": "20be8267cfd7",
   "baslik": "Mezunlar Derneği Lansmanı ve Mezunlar Paneli",
   "tarih": "2026-11-20",
