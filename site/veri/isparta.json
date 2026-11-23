@@ -1,6 +1,6 @@
 {
  "il": "isparta",
- "guncelleme": "2026-11-22T13:51+03:00",
+ "guncelleme": "2026-11-23T14:55+03:00",
  "ilceler": [
   "Merkez",
   "Aksu",
@@ -17,22 +17,6 @@
   "Yenişehir"
  ],
  "etkinlikler": [
-  {
-   "id": "8d1d058876a9",
-   "baslik": "RİT TEKNOFEST: Mevcut Takımların Proje Durum Değerlendirme Toplantısı",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Isparta Uygulamalı Bilimler Üniversitesi Milli Teknoloji Atölyesi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": "Workshop",
-   "kaynak_ad": "Süleyman Demirel Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=405E6A3C-A05C-380E-5DA3-3A25053E43EA"
-  },
   {
    "id": "dc4787ae5ff0",
    "baslik": "NOKTA: Kampüs Saha Araştırmaları-2",
@@ -66,6 +50,54 @@
    "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=1CEDBA5A-7FB1-C195-DDB9-3A250517C8D4"
   },
   {
+   "id": "23934cb13314",
+   "baslik": "19 kasım erkekler günü röportaj",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "sağlık bilimleri fakültesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Sosyal Sorumluluk",
+   "kaynak_ad": "Süleyman Demirel Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=0E7F0F54-74E6-961C-423F-3A2505179A39"
+  },
+  {
+   "id": "505e61955ce7",
+   "baslik": "3* TEORİK Eğitimi",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Topluluk kulüp odası",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": "Sportif",
+   "kaynak_ad": "Süleyman Demirel Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=38F7FC07-C6C2-7051-CD50-3A250AFD14B3"
+  },
+  {
+   "id": "02af6f69c73d",
+   "baslik": "SDÜ 24 Kasım Öğretmenler Günü Spor Etkinliği-2026",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "29 Ekim Olimpik Yüzme Havuzu",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": "Sportif Faaliyet",
+   "kaynak_ad": "Süleyman Demirel Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=385F8BF6-93EE-5267-C463-3A2519AD4D07"
+  },
+  {
    "id": "46427af48fc3",
    "baslik": "Mevlânâ Ekonomi Kongresi",
    "tarih": "2026-11-24",
@@ -87,7 +119,7 @@
    "ad": "Süleyman Demirel Üniversitesi",
    "tur": "universite",
    "url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

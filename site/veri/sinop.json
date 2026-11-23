@@ -1,6 +1,6 @@
 {
  "il": "sinop",
- "guncelleme": "2026-11-22T14:01+03:00",
+ "guncelleme": "2026-11-23T15:05+03:00",
  "ilceler": [
   "Merkez",
   "Ayancık",
@@ -30,6 +30,38 @@
    "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/09/AsesIIIafis.webp"
   },
   {
+   "id": "e41d5373e879",
+   "baslik": "Akademik Girişimcilik \"Şirket Kurma Süreci ve Deneyim Paylaşımı\"",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Sinop Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": "Bilimsel Etkinlikler",
+   "kaynak_ad": "Sinop Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/akademik-girisimcilik-sirket-kurma-sureci-ve-deneyim-paylasimi/",
+   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/11/akademikgirisimcilik.webp"
+  },
+  {
+   "id": "821c454b2894",
+   "baslik": "TÖMER / 2026-2027 Eğitim-Öğretim Yılı Türkçe Seviye Tespit Sınavı",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Sinop Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Bilgilendirme",
+   "kaynak_ad": "Sinop Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/tomer-2026-2027-egitim-ogretim-yili-turkce-seviye-tespit-sinavi/",
+   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/11/turkceseviyetespitsinavi.webp"
+  },
+  {
    "id": "755a7a0dc417",
    "baslik": "ISUSS 2026 2. Uluslararası Sinop Üniversitesi Öğrenci Sempozyumu",
    "tarih": "2026-12-02",
@@ -44,6 +76,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sinop.edu.tr/etkinlik/isuss-2026-2-uluslararasi-sinop-universitesi-ogrenci-sempozyumu/",
    "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/03/isuss2026.webp"
+  },
+  {
+   "id": "dac34ba32180",
+   "baslik": "III. Uluslararası Siyaset, Ekonomi ve İşletme Bilimleri Kongresi 2026 \"Küresel Düzeni Yeniden Düşünmek\"",
+   "tarih": "2026-12-09",
+   "bitis": "2026-12-11",
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sinop Üniversitesi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": "Sempozyum",
+   "kaynak_ad": "Sinop Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/iii-uluslararasi-siyaset-ekonomi-ve-isletme-bilimleri-kongresi-2026-kuresel-duzeni-yeniden-dusunmek/",
+   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/11/PEB1.webp"
   },
   {
    "id": "a9a37df7597a",
@@ -83,7 +131,7 @@
    "ad": "Sinop Üniversitesi",
    "tur": "universite",
    "url": "https://www.sinop.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

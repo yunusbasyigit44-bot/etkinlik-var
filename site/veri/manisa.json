@@ -1,6 +1,6 @@
 {
  "il": "manisa",
- "guncelleme": "2026-11-22T13:57+03:00",
+ "guncelleme": "2026-11-23T15:01+03:00",
  "ilceler": [
   "Ahmetli",
   "Akhisar",
@@ -86,6 +86,22 @@
    "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261119113554520-WXA47.jpg"
   },
   {
+   "id": "4efcaebb93d4",
+   "baslik": "Kurgulanmış Güzellik Sanat Medya ve Özdeğer Paneli",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Yunusemre",
+   "mekan": "MCBÜ Prof. Ümit Doğay Arınç Kültür Merkezi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/kurgulanmis-guzellik-sanat-medya-ve-ozdeger-paneli#baslangic",
+   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261123144320755-GSLZV.png"
+  },
+  {
    "id": "ca41ffc1e2b5",
    "baslik": "BİLTEVT'2026 Uluslararası Engelsiz Bilişim 2026 Kongresi",
    "tarih": "2026-11-26",
@@ -132,22 +148,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/bireysel-yurtdisi-gonderilerde-lojistik#baslangic",
    "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261110155708668-YKNPX.jpg"
-  },
-  {
-   "id": "53a3414fa94a",
-   "baslik": "Gençlerle 360° 12. Uluslararası Öğrenci Kongresi",
-   "tarih": "2026-12-03",
-   "bitis": "2026-12-04",
-   "saat": "10:00",
-   "ilce": "Yunusemre",
-   "mekan": "MCBÜ Prof. Ümit Doğay Arınç Kültür Merkezi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/genclerle-360-12-uluslararasi-ogrenci-kongresi#baslangic",
-   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261116095822431-CBKEV.jpg"
   },
   {
    "id": "87cd5e759703",

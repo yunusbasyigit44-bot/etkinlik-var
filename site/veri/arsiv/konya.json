@@ -1,5 +1,21 @@
 [
  {
+  "id": "a4e7c94bf44a",
+  "baslik": "Klasik Kemençe Atölyesi",
+  "tarih": "2026-11-22",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Selçuklu",
+  "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanatkonya.com/etkinlikler/klasik-kemence-atolyesi/1331",
+  "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/wwtzROqP7-1X4yALvA1glRGbSjHxb1Cz.jpeg"
+ },
+ {
   "id": "c726fd234afc",
   "baslik": "Yastık Adam",
   "tarih": "2026-11-21",

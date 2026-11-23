@@ -1,6 +1,6 @@
 {
  "il": "nevsehir",
- "guncelleme": "2026-11-22T13:59+03:00",
+ "guncelleme": "2026-11-23T15:04+03:00",
  "ilceler": [
   "Merkez",
   "Acıgöl",
@@ -29,6 +29,38 @@
    "gorsel": null
   },
   {
+   "id": "dded50495555",
+   "baslik": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü Paneli",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Kültürel Etkinlik",
+   "kaynak_ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.nevsehir.edu.tr/tr/59667",
+   "gorsel": null
+  },
+  {
+   "id": "341c95a8abc0",
+   "baslik": "\"Cumhuriyetin Işığında, Atatürk'ün İzinde: Meclis Simülasyonu\" Başlıklı Etkinlik",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": "Kültürel Etkinlik",
+   "kaynak_ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.nevsehir.edu.tr/tr/59669",
+   "gorsel": null
+  },
+  {
    "id": "1a584c79901a",
    "baslik": "NEVÜ Eğitim Fakültesi Öğretmenler Günü Etkinlikleri",
    "tarih": "2026-11-24",
@@ -50,7 +82,7 @@
    "ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
    "tur": "universite",
    "url": "https://www.nevsehir.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

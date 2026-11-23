@@ -1,6 +1,6 @@
 {
  "il": "diyarbakir",
- "guncelleme": "2026-11-22T13:46+03:00",
+ "guncelleme": "2026-11-23T14:50+03:00",
  "ilceler": [
   "Bağlar",
   "Bismil",
@@ -36,38 +36,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/ucretsiz-kort-tenisi-kursu-12977",
    "gorsel": "https://www.dicle.edu.tr/contents/events/photos/61730663-be34-4427-a527-63d900c094a2/ss_thumb_a31d6ad776c440ceb86a935cdae4519a_WhatsApp%20Image%202026-10-26%20at%2011.43.28.jpeg"
-  },
-  {
-   "id": "77abe74d79b8",
-   "baslik": "Serpêhatıyê Nıkoyê Şılbık",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Yenişehir",
-   "mekan": "Çandamed/Sezai̇ Karakoç Kültür Ve Kongre Merkezi̇ (Mehmet Emi̇n Yalçinkaya Sahnesi̇)",
-   "kategori": "Diğer",
-   "ucretsiz": null,
-   "ozet": null,
-   "kaynak_ad": "Diyarbakır Büyükşehir Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.diyarbakir.bel.tr/etkinlikler/serpehatiye-nikoye-silbik",
-   "gorsel": "https://www.diyarbakir.bel.tr/uploads/medium_c3dde2c0_a583_492d_92c4_0a2a2831168b_18c5f1a60b.jpeg"
-  },
-  {
-   "id": "46c9b1f636bc",
-   "baslik": "Alacalı Şemsiye",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Kayapınar",
-   "mekan": "Kayapınar Kültür Merkezi Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/alacali-semsiye",
-   "gorsel": "veri/gorsel/dt-alacali-semsiye.webp"
   },
   {
    "id": "94bc3df304c8",
@@ -364,7 +332,7 @@
    "bitis": null,
    "saat": "13:00",
    "ilce": "Kayapınar",
-   "mekan": "Kayapınar Kültür Merkezi Fuaye",
+   "mekan": "Kayapınar Kültür Merkezi Sahnesi",
    "kategori": "Çocuk",
    "ucretsiz": false,
    "ozet": "Devlet Tiyatroları",
@@ -523,7 +491,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 25,
+   "etkinlik_sayisi": 24,
    "durum": "çalışıyor"
   },
   {
@@ -537,7 +505,7 @@
    "ad": "Diyarbakır Büyükşehir Belediyesi",
    "tur": "belediye",
    "url": "https://www.diyarbakir.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

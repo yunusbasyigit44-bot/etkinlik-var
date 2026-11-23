@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-22T13:44+03:00",
+ "guncelleme": "2026-11-23T14:48+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -39,6 +39,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-12_at_15.48.02_%281%29_1794557688.jpeg"
+  },
+  {
+   "id": "c546c8c25b30",
+   "baslik": "Alternatif Baskıda Doğal İzler",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Altıeylül",
+   "mekan": "GÜZEL SANATLAR FAKÜLTESİ",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": "Baski Sanatlari Bölümü",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_alternatif_bask%C4%B1da_do%C4%9Fal_izler_1795423035.jpeg"
+  },
+  {
+   "id": "d820936ee90e",
+   "baslik": "Kadına Yönelik Şiddetle Mücadele Bağlamında Şiddeti Önlemede Başvuru Mekanizmaları (Hukuki ve Pratik Yönden Sürecin Değerlendirilmesi)",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Altıeylül",
+   "mekan": "Atatürk Kongre ve Kültür Merkezi Dumlupınar Salonu",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": "Balikesir Üniversitesi Kadin Ve Aile Çalişmalari Uygulama Ve Araştirma Merkezi",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-23_at_09.11.44_1795415625.jpeg"
   },
   {
    "id": "07251aac4fe2",
@@ -254,7 +286,7 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {

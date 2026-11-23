@@ -1,5 +1,37 @@
 [
  {
+  "id": "5b77955ba784",
+  "baslik": "Bencil Dev",
+  "tarih": "2026-11-22",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Osmangazi",
+  "mekan": "Ahmet Vefik Paşa Sahnesi",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bencil-dev",
+  "gorsel": null
+ },
+ {
+  "id": "d1254c696cbe",
+  "baslik": "Bir Yönetmen Bir Söyleşi",
+  "tarih": "2026-11-22",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Nilüfer",
+  "mekan": "Nilüfer",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Nilüfer Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.nilufer.bel.tr/etkinlik/bir-yonetmen-bir-soylesi2WFJ1",
+  "gorsel": "https://www.nilufer.bel.tr/i/etkinlik/5200.jpg"
+ },
+ {
   "id": "6cecda7127bc",
   "baslik": "Çocuk Hakları Şenliği",
   "tarih": "2026-11-21",

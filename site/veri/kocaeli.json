@@ -1,6 +1,6 @@
 {
  "il": "kocaeli",
- "guncelleme": "2026-11-22T13:55+03:00",
+ "guncelleme": "2026-11-23T15:00+03:00",
  "ilceler": [
   "Başiskele",
   "Çayırova",
@@ -16,54 +16,6 @@
   "Körfez"
  ],
  "etkinlikler": [
-  {
-   "id": "4c171ba7a5b1",
-   "baslik": "Neşeli Sincap",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Gebze",
-   "mekan": "Arapçeşme Bilim Sanat Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Çocuk Tiyatrosu",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/neseli-sincap_1057.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030110744.jpg"
-  },
-  {
-   "id": "b3185a30c852",
-   "baslik": "Macera Peşinde",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Gebze",
-   "mekan": "İstasyon Bilim Sanat Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Çocuk Tiyatrosu",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/macera-pesinde_1061.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030111122.jpg"
-  },
-  {
-   "id": "9429ccfbdce4",
-   "baslik": "Cesur Panda Görevimiz Afrika",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Gebze",
-   "mekan": "Gebze Kültür Merkezi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Çocuk Sineması",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/cesur-panda-gorevimiz-afrika_1051.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030110026.jpg"
-  },
   {
    "id": "74b205c1679f",
    "baslik": "Öğretmenler Günü Gesmek Türk Halk Müziği Konseri",
@@ -134,7 +86,7 @@
    "ad": "Gebze Belediyesi",
    "tur": "belediye",
    "url": "https://www.gebze.bel.tr/json/etkinlik.json",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-22T13:43+03:00",
+ "guncelleme": "2026-11-23T14:47+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -23,38 +23,6 @@
   "Serik"
  ],
  "etkinlikler": [
-  {
-   "id": "de579db3d4ad",
-   "baslik": "Üç Kedi Bir Dilek",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Muratpaşa",
-   "mekan": "H.i.k.m. Sanat Galerisi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/uc-kedi-bir-dilek",
-   "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
-  },
-  {
-   "id": "d0e1d980041d",
-   "baslik": "Üç Kedi Bir Dilek",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Muratpaşa",
-   "mekan": "H.i.k.m. Sanat Galerisi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/uc-kedi-bir-dilek",
-   "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
-  },
   {
    "id": "dde0c51c8263",
    "baslik": "Afet Hazırlık Eğitimi : Depreme Hazır Mısınız?",
@@ -733,7 +701,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 31,
+   "etkinlik_sayisi": 29,
    "durum": "çalışıyor"
   },
   {

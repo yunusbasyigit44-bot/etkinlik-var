@@ -1,5 +1,37 @@
 [
  {
+  "id": "d3a7e249301f",
+  "baslik": "Ben de Uçabilirim",
+  "tarih": "2026-11-22",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Tepebaşı",
+  "mekan": "Sanat Sokağı Kukla Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
+  "kaynak_ad": "Eskişehir Şehir Tiyatroları",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
+  "gorsel": null
+ },
+ {
+  "id": "936fa4240619",
+  "baslik": "Macbeth",
+  "tarih": "2026-11-22",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Tepebaşı",
+  "mekan": "B.B.Sanat ve Kültür Merkezi Tiyatro Sahnesi ( Opera )",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
+  "kaynak_ad": "Eskişehir Şehir Tiyatroları",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
+  "gorsel": null
+ },
+ {
   "id": "cec524680654",
   "baslik": "Güvenli Binalar ve Hazırlıklı Mahalleler: Şirintepe'de Afet Hazırlığı, Gönüllülük ve Sivil Katılım Projesi",
   "tarih": "2026-11-21",
@@ -30,6 +62,22 @@
   "kaynak_tur": "belediye",
   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
   "gorsel": null
+ },
+ {
+  "id": "77d049c141cd",
+  "baslik": "CMYK Medya Günleri'19",
+  "tarih": "2026-11-21",
+  "bitis": "2026-11-22",
+  "saat": "10:00",
+  "ilce": "Tepebaşı",
+  "mekan": "Anadolu Üniversitesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Seminerler",
+  "kaynak_ad": "Anadolu Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/cmyk-medya-gunleri19-1790258723",
+  "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd45128196f.jpg"
  },
  {
   "id": "78e042864bfa",

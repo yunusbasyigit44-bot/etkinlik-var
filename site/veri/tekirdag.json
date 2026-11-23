@@ -1,6 +1,6 @@
 {
  "il": "tekirdag",
- "guncelleme": "2026-11-22T14:02+03:00",
+ "guncelleme": "2026-11-23T15:06+03:00",
  "ilceler": [
   "Süleymanpaşa",
   "Çerkezköy",
@@ -15,22 +15,6 @@
   "Şarköy"
  ],
  "etkinlikler": [
-  {
-   "id": "63bd983b8936",
-   "baslik": "Resim Bölümü Cumhuriyet'in 103. Yılında \"Akademik Yolculuğumuzda Hocalarımız ve Öğrencilerimiz\" İsimli Resim Sergisi",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Süleymanpaşa",
-   "mekan": "Rektörlük Sanat Galerisi",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://bhi.nku.edu.tr/haberler/resim-bolumu-cumhuriyetin-103-yilinda-akademik-yolculugumuzda-hocalarimiz-ve-ogrencilerimiz-isimli-resim-sergisi/s/70703",
-   "gorsel": null
-  },
   {
    "id": "3b2319a3324f",
    "baslik": "Türk Müziği Devlet Konservatuvarı Ders",
@@ -77,6 +61,22 @@
    "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://bhi.nku.edu.tr/haberler/maliye-toplulugu-maliye-lokma-gunleri-1-iktisadi-ve-idari-bilimler-fakultesi-onu/s/71344",
+   "gorsel": null
+  },
+  {
+   "id": "e35bda2d4c4e",
+   "baslik": "Resim Bölümü Cumhuriyet'in 103. Yılında \"Akademik Yolculuğumuzda Hocalarımız ve Öğrencilerimiz\" İsimli Resim Sergisi",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Süleymanpaşa",
+   "mekan": "Rektörlük Sanat Galerisi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/resim-bolumu-cumhuriyetin-103-yilinda-akademik-yolculugumuzda-hocalarimiz-ve-ogrencilerimiz-isimli-resim-sergisi/s/70703",
    "gorsel": null
   },
   {
@@ -176,6 +176,38 @@
    "gorsel": null
   },
   {
+   "id": "20d02b117c24",
+   "baslik": "Gastronomi ve Aşçılık Topluluğu \"TÜB Gastro Trakya\" Yer: Kırklareli Üniversitesi",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Süleymanpaşa",
+   "mekan": "Tekirdağ Namık Kemal Üniversitesi",
+   "kategori": "Yemek",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/gastronomi-ve-ascilik-toplulugu-tub-gastro-trakya-yer-kirklareli-universitesi/s/72218",
+   "gorsel": null
+  },
+  {
+   "id": "e533a61cbbd2",
+   "baslik": "Resim Bölümü Cumhuriyet'in 103. Yılında \"Akademik Yolculuğumuzda Hocalarımız ve Öğrencilerimiz\" İsimli Resim Sergisi",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Süleymanpaşa",
+   "mekan": "Rektörlük Sanat Galerisi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/resim-bolumu-cumhuriyetin-103-yilinda-akademik-yolculugumuzda-hocalarimiz-ve-ogrencilerimiz-isimli-resim-sergisi/s/70703",
+   "gorsel": null
+  },
+  {
    "id": "d9b43fcb2f6d",
    "baslik": "Hadi O Zaman",
    "tarih": "2026-11-24",
@@ -224,6 +256,38 @@
    "gorsel": null
   },
   {
+   "id": "4f8dbc63165e",
+   "baslik": "Gastronomi ve Aşçılık Topluluğu \"Sushi Workshop'u\" Yer: Şarköy MYO",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Süleymanpaşa",
+   "mekan": "Tekirdağ Namık Kemal Üniversitesi",
+   "kategori": "Yemek",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/gastronomi-ve-ascilik-toplulugu-sushi-workshopu-yer-sarkoy-myo/s/72221",
+   "gorsel": null
+  },
+  {
+   "id": "cc45508fa1b7",
+   "baslik": "Resim Bölümü Cumhuriyet'in 103. Yılında \"Akademik Yolculuğumuzda Hocalarımız ve Öğrencilerimiz\" İsimli Resim Sergisi",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Süleymanpaşa",
+   "mekan": "Rektörlük Sanat Galerisi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/resim-bolumu-cumhuriyetin-103-yilinda-akademik-yolculugumuzda-hocalarimiz-ve-ogrencilerimiz-isimli-resim-sergisi/s/70703",
+   "gorsel": null
+  },
+  {
    "id": "002cd0290476",
    "baslik": "Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezi \"25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü\"",
    "tarih": "2026-11-25",
@@ -253,22 +317,6 @@
    "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://bhi.nku.edu.tr/haberler/radyo-televizyon-ve-sinema-bolumu-ruya-film-toplulugu-rebuilding-palanga-palangayi-yeniden-insa-etmek-belgesel-film/s/71694",
-   "gorsel": null
-  },
-  {
-   "id": "5b8ae24ecbc7",
-   "baslik": "Rüya Film Topluluğu “Rebuilding Palanga Film Gösterimi ve Söyleşi”",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Süleymanpaşa",
-   "mekan": "Fen Edebiyat Konferans Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://bhi.nku.edu.tr/haberler/ruya-film-toplulugu-rebuilding-palanga-film-gosterimi-ve-soylesi/s/72047",
    "gorsel": null
   },
   {
@@ -304,11 +352,11 @@
    "gorsel": null
   },
   {
-   "id": "ea8aad287d47",
-   "baslik": "Çalışma Ekonomisi ve Endüstri İlişkileri Topluluğu “Toplumsal Bellek: Film ve Belgesel Günleri”",
+   "id": "d8cccc6a2d2b",
+   "baslik": "Çalışma Ekonomisi ve Endüstri İlişkileri Topluluğu \"Toplumsal Bellek: Film ve Belgesel Günleri\"",
    "tarih": "2026-11-26",
    "bitis": null,
-   "saat": "09:00",
+   "saat": "14:30",
    "ilce": "Süleymanpaşa",
    "mekan": "Fen Edebiyat Konferans Salonu",
    "kategori": "Sinema",
@@ -316,7 +364,7 @@
    "ozet": null,
    "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://bhi.nku.edu.tr/haberler/calisma-ekonomisi-ve-endustri-iliskileri-toplulugu-toplumsal-bellek-film-ve-belgesel-gunleri/s/72051",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/calisma-ekonomisi-ve-endustri-iliskileri-toplulugu-toplumsal-bellek-film-ve-belgesel-gunleri/s/72215",
    "gorsel": null
   },
   {
@@ -381,6 +429,22 @@
    "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://bhi.nku.edu.tr/haberler/turk-muzigi-devlet-konservatuvari-ders/s/70229",
+   "gorsel": null
+  },
+  {
+   "id": "0483e7158060",
+   "baslik": "Çalışma Ekonomisi ve Endüstri İlişkileri Topluluğu \"Toplumsal Bellek: Film ve Belgesel Günleri\"",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Süleymanpaşa",
+   "mekan": "Fen Edebiyat Konferans Salonu",
+   "kategori": "Sinema",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/calisma-ekonomisi-ve-endustri-iliskileri-toplulugu-toplumsal-bellek-film-ve-belgesel-gunleri/s/72215",
    "gorsel": null
   },
   {
@@ -464,6 +528,38 @@
    "gorsel": null
   },
   {
+   "id": "f1755a21421c",
+   "baslik": "IVSA Tekirdağ Topluluğu “IVSA İç Hastalıkları Webinarı”",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Süleymanpaşa",
+   "mekan": "Tekirdağ Namık Kemal Üniversitesi",
+   "kategori": "Gençlik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/ivsa-tekirdag-toplulugu-ivsa-ic-hastaliklari-webinari/s/71776",
+   "gorsel": null
+  },
+  {
+   "id": "2ad160f6b37a",
+   "baslik": "Arkeoloji Topluluğu \"Arkeoloji Temalı Genel Kültür Yarışması\"",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Süleymanpaşa",
+   "mekan": "Tekirdağ Namık Kemal Üniversitesi",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/arkeoloji-toplulugu-arkeoloji-temali-genel-kultur-yarismasi/s/72217",
+   "gorsel": null
+  },
+  {
    "id": "ee7df03f5f0f",
    "baslik": "MUN Etkinliği",
    "tarih": "2026-11-29",
@@ -528,22 +624,6 @@
    "gorsel": null
   },
   {
-   "id": "71b5817fa3a8",
-   "baslik": "Genç Hukukçular Topluluğu “Hukuk Okulu-9” Ataköy/İstanbul Uluslararası Gençlik Merkezi",
-   "tarih": "2026-12-01",
-   "bitis": null,
-   "saat": "07:00",
-   "ilce": "Süleymanpaşa",
-   "mekan": "Tekirdağ Namık Kemal Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://bhi.nku.edu.tr/haberler/genc-hukukcular-toplulugu-hukuk-okulu-9-atakoyistanbul-uluslararasi-genclik-merkezi/s/72044",
-   "gorsel": null
-  },
-  {
    "id": "3d6555522f65",
    "baslik": "Türk Müziği Devlet Konservatuvarı Ders",
    "tarih": "2026-12-01",
@@ -560,9 +640,57 @@
    "gorsel": null
   },
   {
-   "id": "a0e576b8cefc",
-   "baslik": "Türk Müziği Devlet Konservatuvarı \"Keman Dinletisi\"",
+   "id": "025bb932bff9",
+   "baslik": "TMMOB Ziraat Mühendisleri Odası ZMOGenç ve Ekonomi Topluluğu \"TARSİM 'in Çalışma Konuları ve Kariyer Planlaması\"",
    "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Süleymanpaşa",
+   "mekan": "Ziraat Konferans Salonu",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/tmmob-ziraat-muhendisleri-odasi-zmogenc-ve-ekonomi-toplulugu-tarsim-in-calisma-konulari-ve-kariyer-planlamasi/s/72236",
+   "gorsel": null
+  },
+  {
+   "id": "4dfa7c0f82d4",
+   "baslik": "Genç Hukukçular Topluluğu “Hukuk Okulu-9” Ataköy/İstanbul Uluslararası Gençlik Merkezi",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "07:00",
+   "ilce": "Süleymanpaşa",
+   "mekan": "Tekirdağ Namık Kemal Üniversitesi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/genc-hukukcular-toplulugu-hukuk-okulu-9-atakoyistanbul-uluslararasi-genclik-merkezi/s/72044",
+   "gorsel": null
+  },
+  {
+   "id": "8a314ee3fc07",
+   "baslik": "Türk Müziği Devlet Konservatuvarı Ders",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "08:30",
+   "ilce": "Süleymanpaşa",
+   "mekan": "Ziraat Konferans Salonu",
+   "kategori": "Geleneksel Müzik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Tekirdağ Namık Kemal Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://bhi.nku.edu.tr/haberler/turk-muzigi-devlet-konservatuvari-ders/s/69409",
+   "gorsel": null
+  },
+  {
+   "id": "0a89b9d3e7bd",
+   "baslik": "Türk Müziği Devlet Konservatuvarı \"Keman Dinletisi\"",
+   "tarih": "2026-12-02",
    "bitis": null,
    "saat": "09:00",
    "ilce": "Süleymanpaşa",
@@ -576,9 +704,9 @@
    "gorsel": null
   },
   {
-   "id": "b7a13544eef0",
+   "id": "4f08a6295cc9",
    "baslik": "Türk Müziği Devlet Konservatuvarı \"Türk Müziğinde Tangolar Konseri\"",
-   "tarih": "2026-12-01",
+   "tarih": "2026-12-02",
    "bitis": null,
    "saat": "09:00",
    "ilce": "Süleymanpaşa",
@@ -592,9 +720,9 @@
    "gorsel": null
   },
   {
-   "id": "4d5035e9163e",
+   "id": "4227186edfe9",
    "baslik": "Tıp Fakültesi \"Türkiye Psikiyatri Derneği Mesleğe İlk Adım Programı\"",
-   "tarih": "2026-12-01",
+   "tarih": "2026-12-02",
    "bitis": null,
    "saat": "09:00",
    "ilce": "Süleymanpaşa",
@@ -608,9 +736,9 @@
    "gorsel": null
   },
   {
-   "id": "a43de8c8229b",
+   "id": "cf1f9b43dbbf",
    "baslik": "Can Sağlığı Topluluğu “Sağlıklı Beslenme ve Hijyen Eğitimi” Ticaret Borsası İlköğretim Okulu",
-   "tarih": "2026-12-01",
+   "tarih": "2026-12-02",
    "bitis": null,
    "saat": "09:00",
    "ilce": "Süleymanpaşa",
@@ -624,9 +752,9 @@
    "gorsel": null
   },
   {
-   "id": "b5054cf99fe5",
+   "id": "5d75767ead22",
    "baslik": "Toprak Bilimi ve Bitki Besleme Bölümü \"Toprak Sağlığı ve Geleceğimiz\" Konferansı",
-   "tarih": "2026-12-01",
+   "tarih": "2026-12-02",
    "bitis": null,
    "saat": "13:00",
    "ilce": "Süleymanpaşa",
@@ -640,9 +768,9 @@
    "gorsel": null
   },
   {
-   "id": "a63ae795d0a3",
+   "id": "b1742ffb5e43",
    "baslik": "Genç Edebiyatçılar Topluluğu “Işık ÖĞÜTÇÜ ile Söyleşi”",
-   "tarih": "2026-12-01",
+   "tarih": "2026-12-02",
    "bitis": null,
    "saat": "13:30",
    "ilce": "Süleymanpaşa",
@@ -656,9 +784,9 @@
    "gorsel": null
   },
   {
-   "id": "2d7908df2a0e",
+   "id": "9fa13842ac2b",
    "baslik": "Yabancı Diller Yüksekokulu \"Quiz Show\"",
-   "tarih": "2026-12-01",
+   "tarih": "2026-12-02",
    "bitis": null,
    "saat": "13:30",
    "ilce": "Süleymanpaşa",
@@ -672,9 +800,9 @@
    "gorsel": null
   },
   {
-   "id": "e4611d56709e",
+   "id": "aacaa84e3a15",
    "baslik": "Maliye Topluluğu \"Sektör Buluşması\"",
-   "tarih": "2026-12-01",
+   "tarih": "2026-12-02",
    "bitis": null,
    "saat": "14:00",
    "ilce": "Süleymanpaşa",
@@ -688,9 +816,9 @@
    "gorsel": null
   },
   {
-   "id": "e3c73865c732",
+   "id": "d06364ad6e78",
    "baslik": "Siyaset Bilimi ve Kamu Yönetimi Topluluğu \"Terörsüz Türkiye Sürecinde Siyasal Yaklaşımlar\"",
-   "tarih": "2026-12-01",
+   "tarih": "2026-12-02",
    "bitis": null,
    "saat": "14:00",
    "ilce": "Süleymanpaşa",
@@ -704,9 +832,9 @@
    "gorsel": null
   },
   {
-   "id": "8ffd67ad52ac",
+   "id": "514bae4996f5",
    "baslik": "Çalışma Ekonomisi ve Endüstri İlişkileri Bölümü \"Plaktan Dijital Çağa Müzik Endüstrisinin Serüveni\"",
-   "tarih": "2026-12-01",
+   "tarih": "2026-12-02",
    "bitis": null,
    "saat": "14:30",
    "ilce": "Süleymanpaşa",
@@ -720,9 +848,9 @@
    "gorsel": null
   },
   {
-   "id": "7a2e6ad3e1bc",
+   "id": "c68a12f6a7c1",
    "baslik": "Türk Müziği Devlet Konservatuvarı Ders",
-   "tarih": "2026-12-01",
+   "tarih": "2026-12-02",
    "bitis": null,
    "saat": "14:30",
    "ilce": "Süleymanpaşa",
@@ -741,7 +869,7 @@
    "ad": "Tekirdağ Namık Kemal Üniversitesi",
    "tur": "universite",
    "url": "https://bhi.nku.edu.tr/etkinlik",
-   "etkinlik_sayisi": 57,
+   "etkinlik_sayisi": 66,
    "durum": "çalışıyor"
   },
   {

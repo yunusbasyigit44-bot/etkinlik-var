@@ -1,6 +1,6 @@
 {
  "il": "adiyaman",
- "guncelleme": "2026-11-22T13:40+03:00",
+ "guncelleme": "2026-11-23T14:43+03:00",
  "ilceler": [
   "Merkez",
   "Besni",
@@ -76,6 +76,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/23/siir-ve-muzik-dinletisi-",
    "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/23/siir-ve-muzik-dinletisi-/thumb/%C4%B1mg-20261117-wa0027.jpg"
+  },
+  {
+   "id": "ef6a6eee1973",
+   "baslik": "Ulusal Çevrimiçi Karma Sergi",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "09:30",
+   "ilce": "Merkez",
+   "mekan": "https://sanalsergi.adiyaman.edu.tr",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/24/ulusal-cevrimici-karma-sergi",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/24/ulusal-cevrimici-karma-sergi/thumb/24%20kas%C4%B1m%20sergi.jpg"
   },
   {
    "id": "40938a06c1c6",
@@ -163,7 +179,7 @@
    "ad": "Adıyaman Üniversitesi",
    "tur": "universite",
    "url": "https://adiyaman.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {

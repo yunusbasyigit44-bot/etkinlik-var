@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-22T13:55+03:00",
+ "guncelleme": "2026-11-23T15:00+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,22 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "a4e7c94bf44a",
-   "baslik": "Klasik Kemençe Atölyesi",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/klasik-kemence-atolyesi/1331",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/wwtzROqP7-1X4yALvA1glRGbSjHxb1Cz.jpeg"
-  },
   {
    "id": "59eb064388a0",
    "baslik": "Konya Okulu - Prof. Dr. Ali Akpınar",
@@ -403,6 +387,22 @@
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/rDq9Q0TPY6VfiNgCpIQW7D8nJ2a-fvLC.jpeg"
   },
   {
+   "id": "3675387f2b09",
+   "baslik": "Şehir Konferansları - Ereğli",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-eregli/1343",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/r5tAlGXgCG2D8zr5jjQsincVy_BiJ64a.jpeg"
+  },
+  {
    "id": "16c344a2a5d3",
    "baslik": "Şehir Konferansları - Karapınar",
    "tarih": "2026-11-29",
@@ -433,6 +433,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/2-ulusal-psikoloji-ogrenci-sempozyumu-2509",
    "gorsel": null
+  },
+  {
+   "id": "7ce656f9f605",
+   "baslik": "Şehir Konferansları - Çumra",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-cumra/1344",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/Ns5LXynt8NKx5OapoK3J30Xf46KTN-Rs.jpeg"
   },
   {
    "id": "e81a3b294c68",
@@ -639,7 +655,7 @@
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {

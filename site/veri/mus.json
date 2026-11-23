@@ -1,6 +1,6 @@
 {
  "il": "mus",
- "guncelleme": "2026-11-22T13:59+03:00",
+ "guncelleme": "2026-11-23T15:04+03:00",
  "ilceler": [
   "Merkez",
   "Bulanık",
@@ -25,6 +25,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.alparslan.edu.tr/page/event/rahve-konusmalari-71-9720",
    "gorsel": "https://www.alparslan.edu.tr/images/event/1795160233.jpg"
+  },
+  {
+   "id": "df9c22c4b0bb",
+   "baslik": "Çay, Kitap, Simit",
+   "tarih": "2026-11-23",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Muş Alparslan Üniversitesi",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muş Alparslan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.alparslan.edu.tr/page/event/cay-kitap-simit-9727",
+   "gorsel": "https://www.alparslan.edu.tr/images/event/1795432918.jpg"
   },
   {
    "id": "9f448ae5f732",
@@ -176,7 +192,7 @@
    "ad": "Muş Alparslan Üniversitesi",
    "tur": "universite",
    "url": "https://www.alparslan.edu.tr/tr/page/event",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {

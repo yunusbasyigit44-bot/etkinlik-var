@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-22T13:50+03:00",
+ "guncelleme": "2026-11-23T14:55+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -83,54 +83,6 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afaafe6bd237.jpg"
   },
   {
-   "id": "77d049c141cd",
-   "baslik": "CMYK Medya Günleri'19",
-   "tarih": "2026-11-21",
-   "bitis": "2026-11-22",
-   "saat": "10:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Seminerler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/cmyk-medya-gunleri19-1790258723",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd45128196f.jpg"
-  },
-  {
-   "id": "d3a7e249301f",
-   "baslik": "Ben de Uçabilirim",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Sanat Sokağı Kukla Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
-  },
-  {
-   "id": "936fa4240619",
-   "baslik": "Macbeth",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Tepebaşı",
-   "mekan": "B.B.Sanat ve Kültür Merkezi Tiyatro Sahnesi ( Opera )",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
-  },
-  {
    "id": "53d6eb986daa",
    "baslik": "Kariyer Kulübü Tanıtım Standı",
    "tarih": "2026-11-23",
@@ -145,22 +97,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/kariyer-kulubu-tanitim-standi-1795181105",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b004a0aae40d.jpg"
-  },
-  {
-   "id": "c9835aff397b",
-   "baslik": "Deniz Mahsullü Risotto Workshop",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/deniz-mahsullu-risotto-workshop-1794565052",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd495726c98.jpg"
   },
   {
    "id": "9e83807c6f46",
@@ -513,6 +449,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/icimdeki-cocuk-anlatiyor-1794999122",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe9ff59aa4a.jpg"
+  },
+  {
+   "id": "17ba9b16b65a",
+   "baslik": "Türk Kültürünün Çizgi Romancısı Bahattin ATAK ile Söyleşi ve Sergi",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": "Söyleşiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/turk-kulturunun-cizgi-romancisi-bahattin-atak-ile-soylesi-ve-sergi-1795417545",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b03e5c3f38f8.jpg"
+  },
+  {
+   "id": "90b1aff46581",
+   "baslik": "Türk Kültürününün Çizgi Romancısı Bahattin ATAK ile Söyleşi ve Sergi",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": "Söyleşiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/turk-kulturununun-cizgi-romancisi-bahattin-atak-ile-soylesi-ve-sergi-1795418257",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b03e85f3de98.jpg"
   },
   {
    "id": "aa68e569685c",
@@ -961,6 +929,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/zirve-alisilmisin-disinda-1788958407",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afee4c30a323.jpg"
+  },
+  {
+   "id": "a220f95a6d43",
+   "baslik": "Kalite ve Kurumsal Gelişim Koordinatörlüğü Toplantısı",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Toplantılar",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/kalite-ve-kurumsal-gelisim-koordinatorlugu-toplantisi-1794565513",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afee4e450e26.jpg"
   }
  ],
  "kaynaklar": [
@@ -968,14 +952,14 @@
    "ad": "Anadolu Üniversitesi",
    "tur": "universite",
    "url": "https://www.anadolu.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 44,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 45,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Eskişehir Şehir Tiyatroları",
    "tur": "belediye",
    "url": "https://tiyatro.eskisehir.bel.tr/oyuntakvimi.php",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 12,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

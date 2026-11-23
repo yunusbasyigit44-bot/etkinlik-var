@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-22T13:47+03:00",
+ "guncelleme": "2026-11-23T14:51+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -24,22 +24,6 @@
   "Uzundere"
  ],
  "etkinlikler": [
-  {
-   "id": "f8956b2c2871",
-   "baslik": "Delikburunlular Kabilesi",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/delikburunlular-kabilesi",
-   "gorsel": "veri/gorsel/dt-delikburunlular-kabilesi.webp"
-  },
   {
    "id": "5ca2cdb0be64",
    "baslik": "Akademik Kariyer Planlama, Bilimsel Yazım ve Araştırma Etiği Programı",
@@ -103,6 +87,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/seferi-ramazan-beyin-nafile-dunyasi",
    "gorsel": "veri/gorsel/dt-seferi-ramazan-beyin-nafile-dunyasi.webp"
+  },
+  {
+   "id": "78fe0fdbbd72",
+   "baslik": "Mârifetten Maârife Bir Erdem Pratiği Olarak Öğretmenlik",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum Teknik Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erzurum Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erzurum.edu.tr/etkinlik/marifetten-maarife-bir-erdem-pratigi-olarak-ogretmenlik1",
+   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/5ab96cfc-27d2-49d5-83d0-0bfd8948d433.webp?width=600&height=749&mode=carve"
   },
   {
    "id": "c5443c71ff03",
@@ -297,6 +297,22 @@
    "gorsel": "veri/gorsel/dt-seferi-ramazan-beyin-nafile-dunyasi.webp"
   },
   {
+   "id": "3b283c32727b",
+   "baslik": "YÖKDİL / YDS Sınavlarına Hazırlık: Grammar – Kelime – Soru Çözüm Taktikleri ve Püf Noktaları Eğitimi",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum Teknik Üniversitesi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erzurum Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erzurum.edu.tr/etkinlik/yokdil-yds-snavlarna-hazrlk-grammar-kelime-soru-cozum-taktikleri-ve-puf-noktalar-egitimi1",
+   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/58193179-7d6b-422d-b6ea-662a186b2e7c.webp?width=600&height=749&mode=carve"
+  },
+  {
    "id": "afaf339a47c1",
    "baslik": "Delikburunlular Kabilesi",
    "tarih": "2026-12-06",
@@ -457,6 +473,22 @@
    "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/TUBITAK-1001-Proje-Yazma-Egitimi-819x1024.jpeg"
   },
   {
+   "id": "1fb41b72363d",
+   "baslik": "Beyaz Şapkalı Hacker Eğitimi",
+   "tarih": "2026-12-19",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum Teknik Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erzurum Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erzurum.edu.tr/etkinlik/beyaz-sapkal-hacker-egitimi1",
+   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/efa3b949-eba0-465f-87e1-dd068c458476.webp?width=600&height=749&mode=carve"
+  },
+  {
    "id": "8b7b69feaa7b",
    "baslik": "Sertifikalı Solidworks Eğitimi",
    "tarih": "2026-12-28",
@@ -471,6 +503,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://atauni.edu.tr/etkinlik/sertifikali-solidworks-egitimi/",
    "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/Sertifikali-Solidworks-Egitimi-819x1024.jpeg"
+  },
+  {
+   "id": "7f4595130e6e",
+   "baslik": "Pratik İngilizce Konuşma Eğitimi",
+   "tarih": "2027-01-02",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum Teknik Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erzurum Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erzurum.edu.tr/etkinlik/pratik-ingilizce-konusma-egitimi1",
+   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/f14844d5-24cc-493e-850d-3a9136dc83a8.webp?width=600&height=749&mode=carve"
   }
  ],
  "kaynaklar": [
@@ -478,7 +526,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {
@@ -489,18 +537,18 @@
    "durum": "çalışıyor"
   },
   {
+   "ad": "Erzurum Teknik Üniversitesi",
+   "tur": "universite",
+   "url": "https://erzurum.edu.tr/",
+   "etkinlik_sayisi": 4,
+   "durum": "çalışıyor"
+  },
+  {
    "ad": "Erzurum Büyükşehir Belediyesi",
    "tur": "belediye",
    "url": "https://www.erzurum.bel.tr",
    "etkinlik_sayisi": 0,
    "durum": "etkinlik takvimi sayfası bulunamadı; kültür hizmetleri sayfası sabit bilgi"
-  },
-  {
-   "ad": "Erzurum Teknik Üniversitesi",
-   "tur": "universite",
-   "url": "https://erzurum.edu.tr/",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Erzurum Valiliği ve 19 ilçe kaymakamlığı",

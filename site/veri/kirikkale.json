@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-22T14:04+03:00",
+ "guncelleme": "2026-11-23T15:08+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -124,6 +124,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10086",
    "gorsel": null
+  },
+  {
+   "id": "e2c56b2705f1",
+   "baslik": "\"Topraktan Teknolojiye, Bilimden Geleceğe!\"",
+   "tarih": "2026-12-16",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10099",
+   "gorsel": null
   }
  ],
  "kaynaklar": [
@@ -131,7 +147,7 @@
    "ad": "Kırıkkale Üniversitesi",
    "tur": "universite",
    "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {

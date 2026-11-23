@@ -1,6 +1,6 @@
 {
  "il": "yozgat",
- "guncelleme": "2026-11-22T14:03+03:00",
+ "guncelleme": "2026-11-23T15:07+03:00",
  "ilceler": [
   "Merkez",
   "Akdağmadeni",
@@ -35,6 +35,38 @@
    "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/5a7e565e.jpg"
   },
   {
+   "id": "cc5a618f2830",
+   "baslik": "Öğretmenler Günü Kutlama Programı",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4287",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/36383ffb.jpeg"
+  },
+  {
+   "id": "045ec79670e9",
+   "baslik": "24 Kasım Öğretmenler Günü Korteji",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4288",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/44bdb624.jpeg"
+  },
+  {
    "id": "ea708a366483",
    "baslik": "Aristoteles ve Trajik Karakter",
    "tarih": "2026-11-25",
@@ -49,6 +81,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4284",
    "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/e52b6dde.png"
+  },
+  {
+   "id": "bf3728623b32",
+   "baslik": "Bugün Kadrajda Ana Akım Var!",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4285",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/7c3e4aee.jpeg"
   },
   {
    "id": "86e3abc63eeb",
@@ -88,7 +136,7 @@
    "ad": "Yozgat Bozok Üniversitesi",
    "tur": "universite",
    "url": "https://www.bozok.edu.tr/",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

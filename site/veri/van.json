@@ -1,6 +1,6 @@
 {
  "il": "van",
- "guncelleme": "2026-11-22T14:03+03:00",
+ "guncelleme": "2026-11-23T15:07+03:00",
  "ilceler": [
   "İpekyolu",
   "Tuşba",
@@ -17,22 +17,6 @@
   "Saray"
  ],
  "etkinlikler": [
-  {
-   "id": "b4ebcf7f6e13",
-   "baslik": "Toti ile Poti",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "İpekyolu",
-   "mekan": "Erhan Gökgücü DT Genç Sahne",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/toti-ile-poti",
-   "gorsel": "veri/gorsel/dt-toti-ile-poti.jpg"
-  },
   {
    "id": "6fd961d1144e",
    "baslik": "İbiş'in Rüyası",
@@ -146,11 +130,11 @@
    "gorsel": "veri/gorsel/dt-toti-ile-poti.jpg"
   },
   {
-   "id": "104b4f02e201",
+   "id": "dc3a401bcf87",
    "baslik": "Papağan Kaçtı",
    "tarih": "2026-12-01",
    "bitis": null,
-   "saat": "19:30",
+   "saat": "14:00",
    "ilce": "İpekyolu",
    "mekan": "Van Kültür Merkezi Sahnesi",
    "kategori": "Tiyatro",
@@ -233,13 +217,13 @@
    "saat": "14:00",
    "ilce": "İpekyolu",
    "mekan": "Erhan Gökgücü DT Genç Sahne",
-   "kategori": "Çocuk",
+   "kategori": "Tiyatro",
    "ucretsiz": false,
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/corap-gonzo",
-   "gorsel": "veri/gorsel/dt-corap-gonzo.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/corap-gonzo-",
+   "gorsel": "veri/gorsel/dt-corap-gonzo-.webp"
   },
   {
    "id": "8900b211dc34",
@@ -329,13 +313,13 @@
    "saat": "14:00",
    "ilce": "İpekyolu",
    "mekan": "Erhan Gökgücü DT Genç Sahne",
-   "kategori": "Çocuk",
+   "kategori": "Tiyatro",
    "ucretsiz": false,
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/corap-gonzo",
-   "gorsel": "veri/gorsel/dt-corap-gonzo.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/corap-gonzo-",
+   "gorsel": "veri/gorsel/dt-corap-gonzo-.webp"
   }
  ],
  "kaynaklar": [
@@ -343,7 +327,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 20,
+   "etkinlik_sayisi": 19,
    "durum": "çalışıyor"
   },
   {

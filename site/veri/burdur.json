@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-22T13:44+03:00",
+ "guncelleme": "2026-11-23T14:48+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,22 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "5612f36d5903",
-   "baslik": "Güvenli Okul İkliminde Öğretmenin Rolü",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Merkez",
-   "mekan": "Burdur İl Milli Eğitim Müdürlüğü Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13656/1/guvenli-okul-ikliminde-ogretmenin-rolu",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13656/4_13656_2026-11-19-11-03-02-986478_thumb.webp"
-  },
   {
    "id": "8d2804541ac7",
    "baslik": "Kağıttan Hayallere Uzanan Yolculuk: Origami ve Yaratıcılık Atölyesi",
@@ -110,6 +94,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13601/1/ogretmenlik-meslegine-ilk-adim-toreni",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13601/4_13601_2026-11-10-08-06-16-925626_thumb.webp"
+  },
+  {
+   "id": "7e169a6c6b4f",
+   "baslik": "Çay Partisi",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Avşar Han Gençlik Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13655/1/cay-partisi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13655/4_13655_2026-11-19-07-10-55-51770_thumb.webp"
   }
  ],
  "kaynaklar": [

@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-11-22T13:54+03:00",
+ "guncelleme": "2026-11-23T14:58+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -195,75 +195,11 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-05/52f968d3-919e-4591-8578-c2d7abdb2f9c-3h5koq1w.jpeg"
   },
   {
-   "id": "af9290cc4870",
-   "baslik": "Kırmızı Kanatlı Baykuş",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Konak",
-   "mekan": "Devlet Tiyatroları Urla AKM Fuaye Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kirmizi-kanatli-baykus",
-   "gorsel": "veri/gorsel/dt-kirmizi-kanatli-baykus.jpg"
-  },
-  {
-   "id": "816f5dbf0ab8",
-   "baslik": "Otobüs Durağında Üç Bencil",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/otobus-duraginda-uc-bencil",
-   "gorsel": "veri/gorsel/dt-otobus-duraginda-uc-bencil.jpg"
-  },
-  {
-   "id": "8a808c0bd69b",
-   "baslik": "Yuko",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yuko",
-   "gorsel": "veri/gorsel/dt-yuko.jpg"
-  },
-  {
-   "id": "c5e986dc05ff",
-   "baslik": "Kırmızı Kanatlı Baykuş",
-   "tarih": "2026-11-22",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Konak",
-   "mekan": "Devlet Tiyatroları Urla AKM Fuaye Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kirmizi-kanatli-baykus",
-   "gorsel": "veri/gorsel/dt-kirmizi-kanatli-baykus.jpg"
-  },
-  {
-   "id": "a15ba4591fec",
+   "id": "556127087578",
    "baslik": "Ayrımcılığa Karşı Sinema Günleri",
    "tarih": "2026-11-23",
    "bitis": null,
-   "saat": "19:30",
+   "saat": "18:30",
    "ilce": "Konak",
    "mekan": "Elhamra Sahnesi",
    "kategori": "Sinema",
@@ -272,7 +208,7 @@
    "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-19/f6faedef-a236-4628-9ac7-8bf2db95a10d-haziidgo.jpeg"
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-23/a9cdc4cb-6cc7-46af-8f8b-7edecf317650-qvqchpzk.jpeg"
   },
   {
    "id": "7f42e57777b8",
@@ -595,6 +531,22 @@
    "gorsel": "veri/gorsel/dt-bagdat-ruzgarinda-dokuz-kadin.webp"
   },
   {
+   "id": "3ea418a3f034",
+   "baslik": "Dario Moreno Anısına İnanç Menekşe Konseri",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "16:00",
+   "ilce": null,
+   "mekan": "Tarihi Asansör",
+   "kategori": "Konser",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-23/fd338939-313b-4098-8373-bcc6084bb545-qmklpaq0.jpg"
+  },
+  {
    "id": "ff0007bcfa3e",
    "baslik": "Trıo Vecando Konseri",
    "tarih": "2026-11-28",
@@ -867,6 +819,22 @@
    "gorsel": "veri/gorsel/dob-3-1140.webp"
   },
   {
+   "id": "2d9508c653b8",
+   "baslik": "İzmir Tarihi Kemeraltı Esnaflar Derneği Korosu Konseri",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "Elhamra Sahnesi",
+   "kategori": "Konser",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-23/9c97bac5-b3b3-41af-abc6-dfe72f8dd229-qc5ne5kn.jpg"
+  },
+  {
    "id": "b5bd0257c221",
    "baslik": "Kurtlar Sofrası",
    "tarih": "2026-12-02",
@@ -897,6 +865,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yalancinin-resmi",
    "gorsel": "veri/gorsel/dt-yalancinin-resmi.jpg"
+  },
+  {
+   "id": "2b516743041e",
+   "baslik": "Yenilmez",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-12/6bf0a2f1-8da1-4e1a-b1d5-88be2b247149-g0hfgjd3.jpeg"
   },
   {
    "id": "e19f11c76c57",
@@ -945,6 +929,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/giselle-izmir-dob",
    "gorsel": "veri/gorsel/dob-3-1140.webp"
+  },
+  {
+   "id": "0ea36d5a80a1",
+   "baslik": "Yenilmez",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-12/6bf0a2f1-8da1-4e1a-b1d5-88be2b247149-g0hfgjd3.jpeg"
   },
   {
    "id": "80b3735cddde",
@@ -1027,6 +1027,22 @@
    "gorsel": "veri/gorsel/dob-3-1140.webp"
   },
   {
+   "id": "55894052dc22",
+   "baslik": "Yenilmez",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-12/6bf0a2f1-8da1-4e1a-b1d5-88be2b247149-g0hfgjd3.jpeg"
+  },
+  {
    "id": "33e8bca14562",
    "baslik": "Kurtlar Sofrası",
    "tarih": "2026-12-05",
@@ -1105,6 +1121,38 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bocek-oteli",
    "gorsel": "veri/gorsel/dt-bocek-oteli.jpg"
+  },
+  {
+   "id": "f2d4ba914ba6",
+   "baslik": "Don Kişot",
+   "tarih": "2026-12-06",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Konak",
+   "mekan": "İzBBŞT İsmet İnönü Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/25-12-05/804b89fc-c4c4-4bb9-9bdd-dc9887379b17-42dhrg32.jpg"
+  },
+  {
+   "id": "13dec61b4bc1",
+   "baslik": "Aziz Vukolos'ta Akustik Günler",
+   "tarih": "2026-12-07",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "Aziz Vukolos Kilisesi Kültür Merkezi (Ayavukla Kilisesi)",
+   "kategori": "Konser",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-23/4696c996-0d2b-4226-9a8b-970f5d0839ef-b3vnovxz.jpg"
   },
   {
    "id": "18d5c4d2881e",
@@ -1459,6 +1507,38 @@
    "gorsel": "veri/gorsel/dt-kirmizi-kanatli-baykus.jpg"
   },
   {
+   "id": "50ad092c3825",
+   "baslik": "Aziz Vukolos'ta Akustik Günler",
+   "tarih": "2026-12-14",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "Aziz Vukolos Kilisesi Kültür Merkezi (Ayavukla Kilisesi)",
+   "kategori": "Konser",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-23/34d077f2-657b-46e9-9ea4-34f89bd43c77-vuu5ldxq.jpg"
+  },
+  {
+   "id": "5b38a5aa6108",
+   "baslik": "Aziz Vukolos'ta Akustik Günler",
+   "tarih": "2026-12-21",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "Aziz Vukolos Kilisesi Kültür Merkezi (Ayavukla Kilisesi)",
+   "kategori": "Konser",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-23/0255bda1-53bc-4a90-992f-724bb199db98-kh2i2dc4.jpg"
+  },
+  {
    "id": "9593cab36ee1",
    "baslik": "Aziz Vukolos'ta Akustik Türk Müziği Konserleri",
    "tarih": "2026-12-22",
@@ -1473,6 +1553,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-15/1dab1e95-46c9-4d4a-8899-5b5f496ac464-mmhmsrnk.jpg"
+  },
+  {
+   "id": "bc9482e9edf0",
+   "baslik": "Aziz Vukolos'ta Akustik Günler",
+   "tarih": "2026-12-28",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Konak",
+   "mekan": "Aziz Vukolos Kilisesi Kültür Merkezi (Ayavukla Kilisesi)",
+   "kategori": "Konser",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-23/31f44ebe-0c90-4661-8f48-b303f7e18683-gel23rdq.jpg"
   },
   {
    "id": "1c25905d582b",
@@ -1496,14 +1592,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 54,
+   "etkinlik_sayisi": 50,
    "durum": "çalışıyor"
   },
   {
    "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "tur": "belediye",
    "url": "https://kultursanat.izmir.bel.tr/",
-   "etkinlik_sayisi": 29,
+   "etkinlik_sayisi": 39,
    "durum": "çalışıyor"
   },
   {

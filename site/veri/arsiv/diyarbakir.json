@@ -1,5 +1,37 @@
 [
  {
+  "id": "77abe74d79b8",
+  "baslik": "Serpêhatıyê Nıkoyê Şılbık",
+  "tarih": "2026-11-22",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Yenişehir",
+  "mekan": "Çandamed/Sezai̇ Karakoç Kültür Ve Kongre Merkezi̇ (Mehmet Emi̇n Yalçinkaya Sahnesi̇)",
+  "kategori": "Diğer",
+  "ucretsiz": null,
+  "ozet": null,
+  "kaynak_ad": "Diyarbakır Büyükşehir Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.diyarbakir.bel.tr/etkinlikler/serpehatiye-nikoye-silbik",
+  "gorsel": "https://www.diyarbakir.bel.tr/uploads/medium_c3dde2c0_a583_492d_92c4_0a2a2831168b_18c5f1a60b.jpeg"
+ },
+ {
+  "id": "46c9b1f636bc",
+  "baslik": "Alacalı Şemsiye",
+  "tarih": "2026-11-22",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Kayapınar",
+  "mekan": "Kayapınar Kültür Merkezi Sahnesi",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/alacali-semsiye",
+  "gorsel": null
+ },
+ {
   "id": "77d8c999a4c9",
   "baslik": "Palyaço Bar",
   "tarih": "2026-11-21",

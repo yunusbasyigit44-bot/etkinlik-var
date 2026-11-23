@@ -1,6 +1,6 @@
 {
  "il": "sivas",
- "guncelleme": "2026-11-22T14:01+03:00",
+ "guncelleme": "2026-11-23T15:05+03:00",
  "ilceler": [
   "Merkez",
   "Akıncılar",
@@ -22,20 +22,20 @@
  ],
  "etkinlikler": [
   {
-   "id": "4eaca817480b",
-   "baslik": "Çayırın En Tuhaf Yuvası",
-   "tarih": "2026-11-22",
+   "id": "b0b2b73ae9e2",
+   "baslik": "Fibonacci Günü Matematik Atölyesi",
+   "tarih": "2026-11-23",
    "bitis": null,
-   "saat": "14:00",
+   "saat": null,
    "ilce": "Merkez",
-   "mekan": "Sivas DT Fuaye",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/cayirin-en-tuhaf-yuvasi",
-   "gorsel": "veri/gorsel/dt-cayirin-en-tuhaf-yuvasi.jpg"
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Üniversitemizde Minik Kaşifler İçin \"Fibonacci Günü Matematik Atölyesi\" Düzenlenecek 23 Kasım Dünya Fibonacci Günü kapsamında, Sağlık Hizmetleri Meslek Yüksekokulu Çocuk Gelişimi Programı öğrencilerim",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19452-fibonacci-gunu-matematik-atolyesi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Fibonacci-Gunu-Matematik-Atolyesi-90411.jpeg"
   },
   {
    "id": "9b8d89e266c2",
@@ -118,20 +118,20 @@
    "gorsel": "veri/gorsel/dt-karacaoglan.jpg"
   },
   {
-   "id": "6ddc0134ac99",
-   "baslik": "Matematik Bölümü Kariyer Söyleşisi- Yapay Zeka: Fırsatlar, Zorluklar ve Gelecek",
+   "id": "4577c03bb9f3",
+   "baslik": "Kent Sohbetleri- Algoritmik Kuşatma Altında Yerel Kalabilmek",
    "tarih": "2026-11-24",
    "bitis": null,
    "saat": null,
    "ilce": "Merkez",
    "mekan": "Sivas Cumhuriyet Üniversitesi",
-   "kategori": "Bilim & Teknoloji",
+   "kategori": "Söyleşi",
    "ucretsiz": true,
-   "ozet": "Matematik Bölümü Kariyer Söyleşisi- Yapay Zeka: Fırsatlar, Zorluklar ve Gelecek",
+   "ozet": "Kent Sohbetleri- Algoritmik Kuşatma Altında Yerel Kalabilmek",
    "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19437-matematik-bolumu-kariyer-soylesisi-yapay-zeka-firsatlar-zorluklar-ve-gelecek",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Matematik-Bolumu-Kariyer-Soylesisi--Yapay-Zeka--Firsatlar-Zorluklar-ve-Gelecek-56172.jpg"
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19448-kent-sohbetleri-algoritmik-kusatma-altinda-yerel-kalabilmek",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Kent-Sohbetleri--Algoritmik-Kusatma-Altinda-Yerel-Kalabilmek-22402.jpg"
   },
   {
    "id": "fe138cfdfadd",
@@ -182,6 +182,22 @@
    "gorsel": "veri/gorsel/dt-tebesir-agaci.jpg"
   },
   {
+   "id": "e1acb22f7ec6",
+   "baslik": "Matematik Bölümü Kariyer Söyleşisi- Yapay Zeka: Fırsatlar, Zorluklar ve Gelecek",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": "Matematik Bölümü Kariyer Söyleşisi- Yapay Zeka: Fırsatlar, Zorluklar ve Gelecek",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19460-matematik-bolumu-kariyer-soylesisi-yapay-zeka-firsatlar-zorluklar-ve-gelecek",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Matematik-Bolumu-Kariyer-Soylesisi--Yapay-Zeka--Firsatlar-Zorluklar-ve-Gelecek-44609.jpg"
+  },
+  {
    "id": "296e591411a8",
    "baslik": "Sektör Kampüste- Kariyer Buluşmaları",
    "tarih": "2026-11-25",
@@ -194,8 +210,8 @@
    "ozet": "Sektör Kampüste- Kariyer Buluşmaları",
    "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19443-sektor-kampuste-kariyer-bulusmalari",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Sektor-Kampuste--Kariyer-Bulusmalari-65117.jpg"
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19446-sektor-kampuste-kariyer-bulusmalari",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Sektor-Kampuste--Kariyer-Bulusmalari-55710.jpg"
   },
   {
    "id": "a44d25ba9144",
@@ -470,6 +486,22 @@
    "gorsel": "veri/gorsel/dt-kral-olmak-istemeyen-aslan.jpg"
   },
   {
+   "id": "57bd5d9d5736",
+   "baslik": "Banka Hesabını Kullandırmanın Ceza Hukuku ve Özel Hukuk Bakımından Sonuçları (Webinar)",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": "Banka Hesabını Kullandırmanın Ceza Hukuku ve Özel Hukuk Bakımından Sonuçları (Webinar) Katılım Linki İçin TIKLAYINIZ",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19461-banka-hesabini-kullandirmanin-ceza-hukuku-ve-ozel-hukuk-bakimindan-sonuclari-webinar",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Banka-Hesabini-Kullandirmanin-Ceza-Hukuku-ve-ozel-Hukuk-Bakimindan-Sonuclari-Webinar-37186.jpg"
+  },
+  {
    "id": "0457f2e16288",
    "baslik": "Kral Olmak İstemeyen Aslan",
    "tarih": "2026-12-02",
@@ -555,6 +587,22 @@
    "tarih": "2026-12-05",
    "bitis": null,
    "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Atatürk Kültür Merkezi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/resimli-osmanli-tarihi",
+   "gorsel": "veri/gorsel/dt-resimli-osmanli-tarihi.webp"
+  },
+  {
+   "id": "c2c8d8155907",
+   "baslik": "Resimli Osmanlı Tarihi",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": "19:30",
    "ilce": "Merkez",
    "mekan": "Atatürk Kültür Merkezi Sahnesi",
    "kategori": "Tiyatro",
@@ -747,7 +795,7 @@
    "ad": "Sivas Cumhuriyet Üniversitesi",
    "tur": "universite",
    "url": "https://www.cumhuriyet.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 27,
+   "etkinlik_sayisi": 30,
    "durum": "çalışıyor"
   },
   {
