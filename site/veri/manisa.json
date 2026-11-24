@@ -1,6 +1,6 @@
 {
  "il": "manisa",
- "guncelleme": "2026-11-23T15:01+03:00",
+ "guncelleme": "2026-11-24T16:32+03:00",
  "ilceler": [
   "Ahmetli",
   "Akhisar",
@@ -54,52 +54,20 @@
    "gorsel": "https://kultur.manisa.bel.tr/uploads/events/144fb3dd-4274-49f5-8c3e-97bf5f230971_MI%CC%87ZOJI%CC%87NI%CC%87-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
   },
   {
-   "id": "fc0432bf8ce1",
-   "baslik": "Aynı Şeylerin Oyunu",
-   "tarih": "2026-11-22",
-   "bitis": "2026-11-23",
-   "saat": "20:00",
-   "ilce": "Şehzadeler",
-   "mekan": "Şehir Tiyatrosu Uğur Mumcu Sahnesi - Şehzadeler / Manisa",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1298",
-   "gorsel": "https://kultur.manisa.bel.tr/uploads/events/ad0c3b67-d3a2-4cd9-a64d-e01adea57ae9_AYNI-S%CC%A7EYLERI%CC%87N-OYUNU-LAMBASI-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
-  },
-  {
-   "id": "f74ce7d7a93b",
-   "baslik": "Güven Temelli Ret Görüşmesi Atölyesi",
+   "id": "6e2d9bb09718",
+   "baslik": "24 Kasım Öğretmenler Günü Kutlama Programı",
    "tarih": "2026-11-24",
    "bitis": null,
-   "saat": "09:30",
+   "saat": "17:00",
    "ilce": "Yunusemre",
-   "mekan": "Manisa Şehir Hastanesi",
-   "kategori": "Atölye",
+   "mekan": "MCBÜ Basri Koçyiğit Kültür Merkezi",
+   "kategori": "Anma / Tören",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/guven-temelli-ret-gorusmesi-atolyesi#baslangic",
-   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261119113554520-WXA47.jpg"
-  },
-  {
-   "id": "4efcaebb93d4",
-   "baslik": "Kurgulanmış Güzellik Sanat Medya ve Özdeğer Paneli",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Yunusemre",
-   "mekan": "MCBÜ Prof. Ümit Doğay Arınç Kültür Merkezi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/kurgulanmis-guzellik-sanat-medya-ve-ozdeger-paneli#baslangic",
-   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261123144320755-GSLZV.png"
+   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/24-kasim-ogretmenler-gunu-kutlama-programi#baslangic",
+   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261123161512031-GJPF5.jpg"
   },
   {
    "id": "ca41ffc1e2b5",
@@ -150,6 +118,22 @@
    "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261110155708668-YKNPX.jpg"
   },
   {
+   "id": "53a3414fa94a",
+   "baslik": "Gençlerle 360° 12. Uluslararası Öğrenci Kongresi",
+   "tarih": "2026-12-03",
+   "bitis": "2026-12-04",
+   "saat": "10:00",
+   "ilce": "Yunusemre",
+   "mekan": "MCBÜ Prof. Ümit Doğay Arınç Kültür Merkezi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/genclerle-360-12-uluslararasi-ogrenci-kongresi#baslangic",
+   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261116095822431-CBKEV.jpg"
+  },
+  {
    "id": "87cd5e759703",
    "baslik": "VII. Ulusal Üniversite Sanayi İş Birliği Ar-Ge ve İnovasyon Kongresi",
    "tarih": "2026-12-09",
@@ -178,7 +162,7 @@
    "ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
    "tur": "belediye",
    "url": "https://kultur.manisa.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

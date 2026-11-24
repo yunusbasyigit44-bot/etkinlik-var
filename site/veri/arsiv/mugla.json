@@ -1,5 +1,21 @@
 [
  {
+  "id": "9d08649fed92",
+  "baslik": "TFF 1. Lig Futbol Karşılaşması Bodrumspor- Vanspor",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Bodrum",
+  "mekan": "Bodrum Şehir Stadyumu",
+  "kategori": "Spor",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bodrum Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2816/Mac-TFF_1_Lig_Futbol_Karsilasmasi_Bodrumspor-_Vanspor",
+  "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
+ },
+ {
   "id": "a357bbe59033",
   "baslik": "Eurasia Tourism Summit 2026",
   "tarih": "2026-11-20",

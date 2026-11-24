@@ -1,5 +1,21 @@
 [
  {
+  "id": "cfb89445bbe2",
+  "baslik": "Kampüs Konserleri - I",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Altınordu",
+  "mekan": "Müzik ve Sahne Sanatları Fakültesi Önü",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Ordu Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://odu.edu.tr/Etkinlikler/411/kampus-konserleri-i",
+  "gorsel": null
+ },
+ {
   "id": "6a37fba30153",
   "baslik": "İslam İktisadı ve Faizsiz Finans Araçlarında Güncel Zekat Problemleri Sempozyumu",
   "tarih": "2026-11-21",

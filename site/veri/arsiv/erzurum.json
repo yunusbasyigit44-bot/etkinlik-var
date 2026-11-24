@@ -1,5 +1,21 @@
 [
  {
+  "id": "5ca2cdb0be64",
+  "baslik": "Akademik Kariyer Planlama, Bilimsel Yazım ve Araştırma Etiği Programı",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": "10:00",
+  "ilce": "Yakutiye",
+  "mekan": "Atatürk Üniversitesi",
+  "kategori": "Kariyer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Atatürk Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://atauni.edu.tr/etkinlik/akademik-kariyer-planlama-bilimsel-yazim-ve-arastirma-etigi-programi/",
+  "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/akademik-kariyer-819x1024.jpeg"
+ },
+ {
   "id": "f8956b2c2871",
   "baslik": "Delikburunlular Kabilesi",
   "tarih": "2026-11-22",

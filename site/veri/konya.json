@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-23T15:00+03:00",
+ "guncelleme": "2026-11-24T16:31+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,70 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "59eb064388a0",
-   "baslik": "Konya Okulu - Prof. Dr. Ali Akpınar",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ali-akpinar/1209",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/yGQGIOJfI79AnIe5ZXoRLPI9Q5MHkGaB.jpeg"
-  },
-  {
-   "id": "fe9548a96d38",
-   "baslik": "Kuraklık ve İklim Zirvesi",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Meram",
-   "mekan": "Necmettin Erbakan Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Sosyal Fayda",
-   "kaynak_ad": "Necmettin Erbakan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/kuraklik-ve-iklim-zirvesi-2550",
-   "gorsel": null
-  },
-  {
-   "id": "8725eda69fde",
-   "baslik": "Öğretmenler Günü Konseri",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Meram",
-   "mekan": "Necmettin Erbakan Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Sosyo-Kültürel",
-   "kaynak_ad": "Necmettin Erbakan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/ogretmenler-gunu-konseri-2506",
-   "gorsel": null
-  },
-  {
-   "id": "55c92b98e604",
-   "baslik": "Mustafa Sönmez ve Öğrencileri Suluboya Sergisi",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Meram",
-   "mekan": "Necmettin Erbakan Üniversitesi",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": "Sosyo-Kültürel",
-   "kaynak_ad": "Necmettin Erbakan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/mustafa-sonmez-ve-ogrencileri-suluboya-sergisi-2555",
-   "gorsel": null
-  },
   {
    "id": "171e94a596c4",
    "baslik": "Yastık Adam",
@@ -435,6 +371,22 @@
    "gorsel": null
   },
   {
+   "id": "72343dcb0a2b",
+   "baslik": "Konya Okulu - Prof. Dr. Ali Akpınar",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ali-akpinar/1209",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/yGQGIOJfI79AnIe5ZXoRLPI9Q5MHkGaB.jpeg"
+  },
+  {
    "id": "7ce656f9f605",
    "baslik": "Şehir Konferansları - Çumra",
    "tarih": "2026-11-30",
@@ -595,6 +547,22 @@
    "gorsel": "veri/gorsel/dt-woyzeck.webp"
   },
   {
+   "id": "4a2378e588e3",
+   "baslik": "Yangından Korunma, Önleme ve Tahliye Eğitimi",
+   "tarih": "2026-12-08",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Meram",
+   "mekan": "Necmettin Erbakan Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim",
+   "kaynak_ad": "Necmettin Erbakan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/yangindan-korunma-onleme-ve-tahliye-egitimi-2566",
+   "gorsel": null
+  },
+  {
    "id": "04857aca6cf9",
    "baslik": "Yunus Benem (Kumdan Şehir)",
    "tarih": "2026-12-10",
@@ -662,7 +630,7 @@
    "ad": "Necmettin Erbakan Üniversitesi",
    "tur": "universite",
    "url": "https://erbakan.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {

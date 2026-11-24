@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-11-23T14:55+03:00",
+ "guncelleme": "2026-11-24T16:26+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -9,6 +9,22 @@
   "Yüksekova"
  ],
  "etkinlikler": [
+  {
+   "id": "e9a962a7411d",
+   "baslik": "Bilgilendirme ve Farkındalık Eğitimi",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Esma Bnt El-Hakkari Konferans Salonu (1. Kat)",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Diğer",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/552/bilgilendirme-ve-farkindalik-egitimi",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/552/cover/thumb/4931238c031d4554adb2e14eadc9e5f9.webp"
+  },
   {
    "id": "0e27ead46c57",
    "baslik": "24 Kasım Öğretmenler Günü Programı",
@@ -63,7 +79,7 @@
    "ad": "Hakkari Üniversitesi",
    "tur": "universite",
    "url": "https://www.hakkari.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

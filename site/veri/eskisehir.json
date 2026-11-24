@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-23T14:55+03:00",
+ "guncelleme": "2026-11-24T16:25+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -33,22 +33,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afea1e852dd1.jpg"
-  },
-  {
-   "id": "0b353c5509b8",
-   "baslik": "Milli Mücadeleden Cumhuriyet",
-   "tarih": "2026-11-09",
-   "bitis": "2026-11-23",
-   "saat": "13:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": "Sergiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/milli-mucadeleden-cumhuriyet-1792756243",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afed0b888011.jpg"
   },
   {
    "id": "5c71b066c51c",
@@ -96,78 +80,14 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/kariyer-kulubu-tanitim-standi-1795181105",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b004a0aae40d.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0574bc3d7f5.jpg"
   },
   {
-   "id": "9e83807c6f46",
-   "baslik": "Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961231",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9d86b3e9f.jpg"
-  },
-  {
-   "id": "ab8abb72f1c7",
-   "baslik": "Kariyer Yolculuğum: İnsan Kaynakları",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Kariyer",
-   "ucretsiz": true,
-   "ozet": "Konferanslar",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/kariyer-yolculugum-insan-kaynaklari-1795159310",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0006239632e.jpg"
-  },
-  {
-   "id": "44a935e414ed",
-   "baslik": "Kolaj Etkinliği",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/kolaj-etkinligi-1794565353",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9d3811491.png"
-  },
-  {
-   "id": "ea314156e6fb",
-   "baslik": "Tepebaşı Belediyesi Türk Halk Müziği Kadınlar Korosu Öğretmenler Günü Konseri",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Tepebaşı",
-   "mekan": "BÜYÜKŞEHİR BELEDİYESİ SANAT VE KÜLTÜR MERKEZİ (SENFONİ BİNASI)",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Tepebaşı Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.tepebasi.bel.tr/Etkinlikler/Detay/tepebasi-belediyesi-turk-halk-muzigi-kadinlar-korosu-ogretmenler-gunu-konseri",
-   "gorsel": null
-  },
-  {
-   "id": "b0558c59cd20",
-   "baslik": "Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi",
+   "id": "a54b6b23f1c8",
+   "baslik": "Ayniyat ve Taşınır İşlemleri Eğitim",
    "tarih": "2026-11-24",
    "bitis": null,
-   "saat": "10:00",
+   "saat": "09:00",
    "ilce": "Tepebaşı",
    "mekan": "Anadolu Üniversitesi",
    "kategori": "Atölye",
@@ -175,8 +95,8 @@
    "ozet": "Eğitim",
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961274",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9e8519de4.jpg"
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ayniyat-ve-tasinir-islemleri-egitim-1795503335",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b05749a7677d.jpg"
   },
   {
    "id": "a4a790eea8b0",
@@ -273,6 +193,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/verimli-ders-calisma-ve-zaman-yonetimi-1789563946",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9efdccd6f.jpg"
+  },
+  {
+   "id": "47c2197c6660",
+   "baslik": "Kapsayıcı ve Sürdürülebilir Bir Mekan Mümkün mü? Mekan Sosyolojisinden Yaş Dostu Havalimanına",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "18:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminerler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/kapsayici-ve-surdurulebilir-bir-mekan-mumkun-mu-mekan-sosyolojisinden-yas-dostu-1795503264",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0540cd66f52.jpg"
   },
   {
    "id": "a391bbf99d3c",
@@ -464,23 +400,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/turk-kulturunun-cizgi-romancisi-bahattin-atak-ile-soylesi-ve-sergi-1795417545",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b03e5c3f38f8.jpg"
-  },
-  {
-   "id": "90b1aff46581",
-   "baslik": "Türk Kültürününün Çizgi Romancısı Bahattin ATAK ile Söyleşi ve Sergi",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Edebiyat",
-   "ucretsiz": true,
-   "ozet": "Söyleşiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/turk-kulturununun-cizgi-romancisi-bahattin-atak-ile-soylesi-ve-sergi-1795418257",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b03e85f3de98.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b042ce92b1cf.jpg"
   },
   {
    "id": "aa68e569685c",
@@ -883,6 +803,22 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe9f1b63fef.jpg"
   },
   {
+   "id": "15e59570a950",
+   "baslik": "Başarı Belgeleri Töreni",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Anma / Tören",
+   "ucretsiz": true,
+   "ozet": "Törenler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/basari-belgeleri-toreni-1795503513",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b05403a29fe4.jpg"
+  },
+  {
    "id": "2b372a947664",
    "baslik": "Hukukta Çocuk",
    "tarih": "2026-12-01",
@@ -945,6 +881,54 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/kalite-ve-kurumsal-gelisim-koordinatorlugu-toplantisi-1794565513",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afee4e450e26.jpg"
+  },
+  {
+   "id": "c13c0e07ee0e",
+   "baslik": "Dil ve Konuşma Terapisinde Kariyer: Yerel Yönetime Bağlı Birimlerde DKT Olmak",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "11:30",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "Seminerler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/dil-ve-konusma-terapisinde-kariyer-yerel-yonetime-bagli-birimlerde-dkt-olmak-1793609053",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afee56828742.jpg"
+  },
+  {
+   "id": "fde7ba39a5db",
+   "baslik": "Kamu Yönetiminde Dijital Dönüşüm",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Konferanslar",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/kamu-yonetiminde-dijital-donusum-1792756064",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afee503587e0.jpg"
+  },
+  {
+   "id": "83fa2d94678b",
+   "baslik": "3 Aralık Dünya Engelliler Günü Etknliği",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminerler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/3-aralik-dunya-engelliler-gunu-etknligi-1793961651",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afee57f882c9.jpg"
   }
  ],
  "kaynaklar": [
@@ -961,13 +945,6 @@
    "url": "https://tiyatro.eskisehir.bel.tr/oyuntakvimi.php",
    "etkinlik_sayisi": 12,
    "durum": "geçici sorun: önceki veri gösteriliyor"
-  },
-  {
-   "ad": "Tepebaşı Belediyesi",
-   "tur": "belediye",
-   "url": "https://www.tepebasi.bel.tr/Etkinlikler",
-   "etkinlik_sayisi": 1,
-   "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Tiyatroları",
@@ -1031,6 +1008,13 @@
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
+  },
+  {
+   "ad": "Tepebaşı Belediyesi",
+   "tur": "belediye",
+   "url": "https://www.tepebasi.bel.tr/Etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yıllık festivaller (Uluslararası Eskişehir Festivali, Uçan Balon, Sivrihisar Nasreddin Hoca…)",

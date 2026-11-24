@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-23T15:07+03:00",
+ "guncelleme": "2026-11-24T16:37+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -22,86 +22,6 @@
   "Yomra"
  ],
  "etkinlikler": [
-  {
-   "id": "cdf822c68dd2",
-   "baslik": "Sıradan Kasabası",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siradan-kasabasi",
-   "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
-  },
-  {
-   "id": "d11f345a372c",
-   "baslik": "Sıradan Kasabası",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "11:30",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siradan-kasabasi",
-   "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
-  },
-  {
-   "id": "de3d5fcb5854",
-   "baslik": "Trabzon Okuyor",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Ortahisar",
-   "mekan": "Trabzon Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Trabzon Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/3666",
-   "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/23/491e20f2-9bda-4772-a496-4a06239c3c3d.jpeg"
-  },
-  {
-   "id": "eb2a0a569db3",
-   "baslik": "TÜBİTAK Destek Programları, COST Aksiyonları ve Girişimcilik Programları Bilgilendirme Etkinliği",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Ortahisar",
-   "mekan": "Çevrim içi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/sbe/etkinlik/tubitak-destek-programlari-cost-aksiyonlari-ve-girisimcilik-programlari-bilgilendirme-etkinligi",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/khX7a9.jpg"
-  },
-  {
-   "id": "96ab0254b4ca",
-   "baslik": "Yapay Zekâ Çağında Öğretmen Olmak: Değişen Roller, Değişmeyen Değerler",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Ortahisar",
-   "mekan": "Radyo/TV",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/yapay-zeka-caginda-ogretmen-olmak-degisen-roller-degismeyen-degerler",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_010de99fe607.jpeg"
-  },
   {
    "id": "5d6a07b5d3b6",
    "baslik": "24 Kasım Öğretmenler Günü",
@@ -135,22 +55,6 @@
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
   },
   {
-   "id": "1fd2c1815485",
-   "baslik": "AB Programları ve Proje Fırsatları Bilgi Günü",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "10:15",
-   "ilce": "Ortahisar",
-   "mekan": "KTÜ TTM",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/tto/etkinlik/ab-programlari-ve-proje-firsatlari-bilgi-gunu",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/tto_abbcf4829442.jpg"
-  },
-  {
    "id": "d09b3bec7760",
    "baslik": "Sıradan Kasabası",
    "tarih": "2026-11-24",
@@ -165,22 +69,6 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siradan-kasabasi",
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
-  },
-  {
-   "id": "e4e83f47db81",
-   "baslik": "Mezunlarımız Anlatıyor #3 Devrim'den Togg'a: Türkiye'de Otomotiv Sektörünün Gelişimi",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Ortahisar",
-   "mekan": "MA2 AMFİSİ",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/makina/etkinlik/mezunlarimiz-anlatiyor-3-devrimden-togga-turkiyede-otomotiv-sektorunun-gelisimi",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/1lkae9.jpg"
   },
   {
    "id": "4a28b3da75c0",
@@ -227,8 +115,8 @@
    "ozet": null,
    "kaynak_ad": "Trabzon Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/3642",
-   "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/8/a2a586c3-f18c-4a2b-a32d-ffb07b9e6aca.jpeg"
+   "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/3671",
+   "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/24/b20e22fe-8b64-4f5f-9bec-562d6ee84566.jpeg"
   },
   {
    "id": "04264d7d0aae",
@@ -311,6 +199,22 @@
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/Bi0OS4.jpg"
   },
   {
+   "id": "e979fcaf3a48",
+   "baslik": "Asr Suresi Özelinde Bir Ömür Muhasebesi",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/asr-suresi-ozelinde-bir-omur-muhasebesi",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_7d246bcf7248.jpg"
+  },
+  {
    "id": "05170f31b263",
    "baslik": "BAP Destekleri Bilgilendirme Etkinliği",
    "tarih": "2026-11-26",
@@ -357,6 +261,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/3466",
    "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/23/00b9cbf4-3362-4d65-b8c1-3bb56cf4a4c6.jpeg"
+  },
+  {
+   "id": "9d346b4cfb2a",
+   "baslik": "Muallim İbrâhim Cûdî Efendi",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "09:45",
+   "ilce": "Ortahisar",
+   "mekan": "Hamamizade İhsan Bey Kültür Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/tr/etkinlik/muallim-ibrahim-cudi-efendi",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/tr_7f3e2d730efb.jpg"
   },
   {
    "id": "051f256d1243",
@@ -615,6 +535,38 @@
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
   },
   {
+   "id": "18acb49b8da5",
+   "baslik": "Hemşirelik Perspektifinden Palyatif Bakım",
+   "tarih": "2026-12-07",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/hemsirelik-perspektifinden-palyatif-bakim",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_ae23bd40606e.jpg"
+  },
+  {
+   "id": "8725ab80aba1",
+   "baslik": "İklim Değişikliği Sonucunda Gemi Trafik Rotalarında Değişimler ve Arktik Seyir",
+   "tarih": "2026-12-08",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/iklim-degisikligi-sonucunda-gemi-trafik-rotalarinda-degisimler-ve-arktik-seyir",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_e49f7cc53b86.jpg"
+  },
+  {
    "id": "4106b646fecd",
    "baslik": "Sıradan Kasabası",
    "tarih": "2026-12-08",
@@ -812,7 +764,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 26,
+   "etkinlik_sayisi": 24,
    "durum": "çalışıyor"
   },
   {
@@ -826,7 +778,7 @@
    "ad": "Trabzon Üniversitesi",
    "tur": "universite",
    "url": "https://www.trabzon.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

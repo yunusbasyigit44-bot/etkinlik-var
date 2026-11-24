@@ -1,6 +1,6 @@
 {
  "il": "ankara",
- "guncelleme": "2026-11-23T14:46+03:00",
+ "guncelleme": "2026-11-24T16:17+03:00",
  "ilceler": [
   "Akyurt",
   "Altındağ",
@@ -29,22 +29,6 @@
   "Yenimahalle"
  ],
  "etkinlikler": [
-  {
-   "id": "263f50c6d943",
-   "baslik": "Müze Konseri",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Çankaya",
-   "mekan": "Anadolu Medeniyetleri Müzesi",
-   "kategori": "Konser",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/9-ekim-konseri-ankara-dob",
-   "gorsel": "veri/gorsel/dob-1-2245.jpg"
-  },
   {
    "id": "ee78b7adb09e",
    "baslik": "Gişe",
@@ -1020,6 +1004,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/cephede-piknik",
    "gorsel": "veri/gorsel/dt-cephede-piknik.jpg"
+  },
+  {
+   "id": "dcbdad3f70ac",
+   "baslik": "Carmen",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Opera Sahnesi",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/carmen-ankara-dob",
+   "gorsel": "veri/gorsel/dob-1-1356.jpg"
   },
   {
    "id": "f675768d3d75",

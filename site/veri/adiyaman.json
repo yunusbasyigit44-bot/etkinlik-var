@@ -1,6 +1,6 @@
 {
  "il": "adiyaman",
- "guncelleme": "2026-11-23T14:43+03:00",
+ "guncelleme": "2026-11-24T16:14+03:00",
  "ilceler": [
   "Merkez",
   "Besni",
@@ -13,70 +13,6 @@
   "Tut"
  ],
  "etkinlikler": [
-  {
-   "id": "eee0739aeb62",
-   "baslik": "Renk Renk Cupcake Atölyesi",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Gastronomi ve Mutfak Sanatları Atölyesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adıyaman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/23/renk-renk-cupcake-atolyesi",
-   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/23/renk-renk-cupcake-atolyesi/thumb/anaokulu.jpg"
-  },
-  {
-   "id": "834bb68664fe",
-   "baslik": "Saygılı Yaşam ve Güvenli İlişkiler",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Merkez",
-   "mekan": "Mustafa V. Koç Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adıyaman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/23/saygili-yasam-ve-guvenli-iliskiler",
-   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/23/saygili-yasam-ve-guvenli-iliskiler/thumb/sa%C4%9Fl%C4%B1kl%C4%B1%20ya%C5%9Fam.jpg"
-  },
-  {
-   "id": "5f6367db058c",
-   "baslik": "Deprem Sonrası Psikolojik Dayanıklılık ve Zaman Yönetimi Farkındalığı",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Merkez",
-   "mekan": "Mediko Sosyal Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adıyaman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/23/deprem-sonrasi-psikolojik-dayaniklilik-ve-zaman-yonetimi-farkindaligi",
-   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/23/deprem-sonrasi-psikolojik-dayaniklilik-ve-zaman-yonetimi-farkind/thumb/deprem%20sonras%C4%B1.jpg"
-  },
-  {
-   "id": "071c67a77627",
-   "baslik": "Şiir ve Müzik Dinletisi",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Merkez",
-   "mekan": "Aile ve Sosyal Hizmetler İl Müdürlüğü",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adıyaman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/23/siir-ve-muzik-dinletisi-",
-   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/23/siir-ve-muzik-dinletisi-/thumb/%C4%B1mg-20261117-wa0027.jpg"
-  },
   {
    "id": "ef6a6eee1973",
    "baslik": "Ulusal Çevrimiçi Karma Sergi",
@@ -92,6 +28,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/24/ulusal-cevrimici-karma-sergi",
    "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/24/ulusal-cevrimici-karma-sergi/thumb/24%20kas%C4%B1m%20sergi.jpg"
+  },
+  {
+   "id": "3cc027a681ad",
+   "baslik": "Kamu Maliyesi ve Vergi Sisteminde Kariyer Söyleşisi",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Merkez",
+   "mekan": "Mediko Konferans Salonu",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/24/kamu-maliyesi-ve-vergi-sisteminde-kariyer-soylesisi-",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/24/kamu-maliyesi-ve-vergi-sisteminde-kariyer-soylesisi-/thumb/%C4%B1mg-20261124-wa0003.jpg"
   },
   {
    "id": "40938a06c1c6",
@@ -179,7 +131,7 @@
    "ad": "Adıyaman Üniversitesi",
    "tur": "universite",
    "url": "https://adiyaman.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

@@ -1,5 +1,21 @@
 [
  {
+  "id": "fc0432bf8ce1",
+  "baslik": "Aynı Şeylerin Oyunu",
+  "tarih": "2026-11-22",
+  "bitis": "2026-11-23",
+  "saat": "20:00",
+  "ilce": "Şehzadeler",
+  "mekan": "Şehir Tiyatrosu Uğur Mumcu Sahnesi - Şehzadeler / Manisa",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1298",
+  "gorsel": "https://kultur.manisa.bel.tr/uploads/events/ad0c3b67-d3a2-4cd9-a64d-e01adea57ae9_AYNI-S%CC%A7EYLERI%CC%87N-OYUNU-LAMBASI-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
+ },
+ {
   "id": "06b06427b8e3",
   "baslik": "Aşk Listesi",
   "tarih": "2026-11-19",

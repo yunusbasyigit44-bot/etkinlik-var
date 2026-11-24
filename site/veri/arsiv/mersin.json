@@ -1,5 +1,37 @@
 [
  {
+  "id": "5779c24d06a1",
+  "baslik": "Dünya Diş Hekimliği Günü ve Beyaz Önlük Giyme Töreni",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": "15:00",
+  "ilce": "Akdeniz",
+  "mekan": "Prof. Dr. Uğur Oral Kültür Merkezi A Salonu",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": "Genel",
+  "kaynak_ad": "Mersin Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/dunya-dis-hekimligi-gunu-ve-beyaz-onluk-giyme-toreni-n-10001914",
+  "gorsel": "https://cdn.mersin.edu.tr/public/renditions/83f0eb7c-7727-4cb2-beda-133c722f020c/378674f9-2d48-4803-a36b-19d6fcf45c79/202037df-6746-4a7f-8158-d8a97f5b0bf8/1280-c523df7a6eb0c5c1bada06ad622118c7db5c42ba03de694c6490397d04b25d5f.webp"
+ },
+ {
+  "id": "65b5c3af0d27",
+  "baslik": "Mersin Üniversitesi Akademik Oda Orkestrası Öğretmenler Günü Konseri",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": "19:00",
+  "ilce": "Yenişehir",
+  "mekan": "Nevit Kodallı Konser Salonu",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": "Konser",
+  "kaynak_ad": "Mersin Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/mersin-universitesi-akademik-oda-orkestrasi-ogretmenler-gunu-konseri-n-10001980",
+  "gorsel": "https://cdn.mersin.edu.tr/public/renditions/e331ace2-22b1-40ca-889d-e140b6cc0ae2/881c8da6-62e7-424c-8e7d-912ab3c7bd80/4bf6af5d-e7d4-43b5-af30-54ef90e2c122/960-366c0df713285c019a19b9c67b6cde73d8313170bf919145b7b9dd7d4dd380b8.webp"
+ },
+ {
   "id": "a1a4be377e47",
   "baslik": "Tosca",
   "tarih": "2026-11-21",

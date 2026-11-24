@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-11-23T14:58+03:00",
+ "guncelleme": "2026-11-24T16:29+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -198,7 +198,7 @@
    "id": "556127087578",
    "baslik": "Ayrımcılığa Karşı Sinema Günleri",
    "tarih": "2026-11-23",
-   "bitis": null,
+   "bitis": "2026-11-24",
    "saat": "18:30",
    "ilce": "Konak",
    "mekan": "Elhamra Sahnesi",
@@ -211,20 +211,20 @@
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-23/a9cdc4cb-6cc7-46af-8f8b-7edecf317650-qvqchpzk.jpeg"
   },
   {
-   "id": "7f42e57777b8",
-   "baslik": "Aziz Vukolos'ta Akustik Günler",
-   "tarih": "2026-11-23",
+   "id": "6b521342a64f",
+   "baslik": "24 Kasım Öğretmenler Günü Konseri",
+   "tarih": "2026-11-24",
    "bitis": null,
-   "saat": "20:00",
-   "ilce": "Konak",
-   "mekan": "Aziz Vukolos Kilisesi Kültür Merkezi (Ayavukla Kilisesi)",
+   "saat": "18:30",
+   "ilce": null,
+   "mekan": "Saat Kulesi Önü",
    "kategori": "Konser",
    "ucretsiz": null,
    "ozet": null,
    "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-19/9ba9555d-0b5a-40d1-b11e-8bfe29f8666d-4osxoor4.jpg"
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-23/589f366e-a779-4e85-ac25-2e95759035c2-nnm3yzug.jpg"
   },
   {
    "id": "3ece3a01880f",
@@ -321,6 +321,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bagdat-ruzgarinda-dokuz-kadin",
    "gorsel": "veri/gorsel/dt-bagdat-ruzgarinda-dokuz-kadin.webp"
+  },
+  {
+   "id": "0cb5f8028e55",
+   "baslik": "Geçmişten Bugüne : NAZIM HİKMET",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Konak",
+   "mekan": "Kültürpark Atlas Pavyonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-24/afa03139-6a5f-418d-80fc-cf9961901647-1zdugxhs.jpeg"
   },
   {
    "id": "f04973d59344",
@@ -783,8 +799,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi-",
+   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi-.webp"
   },
   {
    "id": "b4cf25b86a27",
@@ -847,8 +863,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi-",
+   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi-.webp"
   },
   {
    "id": "7c40bba20d52",
@@ -865,6 +881,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yalancinin-resmi",
    "gorsel": "veri/gorsel/dt-yalancinin-resmi.jpg"
+  },
+  {
+   "id": "5f6c64e5c93a",
+   "baslik": "“YÜZEYİN ÖTESİ | BEYOND THE SURFACE” Resim Sergisi",
+   "tarih": "2026-12-02",
+   "bitis": "2026-12-31",
+   "saat": null,
+   "ilce": "Konak",
+   "mekan": "Ahmed Adnan Saygun Sanat Merkezi Alt Kat Galeri",
+   "kategori": "Sergi",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-24/5f787e4f-c93d-4172-96b3-f31732979b04-wyeaqqrc.jpeg"
   },
   {
    "id": "2b516743041e",
@@ -895,8 +927,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi-",
+   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi-.webp"
   },
   {
    "id": "2eccd2ae965b",
@@ -959,8 +991,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi-",
+   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi-.webp"
   },
   {
    "id": "74cd702153ef",
@@ -991,8 +1023,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi-",
+   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi-.webp"
   },
   {
    "id": "7d1b48fa240e",
@@ -1055,8 +1087,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi-",
+   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi-.webp"
   },
   {
    "id": "fb157b6da30f",
@@ -1183,8 +1215,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi-",
+   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi-.webp"
   },
   {
    "id": "4e1f0df154bb",
@@ -1231,8 +1263,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi-",
+   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi-.webp"
   },
   {
    "id": "c67bc36a1fa7",
@@ -1295,8 +1327,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi-",
+   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi-.webp"
   },
   {
    "id": "e59107d4fd18",
@@ -1327,8 +1359,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi-",
+   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi-.webp"
   },
   {
    "id": "098e71dcd0e0",
@@ -1375,8 +1407,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi-",
+   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi-.webp"
   },
   {
    "id": "0997e8c13787",
@@ -1407,8 +1439,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi",
-   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kurtlar-sofrasi-",
+   "gorsel": "veri/gorsel/dt-kurtlar-sofrasi-.webp"
   },
   {
    "id": "5984ee285e3d",
@@ -1599,7 +1631,7 @@
    "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "tur": "belediye",
    "url": "https://kultursanat.izmir.bel.tr/",
-   "etkinlik_sayisi": 39,
+   "etkinlik_sayisi": 41,
    "durum": "çalışıyor"
   },
   {

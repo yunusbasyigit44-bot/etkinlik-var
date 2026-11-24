@@ -1,5 +1,21 @@
 [
  {
+  "id": "7e6d443946d6",
+  "baslik": "SABİDAM Deney Hayvanları Kullanım Sertifikası Eğitim Kursu",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Sarıçam",
+  "mekan": "Çukurova Üniversitesi",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Çukurova Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.cu.edu.tr/haber-detay/sabıdam-deney-hayvanlari-kullanim-sertifikasi-egitim-kursu/",
+  "gorsel": "https://www.cu.edu.tr/media/zc0p30xg/sabidam.jpeg"
+ },
+ {
   "id": "e0578505776b",
   "baslik": "Ağır Roman",
   "tarih": "2026-11-21",

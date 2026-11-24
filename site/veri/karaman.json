@@ -1,6 +1,6 @@
 {
  "il": "karaman",
- "guncelleme": "2026-11-23T15:08+03:00",
+ "guncelleme": "2026-11-24T16:39+03:00",
  "ilceler": [
   "Merkez",
   "Ayrancı",
@@ -10,54 +10,6 @@
   "Sarıveliler"
  ],
  "etkinlikler": [
-  {
-   "id": "40c20e18ddc0",
-   "baslik": "20 Kasim Çocuk Haklari Günü Kapsaminda Stant",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4165",
-   "gorsel": null
-  },
-  {
-   "id": "0a4e95ad37a5",
-   "baslik": "Karatech Toplantisi",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4166",
-   "gorsel": null
-  },
-  {
-   "id": "afbb1998abb2",
-   "baslik": "Bir Sayfa, Bir Adim Kitap Seçmeleri",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Edebiyat",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4167",
-   "gorsel": null
-  },
   {
    "id": "18c74a9576b3",
    "baslik": "Sergi",
@@ -208,7 +160,7 @@
    "ad": "Karamanoğlu Mehmetbey Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.kmu.edu.tr/index.aspx",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {

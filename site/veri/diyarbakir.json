@@ -1,6 +1,6 @@
 {
  "il": "diyarbakir",
- "guncelleme": "2026-11-23T14:50+03:00",
+ "guncelleme": "2026-11-24T16:21+03:00",
  "ilceler": [
   "Bağlar",
   "Bismil",
@@ -36,22 +36,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/ucretsiz-kort-tenisi-kursu-12977",
    "gorsel": "https://www.dicle.edu.tr/contents/events/photos/61730663-be34-4427-a527-63d900c094a2/ss_thumb_a31d6ad776c440ceb86a935cdae4519a_WhatsApp%20Image%202026-10-26%20at%2011.43.28.jpeg"
-  },
-  {
-   "id": "94bc3df304c8",
-   "baslik": "Destana Moraşîne",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Yenişehir",
-   "mekan": "Çandamed/Sezai̇ Karakoç Kültür Ve Kongre Merkezi̇",
-   "kategori": "Tiyatro",
-   "ucretsiz": null,
-   "ozet": null,
-   "kaynak_ad": "Diyarbakır Büyükşehir Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.diyarbakir.bel.tr/etkinlikler/destana-morasine",
-   "gorsel": "https://www.diyarbakir.bel.tr/uploads/medium_IMG_1028_148be6c0e8.png"
   },
   {
    "id": "33597c05d29a",
@@ -326,6 +310,22 @@
    "gorsel": "veri/gorsel/dt-cinayet-kumpanyasi.webp"
   },
   {
+   "id": "e15b263cb587",
+   "baslik": "Serpêhatıyê Nıkoyê Şılbık",
+   "tarih": "2026-12-06",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Yenişehir",
+   "mekan": "Çandamed/Sezai̇ Karakoç Kültür Ve Kongre Merkezi̇",
+   "kategori": "Tiyatro",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "Diyarbakır Büyükşehir Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.diyarbakir.bel.tr/etkinlikler/serpehatiye-nikoye-silbi",
+   "gorsel": "https://www.diyarbakir.bel.tr/uploads/medium_Whats_App_Image_2026_10_31_at_11_12_41_4e6f976cf5.jpeg"
+  },
+  {
    "id": "b3198d9fe0d7",
    "baslik": "Alacalı Şemsiye",
    "tarih": "2026-12-06",
@@ -484,6 +484,38 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/alacali-semsiye",
    "gorsel": "veri/gorsel/dt-alacali-semsiye.webp"
+  },
+  {
+   "id": "6009bff32734",
+   "baslik": "Tartuffe",
+   "tarih": "2026-12-18",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Yenişehir",
+   "mekan": null,
+   "kategori": "Tiyatro",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "Diyarbakır Büyükşehir Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.diyarbakir.bel.tr/etkinlikler/tartuffe",
+   "gorsel": "https://www.diyarbakir.bel.tr/uploads/medium_Tartuffe_Afis_0c1be89747.png"
+  },
+  {
+   "id": "e5895c706377",
+   "baslik": "Destana Moraşîne",
+   "tarih": "2026-12-26",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Yenişehir",
+   "mekan": "Çandamed/Sezai̇ Karakoç Kültür Ve Kongre Merkezi̇",
+   "kategori": "Tiyatro",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "Diyarbakır Büyükşehir Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.diyarbakir.bel.tr/etkinlikler/destana-morasin",
+   "gorsel": "https://www.diyarbakir.bel.tr/uploads/medium_IMG_1028_97acfb14d8.png"
   }
  ],
  "kaynaklar": [
@@ -505,7 +537,7 @@
    "ad": "Diyarbakır Büyükşehir Belediyesi",
    "tur": "belediye",
    "url": "https://www.diyarbakir.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

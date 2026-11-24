@@ -1,5 +1,37 @@
 [
  {
+  "id": "af4adb9a3a9e",
+  "baslik": "XX. Deney Hayvanları Kullanım Sertifikası Eğitim Programı",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": "09:30",
+  "ilce": "Atakum",
+  "mekan": "Ondokuz Mayıs Üniversitesi",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": "Eğitim",
+  "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/egitim/xx-deney-hayvanlari-kullanim-sertifikasi-egitim-programi",
+  "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/dh_afis.jpg"
+ },
+ {
+  "id": "c6a0cf671627",
+  "baslik": "İktisadi ve İdari Bilimler Fakültesi Mezun-Öğrenci Buluşması",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Atakum",
+  "mekan": "Ondokuz Mayıs Üniversitesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Söyleşi",
+  "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/soylesi/iktisadi-ve-idari-bilimler-fakultesi-mezun-ogrenci-bulusmasi",
+  "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/soylesi_afis.png"
+ },
+ {
   "id": "339bc354e16c",
   "baslik": "Pinokyo",
   "tarih": "2026-11-21",

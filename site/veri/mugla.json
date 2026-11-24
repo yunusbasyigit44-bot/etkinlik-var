@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-23T15:03+03:00",
+ "guncelleme": "2026-11-24T16:34+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -34,22 +34,6 @@
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
   },
   {
-   "id": "9d08649fed92",
-   "baslik": "TFF 1. Lig Futbol Karşılaşması Bodrumspor- Vanspor",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bodrum",
-   "mekan": "Bodrum Şehir Stadyumu",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2816/Mac-TFF_1_Lig_Futbol_Karsilasmasi_Bodrumspor-_Vanspor",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
-  },
-  {
    "id": "b961a79787bd",
    "baslik": "Milli Eğitim Müdürlüğü tarafından Öğretmenler günü için çelenk sunma töreni",
    "tarih": "2026-11-24",
@@ -80,54 +64,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2838/Kutlama_Programi-Milli_Egitim_Mudurlugu_tarafindan_Ogretmeler_gunu_kutlama_programi",
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
-  },
-  {
-   "id": "e89664a66fa8",
-   "baslik": "Müdür - Öğrenci Buluşması",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "11:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mudur--ogrenci-bulusmasi-4720",
-   "gorsel": null
-  },
-  {
-   "id": "de21a909bc52",
-   "baslik": "Bölüm Başkanı & Öğrenci Buluşması",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/bolum-baskani--ogrenci-bulusmasi-4716",
-   "gorsel": null
-  },
-  {
-   "id": "28fe9620c88c",
-   "baslik": "1. Bölüm & Öğrenci Buluşması",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "15:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/1_-bolum--ogrenci-bulusmasi-4740",
-   "gorsel": null
   },
   {
    "id": "9628ffb961d7",
@@ -455,14 +391,14 @@
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {
    "ad": "Bodrum Belediyesi",
    "tur": "belediye",
    "url": "https://www.bodrum.bel.tr/etkinlik_takvimi",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "kahramanmaras",
- "guncelleme": "2026-11-23T15:02+03:00",
+ "guncelleme": "2026-11-24T16:32+03:00",
  "ilceler": [
   "Afşin",
   "Andırın",
@@ -16,20 +16,20 @@
  ],
  "etkinlikler": [
   {
-   "id": "4b27d8a1e404",
-   "baslik": "4. Geleneksel Öğretmenler Günü Koşusu",
-   "tarih": "2026-11-23",
+   "id": "9dc3e513e4a1",
+   "baslik": "Erasmus Merkezi Projeler Bilgilendirme Toplantısı",
+   "tarih": "2026-11-24",
    "bitis": null,
-   "saat": "10:00",
+   "saat": "09:45",
    "ilce": "Onikişubat",
-   "mekan": "Avşar Yerleşkesi",
-   "kategori": "Spor",
+   "mekan": "Cahit Zarifoğlu Konferans Salonu",
+   "kategori": "Diğer",
    "ucretsiz": true,
-   "ozet": "Spor Bilimleri Fakültesi",
+   "ozet": "KSÜ Uluslararası Akademik İlişkiler Koordinatörlüğü",
    "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=128",
-   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2610261500091244.jpg"
+   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=145",
+   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611231651572924.jpg"
   },
   {
    "id": "2ce1afca5a44",
@@ -64,6 +64,22 @@
    "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611201213113841.jpg"
   },
   {
+   "id": "8416221181bb",
+   "baslik": "Dijital Oyun Demo Day",
+   "tarih": "2026-12-08",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Onikişubat",
+   "mekan": "Yunus Emre Kongre ve Kültür Merkezi Kahverengi Salon",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "KSÜ İletişim Fakültesi Dekanlığı",
+   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=146",
+   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611241401139972.jpg"
+  },
+  {
    "id": "512e04944681",
    "baslik": "KSÜ Edem Söyleşileri \"Anlatı İçinde Geçen Bir Ömür\"",
    "tarih": "2026-12-09",
@@ -85,7 +101,7 @@
    "ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
    "tur": "universite",
    "url": "https://www.ksu.edu.tr/",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

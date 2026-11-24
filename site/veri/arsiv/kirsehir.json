@@ -1,5 +1,21 @@
 [
  {
+  "id": "9a83a92566db",
+  "baslik": "Tiyatro (Ankara Ekin Tiyatrosu)",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": "19:00",
+  "ilce": "Merkez",
+  "mekan": "Kırşehir Belediyesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Kırşehir Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/tiyatro-ankara-ekin-tiyatrosu",
+  "gorsel": "https://www.kirsehir.bel.tr/storage/events/2toAtgJhjWv6fN4WGUaj51kEdEJjtY6FYv1h2zN2.jpg"
+ },
+ {
   "id": "dc14db3b493c",
   "baslik": "Okuyorum Kitap Topluluğu",
   "tarih": "2026-11-18",

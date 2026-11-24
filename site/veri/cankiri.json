@@ -1,6 +1,6 @@
 {
  "il": "cankiri",
- "guncelleme": "2026-11-23T14:49+03:00",
+ "guncelleme": "2026-11-24T16:20+03:00",
  "ilceler": [
   "Merkez",
   "Atkaracalar",
@@ -16,54 +16,6 @@
   "Yapraklı"
  ],
  "etkinlikler": [
-  {
-   "id": "a4e127f99f01",
-   "baslik": "Kompleks Dekonjestif Terapi: Lenfödem Rehabilitasyonunda Değerlendirme ve Uygulama Yaklaşımları",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8778",
-   "gorsel": "https://medya.karatekin.edu.tr/users/muzeyyenoz/etkinlik/20261113_175202_2264f51a8f164817b923229a64493457.png"
-  },
-  {
-   "id": "b07e7268b875",
-   "baslik": "Kadına Yönelik Şiddetle Mücadele Eğitimi",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8741",
-   "gorsel": "https://medya.karatekin.edu.tr/users/haticepolat/etkinlik/20261106_214230_5a111007340f4627acfb99102020d395.png"
-  },
-  {
-   "id": "dd5ea5a968aa",
-   "baslik": "Geçmişten Günümüze Yazın Çevirisi",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8734",
-   "gorsel": "https://medya.karatekin.edu.tr/users/rabiaarikan/etkinlik/20261104_233817_afa743142b494a5591d4cfb249cee125.png"
-  },
   {
    "id": "00c7288db44c",
    "baslik": "Temel İletişim Becerileri ve Görüşme Teknikleri Eğitimi",
@@ -95,6 +47,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8735",
    "gorsel": "https://medya.karatekin.edu.tr/users/yusufziyaakbas/etkinlik/20261105_090027_8e8e72c774e34465a52386ca0d3ca3d1.jpg"
+  },
+  {
+   "id": "e149850e1c71",
+   "baslik": "Kampüs Bisiklet Turu",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8811",
+   "gorsel": "https://medya.karatekin.edu.tr/users/alimuticekirge/etkinlik/20261123_084342_7fc272e832424ac583002e7e1cc89d74.png"
   },
   {
    "id": "c9eda7914890",
@@ -305,6 +273,22 @@
    "gorsel": null
   },
   {
+   "id": "92deb51cd5d5",
+   "baslik": "Windows'tan Linux'a Geçiş: Ubuntu ve Zorin OS ile Kurumsal Masaüstü Kullanım",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8801",
+   "gorsel": "https://medya.karatekin.edu.tr/users/huseyin/etkinlik/20261120_065917_8f710d0dc27c4ca4968326dfeeeee197.png"
+  },
+  {
    "id": "1348ab1a3f4b",
    "baslik": "Ergoterapi Öğrencileri İçin Erasmus+ Fırsatları ve Belçika`da Erasmus Deneyimi",
    "tarih": "2026-11-27",
@@ -383,6 +367,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8733",
    "gorsel": "https://medya.karatekin.edu.tr/users/rabiaarikan/etkinlik/20261104_232858_dd23d37d913441148911be1ed7117992.png"
+  },
+  {
+   "id": "5f7c80e9f02d",
+   "baslik": "\"MTA ve Teknoloji Yarışmalarına Hazırlık Süreçleri\" Konulu Söyleşi",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8809",
+   "gorsel": "https://medya.karatekin.edu.tr/users/esert/etkinlik/20261123_075508_f45ca0ddf41a4fd89986867f241c121a.jpeg"
   },
   {
    "id": "1d8a54ac4b82",
@@ -479,6 +479,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8752",
    "gorsel": null
+  },
+  {
+   "id": "6cd256611967",
+   "baslik": "Türk Kültüründe Renkler",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8806",
+   "gorsel": "https://medya.karatekin.edu.tr/users/sevimciftci/etkinlik/20261122_115725_64e962cf5da94435b8a4ebb23f29d35b.png"
+  },
+  {
+   "id": "d1370382fdf8",
+   "baslik": "\"İzin Hafızası\" Kişisel Sergi",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Çankırı Karatekin Üniversitesi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8793",
+   "gorsel": "https://medya.karatekin.edu.tr/users/ozgekilic/etkinlik/20261118_084112_2cf00302506e4f7ea6d8cace3a330dc8.jpeg"
   },
   {
    "id": "e80832807520",
@@ -735,38 +767,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8709",
    "gorsel": "https://medya.karatekin.edu.tr/users/gulsumconoglu/etkinlik/20261029_102258_18af8fd94a7241bf963d8ecc085902f0.jpeg"
-  },
-  {
-   "id": "439855f26eef",
-   "baslik": "UZEM'den EndNote Kaynak Yönetim Aracı Webinarı",
-   "tarih": "2026-12-29",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8792",
-   "gorsel": "https://medya.karatekin.edu.tr/users/semihkuter/etkinlik/20261118_055358_cf35d5a89fbc4e7e855525e808a4cb9c.png"
-  },
-  {
-   "id": "b35f277b3417",
-   "baslik": "Hemşirelik Eğitiminde Program Değerlendirme",
-   "tarih": "2027-02-11",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Çankırı Karatekin Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çankırı Karatekin Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8770",
-   "gorsel": "https://medya.karatekin.edu.tr/users/gulsumconoglu/etkinlik/20261113_070038_4bd21835725843539d3fab1c895c6285.jpeg"
   }
  ],
  "kaynaklar": [

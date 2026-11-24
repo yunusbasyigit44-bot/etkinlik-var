@@ -1,6 +1,6 @@
 {
  "il": "bursa",
- "guncelleme": "2026-11-23T14:49+03:00",
+ "guncelleme": "2026-11-24T16:20+03:00",
  "ilceler": [
   "Büyükorhan",
   "Gemlik",
@@ -134,38 +134,6 @@
    "gorsel": null
   },
   {
-   "id": "e0de707c2748",
-   "baslik": "Proje Destek Ofisi Ödül Töreni",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Turkuaz Salon (B Blok 1. Kat)",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12786/proje-destek-ofisi-%C3%B6d%C3%BCl-t%C3%B6reni",
-   "gorsel": null
-  },
-  {
-   "id": "362c6c9095aa",
-   "baslik": "Bencil Dev",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bencil-dev",
-   "gorsel": "veri/gorsel/dt-bencil-dev.jpg"
-  },
-  {
    "id": "d1da0e1e0154",
    "baslik": "TÖMER öğretmenler günü",
    "tarih": "2026-11-24",
@@ -198,19 +166,19 @@
    "gorsel": "veri/gorsel/dt-kan-ve-sultan.webp"
   },
   {
-   "id": "ec3e8a5743f2",
-   "baslik": "Kanser Farkındalık ve Bilinçlendirme Sempozyumu",
+   "id": "151a27932990",
+   "baslik": "İşkur Gençlik Programı kapsamında Fakültemizde çalıştırılan öğrencilere İş Sağlığı ve Güvenliği Eğitimi verilmesi",
    "tarih": "2026-11-25",
    "bitis": null,
-   "saat": "10:00",
+   "saat": "08:00",
    "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Ali Sürmen Salon (G Blok Zemin Kat)",
-   "kategori": "Sağlık",
+   "mekan": "Mimar Sinan Yerleşkesi Yeşil Salon (A Blok 2. Kat)",
+   "kategori": "Kariyer",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Bursa Teknik Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12623/kanser-fark%C4%B1ndal%C4%B1k-ve-bilin%C3%A7lendirme-sempozyumu",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12861/i%CC%87%C5%9Fkur-gen%C3%A7lik-program%C4%B1-kapsam%C4%B1nda-fak%C3%BCltemizde-%C3%A7al%C4%B1%C5%9Ft%C4%B1r%C4%B1lan-%C3%B6%C4%9Frencilere-i%CC%87%C5%9F-sa%C4%9Fl%C4%B1%C4%9F%C4%B1-ve-g%C3%BCvenli%C4%9Fi-e%C4%9Fitimi-verilmesi",
    "gorsel": null
   },
   {
@@ -227,6 +195,22 @@
    "kaynak_ad": "Bursa Teknik Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12773/btu-s%C4%B1am-%C3%B6%C4%9Frenci-toplulu%C4%9Fu-tan%C4%B1t%C4%B1m-etkinli%C4%9Fi",
+   "gorsel": null
+  },
+  {
+   "id": "ec3e8a5743f2",
+   "baslik": "Kanser Farkındalık ve Bilinçlendirme Sempozyumu",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Yıldırım",
+   "mekan": "Mimar Sinan Yerleşkesi Ali Sürmen Salon (G Blok Zemin Kat)",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12623/kanser-fark%C4%B1ndal%C4%B1k-ve-bilin%C3%A7lendirme-sempozyumu",
    "gorsel": null
   },
   {
@@ -859,7 +843,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 33,
+   "etkinlik_sayisi": 32,
    "durum": "çalışıyor"
   },
   {

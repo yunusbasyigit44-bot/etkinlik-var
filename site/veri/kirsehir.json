@@ -1,6 +1,6 @@
 {
  "il": "kirsehir",
- "guncelleme": "2026-11-23T14:59+03:00",
+ "guncelleme": "2026-11-24T16:30+03:00",
  "ilceler": [
   "Merkez",
   "Akçakent",
@@ -11,22 +11,6 @@
   "Mucur"
  ],
  "etkinlikler": [
-  {
-   "id": "9a83a92566db",
-   "baslik": "Tiyatro (Ankara Ekin Tiyatrosu)",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Merkez",
-   "mekan": "Kırşehir Belediyesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırşehir Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/tiyatro-ankara-ekin-tiyatrosu",
-   "gorsel": "https://www.kirsehir.bel.tr/storage/events/2toAtgJhjWv6fN4WGUaj51kEdEJjtY6FYv1h2zN2.jpg"
-  },
   {
    "id": "47ababafb111",
    "baslik": "Zamana Sığmayan Şarkılar Konseri",
@@ -42,6 +26,38 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/zamana-sigmayan-sarkilar-konseri",
    "gorsel": "https://www.kirsehir.bel.tr/storage/events/3k7cHJpGaCUjwKS0K3wi3ICRqRwxtpwLenFWjHng.jpg"
+  },
+  {
+   "id": "a77370b64e6e",
+   "baslik": "Söyleşi \"Ali Koç\"",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "18:00",
+   "ilce": "Merkez",
+   "mekan": "Kırşehir Belediyesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırşehir Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/soeylesi-ali-koc",
+   "gorsel": "https://www.kirsehir.bel.tr/storage/events/pvuRBAt4Ky4G6xIC4zXPMWSB6WHocsWMQLylKleF.png"
+  },
+  {
+   "id": "736896f127ab",
+   "baslik": "1. Kırşehir Geminid Meteor Yağmuru Gözlem Etkinliği",
+   "tarih": "2026-12-13",
+   "bitis": null,
+   "saat": "21:00",
+   "ilce": "Merkez",
+   "mekan": "Kırşehir Belediyesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırşehir Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/1-kirsehir-geminid-meteor-yagmuru-goezlem-etkinligi",
+   "gorsel": "https://www.kirsehir.bel.tr/storage/events/0jwpso2ngXYHkT0ckM8nrhehIYFoTIC0nupfN0SA.png"
   }
  ],
  "kaynaklar": [
@@ -49,7 +65,7 @@
    "ad": "Kırşehir Belediyesi",
    "tur": "belediye",
    "url": "https://www.kirsehir.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

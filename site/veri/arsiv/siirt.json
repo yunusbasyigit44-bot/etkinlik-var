@@ -1,5 +1,37 @@
 [
  {
+  "id": "cb628e357fb1",
+  "baslik": "4 Ulusal Siirt Keci Calistayi",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Siirt Üniversitesi",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": "Çalıştay",
+  "kaynak_ad": "Siirt Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.siirt.edu.tr/etkinliktakvimi.html",
+  "gorsel": "https://www.siirt.edu.tr/foto/etkinlik/4-ulusal-siirt-keci-calistayi202611238581797.jpg"
+ },
+ {
+  "id": "e70054003043",
+  "baslik": "Ilk Yardim Konferansi",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Siirt Üniversitesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Genel",
+  "kaynak_ad": "Siirt Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.siirt.edu.tr/etkinliktakvimi.html",
+  "gorsel": "https://www.siirt.edu.tr/foto/etkinlik/ilk-yardim-konferansi2026112314554906.jpg"
+ },
+ {
   "id": "97ee217b6653",
   "baslik": "Ogretmen Egitiminde Yeni Gelismeler",
   "tarih": "2026-11-19",

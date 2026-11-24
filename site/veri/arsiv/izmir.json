@@ -1,5 +1,37 @@
 [
  {
+  "id": "556127087578",
+  "baslik": "Ayrımcılığa Karşı Sinema Günleri",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": "18:30",
+  "ilce": "Konak",
+  "mekan": "Elhamra Sahnesi",
+  "kategori": "Sinema",
+  "ucretsiz": null,
+  "ozet": null,
+  "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+  "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-23/a9cdc4cb-6cc7-46af-8f8b-7edecf317650-qvqchpzk.jpeg"
+ },
+ {
+  "id": "7f42e57777b8",
+  "baslik": "Aziz Vukolos'ta Akustik Günler",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Konak",
+  "mekan": "Aziz Vukolos Kilisesi Kültür Merkezi (Ayavukla Kilisesi)",
+  "kategori": "Konser",
+  "ucretsiz": null,
+  "ozet": null,
+  "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+  "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-19/9ba9555d-0b5a-40d1-b11e-8bfe29f8666d-4osxoor4.jpg"
+ },
+ {
   "id": "af9290cc4870",
   "baslik": "Kırmızı Kanatlı Baykuş",
   "tarih": "2026-11-22",

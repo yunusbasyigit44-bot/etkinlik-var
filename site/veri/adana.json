@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-23T14:43+03:00",
+ "guncelleme": "2026-11-24T16:14+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -19,22 +19,6 @@
   "Yüreğir"
  ],
  "etkinlikler": [
-  {
-   "id": "7e6d443946d6",
-   "baslik": "SABİDAM Deney Hayvanları Kullanım Sertifikası Eğitim Kursu",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Sarıçam",
-   "mekan": "Çukurova Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çukurova Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cu.edu.tr/haber-detay/sabıdam-deney-hayvanlari-kullanim-sertifikasi-egitim-kursu/",
-   "gorsel": "https://www.cu.edu.tr/media/zc0p30xg/sabidam.jpeg"
-  },
   {
    "id": "9e42a6bf9584",
    "baslik": "Geleceğin Girişimlerini Bugünden Tasarlamak – Eğitim Duyurusu",
@@ -82,6 +66,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
    "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
+  },
+  {
+   "id": "0457d11e5c99",
+   "baslik": "Kadına Şiddete Hayır",
+   "tarih": "2026-11-25",
+   "bitis": "2026-11-26",
+   "saat": "16:00",
+   "ilce": "Sarıçam",
+   "mekan": "Yusuf Has Hacib Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Konferans",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/241120261441_K_1_ff95ede1-ed72-40f1-809a-e9e4159e8910.jpg"
   },
   {
    "id": "335b6ab89198",
@@ -178,6 +178,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
    "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
+  },
+  {
+   "id": "1ffad2016331",
+   "baslik": "Batı Akdeniz Bölgesel Kariyer Fuarı",
+   "tarih": "2026-11-27",
+   "bitis": "2026-11-28",
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "MEÜ",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "Etkinlik",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/231120261638_K_1_c705b625-a31b-4f7a-9fa5-9f4e26e56c87.png"
   },
   {
    "id": "75ea7340437f",
@@ -690,6 +706,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
+  },
+  {
+   "id": "71f9e1e7ae0a",
+   "baslik": "VIII. Uluslararası Adana Rhapsody Piyano ve Oda Müziği Festivali ve Yarışması",
+   "tarih": "2027-01-18",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "Çukurova Üniversitesi",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çukurova Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cu.edu.tr/haber-detay/vııı-uluslararasi-adana-rhapsody-piyano-ve-oda-muzigi-festivali-ve-yarismasi/",
+   "gorsel": "https://www.cu.edu.tr/media/mpzpbuy4/rhapsody.jpeg"
   }
  ],
  "kaynaklar": [
@@ -711,7 +743,7 @@
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {

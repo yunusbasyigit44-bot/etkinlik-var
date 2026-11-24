@@ -1,6 +1,6 @@
 {
  "il": "nigde",
- "guncelleme": "2026-11-23T15:04+03:00",
+ "guncelleme": "2026-11-24T16:35+03:00",
  "ilceler": [
   "Merkez",
   "Altunhisar",
@@ -57,21 +57,37 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ohu.edu.tr/etkinlik/viii-uluslararasi-turk-dunyasi-fen-bilimleri-ve-muhendislik-kongresi/11273",
    "gorsel": null
+  },
+  {
+   "id": "dc089618d218",
+   "baslik": "Curcuna",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Merkez",
+   "mekan": "Niğde Belediyesi Kültür Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": false,
+   "ozet": null,
+   "kaynak_ad": "Niğde Belediyesi Kültür Online (tiyatro, gösteri)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kulturonline.nigde.bel.tr/etkinlikdetay.php?s=curcuna&q=190",
+   "gorsel": "https://kulturonline.nigde.bel.tr/upload/1795523878_592.jpg"
   }
  ],
  "kaynaklar": [
+  {
+   "ad": "Niğde Belediyesi Kültür Online (tiyatro, gösteri)",
+   "tur": "belediye",
+   "url": "https://kulturonline.nigde.bel.tr/etkinlikler.php",
+   "etkinlik_sayisi": 2,
+   "durum": "çalışıyor"
+  },
   {
    "ad": "Niğde Ömer Halisdemir Üniversitesi",
    "tur": "universite",
    "url": "https://www.ohu.edu.tr/etkinlikler",
    "etkinlik_sayisi": 2,
-   "durum": "çalışıyor"
-  },
-  {
-   "ad": "Niğde Belediyesi Kültür Online (tiyatro, gösteri)",
-   "tur": "belediye",
-   "url": "https://kulturonline.nigde.bel.tr/etkinlikler.php",
-   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

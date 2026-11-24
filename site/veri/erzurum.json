@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-23T14:51+03:00",
+ "guncelleme": "2026-11-24T16:22+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -24,22 +24,6 @@
   "Uzundere"
  ],
  "etkinlikler": [
-  {
-   "id": "5ca2cdb0be64",
-   "baslik": "Akademik Kariyer Planlama, Bilimsel Yazım ve Araştırma Etiği Programı",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Yakutiye",
-   "mekan": "Atatürk Üniversitesi",
-   "kategori": "Kariyer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Atatürk Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://atauni.edu.tr/etkinlik/akademik-kariyer-planlama-bilimsel-yazim-ve-arastirma-etigi-programi/",
-   "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/akademik-kariyer-819x1024.jpeg"
-  },
   {
    "id": "58b12c4499bb",
    "baslik": "Hukuk Söyleşisi: Aktif Vatandaşlık ve Gençlik",
@@ -87,6 +71,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/seferi-ramazan-beyin-nafile-dunyasi",
    "gorsel": "veri/gorsel/dt-seferi-ramazan-beyin-nafile-dunyasi.webp"
+  },
+  {
+   "id": "8af56e8d0feb",
+   "baslik": "Bu Gençlikte İş Var !",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum Teknik Üniversitesi",
+   "kategori": "Gençlik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erzurum Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erzurum.edu.tr/etkinlik/bu-genclikte-is-var1",
+   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/fe7492f8-59a6-4f1c-b40e-9fb39ad31bb4.webp?width=600&height=749&mode=carve"
   },
   {
    "id": "78fe0fdbbd72",
@@ -533,14 +533,14 @@
    "ad": "Atatürk Üniversitesi",
    "tur": "universite",
    "url": "https://atauni.edu.tr/tum-etkinlikler/",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {
    "ad": "Erzurum Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://erzurum.edu.tr/",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

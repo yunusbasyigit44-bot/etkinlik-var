@@ -1,5 +1,21 @@
 [
  {
+  "id": "461a68623e39",
+  "baslik": "Kadına Şiddet",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Kadıköy",
+  "mekan": "Caddebostan Kültür Merkezi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Kadıköy Kent Konseyi",
+  "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/kadina-siddet-23-11-26",
+  "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/kadina-siddet-56705592-1fe5-4f48-8000-36b49cebaf3a.jpg"
+ },
+ {
   "id": "deffc4cf12d9",
   "baslik": "Pinokyo Işıktan Çocuk",
   "tarih": "2026-11-22",

@@ -1,6 +1,6 @@
 {
  "il": "istanbul",
- "guncelleme": "2026-11-23T14:57+03:00",
+ "guncelleme": "2026-11-24T16:28+03:00",
  "ilceler": [
   "Adalar",
   "Arnavutköy",
@@ -92,22 +92,6 @@
    "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/fotogen-38-sinasi-barutcu-kupasi-sergisi-c09bb02f-bfc3-4d3b-a426-8d7280eefc98.jpg"
   },
   {
-   "id": "461a68623e39",
-   "baslik": "Kadına Şiddet",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Kadıköy",
-   "mekan": "Caddebostan Kültür Merkezi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Kadıköy Kent Konseyi",
-   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/kadina-siddet-23-11-26",
-   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/kadina-siddet-56705592-1fe5-4f48-8000-36b49cebaf3a.jpg"
-  },
-  {
    "id": "e84d5b3dde0f",
    "baslik": "IEEE Türkiye AP/MTT/EMC/ED Joint Chapter ve IEEE Türkiye AP-S Chapter kapsamında düzenlenen çevrimiçi seminer",
    "tarih": "2026-11-24",
@@ -154,22 +138,6 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/momentum-istanbul-dob",
    "gorsel": "veri/gorsel/dob-2-3277.webp"
-  },
-  {
-   "id": "fe4029f8e0d0",
-   "baslik": "Öylece Durur Zaman",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": null,
-   "mekan": "İnal Aydınoğlu K.M Şener Şen Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/oylece-durur-zaman",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5016d82e4a244a00ac1bc829773d0c29.jpg"
   },
   {
    "id": "d2199146085a",
@@ -444,8 +412,8 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5170919c6719466492c9d98e90ccc523.jpg"
   },
   {
-   "id": "6285d7487b24",
-   "baslik": "KÖPEK KALBİ",
+   "id": "e4f80e7013b9",
+   "baslik": "Gölge",
    "tarih": "2026-11-25",
    "bitis": null,
    "saat": "20:00",
@@ -456,8 +424,8 @@
    "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kopek-kalbi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/951780393cf74c959b2dc9358b4e2e00.jpg"
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/golge",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/62b0290f799b45189052da486daec49c.jpg"
   },
   {
    "id": "c092535353d0",
@@ -473,7 +441,7 @@
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kosebasi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/c727f4d1180a4d12a7cb34ab64e7c2b8.jpg"
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/84ea0209ae894e75b40ea554969d06a1.jpg"
   },
   {
    "id": "ab13b9ecb1db",
@@ -490,6 +458,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/yasamak-mi-yoksa-olmek-mi",
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/dd79c1c0295840918550446673fa80a0.jpg"
+  },
+  {
+   "id": "e706b0101e75",
+   "baslik": "Diyet",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Kadıköy",
+   "mekan": "Sinematek/Sinema Evi",
+   "kategori": "Sinema",
+   "ucretsiz": true,
+   "ozet": "Lütfi Akad'ın Göç Üçlemesi’nin son filmi Diyet, kente uyum sürecini fabrika yaşamı ve işçi sınıfı üzerinden ele alır.",
+   "kaynak_ad": "Kadıköy Belediyesi Kültür Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.kadikoy.bel.tr/tr/kadikoyde-kultur-sanat/diyet-25-11-26",
+   "gorsel": "https://kultursanat.kadikoy.bel.tr/documents/file/KBKS_Activity/diyet-45f355a4-dcf7-40eb-8bff-28a3d3e94329.jpg"
   },
   {
    "id": "ab46a405ec04",
@@ -636,8 +620,8 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5170919c6719466492c9d98e90ccc523.jpg"
   },
   {
-   "id": "c33ccc7d5cd5",
-   "baslik": "KÖPEK KALBİ",
+   "id": "fa7bce96f2bd",
+   "baslik": "Gölge",
    "tarih": "2026-11-26",
    "bitis": null,
    "saat": "20:00",
@@ -648,8 +632,8 @@
    "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kopek-kalbi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/951780393cf74c959b2dc9358b4e2e00.jpg"
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/golge",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/62b0290f799b45189052da486daec49c.jpg"
   },
   {
    "id": "c6ec90d71dbd",
@@ -665,7 +649,7 @@
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kosebasi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/c727f4d1180a4d12a7cb34ab64e7c2b8.jpg"
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/84ea0209ae894e75b40ea554969d06a1.jpg"
   },
   {
    "id": "d9aa92bb276d",
@@ -682,6 +666,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/yasamak-mi-yoksa-olmek-mi",
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/dd79c1c0295840918550446673fa80a0.jpg"
+  },
+  {
+   "id": "cf55ef94426b",
+   "baslik": "''Xewna Şeveke Havînê'' ''Bir Yaz Gecesi Rüyası'' Diyarbakır BB Şehir Tiy.",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Sultangazi",
+   "mekan": "Sultangazi Hoca Ahmet Yesevi Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Komedi",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/xewna-seveke-havn-bir-yaz-gecesi-ruyasi-diyarbakir-bb-sehir-tiy",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/6c5bd1f3173b434ea4228373e4d7a66d.jpg"
   },
   {
    "id": "a81433d2689d",
@@ -780,8 +780,8 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5170919c6719466492c9d98e90ccc523.jpg"
   },
   {
-   "id": "8ac577cf9a36",
-   "baslik": "KÖPEK KALBİ",
+   "id": "bb3629c14849",
+   "baslik": "Gölge",
    "tarih": "2026-11-27",
    "bitis": null,
    "saat": "20:00",
@@ -792,8 +792,8 @@
    "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kopek-kalbi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/951780393cf74c959b2dc9358b4e2e00.jpg"
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/golge",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/62b0290f799b45189052da486daec49c.jpg"
   },
   {
    "id": "1391b8fe916a",
@@ -809,7 +809,7 @@
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kosebasi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/c727f4d1180a4d12a7cb34ab64e7c2b8.jpg"
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/84ea0209ae894e75b40ea554969d06a1.jpg"
   },
   {
    "id": "33cd51bcc7ca",
@@ -924,8 +924,8 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5170919c6719466492c9d98e90ccc523.jpg"
   },
   {
-   "id": "454f3857ae56",
-   "baslik": "KÖPEK KALBİ",
+   "id": "12375034e6b0",
+   "baslik": "Gölge",
    "tarih": "2026-11-28",
    "bitis": null,
    "saat": "15:00",
@@ -936,8 +936,8 @@
    "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kopek-kalbi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/951780393cf74c959b2dc9358b4e2e00.jpg"
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/golge",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/62b0290f799b45189052da486daec49c.jpg"
   },
   {
    "id": "2da79ae66c14",
@@ -1036,8 +1036,8 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5170919c6719466492c9d98e90ccc523.jpg"
   },
   {
-   "id": "dcd6be0db764",
-   "baslik": "KÖPEK KALBİ",
+   "id": "615f28a963eb",
+   "baslik": "Gölge",
    "tarih": "2026-11-28",
    "bitis": null,
    "saat": "20:00",
@@ -1048,8 +1048,8 @@
    "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kopek-kalbi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/951780393cf74c959b2dc9358b4e2e00.jpg"
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/golge",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/62b0290f799b45189052da486daec49c.jpg"
   },
   {
    "id": "11ab0ca85f0e",
@@ -1065,7 +1065,7 @@
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kosebasi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/c727f4d1180a4d12a7cb34ab64e7c2b8.jpg"
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/84ea0209ae894e75b40ea554969d06a1.jpg"
   },
   {
    "id": "dfa98ccea991",
@@ -1082,6 +1082,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/yasamak-mi-yoksa-olmek-mi",
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/dd79c1c0295840918550446673fa80a0.jpg"
+  },
+  {
+   "id": "90f10ed192e3",
+   "baslik": "''Xewna Şeveke Havînê'' ''Bir Yaz Gecesi Rüyası'' Diyarbakır BB Şehir Tiy.",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Kadıköy",
+   "mekan": "Müze Gazhane Prof. Dr. Sevda Şener Sahnesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "İBB Şehir Tiyatroları · Komedi",
+   "kaynak_ad": "İBB Şehir Tiyatroları",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/xewna-seveke-havn-bir-yaz-gecesi-ruyasi-diyarbakir-bb-sehir-tiy",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/6c5bd1f3173b434ea4228373e4d7a66d.jpg"
   },
   {
    "id": "631507bd9ec2",
@@ -1146,6 +1162,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/momentum-istanbul-dob",
    "gorsel": "veri/gorsel/dob-2-3277.webp"
+  },
+  {
+   "id": "580ec25df9a4",
+   "baslik": "Prof. Dr. Mahmoud Wagih – IEEE Semineri |",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Sarıyer",
+   "mekan": "İstanbul Teknik Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "IEEE Türkiye AP/MTT/EMC/ED Ortak Bölümü tarafından düzenlenen etkinlik kapsamında, Glasgow Üniversitesi öğretim üyesi ve IEEE Distinguished Microwave Lecturer Prof. Dr. Mahmoud Wagih, İstanbul Teknik Üniversitesi'nde bir…",
+   "kaynak_ad": "İstanbul Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.itu.edu.tr/EtkinlikDetay.aspx?etkinlik=2676",
+   "gorsel": "https://etkinlik.itu.edu.tr/uploads/etkinlik/00e7cf23-080e-49c8-882f-ee7acfd0f620.PNG"
   },
   {
    "id": "63694de7e255",
@@ -1641,7 +1673,7 @@
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kosebasi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/c727f4d1180a4d12a7cb34ab64e7c2b8.jpg"
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/84ea0209ae894e75b40ea554969d06a1.jpg"
   },
   {
    "id": "58733face776",
@@ -1769,7 +1801,7 @@
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kosebasi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/c727f4d1180a4d12a7cb34ab64e7c2b8.jpg"
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/84ea0209ae894e75b40ea554969d06a1.jpg"
   },
   {
    "id": "e39cfad9160a",
@@ -1849,7 +1881,7 @@
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kosebasi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/c727f4d1180a4d12a7cb34ab64e7c2b8.jpg"
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/84ea0209ae894e75b40ea554969d06a1.jpg"
   },
   {
    "id": "866aae2e0230",
@@ -2009,7 +2041,7 @@
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kosebasi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/c727f4d1180a4d12a7cb34ab64e7c2b8.jpg"
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/84ea0209ae894e75b40ea554969d06a1.jpg"
   },
   {
    "id": "97513f92a2bd",
@@ -2060,22 +2092,6 @@
    "gorsel": "veri/gorsel/dt-misafir-.webp"
   },
   {
-   "id": "60c3fe97d20f",
-   "baslik": "Öylece Durur Zaman",
-   "tarih": "2026-12-16",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Kadıköy",
-   "mekan": "Müze Gazhane Prof. Dr. Sevda Şener Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/oylece-durur-zaman",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5016d82e4a244a00ac1bc829773d0c29.jpg"
-  },
-  {
    "id": "978f53724213",
    "baslik": "Sivrisinekler",
    "tarih": "2026-12-16",
@@ -2090,22 +2106,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/sivrisinekler-",
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/9f88e8aa8d5c4dcaba860a9ed8ff0547.jpg"
-  },
-  {
-   "id": "56c654752442",
-   "baslik": "Öylece Durur Zaman",
-   "tarih": "2026-12-16",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Kadıköy",
-   "mekan": "Müze Gazhane Prof. Dr. Sevda Şener Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/oylece-durur-zaman",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5016d82e4a244a00ac1bc829773d0c29.jpg"
   },
   {
    "id": "84bc3d210ed5",
@@ -2124,22 +2124,6 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/9f88e8aa8d5c4dcaba860a9ed8ff0547.jpg"
   },
   {
-   "id": "57efd4f24fe7",
-   "baslik": "Öylece Durur Zaman",
-   "tarih": "2026-12-17",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Kadıköy",
-   "mekan": "Müze Gazhane Prof. Dr. Sevda Şener Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/oylece-durur-zaman",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5016d82e4a244a00ac1bc829773d0c29.jpg"
-  },
-  {
    "id": "382c70f3c22b",
    "baslik": "Sivrisinekler",
    "tarih": "2026-12-17",
@@ -2154,22 +2138,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/sivrisinekler-",
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/9f88e8aa8d5c4dcaba860a9ed8ff0547.jpg"
-  },
-  {
-   "id": "a75314291bcf",
-   "baslik": "Öylece Durur Zaman",
-   "tarih": "2026-12-18",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Kadıköy",
-   "mekan": "Müze Gazhane Prof. Dr. Sevda Şener Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/oylece-durur-zaman",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5016d82e4a244a00ac1bc829773d0c29.jpg"
   },
   {
    "id": "4cd59eef89a6",
@@ -2188,22 +2156,6 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/9f88e8aa8d5c4dcaba860a9ed8ff0547.jpg"
   },
   {
-   "id": "f85d48262528",
-   "baslik": "Öylece Durur Zaman",
-   "tarih": "2026-12-19",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Kadıköy",
-   "mekan": "Müze Gazhane Prof. Dr. Sevda Şener Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/oylece-durur-zaman",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5016d82e4a244a00ac1bc829773d0c29.jpg"
-  },
-  {
    "id": "493d6ffb17c3",
    "baslik": "Sivrisinekler",
    "tarih": "2026-12-19",
@@ -2218,22 +2170,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/sivrisinekler-",
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/9f88e8aa8d5c4dcaba860a9ed8ff0547.jpg"
-  },
-  {
-   "id": "2504281ffa6a",
-   "baslik": "Öylece Durur Zaman",
-   "tarih": "2026-12-19",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Kadıköy",
-   "mekan": "Müze Gazhane Prof. Dr. Sevda Şener Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
-   "kaynak_ad": "İBB Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/oylece-durur-zaman",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5016d82e4a244a00ac1bc829773d0c29.jpg"
   },
   {
    "id": "734f5212f5c3",
@@ -2300,20 +2236,20 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5170919c6719466492c9d98e90ccc523.jpg"
   },
   {
-   "id": "b78beca91726",
-   "baslik": "KÖPEK KALBİ",
+   "id": "e55a07a74ce7",
+   "baslik": "Gölge",
    "tarih": "2026-12-23",
    "bitis": null,
    "saat": "20:00",
-   "ilce": "Kağıthane",
-   "mekan": "Kağıthane Sadabad Sahnesi",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Kerem Yılmazer Sahnesi",
    "kategori": "Tiyatro",
    "ucretsiz": false,
    "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kopek-kalbi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/951780393cf74c959b2dc9358b4e2e00.jpg"
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/golge",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/62b0290f799b45189052da486daec49c.jpg"
   },
   {
    "id": "4a5ce7549155",
@@ -2348,20 +2284,20 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5170919c6719466492c9d98e90ccc523.jpg"
   },
   {
-   "id": "01dfe4bdcc89",
-   "baslik": "KÖPEK KALBİ",
+   "id": "bc6107986335",
+   "baslik": "Gölge",
    "tarih": "2026-12-24",
    "bitis": null,
    "saat": "20:00",
-   "ilce": "Kağıthane",
-   "mekan": "Kağıthane Sadabad Sahnesi",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Kerem Yılmazer Sahnesi",
    "kategori": "Tiyatro",
    "ucretsiz": false,
    "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kopek-kalbi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/951780393cf74c959b2dc9358b4e2e00.jpg"
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/golge",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/62b0290f799b45189052da486daec49c.jpg"
   },
   {
    "id": "bdfb6c6580a2",
@@ -2396,20 +2332,20 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5170919c6719466492c9d98e90ccc523.jpg"
   },
   {
-   "id": "878768b567d2",
-   "baslik": "KÖPEK KALBİ",
+   "id": "84ca82334c00",
+   "baslik": "Gölge",
    "tarih": "2026-12-25",
    "bitis": null,
    "saat": "20:00",
-   "ilce": "Kağıthane",
-   "mekan": "Kağıthane Sadabad Sahnesi",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Kerem Yılmazer Sahnesi",
    "kategori": "Tiyatro",
    "ucretsiz": false,
    "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kopek-kalbi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/951780393cf74c959b2dc9358b4e2e00.jpg"
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/golge",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/62b0290f799b45189052da486daec49c.jpg"
   },
   {
    "id": "c12494c81313",
@@ -2444,20 +2380,20 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5170919c6719466492c9d98e90ccc523.jpg"
   },
   {
-   "id": "74162a85d81c",
-   "baslik": "KÖPEK KALBİ",
+   "id": "1fe385321fdb",
+   "baslik": "Gölge",
    "tarih": "2026-12-26",
    "bitis": null,
    "saat": "15:00",
-   "ilce": "Kağıthane",
-   "mekan": "Kağıthane Sadabad Sahnesi",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Kerem Yılmazer Sahnesi",
    "kategori": "Tiyatro",
    "ucretsiz": false,
    "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kopek-kalbi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/951780393cf74c959b2dc9358b4e2e00.jpg"
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/golge",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/62b0290f799b45189052da486daec49c.jpg"
   },
   {
    "id": "24f9f7f3ce4e",
@@ -2492,20 +2428,20 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5170919c6719466492c9d98e90ccc523.jpg"
   },
   {
-   "id": "7377978c76b0",
-   "baslik": "KÖPEK KALBİ",
+   "id": "fc1b52741910",
+   "baslik": "Gölge",
    "tarih": "2026-12-26",
    "bitis": null,
    "saat": "20:00",
-   "ilce": "Kağıthane",
-   "mekan": "Kağıthane Sadabad Sahnesi",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Kerem Yılmazer Sahnesi",
    "kategori": "Tiyatro",
    "ucretsiz": false,
    "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kopek-kalbi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/951780393cf74c959b2dc9358b4e2e00.jpg"
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/golge",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/62b0290f799b45189052da486daec49c.jpg"
   },
   {
    "id": "3b7c67c050c1",
@@ -2572,20 +2508,20 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5170919c6719466492c9d98e90ccc523.jpg"
   },
   {
-   "id": "b73f2fe81fed",
-   "baslik": "KÖPEK KALBİ",
+   "id": "50d703cd6c42",
+   "baslik": "Gölge",
    "tarih": "2026-12-30",
    "bitis": null,
    "saat": "20:00",
-   "ilce": "Kağıthane",
-   "mekan": "Kağıthane Sadabad Sahnesi",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Kerem Yılmazer Sahnesi",
    "kategori": "Tiyatro",
    "ucretsiz": false,
    "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kopek-kalbi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/951780393cf74c959b2dc9358b4e2e00.jpg"
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/golge",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/62b0290f799b45189052da486daec49c.jpg"
   },
   {
    "id": "2a2b71d4e1e8",
@@ -2620,20 +2556,20 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5170919c6719466492c9d98e90ccc523.jpg"
   },
   {
-   "id": "c91378104cad",
-   "baslik": "KÖPEK KALBİ",
+   "id": "7cbdfa336f82",
+   "baslik": "Gölge",
    "tarih": "2027-01-02",
    "bitis": null,
    "saat": "15:00",
-   "ilce": "Kağıthane",
-   "mekan": "Kağıthane Sadabad Sahnesi",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Kerem Yılmazer Sahnesi",
    "kategori": "Tiyatro",
    "ucretsiz": false,
    "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kopek-kalbi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/951780393cf74c959b2dc9358b4e2e00.jpg"
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/golge",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/62b0290f799b45189052da486daec49c.jpg"
   },
   {
    "id": "2b3334218f36",
@@ -2668,20 +2604,20 @@
    "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/5170919c6719466492c9d98e90ccc523.jpg"
   },
   {
-   "id": "e5845547f723",
-   "baslik": "KÖPEK KALBİ",
+   "id": "56547bfe91aa",
+   "baslik": "Gölge",
    "tarih": "2027-01-02",
    "bitis": null,
    "saat": "20:00",
-   "ilce": "Kağıthane",
-   "mekan": "Kağıthane Sadabad Sahnesi",
+   "ilce": "Üsküdar",
+   "mekan": "Üsküdar Kerem Yılmazer Sahnesi",
    "kategori": "Tiyatro",
    "ucretsiz": false,
    "ozet": "İBB Şehir Tiyatroları · Yetişkin Oyunu",
    "kaynak_ad": "İBB Şehir Tiyatroları",
    "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/kopek-kalbi",
-   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/951780393cf74c959b2dc9358b4e2e00.jpg"
+   "kaynak_url": "https://sehirtiyatrolari.ibb.istanbul/oyun/golge",
+   "gorsel": "https://b6s54eznn8xq.merlincdn.net/IBB/TheatrePlay/62b0290f799b45189052da486daec49c.jpg"
   },
   {
    "id": "20557a5cc477",
@@ -2705,7 +2641,7 @@
    "ad": "İBB Şehir Tiyatroları",
    "tur": "belediye",
    "url": "https://sehirtiyatrolari.ibb.istanbul",
-   "etkinlik_sayisi": 90,
+   "etkinlik_sayisi": 85,
    "durum": "çalışıyor"
   },
   {
@@ -2733,7 +2669,7 @@
    "ad": "İstanbul Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.itu.edu.tr",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

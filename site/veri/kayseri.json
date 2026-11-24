@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-11-23T14:59+03:00",
+ "guncelleme": "2026-11-24T16:30+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -51,6 +51,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kayip-renkler",
    "gorsel": "veri/gorsel/dt-kayip-renkler.jpg"
+  },
+  {
+   "id": "4e0c585b07cf",
+   "baslik": "Güzellik Algısı Paneli",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Melikgazi",
+   "mekan": "Erciyes Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erciyes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.erciyes.edu.tr/tr/etkinlik-detay/guzellik-algisi-paneli/10458",
+   "gorsel": "https://www.erciyes.edu.tr/images/Etkinlik/f1e3e824-bcf1-4be5-a7d0-5cc33da8cf84.jpg"
   },
   {
    "id": "cf9356910f21",
@@ -302,18 +318,18 @@
    "durum": "çalışıyor"
   },
   {
+   "ad": "Erciyes Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.erciyes.edu.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
+  {
    "ad": "Abdullah Gül Üniversitesi",
    "tur": "universite",
    "url": "https://www.agu.edu.tr",
    "etkinlik_sayisi": 0,
    "durum": "etkinlik takvimi bulunamadı"
-  },
-  {
-   "ad": "Erciyes Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.erciyes.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Kayseri Büyükşehir Belediyesi",

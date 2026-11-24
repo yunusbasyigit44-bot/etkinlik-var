@@ -1,5 +1,37 @@
 [
  {
+  "id": "e0de707c2748",
+  "baslik": "Proje Destek Ofisi Ödül Töreni",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": "09:00",
+  "ilce": "Yıldırım",
+  "mekan": "Mimar Sinan Yerleşkesi Turkuaz Salon (B Blok 1. Kat)",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bursa Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12786/proje-destek-ofisi-%C3%B6d%C3%BCl-t%C3%B6reni",
+  "gorsel": null
+ },
+ {
+  "id": "362c6c9095aa",
+  "baslik": "Bencil Dev",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Osmangazi",
+  "mekan": "Ahmet Vefik Paşa Sahnesi",
+  "kategori": "Çocuk",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bencil-dev",
+  "gorsel": null
+ },
+ {
   "id": "5b77955ba784",
   "baslik": "Bencil Dev",
   "tarih": "2026-11-22",

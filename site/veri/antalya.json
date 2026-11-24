@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-23T14:47+03:00",
+ "guncelleme": "2026-11-24T16:18+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -24,51 +24,19 @@
  ],
  "etkinlikler": [
   {
-   "id": "dde0c51c8263",
-   "baslik": "Afet Hazırlık Eğitimi : Depreme Hazır Mısınız?",
-   "tarih": "2026-11-23",
+   "id": "dcf785d442af",
+   "baslik": "TUBİM Uyușturucu ile Mücadele",
+   "tarih": "2026-11-24",
    "bitis": null,
-   "saat": "14:00",
+   "saat": "10:00",
    "ilce": "Döşemealtı",
    "mekan": "Antalya Bilim Üniversitesi",
-   "kategori": "Atölye",
+   "kategori": "Doğa & Gezi",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Antalya Bilim Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/afet-hazirlik-egitimi-depreme-hazir-misiniz",
-   "gorsel": null
-  },
-  {
-   "id": "b80f803496f9",
-   "baslik": "Kadın Çalışmaları ve Toplumsal Cinsiyet Araştırma ve Uygulama Merkezi 'Saygılı Yaşam ve Güvenli İlişkiler Eğitimi'",
-   "tarih": "2026-11-23",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Edebiyat Fakültesi, Bumin Kağan Konferans Salonu",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/kadin_calismalari_ve_toplumsal_cinsiyet_arastirma_ve_uygulama_merkezi_saygili_yasam_ve_guvenli_iliskiler_egitimi-5799",
-   "gorsel": null
-  },
-  {
-   "id": "23f256a2cb31",
-   "baslik": "Dino Ormanı",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/dino-ormani-antalya-dob",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/tubim-uyusturucu-ile-mucadele",
    "gorsel": null
   },
   {
@@ -136,6 +104,38 @@
    "gorsel": null
   },
   {
+   "id": "b7edf51af92b",
+   "baslik": "Sağlık Hizmetleri Meslek Yüksekokulu “Ben Mezunum Bana Sor” Etkinliği",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Sağlık Hizmetleri Meslek Yüksekokulu, 107 Nolu Sınıf",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/saglik_hizmetleri_meslek_yuksekokulu_%E2%80%9Cben_mezunum_bana_sor%E2%80%9D_etkinligi-5803",
+   "gorsel": null
+  },
+  {
+   "id": "ca6633b95410",
+   "baslik": "24 Kasım Öğretmenler Günü Konseri",
+   "tarih": "2026-11-24",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Akdeniz Üniversitesi, Atatürk Konferans Salonu",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/24_kasim_ogretmenler_gunu_konseri-5805",
+   "gorsel": null
+  },
+  {
    "id": "c12b2c062c8d",
    "baslik": "Müze Konseri",
    "tarih": "2026-11-25",
@@ -168,6 +168,38 @@
    "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
   },
   {
+   "id": "c95172479b99",
+   "baslik": "Antalya Teknokent Techgreen Demoday Etkinliği Başlıyor!",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Anfaş Fuar Merkezi, Büyük Salon",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/antalya_teknokent_techgreen_demoday_etkinligi_basliyor-5807",
+   "gorsel": null
+  },
+  {
+   "id": "bb20d660377b",
+   "baslik": "9. Bitki Islahı Proje Pazarı Başlıyor!",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, ANFAŞ Fuar Merkezi, Büyük Salon",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/9__bitki_islahi_proje_pazari_basliyor-5806",
+   "gorsel": null
+  },
+  {
    "id": "97679efb6436",
    "baslik": "Fındıkkıran",
    "tarih": "2026-11-26",
@@ -198,6 +230,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/therese-raquin-bir-cinayetin-anatomisi",
    "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
+  },
+  {
+   "id": "ce1091638669",
+   "baslik": "2. Akdeniz Üniversitesi Edebiyat Fakültesi Kazı ve Yüzey Araştırmaları Sempozyumu",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Edebiyat Fakültesi Bumin Kağan Konferans Salonu",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/2__akdeniz_universitesi_edebiyat_fakultesi_kazi_ve_yuzey_arastirmalari_sempozyumu-5802",
+   "gorsel": null
   },
   {
    "id": "3a86bb0c95d9",
@@ -584,6 +632,22 @@
    "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
   },
   {
+   "id": "affb473db39c",
+   "baslik": "Nefes",
+   "tarih": "2026-12-08",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/nefes-antalya-dob",
+   "gorsel": "veri/gorsel/dob-5-3292.webp"
+  },
+  {
    "id": "2c32e3ed506d",
    "baslik": "Taziye",
    "tarih": "2026-12-09",
@@ -715,7 +779,7 @@
    "ad": "Akdeniz Üniversitesi",
    "tur": "universite",
    "url": "https://www.akdeniz.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

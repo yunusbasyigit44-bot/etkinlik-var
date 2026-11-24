@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-23T15:08+03:00",
+ "guncelleme": "2026-11-24T16:39+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -62,19 +62,19 @@
    "gorsel": null
   },
   {
-   "id": "a2f0edfa3bc2",
-   "baslik": "Medeniyetimizin İnşa ve İhyasını Biyografi Geleneği Üzerinden Okumak",
-   "tarih": "2026-11-24",
+   "id": "9f30621ceb34",
+   "baslik": "13.Çeviri Çalıştayı",
+   "tarih": "2026-11-25",
    "bitis": null,
    "saat": null,
    "ilce": "Yahşihan",
    "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Diğer",
+   "kategori": "Akademik",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Kırıkkale Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10089",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10104",
    "gorsel": null
   },
   {
@@ -91,6 +91,22 @@
    "kaynak_ad": "Kırıkkale Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10095",
+   "gorsel": null
+  },
+  {
+   "id": "ef891d7bc116",
+   "baslik": "26 Kasım'da Standımız Açılıyor",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10103",
    "gorsel": null
   },
   {
@@ -126,6 +142,22 @@
    "gorsel": null
   },
   {
+   "id": "002f0cc1c2f9",
+   "baslik": "Kur'an ve İnsan \"İnsanı İnşa Eden İlahi Rehber\"",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Geleneksel Müzik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10102",
+   "gorsel": null
+  },
+  {
    "id": "e2c56b2705f1",
    "baslik": "\"Topraktan Teknolojiye, Bilimden Geleceğe!\"",
    "tarih": "2026-12-16",
@@ -147,7 +179,7 @@
    "ad": "Kırıkkale Üniversitesi",
    "tur": "universite",
    "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {

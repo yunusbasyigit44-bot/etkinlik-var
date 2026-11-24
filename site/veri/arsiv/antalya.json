@@ -1,5 +1,37 @@
 [
  {
+  "id": "dde0c51c8263",
+  "baslik": "Afet Hazırlık Eğitimi : Depreme Hazır Mısınız?",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Döşemealtı",
+  "mekan": "Antalya Bilim Üniversitesi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Antalya Bilim Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/afet-hazirlik-egitimi-depreme-hazir-misiniz",
+  "gorsel": null
+ },
+ {
+  "id": "b80f803496f9",
+  "baslik": "Kadın Çalışmaları ve Toplumsal Cinsiyet Araştırma ve Uygulama Merkezi 'Saygılı Yaşam ve Güvenli İlişkiler Eğitimi'",
+  "tarih": "2026-11-23",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Konyaaltı",
+  "mekan": "Akdeniz Üniversitesi, Edebiyat Fakültesi, Bumin Kağan Konferans Salonu",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Akdeniz Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/kadin_calismalari_ve_toplumsal_cinsiyet_arastirma_ve_uygulama_merkezi_saygili_yasam_ve_guvenli_iliskiler_egitimi-5799",
+  "gorsel": null
+ },
+ {
   "id": "de579db3d4ad",
   "baslik": "Üç Kedi Bir Dilek",
   "tarih": "2026-11-22",
