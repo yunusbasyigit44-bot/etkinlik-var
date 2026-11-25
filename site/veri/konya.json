@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-24T16:31+03:00",
+ "guncelleme": "2026-11-25T15:20+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,54 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "171e94a596c4",
-   "baslik": "Yastık Adam",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
-   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
-  },
-  {
-   "id": "47dd45c4862f",
-   "baslik": "Bando ve Mehteran Takımı",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/bando-ve-mehteran-takimi/1023",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAyBilmjccQ296naROtXR3SHNgU-hwjQ.jpeg"
-  },
-  {
-   "id": "8c1a210e4b30",
-   "baslik": "Konya Okulu - Rıfat Oral",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-rifat-oral/1210",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/SApHSIWb-TuZ-BJe80RLqrN0XUkZix2x.jpeg"
-  },
   {
    "id": "032ebfde01f1",
    "baslik": "Eğlence Dünyası",
@@ -145,6 +97,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
    "gorsel": "veri/gorsel/dt-yastik-adam.webp"
+  },
+  {
+   "id": "38588e1db9c6",
+   "baslik": "Bando ve Mehteran Takımı",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Geleneksel Müzik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/bando-ve-mehteran-takimi/1023",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAyBilmjccQ296naROtXR3SHNgU-hwjQ.jpeg"
   },
   {
    "id": "02310a1a0a87",
@@ -563,6 +531,22 @@
    "gorsel": null
   },
   {
+   "id": "77c189a991ed",
+   "baslik": "Hû Konseri",
+   "tarih": "2026-12-09",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Meram",
+   "mekan": "Necmettin Erbakan Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Sosyo-Kültürel",
+   "kaynak_ad": "Necmettin Erbakan Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/hu-konseri-2569",
+   "gorsel": null
+  },
+  {
    "id": "04857aca6cf9",
    "baslik": "Yunus Benem (Kumdan Şehir)",
    "tarih": "2026-12-10",
@@ -616,21 +600,21 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
-   "etkinlik_sayisi": 13,
+   "etkinlik_sayisi": 12,
    "durum": "çalışıyor"
   },
   {
    "ad": "Necmettin Erbakan Üniversitesi",
    "tur": "universite",
    "url": "https://erbakan.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

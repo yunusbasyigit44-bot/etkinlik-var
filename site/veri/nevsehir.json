@@ -1,6 +1,6 @@
 {
  "il": "nevsehir",
- "guncelleme": "2026-11-24T16:35+03:00",
+ "guncelleme": "2026-11-25T15:24+03:00",
  "ilceler": [
   "Merkez",
   "Acıgöl",
@@ -12,22 +12,6 @@
   "Ürgüp"
  ],
  "etkinlikler": [
-  {
-   "id": "1a584c79901a",
-   "baslik": "NEVÜ Eğitim Fakültesi Öğretmenler Günü Etkinlikleri",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Nevşehir Hacı Bektaş Veli Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Kültürel Etkinlik",
-   "kaynak_ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.nevsehir.edu.tr/tr/59601",
-   "gorsel": null
-  },
   {
    "id": "b59669aead27",
    "baslik": "\"Yeme Davranışı ve Obezite\" Konulu Seminer",
@@ -50,7 +34,7 @@
    "ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
    "tur": "universite",
    "url": "https://www.nevsehir.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

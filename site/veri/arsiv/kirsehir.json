@@ -1,5 +1,21 @@
 [
  {
+  "id": "47ababafb111",
+  "baslik": "Zamana Sığmayan Şarkılar Konseri",
+  "tarih": "2026-11-24",
+  "bitis": null,
+  "saat": "19:00",
+  "ilce": "Merkez",
+  "mekan": "Kırşehir Belediyesi",
+  "kategori": "Konser",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Kırşehir Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/zamana-sigmayan-sarkilar-konseri",
+  "gorsel": "https://www.kirsehir.bel.tr/storage/events/3k7cHJpGaCUjwKS0K3wi3ICRqRwxtpwLenFWjHng.jpg"
+ },
+ {
   "id": "9a83a92566db",
   "baslik": "Tiyatro (Ankara Ekin Tiyatrosu)",
   "tarih": "2026-11-23",

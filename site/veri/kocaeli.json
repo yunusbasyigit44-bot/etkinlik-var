@@ -1,6 +1,6 @@
 {
  "il": "kocaeli",
- "guncelleme": "2026-11-24T16:30+03:00",
+ "guncelleme": "2026-11-25T15:20+03:00",
  "ilceler": [
   "Başiskele",
   "Çayırova",
@@ -16,22 +16,6 @@
   "Körfez"
  ],
  "etkinlikler": [
-  {
-   "id": "74b205c1679f",
-   "baslik": "Öğretmenler Günü Gesmek Türk Halk Müziği Konseri",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Gebze",
-   "mekan": "Gebze Kültür Merkezi",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": true,
-   "ozet": "Konser",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/ogretmenler-gunu-gesmek-turk-halk-muzigi-konseri_1052.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030110221.jpg"
-  },
   {
    "id": "e40da24750d3",
    "baslik": "Kadına Merhamet, Aileye Huzur - Psikolog Yazar Tuba Kılıç",
@@ -86,7 +70,7 @@
    "ad": "Gebze Belediyesi",
    "tur": "belediye",
    "url": "https://www.gebze.bel.tr/json/etkinlik.json",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

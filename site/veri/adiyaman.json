@@ -1,6 +1,6 @@
 {
  "il": "adiyaman",
- "guncelleme": "2026-11-24T16:14+03:00",
+ "guncelleme": "2026-11-25T15:03+03:00",
  "ilceler": [
   "Merkez",
   "Besni",
@@ -13,54 +13,6 @@
   "Tut"
  ],
  "etkinlikler": [
-  {
-   "id": "ef6a6eee1973",
-   "baslik": "Ulusal Çevrimiçi Karma Sergi",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "09:30",
-   "ilce": "Merkez",
-   "mekan": "https://sanalsergi.adiyaman.edu.tr",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adıyaman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/24/ulusal-cevrimici-karma-sergi",
-   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/24/ulusal-cevrimici-karma-sergi/thumb/24%20kas%C4%B1m%20sergi.jpg"
-  },
-  {
-   "id": "3cc027a681ad",
-   "baslik": "Kamu Maliyesi ve Vergi Sisteminde Kariyer Söyleşisi",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Merkez",
-   "mekan": "Mediko Konferans Salonu",
-   "kategori": "Kariyer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adıyaman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/24/kamu-maliyesi-ve-vergi-sisteminde-kariyer-soylesisi-",
-   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/24/kamu-maliyesi-ve-vergi-sisteminde-kariyer-soylesisi-/thumb/%C4%B1mg-20261124-wa0003.jpg"
-  },
-  {
-   "id": "40938a06c1c6",
-   "baslik": "Mezun Buluşması",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Merkez",
-   "mekan": "Mustafa V. Koç Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adıyaman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/24/mezun-bulusmasi-",
-   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/24/mezun-bulusmasi-/thumb/24%20kas%C4%B1m.jpg"
-  },
   {
    "id": "65d9f6bc8340",
    "baslik": "Profesyonelotel Yöneticileri Geleceğin Şeflerinden Neler Bekliyor?",
@@ -131,7 +83,7 @@
    "ad": "Adıyaman Üniversitesi",
    "tur": "universite",
    "url": "https://adiyaman.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

@@ -1,5 +1,37 @@
 [
  {
+  "id": "58b12c4499bb",
+  "baslik": "Hukuk Söyleşisi: Aktif Vatandaşlık ve Gençlik",
+  "tarih": "2026-11-24",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Yakutiye",
+  "mekan": "Hukuk Fakültesi Konferans Salonu",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Atatürk Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://atauni.edu.tr/etkinlik/hukuk-soylesisi-aktif-vatandaslik-ve-genclik/",
+  "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/11/hukuk-söyleşisi-01.jpg-731x1024.jpeg"
+ },
+ {
+  "id": "5b33a337e053",
+  "baslik": "YÖKDİL – YDS Kursu",
+  "tarih": "2026-11-24",
+  "bitis": null,
+  "saat": "19:00",
+  "ilce": "Yakutiye",
+  "mekan": "Çevrim İçi",
+  "kategori": "Kariyer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Atatürk Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://atauni.edu.tr/etkinlik/yokdil-yds-kursu-2/",
+  "gorsel": "https://atauni.edu.tr/wp-content/uploads/2026/10/rahmi-819x1024.jpeg"
+ },
+ {
   "id": "5ca2cdb0be64",
   "baslik": "Akademik Kariyer Planlama, Bilimsel Yazım ve Araştırma Etiği Programı",
   "tarih": "2026-11-23",

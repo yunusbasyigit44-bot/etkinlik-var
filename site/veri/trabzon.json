@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-24T16:37+03:00",
+ "guncelleme": "2026-11-25T15:28+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -22,86 +22,6 @@
   "Yomra"
  ],
  "etkinlikler": [
-  {
-   "id": "5d6a07b5d3b6",
-   "baslik": "24 Kasım Öğretmenler Günü",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Ortahisar",
-   "mekan": "Trabzon Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Trabzon Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/3667",
-   "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/23/d76af940-0702-4863-8dc5-1ac0df5c4fcb.jpg"
-  },
-  {
-   "id": "dc9bf9a46137",
-   "baslik": "Sıradan Kasabası",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siradan-kasabasi",
-   "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
-  },
-  {
-   "id": "d09b3bec7760",
-   "baslik": "Sıradan Kasabası",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "11:30",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siradan-kasabasi",
-   "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
-  },
-  {
-   "id": "4a28b3da75c0",
-   "baslik": "Töre",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/tore",
-   "gorsel": "veri/gorsel/dt-tore.webp"
-  },
-  {
-   "id": "8add61015f9d",
-   "baslik": "Uygulamalı Proje Döngüsü Yönetimi Eğitimi",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Ortahisar",
-   "mekan": "KTÜ TTM",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/tto/etkinlik/uygulamali-proje-dongusu-yonetimi-egitimi",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/tto_ee978adefd62.jpg"
-  },
   {
    "id": "22b2271dd91c",
    "baslik": "\"Bağımsızlık: Davranıştan Duyguya, Fark Etmekten Değişime\" Paneli",
@@ -197,6 +117,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ktu.edu.tr/akademi/etkinlik/iyi-prompt-nasil-yazilir",
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/Bi0OS4.jpg"
+  },
+  {
+   "id": "764178d71f07",
+   "baslik": "Aile Sohbetleri",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/aile-sohbetleri-MR",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_bbf75924a6a3.jpeg"
+  },
+  {
+   "id": "921ececc00d1",
+   "baslik": "25 Kasım Kadına Yönelik Şiddetle Mücadele Günü",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Ortahisar",
+   "mekan": "KTÜ Atatürk Kültür Merkezi (AKM)",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/kadinarastirmalari/etkinlik/25-kasim-kadina-yonelik-siddetle-mucadele-gunu",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/kadinarastirmalari_aa7c54bcf38d.jpg"
   },
   {
    "id": "e979fcaf3a48",
@@ -421,6 +373,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siradan-kasabasi",
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
+  },
+  {
+   "id": "7908a42706a8",
+   "baslik": "Prof. Dr. Cihat YAYCI",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Ortahisar",
+   "mekan": "Prof. Dr. Osman Turan Kültür ve Kongre Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/tr/etkinlik/prof-dr-cihat-yayci",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/tr_0a3ca88b0fa3.jpg"
   },
   {
    "id": "a3741c855c8f",
@@ -764,21 +732,21 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 24,
+   "etkinlik_sayisi": 21,
    "durum": "çalışıyor"
   },
   {
    "ad": "Karadeniz Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://www.ktu.edu.tr",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 20,
    "durum": "çalışıyor"
   },
   {
    "ad": "Trabzon Üniversitesi",
    "tur": "universite",
    "url": "https://www.trabzon.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {

@@ -1,5 +1,37 @@
 [
  {
+  "id": "d1976c1009b8",
+  "baslik": "Öğretmenler Günü Etkinliği",
+  "tarih": "2026-11-24",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Altıeylül",
+  "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi Dumlupınar Konferans Salonu",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Hukuk Fakültesi̇",
+  "kaynak_ad": "Balıkesir Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+  "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_%C3%96%C4%9Fretmenler_G%C3%BCn%C3%BC_Etkinli%C4%9Fi_1795067396.jpeg"
+ },
+ {
+  "id": "7252dcccf210",
+  "baslik": "Müdür Öğrenci Buluşması",
+  "tarih": "2026-11-24",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Edremit",
+  "mekan": "Altınoluk Meslek Yüksekokulu",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Altinoluk Meslek Yüksekokulu",
+  "kaynak_ad": "Balıkesir Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+  "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-19_at_13.52.34_1795086404.jpeg"
+ },
+ {
   "id": "3da7fbdf1d43",
   "baslik": "Hijyen Eğitimi",
   "tarih": "2026-11-23",

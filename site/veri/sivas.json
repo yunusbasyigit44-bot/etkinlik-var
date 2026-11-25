@@ -1,6 +1,6 @@
 {
  "il": "sivas",
- "guncelleme": "2026-11-24T16:36+03:00",
+ "guncelleme": "2026-11-25T15:27+03:00",
  "ilceler": [
   "Merkez",
   "Akıncılar",
@@ -21,70 +21,6 @@
   "Zara"
  ],
  "etkinlikler": [
-  {
-   "id": "5fab15867dd0",
-   "baslik": "Karacaoğlan",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Merkez",
-   "mekan": "Atatürk Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/karacaoglan",
-   "gorsel": "veri/gorsel/dt-karacaoglan.jpg"
-  },
-  {
-   "id": "4577c03bb9f3",
-   "baslik": "Kent Sohbetleri- Algoritmik Kuşatma Altında Yerel Kalabilmek",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sivas Cumhuriyet Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Kent Sohbetleri- Algoritmik Kuşatma Altında Yerel Kalabilmek",
-   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19448-kent-sohbetleri-algoritmik-kusatma-altinda-yerel-kalabilmek",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Kent-Sohbetleri--Algoritmik-Kusatma-Altinda-Yerel-Kalabilmek-22402.jpg"
-  },
-  {
-   "id": "fe138cfdfadd",
-   "baslik": "Erasmus+ Bilgilendirme Toplantısı- İktisadi ve İdari Bilimler Fakültesi",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sivas Cumhuriyet Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Erasmus+ Bilgilendirme Toplantısı- İktisadi ve İdari Bilimler Fakültesi",
-   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19427-erasmus-bilgilendirme-toplantisi-iktisadi-ve-idari-bilimler-fakultesi",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Erasmus-Bilgilendirme-Toplantisi--iktisadi-ve-idari-Bilimler-Fakultesi-48770.jpg"
-  },
-  {
-   "id": "d501baaebf81",
-   "baslik": "Türkçenin Öğretmeninden Dilimiz ve Kültürümüz Üzerine Söyleşi",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sivas Cumhuriyet Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Türkçenin Öğretmeninden Dilimiz ve Kültürümüz Üzerine Söyleşi",
-   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19419-turkcenin-ogretmeninden-dilimiz-ve-kulturumuz-uzerine-soylesi",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Turkcenin-ogretmeninden-Dilimiz-ve-Kulturumuz-uzerine-Soylesi-94000.jpg"
-  },
   {
    "id": "6b59b75d9bef",
    "baslik": "Tebeşir Ağacı",
@@ -454,6 +390,22 @@
    "gorsel": "veri/gorsel/dt-kral-olmak-istemeyen-aslan.jpg"
   },
   {
+   "id": "e6f6867f4b57",
+   "baslik": "Erasmus+ Bilgilendirme Toplantısı- İngiliz Dili ve Edebiyatı Bölümü",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": "Erasmus+ Bilgilendirme Toplantısı- İngiliz Dili ve Edebiyatı Bölümü",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19496-erasmus-bilgilendirme-toplantisi-ingiliz-dili-ve-edebiyati-bolumu",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Erasmus-Bilgilendirme-Toplantisi--ingiliz-Dili-ve-Edebiyati-Bolumu-66103.jpg"
+  },
+  {
    "id": "c6a9ad782fcc",
    "baslik": "Erasmus+ Bilgilendirme Toplantısı- Turizm Fakültesi",
    "tarih": "2026-12-02",
@@ -763,14 +715,14 @@
    "ad": "Sivas Cumhuriyet Üniversitesi",
    "tur": "universite",
    "url": "https://www.cumhuriyet.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 28,
+   "etkinlik_sayisi": 26,
    "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {

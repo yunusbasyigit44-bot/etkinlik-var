@@ -1,6 +1,6 @@
 {
  "il": "denizli",
- "guncelleme": "2026-11-24T16:20+03:00",
+ "guncelleme": "2026-11-25T15:09+03:00",
  "ilceler": [
   "Pamukkale",
   "Merkezefendi",
@@ -24,22 +24,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "9a67fc3f1956",
-   "baslik": "24 Kasım Öğretmenler Günü",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Pamukkale",
-   "mekan": "Eğitim Fakültesi Melek Sözkesen Konferans Salonu",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Pamukkale Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.pau.edu.tr/pau/tr/etkinlik/24-kasim-ogretmenler-gunu-5",
-   "gorsel": "https://bukalemun.pusula.pau.edu.tr/upload/BIYS/siteler/egitim/editor/10%20Kas%C4%B1m/WhatsApp%20Image%202026-11-18%20at%2016.19.29.jpeg"
-  },
-  {
    "id": "8216759ad7a2",
    "baslik": "''Mezunlar Kürsüde: Tecrübeden Geleceğe'' Mezun Öğrenci Buluşması",
    "tarih": "2026-11-25",
@@ -54,6 +38,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.pau.edu.tr/pau/tr/etkinlik/mezunlar-kursude-tecrubeden-gelecege-mezun-ogrenci-bulusmasi",
    "gorsel": "https://bukalemun.pusula.pau.edu.tr/upload/BIYS/siteler/ubf/editor/UBF/2026-2/WhatsApp%20Image%202026-11-10%20at%2013.01.31.jpeg"
+  },
+  {
+   "id": "8563004ccf8a",
+   "baslik": "50. Yıl Kaynak Eğitim Merkezi Açılış Töreni",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Pamukkale",
+   "mekan": "PAÜ Mühendislik Fakültesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Pamukkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.pau.edu.tr/pau/tr/etkinlik/50-yil-kaynak-egitim-merkezi-acilis-toreni",
+   "gorsel": "https://cdn.pau.edu.tr/BIYS/siteler/mf/editor/-G%C3%B6rseller/Etkinlikler/2026/Kas%C4%B1m/50_yil_kaynak_egitim_merkezi.jpeg"
+  },
+  {
+   "id": "5770769ef7b6",
+   "baslik": "Zamanın Tohumları (+13)",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Merkezefendi",
+   "mekan": "Merkezefendi Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Merkezefendi Belediyesi Kültür-Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlik.aspx?etkinlik=MNP7Q-2026-11-25-zamanin-tohumlari-13",
+   "gorsel": "https://www.merkezefendi.bel.tr/kultursanat/Content/yuklemeler/etkinlikler/T311J25-11-2026-0-ZAMANTOHUMSONSONSON.jpg"
   }
  ],
  "kaynaklar": [
@@ -62,6 +78,13 @@
    "tur": "universite",
    "url": "https://www.pau.edu.tr/pau/tr/etkinlikler",
    "etkinlik_sayisi": 2,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Merkezefendi Belediyesi Kültür-Sanat",
+   "tur": "belediye",
+   "url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlikler.aspx",
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {
@@ -112,13 +135,6 @@
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "etkinlik takvimi yok"
-  },
-  {
-   "ad": "Merkezefendi Belediyesi Kültür-Sanat",
-   "tur": "belediye",
-   "url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlikler.aspx",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Pamukkale Belediyesi",

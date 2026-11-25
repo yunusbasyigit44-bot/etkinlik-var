@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-24T16:39+03:00",
+ "guncelleme": "2026-11-25T15:29+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -13,54 +13,6 @@
   "Yahşihan"
  ],
  "etkinlikler": [
-  {
-   "id": "15d133ce67e9",
-   "baslik": "Öğretmenler Günü Etkinliği \"Öğretmen Olmak\"",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yahşihan",
-   "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırıkkale Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10098",
-   "gorsel": null
-  },
-  {
-   "id": "42e266ea96e8",
-   "baslik": "Beyaz Önlük Giyme Töreni",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yahşihan",
-   "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırıkkale Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10096",
-   "gorsel": null
-  },
-  {
-   "id": "0bfaed10c653",
-   "baslik": "Makro İktisadi Modellemeler Üzerine Güncel Bir Söyleşi",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yahşihan",
-   "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırıkkale Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10094",
-   "gorsel": null
-  },
   {
    "id": "9f30621ceb34",
    "baslik": "13.Çeviri Çalıştayı",
@@ -158,6 +110,38 @@
    "gorsel": null
   },
   {
+   "id": "a9a5316f7e18",
+   "baslik": "Dijital Aktivizm ve Medyanın Farkındalık ile Kamuoyu Oluşturmadaki Rolü",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10106",
+   "gorsel": null
+  },
+  {
+   "id": "368d16a73330",
+   "baslik": "3 Aralık Dünya Engelliler Günü",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10105",
+   "gorsel": null
+  },
+  {
    "id": "e2c56b2705f1",
    "baslik": "\"Topraktan Teknolojiye, Bilimden Geleceğe!\"",
    "tarih": "2026-12-16",
@@ -179,7 +163,7 @@
    "ad": "Kırıkkale Üniversitesi",
    "tur": "universite",
    "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {

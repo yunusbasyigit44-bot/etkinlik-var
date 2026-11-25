@@ -1,5 +1,37 @@
 [
  {
+  "id": "00c7288db44c",
+  "baslik": "Temel İletişim Becerileri ve Görüşme Teknikleri Eğitimi",
+  "tarih": "2026-11-24",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Çankırı Karatekin Üniversitesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8759",
+  "gorsel": "https://medya.karatekin.edu.tr/users/elvanulucanozkan/etkinlik/20261111_111454_da518117410547579a43f978537d8935.png"
+ },
+ {
+  "id": "167aab1fe06a",
+  "baslik": "Rotamız Çankırı'nın Turizm Değerleri",
+  "tarih": "2026-11-24",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Çankırı Karatekin Üniversitesi",
+  "kategori": "Kariyer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Çankırı Karatekin Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.karatekin.edu.tr/etkinlik/-8735",
+  "gorsel": "https://medya.karatekin.edu.tr/users/yusufziyaakbas/etkinlik/20261105_090027_8e8e72c774e34465a52386ca0d3ca3d1.jpg"
+ },
+ {
   "id": "a4e127f99f01",
   "baslik": "Kompleks Dekonjestif Terapi: Lenfödem Rehabilitasyonunda Değerlendirme ve Uygulama Yaklaşımları",
   "tarih": "2026-11-23",

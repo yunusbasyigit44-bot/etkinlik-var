@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-24T16:14+03:00",
+ "guncelleme": "2026-11-25T15:02+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -20,54 +20,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "9e42a6bf9584",
-   "baslik": "Geleceğin Girişimlerini Bugünden Tasarlamak – Eğitim Duyurusu",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Sarıçam",
-   "mekan": "M1 Blok Konferans Salonu",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/201120261421_K_262_57b07e59-9ff6-401b-a52f-f0731387f008.jpg"
-  },
-  {
-   "id": "b5467cbaa9fe",
-   "baslik": "Geleceğin Girişimlerini Bugünden Tasarlamak",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Sarıçam",
-   "mekan": "M1 Konferans Salonu",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/231120261205_K_1_7b2cb704-b6d5-427b-8e9c-7763e8a411c5.jpg"
-  },
-  {
-   "id": "46cacdcd0dd8",
-   "baslik": "Devlet Ana",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
-   "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
-  },
-  {
    "id": "0457d11e5c99",
    "baslik": "Kadına Şiddete Hayır",
    "tarih": "2026-11-25",
@@ -82,6 +34,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.atu.edu.tr",
    "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/241120261441_K_1_ff95ede1-ed72-40f1-809a-e9e4159e8910.jpg"
+  },
+  {
+   "id": "17b97f01c674",
+   "baslik": "Sacred Spaces and Cultural Dialogue",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "18:00",
+   "ilce": "Sarıçam",
+   "mekan": "Yusuf Has Hacib Kütüphanesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Etkinlik",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/251120261135_K_1_07965312-dc76-4ba1-b411-e7a67a8638d8.jpg"
   },
   {
    "id": "335b6ab89198",
@@ -100,6 +68,22 @@
    "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
   },
   {
+   "id": "e0a320228382",
+   "baslik": "Memluk Devleti, Tarih - Siyaset - Kültür ve Sanat",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "Çukurova Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Çukurova Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cu.edu.tr/haber-detay/memluk-devleti-tarih-siyaset-kultur-ve-sanat/",
+   "gorsel": "https://www.cu.edu.tr/media/lhqha2jj/cutam_kasim_2026_programi_sayfa_4.jpg"
+  },
+  {
    "id": "207ace843f54",
    "baslik": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü",
    "tarih": "2026-11-25",
@@ -116,22 +100,6 @@
    "gorsel": "https://www.cu.edu.tr/media/3etf5mfb/whatsapp-image-2026-11-18-at-17-42-19.jpeg"
   },
   {
-   "id": "e0a320228382",
-   "baslik": "Memluk Devleti, Tarih - Siyaset - Kültür ve Sanat",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Sarıçam",
-   "mekan": "Çukurova Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çukurova Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cu.edu.tr/haber-detay/memluk-devleti-tarih-siyaset-kultur-ve-sanat/",
-   "gorsel": "https://www.cu.edu.tr/media/neonphao/cutam_kasim_2026_programi_sayfa_4.jpg"
-  },
-  {
    "id": "c44fa4476abb",
    "baslik": "Türkiye'nin Yeni Ufukları",
    "tarih": "2026-11-26",
@@ -146,6 +114,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.atu.edu.tr",
    "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/111120260904_K_1_a1acf936-7da1-4958-8d50-414ec2530660.jpg"
+  },
+  {
+   "id": "853a87421069",
+   "baslik": "Huzurlu Toplum, Müreffeh Gelecek: Türkiye'nin Yeni Ufukları",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "17:00",
+   "ilce": "Sarıçam",
+   "mekan": "ATÜ İİSBF Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Etkinlik",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/251120261126_K_256_ffa2e9bd-3b21-4b53-8281-f2daee7f02a9.jpg"
   },
   {
    "id": "8cbdf2a8d61d",
@@ -340,6 +324,22 @@
    "gorsel": "veri/gorsel/dt-bernarda-albanin-evi.jpg"
   },
   {
+   "id": "6322ff28f8c6",
+   "baslik": "Türkiye'deki Metalik Madenlerin Değerlendirilmesi",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "Yusuf Has Hacib Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminer",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/251120261319_K_g_68_ff7b7d96-cdc1-435d-876b-48ee7d138689.png"
+  },
+  {
    "id": "94eb03b65434",
    "baslik": "Geçmem Gerek",
    "tarih": "2026-12-05",
@@ -514,6 +514,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/agir-roman",
    "gorsel": "veri/gorsel/dt-agir-roman.jpg"
+  },
+  {
+   "id": "b2dbba7fcb96",
+   "baslik": "Dekana Sor",
+   "tarih": "2026-12-10",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "Yusuf Has Hacib Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Etkinlik",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/251120261127_K_68_d7abfa68-fcf4-47bd-bb19-aa7863bc4eae.png"
   },
   {
    "id": "8a59cc374859",
@@ -736,14 +752,14 @@
    "ad": "Devlet Tiyatroları Adana",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 16,
+   "etkinlik_sayisi": 15,
    "durum": "çalışıyor"
   },
   {
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {

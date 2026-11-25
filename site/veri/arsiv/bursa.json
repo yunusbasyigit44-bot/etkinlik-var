@@ -1,5 +1,37 @@
 [
  {
+  "id": "d1da0e1e0154",
+  "baslik": "TÖMER öğretmenler günü",
+  "tarih": "2026-11-24",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Yıldırım",
+  "mekan": "Mimar Sinan Yerleşkesi Ali Sürmen Salon (G Blok Zemin Kat)",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bursa Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12759/t%C3%B6mer-%C3%B6%C4%9Fretmenler-g%C3%BCn%C3%BC",
+  "gorsel": null
+ },
+ {
+  "id": "54e8470535a8",
+  "baslik": "Kan ve Sultan",
+  "tarih": "2026-11-24",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Osmangazi",
+  "mekan": "Ahmet Vefik Paşa Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kan-ve-sultan",
+  "gorsel": null
+ },
+ {
   "id": "e0de707c2748",
   "baslik": "Proje Destek Ofisi Ödül Töreni",
   "tarih": "2026-11-23",

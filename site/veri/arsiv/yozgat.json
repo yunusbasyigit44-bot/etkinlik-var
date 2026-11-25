@@ -1,5 +1,37 @@
 [
  {
+  "id": "cc5a618f2830",
+  "baslik": "Öğretmenler Günü Kutlama Programı",
+  "tarih": "2026-11-24",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Yozgat Bozok Üniversitesi",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Yozgat Bozok Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4287",
+  "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/36383ffb.jpeg"
+ },
+ {
+  "id": "045ec79670e9",
+  "baslik": "24 Kasım Öğretmenler Günü Korteji",
+  "tarih": "2026-11-24",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Yozgat Bozok Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Yozgat Bozok Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4288",
+  "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/44bdb624.jpeg"
+ },
+ {
   "id": "29128ffb64df",
   "baslik": "Diş Hekimliği Fakültesi Beyaz Önlük Giyme Töreni",
   "tarih": "2026-11-23",

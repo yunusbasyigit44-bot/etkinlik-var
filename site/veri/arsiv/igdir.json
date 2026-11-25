@@ -1,5 +1,21 @@
 [
  {
+  "id": "8262e156b7d5",
+  "baslik": "Uluslararası Kafkasya Kongresi: İpek Yolu’nun Yeniden Doğuşu",
+  "tarih": "2026-11-24",
+  "bitis": null,
+  "saat": "09:00",
+  "ilce": "Merkez",
+  "mekan": "Iğdır Üniversitesi",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Iğdır Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/uluslararas-kafkasya-kongresi-ipek-yolunun-yeniden-dogusu-45/register",
+  "gorsel": "https://www.igdir.edu.tr/web/image/57287-4cdbf880/1.jfif"
+ },
+ {
   "id": "eedbba2eb90a",
   "baslik": "Öğretmenler Günü Özel Söyleşisi",
   "tarih": "2026-11-23",

@@ -1,6 +1,6 @@
 {
  "il": "samsun",
- "guncelleme": "2026-11-24T16:36+03:00",
+ "guncelleme": "2026-11-25T15:26+03:00",
  "ilceler": [
   "Atakum",
   "Canik",
@@ -22,20 +22,20 @@
  ],
  "etkinlikler": [
   {
-   "id": "ddfad87d0842",
-   "baslik": "Okulumuz Orman",
+   "id": "3f22ccae41fd",
+   "baslik": "SPSS ile Veri Analizi Ölçek Çalışmalarında Geçerlik-Güvenirlik Analizi ve Güç (Power) Analizi Eğitim Programı",
    "tarih": "2026-11-25",
    "bitis": null,
-   "saat": "10:30",
-   "ilce": "İlkadım",
-   "mekan": "Samsun Devlet Opera ve Balesi · Zehra Yıldız Salonu",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Samsun Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/okulumuz-orman-samsun-dob",
-   "gorsel": "veri/gorsel/dob-samsun-2835.webp"
+   "saat": "10:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/egitim/spss-ile-veri-analizi-olcek-calismalarinda-gecerlik-guvenirlik",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/afis_43.jpeg"
   },
   {
    "id": "40a28358fe08",
@@ -68,6 +68,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/egitim/hemsirelik-egitiminde-program-degerlendirme-egitimi",
    "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/hemsirelik-egitiminde-program-degerlendirme-afis2026.jpg"
+  },
+  {
+   "id": "e7985659c5f1",
+   "baslik": "Fikirden Yayına",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/egitim/fikirden-yayina",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/fikirden_yayina.jpeg"
   },
   {
    "id": "ba7a5b480cfe",
@@ -166,6 +182,22 @@
    "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/afis_8.png"
   },
   {
+   "id": "4d47f4ef25cd",
+   "baslik": "Bağımlılık Kavramı Toplumsal Algı",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Panel",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/panel/bagimlilik-kavrami-toplumsal-algi",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/bagimlilik_kavrami.jpeg"
+  },
+  {
    "id": "c625e05b384f",
    "baslik": "La Boheme (2026)",
    "tarih": "2026-12-05",
@@ -230,6 +262,38 @@
    "gorsel": "veri/gorsel/dob-samsun-3306.webp"
   },
   {
+   "id": "f65ce3250526",
+   "baslik": "Türk Kanunu Medenisi’nin Kabulünün 100. Yılı Sempozyumu",
+   "tarih": "2026-12-10",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": "Sempozyum",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/sempozyum/turk-kanunu-medenisinin-kabulunun-100-yili-sempozyumu",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/afis_62.jpg"
+  },
+  {
+   "id": "b3868c450dfd",
+   "baslik": "Ondokuz Mayıs Üniversitesi Akademik ve İdari Personel Solistler Geçidi Konseri",
+   "tarih": "2026-12-10",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/konser/ondokuz-mayis-universitesi-akademik-ve-idari-personel-solistler",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/akademik_ve_idari_personel_solistler_gecidi_konseri.jpeg"
+  },
+  {
    "id": "f96733351c4e",
    "baslik": "La Boheme (2026)",
    "tarih": "2026-12-12",
@@ -292,6 +356,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/hanim-olan-hizmetci-samsun-dob",
    "gorsel": "veri/gorsel/dob-samsun-3306.webp"
+  },
+  {
+   "id": "782db73b614e",
+   "baslik": "Fındıkkıran",
+   "tarih": "2026-12-19",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "İlkadım",
+   "mekan": "Samsun Devlet Opera ve Balesi · Aydın Gün Salonu",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Samsun Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/findikkiran-samsun-dob",
+   "gorsel": null
   }
  ],
  "kaynaklar": [
@@ -299,7 +379,7 @@
    "ad": "Ondokuz Mayıs Üniversitesi",
    "tur": "universite",
    "url": "https://www.omu.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {

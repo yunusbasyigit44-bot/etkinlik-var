@@ -1,6 +1,6 @@
 {
  "il": "manisa",
- "guncelleme": "2026-11-24T16:32+03:00",
+ "guncelleme": "2026-11-25T15:21+03:00",
  "ilceler": [
   "Ahmetli",
   "Akhisar",
@@ -52,22 +52,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1294",
    "gorsel": "https://kultur.manisa.bel.tr/uploads/events/144fb3dd-4274-49f5-8c3e-97bf5f230971_MI%CC%87ZOJI%CC%87NI%CC%87-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
-  },
-  {
-   "id": "6e2d9bb09718",
-   "baslik": "24 Kasım Öğretmenler Günü Kutlama Programı",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Yunusemre",
-   "mekan": "MCBÜ Basri Koçyiğit Kültür Merkezi",
-   "kategori": "Anma / Tören",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/24-kasim-ogretmenler-gunu-kutlama-programi#baslangic",
-   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261123161512031-GJPF5.jpg"
   },
   {
    "id": "ca41ffc1e2b5",
@@ -148,6 +132,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://argeinv.mcbu.edu.tr/",
    "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261027112426373-65CXL.png"
+  },
+  {
+   "id": "e370acfbe8e5",
+   "baslik": "Gıda Güvenliği İlkeleri ve Standartları, Gıda Denetimleri ve Kontrolü",
+   "tarih": "2026-12-10",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Saruhanlı",
+   "mekan": "Saruhanlı Muharrem Ekici Gençlik Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/gida-guvenligi-ilkeleri-ve-standartlari-gida-denetimleri-ve-kontrolu#baslangic",
+   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261123142007419-M6E55.jpg"
   }
  ],
  "kaynaklar": [

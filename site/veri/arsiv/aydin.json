@@ -1,5 +1,21 @@
 [
  {
+  "id": "a2dd2d5083b2",
+  "baslik": "Öğretmenlik Bir Yaşam Yolculuğudur",
+  "tarih": "2026-11-24",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Efeler",
+  "mekan": "Atatürk Kongre Merkezi İsabey Salonu",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Söyleşi",
+  "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://haber.adu.edu.tr/etkinlik/ogretmenlik-bir-yasam-yolculugudur-2000148816",
+  "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261120151600-MRETMENLERGNETKINLII-000047630660769614853304.png"
+ },
+ {
   "id": "5fcafaa1df30",
   "baslik": "Ticari Pilot Eğitimleri Başlıyor",
   "tarih": "2026-11-20",

@@ -1,5 +1,21 @@
 [
  {
+  "id": "0db3cafb6e8e",
+  "baslik": "Keşanlı Ali Destanı",
+  "tarih": "2026-11-24",
+  "bitis": null,
+  "saat": "19:00",
+  "ilce": "Melikgazi",
+  "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kesanli-ali-destani",
+  "gorsel": null
+ },
+ {
   "id": "3a068543aa0a",
   "baslik": "Masal Gülleri",
   "tarih": "2026-11-22",

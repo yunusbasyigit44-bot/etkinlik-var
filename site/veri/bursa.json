@@ -1,6 +1,6 @@
 {
  "il": "bursa",
- "guncelleme": "2026-11-24T16:20+03:00",
+ "guncelleme": "2026-11-25T15:08+03:00",
  "ilceler": [
   "Büyükorhan",
   "Gemlik",
@@ -134,38 +134,6 @@
    "gorsel": null
   },
   {
-   "id": "d1da0e1e0154",
-   "baslik": "TÖMER öğretmenler günü",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Ali Sürmen Salon (G Blok Zemin Kat)",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bursa Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12759/t%C3%B6mer-%C3%B6%C4%9Fretmenler-g%C3%BCn%C3%BC",
-   "gorsel": null
-  },
-  {
-   "id": "54e8470535a8",
-   "baslik": "Kan ve Sultan",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Osmangazi",
-   "mekan": "Ahmet Vefik Paşa Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kan-ve-sultan",
-   "gorsel": "veri/gorsel/dt-kan-ve-sultan.webp"
-  },
-  {
    "id": "151a27932990",
    "baslik": "İşkur Gençlik Programı kapsamında Fakültemizde çalıştırılan öğrencilere İş Sağlığı ve Güvenliği Eğitimi verilmesi",
    "tarih": "2026-11-25",
@@ -182,19 +150,19 @@
    "gorsel": null
   },
   {
-   "id": "5ac343b411c0",
-   "baslik": "Btu sıam öğrenci topluluğu tanıtım etkinliği",
+   "id": "da0f1ff63926",
+   "baslik": "İŞKUR Kursiyerlerine İş Sağlığı ve Güvenliği eğitimi",
    "tarih": "2026-11-25",
    "bitis": null,
-   "saat": "10:00",
+   "saat": "09:00",
    "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Erguvan Salon (A Blok Zemin Kat)",
-   "kategori": "Gençlik",
+   "mekan": "Yıldırım Bayezid Yerleşkesi Kırmızı Salon (A Blok Zemin Kat)",
+   "kategori": "Kariyer",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Bursa Teknik Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12773/btu-s%C4%B1am-%C3%B6%C4%9Frenci-toplulu%C4%9Fu-tan%C4%B1t%C4%B1m-etkinli%C4%9Fi",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12915/i%CC%87%C5%9Fkur-kursiyerlerine-i%CC%87%C5%9F-sa%C4%9Fl%C4%B1%C4%9F%C4%B1-ve-g%C3%BCvenli%C4%9Fi-e%C4%9Fitimi",
    "gorsel": null
   },
   {
@@ -214,19 +182,19 @@
    "gorsel": null
   },
   {
-   "id": "90aed30bbb6f",
-   "baslik": "TÜBİTAK 4004, 4005 ve 4008 Destek Programları Bilgilendirme Semineri",
+   "id": "5ac343b411c0",
+   "baslik": "Btu sıam öğrenci topluluğu tanıtım etkinliği",
    "tarih": "2026-11-25",
    "bitis": null,
-   "saat": "14:00",
+   "saat": "10:00",
    "ilce": "Yıldırım",
-   "mekan": "Mimar Sinan Yerleşkesi Yeşil Salon (A Blok 2. Kat)",
-   "kategori": "Söyleşi",
+   "mekan": "Mimar Sinan Yerleşkesi Erguvan Salon (A Blok Zemin Kat)",
+   "kategori": "Gençlik",
    "ucretsiz": true,
    "ozet": null,
    "kaynak_ad": "Bursa Teknik Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12789/t%C3%BCbi%CC%87tak-4004-4005-ve-4008-destek-programlar%C4%B1-bilgilendirme-semineri",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12773/btu-s%C4%B1am-%C3%B6%C4%9Frenci-toplulu%C4%9Fu-tan%C4%B1t%C4%B1m-etkinli%C4%9Fi",
    "gorsel": null
   },
   {
@@ -371,6 +339,38 @@
    "kaynak_ad": "Bursa Teknik Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12724/makine-laboratuvar%C4%B1-i-dersi-proje-oryantasyonu",
+   "gorsel": null
+  },
+  {
+   "id": "439c5934370f",
+   "baslik": "Güvenli ve Erişilebilir Yaşam Atölyesi",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Yıldırım",
+   "mekan": "Yıldırım Bayezid Yerleşkesi Kırmızı Salon (A Blok Zemin Kat)",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12791/g%C3%BCvenli-ve-eri%C5%9Filebilir-ya%C5%9Fam-at%C3%B6lyesi",
+   "gorsel": null
+  },
+  {
+   "id": "5a2ea2831fd5",
+   "baslik": "TÜBİTAK 4004, 4005 ve 4008 Destek Programları Bilgilendirme Semineri",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Yıldırım",
+   "mekan": "Mimar Sinan Yerleşkesi Yeşil Salon (A Blok 2. Kat)",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bursa Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://btu.edu.tr/tr/etkinlik/detay/12788/t%C3%BCbi%CC%87tak-4004-4005-ve-4008-destek-programlar%C4%B1-bilgilendirme-semineri",
    "gorsel": null
   },
   {
@@ -843,14 +843,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 32,
+   "etkinlik_sayisi": 31,
    "durum": "çalışıyor"
   },
   {
    "ad": "Bursa Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://btu.edu.tr/tr/etkinlik",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {

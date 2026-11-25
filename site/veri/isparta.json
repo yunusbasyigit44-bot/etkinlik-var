@@ -1,6 +1,6 @@
 {
  "il": "isparta",
- "guncelleme": "2026-11-24T16:26+03:00",
+ "guncelleme": "2026-11-25T15:15+03:00",
  "ilceler": [
   "Merkez",
   "Aksu",
@@ -18,28 +18,60 @@
  ],
  "etkinlikler": [
   {
-   "id": "46427af48fc3",
-   "baslik": "Mevlânâ Ekonomi Kongresi",
-   "tarih": "2026-11-24",
+   "id": "fe1561a0c424",
+   "baslik": "NOKTA: Ortak Veri Analizi ve Bilimsel Çalışmalar",
+   "tarih": "2026-11-25",
    "bitis": null,
    "saat": null,
    "ilce": "Merkez",
-   "mekan": "Isparta Uygulamalı Bilimler Üniversitesi",
-   "kategori": "Akademik",
+   "mekan": "Çevrim İçi",
+   "kategori": "Atölye",
    "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Isparta Uygulamalı Bilimler Üniversitesi",
+   "ozet": "Workshop",
+   "kaynak_ad": "Süleyman Demirel Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.iste.edu.tr/etkinlik-merkezi/2026/11/24/933",
-   "gorsel": "https://www.iste.edu.tr/gallery/_etkinlik_thumb/933_event_1789571256.jpeg"
+   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=1A106E56-48BD-2FF9-8014-3A25051887EA"
+  },
+  {
+   "id": "f252e910ca50",
+   "baslik": "Spor Bilimleri Fakültesi Kaynaşma Günleri",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "SPOR BİLİMLERİ FAKÜLTESİ BATI SPOR SALONU VE TENİS KORTLARI",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": "Sportif Faaliyet",
+   "kaynak_ad": "Süleyman Demirel Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=E0E05CE3-2E64-7DB1-0070-3A2523A4FFE2"
+  },
+  {
+   "id": "a7874f85de6e",
+   "baslik": "SPAXDU – Bilim ve Uzay Temalı Sosyal Sorumluluk ve Çocuklarla Etkileşim Etkinliği",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Keçiborlu",
+   "mekan": "Saracık ilkokulu Keçiborlu / Isparta",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": "Sosyal Sorumluluk",
+   "kaynak_ad": "Süleyman Demirel Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=DAF83BF7-B93C-4DDF-D46D-3A2520273B63"
   }
  ],
  "kaynaklar": [
   {
-   "ad": "Isparta Uygulamalı Bilimler Üniversitesi",
+   "ad": "Süleyman Demirel Üniversitesi",
    "tur": "universite",
-   "url": "https://www.iste.edu.tr/etkinlik-merkezi",
-   "etkinlik_sayisi": 1,
+   "url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {
@@ -71,6 +103,13 @@
    "durum": "sayfa genel bilgi içeriyor; tarihli etkinlik takvimi yok"
   },
   {
+   "ad": "Isparta Uygulamalı Bilimler Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.iste.edu.tr/etkinlik-merkezi",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
+  },
+  {
    "ad": "Isparta Valiliği ve ilçe kaymakamlıkları",
    "tur": "valilik",
    "url": "https://www.isparta.gov.tr",
@@ -90,13 +129,6 @@
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "çoğu sadece Instagram'da duyuruyor — 'Etkinliğini ekle' formu ile toplanacak"
-  },
-  {
-   "ad": "Süleyman Demirel Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Yıllık festivaller (Gül Festivali, Eğirdir Elma, Yalvaç Antiocheia…)",

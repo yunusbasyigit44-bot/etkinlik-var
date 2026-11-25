@@ -1,6 +1,6 @@
 {
  "il": "van",
- "guncelleme": "2026-11-24T16:38+03:00",
+ "guncelleme": "2026-11-25T15:28+03:00",
  "ilceler": [
   "İpekyolu",
   "Tuşba",
@@ -17,22 +17,6 @@
   "Saray"
  ],
  "etkinlikler": [
-  {
-   "id": "6fd961d1144e",
-   "baslik": "İbiş'in Rüyası",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "İpekyolu",
-   "mekan": "Van Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ibisin-ruyasi",
-   "gorsel": "veri/gorsel/dt-ibisin-ruyasi.webp"
-  },
   {
    "id": "04f4d65ffa5e",
    "baslik": "Papağan Kaçtı",
@@ -242,8 +226,8 @@
    "gorsel": "veri/gorsel/dt-papagan-kacti.webp"
   },
   {
-   "id": "66dc31ada7e9",
-   "baslik": "Büyük İskender'in Atı",
+   "id": "d663d610f16c",
+   "baslik": "İbiş'in Rüyası",
    "tarih": "2026-12-10",
    "bitis": null,
    "saat": "19:30",
@@ -254,12 +238,12 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buyuk-iskenderin-ati",
-   "gorsel": "veri/gorsel/dt-buyuk-iskenderin-ati.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ibisin-ruyasi",
+   "gorsel": "veri/gorsel/dt-ibisin-ruyasi.webp"
   },
   {
-   "id": "216b6279f874",
-   "baslik": "Büyük İskender'in Atı",
+   "id": "3ed2986b7bdb",
+   "baslik": "İbiş'in Rüyası",
    "tarih": "2026-12-11",
    "bitis": null,
    "saat": "19:30",
@@ -270,12 +254,12 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buyuk-iskenderin-ati",
-   "gorsel": "veri/gorsel/dt-buyuk-iskenderin-ati.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ibisin-ruyasi",
+   "gorsel": "veri/gorsel/dt-ibisin-ruyasi.webp"
   },
   {
-   "id": "577fea9a1d07",
-   "baslik": "Büyük İskender'in Atı",
+   "id": "f124aeb9213b",
+   "baslik": "İbiş'in Rüyası",
    "tarih": "2026-12-12",
    "bitis": null,
    "saat": "14:00",
@@ -286,12 +270,12 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buyuk-iskenderin-ati",
-   "gorsel": "veri/gorsel/dt-buyuk-iskenderin-ati.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ibisin-ruyasi",
+   "gorsel": "veri/gorsel/dt-ibisin-ruyasi.webp"
   },
   {
-   "id": "f0d12f467ddc",
-   "baslik": "Büyük İskender'in Atı",
+   "id": "25c7816bcb41",
+   "baslik": "İbiş'in Rüyası",
    "tarih": "2026-12-12",
    "bitis": null,
    "saat": "19:30",
@@ -302,8 +286,8 @@
    "ozet": "Devlet Tiyatroları",
    "kaynak_ad": "Devlet Tiyatroları",
    "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/buyuk-iskenderin-ati",
-   "gorsel": "veri/gorsel/dt-buyuk-iskenderin-ati.jpg"
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ibisin-ruyasi",
+   "gorsel": "veri/gorsel/dt-ibisin-ruyasi.webp"
   },
   {
    "id": "d7c78acc7ade",
@@ -327,7 +311,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "kirsehir",
- "guncelleme": "2026-11-24T16:30+03:00",
+ "guncelleme": "2026-11-25T15:19+03:00",
  "ilceler": [
   "Merkez",
   "Akçakent",
@@ -11,22 +11,6 @@
   "Mucur"
  ],
  "etkinlikler": [
-  {
-   "id": "47ababafb111",
-   "baslik": "Zamana Sığmayan Şarkılar Konseri",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Merkez",
-   "mekan": "Kırşehir Belediyesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırşehir Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.kirsehir.bel.tr/etkinlikler/zamana-sigmayan-sarkilar-konseri",
-   "gorsel": "https://www.kirsehir.bel.tr/storage/events/3k7cHJpGaCUjwKS0K3wi3ICRqRwxtpwLenFWjHng.jpg"
-  },
   {
    "id": "a77370b64e6e",
    "baslik": "Söyleşi \"Ali Koç\"",
@@ -65,7 +49,7 @@
    "ad": "Kırşehir Belediyesi",
    "tur": "belediye",
    "url": "https://www.kirsehir.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

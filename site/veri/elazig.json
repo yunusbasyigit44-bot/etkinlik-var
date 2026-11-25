@@ -1,6 +1,6 @@
 {
  "il": "elazig",
- "guncelleme": "2026-11-24T16:21+03:00",
+ "guncelleme": "2026-11-25T15:10+03:00",
  "ilceler": [
   "Merkez",
   "Ağın",
@@ -63,7 +63,7 @@
    "tur": "universite",
    "url": "https://www.firat.edu.tr/page/event",
    "etkinlik_sayisi": 0,
-   "durum": "hata: <urlopen error timed out>"
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Gençlik ve Spor İl Müdürlüğü, İl MEB",

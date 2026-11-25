@@ -1,6 +1,6 @@
 {
  "il": "aydin",
- "guncelleme": "2026-11-24T16:18+03:00",
+ "guncelleme": "2026-11-25T15:07+03:00",
  "ilceler": [
   "Efeler",
   "Bozdoğan",
@@ -21,22 +21,6 @@
   "Yenipazar"
  ],
  "etkinlikler": [
-  {
-   "id": "a2dd2d5083b2",
-   "baslik": "Öğretmenlik Bir Yaşam Yolculuğudur",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Efeler",
-   "mekan": "Atatürk Kongre Merkezi İsabey Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Söyleşi",
-   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/ogretmenlik-bir-yasam-yolculugudur-2000148816",
-   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261120151600-MRETMENLERGNETKINLII-000047630660769614853304.png"
-  },
   {
    "id": "cc0f822a28d6",
    "baslik": "Para Yönetimi ve Temel Borsa Eğitimi",
@@ -331,7 +315,7 @@
    "ad": "Aydın Adnan Menderes Üniversitesi",
    "tur": "universite",
    "url": "https://haber.adu.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {

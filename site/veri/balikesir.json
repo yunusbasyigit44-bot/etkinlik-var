@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-24T16:18+03:00",
+ "guncelleme": "2026-11-25T15:07+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -25,36 +25,36 @@
  ],
  "etkinlikler": [
   {
-   "id": "d1976c1009b8",
-   "baslik": "Öğretmenler Günü Etkinliği",
-   "tarih": "2026-11-24",
+   "id": "4686f3de0d92",
+   "baslik": "Turizm Yüzyılı Paneli",
+   "tarih": "2026-11-25",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Altıeylül",
+   "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Basin",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_1_1795528358.jpeg"
+  },
+  {
+   "id": "07d9eab9d60e",
+   "baslik": "Turizm Yüzyılı Paneli",
+   "tarih": "2026-11-25",
    "bitis": null,
    "saat": "11:00",
    "ilce": "Altıeylül",
-   "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi Dumlupınar Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Hukuk Fakültesi̇",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_%C3%96%C4%9Fretmenler_G%C3%BCn%C3%BC_Etkinli%C4%9Fi_1795067396.jpeg"
-  },
-  {
-   "id": "7252dcccf210",
-   "baslik": "Müdür Öğrenci Buluşması",
-   "tarih": "2026-11-24",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Edremit",
-   "mekan": "Altınoluk Meslek Yüksekokulu",
+   "mekan": "Balıkesir Üniversitesi Atatürk kongre kültür",
    "kategori": "Söyleşi",
    "ucretsiz": true,
-   "ozet": "Altinoluk Meslek Yüksekokulu",
+   "ozet": "Basin",
    "kaynak_ad": "Balıkesir Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-19_at_13.52.34_1795086404.jpeg"
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_582a6cf7-29b4-4186-ae87-6bbd18d3e111_1795538674.jpeg"
   },
   {
    "id": "2ec7f1a54cb7",
@@ -121,6 +121,22 @@
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_espor_etkinli%C4%9Fi_1795175846.jpeg"
   },
   {
+   "id": "59e8ec7af849",
+   "baslik": "Ünilig Voleybol Türkiye Şampiyonası Müsabakaları",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Altıeylül",
+   "mekan": "Burhan Erdayı Spor Salonu",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": "Sağlik Kültür Ve Spor Daire Başkanliği",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-25_at_09.13.09_1795587715.jpeg"
+  },
+  {
    "id": "3f19c60803c8",
    "baslik": "Green Coast Hotel – MGallery ile Uluslararası Kariyer Günü",
    "tarih": "2026-12-01",
@@ -135,6 +151,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_1794388822810_1794403156.png"
+  },
+  {
+   "id": "2d1b1d2b100f",
+   "baslik": "ETA Ticari Programlar Eğitimi Sertifika Töreni",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "15:30",
+   "ilce": "Altıeylül",
+   "mekan": "Kırmızı Salon",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": "Burhani̇ye Uygulamali Bi̇li̇mler Fakültesi̇",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_ETA_Bilgisayar_G%C3%B6nderisi_1795587199.jpeg"
+  },
+  {
+   "id": "9928f4b834f9",
+   "baslik": "4. Balıkesir Psikoloji Sempozyumu",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Altıeylül",
+   "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": "Sağlik Kültür Ve Spor Daire Başkanliği",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-18_at_17.10.08_1795602020.jpeg"
   },
   {
    "id": "9a2c2fea63b2",
@@ -206,7 +254,7 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {
