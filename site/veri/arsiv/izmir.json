@@ -1,5 +1,37 @@
 [
  {
+  "id": "6f5d3db3b595",
+  "baslik": "Bir Düş Gibi (Cahide Sonku)",
+  "tarih": "2026-11-25",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Karşıyaka",
+  "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bir-dus-gibi-cahide-sonku",
+  "gorsel": null
+ },
+ {
+  "id": "5250d29b7f5e",
+  "baslik": "Bağdat Rüzgarında Dokuz Kadın",
+  "tarih": "2026-11-25",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Bornova",
+  "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bagdat-ruzgarinda-dokuz-kadin",
+  "gorsel": null
+ },
+ {
   "id": "6b521342a64f",
   "baslik": "24 Kasım Öğretmenler Günü Konseri",
   "tarih": "2026-11-24",

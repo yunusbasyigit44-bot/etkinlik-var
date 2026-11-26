@@ -1,5 +1,37 @@
 [
  {
+  "id": "65d9f6bc8340",
+  "baslik": "Profesyonelotel Yöneticileri Geleceğin Şeflerinden Neler Bekliyor?",
+  "tarih": "2026-11-25",
+  "bitis": null,
+  "saat": "10:30",
+  "ilce": "Merkez",
+  "mekan": "ADYÜ Merkezi Araştırma Laboratuvarı Konferans Salonu",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Adıyaman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/25/profesyonelotel-yoneticileri-gelecegin-seflerinden-neler-bekliyor",
+  "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/25/profesyonelotel-yoneticileri-gelecegin-seflerinden-neler-bekliyo/thumb/gastronomi%C5%9Fef.jpg"
+ },
+ {
+  "id": "3ecbda7fb3ee",
+  "baslik": "Duyulmayanı Duy",
+  "tarih": "2026-11-25",
+  "bitis": null,
+  "saat": "13:30",
+  "ilce": "Merkez",
+  "mekan": "Mustafa V. Koç Konferans Salonu",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Adıyaman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/25/duyulmayani-duy",
+  "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/25/duyulmayani-duy/thumb/kad%C4%B1na%20y%C3%B6nelik%20%C5%9Fiddet.jpg"
+ },
+ {
   "id": "ef6a6eee1973",
   "baslik": "Ulusal Çevrimiçi Karma Sergi",
   "tarih": "2026-11-24",

@@ -1,5 +1,37 @@
 [
  {
+  "id": "067902cf5532",
+  "baslik": "Sel Ve Taskin Egitimi",
+  "tarih": "2026-11-25",
+  "bitis": null,
+  "saat": "13:00",
+  "ilce": "Merkez",
+  "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4173",
+  "gorsel": null
+ },
+ {
+  "id": "9b9ce229d716",
+  "baslik": "Panel",
+  "tarih": "2026-11-25",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Merkez",
+  "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4174",
+  "gorsel": null
+ },
+ {
   "id": "18c74a9576b3",
   "baslik": "Sergi",
   "tarih": "2026-11-24",

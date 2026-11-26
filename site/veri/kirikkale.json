@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-25T15:29+03:00",
+ "guncelleme": "2026-11-26T15:15+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -13,38 +13,6 @@
   "Yahşihan"
  ],
  "etkinlikler": [
-  {
-   "id": "9f30621ceb34",
-   "baslik": "13.Çeviri Çalıştayı",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yahşihan",
-   "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırıkkale Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10104",
-   "gorsel": null
-  },
-  {
-   "id": "ed865732dbeb",
-   "baslik": "Geleceğin Ekonomistleri Yarışıyor",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yahşihan",
-   "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırıkkale Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10095",
-   "gorsel": null
-  },
   {
    "id": "ef891d7bc116",
    "baslik": "26 Kasım'da Standımız Açılıyor",
@@ -94,6 +62,22 @@
    "gorsel": null
   },
   {
+   "id": "59e845a77a43",
+   "baslik": "Sporda Engel Yoktur: \"Özel Eğitim ve Farkındalık\" Söyleşisi",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10107",
+   "gorsel": null
+  },
+  {
    "id": "002f0cc1c2f9",
    "baslik": "Kur'an ve İnsan \"İnsanı İnşa Eden İlahi Rehber\"",
    "tarih": "2026-11-30",
@@ -139,6 +123,22 @@
    "kaynak_ad": "Kırıkkale Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10105",
+   "gorsel": null
+  },
+  {
+   "id": "253fb669e55f",
+   "baslik": "Günümüz Penceresinden Egzotik Kuş Hekimliği",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10108",
    "gorsel": null
   },
   {

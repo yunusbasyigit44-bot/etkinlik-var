@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-25T15:06+03:00",
+ "guncelleme": "2026-11-26T14:54+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -23,86 +23,6 @@
   "Serik"
  ],
  "etkinlikler": [
-  {
-   "id": "f7b0a9e5ef00",
-   "baslik": "Kariyer ve Sektör Buluşmaları",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Döşemealtı",
-   "mekan": "Antalya Bilim Üniversitesi",
-   "kategori": "Kariyer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Antalya Bilim Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/kariyer-ve-sektor-bulusmalari",
-   "gorsel": null
-  },
-  {
-   "id": "861e7abaf89e",
-   "baslik": "Therese Raquin (Bir Cinayetin Anatomisi)",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/therese-raquin-bir-cinayetin-anatomisi",
-   "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
-  },
-  {
-   "id": "be8e3fc97254",
-   "baslik": "Kumluca Meslek Yüksekokulu “Ben Mezunum, Bana Sor!” Etkinliği",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Kumluca Meslek Yüksekokulu Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/kumluca_meslek_yuksekokulu_%E2%80%9Cben_mezunum_bana_sor%E2%80%9D_etkinligi_-5808",
-   "gorsel": null
-  },
-  {
-   "id": "c95172479b99",
-   "baslik": "Antalya Teknokent Techgreen Demoday Etkinliği Başlıyor!",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Anfaş Fuar Merkezi, Büyük Salon",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/antalya_teknokent_techgreen_demoday_etkinligi_basliyor-5807",
-   "gorsel": null
-  },
-  {
-   "id": "bb20d660377b",
-   "baslik": "9. Bitki Islahı Proje Pazarı Başlıyor!",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, ANFAŞ Fuar Merkezi, Büyük Salon",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/9__bitki_islahi_proje_pazari_basliyor-5806",
-   "gorsel": null
-  },
   {
    "id": "97679efb6436",
    "baslik": "Fındıkkıran",
@@ -136,6 +56,38 @@
    "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
   },
   {
+   "id": "68fa9565054a",
+   "baslik": "Atatürk İlkeleri ve İnkılâp Tarihi Araştırma ve Uygulama Merkezi, Seminer Programı",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Atatürk İlkeleri ve İnkılâp Tarihi Araştırma ve Uygulama Merkezi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/ataturk_ilkeleri_ve_inkil%C3%A2p_tarihi_arastirma_ve_uygulama_merkezi_seminer_programi_-5811",
+   "gorsel": null
+  },
+  {
+   "id": "ffd69776bf79",
+   "baslik": "Sağlık Hizmetleri Meslek Yüksekokulu \"Ben Mezunum Bana Sor\" Etkinliği",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Sağlık Hizmetleri Meslek Yüksekokulu, 109 Nolu Sınıf",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/saglik_hizmetleri_meslek_yuksekokulu_ben_mezunum_bana_sor_etkinligi_-5810",
+   "gorsel": null
+  },
+  {
    "id": "ce1091638669",
    "baslik": "2. Akdeniz Üniversitesi Edebiyat Fakültesi Kazı ve Yüzey Araştırmaları Sempozyumu",
    "tarih": "2026-11-26",
@@ -166,6 +118,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/therese-raquin-bir-cinayetin-anatomisi",
    "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
+  },
+  {
+   "id": "13f2ca066dbb",
+   "baslik": "Kadın Çalışmaları ve Toplumsal Cinsiyet Araştırma ve Uygulama Merkezi “Kadrajda Umut Var” Fotoğraf Yarışması Ödül Töreni",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Akdeniz Üniversitesi, Edebiyat Fakültesi Kaşgarlı Mahmut Konferans Salonu",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/kadin_calismalari_ve_toplumsal_cinsiyet_arastirma_ve_uygulama_merkezi_%E2%80%9Ckadrajda_umut_var%E2%80%9D_fotograf_yarismasi_odul_toreni-5812",
+   "gorsel": null
   },
   {
    "id": "d423b2e28202",
@@ -685,7 +653,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 26,
+   "etkinlik_sayisi": 25,
    "durum": "çalışıyor"
   },
   {
@@ -706,7 +674,7 @@
    "ad": "Antalya Bilim Üniversitesi",
    "tur": "universite",
    "url": "https://www.antalya.edu.tr/tr/etkinlik-takvimi",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

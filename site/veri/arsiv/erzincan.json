@@ -1,5 +1,37 @@
 [
  {
+  "id": "9b36a12bf626",
+  "baslik": "Tanıtım ve Bilgilendirme Toplantısı",
+  "tarih": "2026-11-25",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Merkez",
+  "mekan": "Prof. Dr. Erdoğan Büyükkasap Kongre ve Kültür Merkezi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": "Eğitim",
+  "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://ebyu.edu.tr/etkinlik/tanitim-ve-bilgilendirme-toplantisi/",
+  "gorsel": null
+ },
+ {
+  "id": "394acf27bca5",
+  "baslik": "Kadına Yönelik Şiddetin Görünmeyen Boyutları",
+  "tarih": "2026-11-25",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Merkez",
+  "mekan": "Prof. Dr. Erdoğan Büyükkasap Kongre ve Kültür Merkezi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Panel",
+  "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://ebyu.edu.tr/etkinlik/kadina-yonelik-siddetin-gorunmeyen-boyutlari/",
+  "gorsel": null
+ },
+ {
   "id": "d8615217fbde",
   "baslik": "Ahıska Türkleri: İki Asırlık Oratoryo",
   "tarih": "2026-11-13",

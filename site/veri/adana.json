@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-25T15:02+03:00",
+ "guncelleme": "2026-11-26T14:50+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -34,70 +34,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.atu.edu.tr",
    "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/241120261441_K_1_ff95ede1-ed72-40f1-809a-e9e4159e8910.jpg"
-  },
-  {
-   "id": "17b97f01c674",
-   "baslik": "Sacred Spaces and Cultural Dialogue",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Sarıçam",
-   "mekan": "Yusuf Has Hacib Kütüphanesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Etkinlik",
-   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/251120261135_K_1_07965312-dc76-4ba1-b411-e7a67a8638d8.jpg"
-  },
-  {
-   "id": "335b6ab89198",
-   "baslik": "Devlet Ana",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
-   "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
-  },
-  {
-   "id": "e0a320228382",
-   "baslik": "Memluk Devleti, Tarih - Siyaset - Kültür ve Sanat",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Sarıçam",
-   "mekan": "Çukurova Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çukurova Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cu.edu.tr/haber-detay/memluk-devleti-tarih-siyaset-kultur-ve-sanat/",
-   "gorsel": "https://www.cu.edu.tr/media/lhqha2jj/cutam_kasim_2026_programi_sayfa_4.jpg"
-  },
-  {
-   "id": "207ace843f54",
-   "baslik": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Sarıçam",
-   "mekan": "Çukurova Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çukurova Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cu.edu.tr/haber-detay/25-kasim-kadina-yonelik-siddete-karsi-uluslararasi-mucadele-gunu-1/",
-   "gorsel": "https://www.cu.edu.tr/media/3etf5mfb/whatsapp-image-2026-11-18-at-17-42-19.jpeg"
   },
   {
    "id": "c44fa4476abb",
@@ -660,22 +596,6 @@
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
   },
   {
-   "id": "40718bb40f1d",
-   "baslik": "Geçmem Gerek",
-   "tarih": "2026-12-26",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/gecmem_gerek.jpg"
-  },
-  {
    "id": "7b8661f3edda",
    "baslik": "Karanlıkta Komedi",
    "tarih": "2026-12-26",
@@ -690,6 +610,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
+  },
+  {
+   "id": "40718bb40f1d",
+   "baslik": "Geçmem Gerek",
+   "tarih": "2026-12-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Seyhan",
+   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
+   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/gecmem_gerek.jpg"
   },
   {
    "id": "d76879f68fb7",
@@ -752,21 +688,21 @@
    "ad": "Devlet Tiyatroları Adana",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
-   "etkinlik_sayisi": 10,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {
    "ad": "Çukurova Üniversitesi",
    "tur": "universite",
    "url": "https://www.cu.edu.tr",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

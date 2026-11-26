@@ -1,6 +1,6 @@
 {
  "il": "izmir",
- "guncelleme": "2026-11-25T15:18+03:00",
+ "guncelleme": "2026-11-26T15:04+03:00",
  "ilceler": [
   "Aliağa",
   "Balçova",
@@ -65,6 +65,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-09-04/12e29244-550e-4f28-bdf2-3851db07fca9-yiqiqiro.jpg"
+  },
+  {
+   "id": "e54d394169c6",
+   "baslik": "İki Akıntı Arasında",
+   "tarih": "2026-07-17",
+   "bitis": "2026-12-31",
+   "saat": null,
+   "ilce": "Karşıyaka",
+   "mekan": "Karşıyaka İskele Galeri",
+   "kategori": "Sergi",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanat.izmir.bel.tr/",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-07-29/78da84ce-6730-40a5-b0a5-d005f53a8342-e42vxc1e.jpeg"
   },
   {
    "id": "236a23a3e38b",
@@ -225,38 +241,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
    "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-05/589789e2-aca8-402f-ad0c-f012eec7f095-i1rghpwn.jpeg"
-  },
-  {
-   "id": "6f5d3db3b595",
-   "baslik": "Bir Düş Gibi (Cahide Sonku)",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Karşıyaka",
-   "mekan": "Karşıyaka Ragıp Haykır Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bir-dus-gibi-cahide-sonku",
-   "gorsel": "veri/gorsel/dt-bir-dus-gibi-cahide-sonku.jpg"
-  },
-  {
-   "id": "5250d29b7f5e",
-   "baslik": "Bağdat Rüzgarında Dokuz Kadın",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Bornova",
-   "mekan": "Bornova Kültür ve Sanat Merkezi Bozkurt Kuruç Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bagdat-ruzgarinda-dokuz-kadin",
-   "gorsel": "veri/gorsel/dt-bagdat-ruzgarinda-dokuz-kadin.webp"
   },
   {
    "id": "0cb5f8028e55",
@@ -1504,7 +1488,7 @@
    "kaynak_ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanat.izmir.bel.tr/",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-25/e7641c25-0963-4434-ad71-e027c3d3854d-rgtwdbej.jpg"
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-25/dd8f9631-60b4-4d6c-9ecd-de467482eb7a-fric5kmh.jpg"
   },
   {
    "id": "5b38a5aa6108",
@@ -1576,14 +1560,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 48,
+   "etkinlik_sayisi": 46,
    "durum": "çalışıyor"
   },
   {
    "ad": "İzmir Büyükşehir Kültür Sanat (İzmir Sanat, Şehir Tiyatroları, AASSM, Elhamra)",
    "tur": "belediye",
    "url": "https://kultursanat.izmir.bel.tr/",
-   "etkinlik_sayisi": 40,
+   "etkinlik_sayisi": 41,
    "durum": "çalışıyor"
   },
   {

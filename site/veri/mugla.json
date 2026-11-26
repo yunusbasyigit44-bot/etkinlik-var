@@ -1,6 +1,6 @@
 {
  "il": "mugla",
- "guncelleme": "2026-11-25T15:23+03:00",
+ "guncelleme": "2026-11-26T15:10+03:00",
  "ilceler": [
   "Bodrum",
   "Dalaman",
@@ -34,54 +34,6 @@
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
   },
   {
-   "id": "70798a30bd16",
-   "baslik": "Bölüm Başkanı & Öğrenci Buluşması",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "15:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/bolum-baskani--ogrenci-bulusmasi-4729",
-   "gorsel": null
-  },
-  {
-   "id": "0d2dff63178d",
-   "baslik": "Mumcular Ateş Cambaz Sosyal Yaşam ve Etkinlik Merkezi Açılışı",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Bodrum",
-   "mekan": "Karaova Mumcular Mahallesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bodrum Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2843/Acilis-Mumcular_Ates_Cambaz_Sosyal_Yasam_ve_Etkinlik_Merkezi_Acilisi",
-   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2843_1795597148.4129.JPG"
-  },
-  {
-   "id": "380f9667f5ac",
-   "baslik": "Mezun & Öğrenci Buluşması",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mezun--ogrenci-bulusmasi-4705",
-   "gorsel": null
-  },
-  {
    "id": "e4a2b1620a9b",
    "baslik": "5. Geleneksel Satranç Turnuvası",
    "tarih": "2026-11-26",
@@ -95,54 +47,6 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/5_-geleneksel-satranc-turnuvasi--4742",
-   "gorsel": null
-  },
-  {
-   "id": "d436d3735fb0",
-   "baslik": "Yapay Zeka Okuryazarlığı: Öğrenci Hakları ve Yapay Zeka Pratikleri",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/yapay-zeka-okuryazarligi--ogrenci-haklari-ve-yapay-zeka-pratikleri-4724",
-   "gorsel": null
-  },
-  {
-   "id": "26a5b451421a",
-   "baslik": "Müdür & Öğrenci Buluşması",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "10:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/mudur--ogrenci-bulusmasi-4728",
-   "gorsel": null
-  },
-  {
-   "id": "688da60d2223",
-   "baslik": "Yapay Zeka Okuryazarlığı: Öğrenci Hakları ve Yapay Zeka Pratikleri",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Bilim & Teknoloji",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/yapay-zeka-okuryazarligi--ogrenci-haklari-ve-yapay-zeka-pratikleri-4725",
    "gorsel": null
   },
   {
@@ -226,6 +130,22 @@
    "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/no-img.jpg"
   },
   {
+   "id": "d58cf48337ac",
+   "baslik": "Girelbelen Köyü – Bodrum Belediyesi Kültür ve Doğa Yürüyüşü",
+   "tarih": "2026-11-29",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Bodrum",
+   "mekan": "Buluşma Noktası: Gaz Deresi, Sariye - Saffet Çebi Cami Önü",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Bodrum Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2844/Gezi-Girelbelen_Koyu_%E2%80%93_Bodrum_Belediyesi_Kultur_ve_Doga_Yuruyusu",
+   "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2844_1795611875.331.jpeg"
+  },
+  {
    "id": "31ac2f0305ab",
    "baslik": "Türkiye Ormancılığının Dünü, Bugünü, Yarını",
    "tarih": "2026-11-30",
@@ -258,22 +178,6 @@
    "gorsel": null
   },
   {
-   "id": "32744ff77180",
-   "baslik": "İklim Değişikliği Altında Köyceğiz'de Orman Yangınlarının Ekolojik Bilançosu: Akköprü ve Çayhisar Yangınları Üzerine Değerlendirmeler",
-   "tarih": "2026-11-30",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Menteşe",
-   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/iklim-degisikligi-altinda-koycegizde-orman-yanginlarinin-ekolojik-bilancosu--akkopru-ve-cayhisar-yanginlari-uzerine-degerlendirmeler-4722",
-   "gorsel": null
-  },
-  {
    "id": "0da98399567b",
    "baslik": "Saygılı Yaşam ve Güvenli İlişkiler",
    "tarih": "2026-11-30",
@@ -287,6 +191,22 @@
    "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/saygili-yasam-ve-guvenli-iliskiler-4734",
+   "gorsel": null
+  },
+  {
+   "id": "32744ff77180",
+   "baslik": "İklim Değişikliği Altında Köyceğiz'de Orman Yangınlarının Ekolojik Bilançosu: Akköprü ve Çayhisar Yangınları Üzerine Değerlendirmeler",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Menteşe",
+   "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/iklim-degisikligi-altinda-koycegizde-orman-yanginlarinin-ekolojik-bilancosu--akkopru-ve-cayhisar-yanginlari-uzerine-degerlendirmeler-4722",
    "gorsel": null
   },
   {
@@ -487,7 +407,7 @@
    "ad": "Muğla Sıtkı Koçman Üniversitesi",
    "tur": "universite",
    "url": "https://www.mu.edu.tr",
-   "etkinlik_sayisi": 20,
+   "etkinlik_sayisi": 15,
    "durum": "çalışıyor"
   },
   {

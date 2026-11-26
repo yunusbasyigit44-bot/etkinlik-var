@@ -1,5 +1,37 @@
 [
  {
+  "id": "9f30621ceb34",
+  "baslik": "13.Çeviri Çalıştayı",
+  "tarih": "2026-11-25",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Yahşihan",
+  "mekan": "Kırıkkale Üniversitesi",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Kırıkkale Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10104",
+  "gorsel": null
+ },
+ {
+  "id": "ed865732dbeb",
+  "baslik": "Geleceğin Ekonomistleri Yarışıyor",
+  "tarih": "2026-11-25",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Yahşihan",
+  "mekan": "Kırıkkale Üniversitesi",
+  "kategori": "Spor",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Kırıkkale Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10095",
+  "gorsel": null
+ },
+ {
   "id": "15d133ce67e9",
   "baslik": "Öğretmenler Günü Etkinliği \"Öğretmen Olmak\"",
   "tarih": "2026-11-24",

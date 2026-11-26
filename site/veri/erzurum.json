@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-25T15:11+03:00",
+ "guncelleme": "2026-11-26T14:58+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -151,6 +151,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/seferi-ramazan-beyin-nafile-dunyasi",
    "gorsel": "veri/gorsel/dt-seferi-ramazan-beyin-nafile-dunyasi.webp"
+  },
+  {
+   "id": "9fcac55201e5",
+   "baslik": "Şampiyonlar Yeni Evinde",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yakutiye",
+   "mekan": "Erzurum Teknik Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erzurum Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://erzurum.edu.tr/etkinlik/sampiyonlar-yeni-evinde1",
+   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/b1389815-8d08-4f40-a374-093c133c0626.webp?width=600&height=749&mode=carve"
   },
   {
    "id": "8d3ab78c309a",
@@ -514,16 +530,16 @@
    "durum": "çalışıyor"
   },
   {
-   "ad": "Atatürk Üniversitesi",
-   "tur": "universite",
-   "url": "https://atauni.edu.tr/tum-etkinlikler/",
-   "etkinlik_sayisi": 6,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Erzurum Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://erzurum.edu.tr/",
+   "etkinlik_sayisi": 7,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Atatürk Üniversitesi",
+   "tur": "universite",
+   "url": "https://atauni.edu.tr/tum-etkinlikler/",
    "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },

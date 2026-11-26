@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-25T15:20+03:00",
+ "guncelleme": "2026-11-26T15:06+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,54 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "032ebfde01f1",
-   "baslik": "Eğlence Dünyası",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/eglence-dunyasi",
-   "gorsel": "veri/gorsel/dt-eglence-dunyasi.webp"
-  },
-  {
-   "id": "1318b81f2ed9",
-   "baslik": "Eğlence Dünyası",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/eglence-dunyasi",
-   "gorsel": "veri/gorsel/dt-eglence-dunyasi.webp"
-  },
-  {
-   "id": "9f702f3b0853",
-   "baslik": "Konya Okulu - Prof. Dr. Orhan Çeker",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-orhan-ceker/1211",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/K8nMMKXeFONI784oSgYVXphYL02Olrrl.jpeg"
-  },
   {
    "id": "884beb443d3f",
    "baslik": "Yastık Adam",
@@ -600,14 +552,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 16,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
-   "etkinlik_sayisi": 12,
+   "etkinlik_sayisi": 11,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-25T15:08+03:00",
+ "guncelleme": "2026-11-26T14:55+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,54 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "f1bf6ebda8e4",
-   "baslik": "24 Kasım Öğretmenler Günü Dart Turnuvası",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Merkez",
-   "mekan": "Spor Tesisleri Havuz Binası",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13689/1/24-kasim-ogretmenler-gunu-dart-turnuvasi",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13689/4_13689_2026-11-23-10-38-16-41977_thumb.webp"
-  },
-  {
-   "id": "c7aacf24500c",
-   "baslik": "Kitabını Al Gel!",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Merkez",
-   "mekan": "Hocabali Hamam Kafe (Şeyh Sinan Camii Karşısı)",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13684/1/kitabini-al-gel",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13684/4_13684_2026-11-23-06-24-14-588772_thumb.webp"
-  },
-  {
-   "id": "5baab785beca",
-   "baslik": "The Truman Show Behind the Screen: What is Real?",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Merkez",
-   "mekan": "Eğitim Fakültesi Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13650/1/the-truman-show-behind-the-screen-what-is-real",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13650/4_13650_2026-11-18-07-28-28-678705_thumb.webp"
-  },
   {
    "id": "4ea4ec6f8cbb",
    "baslik": "Yerdeki Süper Yıldızlar",
@@ -110,6 +62,54 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13574/1/siddetle-mucadelede-disiplinlerarasi-yaklasimlar",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13574/4_13574_2026-11-04-06-45-55-692308_thumb.webp"
+  },
+  {
+   "id": "12ea303a9aee",
+   "baslik": "Renkli Bahçeler Mutlu Çocuklar",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Burdur Altın Terim Solmaz İlkokulu",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13682/1/renkli-bahceler-mutlu-cocuklar",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13682/4_13682_2026-11-23-06-20-09-528512_thumb.webp"
+  },
+  {
+   "id": "649d50d46504",
+   "baslik": "Rock Gecesi \"Anadolu\"",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "19:30",
+   "ilce": "Merkez",
+   "mekan": "Burdur Mehmet Akif Ersoy Üniversitesi Konferans ve Sergi Salonu",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13681/1/rock-gecesi-anadolu",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13681/4_13681_2026-11-23-06-18-09-996575_thumb.webp"
+  },
+  {
+   "id": "1aac30a00e79",
+   "baslik": "Taşlara Dokunan Renkler: Taş Boyama ve Sosyal Katılım Etkinliği",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "Yaşlılık Çalışmaları Uygulama Araştırma Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13609/1/taslara-dokunan-renkler-tas-boyama-ve-sosyal-katilim-etkinligi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13609/4_13609_2026-11-11-10-13-12-257098_thumb.webp"
   }
  ],
  "kaynaklar": [

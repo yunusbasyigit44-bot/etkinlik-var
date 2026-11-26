@@ -1,6 +1,6 @@
 {
  "il": "aydin",
- "guncelleme": "2026-11-25T15:07+03:00",
+ "guncelleme": "2026-11-26T14:54+03:00",
  "ilceler": [
   "Efeler",
   "Bozdoğan",
@@ -52,6 +52,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://haber.adu.edu.tr/etkinlik/is-ekipmanlarinin-periyodik-kontrollerini-yapmaya-yetkili-kisilerin-egitimi-ve-sinavi-2000148648",
    "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261103160028-KS5P3ZXVHEZ4ZO92YKC4-000027996002432446391344.jpeg"
+  },
+  {
+   "id": "1709b53174b2",
+   "baslik": "Afrodisias'ı Geziyorum",
+   "tarih": "2026-11-29",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Efeler",
+   "mekan": "Afrodisias",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": "Gezi",
+   "kaynak_ad": "Aydın Adnan Menderes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://haber.adu.edu.tr/etkinlik/afrodisias-i-geziyorum-2000148830",
+   "gorsel": "https://haber.adu.edu.tr/webfolders/etkinlik/kapak/20261126135236-EO7MSMZQIMVEEHU20222-000025903634678657175209.jpeg"
   },
   {
    "id": "7bc5d67f4a86",
@@ -315,7 +331,7 @@
    "ad": "Aydın Adnan Menderes Üniversitesi",
    "tur": "universite",
    "url": "https://haber.adu.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 19,
    "durum": "çalışıyor"
   },
   {

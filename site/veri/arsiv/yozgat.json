@@ -1,5 +1,37 @@
 [
  {
+  "id": "ea708a366483",
+  "baslik": "Aristoteles ve Trajik Karakter",
+  "tarih": "2026-11-25",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Yozgat Bozok Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Yozgat Bozok Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4284",
+  "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/e52b6dde.png"
+ },
+ {
+  "id": "bf3728623b32",
+  "baslik": "Bugün Kadrajda Ana Akım Var!",
+  "tarih": "2026-11-25",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Yozgat Bozok Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Yozgat Bozok Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4285",
+  "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/7c3e4aee.jpeg"
+ },
+ {
   "id": "cc5a618f2830",
   "baslik": "Öğretmenler Günü Kutlama Programı",
   "tarih": "2026-11-24",

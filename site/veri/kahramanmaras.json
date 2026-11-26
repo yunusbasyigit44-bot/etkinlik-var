@@ -1,6 +1,6 @@
 {
  "il": "kahramanmaras",
- "guncelleme": "2026-11-25T15:22+03:00",
+ "guncelleme": "2026-11-26T15:08+03:00",
  "ilceler": [
   "Afşin",
   "Andırın",
@@ -15,22 +15,6 @@
   "Türkoğlu"
  ],
  "etkinlikler": [
-  {
-   "id": "2ce1afca5a44",
-   "baslik": "Panel \"Kadına Yönelik Şiddet ve Şiddetin Önlenmesi\"",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Onikişubat",
-   "mekan": "KSÜ Yunus Emre Kongre ve Kültür Merkezi Sezai Karakoç Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Kahramanmaraş Sütçü İmam Üniversitesi Kadın Çalışmaları Uygulama ve Araştırma Merkezi (KSÜKAM)",
-   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=143",
-   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611201209190247.jpg"
-  },
   {
    "id": "719d3384661c",
    "baslik": "Genç KSÜ Söyleşileri \"İki Şair Bin Şiir\"",
@@ -101,7 +85,7 @@
    "ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
    "tur": "universite",
    "url": "https://www.ksu.edu.tr/",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

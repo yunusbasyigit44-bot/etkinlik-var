@@ -1,6 +1,6 @@
 {
  "il": "isparta",
- "guncelleme": "2026-11-25T15:15+03:00",
+ "guncelleme": "2026-11-26T15:01+03:00",
  "ilceler": [
   "Merkez",
   "Aksu",
@@ -18,52 +18,36 @@
  ],
  "etkinlikler": [
   {
-   "id": "fe1561a0c424",
-   "baslik": "NOKTA: Ortak Veri Analizi ve Bilimsel Çalışmalar",
-   "tarih": "2026-11-25",
+   "id": "74b10c24d317",
+   "baslik": "İlk Yardım Eğitimi",
+   "tarih": "2026-11-26",
    "bitis": null,
    "saat": null,
    "ilce": "Merkez",
-   "mekan": "Çevrim İçi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Workshop",
-   "kaynak_ad": "Süleyman Demirel Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=1A106E56-48BD-2FF9-8014-3A25051887EA"
-  },
-  {
-   "id": "f252e910ca50",
-   "baslik": "Spor Bilimleri Fakültesi Kaynaşma Günleri",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "SPOR BİLİMLERİ FAKÜLTESİ BATI SPOR SALONU VE TENİS KORTLARI",
+   "mekan": "Topluluk Kulüp Odası",
    "kategori": "Spor",
    "ucretsiz": true,
-   "ozet": "Sportif Faaliyet",
+   "ozet": "Sportif",
    "kaynak_ad": "Süleyman Demirel Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=E0E05CE3-2E64-7DB1-0070-3A2523A4FFE2"
+   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=7F50DBBD-4E1B-9DF3-0879-3A250AFBE441"
   },
   {
-   "id": "a7874f85de6e",
-   "baslik": "SPAXDU – Bilim ve Uzay Temalı Sosyal Sorumluluk ve Çocuklarla Etkileşim Etkinliği",
-   "tarih": "2026-11-25",
+   "id": "0f431fa5c3cf",
+   "baslik": "25 Kasım Kadına Yönelik Şiddetle Uluslararası Mücadele Günü Farkındalık Programı",
+   "tarih": "2026-11-26",
    "bitis": null,
    "saat": null,
-   "ilce": "Keçiborlu",
-   "mekan": "Saracık ilkokulu Keçiborlu / Isparta",
-   "kategori": "Çocuk",
+   "ilce": "Merkez",
+   "mekan": "SDÜ İİBF A Blok girişi",
+   "kategori": "Diğer",
    "ucretsiz": true,
    "ozet": "Sosyal Sorumluluk",
    "kaynak_ad": "Süleyman Demirel Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=DAF83BF7-B93C-4DDF-D46D-3A2520273B63"
+   "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=D9F587FD-C777-BAA1-D955-3A251A42E214"
   }
  ],
  "kaynaklar": [
@@ -71,7 +55,7 @@
    "ad": "Süleyman Demirel Üniversitesi",
    "tur": "universite",
    "url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

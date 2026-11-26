@@ -1,6 +1,6 @@
 {
  "il": "yozgat",
- "guncelleme": "2026-11-25T15:29+03:00",
+ "guncelleme": "2026-11-26T15:14+03:00",
  "ilceler": [
   "Merkez",
   "Akdağmadeni",
@@ -18,38 +18,6 @@
   "Yerköy"
  ],
  "etkinlikler": [
-  {
-   "id": "ea708a366483",
-   "baslik": "Aristoteles ve Trajik Karakter",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Yozgat Bozok Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Yozgat Bozok Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4284",
-   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/e52b6dde.png"
-  },
-  {
-   "id": "bf3728623b32",
-   "baslik": "Bugün Kadrajda Ana Akım Var!",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Yozgat Bozok Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Yozgat Bozok Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4285",
-   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/7c3e4aee.jpeg"
-  },
   {
    "id": "23f25395c1a4",
    "baslik": "Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü",
@@ -83,6 +51,22 @@
    "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/3181a56f.jpg"
   },
   {
+   "id": "b7688b36fcc5",
+   "baslik": "Kapsayıcılık ve Erişilebilirlik: Multidisipliner Yaklaşımlar",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Yozgat Bozok Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Yozgat Bozok Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4290",
+   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/24b6ae32.png"
+  },
+  {
    "id": "9296e962a07d",
    "baslik": "IV. Ulusal Bozok Fen Edebiyat Fakültesi Öğrenci Sempozyumu",
    "tarih": "2026-12-15",
@@ -104,7 +88,7 @@
    "ad": "Yozgat Bozok Üniversitesi",
    "tur": "universite",
    "url": "https://www.bozok.edu.tr/",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

@@ -1,6 +1,6 @@
 {
  "il": "igdir",
- "guncelleme": "2026-11-25T15:30+03:00",
+ "guncelleme": "2026-11-26T15:15+03:00",
  "ilceler": [
   "Merkez",
   "Aralık",
@@ -8,6 +8,22 @@
   "Tuzluca"
  ],
  "etkinlikler": [
+  {
+   "id": "cb6bc06be010",
+   "baslik": "TÜBİTAK Bilim Söyleşisine Davetlisiniz!",
+   "tarih": "2026-11-26",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "Iğdır Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Iğdır Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/tubitak-bilim-soylesisine-davetlisiniz-46/register",
+   "gorsel": "https://www.igdir.edu.tr/web/image/57589-23c55d49/1.jfif"
+  },
   {
    "id": "114cf5df041e",
    "baslik": "\"Kadına Yönelik Şiddetle Mücadelede Toplumsal Cinsiyet Eşitliği: Önleme, Farkındalık ve Dönüştürücü Yaklaşımlar\" Online Semineri",
@@ -30,7 +46,7 @@
    "ad": "Iğdır Üniversitesi",
    "tur": "universite",
    "url": "https://www.igdir.edu.tr/events/",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

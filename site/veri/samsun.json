@@ -1,6 +1,6 @@
 {
  "il": "samsun",
- "guncelleme": "2026-11-25T15:26+03:00",
+ "guncelleme": "2026-11-26T15:12+03:00",
  "ilceler": [
   "Atakum",
   "Canik",
@@ -21,70 +21,6 @@
   "Yakakent"
  ],
  "etkinlikler": [
-  {
-   "id": "3f22ccae41fd",
-   "baslik": "SPSS ile Veri Analizi Ölçek Çalışmalarında Geçerlik-Güvenirlik Analizi ve Güç (Power) Analizi Eğitim Programı",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Atakum",
-   "mekan": "Ondokuz Mayıs Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/egitim/spss-ile-veri-analizi-olcek-calismalarinda-gecerlik-guvenirlik",
-   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/afis_43.jpeg"
-  },
-  {
-   "id": "40a28358fe08",
-   "baslik": "Bilimsel Bilgiye Erişim ve Akademik İletişimde Kütüphanenin Rolü",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Atakum",
-   "mekan": "Ondokuz Mayıs Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/egitim/bilimsel-bilgiye-erisim-ve-akademik-iletisimde-kutuphanenin-rolu",
-   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/bilimsel-bilgiye-erisim-ve-akademik-iletisimde-kutuphanenin-rolu-omu-ornegi-afis1.jpg"
-  },
-  {
-   "id": "a1a113a6be11",
-   "baslik": "“Hemşirelik Eğitiminde Program Değerlendirme” Eğitimi",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Atakum",
-   "mekan": "Ondokuz Mayıs Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/egitim/hemsirelik-egitiminde-program-degerlendirme-egitimi",
-   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/hemsirelik-egitiminde-program-degerlendirme-afis2026.jpg"
-  },
-  {
-   "id": "e7985659c5f1",
-   "baslik": "Fikirden Yayına",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Atakum",
-   "mekan": "Ondokuz Mayıs Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/egitim/fikirden-yayina",
-   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/fikirden_yayina.jpeg"
-  },
   {
    "id": "ba7a5b480cfe",
    "baslik": "Lee Bilim Söyleşileri: Samsun'da Turizm",
@@ -134,6 +70,22 @@
    "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/etkinlik_gorseli_3.jpeg"
   },
   {
+   "id": "478871f6c721",
+   "baslik": "1. Basamak Sağlık Kurumlarında Diyetisyenin Rolü: Halk Sağlığı Diyetisyenliği",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Sağlık",
+   "ucretsiz": true,
+   "ozet": "Söyleşi",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/soylesi/1-basamak-saglik-kurumlarinda-diyetisyenin-rolu-halk-sagligi",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/halk_sagligi_diyetisyeni.jpeg"
+  },
+  {
    "id": "380de6dd0aab",
    "baslik": "Okulumuz Orman",
    "tarih": "2026-12-01",
@@ -148,6 +100,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/okulumuz-orman-samsun-dob",
    "gorsel": "veri/gorsel/dob-samsun-2835.webp"
+  },
+  {
+   "id": "f7a4a1af7b28",
+   "baslik": "Özel Gereksinimli Çocuklara Sahip Ailelerde Psikolojik Esneklik: Zihnimden Çık, Hayatıma Gir Semineri",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": "Seminer",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/seminer/ozel-gereksinimli-cocuklara-sahip-ailelerde-psikolojik-esneklik",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/zihnimden-cik-hayatima-gir-afis2026.jpg"
   },
   {
    "id": "08b67d9f1972",
@@ -372,6 +340,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://biletinial.com/opera-bale/findikkiran-samsun-dob",
    "gorsel": null
+  },
+  {
+   "id": "17710b17c5fe",
+   "baslik": "Beslenme ve Diyetetik Bölümü Klinik Karar Verme Serisi VII: Çocuk Hastalıklarının Tıbbi Beslenme Tedavisinde Diyetisyenin Rolü",
+   "tarih": "2026-12-23",
+   "bitis": null,
+   "saat": "13:15",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": "Söyleşi",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/soylesi/beslenme-ve-diyetetik-bolumu-klinik-karar-verme-serisi-vii-cocuk",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/klinik_karar_verme_serisi.jpeg"
   }
  ],
  "kaynaklar": [
@@ -379,7 +363,7 @@
    "ad": "Ondokuz Mayıs Üniversitesi",
    "tur": "universite",
    "url": "https://www.omu.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {

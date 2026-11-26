@@ -1,6 +1,6 @@
 {
  "il": "eskisehir",
- "guncelleme": "2026-11-25T15:14+03:00",
+ "guncelleme": "2026-11-26T15:00+03:00",
  "ilceler": [
   "Odunpazarı",
   "Tepebaşı",
@@ -83,86 +83,6 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0574bc3d7f5.jpg"
   },
   {
-   "id": "af93d85c3931",
-   "baslik": "Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961312",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afda0813bd7d.jpg"
-  },
-  {
-   "id": "af311a5f07d9",
-   "baslik": "Verimli Ders Çalışma ve Zaman Yönetimi",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Seminerler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/verimli-ders-calisma-ve-zaman-yonetimi-1789563946",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9efdccd6f.jpg"
-  },
-  {
-   "id": "47c2197c6660",
-   "baslik": "Kapsayıcı ve Sürdürülebilir Bir Mekan Mümkün mü? Mekan Sosyolojisinden Yaş Dostu Havalimanına",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Seminerler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/kapsayici-ve-surdurulebilir-bir-mekan-mumkun-mu-mekan-sosyolojisinden-yas-dostu-1795503264",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0540cd66f52.jpg"
-  },
-  {
-   "id": "a391bbf99d3c",
-   "baslik": "Özlem Sümer ''Keman Sınıf Konseri ''",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Konser ve Dinletiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ozlem-sumer-keman-sinif-konseri-1792481995",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9f174e5fa.jpg"
-  },
-  {
-   "id": "520c8a3caee0",
-   "baslik": "Dost",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Odunpazarı",
-   "mekan": "Haldun Dormen Sahnesi ( Haller Gençlik Merkezi )",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları",
-   "kaynak_ad": "Eskişehir Şehir Tiyatroları",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
-   "gorsel": null
-  },
-  {
    "id": "41c294e4f885",
    "baslik": "Bobo ve Arkadaşları",
    "tarih": "2026-11-26",
@@ -179,38 +99,6 @@
    "gorsel": null
   },
   {
-   "id": "a5993e3c10c4",
-   "baslik": "Ödül Yönergesi ve Performans Sistemi",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/odul-yonergesi-ve-performans-sistemi-1790938708",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9f6a0117b.jpg"
-  },
-  {
-   "id": "3c5f27f440f3",
-   "baslik": "Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": "Eğitim",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961385",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9e59f3c1a.jpg"
-  },
-  {
    "id": "d9b4dab8a50c",
    "baslik": "Rüzgârda Savrulan Yapraklar",
    "tarih": "2026-11-26",
@@ -225,22 +113,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.biletinial.com/eskisehir-sehir-tiyatrolari",
    "gorsel": null
-  },
-  {
-   "id": "b95b77cb7937",
-   "baslik": "LÖSEV Fayda Projesi",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "11:30",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Seminerler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/losev-fayda-projesi-1793609099",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9fd5f0964.jpg"
   },
   {
    "id": "d55cc3d8f1a5",
@@ -339,38 +211,6 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afda013af03a.png"
   },
   {
-   "id": "534bb7ec1e91",
-   "baslik": "Çağdaş Alapınar Gençay ''Sınıf Konseri''",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Konser ve Dinletiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/cagdas-alapinar-gencay-sinif-konseri-1792482052",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9ff0a532a.jpg"
-  },
-  {
-   "id": "bea6e2acd4b4",
-   "baslik": "24 Kasım Öğretmenler Günü Konseri",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "19:00",
-   "ilce": "Tepebaşı",
-   "mekan": "Anadolu Üniversitesi",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": "Konser ve Dinletiler",
-   "kaynak_ad": "Anadolu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/24-kasim-ogretmenler-gunu-konseri-1785394201",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afda03006119.jpg"
-  },
-  {
    "id": "11e9ec4c4841",
    "baslik": "Dost",
    "tarih": "2026-11-26",
@@ -448,7 +288,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ahmet-fatih-demir-gitar-resitali-1792482124",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8cd4dd9dc.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b07d45cdcd3e.jpg"
   },
   {
    "id": "40d3b6cb76e7",
@@ -499,8 +339,8 @@
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8c9921a8d.jpg"
   },
   {
-   "id": "fe4fae977120",
-   "baslik": "Es Es Tayfa Gitar Üçlüsü",
+   "id": "fd589d1e6f8f",
+   "baslik": "Gitar Üçlüsü Konseri",
    "tarih": "2026-11-27",
    "bitis": null,
    "saat": "15:00",
@@ -512,7 +352,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/es-es-tayfa-gitar-uclusu-1792482199",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8d75015dc.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b07d4a3ac330.jpg"
   },
   {
    "id": "0f2c0469c5a2",
@@ -528,7 +368,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ozan-akcay-gitar-resitali-1792482267",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8dacf25d5.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b07d4ca78fdd.jpg"
   },
   {
    "id": "a6c05890f564",
@@ -544,7 +384,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/tarik-codri-gitar-resitali-1792482339",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8e5869683.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b07d4eb2d54d.jpg"
   },
   {
    "id": "3d2fc0b03178",
@@ -592,7 +432,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/emel-asuman-onen-ezgi-nihan-uzunonat-viyolonsel-sinif-konseri-1792482563",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe9e6d8ae19.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b07d50ba14c7.jpg"
   },
   {
    "id": "2a109ae99af2",
@@ -720,7 +560,7 @@
    "kaynak_ad": "Anadolu Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/yayli-calgilar-ana-sanat-dali-ilkogretim-lise-konseri-1792482637",
-   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe9f1b63fef.jpg"
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0817bb293ba.jpg"
   },
   {
    "id": "15e59570a950",
@@ -849,6 +689,198 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/3-aralik-dunya-engelliler-gunu-etknligi-1793961651",
    "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afee57f882c9.jpg"
+  },
+  {
+   "id": "4ab323d5ded2",
+   "baslik": "Orhan Mert Keser ''Kontrbas Sınıfı Konseri''",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser ve Dinletiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/orhan-mert-keser-kontrbas-sinifi-konseri-1795163929",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b00274295cd0.jpg"
+  },
+  {
+   "id": "d010c4316e9e",
+   "baslik": "Staj Hikayem",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "Seminerler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/staj-hikayem-1794210963",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afee5e0345f1.jpg"
+  },
+  {
+   "id": "639fbd4450a8",
+   "baslik": "Tiyatrolar ve Stadionlar: Yarışmalar, Gösteriler ve Festivaller",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": "Seminerler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/tiyatrolar-ve-stadionlar-yarismalar-gosteriler-ve-festivaller-1791188032",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afee5c57aa28.jpg"
+  },
+  {
+   "id": "a816a5bdcae7",
+   "baslik": "AB'nin Geleceği ve Türkiye",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Konferanslar",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/abnin-gelecegi-ve-turkiye-1795529431",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b059a514af71.jpg"
+  },
+  {
+   "id": "76d9c7bcce43",
+   "baslik": "Emre Hopa ''Fagot ve Oda Müziği Konseri''",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": "18:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser ve Dinletiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/emre-hopa-fagot-ve-oda-muzigi-konseri-1795163857",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0027772e0e6.jpg"
+  },
+  {
+   "id": "f7b724d17ef4",
+   "baslik": "Sıfırın Altında Marketing'26",
+   "tarih": "2026-12-05",
+   "bitis": "2026-12-06",
+   "saat": "08:30",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Konferanslar",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/sifirin-altinda-marketing26-1782904064",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afee5fd1e8ef.jpg"
+  },
+  {
+   "id": "b0f376f6f153",
+   "baslik": "Ruba Pekdemir Peker \"Resitali",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser ve Dinletiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ruba-pekdemir-peker-resitali-1795163890",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0027c0ca97a.jpg"
+  },
+  {
+   "id": "a5c9f98896ae",
+   "baslik": "Ruba Pekdemir Peker \"Sınıf Konseri",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": "16:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser ve Dinletiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ruba-pekdemir-peker-sinif-konseri-1795163810",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0027f9caca7.jpg"
+  },
+  {
+   "id": "25c2750028ee",
+   "baslik": "Karakaya Eğitim Kampı",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": "17:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": "Geziler ve Turlar",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/karakaya-egitim-kampi-1794899583",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afee61c00674.jpg"
+  },
+  {
+   "id": "8f3d0a11233d",
+   "baslik": "Özge Güncan ''Piyano Sınıf Konseri''",
+   "tarih": "2026-12-06",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser ve Dinletiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/ozge-guncan-piyano-sinif-konseri-1795163773",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b004a7a6ecfb.jpg"
+  },
+  {
+   "id": "9fe46e9239f7",
+   "baslik": "Göknil Özkök Sezener ve Evren Büyükburç Erol \"Viola ve Piyano Resitali",
+   "tarih": "2026-12-07",
+   "bitis": null,
+   "saat": "18:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser ve Dinletiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/goknil-ozkok-sezener-ve-evren-buyukburc-erol-viola-ve-piyano-resitali-1795163726",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b004a60ddfa3.jpg"
+  },
+  {
+   "id": "f95404982ef9",
+   "baslik": "Lilian Tonella Tüzün ''Piyano Sınıf Konseri''",
+   "tarih": "2026-12-08",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Tepebaşı",
+   "mekan": "Anadolu Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": "Konser ve Dinletiler",
+   "kaynak_ad": "Anadolu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.anadolu.edu.tr/etkinlikler/lilian-tonella-tuzun-piyano-sinif-konseri-1795163649",
+   "gorsel": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b004a2954e50.jpg"
   }
  ],
  "kaynaklar": [
@@ -856,14 +888,14 @@
    "ad": "Anadolu Üniversitesi",
    "tur": "universite",
    "url": "https://www.anadolu.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 41,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "etkinlik_sayisi": 44,
+   "durum": "çalışıyor"
   },
   {
    "ad": "Eskişehir Şehir Tiyatroları",
    "tur": "belediye",
    "url": "https://tiyatro.eskisehir.bel.tr/oyuntakvimi.php",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 10,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

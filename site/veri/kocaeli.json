@@ -1,6 +1,6 @@
 {
  "il": "kocaeli",
- "guncelleme": "2026-11-25T15:20+03:00",
+ "guncelleme": "2026-11-26T15:06+03:00",
  "ilceler": [
   "Başiskele",
   "Çayırova",
@@ -16,22 +16,6 @@
   "Körfez"
  ],
  "etkinlikler": [
-  {
-   "id": "e40da24750d3",
-   "baslik": "Kadına Merhamet, Aileye Huzur - Psikolog Yazar Tuba Kılıç",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "14:30",
-   "ilce": "Gebze",
-   "mekan": "Gebze Kültür Merkezi",
-   "kategori": "Edebiyat",
-   "ucretsiz": true,
-   "ozet": "Söyleşi",
-   "kaynak_ad": "Gebze Belediyesi",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.gebze.bel.tr/etkinlik/kadina-merhamet-aileye-huzur-psikolog-yazar-tuba-kilic_1053.html",
-   "gorsel": "https://www.gebze.bel.tr/etkinlik/20261030110402.jpg"
-  },
   {
    "id": "b5a02e05b3fc",
    "baslik": "Cicim Ayıları",
@@ -70,7 +54,7 @@
    "ad": "Gebze Belediyesi",
    "tur": "belediye",
    "url": "https://www.gebze.bel.tr/json/etkinlik.json",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

@@ -1,5 +1,21 @@
 [
  {
+  "id": "906c8015f31b",
+  "baslik": "Patent Süreçleri Bilgilendirme Eğitimi",
+  "tarih": "2026-11-25",
+  "bitis": null,
+  "saat": "11:00",
+  "ilce": "Merkez",
+  "mekan": "Microsoft Teams Çevrimiçi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Aksaray Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.aksaray.edu.tr/patent-surecleri-bilgilendirme-egitimi",
+  "gorsel": null
+ },
+ {
   "id": "eb3f8aa615ac",
   "baslik": "Bağımlılıklarla Mücadelede Eğitimi",
   "tarih": "2026-11-24",

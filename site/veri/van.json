@@ -1,6 +1,6 @@
 {
  "il": "van",
- "guncelleme": "2026-11-25T15:28+03:00",
+ "guncelleme": "2026-11-26T15:14+03:00",
  "ilceler": [
   "İpekyolu",
   "Tuşba",
@@ -17,22 +17,6 @@
   "Saray"
  ],
  "etkinlikler": [
-  {
-   "id": "04f4d65ffa5e",
-   "baslik": "Papağan Kaçtı",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "İpekyolu",
-   "mekan": "Van Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/papagan-kacti",
-   "gorsel": "veri/gorsel/dt-papagan-kacti.webp"
-  },
   {
    "id": "d5178e1501a4",
    "baslik": "İbiş'in Rüyası",
@@ -311,7 +295,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {

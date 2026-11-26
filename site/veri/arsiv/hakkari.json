@@ -1,5 +1,37 @@
 [
  {
+  "id": "e9a962a7411d",
+  "baslik": "Bilgilendirme ve Farkındalık Eğitimi",
+  "tarih": "2026-11-25",
+  "bitis": null,
+  "saat": "10:00",
+  "ilce": "Merkez",
+  "mekan": "Esma Bnt El-Hakkari Konferans Salonu (1. Kat)",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": "Diğer",
+  "kaynak_ad": "Hakkari Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/552/bilgilendirme-ve-farkindalik-egitimi",
+  "gorsel": "https://hubis.hakkari.edu.tr/media/event/552/cover/thumb/4931238c031d4554adb2e14eadc9e5f9.webp"
+ },
+ {
+  "id": "0e27ead46c57",
+  "baslik": "24 Kasım Öğretmenler Günü Programı",
+  "tarih": "2026-11-25",
+  "bitis": null,
+  "saat": "13:30",
+  "ilce": "Merkez",
+  "mekan": "Abdürrahim Zapsu Konferans Salonu (2. Kat)",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Diğer",
+  "kaynak_ad": "Hakkari Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/551/24-kasim-ogretmenler-gunu-programi",
+  "gorsel": "https://hubis.hakkari.edu.tr/media/event/551/cover/thumb/c674ac30f77b4556b104daf602dca5cb.webp"
+ },
+ {
   "id": "7f103f290973",
   "baslik": "\"Resmi Yazışma Kuralları ve Resmi Yazışmalarda Türkçenin Doğru Kullanımı\" Semineri",
   "tarih": "2026-11-18",

@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-25T15:07+03:00",
+ "guncelleme": "2026-11-26T14:54+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -24,54 +24,6 @@
   "Susurluk"
  ],
  "etkinlikler": [
-  {
-   "id": "4686f3de0d92",
-   "baslik": "Turizm Yüzyılı Paneli",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Altıeylül",
-   "mekan": "Balıkesir Üniversitesi Atatürk Kongre ve Kültür Merkezi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Basin",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_1_1795528358.jpeg"
-  },
-  {
-   "id": "07d9eab9d60e",
-   "baslik": "Turizm Yüzyılı Paneli",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Altıeylül",
-   "mekan": "Balıkesir Üniversitesi Atatürk kongre kültür",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Basin",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_582a6cf7-29b4-4186-ae87-6bbd18d3e111_1795538674.jpeg"
-  },
-  {
-   "id": "2ec7f1a54cb7",
-   "baslik": "Kendi Hikâyenin Mimarı Ol: Sağlıklı Sınırlar, Güvenli İlişkiler ve İlişkilerde Farkındalık” Etkinliği",
-   "tarih": "2026-11-25",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Bandırma",
-   "mekan": "Prof. Dr. Aziz Sancar Konferans Salonu",
-   "kategori": "Sağlık",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Bandırma Onyedi Eylül Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste/Kendi-Hikayenin-Mimari-Ol-Saglikli-Sinirlar-Guvenli-Iliskiler-ve-Iliskilerde-Farkindalik-Etkinligi--1950?k=-1",
-   "gorsel": null
-  },
   {
    "id": "513be0c09e09",
    "baslik": "İmam Birgivi’nin İzinde: İlim, İrfan ve Ahlak",
@@ -103,6 +55,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_1794390254412_1794403015.png"
+  },
+  {
+   "id": "618014ac9332",
+   "baslik": "Mavi Vatan Ekseninde Doğu Akdeniz ve Kıbrıs",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "15:00",
+   "ilce": "Altıeylül",
+   "mekan": "Avlu Kongre ve Kültür Merkezi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Basin",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-26_at_09.59.40_1795676575.jpeg"
   },
   {
    "id": "d1262f8d7c79",
@@ -169,6 +137,22 @@
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_ETA_Bilgisayar_G%C3%B6nderisi_1795587199.jpeg"
   },
   {
+   "id": "8c595e04a0a4",
+   "baslik": "Sigortacılık Sektöründe Mesleki Yeterlilik ve Kariyer Olanakları",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Altıeylül",
+   "mekan": "Çevrimiçi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "Burhaniye Uygulamali Bilimler Fakültesi",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Sigorta_Sekt%C3%B6r%C3%BCnde_Mesleki_Yeterlilikler_1795687603.jpeg"
+  },
+  {
    "id": "9928f4b834f9",
    "baslik": "4. Balıkesir Psikoloji Sempozyumu",
    "tarih": "2026-12-03",
@@ -183,6 +167,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-18_at_17.10.08_1795602020.jpeg"
+  },
+  {
+   "id": "77de483d098f",
+   "baslik": "Osmanlı’yı Doğru Anlamak",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Altıeylül",
+   "mekan": "Şehit Savcı Mehmet Selim Kiraz Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Burhaniye Uygulamali Bilimler Fakültesi",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Osmanl%C4%B1%E2%80%99y%C4%B1_Do%C4%9Fru_Anlamak_1795687755.jpeg"
   },
   {
    "id": "9a2c2fea63b2",
@@ -254,14 +254,7 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 13,
-   "durum": "çalışıyor"
-  },
-  {
-   "ad": "Bandırma Onyedi Eylül Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste?k=-1",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {
@@ -298,6 +291,13 @@
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "oyun takvimi yayımlanmıyor"
+  },
+  {
+   "ad": "Bandırma Onyedi Eylül Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.bandirma.edu.tr/tr/www/Etkinlik/Liste?k=-1",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Devlet Tiyatroları",

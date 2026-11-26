@@ -1,6 +1,6 @@
 {
  "il": "nevsehir",
- "guncelleme": "2026-11-25T15:24+03:00",
+ "guncelleme": "2026-11-26T15:10+03:00",
  "ilceler": [
   "Merkez",
   "Acıgöl",
@@ -13,19 +13,19 @@
  ],
  "etkinlikler": [
   {
-   "id": "b59669aead27",
-   "baslik": "\"Yeme Davranışı ve Obezite\" Konulu Seminer",
-   "tarih": "2026-11-25",
+   "id": "58eb69ea0e3d",
+   "baslik": "NEVÜ Tiyatro Kulübü Tarafından “O.B.E.B” Adlı Tiyatro Oyunu Sahnelenecek",
+   "tarih": "2026-11-30",
    "bitis": null,
    "saat": null,
    "ilce": "Merkez",
    "mekan": "Nevşehir Hacı Bektaş Veli Üniversitesi",
-   "kategori": "Söyleşi",
+   "kategori": "Tiyatro",
    "ucretsiz": true,
    "ozet": "Kültürel Etkinlik",
    "kaynak_ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
    "kaynak_tur": "universite",
-   "kaynak_url": "https://www.nevsehir.edu.tr/tr/59706",
+   "kaynak_url": "https://www.nevsehir.edu.tr/tr/59754",
    "gorsel": null
   }
  ],
