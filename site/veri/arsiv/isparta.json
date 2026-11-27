@@ -1,5 +1,37 @@
 [
  {
+  "id": "74b10c24d317",
+  "baslik": "İlk Yardım Eğitimi",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Topluluk Kulüp Odası",
+  "kategori": "Spor",
+  "ucretsiz": true,
+  "ozet": "Sportif",
+  "kaynak_ad": "Süleyman Demirel Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+  "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=7F50DBBD-4E1B-9DF3-0879-3A250AFBE441"
+ },
+ {
+  "id": "0f431fa5c3cf",
+  "baslik": "25 Kasım Kadına Yönelik Şiddetle Uluslararası Mücadele Günü Farkındalık Programı",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "SDÜ İİBF A Blok girişi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Sosyal Sorumluluk",
+  "kaynak_ad": "Süleyman Demirel Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.sdu.edu.tr/Etkinlik/Arsiv",
+  "gorsel": "https://etkinlik.sdu.edu.tr/Yonetim/Etkinlikler/GetEtkinlikAfis?dokumanId=D9F587FD-C777-BAA1-D955-3A251A42E214"
+ },
+ {
   "id": "fe1561a0c424",
   "baslik": "NOKTA: Ortak Veri Analizi ve Bilimsel Çalışmalar",
   "tarih": "2026-11-25",

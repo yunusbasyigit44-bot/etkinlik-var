@@ -1,5 +1,21 @@
 [
  {
+  "id": "cf9356910f21",
+  "baslik": "Keşanlı Ali Destanı",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Melikgazi",
+  "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kesanli-ali-destani",
+  "gorsel": null
+ },
+ {
   "id": "6ed14a7026c4",
   "baslik": "Kayıp Renkler",
   "tarih": "2026-11-25",

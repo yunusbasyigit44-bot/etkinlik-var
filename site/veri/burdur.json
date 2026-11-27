@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-26T14:55+03:00",
+ "guncelleme": "2026-11-27T14:49+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,22 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "4ea4ec6f8cbb",
-   "baslik": "Yerdeki Süper Yıldızlar",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Merkez",
-   "mekan": "Avşar Han Sinema Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13651/1/yerdeki-super-yildizlar",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13651/4_13651_2026-11-18-07-31-30-198753_thumb.webp"
-  },
   {
    "id": "8784c805c189",
    "baslik": "Temiz Bir Kampüs 2",
@@ -110,6 +94,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13609/1/taslara-dokunan-renkler-tas-boyama-ve-sosyal-katilim-etkinligi",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13609/4_13609_2026-11-11-10-13-12-257098_thumb.webp"
+  },
+  {
+   "id": "a6887a6d1ec8",
+   "baslik": "HIV ve Diğer Cinsel Yolla Bulaşan Enfeksiyonlar Farkındalık Semineri",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "10:30",
+   "ilce": "Merkez",
+   "mekan": "Avşar Han Sinema Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13713/1/hiv-ve-diger-cinsel-yolla-bulasan-enfeksiyonlar-farkindalik-semineri",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13713/4_13713_2026-11-27-10-32-32-510354_thumb.webp"
   }
  ],
  "kaynaklar": [

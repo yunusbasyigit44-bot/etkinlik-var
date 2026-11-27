@@ -1,6 +1,6 @@
 {
  "il": "yozgat",
- "guncelleme": "2026-11-26T15:14+03:00",
+ "guncelleme": "2026-11-27T15:11+03:00",
  "ilceler": [
   "Merkez",
   "Akdağmadeni",
@@ -18,22 +18,6 @@
   "Yerköy"
  ],
  "etkinlikler": [
-  {
-   "id": "23f25395c1a4",
-   "baslik": "Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Yozgat Bozok Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Yozgat Bozok Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.bozok.edu.tr/etkinlik/etkinlik/4289",
-   "gorsel": "https://www.bozok.edu.tr/EtkinlikKapak/59f47b33.png"
-  },
   {
    "id": "86e3abc63eeb",
    "baslik": "İİBF - VI. Bozok Öğrenci Paneli",
@@ -88,7 +72,7 @@
    "ad": "Yozgat Bozok Üniversitesi",
    "tur": "universite",
    "url": "https://www.bozok.edu.tr/",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

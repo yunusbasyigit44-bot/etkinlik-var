@@ -1,6 +1,6 @@
 {
  "il": "tokat",
- "guncelleme": "2026-11-26T15:13+03:00",
+ "guncelleme": "2026-11-27T15:09+03:00",
  "ilceler": [
   "Merkez",
   "Almus",
@@ -55,7 +55,7 @@
    "tur": "belediye",
    "url": "https://www.tokat.bel.tr/",
    "etkinlik_sayisi": 2,
-   "durum": "geçici sorun: önceki veri gösteriliyor"
+   "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Tiyatroları",

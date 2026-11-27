@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-26T14:54+03:00",
+ "guncelleme": "2026-11-27T14:49+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -24,38 +24,6 @@
   "Susurluk"
  ],
  "etkinlikler": [
-  {
-   "id": "513be0c09e09",
-   "baslik": "İmam Birgivi’nin İzinde: İlim, İrfan ve Ahlak",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "10:50",
-   "ilce": "Altıeylül",
-   "mekan": "İlahiyat Fakültesi Hasan Basri Çantay Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "İlahiyat Fakültesi",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_S%C3%B6yle%C5%9Fi_1795074728.jpeg"
-  },
-  {
-   "id": "6824185180e6",
-   "baslik": "Cambridge Linguaskill ile Yabancı Dil ve Kariyer Fırsatları",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "13:30",
-   "ilce": "Altıeylül",
-   "mekan": "Turizm Fakültesi Prof. Dr. Necdet Hacıoğlu Konferans Salonu",
-   "kategori": "Kariyer",
-   "ucretsiz": true,
-   "ozet": "Turizm Fakültesi",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_1794390254412_1794403015.png"
-  },
   {
    "id": "618014ac9332",
    "baslik": "Mavi Vatan Ekseninde Doğu Akdeniz ve Kıbrıs",
@@ -153,6 +121,22 @@
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Sigorta_Sekt%C3%B6r%C3%BCnde_Mesleki_Yeterlilikler_1795687603.jpeg"
   },
   {
+   "id": "b27ab7647600",
+   "baslik": "Bilim Kafe; \"Ormanın Şifreleri: Dursunbey'de Yaban Hayatı ve Doğa Bilimi\"",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Dursunbey",
+   "mekan": "Dursunbey Atatürk Ortaokulu Koferans Salonu",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": "Basin",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_1_1795768497.jpg"
+  },
+  {
    "id": "9928f4b834f9",
    "baslik": "4. Balıkesir Psikoloji Sempozyumu",
    "tarih": "2026-12-03",
@@ -182,7 +166,7 @@
    "kaynak_ad": "Balıkesir Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Osmanl%C4%B1%E2%80%99y%C4%B1_Do%C4%9Fru_Anlamak_1795687755.jpeg"
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_Osmanl%C4%B1%E2%80%99y%C4%B1_Do%C4%9Fru_Anlamak_1795778798.jpeg"
   },
   {
    "id": "9a2c2fea63b2",
@@ -254,7 +238,7 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {

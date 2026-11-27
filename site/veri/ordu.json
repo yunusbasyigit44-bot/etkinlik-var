@@ -1,6 +1,6 @@
 {
  "il": "ordu",
- "guncelleme": "2026-11-26T15:11+03:00",
+ "guncelleme": "2026-11-27T15:07+03:00",
  "ilceler": [
   "Altınordu",
   "Akkuş",
@@ -22,8 +22,48 @@
   "Ulubey",
   "Ünye"
  ],
- "etkinlikler": [],
+ "etkinlikler": [
+  {
+   "id": "05010acfbc56",
+   "baslik": "Keman Masterclass",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Altınordu",
+   "mekan": "Müzik ve Sahne Sanatları Ceren Özdemir Konser ve Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Ordu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://odu.edu.tr/Etkinlikler/412/keman-masterclass",
+   "gorsel": null
+  },
+  {
+   "id": "9e9e8f80fccb",
+   "baslik": "İki Keman Konseri",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "12:30",
+   "ilce": "Altınordu",
+   "mekan": "Müzik ve Sahne Sanatları Ceren Özdemir Konser ve Konferans Salonu",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Ordu Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://odu.edu.tr/Etkinlikler/413/iki-keman-konseri",
+   "gorsel": null
+  }
+ ],
  "kaynaklar": [
+  {
+   "ad": "Ordu Üniversitesi",
+   "tur": "universite",
+   "url": "https://odu.edu.tr/TumEtkinlikler",
+   "etkinlik_sayisi": 2,
+   "durum": "çalışıyor"
+  },
   {
    "ad": "Altınordu Belediyesi",
    "tur": "belediye",
@@ -65,13 +105,6 @@
    "url": "https://www.ordu.gov.tr",
    "etkinlik_sayisi": 0,
    "durum": "duyurular idari; etkinlik yok"
-  },
-  {
-   "ad": "Ordu Üniversitesi",
-   "tur": "universite",
-   "url": "https://odu.edu.tr/TumEtkinlikler",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Ordu İl Kültür ve Turizm Müdürlüğü",

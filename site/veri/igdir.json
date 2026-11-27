@@ -1,6 +1,6 @@
 {
  "il": "igdir",
- "guncelleme": "2026-11-26T15:15+03:00",
+ "guncelleme": "2026-11-27T15:12+03:00",
  "ilceler": [
   "Merkez",
   "Aralık",
@@ -8,22 +8,6 @@
   "Tuzluca"
  ],
  "etkinlikler": [
-  {
-   "id": "cb6bc06be010",
-   "baslik": "TÜBİTAK Bilim Söyleşisine Davetlisiniz!",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Merkez",
-   "mekan": "Iğdır Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Iğdır Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/tubitak-bilim-soylesisine-davetlisiniz-46/register",
-   "gorsel": "https://www.igdir.edu.tr/web/image/57589-23c55d49/1.jfif"
-  },
   {
    "id": "114cf5df041e",
    "baslik": "\"Kadına Yönelik Şiddetle Mücadelede Toplumsal Cinsiyet Eşitliği: Önleme, Farkındalık ve Dönüştürücü Yaklaşımlar\" Online Semineri",
@@ -39,6 +23,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/kadna-yonelik-siddetle-mucadelede-toplumsal-cinsiyet-esitligi-onleme-farkndalk-ve-donusturucu-yaklasmlar-online-semineri-39/register",
    "gorsel": "https://www.igdir.edu.tr/web/image/56905-c84a430c/1.jfif"
+  },
+  {
+   "id": "59971396031b",
+   "baslik": "“Kitap Tahlili” Etkinliği",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Iğdır Üniversitesi",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Iğdır Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.igdir.edu.tr/en_GB/event/kitap-tahlili-etkinligi-47/register",
+   "gorsel": "https://www.igdir.edu.tr/web/image/57594-c5a7e0f2/1.jfif"
   }
  ],
  "kaynaklar": [

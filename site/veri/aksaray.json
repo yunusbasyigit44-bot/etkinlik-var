@@ -1,6 +1,6 @@
 {
  "il": "aksaray",
- "guncelleme": "2026-11-26T15:14+03:00",
+ "guncelleme": "2026-11-27T15:11+03:00",
  "ilceler": [
   "Merkez",
   "Ağaçören",
@@ -43,54 +43,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.aksaray.edu.tr/ozel-yetenekli-ogrencilerimizin-dikkatine",
    "gorsel": null
-  },
-  {
-   "id": "7f79ef500de9",
-   "baslik": "Ulusal Proje Destekleri Bilgilendirme Eğitimi",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "11:00",
-   "ilce": "Merkez",
-   "mekan": "Microsoft Teams Çevrimiçi",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Aksaray Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.aksaray.edu.tr/ulusal-proje-destekleri-bilgilendirme-egitimi",
-   "gorsel": null
-  },
-  {
-   "id": "496dca366957",
-   "baslik": "Bağımlılıklarla Mücadelede Eğitimi",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Merkez",
-   "mekan": "ASÜ İktisadi ve İdari Bilimler Fakültesi Malazgirt Konferans Salonu",
-   "kategori": "Atölye",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Aksaray Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.aksaray.edu.tr/bagimliliklarla-mucadelede-egitimi-8",
-   "gorsel": null
-  },
-  {
-   "id": "4ec1dac7bb5d",
-   "baslik": "Türk Diplomatı Olmak: Düşünceler ve Değerlendirmeler",
-   "tarih": "2026-12-02",
-   "bitis": null,
-   "saat": "11:30",
-   "ilce": "Merkez",
-   "mekan": "İİBF Malazgirt Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Aksaray Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.aksaray.edu.tr/turk-diplomati-olmak--dusunceler-ve-degerlendirmeler",
-   "gorsel": null
   }
  ],
  "kaynaklar": [
@@ -98,7 +50,7 @@
    "ad": "Aksaray Üniversitesi",
    "tur": "universite",
    "url": "https://www.aksaray.edu.tr/Etkinlik-takvimi",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

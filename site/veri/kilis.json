@@ -1,6 +1,6 @@
 {
  "il": "kilis",
- "guncelleme": "2026-11-26T15:16+03:00",
+ "guncelleme": "2026-11-27T15:13+03:00",
  "ilceler": [
   "Merkez",
   "Elbeyli",
@@ -8,6 +8,22 @@
   "Polateli"
  ],
  "etkinlikler": [
+  {
+   "id": "4c263b4744c1",
+   "baslik": "Kilis 7 Aralık Üniversitesi Oryantasyon Programı",
+   "tarih": "2026-12-07",
+   "bitis": null,
+   "saat": null,
+   "ilce": null,
+   "mekan": null,
+   "kategori": "Diğer",
+   "ucretsiz": null,
+   "ozet": null,
+   "kaynak_ad": "Kilis İl Kültür ve Turizm Müdürlüğü",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://kilis.ktb.gov.tr/TR-480375/kilis-7-aralik-universitesi-oryantasyon-programi.html",
+   "gorsel": null
+  },
   {
    "id": "c84937444d90",
    "baslik": "Kilis 7 Aralık Üniversitesi 17. Yıl Dönümü Etkinlikleri",
@@ -30,7 +46,7 @@
    "ad": "Kilis İl Kültür ve Turizm Müdürlüğü",
    "tur": "kultur",
    "url": "https://kilis.ktb.gov.tr",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

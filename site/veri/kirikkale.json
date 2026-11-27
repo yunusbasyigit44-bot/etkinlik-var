@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-26T15:15+03:00",
+ "guncelleme": "2026-11-27T15:12+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -13,54 +13,6 @@
   "Yahşihan"
  ],
  "etkinlikler": [
-  {
-   "id": "ef891d7bc116",
-   "baslik": "26 Kasım'da Standımız Açılıyor",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yahşihan",
-   "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırıkkale Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10103",
-   "gorsel": null
-  },
-  {
-   "id": "da048e71827c",
-   "baslik": "VI. Geleneksel Tarih Bilgi Yarışması",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yahşihan",
-   "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Spor",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırıkkale Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10093",
-   "gorsel": null
-  },
-  {
-   "id": "f0d7f7911fea",
-   "baslik": "Şiddetin Anatomisi ve Çözüm Yolları",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yahşihan",
-   "mekan": "Kırıkkale Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kırıkkale Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10086",
-   "gorsel": null
-  },
   {
    "id": "59e845a77a43",
    "baslik": "Sporda Engel Yoktur: \"Özel Eğitim ve Farkındalık\" Söyleşisi",
@@ -163,7 +115,7 @@
    "ad": "Kırıkkale Üniversitesi",
    "tur": "universite",
    "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {

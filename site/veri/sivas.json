@@ -1,6 +1,6 @@
 {
  "il": "sivas",
- "guncelleme": "2026-11-26T15:12+03:00",
+ "guncelleme": "2026-11-27T15:09+03:00",
  "ilceler": [
   "Merkez",
   "Akıncılar",
@@ -22,54 +22,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "25ab776ceabb",
-   "baslik": "Karacaoğlan",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Merkez",
-   "mekan": "Atatürk Kültür Merkezi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/karacaoglan",
-   "gorsel": "veri/gorsel/dt-karacaoglan.jpg"
-  },
-  {
-   "id": "500be0606a45",
-   "baslik": "Şiddetin İzleri Her Zaman Görünür Mü",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sivas Cumhuriyet Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Şiddetin İzleri Her Zaman Görünür Mü",
-   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19433-siddetin-izleri-her-zaman-gorunur-mu",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/siddetin-izleri-Her-Zaman-Gorunur-Mu-57151.jpg"
-  },
-  {
-   "id": "f6315c080a2b",
-   "baslik": "Çocuk Gelişiminde Sağlıklı Beslenme: Bir Diyetisyen Gözünden",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Sivas Cumhuriyet Üniversitesi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": "Çocuk Gelişiminde Sağlıklı Beslenme: Bir Diyetisyen Gözünden",
-   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19402-cocuk-gelisiminde-saglikli-beslenme-bir-diyetisyen-gozunden",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/cocuk-Gelisiminde-Saglikli-Beslenme--Bir-Diyetisyen-Gozunden-45850.png"
-  },
-  {
    "id": "542b3c09bc22",
    "baslik": "Karacaoğlan",
    "tarih": "2026-11-27",
@@ -86,6 +38,22 @@
    "gorsel": "veri/gorsel/dt-karacaoglan.jpg"
   },
   {
+   "id": "3d9674a7df25",
+   "baslik": "\"Filtresiz Benlik\" Söyleşisi",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "\"Filtresiz Benlik\" Söyleşisi",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19538-filtresiz-benlik-soylesisi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/195/Filtresiz-Benlik-Soylesisi-80807.jpeg"
+  },
+  {
    "id": "3c14db46b488",
    "baslik": "Bir Ders Değerlendirme Uygulaması: Kahoot",
    "tarih": "2026-11-27",
@@ -99,7 +67,7 @@
    "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19413-bir-ders-degerlendirme-uygulamasi-kahoot",
-   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Bir-Ders-Degerlendirme-Uygulamasi--Kahoot-53325.jpg"
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/194/Bir-Ders-Degerlendirme-Uygulamasi--Kahoot-23355.jpg"
   },
   {
    "id": "622c6ef19357",
@@ -244,6 +212,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kral-olmak-istemeyen-aslan",
    "gorsel": "veri/gorsel/dt-kral-olmak-istemeyen-aslan.jpg"
+  },
+  {
+   "id": "ab04afaf607e",
+   "baslik": "Erasmus+ Bilgilendirme Toplantısı- Eczacılık Fakültesi",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Erasmus+ Bilgilendirme Toplantısı- Eczacılık Fakültesi",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19537-erasmus-bilgilendirme-toplantisi-eczacilik-fakultesi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/195/Erasmus-Bilgilendirme-Toplantisi--Eczacilik-Fakultesi-31610.png"
   },
   {
    "id": "5002ac0a2c63",
@@ -454,6 +438,22 @@
    "gorsel": "veri/gorsel/dt-cayirin-en-tuhaf-yuvasi.jpg"
   },
   {
+   "id": "a64c439368ae",
+   "baslik": "\"Tohumdan Öze\" Resim Sergisi",
+   "tarih": "2026-12-09",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sivas Cumhuriyet Üniversitesi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": "\"Tohumdan Öze\" Resim Sergisi",
+   "kaynak_ad": "Sivas Cumhuriyet Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.cumhuriyet.edu.tr/etkinlik/19547-tohumdan-oze-resim-sergisi",
+   "gorsel": "https://www.cumhuriyet.edu.tr/haberetkinlik/195/Tohumdan-oze-Resim-Sergisi-25401.jpeg"
+  },
+  {
    "id": "334a4551a130",
    "baslik": "Erasmus+ Bilgilendirme Toplantısı- Sağlık Hizmetleri Meslek Yüksekokulu",
    "tarih": "2026-12-09",
@@ -603,14 +603,14 @@
    "ad": "Sivas Cumhuriyet Üniversitesi",
    "tur": "universite",
    "url": "https://www.cumhuriyet.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 20,
+   "etkinlik_sayisi": 21,
    "durum": "çalışıyor"
   },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 16,
+   "etkinlik_sayisi": 15,
    "durum": "çalışıyor"
   },
   {

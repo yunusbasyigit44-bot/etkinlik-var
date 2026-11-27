@@ -1,5 +1,37 @@
 [
  {
+  "id": "e4a2b1620a9b",
+  "baslik": "5. Geleneksel Satranç Turnuvası",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "09:00",
+  "ilce": "Menteşe",
+  "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+  "kategori": "Spor",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/5_-geleneksel-satranc-turnuvasi--4742",
+  "gorsel": null
+ },
+ {
+  "id": "512ba7509327",
+  "baslik": "Bağımlı mısın, Özgür müsün?",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Menteşe",
+  "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/bagimli-misin-ozgur-musun-4718",
+  "gorsel": null
+ },
+ {
   "id": "70798a30bd16",
   "baslik": "Bölüm Başkanı & Öğrenci Buluşması",
   "tarih": "2026-11-25",

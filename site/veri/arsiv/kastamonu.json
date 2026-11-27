@@ -1,5 +1,37 @@
 [
  {
+  "id": "e765e9677be0",
+  "baslik": "Yükseköğretimde Mikro Yeterlilikler",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Hoca Ahmet Yesevi Kültür Merkezi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Kastamonu Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://kastamonu.edu.tr/tr/etkinlikler/yuksekogretimde-mikro-yeterlilikler-175",
+  "gorsel": "https://files.kastamonu.edu.tr/Ortam/2026/Kas%C4%B1m/Etkinlik/34c3dd90-f8b2-41eb-aab5-357101ae5418.jpg"
+ },
+ {
+  "id": "3fa6034368e5",
+  "baslik": "Yapay Zeka Çağında Dijital Vatandaşlık Çalıştayı",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Kastamonu Teknokent - Ilgaz Salonu",
+  "kategori": "Bilim & Teknoloji",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Kastamonu Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://kastamonu.edu.tr/tr/etkinlikler/yapay-zeka-caginda-dijital-vatandaslik-calistayi-178",
+  "gorsel": "https://files.kastamonu.edu.tr/Ortam/2026/Kas%C4%B1m/Etkinlik/88f8b284-48ff-4a5f-bb8b-51611f4e9dfe.jpg"
+ },
+ {
   "id": "116c4153632b",
   "baslik": "UFest - Türkiye Yüzyılı'nda Ulaştırma Vizyonu",
   "tarih": "2026-11-06",

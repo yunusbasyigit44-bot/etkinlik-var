@@ -1,6 +1,6 @@
 {
  "il": "kahramanmaras",
- "guncelleme": "2026-11-26T15:08+03:00",
+ "guncelleme": "2026-11-27T15:04+03:00",
  "ilceler": [
   "Afşin",
   "Andırın",
@@ -15,6 +15,38 @@
   "Türkoğlu"
  ],
  "etkinlikler": [
+  {
+   "id": "54e31822cb47",
+   "baslik": "Üniversitemiz, Adını Gururla Taşıdığı Sütçü İmam'ı Vefatının 104. Yılında Kabri Başında Anıyor",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "12:00",
+   "ilce": "Onikişubat",
+   "mekan": "Çınarlı (Bektutiye) Camii",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "KSÜ Rektörlüğü",
+   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=149",
+   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611262118038006.jpg"
+  },
+  {
+   "id": "be92a56dde22",
+   "baslik": "Voleybol Eleme Grupları Türkiye Şampiyonası",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "00:00",
+   "ilce": "Onikişubat",
+   "mekan": "KSÜ Atatürk Spor Merkezi",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": "Spor Toto, Türkiye Üniversite Sporları Federasyonu, Unilig, KSÜ",
+   "kaynak_ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ksu.edu.tr/default.aspx?EId=148",
+   "gorsel": "https://www.ksu.edu.tr/depo/etkinlik_resim/_site_duyuru_2611261535068508.jpg"
+  },
   {
    "id": "719d3384661c",
    "baslik": "Genç KSÜ Söyleşileri \"İki Şair Bin Şiir\"",
@@ -85,7 +117,7 @@
    "ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
    "tur": "universite",
    "url": "https://www.ksu.edu.tr/",
-   "etkinlik_sayisi": 4,
+   "etkinlik_sayisi": 6,
    "durum": "çalışıyor"
   },
   {

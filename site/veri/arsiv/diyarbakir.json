@@ -1,5 +1,21 @@
 [
  {
+  "id": "e382a7cec8d7",
+  "baslik": "Cinayet Kumpanyası",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Yenişehir",
+  "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/cinayet-kumpanyasi",
+  "gorsel": null
+ },
+ {
   "id": "5c7337362069",
   "baslik": "Gizli Bahçe'nin Bezelyesi",
   "tarih": "2026-11-25",
@@ -510,6 +526,22 @@
   "kaynak_tur": "universite",
   "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/ateec-2026-11870",
   "gorsel": "https://www.dicle.edu.tr/contents/events/photos/607925a4-d73e-4c5d-b531-955c8a285a3a/ss_thumb_55a249fb524a4aa5aa6bc109b069a1fb_IMG-20260815-WA0000.jpg"
+ },
+ {
+  "id": "0831d727d4c1",
+  "baslik": "Ücretsiz Kort Tenisi Kursu",
+  "tarih": "2026-11-06",
+  "bitis": "2026-11-26",
+  "saat": null,
+  "ilce": "Sur",
+  "mekan": "Dicle Üniversitesi",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Dicle Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.dicle.edu.tr/etkinlikler/ucretsiz-kort-tenisi-kursu-12977",
+  "gorsel": "https://www.dicle.edu.tr/contents/events/photos/61730663-be34-4427-a527-63d900c094a2/ss_thumb_a31d6ad776c440ceb86a935cdae4519a_WhatsApp%20Image%202026-10-26%20at%2011.43.28.jpeg"
  },
  {
   "id": "1b3c294d16d0",

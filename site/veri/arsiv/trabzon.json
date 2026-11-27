@@ -1,5 +1,37 @@
 [
  {
+  "id": "05170f31b263",
+  "baslik": "BAP Destekleri Bilgilendirme Etkinliği",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Ortahisar",
+  "mekan": "Çevrim içi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.ktu.edu.tr/sbe/etkinlik/bap-destekleri-bilgilendirme-etkinligi",
+  "gorsel": "https://www.ktu.edu.tr/slayt/etk/sbe_91176c332155.jpeg"
+ },
+ {
+  "id": "71606e410a3e",
+  "baslik": "Töre",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Ortahisar",
+  "mekan": "Haluk Ongan Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/tore",
+  "gorsel": null
+ },
+ {
   "id": "22b2271dd91c",
   "baslik": "\"Bağımsızlık: Davranıştan Duyguya, Fark Etmekten Değişime\" Paneli",
   "tarih": "2026-11-25",

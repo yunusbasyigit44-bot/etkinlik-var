@@ -1,6 +1,6 @@
 {
  "il": "sinop",
- "guncelleme": "2026-11-26T15:12+03:00",
+ "guncelleme": "2026-11-27T15:08+03:00",
  "ilceler": [
   "Merkez",
   "Ayancık",
@@ -30,6 +30,22 @@
    "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/09/AsesIIIafis.webp"
   },
   {
+   "id": "39d7502040bd",
+   "baslik": "TÜBİTAK-3501 Kariyer Geliştirme Programı Doktora Sonrası Araştırmacı Aranıyor",
+   "tarih": "2026-11-26",
+   "bitis": "2026-11-28",
+   "saat": null,
+   "ilce": "Merkez",
+   "mekan": "Sinop Üniversitesi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": "Bilgilendirme",
+   "kaynak_ad": "Sinop Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/tubitak-3501-kariyer-gelistirme-programi-doktora-sonrasi-arastirmaci-araniyor/",
+   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/11/doktorasonrasiarastirmaci.webp"
+  },
+  {
    "id": "e41d5373e879",
    "baslik": "Akademik Girişimcilik \"Şirket Kurma Süreci ve Deneyim Paylaşımı\"",
    "tarih": "2026-11-27",
@@ -44,6 +60,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sinop.edu.tr/etkinlik/akademik-girisimcilik-sirket-kurma-sureci-ve-deneyim-paylasimi/",
    "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/11/akademikgirisimcilik.webp"
+  },
+  {
+   "id": "1e83a353b35f",
+   "baslik": "SCI/SCIE Yayın Stratejileri Serisi-17 AMOS İle Adım Adım Veri Analizleri Eğitimi (1.Oturum)",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "14:30",
+   "ilce": "Merkez",
+   "mekan": "Sinop Üniversitesi",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Bilimsel Etkinlikler",
+   "kaynak_ad": "Sinop Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.sinop.edu.tr/etkinlik/sci-scie-yayin-stratejileri-serisi-17-amos-ile-adim-adim-veri-analizleri-1-oturum/",
+   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/11/sciscie-1.png"
   },
   {
    "id": "821c454b2894",
@@ -123,7 +155,7 @@
    "kaynak_ad": "Sinop Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.sinop.edu.tr/etkinlik/4th-isedir-2026/",
-   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/03/4THEISEDIR.webp"
+   "gorsel": "https://www.sinop.edu.tr/wp-content/uploads/2026/03/4theisedir-1.webp"
   }
  ],
  "kaynaklar": [
@@ -131,7 +163,7 @@
    "ad": "Sinop Üniversitesi",
    "tur": "universite",
    "url": "https://www.sinop.edu.tr/etkinlik/",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {

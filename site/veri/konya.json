@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-26T15:06+03:00",
+ "guncelleme": "2026-11-27T15:03+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -34,86 +34,6 @@
   "Yunak"
  ],
  "etkinlikler": [
-  {
-   "id": "884beb443d3f",
-   "baslik": "Yastık Adam",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
-   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
-  },
-  {
-   "id": "38588e1db9c6",
-   "baslik": "Bando ve Mehteran Takımı",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Geleneksel Müzik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/bando-ve-mehteran-takimi/1023",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/eAyBilmjccQ296naROtXR3SHNgU-hwjQ.jpeg"
-  },
-  {
-   "id": "02310a1a0a87",
-   "baslik": "Konya Okulu - Prof. Dr. Ömer Özpınar",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-omer-ozpinar/1212",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/D0JfVX30v_QV6zHMCiLrLbEeJJUhCC60.jpeg"
-  },
-  {
-   "id": "214f83ade8e5",
-   "baslik": "5. İslam Ekonomisi ve Finansı Akademik İstişare Çalıştayı",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "09:00",
-   "ilce": "Meram",
-   "mekan": "Necmettin Erbakan Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": "Sosyo-Kültürel",
-   "kaynak_ad": "Necmettin Erbakan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/5-islam-ekonomisi-ve-finansi-akademik-istisare-calistayi-2542",
-   "gorsel": null
-  },
-  {
-   "id": "29995f585bfd",
-   "baslik": "Selçuklu Emiri Mübârizüddîn Ertokuş Konferansları 2",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Meram",
-   "mekan": "Necmettin Erbakan Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Sosyo-Kültürel",
-   "kaynak_ad": "Necmettin Erbakan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/selcuklu-emiri-mubarizuddin-ertokus-konferanslari-2-2548",
-   "gorsel": null
-  },
   {
    "id": "09c5d5a04641",
    "baslik": "Yastık Adam",
@@ -552,21 +472,21 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
-   "etkinlik_sayisi": 11,
+   "etkinlik_sayisi": 9,
    "durum": "çalışıyor"
   },
   {
    "ad": "Necmettin Erbakan Üniversitesi",
    "tur": "universite",
    "url": "https://erbakan.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

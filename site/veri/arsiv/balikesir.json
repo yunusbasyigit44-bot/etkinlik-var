@@ -1,5 +1,37 @@
 [
  {
+  "id": "513be0c09e09",
+  "baslik": "İmam Birgivi’nin İzinde: İlim, İrfan ve Ahlak",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "10:50",
+  "ilce": "Altıeylül",
+  "mekan": "İlahiyat Fakültesi Hasan Basri Çantay Konferans Salonu",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "İlahiyat Fakültesi",
+  "kaynak_ad": "Balıkesir Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+  "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_S%C3%B6yle%C5%9Fi_1795074728.jpeg"
+ },
+ {
+  "id": "6824185180e6",
+  "baslik": "Cambridge Linguaskill ile Yabancı Dil ve Kariyer Fırsatları",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "13:30",
+  "ilce": "Altıeylül",
+  "mekan": "Turizm Fakültesi Prof. Dr. Necdet Hacıoğlu Konferans Salonu",
+  "kategori": "Kariyer",
+  "ucretsiz": true,
+  "ozet": "Turizm Fakültesi",
+  "kaynak_ad": "Balıkesir Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+  "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_1794390254412_1794403015.png"
+ },
+ {
   "id": "4686f3de0d92",
   "baslik": "Turizm Yüzyılı Paneli",
   "tarih": "2026-11-25",

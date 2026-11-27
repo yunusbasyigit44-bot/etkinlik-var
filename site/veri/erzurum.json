@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-26T14:58+03:00",
+ "guncelleme": "2026-11-27T14:52+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -24,54 +24,6 @@
   "Uzundere"
  ],
  "etkinlikler": [
-  {
-   "id": "226eb79818cb",
-   "baslik": "Seferi Ramazan Bey'in Nafile Dünyası",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/seferi-ramazan-beyin-nafile-dunyasi",
-   "gorsel": "veri/gorsel/dt-seferi-ramazan-beyin-nafile-dunyasi.webp"
-  },
-  {
-   "id": "8af56e8d0feb",
-   "baslik": "Bu Gençlikte İş Var !",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum Teknik Üniversitesi",
-   "kategori": "Gençlik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Erzurum Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://erzurum.edu.tr/etkinlik/bu-genclikte-is-var1",
-   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/fe7492f8-59a6-4f1c-b40e-9fb39ad31bb4.webp?width=600&height=749&mode=carve"
-  },
-  {
-   "id": "78fe0fdbbd72",
-   "baslik": "Mârifetten Maârife Bir Erdem Pratiği Olarak Öğretmenlik",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum Teknik Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Erzurum Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://erzurum.edu.tr/etkinlik/marifetten-maarife-bir-erdem-pratigi-olarak-ogretmenlik1",
-   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/5ab96cfc-27d2-49d5-83d0-0bfd8948d433.webp?width=600&height=749&mode=carve"
-  },
   {
    "id": "c5443c71ff03",
    "baslik": "Seferi Ramazan Bey'in Nafile Dünyası",
@@ -526,14 +478,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 18,
-   "durum": "çalışıyor"
-  },
-  {
-   "ad": "Erzurum Teknik Üniversitesi",
-   "tur": "universite",
-   "url": "https://erzurum.edu.tr/",
-   "etkinlik_sayisi": 7,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {
@@ -541,6 +486,13 @@
    "tur": "universite",
    "url": "https://atauni.edu.tr/tum-etkinlikler/",
    "etkinlik_sayisi": 6,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Erzurum Teknik Üniversitesi",
+   "tur": "universite",
+   "url": "https://erzurum.edu.tr/",
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {

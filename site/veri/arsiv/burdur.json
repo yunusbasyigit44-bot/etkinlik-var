@@ -1,5 +1,21 @@
 [
  {
+  "id": "4ea4ec6f8cbb",
+  "baslik": "Yerdeki Süper Yıldızlar",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Merkez",
+  "mekan": "Avşar Han Sinema Salonu",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mehmetakif.edu.tr/content/13651/1/yerdeki-super-yildizlar",
+  "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13651/4_13651_2026-11-18-07-31-30-198753_thumb.webp"
+ },
+ {
   "id": "f1bf6ebda8e4",
   "baslik": "24 Kasım Öğretmenler Günü Dart Turnuvası",
   "tarih": "2026-11-25",

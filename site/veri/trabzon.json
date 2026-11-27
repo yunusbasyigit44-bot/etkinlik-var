@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-26T15:13+03:00",
+ "guncelleme": "2026-11-27T15:10+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -22,38 +22,6 @@
   "Yomra"
  ],
  "etkinlikler": [
-  {
-   "id": "05170f31b263",
-   "baslik": "BAP Destekleri Bilgilendirme Etkinliği",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "18:00",
-   "ilce": "Ortahisar",
-   "mekan": "Çevrim içi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/sbe/etkinlik/bap-destekleri-bilgilendirme-etkinligi",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/sbe_91176c332155.jpeg"
-  },
-  {
-   "id": "71606e410a3e",
-   "baslik": "Töre",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/tore",
-   "gorsel": "veri/gorsel/dt-tore.webp"
-  },
   {
    "id": "1c68f5a1145d",
    "baslik": "Trabzonlu İbrahim Cûdî Efendi Bilgi Şöleni",
@@ -199,6 +167,22 @@
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
   },
   {
+   "id": "6217349e8d71",
+   "baslik": "Mezunlarımız Anlatıyor #4 MUKTEDİR MÜHENDİSLİK",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Ortahisar",
+   "mekan": "MA2 AMFİSİ",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/makina/etkinlik/mezunlarimiz-anlatiyor-4muktedir-muhendislik",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/makina_958d933493cf.jpg"
+  },
+  {
    "id": "2b3be5d8282e",
    "baslik": "Gerçek Dünyadan Dijital İkize: Yeni Nesil Drone Teknolojileri",
    "tarih": "2026-12-02",
@@ -213,6 +197,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/gercek-dunyadan-dijital-ikize-yeni-nesil-drone-teknolojileri",
    "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_8855812279f0.jpg"
+  },
+  {
+   "id": "7d13c312941b",
+   "baslik": "İklim Değişen Dünyada Peyzaj Mimarlığının Rolü",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "11:00",
+   "ilce": "Ortahisar",
+   "mekan": "Radyo/TV",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/radyotv/etkinlik/iklim-degisen-dunyada-peyzaj-mimarliginin-rolu",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/radyotv_01b28f256aff.jpg"
   },
   {
    "id": "5e6742059925",
@@ -588,14 +588,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 19,
+   "etkinlik_sayisi": 18,
    "durum": "çalışıyor"
   },
   {
    "ad": "Karadeniz Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://www.ktu.edu.tr",
-   "etkinlik_sayisi": 15,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {

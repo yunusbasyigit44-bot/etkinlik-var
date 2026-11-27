@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-26T14:54+03:00",
+ "guncelleme": "2026-11-27T14:48+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -23,86 +23,6 @@
   "Serik"
  ],
  "etkinlikler": [
-  {
-   "id": "97679efb6436",
-   "baslik": "Fındıkkıran",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/findikkiran-antdob",
-   "gorsel": "veri/gorsel/dob-5-280.jpg"
-  },
-  {
-   "id": "825ba76446bd",
-   "baslik": "Therese Raquin (Bir Cinayetin Anatomisi)",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/therese-raquin-bir-cinayetin-anatomisi",
-   "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
-  },
-  {
-   "id": "68fa9565054a",
-   "baslik": "Atatürk İlkeleri ve İnkılâp Tarihi Araştırma ve Uygulama Merkezi, Seminer Programı",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Atatürk İlkeleri ve İnkılâp Tarihi Araştırma ve Uygulama Merkezi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/ataturk_ilkeleri_ve_inkil%C3%A2p_tarihi_arastirma_ve_uygulama_merkezi_seminer_programi_-5811",
-   "gorsel": null
-  },
-  {
-   "id": "ffd69776bf79",
-   "baslik": "Sağlık Hizmetleri Meslek Yüksekokulu \"Ben Mezunum Bana Sor\" Etkinliği",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Sağlık Hizmetleri Meslek Yüksekokulu, 109 Nolu Sınıf",
-   "kategori": "Sağlık",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/saglik_hizmetleri_meslek_yuksekokulu_ben_mezunum_bana_sor_etkinligi_-5810",
-   "gorsel": null
-  },
-  {
-   "id": "ce1091638669",
-   "baslik": "2. Akdeniz Üniversitesi Edebiyat Fakültesi Kazı ve Yüzey Araştırmaları Sempozyumu",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Edebiyat Fakültesi Bumin Kağan Konferans Salonu",
-   "kategori": "Edebiyat",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/2__akdeniz_universitesi_edebiyat_fakultesi_kazi_ve_yuzey_arastirmalari_sempozyumu-5802",
-   "gorsel": null
-  },
   {
    "id": "3a86bb0c95d9",
    "baslik": "Therese Raquin (Bir Cinayetin Anatomisi)",
@@ -232,6 +152,22 @@
    "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
   },
   {
+   "id": "3780bccd5e88",
+   "baslik": "AKİDUAM Webiner 47 ‘Aracılık, Düzenleyicilik ve Koşullu Süreç Analizleri’",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Microsoft Teams Platformu",
+   "kategori": "Spor",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/akiduam_webiner_47_%E2%80%98aracilik_duzenleyicilik_ve_kosullu_surec_analizleri%E2%80%99-5816",
+   "gorsel": null
+  },
+  {
    "id": "fe0e17346717",
    "baslik": "Kırmızı Cüce",
    "tarih": "2026-12-01",
@@ -310,6 +246,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gramofon-hala-caliyor",
    "gorsel": "veri/gorsel/dt-gramofon-hala-caliyor.webp"
+  },
+  {
+   "id": "32231cea498c",
+   "baslik": "Panel \"Özel Gereksinimli Çocuklarda Fiziksel Aktivite ve Spor: Uygulamadan Deneyime\"",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, Spor Bilimleri Fakültesi Prof. Dr. Kamil Özer Konferans Salonu",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/panel_ozel_gereksinimli_cocuklarda_fiziksel_aktivite_ve_spor%3A_uygulamadan_deneyime-5815",
+   "gorsel": null
   },
   {
    "id": "3d5d367318bf",
@@ -552,6 +504,22 @@
    "gorsel": "veri/gorsel/dt-taziye.webp"
   },
   {
+   "id": "500c2297b19f",
+   "baslik": "Carmına Burana",
+   "tarih": "2026-12-10",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Muratpaşa",
+   "mekan": "Antalya Haşim İşçan Kültür Merkezi",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://biletinial.com/opera-bale/carmina-burana-antalya-dob",
+   "gorsel": "veri/gorsel/dob-5-3389.webp"
+  },
+  {
    "id": "a4180c0c7829",
    "baslik": "Taziye",
    "tarih": "2026-12-10",
@@ -653,7 +621,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 25,
+   "etkinlik_sayisi": 24,
    "durum": "çalışıyor"
   },
   {
@@ -667,7 +635,7 @@
    "ad": "Akdeniz Üniversitesi",
    "tur": "universite",
    "url": "https://www.akdeniz.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

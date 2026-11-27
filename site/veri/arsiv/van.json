@@ -1,5 +1,21 @@
 [
  {
+  "id": "d5178e1501a4",
+  "baslik": "İbiş'in Rüyası",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "19:30",
+  "ilce": "İpekyolu",
+  "mekan": "Van Kültür Merkezi Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/ibisin-ruyasi",
+  "gorsel": null
+ },
+ {
   "id": "04f4d65ffa5e",
   "baslik": "Papağan Kaçtı",
   "tarih": "2026-11-25",

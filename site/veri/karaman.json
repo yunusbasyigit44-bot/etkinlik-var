@@ -1,6 +1,6 @@
 {
  "il": "karaman",
- "guncelleme": "2026-11-26T15:14+03:00",
+ "guncelleme": "2026-11-27T15:11+03:00",
  "ilceler": [
   "Merkez",
   "Ayrancı",
@@ -10,22 +10,6 @@
   "Sarıveliler"
  ],
  "etkinlikler": [
-  {
-   "id": "177a789769e1",
-   "baslik": "Dünya Çocuk Haklari Günü Hediye Dagitimi",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Merkez",
-   "mekan": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karamanoğlu Mehmetbey Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.kmu.edu.tr/event_view_popup.aspx?event_id=4177",
-   "gorsel": null
-  },
   {
    "id": "8676ccb7858a",
    "baslik": "Ögretimi Tasarla, Ögrenmeyi Yasat",
@@ -96,7 +80,7 @@
    "ad": "Karamanoğlu Mehmetbey Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.kmu.edu.tr/index.aspx",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

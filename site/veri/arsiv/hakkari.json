@@ -1,5 +1,37 @@
 [
  {
+  "id": "8a44404f0533",
+  "baslik": "\"Yeraltından Ekonomiye\" Etkinliği",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "10:00",
+  "ilce": "Merkez",
+  "mekan": "Ölmez Madncilik A.Ş. Merkez/Hakkari",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Diğer",
+  "kaynak_ad": "Hakkari Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/550/%22yeraltindan-ekonomiye%22-etkinligi",
+  "gorsel": "https://hubis.hakkari.edu.tr/media/event/550/cover/thumb/08459209e5d945b4b2eb9429979b04bd.webp"
+ },
+ {
+  "id": "0c20baa2fea7",
+  "baslik": "\"Denetimli Serbestlik ve Üniversite İş Birliğinde Toplumsal Sorumluluk\" Atölye Etkinliği",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "12:30",
+  "ilce": "Yüksekova",
+  "mekan": "Yüksekova MYO Konferans Salonu",
+  "kategori": "Atölye",
+  "ucretsiz": true,
+  "ozet": "Diğer",
+  "kaynak_ad": "Hakkari Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/548/%22denetimli-serbestlik-ve-universite-is-birliginde-toplumsal-sorumluluk%22-atolye-etkinligi",
+  "gorsel": "https://hubis.hakkari.edu.tr/media/event/548/cover/thumb/9221a7ebbc6a4a7fb16ef6ae3da7a074.webp"
+ },
+ {
   "id": "e9a962a7411d",
   "baslik": "Bilgilendirme ve Farkındalık Eğitimi",
   "tarih": "2026-11-25",

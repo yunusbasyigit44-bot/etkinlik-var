@@ -1,6 +1,6 @@
 {
  "il": "erzincan",
- "guncelleme": "2026-11-26T14:57+03:00",
+ "guncelleme": "2026-11-27T14:52+03:00",
  "ilceler": [
   "Merkez",
   "Çayırlı",
@@ -13,6 +13,22 @@
   "Üzümlü"
  ],
  "etkinlikler": [
+  {
+   "id": "a6a81e6244ee",
+   "baslik": "Ahıska Türküleri \" İki Asırlık Oratoryo\"",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "18:00",
+   "ilce": "Merkez",
+   "mekan": "Müftülük Konferans Salonu",
+   "kategori": "Geleneksel Müzik",
+   "ucretsiz": true,
+   "ozet": "Gösteri",
+   "kaynak_ad": "Erzincan Binali Yıldırım Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://ebyu.edu.tr/etkinlik/ahiska-turkuleri-iki-asirlik-oratoryo/",
+   "gorsel": null
+  },
   {
    "id": "df149ca19cb1",
    "baslik": "Erteleme Döngüsünü Kırıyorum / Atölye Çalışması",
@@ -67,7 +83,7 @@
    "ad": "Erzincan Binali Yıldırım Üniversitesi",
    "tur": "universite",
    "url": "https://ebyu.edu.tr/etkinlik/?ical=1",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

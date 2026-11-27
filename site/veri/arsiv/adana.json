@@ -1,5 +1,37 @@
 [
  {
+  "id": "853a87421069",
+  "baslik": "Huzurlu Toplum, Müreffeh Gelecek: Türkiye'nin Yeni Ufukları",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "17:00",
+  "ilce": "Sarıçam",
+  "mekan": "ATÜ İİSBF Konferans Salonu",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Etkinlik",
+  "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.atu.edu.tr",
+  "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/251120261126_K_256_ffa2e9bd-3b21-4b53-8281-f2daee7f02a9.jpg"
+ },
+ {
+  "id": "8cbdf2a8d61d",
+  "baslik": "Devlet Ana",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Seyhan",
+  "mekan": "Ramazanoğlu Kültür Merkezi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları Adana",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
+  "gorsel": null
+ },
+ {
   "id": "17b97f01c674",
   "baslik": "Sacred Spaces and Cultural Dialogue",
   "tarih": "2026-11-25",
@@ -62,6 +94,22 @@
   "kaynak_tur": "universite",
   "kaynak_url": "https://www.cu.edu.tr/haber-detay/25-kasim-kadina-yonelik-siddete-karsi-uluslararasi-mucadele-gunu-1/",
   "gorsel": "https://www.cu.edu.tr/media/3etf5mfb/whatsapp-image-2026-11-18-at-17-42-19.jpeg"
+ },
+ {
+  "id": "0457d11e5c99",
+  "baslik": "Kadına Şiddete Hayır",
+  "tarih": "2026-11-25",
+  "bitis": "2026-11-26",
+  "saat": "16:00",
+  "ilce": "Sarıçam",
+  "mekan": "Yusuf Has Hacib Konferans Salonu",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Konferans",
+  "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.atu.edu.tr",
+  "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/241120261441_K_1_ff95ede1-ed72-40f1-809a-e9e4159e8910.jpg"
  },
  {
   "id": "9e42a6bf9584",

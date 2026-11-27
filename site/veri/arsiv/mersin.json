@@ -1,5 +1,37 @@
 [
  {
+  "id": "cf999ef75e0d",
+  "baslik": "Müze Sohbetleri - 15: Süveyş'ten Sürek Avına Balon Balığının Hikayesi",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "18:00",
+  "ilce": "Yenişehir",
+  "mekan": "Deniz Bilimleri Uygulama ve Araştırma Merkezi Deniz Canlıları Müzesi",
+  "kategori": "Sergi",
+  "ucretsiz": true,
+  "ozet": "Akademik",
+  "kaynak_ad": "Mersin Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/muze-sohbetleri-15-suveysten-surek-avina-balon-baliginin-hikayesi-n-10001805",
+  "gorsel": "https://cdn.mersin.edu.tr/public/renditions/f8b3b3fc-6e7e-40d5-aa13-2f3f8495d6c6/ad5c84ff-b4fa-487a-ba02-149eac63988c/58c46c82-3e53-4162-b7a0-e9eeb5e7c3b6/1280-a84b1b5f170b306240e69abdb02a6c52355445eb91d1bb3fe7829514d59f7002.webp"
+ },
+ {
+  "id": "2945db47ab3c",
+  "baslik": "Kıss Me Kate",
+  "tarih": "2026-11-26",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Yenişehir",
+  "mekan": "Mersin Opera Büyük Sahne",
+  "kategori": "Opera & Bale",
+  "ucretsiz": false,
+  "ozet": "Devlet Opera ve Balesi",
+  "kaynak_ad": "Devlet Opera ve Balesi",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://biletinial.com/opera-bale/kiss-me-kate-mersin-dob",
+  "gorsel": null
+ },
+ {
   "id": "bd586b892c1c",
   "baslik": "Panel \"Beden Eğitimi ve Spor Öğretmenliği Mesleği: Sahadan Akademiye, Sorunlardan Çözüm Önerilerine\"",
   "tarih": "2026-11-24",

@@ -1,6 +1,6 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-11-26",
+ "guncelleme": "2026-11-27",
  "secilenler": [
   {
    "id": "d7762ec713f9",
@@ -9,24 +9,16 @@
    "elle": true
   },
   {
-   "id": "f905b9937d0d",
+   "id": "5c4038dee0b6",
    "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "8f70e083831a",
+   "id": "0f811cbf5525",
    "not": "Ankara'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "97679efb6436",
+   "id": "5f65122b950e",
    "not": "Antalya'da opera ve bale sahnesinden bir akşam."
-  },
-  {
-   "id": "b7881e9f11c7",
-   "not": "Afyonkarahisar'da geleneksel ezgiler."
-  },
-  {
-   "id": "38588e1db9c6",
-   "not": "Konya'da geleneksel ezgiler."
   },
   {
    "id": "2d6d7d8379a7",
@@ -49,16 +41,16 @@
    "not": "Manisa'da perde açılıyor."
   },
   {
-   "id": "77e3ce5d600a",
-   "not": "Afyonkarahisar'da perde açılıyor."
-  },
-  {
-   "id": "09a79c976c14",
-   "not": "İstanbul'da kahkaha garantili bir akşam."
+   "id": "d197a280f434",
+   "not": "İstanbul'da perde açılıyor."
   },
   {
    "id": "1acc853d68c4",
    "not": "Muğla'da festival havası."
+  },
+  {
+   "id": "ca9da6bfde5b",
+   "not": "İzmir'de geleneksel ezgiler."
   },
   {
    "id": "a00303c71871",
@@ -67,6 +59,14 @@
   {
    "id": "6dbaf62dc677",
    "not": "Muğla'da gezip görülecek bir sergi."
+  },
+  {
+   "id": "430ea86ad1f5",
+   "not": "Afyonkarahisar'da gezip görülecek bir sergi."
+  },
+  {
+   "id": "0637dcce41e6",
+   "not": "Afyonkarahisar'da doğada bir gün."
   }
  ]
 }

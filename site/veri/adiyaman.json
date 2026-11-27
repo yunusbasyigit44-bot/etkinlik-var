@@ -1,6 +1,6 @@
 {
  "il": "adiyaman",
- "guncelleme": "2026-11-26T14:50+03:00",
+ "guncelleme": "2026-11-27T14:44+03:00",
  "ilceler": [
   "Merkez",
   "Besni",
@@ -13,6 +13,22 @@
   "Tut"
  ],
  "etkinlikler": [
+  {
+   "id": "a99671dfc00a",
+   "baslik": "Kitap Yardımı",
+   "tarih": "2026-11-27",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "Milli İrade Ortaokulu",
+   "kategori": "Edebiyat",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/27/kitap-yardimi",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/27/kitap-yardimi/thumb/whatsapp%20%C4%B1mage%202026-11-26%20at%2018.05.53.jpeg"
+  },
   {
    "id": "830e10055fd2",
    "baslik": "3. Sınıflar Önlük Giyme Töreni",
@@ -30,6 +46,54 @@
    "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/27/3-siniflar-onluk-giyme-toreni/thumb/%C3%B6nl%C3%BCk%20giyme.jpg"
   },
   {
+   "id": "524df6996694",
+   "baslik": "Algı Yönetimi ve Manipülasyon",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "ADYÜ Genç Ofis",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/28/algi-yonetimi-ve-manipulasyon",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/28/algi-yonetimi-ve-manipulasyon/thumb/whatsapp%20%C4%B1mage%202026-11-26%20at%2018.05.53%20%282%29.jpeg"
+  },
+  {
+   "id": "2c06bfc521f7",
+   "baslik": "Topluluk Tanıtım ve Üye Kaydı",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "09:00",
+   "ilce": "Merkez",
+   "mekan": "ADYÜ Gençlik Meydanı",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/30/topluluk-tanitim-ve-uye-kaydi",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/30/topluluk-tanitim-ve-uye-kaydi/thumb/whatsapp%20%C4%B1mage%202026-11-26%20at%2018.05.54%20%284%29.jpeg"
+  },
+  {
+   "id": "b6a1d6dd942b",
+   "baslik": "Farkındalıklarla Birlikte Engelsiz Bir Geleceğe",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "11:30",
+   "ilce": "Merkez",
+   "mekan": "ADYÜ Gençlik Meydanı",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/12/02/farkindaliklarla-birlikte-engelsiz-bir-gelecege",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/12/02/farkindaliklarla-birlikte-engelsiz-bir-gelecege/thumb/whatsapp%20%C4%B1mage%202026-11-26%20at%2018.05.54.jpeg"
+  },
+  {
    "id": "ca1594de5476",
    "baslik": "Bir Gün Değil Her Gün Farkındalık",
    "tarih": "2026-12-03",
@@ -44,6 +108,70 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/12/03/bir-gun-degil-her-gun-farkindalik",
    "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/12/03/bir-gun-degil-her-gun-farkindalik/thumb/engellikonf..jpg"
+  },
+  {
+   "id": "c2754a80bff9",
+   "baslik": "Kintsugi Workshop",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "14:00",
+   "ilce": "Merkez",
+   "mekan": "ADYÜ Genç Ofis",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/12/03/kintsugi-workshop",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/12/03/kintsugi-workshop/thumb/whatsapp%20%C4%B1mage%202026-11-26%20at%2018.05.54%20%282%29.jpeg"
+  },
+  {
+   "id": "beacb21bbc30",
+   "baslik": "Topluluğumuzu Tanıtıyoruz",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Merkez",
+   "mekan": "ADYÜ Gençlik Meydanı",
+   "kategori": "Gençlik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/12/04/toplulugumuzu-tanitiyoruz",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/12/04/toplulugumuzu-tanitiyoruz/thumb/whatsapp%20%C4%B1mage%202026-11-26%20at%2018.05.54%20%281%29.jpeg"
+  },
+  {
+   "id": "c87a973cf393",
+   "baslik": "Parmak Uçlarından Dünyaya",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "Şehit Mehmet Kılıç İlkokulu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/12/04/parmak-uclarindan-dunyaya",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/12/04/parmak-uclarindan-dunyaya/thumb/whatsapp%20%C4%B1mage%202026-11-26%20at%2018.05.53%20%285%29.jpeg"
+  },
+  {
+   "id": "f743ec831b77",
+   "baslik": "Erasmus+Talks: Bosnia and Herzegovina",
+   "tarih": "2026-12-15",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Merkez",
+   "mekan": "ADYÜ Merkezi Arş. Lab. Uyg. ve Arş. Merkezi Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adıyaman Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/12/15/erasmustalks-bosnia-and-herzegovina",
+   "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/12/15/erasmustalks-bosnia-and-herzegovina/thumb/whatsapp%20%C4%B1mage%202026-11-26%20at%2018.31.18.jpeg"
   }
  ],
  "kaynaklar": [
@@ -51,7 +179,7 @@
    "ad": "Adıyaman Üniversitesi",
    "tur": "universite",
    "url": "https://adiyaman.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 10,
    "durum": "çalışıyor"
   },
   {

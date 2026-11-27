@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-26T14:50+03:00",
+ "guncelleme": "2026-11-27T14:43+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -20,22 +20,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "0457d11e5c99",
-   "baslik": "Kadına Şiddete Hayır",
-   "tarih": "2026-11-25",
-   "bitis": "2026-11-26",
-   "saat": "16:00",
-   "ilce": "Sarıçam",
-   "mekan": "Yusuf Has Hacib Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Konferans",
-   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/241120261441_K_1_ff95ede1-ed72-40f1-809a-e9e4159e8910.jpg"
-  },
-  {
    "id": "c44fa4476abb",
    "baslik": "Türkiye'nin Yeni Ufukları",
    "tarih": "2026-11-26",
@@ -50,38 +34,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.atu.edu.tr",
    "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/111120260904_K_1_a1acf936-7da1-4958-8d50-414ec2530660.jpg"
-  },
-  {
-   "id": "853a87421069",
-   "baslik": "Huzurlu Toplum, Müreffeh Gelecek: Türkiye'nin Yeni Ufukları",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "17:00",
-   "ilce": "Sarıçam",
-   "mekan": "ATÜ İİSBF Konferans Salonu",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Etkinlik",
-   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/251120261126_K_256_ffa2e9bd-3b21-4b53-8281-f2daee7f02a9.jpg"
-  },
-  {
-   "id": "8cbdf2a8d61d",
-   "baslik": "Devlet Ana",
-   "tarih": "2026-11-26",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
-   "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
   },
   {
    "id": "498033991e24",
@@ -226,6 +178,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
+  },
+  {
+   "id": "9a0eb78380a3",
+   "baslik": "3 Aralık Engelliler Günü",
+   "tarih": "2026-12-03",
+   "bitis": "2026-12-04",
+   "saat": "17:00",
+   "ilce": "Sarıçam",
+   "mekan": "Yusuf Has Hacip Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Konferans",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/261120262021_K_1_1c201785-c032-49ef-9c89-e2e54931c5e3.jpg"
   },
   {
    "id": "3272b7d2ccf0",
@@ -596,22 +564,6 @@
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
   },
   {
-   "id": "7b8661f3edda",
-   "baslik": "Karanlıkta Komedi",
-   "tarih": "2026-12-26",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
-  },
-  {
    "id": "40718bb40f1d",
    "baslik": "Geçmem Gerek",
    "tarih": "2026-12-26",
@@ -626,6 +578,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/gecmem_gerek.jpg"
+  },
+  {
+   "id": "7b8661f3edda",
+   "baslik": "Karanlıkta Komedi",
+   "tarih": "2026-12-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Seyhan",
+   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
+   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
   },
   {
    "id": "d76879f68fb7",
@@ -688,14 +656,14 @@
    "ad": "Devlet Tiyatroları Adana",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 13,
    "durum": "çalışıyor"
   },
   {
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 8,
    "durum": "çalışıyor"
   },
   {
