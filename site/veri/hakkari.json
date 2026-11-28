@@ -1,6 +1,6 @@
 {
  "il": "hakkari",
- "guncelleme": "2026-11-27T14:56+03:00",
+ "guncelleme": "2026-11-28T14:30+03:00",
  "ilceler": [
   "Merkez",
   "Çukurca",
@@ -8,8 +8,32 @@
   "Şemdinli",
   "Yüksekova"
  ],
- "etkinlikler": [],
+ "etkinlikler": [
+  {
+   "id": "d2f1ef22d3ca",
+   "baslik": "İklim Krizi-Su İlişkisi: Anlamak, Anlatmak ve Anlamı ile Yaşamak” ve “Ulusal ve Uluslararası Proje Fırsatları” Semineri",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Yüksekova",
+   "mekan": "Yüksekova MYO Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminer",
+   "kaynak_ad": "Hakkari Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.hakkari.edu.tr/etkinlik/557/iklim-krizi-su-iliskisi-anlamak-anlatmak-ve-anlami-ile-yasamak-ve-ulusal-ve-uluslararasi-proje-firsatlari-semineri",
+   "gorsel": "https://hubis.hakkari.edu.tr/media/event/557/cover/thumb/5c440fea276e428c9eb3345be4cffa38.webp"
+  }
+ ],
  "kaynaklar": [
+  {
+   "ad": "Hakkari Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.hakkari.edu.tr/etkinlikler",
+   "etkinlik_sayisi": 1,
+   "durum": "çalışıyor"
+  },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
@@ -37,13 +61,6 @@
    "url": "https://www.hakkari.gov.tr",
    "etkinlik_sayisi": 0,
    "durum": "duyurular idari; etkinlik yok"
-  },
-  {
-   "ad": "Hakkari Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.hakkari.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Hakkari İl Kültür ve Turizm Müdürlüğü",

@@ -1,5 +1,21 @@
 [
  {
+  "id": "ca41ffc1e2b5",
+  "baslik": "BİLTEVT'2026 Uluslararası Engelsiz Bilişim 2026 Kongresi",
+  "tarih": "2026-11-26",
+  "bitis": "2026-11-27",
+  "saat": "15:00",
+  "ilce": "Yunusemre",
+  "mekan": "İstanbul",
+  "kategori": "Akademik",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/biltevt-2026-uluslararasi-engelsiz-bilisim-2026-kongresi#baslangic",
+  "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261119123810754-NRYJM.jpg"
+ },
+ {
   "id": "6e2d9bb09718",
   "baslik": "24 Kasım Öğretmenler Günü Kutlama Programı",
   "tarih": "2026-11-24",
@@ -78,6 +94,22 @@
   "kaynak_tur": "belediye",
   "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1293",
   "gorsel": "https://kultur.manisa.bel.tr/uploads/events/629bec17-fed8-4401-a508-fe8ca4d4b6e2_HANSEL-GRETEL-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
+ },
+ {
+  "id": "62672e13a6e8",
+  "baslik": "Mizojini Küller ve Hatıralar",
+  "tarih": "2026-11-13",
+  "bitis": "2026-11-27",
+  "saat": "20:00",
+  "ilce": "Şehzadeler",
+  "mekan": "Şehir Tiyatrosu Uğur Mumcu Sahnesi - Şehzadeler / Manisa",
+  "kategori": "Tiyatro",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1294",
+  "gorsel": "https://kultur.manisa.bel.tr/uploads/events/144fb3dd-4274-49f5-8c3e-97bf5f230971_MI%CC%87ZOJI%CC%87NI%CC%87-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
  },
  {
   "id": "b423f03b6315",

@@ -1,5 +1,21 @@
 [
  {
+  "id": "618014ac9332",
+  "baslik": "Mavi Vatan Ekseninde Doğu Akdeniz ve Kıbrıs",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": "15:00",
+  "ilce": "Altıeylül",
+  "mekan": "Avlu Kongre ve Kültür Merkezi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Basin",
+  "kaynak_ad": "Balıkesir Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+  "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-26_at_09.59.40_1795676575.jpeg"
+ },
+ {
   "id": "513be0c09e09",
   "baslik": "İmam Birgivi’nin İzinde: İlim, İrfan ve Ahlak",
   "tarih": "2026-11-26",

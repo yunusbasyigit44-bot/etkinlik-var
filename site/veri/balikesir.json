@@ -1,6 +1,6 @@
 {
  "il": "balikesir",
- "guncelleme": "2026-11-27T14:49+03:00",
+ "guncelleme": "2026-11-28T14:22+03:00",
  "ilceler": [
   "Altıeylül",
   "Karesi",
@@ -24,22 +24,6 @@
   "Susurluk"
  ],
  "etkinlikler": [
-  {
-   "id": "618014ac9332",
-   "baslik": "Mavi Vatan Ekseninde Doğu Akdeniz ve Kıbrıs",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "15:00",
-   "ilce": "Altıeylül",
-   "mekan": "Avlu Kongre ve Kültür Merkezi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": "Basin",
-   "kaynak_ad": "Balıkesir Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
-   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-26_at_09.59.40_1795676575.jpeg"
-  },
   {
    "id": "d1262f8d7c79",
    "baslik": "BUBFA ESPORTS 1v1 ARAM Turnuvası",
@@ -71,6 +55,38 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
    "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-25_at_09.13.09_1795587715.jpeg"
+  },
+  {
+   "id": "2f223152b85f",
+   "baslik": "Mutfak Atölyesi: Deniz Mahsulleri ve Mezeler",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Altıeylül",
+   "mekan": "Balıkesir Gastronomi Eğitim Mutfağı",
+   "kategori": "Yemek",
+   "ucretsiz": true,
+   "ozet": "Burhaniye Uygulamali Bilimler Fakültesi",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_mutfak_atolyesi_1795781667.jpeg"
+  },
+  {
+   "id": "6cc260b0a3bc",
+   "baslik": "Eğitim Seminerleri",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "10:00",
+   "ilce": "Edremit",
+   "mekan": "Altınoluk Meslek Yüksekokulu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Altinoluk Meslek Yüksekokulu",
+   "kaynak_ad": "Balıkesir Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://etkinlik.balikesir.edu.tr/",
+   "gorsel": "https://form-api.balikesir.edu.tr/uploads/file_WhatsApp_Image_2026-11-27_at_15.20.04_1795783276.jpeg"
   },
   {
    "id": "3f19c60803c8",
@@ -238,7 +254,7 @@
    "ad": "Balıkesir Üniversitesi",
    "tur": "universite",
    "url": "https://etkinlik.balikesir.edu.tr/",
-   "etkinlik_sayisi": 13,
+   "etkinlik_sayisi": 14,
    "durum": "çalışıyor"
   },
   {

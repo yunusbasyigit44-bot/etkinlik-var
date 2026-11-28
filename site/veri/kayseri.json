@@ -1,6 +1,6 @@
 {
  "il": "kayseri",
- "guncelleme": "2026-11-27T15:02+03:00",
+ "guncelleme": "2026-11-28T14:34+03:00",
  "ilceler": [
   "Akkışla",
   "Bünyan",
@@ -20,22 +20,6 @@
   "Yeşilhisar"
  ],
  "etkinlikler": [
-  {
-   "id": "0f0a4c0b1ae0",
-   "baslik": "Keşanlı Ali Destanı",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Melikgazi",
-   "mekan": "Kayseri Devlet Tiyatrosu Müdürlüğü Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kesanli-ali-destani",
-   "gorsel": "veri/gorsel/dt-kesanli-ali-destani.jpg"
-  },
   {
    "id": "f9dd7218219c",
    "baslik": "Keşanlı Ali Destanı",
@@ -83,6 +67,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/masal-gulleri",
    "gorsel": "veri/gorsel/dt-masal-gulleri.webp"
+  },
+  {
+   "id": "a31824431944",
+   "baslik": "Gölgeler ve Işıklar Konseri",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Melikgazi",
+   "mekan": "Erciyes Üniversitesi",
+   "kategori": "Konser",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Erciyes Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.erciyes.edu.tr/tr/etkinlik-detay/golgeler-ve-isiklar-konseri/10459",
+   "gorsel": "https://www.erciyes.edu.tr/images/Etkinlik/a8bc3a83-d58c-4112-b098-f0200312f276.png"
   },
   {
    "id": "434d12b77977",
@@ -250,7 +250,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 14,
+   "etkinlik_sayisi": 13,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Erciyes Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.erciyes.edu.tr/tr/etkinlikler",
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {
@@ -259,13 +266,6 @@
    "url": "https://www.agu.edu.tr",
    "etkinlik_sayisi": 0,
    "durum": "etkinlik takvimi bulunamadı"
-  },
-  {
-   "ad": "Erciyes Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.erciyes.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 0,
-   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "Kayseri Büyükşehir Belediyesi",

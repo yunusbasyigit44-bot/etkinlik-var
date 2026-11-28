@@ -1,5 +1,37 @@
 [
  {
+  "id": "9d346b4cfb2a",
+  "baslik": "Muallim İbrâhim Cûdî Efendi",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": "09:45",
+  "ilce": "Ortahisar",
+  "mekan": "Hamamizade İhsan Bey Kültür Merkezi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.ktu.edu.tr/tr/etkinlik/muallim-ibrahim-cudi-efendi",
+  "gorsel": "https://www.ktu.edu.tr/slayt/etk/tr_7f3e2d730efb.jpg"
+ },
+ {
+  "id": "051f256d1243",
+  "baslik": "Töre",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Ortahisar",
+  "mekan": "Haluk Ongan Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/tore",
+  "gorsel": null
+ },
+ {
   "id": "05170f31b263",
   "baslik": "BAP Destekleri Bilgilendirme Etkinliği",
   "tarih": "2026-11-26",

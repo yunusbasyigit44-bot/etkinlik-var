@@ -1,5 +1,37 @@
 [
  {
+  "id": "c5443c71ff03",
+  "baslik": "Seferi Ramazan Bey'in Nafile Dünyası",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": "19:30",
+  "ilce": "Yakutiye",
+  "mekan": "Erzurum DT Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/seferi-ramazan-beyin-nafile-dunyasi",
+  "gorsel": null
+ },
+ {
+  "id": "034ccb66f526",
+  "baslik": "Sürdürülebilir Gelecek İçin Bugünden Harekete Geç",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Yakutiye",
+  "mekan": "Erzurum Teknik Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Erzurum Teknik Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://erzurum.edu.tr/etkinlik/surdurulebilir-gelecek-icin-bugunden-harekete-gec1",
+  "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/a959c83c-6ffc-4c18-a979-264b80a6a5b9.webp?width=600&height=749&mode=carve"
+ },
+ {
   "id": "226eb79818cb",
   "baslik": "Seferi Ramazan Bey'in Nafile Dünyası",
   "tarih": "2026-11-26",

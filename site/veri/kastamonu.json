@@ -1,6 +1,6 @@
 {
  "il": "kastamonu",
- "guncelleme": "2026-11-27T15:01+03:00",
+ "guncelleme": "2026-11-28T14:34+03:00",
  "ilceler": [
   "Merkez",
   "Abana",
@@ -25,38 +25,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "453890ced150",
-   "baslik": "V. Uluslararası Öğrenci Tanışma Günü",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Hoca Ahmet Yesevi Kültür Merkezi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kastamonu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://kastamonu.edu.tr/tr/etkinlikler/v-uluslararasi-ogrenci-tanisma-gunu-176",
-   "gorsel": "https://files.kastamonu.edu.tr/Ortam/2026/Kas%C4%B1m/Etkinlik/fda6a219-5a32-48b9-ac14-e193ed4783d6.jpg"
-  },
-  {
-   "id": "6909f9783357",
-   "baslik": "Kök Hücre ve Hücresel Tedaviler Derneği - Kastamonu Sempozyumu",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "KÜ Merkezi Kütüphane - Cemil Meriç Salonu",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Kastamonu Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://kastamonu.edu.tr/tr/etkinlikler/kok-hucre-ve-hucresel-tedaviler-dernegi-kastamonu-sempozyumu-157",
-   "gorsel": "https://files.kastamonu.edu.tr/Ortam/2026/Eyl%C3%BCl/Etkinlik/ae963586-4723-43e8-9434-444ffafc725d.jpg"
-  },
-  {
    "id": "af2738376d58",
    "baslik": "Dijital Haklar Kişisel Veriler ve Mahremiyet Konferansı",
    "tarih": "2026-11-30",
@@ -78,7 +46,7 @@
    "ad": "Kastamonu Üniversitesi",
    "tur": "universite",
    "url": "https://kastamonu.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 1,
    "durum": "çalışıyor"
   },
   {

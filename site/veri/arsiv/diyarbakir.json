@@ -1,5 +1,21 @@
 [
  {
+  "id": "2981bd8b366d",
+  "baslik": "Cinayet Kumpanyası",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Yenişehir",
+  "mekan": "Cahit Sıtkı Tarancı Kültür Merkezi Orhan Asena Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/cinayet-kumpanyasi",
+  "gorsel": null
+ },
+ {
   "id": "e382a7cec8d7",
   "baslik": "Cinayet Kumpanyası",
   "tarih": "2026-11-26",

@@ -1,6 +1,6 @@
 {
  "il": "burdur",
- "guncelleme": "2026-11-27T14:49+03:00",
+ "guncelleme": "2026-11-28T14:23+03:00",
  "ilceler": [
   "Merkez",
   "Ağlasun",
@@ -15,54 +15,6 @@
   "Yeşilova"
  ],
  "etkinlikler": [
-  {
-   "id": "8784c805c189",
-   "baslik": "Temiz Bir Kampüs 2",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "16:00",
-   "ilce": "Merkez",
-   "mekan": "Ünipark AVM Otoparkı",
-   "kategori": "Doğa & Gezi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13678/1/temiz-bir-kampus-2",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13678/4_13678_2026-11-23-06-04-16-944854_thumb.webp"
-  },
-  {
-   "id": "affa1663dd6a",
-   "baslik": "Şiddetle Mücadelede Disiplinlerarası Yaklaşımlar",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Merkez",
-   "mekan": "Çevrim İçi Zoom",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13574/1/siddetle-mucadelede-disiplinlerarasi-yaklasimlar",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13574/4_13574_2026-11-04-06-45-55-692308_thumb.webp"
-  },
-  {
-   "id": "12ea303a9aee",
-   "baslik": "Renkli Bahçeler Mutlu Çocuklar",
-   "tarih": "2026-11-28",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Merkez",
-   "mekan": "Burdur Altın Terim Solmaz İlkokulu",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13682/1/renkli-bahceler-mutlu-cocuklar",
-   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13682/4_13682_2026-11-23-06-20-09-528512_thumb.webp"
-  },
   {
    "id": "649d50d46504",
    "baslik": "Rock Gecesi \"Anadolu\"",
@@ -110,6 +62,54 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.mehmetakif.edu.tr/content/13713/1/hiv-ve-diger-cinsel-yolla-bulasan-enfeksiyonlar-farkindalik-semineri",
    "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13713/4_13713_2026-11-27-10-32-32-510354_thumb.webp"
+  },
+  {
+   "id": "5922854e03d8",
+   "baslik": "Geri Dönüşüm Malzemeleriyle Kağıt Yapımı",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "16:00",
+   "ilce": "Merkez",
+   "mekan": "Burdur Gençlik Merkezi Atölyesi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13711/1/geri-donusum-malzemeleriyle-kagit-yapimi",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13711/4_13711_2026-11-27-07-45-12-604912_thumb.webp"
+  },
+  {
+   "id": "3bab31a37959",
+   "baslik": "Doç. Dr. Funda UYSAL ile Merakın Gücü: Öğrenmenin ve Araştırmanın İpuçları",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "18:45",
+   "ilce": "Merkez",
+   "mekan": "Burdur Yurt Müdürlüğü",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13626/1/doc-dr-funda-uysal-ile-merakin-gucu-ogrenmenin-ve-arastirmanin-ipuclari",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13626/4_13626_2026-11-16-06-07-45-916380_thumb.webp"
+  },
+  {
+   "id": "2df6b655d025",
+   "baslik": "İlgili Sinema Incendies",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "19:00",
+   "ilce": "Merkez",
+   "mekan": "Gar Kafe",
+   "kategori": "Sinema",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.mehmetakif.edu.tr/content/13685/1/ilgili-sinema-incendies",
+   "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13685/4_13685_2026-11-23-06-25-55-133311_thumb.webp"
   }
  ],
  "kaynaklar": [

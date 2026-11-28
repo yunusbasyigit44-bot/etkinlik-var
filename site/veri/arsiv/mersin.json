@@ -1,5 +1,21 @@
 [
  {
+  "id": "5986ecdecb52",
+  "baslik": "Uluslararası Öğrencilere Yönelik Bilgilendirme Toplantısı",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": "10:00",
+  "ilce": "Yenişehir",
+  "mekan": "Nevit Kodallı Konser Salonu",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Seminer",
+  "kaynak_ad": "Mersin Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mersin.edu.tr/tr/etkinlikler/uluslararasi-ogrencilere-yonelik-bilgilendirme-toplantisi-n-10002080",
+  "gorsel": "https://cdn.mersin.edu.tr/public/renditions/2463ad80-38c8-4f6a-9f16-cbcfcf340ba5/a2e5787b-e5b7-4909-9c85-a1aac1a5d872/1ce25c36-e48c-46a7-b1b0-e14a681dc990/1280-59869849f642a8f654ee11d2efc250487f75a4a6e717a5cd51d1bf322a1657ef.webp"
+ },
+ {
   "id": "cf999ef75e0d",
   "baslik": "Müze Sohbetleri - 15: Süveyş'ten Sürek Avına Balon Balığının Hikayesi",
   "tarih": "2026-11-26",

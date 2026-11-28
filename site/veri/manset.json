@@ -1,6 +1,6 @@
 {
  "aciklama": "Ana sayfa manşeti. toplayici/manset.py her gün yeniler: \"elle\": true olanlar etkinlik bitene kadar kalır (baslik = düzeltilmiş ad, not = manşet cümlesi), kalan yerler puanla seçilir.",
- "guncelleme": "2026-11-27",
+ "guncelleme": "2026-11-28",
  "secilenler": [
   {
    "id": "d7762ec713f9",
@@ -9,64 +9,64 @@
    "elle": true
   },
   {
-   "id": "5c4038dee0b6",
-   "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
-  },
-  {
-   "id": "0f811cbf5525",
-   "not": "Ankara'da opera ve bale sahnesinden bir akşam."
-  },
-  {
    "id": "5f65122b950e",
    "not": "Antalya'da opera ve bale sahnesinden bir akşam."
   },
   {
-   "id": "2d6d7d8379a7",
+   "id": "619099a39ba0",
+   "not": "İstanbul'da opera ve bale sahnesinden bir akşam."
+  },
+  {
+   "id": "4d73987418b0",
+   "not": "Ankara'da opera ve bale sahnesinden bir akşam."
+  },
+  {
+   "id": "53991260d2da",
    "not": "Eskişehir'de canlı müzik keyfi."
   },
   {
-   "id": "fd589d1e6f8f",
-   "not": "Eskişehir'de canlı müzik keyfi."
+   "id": "649d50d46504",
+   "not": "Burdur'da canlı müzik keyfi."
   },
   {
-   "id": "bc161b641ebe",
-   "not": "Konya'da canlı müzik keyfi."
+   "id": "3ea418a3f034",
+   "not": "İzmir'de canlı müzik keyfi."
   },
   {
    "id": "4d1fa340e6fa",
    "not": "Manisa'da perde açılıyor."
   },
   {
-   "id": "62672e13a6e8",
-   "not": "Manisa'da perde açılıyor."
+   "id": "eb0f2656d711",
+   "not": "İstanbul'da ritim ve dans dolu bir gösteri."
   },
   {
-   "id": "d197a280f434",
-   "not": "İstanbul'da perde açılıyor."
+   "id": "b5a02e05b3fc",
+   "not": "Kocaeli'de perde açılıyor."
+  },
+  {
+   "id": "8a3c6fcd2230",
+   "not": "Konya'da perde açılıyor."
   },
   {
    "id": "1acc853d68c4",
    "not": "Muğla'da festival havası."
   },
   {
-   "id": "ca9da6bfde5b",
-   "not": "İzmir'de geleneksel ezgiler."
-  },
-  {
    "id": "a00303c71871",
    "not": "Gaziantep'te gezip görülecek bir sergi."
   },
   {
-   "id": "6dbaf62dc677",
-   "not": "Muğla'da gezip görülecek bir sergi."
+   "id": "6f85dac51929",
+   "not": "Eskişehir'de gezip görülecek bir sergi."
   },
   {
    "id": "430ea86ad1f5",
    "not": "Afyonkarahisar'da gezip görülecek bir sergi."
   },
   {
-   "id": "0637dcce41e6",
-   "not": "Afyonkarahisar'da doğada bir gün."
+   "id": "f8198db801e0",
+   "not": "Erzurum'da çocuklarla gidilecek bir etkinlik."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "il": "manisa",
- "guncelleme": "2026-11-27T15:04+03:00",
+ "guncelleme": "2026-11-28T14:36+03:00",
  "ilceler": [
   "Ahmetli",
   "Akhisar",
@@ -36,38 +36,6 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1295",
    "gorsel": "https://kultur.manisa.bel.tr/uploads/events/61f67eb8-2961-4170-b9d7-1eaa95d68845_C%CC%A7I%CC%87ZMELI%CC%87-KEDI%CC%87-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
-  },
-  {
-   "id": "62672e13a6e8",
-   "baslik": "Mizojini Küller ve Hatıralar",
-   "tarih": "2026-11-13",
-   "bitis": "2026-11-27",
-   "saat": "20:00",
-   "ilce": "Şehzadeler",
-   "mekan": "Şehir Tiyatrosu Uğur Mumcu Sahnesi - Şehzadeler / Manisa",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultur.manisa.bel.tr/etkinlik-detay/1294",
-   "gorsel": "https://kultur.manisa.bel.tr/uploads/events/144fb3dd-4274-49f5-8c3e-97bf5f230971_MI%CC%87ZOJI%CC%87NI%CC%87-KASIM-AYI-TAKVI%CC%87MI%CC%87-HABER.jpg"
-  },
-  {
-   "id": "ca41ffc1e2b5",
-   "baslik": "BİLTEVT'2026 Uluslararası Engelsiz Bilişim 2026 Kongresi",
-   "tarih": "2026-11-26",
-   "bitis": "2026-11-27",
-   "saat": "15:00",
-   "ilce": "Yunusemre",
-   "mekan": "İstanbul",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Manisa Celal Bayar Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.mcbu.edu.tr/Etkinlik/biltevt-2026-uluslararasi-engelsiz-bilisim-2026-kongresi#baslangic",
-   "gorsel": "https://www.mcbu.edu.tr/WebSiteContent/1/EventImage/EventImage-20261119123810754-NRYJM.jpg"
   },
   {
    "id": "c3be8835128b",
@@ -155,14 +123,14 @@
    "ad": "Manisa Celal Bayar Üniversitesi",
    "tur": "universite",
    "url": "https://www.mcbu.edu.tr",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 5,
    "durum": "çalışıyor"
   },
   {
    "ad": "Manisa Büyükşehir Belediyesi Kültür (Şehir Tiyatrosu, konser, sergi)",
    "tur": "belediye",
    "url": "https://kultur.manisa.bel.tr/etkinlikler",
-   "etkinlik_sayisi": 2,
+   "etkinlik_sayisi": 1,
    "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {

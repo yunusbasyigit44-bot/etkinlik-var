@@ -1,6 +1,6 @@
 {
  "il": "tunceli",
- "guncelleme": "2026-11-27T15:10+03:00",
+ "guncelleme": "2026-11-28T14:41+03:00",
  "ilceler": [
   "Merkez",
   "Çemişgezek",
@@ -11,32 +11,8 @@
   "Pertek",
   "Pülümür"
  ],
- "etkinlikler": [
-  {
-   "id": "7f526bea9159",
-   "baslik": "Tunceli Erenlerinin İzinde Ocaklar, Tarih, Sosyoloji ve İnanç Mirası",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Munzur Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Munzur Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.munzur.edu.tr/etkinlikler/tunceli-erenlerinin-i-zinde-ocaklar-tarih-sosyoloji-ve-i-nanc-mirasi",
-   "gorsel": "https://cdn.munzur.edu.tr/www/media/eren1.jpeg"
-  }
- ],
+ "etkinlikler": [],
  "kaynaklar": [
-  {
-   "ad": "Munzur Üniversitesi",
-   "tur": "universite",
-   "url": "https://www.munzur.edu.tr/etkinlikler",
-   "etkinlik_sayisi": 1,
-   "durum": "çalışıyor"
-  },
   {
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
@@ -50,6 +26,13 @@
    "url": null,
    "etkinlik_sayisi": 0,
    "durum": "etkinlik takvimi yok"
+  },
+  {
+   "ad": "Munzur Üniversitesi",
+   "tur": "universite",
+   "url": "https://www.munzur.edu.tr/etkinlikler",
+   "etkinlik_sayisi": 0,
+   "durum": "çalışıyor (yaklaşan etkinlik yok)"
   },
   {
    "ad": "STK'lar, öğrenci kulüpleri, kafeler",

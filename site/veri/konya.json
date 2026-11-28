@@ -1,6 +1,6 @@
 {
  "il": "konya",
- "guncelleme": "2026-11-27T15:03+03:00",
+ "guncelleme": "2026-11-28T14:35+03:00",
  "ilceler": [
   "Akören",
   "Akşehir",
@@ -35,86 +35,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "09c5d5a04641",
-   "baslik": "Yastık Adam",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Selçuklu",
-   "mekan": "Konya DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
-   "gorsel": "veri/gorsel/dt-yastik-adam.webp"
-  },
-  {
-   "id": "ba4d68c4f02e",
-   "baslik": "Kafesten Bir Kuş Uçtu",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/kafesten-bir-kus-uctu/1215",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/wcbyD2JrgJZ0D3-Xu8jC3m3JcLLf7HSU.jpeg"
-  },
-  {
-   "id": "3ddd027ad158",
-   "baslik": "Konya Okulu - Prof. Dr. İbrahim Işıtan",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ibrahim-isitan/1213",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/oET8lUtuoOMCDVGMfJLHfOT2Bg4F3FHY.jpeg"
-  },
-  {
-   "id": "bc161b641ebe",
-   "baslik": "Müzikli Maarif Takvimi",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Konser",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/muzikli-maarif-takvimi/1333",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/J0bckCkHZcjIkPS8NiCkRVw-h3bceT4o.jpeg"
-  },
-  {
-   "id": "18b95afb529b",
-   "baslik": "4. Akdeniz Diyaliz Sempozyumu",
-   "tarih": "2026-11-28",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Meram",
-   "mekan": "Necmettin Erbakan Üniversitesi",
-   "kategori": "Akademik",
-   "ucretsiz": true,
-   "ozet": "Sosyo-Kültürel",
-   "kaynak_ad": "Necmettin Erbakan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://erbakan.edu.tr/tr/etkinlik/4-akdeniz-diyaliz-sempozyumu-2462",
-   "gorsel": null
-  },
-  {
    "id": "6bdef9747955",
    "baslik": "Yastık Adam",
    "tarih": "2026-11-28",
@@ -145,6 +65,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/yastik-adam",
    "gorsel": "veri/gorsel/dt-yastik-adam.webp"
+  },
+  {
+   "id": "8a3c6fcd2230",
+   "baslik": "Kafesten Bir Kuş Uçtu",
+   "tarih": "2026-11-28",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/kafesten-bir-kus-uctu/1215",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/wcbyD2JrgJZ0D3-Xu8jC3m3JcLLf7HSU.jpeg"
   },
   {
    "id": "5f2d92315213",
@@ -211,22 +147,6 @@
    "gorsel": null
   },
   {
-   "id": "72343dcb0a2b",
-   "baslik": "Konya Okulu - Prof. Dr. Ali Akpınar",
-   "tarih": "2026-11-30",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Selçuklu",
-   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ali-akpinar/1209",
-   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/yGQGIOJfI79AnIe5ZXoRLPI9Q5MHkGaB.jpeg"
-  },
-  {
    "id": "7ce656f9f605",
    "baslik": "Şehir Konferansları - Çumra",
    "tarih": "2026-11-30",
@@ -241,6 +161,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://kultursanatkonya.com/etkinlikler/sehir-konferanslari-cumra/1344",
    "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/Ns5LXynt8NKx5OapoK3J30Xf46KTN-Rs.jpeg"
+  },
+  {
+   "id": "72343dcb0a2b",
+   "baslik": "Konya Okulu - Prof. Dr. Ali Akpınar",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Selçuklu",
+   "mekan": "Konya Büyükşehir Belediyesi Kültür Sanat",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://kultursanatkonya.com/etkinlikler/konya-okulu-prof-dr-ali-akpinar/1209",
+   "gorsel": "https://sepet.konya.bel.tr/wwwkultursanatkonyacom/posters/yGQGIOJfI79AnIe5ZXoRLPI9Q5MHkGaB.jpeg"
   },
   {
    "id": "e81a3b294c68",
@@ -472,21 +408,21 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 13,
+   "etkinlik_sayisi": 12,
    "durum": "çalışıyor"
   },
   {
    "ad": "Konya Büyükşehir Belediyesi (Kültür Sanat Konya)",
    "tur": "belediye",
    "url": "https://www.konya.bel.tr/etkinlik",
-   "etkinlik_sayisi": 9,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {
    "ad": "Necmettin Erbakan Üniversitesi",
    "tur": "universite",
    "url": "https://erbakan.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

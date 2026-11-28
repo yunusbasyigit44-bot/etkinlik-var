@@ -1,6 +1,6 @@
 {
  "il": "antalya",
- "guncelleme": "2026-11-27T14:48+03:00",
+ "guncelleme": "2026-11-28T14:22+03:00",
  "ilceler": [
   "Akseki",
   "Aksu",
@@ -23,38 +23,6 @@
   "Serik"
  ],
  "etkinlikler": [
-  {
-   "id": "3a86bb0c95d9",
-   "baslik": "Therese Raquin (Bir Cinayetin Anatomisi)",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Muratpaşa",
-   "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/therese-raquin-bir-cinayetin-anatomisi",
-   "gorsel": "veri/gorsel/dt-therese-raquin-bir-cinayetin-anatomisi.jpg"
-  },
-  {
-   "id": "13f2ca066dbb",
-   "baslik": "Kadın Çalışmaları ve Toplumsal Cinsiyet Araştırma ve Uygulama Merkezi “Kadrajda Umut Var” Fotoğraf Yarışması Ödül Töreni",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Konyaaltı",
-   "mekan": "Akdeniz Üniversitesi, Akdeniz Üniversitesi, Edebiyat Fakültesi Kaşgarlı Mahmut Konferans Salonu",
-   "kategori": "Sergi",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Akdeniz Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/kadin_calismalari_ve_toplumsal_cinsiyet_arastirma_ve_uygulama_merkezi_%E2%80%9Ckadrajda_umut_var%E2%80%9D_fotograf_yarismasi_odul_toreni-5812",
-   "gorsel": null
-  },
   {
    "id": "d423b2e28202",
    "baslik": "DevFest Antalya 2026",
@@ -150,6 +118,38 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/uc-kedi-bir-dilek",
    "gorsel": "veri/gorsel/dt-uc-kedi-bir-dilek.webp"
+  },
+  {
+   "id": "07ead68ce5e9",
+   "baslik": "Ortak Eğitim Bilgilendirme Oturumu : Tasarım Kariyerinize Mezun Olmadan Başlayın",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": "13:15",
+   "ilce": "Döşemealtı",
+   "mekan": "Antalya Bilim Üniversitesi",
+   "kategori": "Kariyer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/ortak-egitim-bilgilendirme-oturumu-tasarim-kariyerinize-mezun-olmadan-baslayin",
+   "gorsel": null
+  },
+  {
+   "id": "da6727e5e759",
+   "baslik": "Sosyalfest Çalıştayı",
+   "tarih": "2026-11-30",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Konyaaltı",
+   "mekan": "Akdeniz Üniversitesi, İletişim Fakültesi Konferans Salonu",
+   "kategori": "Akademik",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Akdeniz Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/sosyalfest_calistayi-5817",
+   "gorsel": null
   },
   {
    "id": "3780bccd5e88",
@@ -261,6 +261,22 @@
    "kaynak_ad": "Akdeniz Üniversitesi",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/panel_ozel_gereksinimli_cocuklarda_fiziksel_aktivite_ve_spor%3A_uygulamadan_deneyime-5815",
+   "gorsel": null
+  },
+  {
+   "id": "e1e1acbcf593",
+   "baslik": "CV’den Mülakata: İşe Alımın Perde Arkası",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Döşemealtı",
+   "mekan": "Antalya Bilim Üniversitesi",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Antalya Bilim Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.antalya.edu.tr/tr/etkinlikler/cvden-mulakata-ise-alimin-perde-arkasi",
    "gorsel": null
   },
   {
@@ -621,7 +637,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 24,
+   "etkinlik_sayisi": 23,
    "durum": "çalışıyor"
   },
   {
@@ -642,7 +658,7 @@
    "ad": "Antalya Bilim Üniversitesi",
    "tur": "universite",
    "url": "https://www.antalya.edu.tr/tr/etkinlik-takvimi",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

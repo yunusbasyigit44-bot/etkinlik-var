@@ -1,6 +1,6 @@
 {
  "il": "erzurum",
- "guncelleme": "2026-11-27T14:52+03:00",
+ "guncelleme": "2026-11-28T14:26+03:00",
  "ilceler": [
   "Yakutiye",
   "Palandöken",
@@ -24,38 +24,6 @@
   "Uzundere"
  ],
  "etkinlikler": [
-  {
-   "id": "c5443c71ff03",
-   "baslik": "Seferi Ramazan Bey'in Nafile Dünyası",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "19:30",
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/seferi-ramazan-beyin-nafile-dunyasi",
-   "gorsel": "veri/gorsel/dt-seferi-ramazan-beyin-nafile-dunyasi.webp"
-  },
-  {
-   "id": "034ccb66f526",
-   "baslik": "Sürdürülebilir Gelecek İçin Bugünden Harekete Geç",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Yakutiye",
-   "mekan": "Erzurum Teknik Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Erzurum Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://erzurum.edu.tr/etkinlik/surdurulebilir-gelecek-icin-bugunden-harekete-gec1",
-   "gorsel": "https://erzurum.edu.tr/Content/etkinlik/image/a959c83c-6ffc-4c18-a979-264b80a6a5b9.webp?width=600&height=749&mode=carve"
-  },
   {
    "id": "f8198db801e0",
    "baslik": "Çocuklar için Felsefe (P4C) Eğitici Eğitimi",
@@ -478,7 +446,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 17,
+   "etkinlik_sayisi": 16,
    "durum": "çalışıyor"
   },
   {
@@ -492,7 +460,7 @@
    "ad": "Erzurum Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://erzurum.edu.tr/",
-   "etkinlik_sayisi": 5,
+   "etkinlik_sayisi": 4,
    "durum": "çalışıyor"
   },
   {

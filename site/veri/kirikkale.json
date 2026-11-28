@@ -1,6 +1,6 @@
 {
  "il": "kirikkale",
- "guncelleme": "2026-11-27T15:12+03:00",
+ "guncelleme": "2026-11-28T14:43+03:00",
  "ilceler": [
   "Merkez",
   "Bahşılı",
@@ -78,6 +78,22 @@
    "gorsel": null
   },
   {
+   "id": "c5d922bd93eb",
+   "baslik": "Geleceğin Mali Müşavirleri: Yapay Zekâ, Küresel Fırsatlar ve Kariyer Yolculuğu",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Yahşihan",
+   "mekan": "Kırıkkale Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Kırıkkale Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Index/10109",
+   "gorsel": null
+  },
+  {
    "id": "253fb669e55f",
    "baslik": "Günümüz Penceresinden Egzotik Kuş Hekimliği",
    "tarih": "2026-12-03",
@@ -115,7 +131,7 @@
    "ad": "Kırıkkale Üniversitesi",
    "tur": "universite",
    "url": "https://www.kku.edu.tr/Anasayfa/Etkinlik/Tumu",
-   "etkinlik_sayisi": 6,
+   "etkinlik_sayisi": 7,
    "durum": "çalışıyor"
   },
   {

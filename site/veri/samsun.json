@@ -1,6 +1,6 @@
 {
  "il": "samsun",
- "guncelleme": "2026-11-27T15:08+03:00",
+ "guncelleme": "2026-11-28T14:40+03:00",
  "ilceler": [
   "Atakum",
   "Canik",
@@ -21,38 +21,6 @@
   "Yakakent"
  ],
  "etkinlikler": [
-  {
-   "id": "ba7a5b480cfe",
-   "baslik": "Lee Bilim Söyleşileri: Samsun'da Turizm",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "10:00",
-   "ilce": "Atakum",
-   "mekan": "Ondokuz Mayıs Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Söyleşi",
-   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/soylesi/lee-bilim-soylesileri-samsunda-turizm",
-   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/afis_11.png"
-  },
-  {
-   "id": "4077cec22e6b",
-   "baslik": "Lee Bilim Söyleşileri: Tarihsel ve Kültürel Boyutlarıyla Alevilik-Bektaşilik",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "14:00",
-   "ilce": "Atakum",
-   "mekan": "Ondokuz Mayıs Üniversitesi",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Söyleşi",
-   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/soylesi/lee-bilim-soylesileri-tarihsel-ve-kulturel-boyutlariyla-alevilik",
-   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/afis_12.png"
-  },
   {
    "id": "25fcba7e0381",
    "baslik": "2. Uluslararası Katılımlı Riskli Bebeklerde Güncel Gelişmeler Kongresi",
@@ -116,6 +84,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/seminer/ozel-gereksinimli-cocuklara-sahip-ailelerde-psikolojik-esneklik",
    "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/zihnimden-cik-hayatima-gir-afis2026.jpg"
+  },
+  {
+   "id": "6d6213bee708",
+   "baslik": "Siber Farkındalık ve Bilinçlendirme Eğitimi",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "13:00",
+   "ilce": "Atakum",
+   "mekan": "Ondokuz Mayıs Üniversitesi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": "Eğitim",
+   "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/egitim/siber-farkindalik-ve-bilinclendirme-egitimi",
+   "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/siber_farkindalik.jpeg"
   },
   {
    "id": "08b67d9f1972",
@@ -363,7 +347,7 @@
    "ad": "Ondokuz Mayıs Üniversitesi",
    "tur": "universite",
    "url": "https://www.omu.edu.tr/tr/etkinlikler",
-   "etkinlik_sayisi": 13,
+   "etkinlik_sayisi": 12,
    "durum": "çalışıyor"
   },
   {

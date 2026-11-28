@@ -1,6 +1,6 @@
 {
  "il": "trabzon",
- "guncelleme": "2026-11-27T15:10+03:00",
+ "guncelleme": "2026-11-28T14:41+03:00",
  "ilceler": [
   "Ortahisar",
   "Akçaabat",
@@ -37,38 +37,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.trabzon.edu.tr/Etkinlik/3466",
    "gorsel": "https://www.trabzon.edu.tr/storage/2026/11/23/00b9cbf4-3362-4d65-b8c1-3bb56cf4a4c6.jpeg"
-  },
-  {
-   "id": "9d346b4cfb2a",
-   "baslik": "Muallim İbrâhim Cûdî Efendi",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "09:45",
-   "ilce": "Ortahisar",
-   "mekan": "Hamamizade İhsan Bey Kültür Merkezi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.ktu.edu.tr/tr/etkinlik/muallim-ibrahim-cudi-efendi",
-   "gorsel": "https://www.ktu.edu.tr/slayt/etk/tr_7f3e2d730efb.jpg"
-  },
-  {
-   "id": "051f256d1243",
-   "baslik": "Töre",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Ortahisar",
-   "mekan": "Haluk Ongan Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/tore",
-   "gorsel": "veri/gorsel/dt-tore.webp"
   },
   {
    "id": "4d0526e68e10",
@@ -229,6 +197,38 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siradan-kasabasi",
    "gorsel": "veri/gorsel/dt-siradan-kasabasi.webp"
+  },
+  {
+   "id": "3cc4fb66637c",
+   "baslik": "Doktora Sırası/Sonrası Araştırma Bursları Tanıtım Toplantısı-5",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Ortahisar",
+   "mekan": "Orman Fakültesi Ahmet Şener Amfisi",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/ark/etkinlik/doktora-sirasi-sonrasi-arastirma-burslari-tanitim-toplantisi-5",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/ark_50ed91d3375e.jpg"
+  },
+  {
+   "id": "9438867ca5a2",
+   "baslik": "Kampüs Florasının Simyası: Doğadan Laboratuvara, Laboratuvardan Üretime",
+   "tarih": "2026-12-02",
+   "bitis": null,
+   "saat": "13:30",
+   "ilce": "Ortahisar",
+   "mekan": "KTÜ Biyoloji Bölümü, L-104",
+   "kategori": "Doğa & Gezi",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Karadeniz Teknik Üniversitesi",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.ktu.edu.tr/ark/etkinlik/kampus-florasinin-simyasi-dogadan-laboratuvara-laboratuvardan-uretime",
+   "gorsel": "https://www.ktu.edu.tr/slayt/etk/ark_8e743c523877.png"
   },
   {
    "id": "7908a42706a8",
@@ -588,14 +588,14 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 18,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {
    "ad": "Karadeniz Teknik Üniversitesi",
    "tur": "universite",
    "url": "https://www.ktu.edu.tr",
-   "etkinlik_sayisi": 16,
+   "etkinlik_sayisi": 17,
    "durum": "çalışıyor"
   },
   {

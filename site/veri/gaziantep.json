@@ -1,6 +1,6 @@
 {
  "il": "gaziantep",
- "guncelleme": "2026-11-27T14:56+03:00",
+ "guncelleme": "2026-11-28T14:29+03:00",
  "ilceler": [
   "Şahinbey",
   "Şehitkamil",
@@ -28,6 +28,38 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://www.gaziantep.bel.tr/tr/basin/etkinlikler/iulusal-karikatur-yarismasi-1461",
    "gorsel": "https://dosya.gaziantep.bel.tr/uploads/new/2026/10/a2ec6efb-26b3-411c-81fd-fdbbc968716a_original.jpg"
+  },
+  {
+   "id": "031a5275b9eb",
+   "baslik": "Gaziantep'te İz Bırakanlar Sergisi Kapılarını Açıyor",
+   "tarih": "2026-11-20",
+   "bitis": "2026-12-05",
+   "saat": "14:00",
+   "ilce": "Şahinbey",
+   "mekan": "Kahraman Emmioğlu Kültür ve Sanat Merkezi",
+   "kategori": "Sergi",
+   "ucretsiz": true,
+   "ozet": "Sergi",
+   "kaynak_ad": "Gaziantep Büyükşehir Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.gaziantep.bel.tr/tr/basin/etkinlikler/gaziantepte-iz-birakanlar-sergisi-kapilarini-aciyor-1505",
+   "gorsel": "https://dosya.gaziantep.bel.tr/uploads/new/2026/11/a3534b7b-a496-4560-bce1-1e617d68a101_original.jpg"
+  },
+  {
+   "id": "cf6717ef7213",
+   "baslik": "Teknoloji Uzun Dönem ATölyeleri",
+   "tarih": "2026-12-05",
+   "bitis": "2026-12-26",
+   "saat": "10:00",
+   "ilce": "Şahinbey",
+   "mekan": "Müzeyyen Erkul Gaziantep Bilim Merkezi",
+   "kategori": "Bilim & Teknoloji",
+   "ucretsiz": true,
+   "ozet": "Atölye",
+   "kaynak_ad": "Gaziantep Büyükşehir Belediyesi",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.gaziantep.bel.tr/tr/basin/etkinlikler/teknoloji-uzun-donem-atolyeleri-1524",
+   "gorsel": "https://dosya.gaziantep.bel.tr/uploads/new/2026/11/a353880e-3192-4302-bba2-eac1d07f9f67_original.jpg"
   }
  ],
  "kaynaklar": [
@@ -35,7 +67,7 @@
    "ad": "Gaziantep Büyükşehir Belediyesi",
    "tur": "belediye",
    "url": "https://www.gaziantep.bel.tr/tr/basin/etkinlikler",
-   "etkinlik_sayisi": 1,
+   "etkinlik_sayisi": 3,
    "durum": "çalışıyor"
   },
   {

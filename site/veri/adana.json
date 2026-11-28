@@ -1,6 +1,6 @@
 {
  "il": "adana",
- "guncelleme": "2026-11-27T14:43+03:00",
+ "guncelleme": "2026-11-28T14:18+03:00",
  "ilceler": [
   "Aladağ",
   "Ceyhan",
@@ -20,38 +20,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "c44fa4476abb",
-   "baslik": "Türkiye'nin Yeni Ufukları",
-   "tarih": "2026-11-26",
-   "bitis": "2026-11-27",
-   "saat": "17:00",
-   "ilce": "Sarıçam",
-   "mekan": "İİSBF Konferans Salonu",
-   "kategori": "Söyleşi",
-   "ucretsiz": true,
-   "ozet": "Panel",
-   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/111120260904_K_1_a1acf936-7da1-4958-8d50-414ec2530660.jpg"
-  },
-  {
-   "id": "498033991e24",
-   "baslik": "Devlet Ana",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Ramazanoğlu Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları Adana",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/devlet-ana",
-   "gorsel": "veri/gorsel/dt-devlet-ana.jpg"
-  },
-  {
    "id": "1ffad2016331",
    "baslik": "Batı Akdeniz Bölgesel Kariyer Fuarı",
    "tarih": "2026-11-27",
@@ -66,22 +34,6 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.atu.edu.tr",
    "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/231120261638_K_1_c705b625-a31b-4f7a-9fa5-9f4e26e56c87.png"
-  },
-  {
-   "id": "75ea7340437f",
-   "baslik": "The Role of Economic and Financial Integration in Sustainable Development",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Sarıçam",
-   "mekan": "Çukurova Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Çukurova Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.cu.edu.tr/haber-detay/the-role-of-economic-and-financial-ıntegration-in-sustainable-development/",
-   "gorsel": "https://www.cu.edu.tr/media/awfpuenr/s&#252;rd&#252;r&#252;lebilir-kalkınma-afiş.jpg"
   },
   {
    "id": "c5a829134a6e",
@@ -129,7 +81,7 @@
    "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.atu.edu.tr",
-   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/181120260849_K_379_98d928d4-6e2a-4dbc-a47f-d4642a8deade.jpg"
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/271120262043_K_g_379_98d928d4-6e2a-4dbc-a47f-d4642a8deade.jpeg"
   },
   {
    "id": "5e4aec7568fb",
@@ -146,6 +98,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.atu.edu.tr",
    "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/201120260755_K_g_1_22165a48-5e85-4da8-a28f-7ffa48243a35.jpg"
+  },
+  {
+   "id": "4d839a52ba71",
+   "baslik": "1 Aralık Dünya AIDS Günü Farkındalık Semineri",
+   "tarih": "2026-12-01",
+   "bitis": null,
+   "saat": "16:00",
+   "ilce": "Sarıçam",
+   "mekan": "M1 Blok, 1. Kat Konferans Salonu",
+   "kategori": "Söyleşi",
+   "ucretsiz": true,
+   "ozet": "Seminer",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/271120261700_K_75_b6da7941-f139-4d00-8808-f04a35845bc3.png"
   },
   {
    "id": "f4b836d54926",
@@ -180,6 +148,22 @@
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
   },
   {
+   "id": "c809705a1a13",
+   "baslik": "İlk Baretim İlk Yeleğim",
+   "tarih": "2026-12-03",
+   "bitis": "2026-12-04",
+   "saat": "13:00",
+   "ilce": "Sarıçam",
+   "mekan": "Prof. Dr. Aziz Sancar Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Etkinlik",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/271120262221_K_1_18b258a6-e78c-45e8-87f3-197122724c73.jpg"
+  },
+  {
    "id": "9a0eb78380a3",
    "baslik": "3 Aralık Engelliler Günü",
    "tarih": "2026-12-03",
@@ -196,6 +180,22 @@
    "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/261120262021_K_1_1c201785-c032-49ef-9c89-e2e54931c5e3.jpg"
   },
   {
+   "id": "f2be4fa80905",
+   "baslik": "3 Aralık Dünya Engelliler Farkındalık Günü Farkındalık ve Dayanışma Etkinliği",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": "17:00",
+   "ilce": "Sarıçam",
+   "mekan": "Yusuf Has Hacib Konferans Salonu",
+   "kategori": "Diğer",
+   "ucretsiz": true,
+   "ozet": "Etkinlik",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/271120261454_K_339_9a00699e-7329-46a7-bd2a-db3ba3b2592e.jpg"
+  },
+  {
    "id": "3272b7d2ccf0",
    "baslik": "Bernarda Alba'nın Evi",
    "tarih": "2026-12-03",
@@ -210,6 +210,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bernarda-albanin-evi",
    "gorsel": "veri/gorsel/dt-bernarda-albanin-evi.jpg"
+  },
+  {
+   "id": "cb8461cd7e2d",
+   "baslik": "Yapı Bilgi Modellemesi Eğitimi ve Baret Takma Töreni",
+   "tarih": "2026-12-03",
+   "bitis": null,
+   "saat": null,
+   "ilce": "Sarıçam",
+   "mekan": "Prof. Dr. Aziz Sancar Konferans Salonu",
+   "kategori": "Atölye",
+   "ucretsiz": true,
+   "ozet": "Eğitim",
+   "kaynak_ad": "Adana Alparslan Türkeş BTÜ",
+   "kaynak_tur": "universite",
+   "kaynak_url": "https://www.atu.edu.tr",
+   "gorsel": "https://www.atu.edu.tr/Upload/Dosyalar/Etkinlik/Resim/2026/11/271120261606_K_68_94cecc9a-25b6-4195-a8c7-33ab83665fb9.png"
   },
   {
    "id": "36e5b747a4f2",
@@ -564,22 +580,6 @@
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
   },
   {
-   "id": "40718bb40f1d",
-   "baslik": "Geçmem Gerek",
-   "tarih": "2026-12-26",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Seyhan",
-   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
-   "kategori": "Çocuk",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
-   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/gecmem_gerek.jpg"
-  },
-  {
    "id": "7b8661f3edda",
    "baslik": "Karanlıkta Komedi",
    "tarih": "2026-12-26",
@@ -594,6 +594,22 @@
    "kaynak_tur": "belediye",
    "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
    "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/1791887084_d8b3132659f6c55e1dc9.jpeg"
+  },
+  {
+   "id": "40718bb40f1d",
+   "baslik": "Geçmem Gerek",
+   "tarih": "2026-12-26",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Seyhan",
+   "mekan": "Adana Büyükşehir Belediyesi Tiyatro Salonu",
+   "kategori": "Çocuk",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Adana Büyükşehir Şehir Tiyatrosu",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://sehirtiyatrosu.adana.bel.tr/etkinlikler",
+   "gorsel": "https://sehirtiyatrosu.adana.bel.tr/uploads/afis/gecmem_gerek.jpg"
   },
   {
    "id": "d76879f68fb7",
@@ -653,24 +669,24 @@
    "durum": "çalışıyor"
   },
   {
-   "ad": "Devlet Tiyatroları Adana",
-   "tur": "kultur",
-   "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 13,
-   "durum": "çalışıyor"
-  },
-  {
    "ad": "Adana Alparslan Türkeş BTÜ",
    "tur": "universite",
    "url": "https://www.atu.edu.tr",
-   "etkinlik_sayisi": 8,
+   "etkinlik_sayisi": 12,
+   "durum": "çalışıyor"
+  },
+  {
+   "ad": "Devlet Tiyatroları Adana",
+   "tur": "kultur",
+   "url": "https://devtiyatro.gov.tr",
+   "etkinlik_sayisi": 12,
    "durum": "çalışıyor"
   },
   {
    "ad": "Çukurova Üniversitesi",
    "tur": "universite",
    "url": "https://www.cu.edu.tr",
-   "etkinlik_sayisi": 3,
+   "etkinlik_sayisi": 2,
    "durum": "çalışıyor"
   },
   {

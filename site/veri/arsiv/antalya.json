@@ -1,5 +1,37 @@
 [
  {
+  "id": "3a86bb0c95d9",
+  "baslik": "Therese Raquin (Bir Cinayetin Anatomisi)",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": "20:00",
+  "ilce": "Muratpaşa",
+  "mekan": "Haşim İşcan Kültür Merkezi DT Sahnesi",
+  "kategori": "Tiyatro",
+  "ucretsiz": false,
+  "ozet": "Devlet Tiyatroları",
+  "kaynak_ad": "Devlet Tiyatroları",
+  "kaynak_tur": "kultur",
+  "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/therese-raquin-bir-cinayetin-anatomisi",
+  "gorsel": null
+ },
+ {
+  "id": "13f2ca066dbb",
+  "baslik": "Kadın Çalışmaları ve Toplumsal Cinsiyet Araştırma ve Uygulama Merkezi “Kadrajda Umut Var” Fotoğraf Yarışması Ödül Töreni",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Konyaaltı",
+  "mekan": "Akdeniz Üniversitesi, Akdeniz Üniversitesi, Edebiyat Fakültesi Kaşgarlı Mahmut Konferans Salonu",
+  "kategori": "Sergi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Akdeniz Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.akdeniz.edu.tr/tr/etkinlik/kadin_calismalari_ve_toplumsal_cinsiyet_arastirma_ve_uygulama_merkezi_%E2%80%9Ckadrajda_umut_var%E2%80%9D_fotograf_yarismasi_odul_toreni-5812",
+  "gorsel": null
+ },
+ {
   "id": "97679efb6436",
   "baslik": "Fındıkkıran",
   "tarih": "2026-11-26",

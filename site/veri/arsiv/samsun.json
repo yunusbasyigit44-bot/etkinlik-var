@@ -1,5 +1,37 @@
 [
  {
+  "id": "ba7a5b480cfe",
+  "baslik": "Lee Bilim Söyleşileri: Samsun'da Turizm",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": "10:00",
+  "ilce": "Atakum",
+  "mekan": "Ondokuz Mayıs Üniversitesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Söyleşi",
+  "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/soylesi/lee-bilim-soylesileri-samsunda-turizm",
+  "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/afis_11.png"
+ },
+ {
+  "id": "4077cec22e6b",
+  "baslik": "Lee Bilim Söyleşileri: Tarihsel ve Kültürel Boyutlarıyla Alevilik-Bektaşilik",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": "14:00",
+  "ilce": "Atakum",
+  "mekan": "Ondokuz Mayıs Üniversitesi",
+  "kategori": "Söyleşi",
+  "ucretsiz": true,
+  "ozet": "Söyleşi",
+  "kaynak_ad": "Ondokuz Mayıs Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.omu.edu.tr/tr/icerik/omu-etkinlik-takvimi/soylesi/lee-bilim-soylesileri-tarihsel-ve-kulturel-boyutlariyla-alevilik",
+  "gorsel": "https://www.omu.edu.tr/sites/default/files/styles/etkinlik-afis/public/afis_12.png"
+ },
+ {
   "id": "3f22ccae41fd",
   "baslik": "SPSS ile Veri Analizi Ölçek Çalışmalarında Geçerlik-Güvenirlik Analizi ve Güç (Power) Analizi Eğitim Programı",
   "tarih": "2026-11-25",

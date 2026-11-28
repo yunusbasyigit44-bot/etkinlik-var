@@ -1,5 +1,37 @@
 [
  {
+  "id": "8784c805c189",
+  "baslik": "Temiz Bir Kampüs 2",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": "16:00",
+  "ilce": "Merkez",
+  "mekan": "Ünipark AVM Otoparkı",
+  "kategori": "Doğa & Gezi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mehmetakif.edu.tr/content/13678/1/temiz-bir-kampus-2",
+  "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13678/4_13678_2026-11-23-06-04-16-944854_thumb.webp"
+ },
+ {
+  "id": "affa1663dd6a",
+  "baslik": "Şiddetle Mücadelede Disiplinlerarası Yaklaşımlar",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": "19:30",
+  "ilce": "Merkez",
+  "mekan": "Çevrim İçi Zoom",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mehmetakif.edu.tr/content/13574/1/siddetle-mucadelede-disiplinlerarasi-yaklasimlar",
+  "gorsel": "https://depo.mehmetakif.edu.tr/storage/maku/contents/13574/4_13574_2026-11-04-06-45-55-692308_thumb.webp"
+ },
+ {
   "id": "4ea4ec6f8cbb",
   "baslik": "Yerdeki Süper Yıldızlar",
   "tarih": "2026-11-26",

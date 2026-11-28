@@ -1,5 +1,37 @@
 [
  {
+  "id": "6af1f1a0e6d1",
+  "baslik": "Milli Mucadele Yillarinda Dogu Anadolu",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Siirt Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Genel",
+  "kaynak_ad": "Siirt Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.siirt.edu.tr/etkinliktakvimi.html",
+  "gorsel": "https://www.siirt.edu.tr/foto/etkinlik/milli-mucadele-yillarinda-dogu-anadolu2026112714657245.jpg"
+ },
+ {
+  "id": "0a7b11f174d3",
+  "baslik": "Cografya Niye Kader Olmaz",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": null,
+  "ilce": "Merkez",
+  "mekan": "Siirt Üniversitesi",
+  "kategori": "Diğer",
+  "ucretsiz": true,
+  "ozet": "Genel",
+  "kaynak_ad": "Siirt Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.siirt.edu.tr/etkinliktakvimi.html",
+  "gorsel": "https://www.siirt.edu.tr/foto/etkinlik/cografya-niye-kader-olmaz20261127141721651.jpg"
+ },
+ {
   "id": "e437ee41dc40",
   "baslik": "Iktisadi Arastirmalarda Panel Veri Analizi Stata Ile Uygulamali Egitim",
   "tarih": "2026-11-24",

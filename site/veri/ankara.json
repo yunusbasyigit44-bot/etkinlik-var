@@ -1,6 +1,6 @@
 {
  "il": "ankara",
- "guncelleme": "2026-11-27T14:47+03:00",
+ "guncelleme": "2026-11-28T14:21+03:00",
  "ilceler": [
   "Akyurt",
   "Altındağ",
@@ -29,150 +29,6 @@
   "Yenimahalle"
  ],
  "etkinlikler": [
-  {
-   "id": "41d1dcded6d4",
-   "baslik": "Gişe",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "18:30",
-   "ilce": "Çankaya",
-   "mekan": "Oda Tiyatrosu",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/gise",
-   "gorsel": "veri/gorsel/dt-gise.jpg"
-  },
-  {
-   "id": "a6ff32d5e8a1",
-   "baslik": "Sefiller",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Büyük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sefiller",
-   "gorsel": "veri/gorsel/dt-sefiller.jpg"
-  },
-  {
-   "id": "36c872e990f7",
-   "baslik": "Kan Kardeşler",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Cüneyt Gökçer Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kan-kardesler",
-   "gorsel": "veri/gorsel/dt-kan-kardesler.jpg"
-  },
-  {
-   "id": "f58ab3fccbd5",
-   "baslik": "Dosya: Kelebek",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Şinasi Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/dosya-kelebek-2",
-   "gorsel": "veri/gorsel/dt-dosya-kelebek-2.webp"
-  },
-  {
-   "id": "7e91d03cf15f",
-   "baslik": "Komşu Köyün Delisi",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Küçük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/komsu-koyun-delisi",
-   "gorsel": "veri/gorsel/dt-komsu-koyun-delisi.jpg"
-  },
-  {
-   "id": "8dd0ed5c2d78",
-   "baslik": "12 Öfkeli.",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Akün Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/12-ofkeli",
-   "gorsel": "veri/gorsel/dt-12-ofkeli.jpg"
-  },
-  {
-   "id": "be4e55e4fe40",
-   "baslik": "Ağır Roman",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Pursaklar",
-   "mekan": "Pursaklar DT Sahnesi",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/agir-roman",
-   "gorsel": "veri/gorsel/dt-agir-roman.jpg"
-  },
-  {
-   "id": "0f811cbf5525",
-   "baslik": "Frekans",
-   "tarih": "2026-11-28",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Çankaya",
-   "mekan": "Opera Sahnesi",
-   "kategori": "Opera & Bale",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/frekans-ankara-dob",
-   "gorsel": "veri/gorsel/dob-1-3288.webp"
-  },
-  {
-   "id": "06f4d0f55954",
-   "baslik": "Çocuklar için Müzik ve Opera",
-   "tarih": "2026-11-28",
-   "bitis": null,
-   "saat": "13:00",
-   "ilce": "Çankaya",
-   "mekan": "CSO Ada Ankara Mavi Salon",
-   "kategori": "Çocuk",
-   "ucretsiz": false,
-   "ozet": "Devlet Opera ve Balesi",
-   "kaynak_ad": "Devlet Opera ve Balesi",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://biletinial.com/opera-bale/cocuklar-icin-muzik-ve-opera",
-   "gorsel": "veri/gorsel/dob-1-2865.webp"
-  },
   {
    "id": "91008e517394",
    "baslik": "Kan Kardeşler",
@@ -894,22 +750,6 @@
    "gorsel": "veri/gorsel/dob-1-3419.webp"
   },
   {
-   "id": "7370ed9e2cc6",
-   "baslik": "Sefiller",
-   "tarih": "2026-12-04",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Büyük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sefiller",
-   "gorsel": "veri/gorsel/dt-sefiller.jpg"
-  },
-  {
    "id": "9e694b255236",
    "baslik": "Edmond",
    "tarih": "2026-12-04",
@@ -972,6 +812,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kan-kardesler",
    "gorsel": "veri/gorsel/dt-kan-kardesler.jpg"
+  },
+  {
+   "id": "7370ed9e2cc6",
+   "baslik": "Sefiller",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Büyük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sefiller",
+   "gorsel": "veri/gorsel/dt-sefiller.jpg"
   },
   {
    "id": "b65b50e6cd51",
@@ -1054,6 +910,22 @@
    "gorsel": "veri/gorsel/dt-cephede-piknik.jpg"
   },
   {
+   "id": "a404b23d361b",
+   "baslik": "Le Nozze Dı Fıgaro ''Figaro’nun Düğünü''",
+   "tarih": "2026-12-05",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Opera Sahnesi",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://www.operabale.gov.tr/directorates/ankara-opera-ve-balesi-1",
+   "gorsel": "veri/gorsel/dob-1-3373.webp"
+  },
+  {
    "id": "f8e24d81c93d",
    "baslik": "Edmond",
    "tarih": "2026-12-05",
@@ -1132,6 +1004,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sefiller",
    "gorsel": "veri/gorsel/dt-sefiller.jpg"
+  },
+  {
+   "id": "90cd52947081",
+   "baslik": "Le Nozze Dı Fıgaro ''Figaro’nun Düğünü''",
+   "tarih": "2026-12-07",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Opera Sahnesi",
+   "kategori": "Opera & Bale",
+   "ucretsiz": false,
+   "ozet": "Devlet Opera ve Balesi",
+   "kaynak_ad": "Devlet Opera ve Balesi",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://www.operabale.gov.tr/directorates/ankara-opera-ve-balesi-1",
+   "gorsel": "veri/gorsel/dob-1-3373.webp"
   },
   {
    "id": "1085ff7f634a",
@@ -1838,22 +1726,6 @@
    "gorsel": "veri/gorsel/dt-iki-kisilik-hirgur.jpg"
   },
   {
-   "id": "133a50fb6a26",
-   "baslik": "Sefiller",
-   "tarih": "2026-12-15",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Büyük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sefiller",
-   "gorsel": "veri/gorsel/dt-sefiller.jpg"
-  },
-  {
    "id": "191446939cc7",
    "baslik": "Sen de Gitme Triyandafilis",
    "tarih": "2026-12-15",
@@ -1916,6 +1788,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/esaretin-bedeli",
    "gorsel": "veri/gorsel/dt-esaretin-bedeli.jpg"
+  },
+  {
+   "id": "133a50fb6a26",
+   "baslik": "Sefiller",
+   "tarih": "2026-12-15",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Büyük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sefiller",
+   "gorsel": "veri/gorsel/dt-sefiller.jpg"
   },
   {
    "id": "88919182fedc",
@@ -2222,22 +2110,6 @@
    "gorsel": "veri/gorsel/dt-iki-kisilik-hirgur.jpg"
   },
   {
-   "id": "02618ec3980d",
-   "baslik": "Sefiller",
-   "tarih": "2026-12-18",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Büyük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sefiller",
-   "gorsel": "veri/gorsel/dt-sefiller.jpg"
-  },
-  {
    "id": "741bf01277f2",
    "baslik": "Sen de Gitme Triyandafilis",
    "tarih": "2026-12-18",
@@ -2300,6 +2172,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/esaretin-bedeli",
    "gorsel": "veri/gorsel/dt-esaretin-bedeli.jpg"
+  },
+  {
+   "id": "02618ec3980d",
+   "baslik": "Sefiller",
+   "tarih": "2026-12-18",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Büyük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sefiller",
+   "gorsel": "veri/gorsel/dt-sefiller.jpg"
   },
   {
    "id": "dda47d6462d1",
@@ -2542,22 +2430,6 @@
    "gorsel": "veri/gorsel/dt-cephede-piknik.jpg"
   },
   {
-   "id": "d04de9023636",
-   "baslik": "Siyahlı Kadın (Bir Hayalet Oyunu)",
-   "tarih": "2026-12-22",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Büyük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siyahli-kadin-bir-hayalet-oyunu",
-   "gorsel": "veri/gorsel/dt-siyahli-kadin-bir-hayalet-oyunu.jpg"
-  },
-  {
    "id": "a3f968904db1",
    "baslik": "Devlet Ana",
    "tarih": "2026-12-22",
@@ -2604,6 +2476,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kan-kardesler",
    "gorsel": "veri/gorsel/dt-kan-kardesler.jpg"
+  },
+  {
+   "id": "d04de9023636",
+   "baslik": "Siyahlı Kadın (Bir Hayalet Oyunu)",
+   "tarih": "2026-12-22",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Büyük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siyahli-kadin-bir-hayalet-oyunu",
+   "gorsel": "veri/gorsel/dt-siyahli-kadin-bir-hayalet-oyunu.jpg"
   },
   {
    "id": "093ee455d989",
@@ -2910,22 +2798,6 @@
    "gorsel": "veri/gorsel/dt-cephede-piknik.jpg"
   },
   {
-   "id": "a3bbebc9b3e7",
-   "baslik": "Siyahlı Kadın (Bir Hayalet Oyunu)",
-   "tarih": "2026-12-25",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Büyük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siyahli-kadin-bir-hayalet-oyunu",
-   "gorsel": "veri/gorsel/dt-siyahli-kadin-bir-hayalet-oyunu.jpg"
-  },
-  {
    "id": "a83128553c97",
    "baslik": "Devlet Ana",
    "tarih": "2026-12-25",
@@ -2988,6 +2860,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/bu-da-gecer-ya-hu",
    "gorsel": "veri/gorsel/dt-bu-da-gecer-ya-hu.jpg"
+  },
+  {
+   "id": "a3bbebc9b3e7",
+   "baslik": "Siyahlı Kadın (Bir Hayalet Oyunu)",
+   "tarih": "2026-12-25",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Büyük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/siyahli-kadin-bir-hayalet-oyunu",
+   "gorsel": "veri/gorsel/dt-siyahli-kadin-bir-hayalet-oyunu.jpg"
   },
   {
    "id": "9c41ec4d7216",
@@ -3198,22 +3086,6 @@
    "gorsel": "veri/gorsel/dt-gise.jpg"
   },
   {
-   "id": "41577000d12d",
-   "baslik": "Aşık Veysel",
-   "tarih": "2026-12-29",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Çankaya",
-   "mekan": "Büyük Tiyatro",
-   "kategori": "Tiyatro",
-   "ucretsiz": false,
-   "ozet": "Devlet Tiyatroları",
-   "kaynak_ad": "Devlet Tiyatroları",
-   "kaynak_tur": "kultur",
-   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/asik-veysel",
-   "gorsel": "veri/gorsel/dt-asik-veysel.jpg"
-  },
-  {
    "id": "1ead3920c376",
    "baslik": "Kılıçarslan",
    "tarih": "2026-12-29",
@@ -3276,6 +3148,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/iki-efendinin-usagi",
    "gorsel": "veri/gorsel/dt-iki-efendinin-usagi.webp"
+  },
+  {
+   "id": "41577000d12d",
+   "baslik": "Aşık Veysel",
+   "tarih": "2026-12-29",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "Büyük Tiyatro",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/asik-veysel",
+   "gorsel": "veri/gorsel/dt-asik-veysel.jpg"
   },
   {
    "id": "038e17ea99a3",
@@ -3500,6 +3388,22 @@
    "kaynak_tur": "kultur",
    "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/sen-istanbuldan-daha-guzelsin",
    "gorsel": "veri/gorsel/dt-sen-istanbuldan-daha-guzelsin.webp"
+  },
+  {
+   "id": "7d9d702dcdc7",
+   "baslik": "Kuşlar",
+   "tarih": "2027-01-27",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Çankaya",
+   "mekan": "CSO Ada Ankara Ziraat Bankası Ana Salon",
+   "kategori": "Tiyatro",
+   "ucretsiz": false,
+   "ozet": "Devlet Tiyatroları",
+   "kaynak_ad": "Devlet Tiyatroları",
+   "kaynak_tur": "kultur",
+   "kaynak_url": "https://devtiyatro.gov.tr/oyunlar/kuslar",
+   "gorsel": "veri/gorsel/dt-kuslar.jpg"
   }
  ],
  "kaynaklar": [
@@ -3507,7 +3411,7 @@
    "ad": "Devlet Tiyatroları",
    "tur": "kultur",
    "url": "https://devtiyatro.gov.tr",
-   "etkinlik_sayisi": 209,
+   "etkinlik_sayisi": 203,
    "durum": "çalışıyor"
   },
   {

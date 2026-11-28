@@ -1,5 +1,37 @@
 [
  {
+  "id": "7b768f0d0455",
+  "baslik": "Emekli İmam Hasan Şahin’in “Bir İmamın Hatıralarında Yalıçiftlik” Kitabının Tanıtımı ve İmza Günü",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": "10:30",
+  "ilce": "Bodrum",
+  "mekan": "Çiftlik Pazar Yeri",
+  "kategori": "Edebiyat",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bodrum Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2840/Imza_Gunu-Emekli_Imam_Hasan_Sahin%E2%80%99in_%E2%80%9CBir_Imamin_Hatiralarinda_Yaliciftlik%E2%80%9D_Kitabinin_Tanitimi_ve_Imza_Gunu",
+  "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2840_1795594182.9048.jpeg"
+ },
+ {
+  "id": "28c8c6b9035d",
+  "baslik": "Yapay Zeka Çağında Görsel İletişim",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": "14:30",
+  "ilce": "Menteşe",
+  "mekan": "Muğla Sıtkı Koçman Üniversitesi",
+  "kategori": "Bilim & Teknoloji",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Muğla Sıtkı Koçman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/yapay-zeka-caginda-gorsel-iletisim-4741",
+  "gorsel": null
+ },
+ {
   "id": "e4a2b1620a9b",
   "baslik": "5. Geleneksel Satranç Turnuvası",
   "tarih": "2026-11-26",
@@ -702,6 +734,22 @@
   "kaynak_tur": "universite",
   "kaynak_url": "https://www.mu.edu.tr/tr/etkinlik/konaklama-isletmelerinde-turk-kultur-gecelerinin-onemi-ve-rolu-4665",
   "gorsel": null
+ },
+ {
+  "id": "6dbaf62dc677",
+  "baslik": "İbrahim Coşkun Ben Anadolu Resim Sergisi",
+  "tarih": "2026-10-15",
+  "bitis": "2026-11-27",
+  "saat": "18:00",
+  "ilce": "Bodrum",
+  "mekan": "B.B Şevket Sabancı Kültür ve Sanat Merkezi",
+  "kategori": "Sergi",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Bodrum Belediyesi",
+  "kaynak_tur": "belediye",
+  "kaynak_url": "https://www.bodrum.bel.tr/etkinlik.php?id=2799/Sergi-Ibrahim_Coskun_Ben_Anadolu_Resim_Sergisi",
+  "gorsel": "https://www.bodrum.bel.tr/upload/etkinlik/th/2799_1791526243.3312.jpeg"
  },
  {
   "id": "e008aa029058",

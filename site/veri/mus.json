@@ -1,6 +1,6 @@
 {
  "il": "mus",
- "guncelleme": "2026-11-27T15:07+03:00",
+ "guncelleme": "2026-11-28T14:38+03:00",
  "ilceler": [
   "Merkez",
   "Bulanık",
@@ -10,22 +10,6 @@
   "Varto"
  ],
  "etkinlikler": [
-  {
-   "id": "6e1eef8c08eb",
-   "baslik": "Yolumuzu Aydınlatan Yıldızlar ''Halid Bin Velid''",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": null,
-   "ilce": "Merkez",
-   "mekan": "Muş Alparslan Üniversitesi",
-   "kategori": "Diğer",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Muş Alparslan Üniversitesi",
-   "kaynak_tur": "universite",
-   "kaynak_url": "https://www.alparslan.edu.tr/page/event/yolumuzu-aydinlatan-yildizlar-halid-bin-velid-9759",
-   "gorsel": "https://www.alparslan.edu.tr/images/event/1795765033.jpg"
-  },
   {
    "id": "173535118315",
    "baslik": "Anton Çehov'un Bir Evlenme Teklifi Adlı Tiyatro Oyunu Üniversitemizde Sahnede",
@@ -128,8 +112,8 @@
    "ad": "Muş Alparslan Üniversitesi",
    "tur": "universite",
    "url": "https://www.alparslan.edu.tr/tr/page/event",
-   "etkinlik_sayisi": 7,
-   "durum": "çalışıyor"
+   "etkinlik_sayisi": 6,
+   "durum": "geçici sorun: önceki veri gösteriliyor"
   },
   {
    "ad": "Devlet Tiyatroları",

@@ -1,6 +1,6 @@
 {
  "il": "denizli",
- "guncelleme": "2026-11-27T14:51+03:00",
+ "guncelleme": "2026-11-28T14:24+03:00",
  "ilceler": [
   "Pamukkale",
   "Merkezefendi",
@@ -24,22 +24,6 @@
  ],
  "etkinlikler": [
   {
-   "id": "5770769ef7b6",
-   "baslik": "Zamanın Tohumları (+13)",
-   "tarih": "2026-11-27",
-   "bitis": null,
-   "saat": "20:00",
-   "ilce": "Merkezefendi",
-   "mekan": "Merkezefendi Kültür Merkezi",
-   "kategori": "Tiyatro",
-   "ucretsiz": true,
-   "ozet": null,
-   "kaynak_ad": "Merkezefendi Belediyesi Kültür-Sanat",
-   "kaynak_tur": "belediye",
-   "kaynak_url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlik.aspx?etkinlik=MNP7Q-2026-11-25-zamanin-tohumlari-13",
-   "gorsel": "https://www.merkezefendi.bel.tr/kultursanat/Content/yuklemeler/etkinlikler/T311J25-11-2026-0-ZAMANTOHUMSONSONSON.jpg"
-  },
-  {
    "id": "0ec4b2fa2dd1",
    "baslik": "Uygulamalı Bilimler Fakültesinde Kariyer Günü Etkinliği",
    "tarih": "2026-12-02",
@@ -54,6 +38,22 @@
    "kaynak_tur": "universite",
    "kaynak_url": "https://www.pau.edu.tr/pau/tr/etkinlik/fakultemizde-kariyer-gunu-etkinligi",
    "gorsel": "https://bukalemun.pusula.pau.edu.tr/upload/BIYS/siteler/ubf/editor/UBF/2026-2/Kariyer%20G%C3%BCn%C3%BC/Kariyer_Gunu_Afis_Dikey_3_Konusmaci%20(2)_page-0001.jpg"
+  },
+  {
+   "id": "8182150ab474",
+   "baslik": "Zamanın Tohumları (+13)",
+   "tarih": "2026-12-04",
+   "bitis": null,
+   "saat": "20:00",
+   "ilce": "Merkezefendi",
+   "mekan": "Merkezefendi Kültür Merkezi",
+   "kategori": "Tiyatro",
+   "ucretsiz": true,
+   "ozet": null,
+   "kaynak_ad": "Merkezefendi Belediyesi Kültür-Sanat",
+   "kaynak_tur": "belediye",
+   "kaynak_url": "https://www.merkezefendi.bel.tr/kultursanat/etkinlik.aspx?etkinlik=YASIJ-2026-11-27-zamanin-tohumlari-13",
+   "gorsel": "https://www.merkezefendi.bel.tr/kultursanat/Content/yuklemeler/etkinlikler/TK1MD27-11-2026-53-ZAMANTOHUMSONSONSON.jpg"
   }
  ],
  "kaynaklar": [

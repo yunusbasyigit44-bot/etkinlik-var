@@ -1,5 +1,37 @@
 [
  {
+  "id": "a99671dfc00a",
+  "baslik": "Kitap Yardımı",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": "10:00",
+  "ilce": "Merkez",
+  "mekan": "Milli İrade Ortaokulu",
+  "kategori": "Edebiyat",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Adıyaman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/27/kitap-yardimi",
+  "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/27/kitap-yardimi/thumb/whatsapp%20%C4%B1mage%202026-11-26%20at%2018.05.53.jpeg"
+ },
+ {
+  "id": "830e10055fd2",
+  "baslik": "3. Sınıflar Önlük Giyme Töreni",
+  "tarih": "2026-11-27",
+  "bitis": null,
+  "saat": "15:00",
+  "ilce": "Merkez",
+  "mekan": "Mustafa V. Koç Konferans Salonu",
+  "kategori": "Anma / Tören",
+  "ucretsiz": true,
+  "ozet": null,
+  "kaynak_ad": "Adıyaman Üniversitesi",
+  "kaynak_tur": "universite",
+  "kaynak_url": "https://adiyaman.edu.tr/tr/etkinlikler/2026/11/27/3-siniflar-onluk-giyme-toreni",
+  "gorsel": "https://static.adiyaman.edu.tr/files/1/tr/etkinlikler/2026/11/27/3-siniflar-onluk-giyme-toreni/thumb/%C3%B6nl%C3%BCk%20giyme.jpg"
+ },
+ {
   "id": "65d9f6bc8340",
   "baslik": "Profesyonelotel Yöneticileri Geleceğin Şeflerinden Neler Bekliyor?",
   "tarih": "2026-11-25",
